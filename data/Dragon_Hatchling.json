@@ -1,0 +1,73 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "It is usually found together with a dragon, so be careful if you meet one, as a dragon may be near!",
+    "walksthrough": "Fire",
+    "hp": "380",
+    "abilities": "{{Ability List|{{Melee|0-55}}|{{Ability|Fire Wave|60-90|fire}}|{{Ability|Fire Ball|30-55|fire}}|{{Healing}}}}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "holyDmgMod": "100%",
+    "maxdmg": "{{Max Damage|physical=55|fire=145}}",
+    "pushable": "No",
+    "implemented": "8.10",
+    "loot": [
+        {
+            "amount": "0-55",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Dragon Ham",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Dragon's Tail",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Health Potion",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Energy, Poison",
+    "exp": "185",
+    "mitigation": "0.78",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "dragon hatchling",
+    "illusionable": "yes",
+    "armor": "15",
+    "convince": "--",
+    "name": "Dragon Hatchling",
+    "isboss": "no",
+    "iceDmgMod": "110%",
+    "energyDmgMod": "105%",
+    "deathDmgMod": "100%",
+    "plural": "dragon hatchlings",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "Even though it might appear small and cute, one should always keep in mind that also the youngest dragon is a fierce beast. The sharp teeth and the instinct of a born predator paired with an ever ravenous appetite make the little Dragon Hatchlings not only a threat for other races but also for their brood mates. Only the most vicious of the numerous Dragon Hatchlings reach adulthood. In their tireless pursuit for food, they know no fear nor restraint. Adventurers visiting a dragons lair are often faced by a whole pack of Dragon Hatchlings, swarming over him like famished locusts. To make matters worse, Dragon Hatchlings are hardly encountered without their parents being close. Lured by the cry of their brood, the enraged parents tend to enter the battlefield in the worst moment. Furious about the threat posed to their offspring, the elder dragons become even more formidable opponents. Of course, also the Dragon Hatchlings do not cease their own attacks as they hope to get to taste some delicious adventurer.",
+    "speed": "73",
+    "pushobjects": "Yes",
+    "fireDmgMod": "0%",
+    "sounds": [
+        "Fchu?",
+        "Rooawwrr"
+    ],
+    "runsat": "20<!-- ? -->",
+    "bestiaryclass": "Dragon",
+    "creatureclass": "Reptiles",
+    "earthDmgMod": "25%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Dragons",
+    "race_id": "385",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "dragonhatchling",
+    "behaviour": "Same behavior of an adult [[Dragon]].",
+    "location": "[[Thais Dragon Lair]], beneath [[Fenrock]], [[Darashia Dragon Lair]], [[Venore Dragon Lair]], [[Edron Dragon Lair]],  [[Dragonblaze Peaks]], [[Krailos Steppe]]. Also summoned by [[Lizard Dragon Priest]]s.",
+    "strategy": "Generally easy kill, but can easily get in your way when trying to get to the mother, just stay away from the flame wave and its melee if you not a knight. Have mana or health potions ready if needed. Also try not to anger the mother."
+}

@@ -1,0 +1,90 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "They are usually found in large groups with [[Kongra]] and [[Merlkin]].\n{{JSpoiler|You may hunt 300 [[Kongra]], Sibang, [[Merlkin]] combined, as a task of the [[Killing in the Name of... Quest]].}}",
+    "walksthrough": "None",
+    "hp": "225",
+    "abilities": "{{Ability List\n |{{Melee|0-43}}\n |{{Ability|Throws small stones|35-55|physical|scene={{Scene|spell=7sqmstrike|caster=sibang|missile=Small Stone Missile|missile_direction=south-east|missile_distance=7/7}}}}\n |{{Haste|[[Strong Haste]]|scene={{Scene|spell=buffspell|effect=Red Sparkles Effect|caster=sibang|effect_on_caster=yes}}}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "holyDmgMod": "90%",
+    "maxdmg": "{{Max Damage|physical=95}}",
+    "pushable": "no",
+    "usedelements": "Physical",
+    "implemented": "7.5",
+    "loot": [
+        {
+            "amount": "0-35",
+            "itemName": "Gold Coin"
+        },
+        {
+            "amount": "0-12",
+            "itemName": "Banana"
+        },
+        {
+            "amount": "0-5",
+            "itemName": "Orange"
+        },
+        {
+            "amount": "0-3",
+            "itemName": "Small Stone"
+        },
+        {
+            "itemName": "Banana Sash",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Ape Fur",
+            "rarity": "rare"
+        },
+        {
+            "amount": "0-3",
+            "itemName": "Coconut",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Melon",
+            "rarity": "rare"
+        }
+    ],
+    "walksaround": "Fire, Energy, Poison",
+    "exp": "105",
+    "mitigation": "0.83",
+    "attacktype": "Distance",
+    "article": "a",
+    "actualname": "sibang",
+    "illusionable": "yes",
+    "armor": "15",
+    "convince": "--",
+    "name": "Sibang",
+    "isboss": "no",
+    "iceDmgMod": "115%",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "105%",
+    "plural": "sibangs",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "The Sibang seems playful and harmless but this impression is misleading. They use their incredible agility to attack enemies from a safe distance and to swiftly evade counter-attacks. Their hit-and-run tactic proves especially effective in the familiar territory of the jungle. Attacking suddenly from the cover of trees, they throw volleys of different projectiles and then retreat to safety to prepare for their next attack. Ever curious and adventurous, they are the apes that are most often away from their homes. Sometimes they serve as scouts and spies to prepare a bigger assault. Using trees like humans are using roads, it is nearly impossible to catch them.",
+    "speed": "107",
+    "pushobjects": "?",
+    "fireDmgMod": "75%",
+    "sounds": [
+        "Eeeeek! Eeeeek!",
+        "Huh! Huh! Huh!",
+        "Ahhuuaaa!"
+    ],
+    "bestiaryclass": "Mammal",
+    "creatureclass": "Mammals",
+    "earthDmgMod": "100%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Apes",
+    "race_id": "118",
+    "bestiarylevel": "Easy",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "sibang",
+    "behaviour": "They are very fast and throw stones. They do not run in low health and fight at distance. Their distance attacks have a long range and can reach you from off-screen. They can [[Retarget]].",
+    "location": "In [[Banuta]], north-east of [[Port Hope]].",
+    "strategy": "'''[[Knight]]s''' should be very careful around these. They run quickly, and if you chase them you will risk being swarmed with more [[apes]]. If you are not quick enough to catch them on open ground, using buildings to get them to come to you is a good idea.<br>'''[[Paladin]]s''' It's a good idea to hunt them with [[Enchanted Spear]]s since its range is long enough to kill a sibang without you needing to chase it - [[Royal Spear]]s do not have a large enough range to hit without chasing. Using a shield is highly recommended in either case due to the presence of [[Kongra]]s nearby.<br>'''[[Druid]]s and [[Sorcerer]]s''' should use [[Ice Strike]] and [[Wand of Decay]]/[[Necrotic Rod]] or [[Hailstorm Rod]]. [[Ice Wave]] can also be effective as sibangs are within its range. Chasing not recommended as you risk being swarmed by more [[apes]]. They can move items that are in their way. Take advantage of the buildings in [[Banuta]], and try to trap them in corners."
+}

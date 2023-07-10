@@ -1,0 +1,178 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "walksthrough": "Energy, Poison, Fire",
+    "hp": "?",
+    "abilities": "{{Ability List| {{Melee|?}} }}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "yes",
+    "fireDmgMod": "0%",
+    "holyDmgMod": "100%",
+    "sounds": [
+        "You will regret this!",
+        "Now you have to die!"
+    ],
+    "pushable": "?",
+    "cooldown": "20",
+    "implemented": "12.20.8834",
+    "loot": [
+        {
+            "amount": "5",
+            "itemName": "Platinum Coin"
+        },
+        {
+            "itemName": "Energy Bar"
+        },
+        {
+            "amount": "6-20",
+            "itemName": "Supreme Health Potion"
+        },
+        {
+            "amount": "6-20",
+            "itemName": "Ultimate Mana Potion"
+        },
+        {
+            "itemName": "Yellow Gem"
+        },
+        {
+            "amount": "6",
+            "itemName": "Ultimate Spirit Potion"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Red Gem"
+        },
+        {
+            "amount": "100",
+            "itemName": "Flash Arrow"
+        },
+        {
+            "amount": "100",
+            "itemName": "Royal Star"
+        },
+        {
+            "itemName": "Lightning Pendant"
+        },
+        {
+            "itemName": "Green Gem"
+        },
+        {
+            "amount": "10",
+            "itemName": "Bullseye Potion"
+        },
+        {
+            "amount": "10",
+            "itemName": "Berserk Potion"
+        },
+        {
+            "itemName": "Magma Coat"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Blue Gem"
+        },
+        {
+            "amount": "3",
+            "itemName": "Crystal Coin"
+        },
+        {
+            "itemName": "Giant Shimmering Pearl"
+        },
+        {
+            "itemName": "Magma Amulet"
+        },
+        {
+            "amount": "10",
+            "itemName": "Mastermind Potion"
+        },
+        {
+            "itemName": "Enchanted Theurgic Amulet"
+        },
+        {
+            "itemName": "Giant Sapphire"
+        },
+        {
+            "itemName": "Gold Ingot"
+        },
+        {
+            "amount": "3",
+            "itemName": "Silver Token"
+        },
+        {
+            "itemName": "Violet Gem"
+        },
+        {
+            "itemName": "Giant Emerald"
+        },
+        {
+            "itemName": "Giant Ruby"
+        },
+        {
+            "itemName": "Magma Monocle"
+        },
+        {
+            "itemName": "Ring of Secret Thoughts"
+        },
+        {
+            "itemName": "Urmahlullu's Mane"
+        },
+        {
+            "itemName": "Urmahlullu's Paw"
+        },
+        {
+            "itemName": "Urmahlullu's Tail"
+        },
+        {
+            "itemName": "Tagralt Blade"
+        },
+        {
+            "itemName": "Rainbow Necklace"
+        },
+        {
+            "itemName": "Winged Boots"
+        },
+        {
+            "itemName": "Blue and Golden Cordon"
+        },
+        {
+            "itemName": "Golden Bijou"
+        },
+        {
+            "itemName": "Sun Medal"
+        },
+        {
+            "itemName": "Winged Backpack"
+        },
+        {
+            "itemName": "Lightning Legs"
+        },
+        {
+            "itemName": "Enchanted Blister Ring"
+        },
+        {
+            "itemName": "Sunray Emblem"
+        }
+    ],
+    "walksaround": "None",
+    "exp": "?",
+    "creatureclass": "Misc",
+    "earthDmgMod": "100%",
+    "physicalDmgMod": "100%?",
+    "bosstiaryclass": "Archfoe",
+    "primarytype": "Anuma",
+    "race_id": "1811",
+    "senseinvis": "yes",
+    "actualname": "Urmahlullu the Weakened",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Urmahlullu the Weakened",
+    "isboss": "yes",
+    "iceDmgMod": "100%?",
+    "strategy": "Just trap it and kill it.{{JSpoiler|Part of the [[Kilmaresh Quest]].}}",
+    "energyDmgMod": "90%",
+    "deathDmgMod": "100%?"
+}

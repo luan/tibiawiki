@@ -1,0 +1,89 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "Evil Prospectors will only spawn in [[Barren Drift]] after an unknown (but low) amount of [[Luminescent Crystal]]s is mined. When this happens they will spawn all around the cave as a raid. After being killed, they do not seem to respawn unless a new raid is triggered by mining more crystals.",
+    "walksthrough": "?",
+    "hp": "8500",
+    "abilities": "{{Ability List| {{Melee|?}}|{{Ability|[[Life Drain]] on target|400-500|element=lifedrain}}|{{Ability|[[Energy Damage|Thunderstorm]] on itself|455+|element=energy}}|{{Ability|[[Holy Missile]] on target|400-500|element=holy}}|{{Ability|Reflects [[Fire Damage|Fire]],[[Energy Damage|Energy]] and [[Earth Damage]]|element=?}} }}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "holyDmgMod": "65%",
+    "maxdmg": "?",
+    "pushable": "no",
+    "implemented": "12.30.9287",
+    "loot": [
+        {
+            "amount": "1-5",
+            "itemName": "Platinum Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Wand of Starstorm",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Spectral Silver Nugget",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Lightning Pendant",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Lightning Headband",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Emerald Bangle",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Strange Talisman",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Wand of Defiance",
+            "rarity": "semi-rare"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "9000",
+    "mitigation": "2.81",
+    "attacktype": "Distance",
+    "article": "an",
+    "actualname": "evil prospector",
+    "illusionable": "no",
+    "armor": "100",
+    "convince": "--",
+    "name": "Evil Prospector",
+    "isboss": "no",
+    "iceDmgMod": "100%",
+    "energyDmgMod": "70%",
+    "deathDmgMod": "110%",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "Ghost-like remnants of individuals full of greed and evil to the core. Many of them foremen and overseers in life, they still come to check on their spectral workforce from time to time and help out lesser ghosts with their aggressive charges and furious attacks.",
+    "speed": "220",
+    "pushobjects": "yes",
+    "fireDmgMod": "100%",
+    "sounds": [
+        ""
+    ],
+    "runsat": "0",
+    "bestiaryclass": "Undead",
+    "creatureclass": "The Undead",
+    "earthDmgMod": "100%",
+    "physicalDmgMod": "35%",
+    "primarytype": "Ghosts",
+    "spawntype": [
+        "Regular"
+    ],
+    "race_id": "1885",
+    "bestiarylevel": "Hard",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "evilprospector",
+    "behaviour": "Unknown.",
+    "location": "[[Barren Drift]]"
+}

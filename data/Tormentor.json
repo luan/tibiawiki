@@ -1,0 +1,93 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "0%",
+    "notes": "He's the [[Nightmare]]'s boss and part of the [[Killing in the Name of... Quest]]. In order to access the boss room you will need [[The Ice Islands Quest]] completed until mission 9 (\"Formorgar Mines 1\").",
+    "walksthrough": "?",
+    "hp": "4100",
+    "speed": "?",
+    "abilities": "{{Ability List| {{Melee|0-150}}|{{Ability|Death Strike|130-170|element=death}}|{{Ability|Poison Ball|250-400|element=poison}}|{{Healing|range=60-100}}|{{Haste}} }}",
+    "pushobjects": "Yes",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "secondarytype": "Ungulates",
+    "fireDmgMod": "80%",
+    "holyDmgMod": "100%",
+    "sounds": [
+        "Take a ride with me.",
+        "Pffffrrrrrrrrrrrr.",
+        "Close your eyes... I have something for you.",
+        "I will make you scream."
+    ],
+    "maxdmg": "700",
+    "pushable": "No",
+    "implemented": "9.50",
+    "loot": [
+        {
+            "amount": "0-5",
+            "itemName": "Flask of Demonic Blood"
+        },
+        {
+            "itemName": "Death Ring"
+        },
+        {
+            "itemName": "Demonic Essence"
+        },
+        {
+            "itemName": "Essence of a Bad Dream"
+        },
+        {
+            "itemName": "Ham"
+        },
+        {
+            "itemName": "Knight Legs"
+        },
+        {
+            "itemName": "War Axe"
+        },
+        {
+            "itemName": "Skeleton Decoration"
+        },
+        {
+            "itemName": "Mysterious Voodoo Skull"
+        },
+        {
+            "amount": "0-10",
+            "itemName": "Platinum Coin"
+        },
+        {
+            "itemName": "Scythe Leg"
+        },
+        {
+            "itemName": "Boots of Haste"
+        },
+        {
+            "itemName": "Nightmare Blade"
+        }
+    ],
+    "walksaround": "Fire, Energy",
+    "exp": "3200",
+    "creatureclass": "Demons",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Dreamhaunters",
+    "spawntype": [
+        "Unique",
+        "Triggered",
+        "Unblockable"
+    ],
+    "race_id": "845",
+    "senseinvis": "yes",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%",
+    "convince": "--",
+    "name": "Tormentor",
+    "isboss": "yes",
+    "behaviour": "Runs away in deep red, often using [[haste]] then.",
+    "location": "[[Formorgar Mines]], after teleport {{Mapper Coords|125.72|122.49|10|2|text=here}}.",
+    "iceDmgMod": "90%",
+    "strategy": "Treat it as a stronger [[Nightmare]].",
+    "energyDmgMod": "80%",
+    "deathDmgMod": "0%"
+}

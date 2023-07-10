@@ -1,0 +1,53 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "Arkhothep",
+    "hpDrainDmgMod": "0%?",
+    "notes": "Arkhothep is the dark [[pharaohs|pharaoh]] that rules the undead city of [[Ankrahmun]]. The pharaoh is both the high priest and the primary deity of an obscure cult that celebrates the [[undead]] as the key to immortality. The pharaoh has filled the basement of his own palace with [[skeleton]]s and other [[undead]] [[creature]]s, so that those who are still mortal can see the glory of being undead for themselves. He was summoned on the Winter Test Server of 2006 by [[Knightmare]] as well as the Summer Test Servers of 2010 and 2012.\n<gallery caption=\"\" captionalign=\"center\" style=\"text-align:center\" position=\"center\" hideaddbutton=\"true\" mode=\"nolines\">\nArkhothep (Creature) 2006.jpg|Arkhothep and his summoner, [[Knightmare]], as seen in 2006.\n</gallery>",
+    "walksthrough": "Fire, Energy, Poison",
+    "hp": "?",
+    "speed": "?",
+    "abilities": "{{Ability List\n |{{Melee|0-2000+?}}\n |{{Summon|Ancient Scarab|6}}\n |{{Ability|Manadrain UE|0-5000+|manadrain}}\n |{{Ability|[[Energy Wave]]|200-1505+|energy}}\n |{{Ability|a kind of invisible beam|0-1700+|element=?}}\n |{{Ability|Energy shot|0-1275?|element=Physical}}\n |{{Ability|Poison hit|200?-1200?|earth}}\n |{{Ability|[[Paralyze|Paralyze UE]]|element=paralyze}}\n |{{Ability|[[Death|Curse UE]]|element=?}}\n |{{Ability|Poisons you|starts with 400 per turn|element=poisoned}}\n |{{Healing|Very strong [[Self-Healing]]}}\n}}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "90%",
+    "holyDmgMod": "105%",
+    "sounds": [
+        "I will free you from your shackles of flesh.",
+        "No one will stop my ascension.",
+        "Bow before my power.",
+        "Praise me for bringing your death."
+    ],
+    "maxdmg": "5000+",
+    "pushable": "?",
+    "implemented": "--",
+    "loot": [
+        {
+            "amount": "0-98",
+            "itemName": "Gold Coin"
+        }
+    ],
+    "walksaround": "None.",
+    "exp": "?",
+    "creatureclass": "The Undead",
+    "earthDmgMod": "90%",
+    "physicalDmgMod": "90%",
+    "primarytype": "Pharaohs",
+    "race_id": "311",
+    "senseinvis": "?",
+    "actualname": "Arkhothep",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Arkhothep (Creature)",
+    "isboss": "yes",
+    "behaviour": "Malicious, will make all efforts to destroy intruders.",
+    "location": "[[Ankrahmun]].",
+    "iceDmgMod": "90%",
+    "strategy": "None.",
+    "energyDmgMod": "90%",
+    "deathDmgMod": "0%?",
+    "status": "TS-only"
+}

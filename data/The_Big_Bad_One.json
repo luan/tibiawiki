@@ -1,0 +1,61 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "New creature in [[Updates/8.2|Summer Update 2008]].\n<gallery widths=\"120\" heights=\"120\" mode=\"nolines\">\nFile:UO0066.jpg|{{character|Merheti}} and The Big Bad One\nFile:UO0046.jpg|{{character|Czlowiek Pajak}} and The Big Bad One\nFile:ToranBBO.png‎|{{character|Toran Galix}} and The Big Bad One\nThe big bad one jpg.jpg|{{character|Zimbala}} and the big bad one\n</gallery>",
+    "isarenaboss": "no",
+    "walksthrough": "?",
+    "hp": "300",
+    "speed": "?",
+    "abilities": "{{Ability List| {{Melee|0-100?}}|{{Summon|Wolf|2}}|{{Healing|range=1-15?}} }}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "100%?",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "0-100?",
+    "pushable": "?",
+    "implemented": "8.20",
+    "loot": [
+        {
+            "amount": "0-2",
+            "itemName": "Wolf Paw"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "Ham"
+        },
+        {
+            "amount": "0-4",
+            "itemName": "Meat"
+        },
+        {
+            "itemName": "Wolf Trophy"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "170",
+    "creatureclass": "Mammals",
+    "earthDmgMod": "60%?",
+    "physicalDmgMod": "100%?",
+    "bosstiaryclass": "Nemesis",
+    "primarytype": "Canines",
+    "race_id": "423",
+    "senseinvis": "yes",
+    "actualname": "The Big Bad One",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "The Big Bad One",
+    "isboss": "yes",
+    "behaviour": "Unknown.",
+    "location": "[[Edron]], spawns somewhere around {{Mapper Coords|129.145|123.194|7|3|text=here}} with 0-2 [[War Wolf|War Wolves]].",
+    "iceDmgMod": "100%?",
+    "strategy": "Just kill it like a [[War Wolf]].",
+    "energyDmgMod": "100%?",
+    "deathDmgMod": "100%?"
+}

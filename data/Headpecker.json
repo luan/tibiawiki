@@ -1,0 +1,99 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "headpeckers",
+    "hpDrainDmgMod": "100%?",
+    "hp": "16300",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "While the Headpecker can survive all over Gnomprona, they seem to shun areas that are susceptible to the relatively common foul smelling sulphur clouds that are common in certain areas of the island. Their preferred habitats are located at places where the relatively constant wind drifts keep most of the sulphur away. As many other predators seem keen on feasting on Headpecker eggs, their nests are well hidden and fiercely protected. Such protection is not limited to the parent creatures but all Headpeckers. It has to be assumed that the birds can somehow sense nearby nests, even of foreign Headpeckers and instinctively act accordingly. The creature is classified as the prime example how gnompronean creatures adapted to the environment over time. By many it is seen as the source of such theories. In fact fossils of the Headpecker and its ancestors were the major starting point for the first serious investigations and excavations to begin with. Through skeleton findings and excavations it could be traced how a relatively harmless, yet enormous bird evolved to such a threatening predator. The bird-creature not only developed a quite lethal weapon in his hardened and pointy beak, it also learned instinctively to use it with utmost precision to aim at the weakest spots of an opponent. This mode of attack is seemingly aided by some strange sense to spot said areas. It's not clear if it is some enhanced form of an ordinary sense or an additional sensorial tool at their disposal. Its agility, ferocity and battle skills made the Headpecker a way more dangerous opponent then you'd expect from a mere too huge for its own good bird. The Headpecker also seem to still have taken the niche that is usually occupied by other birds and smaller mammals in other environments. Some of the aforementioned fossils strongly suggest that the Headpecker evolved from a way smaller, airborne ancestor that once roamed the skies, probably long before the rise of other flying and more successful competitors for that niche. There is a string of skeletons and bones from different centuries with whose help the development can be traced with amazing precision. The ancestor birds were not only smaller, but had way bigger wings, more fragile, hollow bones and a smaller, yet even more pointed beak. As one of the prime examples of a creature that over time developed to switch its habitat for survival it holds an important spot in scientific theories and paved the way of further archaeological excursions and theories.",
+    "speed": "217",
+    "abilities": "{{Ability List}}",
+    "pushobjects": "yes",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "fireDmgMod": "110%",
+    "holyDmgMod": "0%",
+    "sounds": [
+        ""
+    ],
+    "pushable": "no",
+    "implemented": "12.90.12182",
+    "bestiaryclass": "Bird",
+    "loot": [
+        {
+            "itemName": "Crystal Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Furry Club",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Headpecker Beak",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-5",
+            "itemName": "Headpecker Feather",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Blue Gem",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Spike Sword",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "War Hammer",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Knife",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Carrot",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Titan Axe",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Wand of Starstorm",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Gold Ingot",
+            "rarity": "rare"
+        }
+    ],
+    "exp": "12026",
+    "creatureclass": "Misc",
+    "earthDmgMod": "90%",
+    "mitigation": "2.05",
+    "physicalDmgMod": "110%",
+    "primarytype": "Birds",
+    "attacktype": "Melee",
+    "race_id": "2275",
+    "bestiarylevel": "Challenging",
+    "history": "Its experience was decreased from 13,950 to 12,026 on {{OfficialNewsArchive|6875|July 28, 2022}}.",
+    "senseinvis": "yes",
+    "article": "a",
+    "actualname": "headpecker",
+    "illusionable": "no",
+    "armor": "68",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "bestiaryname": "headpecker",
+    "name": "Headpecker",
+    "isboss": "no",
+    "behaviour": "Headpeckers retarget very often, usually to the player with the lowest current health in range.",
+    "location": "[[Crystal Enigma]]",
+    "iceDmgMod": "110%",
+    "energyDmgMod": "90%",
+    "deathDmgMod": "110%"
+}

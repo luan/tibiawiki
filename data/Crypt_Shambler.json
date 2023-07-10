@@ -1,0 +1,107 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "Very slow, similar to [[Demon Skeleton]]s, but weaker. [[Elder Bonelord]]s and [[Enlightened of the Cult]] summon these.",
+    "walksthrough": "Poison",
+    "hp": "330",
+    "abilities": "{{Ability List|{{Melee|0-140}}|{{Ability|[[Life Drain]]|28-55|lifedrain}}}}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "holyDmgMod": "125%",
+    "maxdmg": "{{Max Damage|physical=140|lifedrain=55}}",
+    "pushable": "?",
+    "implemented": "7.4",
+    "loot": [
+        {
+            "amount": "0-55",
+            "itemName": "Gold Coin"
+        },
+        {
+            "amount": "0-10",
+            "itemName": "Worm",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Half-Digested Piece of Meat",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Bone",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Iron Helmet",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Two Handed Sword",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Rotten Meat",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Bone Sword",
+            "rarity": "rare"
+        },
+        {
+            "amount": "0-3",
+            "itemName": "Throwing Star",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Bone Shield",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Small Diamond",
+            "rarity": "rare"
+        }
+    ],
+    "walksaround": "Fire, Energy",
+    "exp": "195",
+    "mitigation": "0.64",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "crypt shambler",
+    "illusionable": "yes",
+    "armor": "30",
+    "convince": "580",
+    "name": "Crypt Shambler",
+    "isboss": "no",
+    "iceDmgMod": "100%",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "0%",
+    "plural": "crypt shamblers",
+    "hpDrainDmgMod": "0%",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "For a long time it was believed that the Crypt Shambler was a mere myth, and even though today most scholars agree that this undead abomination exists, little else is known about it. A common theory holds that Crypt Shamblers are created from the bodies of lesser necromancers and death cultists who were turned into undead creatures while they were still alive! Although this theory remains unconfirmed, it would help to explain the burning rage that seems to be a common trait of all Crypt Shamblers. Whatever the truth, Crypt Shamblers are dangerous undead that far exceed many other undead in power and ferocity.",
+    "speed": "70",
+    "pushobjects": "?",
+    "fireDmgMod": "100%",
+    "sounds": [
+        "Aaaaahhhh!",
+        "Hoooohhh!",
+        "Uhhhhhhh!",
+        "Chhhhhhh!"
+    ],
+    "bestiaryclass": "Undead",
+    "creatureclass": "The Undead",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Undead Humanoids",
+    "spawntype": [
+        "Regular",
+        "Unblockable"
+    ],
+    "race_id": "100",
+    "bestiarylevel": "Easy",
+    "senseinvis": "no",
+    "drownDmgMod": "0%",
+    "bestiaryname": "cryptshambler",
+    "behaviour": "It will fight until death.",
+    "location": "[[Ankrahmun Tombs]], [[Trapwood]], [[Ramoa]], [[Hellgate]], [[Helheim]], [[Mount Sternum Undead Cave]], [[Deeper Catacombs]], [[Cemetery Quarter]], [[Treasure Island]], [[Upper Spike]], [[Lion's Rock]].",
+    "strategy": "'''[[Knight]]s''': Should have decent skills (at least 55/55) with good equipment and at least level 25 to successfully hunt these. They can do alot of damage so be sure to have [[Health Potion]]s with you.<br />\n\n'''[[Paladin]]s''': Run while attacking them with any distance attack. Beware not to come too close to these since they can do a high damage in close combat. Experienced paladins are advised to kill them using [[Divine Missile]]s or [[Divine Caldera]] in the case they come in group. Since they are usually found with [[Mummy|Mummies]], [[Bonelord]]s and other [[Undead]], it is recommended to take priority on the Crypt Shamblers since they are strong when in close combat. A good place to hunt these is in [[Yalahar]], [[Cemetery Quarter]].<br />\n\n'''[[Mage]]s''': Should keep distance from them while attacking with their [[wand]]/[[rod]] and shooting [[Fire Damage|fire]], [[Energy Damage|energy]] or [[Ice Damage]] [[rune]]s or spells. Don't let them come too close because their attacks can kill a [[mage]] easily. Can start hunting these as low as [[level]] 15, but are commonly found with [[Mummy|mummies]] (or other [[undead]]) so take care when doing so."
+}

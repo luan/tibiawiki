@@ -1,0 +1,110 @@
+{
+    "summon": "450",
+    "templateType": "Creature",
+    "notes": "This kind of [[Undead]] is found usually in groups and can be dangerous for unexperienced players. Only fight them while wearing good equipment or keeping them at distance, otherwise their melee combined with life drain can do a lot of damage. When summoned, ghouls make good hunting partners because they can heal themselves, a trait that makes them good for training on as well. They are fairly slow so mages and paladins should be able to run and attack. They are commonly used as a summon for [[knight]]s in [[training]], but not so much for [[paladin]]s due to the higher chance of killing them. A level 91 knight and a level 36 paladin can convince these to train. Unlike most of their undead counterparts, Ghouls leave bloodstains when damaged.",
+    "walksthrough": "None",
+    "hp": "100",
+    "abilities": "{{Ability List\n |{{Melee|0-70}}\n |{{Ability|Life Drain|15-27|lifedrain\n  |scene={{Scene|spell=1sqmstrike|caster=ghoul|missile=Death Missile|missile_direction=south-east|missile_distance=1/1|effect=Red Sparkles Effect}}}}\n |{{Healing|range=9-15\n  |scene={{Scene|spell=buffspell|effect=Blue Sparkles Effect|caster=ghoul|effect_on_caster=yes}}}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "holyDmgMod": "125%",
+    "maxdmg": "{{Max Damage|physical=70|lifedrain=27}}",
+    "pushable": "No",
+    "implemented": "4.0",
+    "loot": [
+        {
+            "amount": "1-30",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Rotten Piece of Cloth",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Worm",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Ghoul Snack",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Torch",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Heavy Old Tome",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Brown Piece of Cloth",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Pile of Grave Earth",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Scale Armor",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Viking Helmet",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Life Ring",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Skull (Item)",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Fire, Energy, Poison",
+    "exp": "85",
+    "mitigation": "0.43",
+    "attacktype": "Melee",
+    "history": "With the [[Updates/8.54|Christmas Update 2009]] Ghouls stopped dropping [[Brass Helmet]]s (worth 30 [[gp]] ~19% loot chance) but drop [[Rotten Piece of Cloth|Rotten Pieces of Cloth]] now (worth 30 [[gp]] ~20% loot chance).",
+    "article": "a",
+    "actualname": "ghoul",
+    "illusionable": "yes",
+    "armor": "8",
+    "convince": "450",
+    "name": "Ghoul",
+    "isboss": "no",
+    "iceDmgMod": "90%",
+    "energyDmgMod": "70%",
+    "deathDmgMod": "0%",
+    "plural": "ghouls",
+    "hpDrainDmgMod": "0%",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "Ghouls are undead monsters that live in the holes and dungeons of Tibia. They are quite strong and extremely dangerous if they crop up in packs. Hiding in the darkness, they wait for incautious adventurers. They can heal themselves and suck life energy out of their opponents.",
+    "speed": "72",
+    "pushobjects": "Yes",
+    "fireDmgMod": "100%",
+    "sounds": [
+        ""
+    ],
+    "runsat": "0",
+    "bestiaryclass": "Undead",
+    "creatureclass": "The Undead",
+    "earthDmgMod": "80%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Undead Humanoids",
+    "spawntype": [
+        "Regular",
+        "Raid",
+        "Unblockable"
+    ],
+    "race_id": "18",
+    "bestiarylevel": "Easy",
+    "senseinvis": "yes",
+    "drownDmgMod": "0%",
+    "bestiaryname": "ghoul",
+    "location": "[[Ancient Temple]] in the [[Skeleton]] area, way to [[Mintwallin]], [[Kingdom of Kormarak Respawn|Old Mintwallin Quest]], [[Alatar Lake]], [[Magician Tower]], [[Mount Sternum Undead Cave]], [[Ghostlands]], [[Hellgate]], [[Maze of Lost Souls]], below Point of No Return in [[Outlaw Camp]], [[Plains of Havoc]] in [[Necromant House]], [[Drefia]] and [[Drefia]]'s underground caves, [[Edron]] [[ghoul hill]], [[Amazon Camp (Venore)|Venore Amazon Camp]] underground, [[Venore]] Swamp Troll cave, [[Ghostship]] between [[Venore]] and [[Darashia]], [[Triangle Tower]], [[Dark Cathedral]], [[Ankrahmun]] tombs, [[Isle of the Kings]], [[Treasure Island]], [[Nargor Undead Cave]], [[Helheim]], [[Lion's Rock]], [[The Witches' Cliff]] (only accessible during a [[The Inquisition Quest|quest]]), a cave northeast of  [[Ab'Dendriel]] and [[The Cave]]. Also found behind a wall in both [[Rookgaard]] and [[Paradox Tower]], although they cannot be reached.",
+    "strategy": "'''[[Knight]]s''', should have good skills to fight these creatures. Keep your potions handy and don't fight more than 3 at once unless you have 50/50+ skills. Also keep in mind that you cannot block their [[Life Drain|life drain]] without a [[Garlic Necklace|garlic necklace]].<br />\n'''[[Paladin]]s''' can defeat ghouls at a low level, with low skills and ample running space, even the lowest level paladins can hunt them.<br />\n'''[[Mage]]s''': Ghouls are good creatures for experience, their loot is very good when comparing with the time and mana used to kill them. [[Wands]] and [[Rods]] are a great way to kill Ghouls easily, just remember their immunities and resistences. For a [[Premium Account]] player the easiest way would be simply to use [[Flame Strike]]."
+}

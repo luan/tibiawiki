@@ -1,0 +1,190 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "This is one of the bosses in the [[Forgotten Knowledge Quest]]. Can also appear as [[The Freezing Time Guardian]] or [[The Blazing Time Guardian]].",
+    "walksthrough": "?",
+    "hp": "?",
+    "speed": "?",
+    "abilities": "{{Ability List| {{Melee|0-744+}}|{{Ability|[[Flame Strike]]|0-840+|element=fire}}|{{Ability|[[Energy Wave]]|0-?|element=energy}} }}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "20%",
+    "holyDmgMod": "99%<?",
+    "sounds": [
+        "This place is sacred!"
+    ],
+    "maxdmg": "1584+",
+    "pushable": "?",
+    "implemented": "11.02.4128",
+    "cooldown": "20",
+    "loot": [
+        {
+            "amount": "0-200",
+            "itemName": "Gold Coin"
+        },
+        {
+            "amount": "0-30",
+            "itemName": "Platinum Coin"
+        },
+        {
+            "amount": "0-3",
+            "itemName": "Violet Crystal Shard"
+        },
+        {
+            "amount": "0-3",
+            "itemName": "Green Crystal Shard"
+        },
+        {
+            "amount": "0-3",
+            "itemName": "Blue Crystal Shard"
+        },
+        {
+            "amount": "0-10",
+            "itemName": "Ultimate Health Potion"
+        },
+        {
+            "amount": "0-5",
+            "itemName": "Great Mana Potion"
+        },
+        {
+            "amount": "0-10",
+            "itemName": "Great Spirit Potion"
+        },
+        {
+            "amount": "0-10",
+            "itemName": "Small Ruby"
+        },
+        {
+            "amount": "0-10",
+            "itemName": "Small Amethyst"
+        },
+        {
+            "amount": "0-10",
+            "itemName": "Small Diamond"
+        },
+        {
+            "amount": "0-10",
+            "itemName": "Small Topaz"
+        },
+        {
+            "itemName": "Ancient Watch"
+        },
+        {
+            "itemName": "Yellow Gem"
+        },
+        {
+            "itemName": "Blue Gem"
+        },
+        {
+            "itemName": "Green Gem"
+        },
+        {
+            "itemName": "Violet Gem"
+        },
+        {
+            "itemName": "Berserk Potion"
+        },
+        {
+            "itemName": "Mastermind Potion"
+        },
+        {
+            "itemName": "Frozen Time"
+        },
+        {
+            "itemName": "Guardian Boots"
+        },
+        {
+            "itemName": "Leather Whip"
+        },
+        {
+            "itemName": "Stone Skin Amulet"
+        },
+        {
+            "itemName": "Ring of Healing"
+        },
+        {
+            "itemName": "Luminous Orb"
+        },
+        {
+            "itemName": "Soul Stone"
+        },
+        {
+            "itemName": "Magic Sulphur"
+        },
+        {
+            "itemName": "Magma Legs"
+        },
+        {
+            "itemName": "Skull Staff"
+        },
+        {
+            "itemName": "Part of a Rune (Three)"
+        },
+        {
+            "itemName": "Phoenix Shield"
+        },
+        {
+            "itemName": "Silver Token"
+        },
+        {
+            "itemName": "Gold Token"
+        },
+        {
+            "itemName": "Runed Sword"
+        },
+        {
+            "itemName": "Spellscroll of Prophecies"
+        },
+        {
+            "itemName": "Cluster of Solace"
+        },
+        {
+            "itemName": "Small Emerald"
+        },
+        {
+            "itemName": "Giant Shimmering Pearl"
+        },
+        {
+            "itemName": "Diamond Sceptre"
+        },
+        {
+            "itemName": "Glacier Robe"
+        },
+        {
+            "itemName": "Red Gem"
+        },
+        {
+            "itemName": "Glacier Kilt"
+        },
+        {
+            "itemName": "Huge Chunk of Crude Iron"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "50000",
+    "creatureclass": "Special",
+    "earthDmgMod": "20%",
+    "physicalDmgMod": "99%<?",
+    "bosstiaryclass": "Archfoe",
+    "primarytype": "Machines",
+    "spawntype": [
+        "Triggered"
+    ],
+    "race_id": "1290",
+    "senseinvis": "?",
+    "actualname": "The Time Guardian",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "The Time Guardian",
+    "isboss": "yes",
+    "behaviour": "Unknown",
+    "location": "Deep below north-west of [[Edron]], {{Mapper Coords|128.209|123.175|14|2|text=here}} (accessible through the [[Astral Shaper Dungeon]] behind the [[Holy Portal]]).",
+    "iceDmgMod": "99%<?",
+    "strategy": "Unknown",
+    "energyDmgMod": "20%",
+    "deathDmgMod": "99%<?"
+}

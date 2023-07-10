@@ -1,0 +1,103 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "This boss can only be fought when [[First Dragon Quest]] is active.",
+    "isarenaboss": "no",
+    "walksthrough": "Fire, Energy, Poison",
+    "hp": "10000",
+    "speed": "Unknown",
+    "abilities": "{{Ability List| {{Melee|0-385?}}|{{Ability|[[Fire Wave]]|100-600?|element=fire}}|{{Ability|[[Great Fireball]]|100-200?|element=fire}}|{{Healing|range=120-202?}} }}",
+    "pushobjects": "Yes",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "0%",
+    "holyDmgMod": "105%",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "850+?",
+    "pushable": "No",
+    "implemented": "11.02.4128",
+    "cooldown": "20",
+    "loot": [
+        {
+            "amount": "0-60?",
+            "itemName": "Gold Coin"
+        },
+        {
+            "amount": "0-1?",
+            "itemName": "Green Dragon Scale"
+        },
+        {
+            "amount": "0-1?",
+            "itemName": "Green Dragon Leather"
+        },
+        {
+            "itemName": "Double Axe"
+        },
+        {
+            "itemName": "Dragon Necklace"
+        },
+        {
+            "itemName": "Dragon Hammer"
+        },
+        {
+            "itemName": "Dragon Shield"
+        },
+        {
+            "itemName": "Dragon Scale Mail",
+            "rarity": "rare"
+        },
+        {
+            "amount": "0-2?",
+            "itemName": "Dragon Blood",
+            "rarity": "always"
+        },
+        {
+            "itemName": "Dragon Tongue",
+            "rarity": "always"
+        },
+        {
+            "itemName": "Tooth of Tazhadur",
+            "rarity": "always"
+        },
+        {
+            "itemName": "Strong Health Potion"
+        },
+        {
+            "itemName": "Wand of Inferno"
+        },
+        {
+            "itemName": "Dragon Ham"
+        },
+        {
+            "itemName": "Dragonbone Staff"
+        },
+        {
+            "itemName": "Small Diamond"
+        }
+    ],
+    "walksaround": "None",
+    "exp": "9000",
+    "creatureclass": "Reptiles",
+    "earthDmgMod": "50%",
+    "physicalDmgMod": "100%?",
+    "bosstiaryclass": "Archfoe",
+    "primarytype": "Dragons",
+    "race_id": "1390",
+    "senseinvis": "yes",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Tazhadur",
+    "isboss": "yes",
+    "behaviour": "Unknown",
+    "location": "[[Darashia Dragon Lair]] last floor, at the middle of the stone circle, {{Mapper Coords|129.210|126.20|12|4|text=here}}.",
+    "iceDmgMod": "110%?",
+    "strategy": "'''All''' [[player]]s should stand diagonal from Tazhadur, whenever possible, to avoid the [[Fire Wave]].\n\n'''[[Mage]]s''' level 200- should wear [[Energy Ring]] or [[Magic Shield]] and stay away from it,avoiding [[Fire Wave]] and close combat.",
+    "energyDmgMod": "80%",
+    "deathDmgMod": "100%",
+    "status": "event"
+}

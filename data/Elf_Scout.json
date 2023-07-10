@@ -1,0 +1,100 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "Semi-dangerous creatures for low level characters. They can be good as convinced creatures. They mention [[Evicor]], one of the seven elven lords.",
+    "walksthrough": "None",
+    "hp": "160",
+    "abilities": "{{Ability List\n |{{Melee|0-30}}\n |{{Ability|Shoots [[Arrow]]s|0-80|element=physical\n  |scene={{Scene|spell=5sqmstrike|background=canvas|caster=Elf Scout|look_direction=south|missile=Arrow Missile|missile_direction=south-east|missile_distance=5/5}}}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "holyDmgMod": "80%",
+    "maxdmg": "{{Max Damage|physical=110}}",
+    "pushable": "no",
+    "usedelements": "Physical",
+    "implemented": "6.2",
+    "loot": [
+        {
+            "amount": "1-25",
+            "itemName": "Gold Coin"
+        },
+        {
+            "amount": "1-12",
+            "itemName": "Arrow"
+        },
+        {
+            "itemName": "Grapes"
+        },
+        {
+            "amount": "1-4",
+            "itemName": "Poison Arrow"
+        },
+        {
+            "itemName": "Elven Scouting Glass"
+        },
+        {
+            "itemName": "Elvish Talisman"
+        },
+        {
+            "itemName": "Bow",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Waterskin",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Sandals",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Heaven Blossom",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Elvish Bow",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Fire, Energy, Poison",
+    "exp": "75",
+    "mitigation": "0.46",
+    "attacktype": "Distance",
+    "article": "an",
+    "actualname": "elf scout",
+    "illusionable": "yes",
+    "armor": "7",
+    "convince": "360",
+    "name": "Elf Scout",
+    "isboss": "no",
+    "iceDmgMod": "100%",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "110%",
+    "plural": "elf scouts",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "no",
+    "occurrence": "Common",
+    "bestiarytext": "Elf Scouts are a kind of militia among the elves. They patrol the area around their dwellings and repel intruders. Due to their tall bodies, all elves are fast runners and can cover large distances. In close combat they are quite weak, but their distance fighting weapons are dreaded.",
+    "speed": "110",
+    "pushobjects": "yes",
+    "fireDmgMod": "100%",
+    "sounds": [
+        "Tha'shi Ab'Dendriel!",
+        "Evicor guide my arrow!",
+        "Your existence will end here!",
+        "Feel the sting of my arrows!",
+        "Thy blood will quench the soil's thirst!"
+    ],
+    "bestiaryclass": "Humanoid",
+    "creatureclass": "Humanoids",
+    "earthDmgMod": "100%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Elves",
+    "race_id": "64",
+    "bestiarylevel": "Easy",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%",
+    "bestiaryname": "elfscout",
+    "behaviour": "Elf Scouts keep a distance while attacking, they fight until death.",
+    "location": "Yalahar [[Foreigner Quarter]], [[Shadowthorn]], northwest of [[Ab'Dendriel]], north and west of [[Mount Sternum]], [[Hellgate]], [[Maze of Lost Souls]], near [[Knightwatch Tower]] in the [[Plains of Havoc]]. Two may also spawn when a [[Desperate White Deer]] or an [[Enraged White Deer]] is killed.",
+    "strategy": "Elf Scouts are stronger than normal [[Elf|Elves]] and their arrows cause high damage.<br />\nIt is rare to find these creatures alone. The best choice when killing these is to wipe them out as fast as you can."
+}

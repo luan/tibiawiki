@@ -1,0 +1,56 @@
+{
+    "summon": "?",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "Upon defeating [[Bakragore]] for the first time, players have an increased chance to drop a [[Bag You Covet]]. This chance will keep on increasing further with every kill until they loot a bag from him. Then, the drop chance returns to its original value which is considerably lower than the increased first-kill chance. Each time they subsequently defeat him without receiving a bag, the chances increase again untill their next drop.\n\nBakragore has four progenies, two pairs of twins which were split from him: [[Murcion]] & [[Ichgahal]], and [[Chagorz]] & [[Vemiath]].",
+    "walksthrough": "None",
+    "hp": "660000",
+    "abilities": "{{Ability List}}",
+    "healMod": "100%",
+    "paraimmune": "?",
+    "fireDmgMod": "100%?",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        "Blood ... will ... be ... mine!!",
+        "Revenge! Rise! Revive!",
+        "World... to... devour!"
+    ],
+    "maxdmg": "0",
+    "cooldown": "68",
+    "implemented": "13.20",
+    "loot": [
+        {
+            "itemName": "Bag You Covet"
+        },
+        {
+            "itemName": "Abridged Promotion Scroll"
+        },
+        {
+            "itemName": "Basic Promotion Scroll"
+        },
+        {
+            "itemName": "Revised Promotion Scroll"
+        },
+        {
+            "itemName": "Extended Promotion Scroll"
+        },
+        {
+            "itemName": "Advanced Promotion Scroll"
+        }
+    ],
+    "exp": "30000000",
+    "earthDmgMod": "100%?",
+    "physicalDmgMod": "100%?",
+    "bosstiaryclass": "Nemesis",
+    "race_id": "2367",
+    "senseinvis": "?",
+    "drownDmgMod": "100%?",
+    "convince": "?",
+    "name": "Bakragore",
+    "isboss": "yes",
+    "location": "[[Blood Vestibule]]",
+    "iceDmgMod": "100%?",
+    "strategy": "{{#lsth:Rotten Blood Quest/Spoiler|Bakragore}}",
+    "energyDmgMod": "100%?",
+    "deathDmgMod": "100%?"
+}

@@ -1,0 +1,81 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "They are the overlords of their brethren, but they struggle to control them. They are similar in strength or even weaker than their breathren. When you enter the chamber you are ambushed by 3 of them.",
+    "walksthrough": "Poison",
+    "hp": "4600",
+    "speed": "?",
+    "abilities": "{{Ability List\n |{{Melee|0-411}}\n |{{Ability|large poison bomb|does nothing?|element=poison}}\n |{{Ability|large red sparkle bomb|50-75|element=?}}\n |{{Debuff2|distance=yes}}\n |{{Healing|range=450-550}}\n}}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "secondarytype": "Serpents",
+    "fireDmgMod": "65%",
+    "holyDmgMod": "110%",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "411",
+    "pushable": "?",
+    "implemented": "10.30",
+    "loot": [
+        {
+            "amount": "0-44",
+            "itemName": "Gold Coin"
+        },
+        {
+            "amount": "0-7",
+            "itemName": "Platinum Coin"
+        },
+        {
+            "amount": "0-1?",
+            "itemName": "Ultimate Health Potion"
+        },
+        {
+            "amount": "0-2?",
+            "itemName": "Small Amethyst"
+        },
+        {
+            "amount": "0-1",
+            "itemName": "Blue Crystal Splinter"
+        },
+        {
+            "amount": "0-1",
+            "itemName": "Great Mana Potion"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "Small Ruby"
+        },
+        {
+            "amount": "0-3?",
+            "itemName": "Small Topaz"
+        },
+        {
+            "itemName": "Trapped Bad Dream Monster"
+        },
+        {
+            "itemName": "Cluster of Solace"
+        }
+    ],
+    "walksaround": "Energy, Fire",
+    "exp": "1900<!-- exp is either 3800 or 1900 -->",
+    "creatureclass": "Demons",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "100%?",
+    "primarytype": "Dreamhaunters",
+    "senseinvis": "yes",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Shiversleep",
+    "isboss": "no",
+    "behaviour": "Unknown",
+    "location": "3 in [[Roshamuul Cistern]], an enclosed chamber.",
+    "iceDmgMod": "100%?",
+    "strategy": "Use the [[Pendulum]] on them and then enter the [[Instable Vortex]] on the west of the chamber. They will turn into a [[Shimmying Butterfly]]. You have limited time to do this.",
+    "energyDmgMod": "90%",
+    "deathDmgMod": "100%?"
+}

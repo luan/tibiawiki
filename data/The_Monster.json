@@ -1,0 +1,147 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "The Monster is a creation of [[Doctor Marrow]].\n\n{{JSpoiler|It's the final boss of [[The Cradle of Monsters Quest]].}}",
+    "walksthrough": "Fire, Poison, Energy",
+    "hp": "45000",
+    "abilities": "{{Ability List}}",
+    "pushobjects": "yes",
+    "healMod": "100%?",
+    "paraimmune": "yes",
+    "fireDmgMod": "100%?",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        ""
+    ],
+    "pushable": "no",
+    "implemented": "13.10.12852",
+    "loot": [
+        {
+            "amount": "0-30",
+            "itemName": "Platinum Coin",
+            "rarity": "always"
+        },
+        {
+            "amount": "0-7",
+            "itemName": "Ultimate Health Potion",
+            "rarity": "common"
+        },
+        {
+            "amount": "0-5",
+            "itemName": "Ultimate Mana Potion",
+            "rarity": "common"
+        },
+        {
+            "amount": "0-4",
+            "itemName": "Ultimate Spirit Potion",
+            "rarity": "common"
+        },
+        {
+            "amount": "0-3",
+            "itemName": "Mastermind Potion",
+            "rarity": "common"
+        },
+        {
+            "amount": "0-3",
+            "itemName": "Berserk Potion",
+            "rarity": "common"
+        },
+        {
+            "amount": "0-3",
+            "itemName": "Bullseye Potion",
+            "rarity": "common"
+        },
+        {
+            "amount": "0-5",
+            "itemName": "Yellow Gem",
+            "rarity": "common"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "Red Gem",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Blue Gem",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Green Gem",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Violet Gem",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Giant Amethyst",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Giant Topaz",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Giant Emerald",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Watermelon Tourmaline",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Alchemist's Notepad",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Antler-Horn Helmet",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Mutant Bone Kilt",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Mutated Skin Armor",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Mutated Skin Legs",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Stitched Mutant Hide Legs",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Alchemist's Boots",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Mutant Bone Boots",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "None",
+    "exp": "30000",
+    "creatureclass": "Misc",
+    "earthDmgMod": "100%?",
+    "physicalDmgMod": "100%?",
+    "bosstiaryclass": "Archfoe",
+    "primarytype": "Hybrids",
+    "race_id": "2299",
+    "senseinvis": "yes",
+    "actualname": "The Monster",
+    "illusionable": "no",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "The Monster",
+    "isboss": "yes",
+    "behaviour": "Attacks in close range and doesn't retarget very often.",
+    "location": "[[Ingol]]",
+    "iceDmgMod": "100%?",
+    "strategy": "It's immune to all damage when its counter is at the maximum value of 20. The lower the counter is, the weaker The Monster will be. It can be weakened by forcing it to walk over the liquids spilled when the Alchemistical Containers in the room are destroyed.",
+    "energyDmgMod": "100%?",
+    "deathDmgMod": "100%?"
+}

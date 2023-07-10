@@ -1,0 +1,122 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "It's part of the [[Soul War Quest]].",
+    "walksthrough": "?",
+    "hp": "?",
+    "speed": "?",
+    "abilities": "{{Ability List|}}",
+    "healMod": "100%?",
+    "paraimmune": "yes",
+    "fireDmgMod": "100%?",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "?",
+    "pushable": "no",
+    "runsat": "0",
+    "implemented": "12.40.9997",
+    "cooldown": "20",
+    "loot": [
+        {
+            "itemName": "Figurine of Hatred"
+        },
+        {
+            "itemName": "Vial of Hatred"
+        },
+        {
+            "itemName": "Ultimate Mana Potion"
+        },
+        {
+            "itemName": "Crystal Coin"
+        },
+        {
+            "itemName": "Supreme Health Potion"
+        },
+        {
+            "itemName": "Bullseye Potion"
+        },
+        {
+            "itemName": "Blue Gem"
+        },
+        {
+            "itemName": "Yellow Gem"
+        },
+        {
+            "itemName": "Giant Ruby"
+        },
+        {
+            "itemName": "Coral Brooch"
+        },
+        {
+            "itemName": "Berserk Potion"
+        },
+        {
+            "itemName": "Bag You Desire"
+        },
+        {
+            "itemName": "Spectral Horse Tack"
+        },
+        {
+            "itemName": "Bracelet of Strengthening"
+        },
+        {
+            "itemName": "Violet Gem"
+        },
+        {
+            "itemName": "Giant Amethyst"
+        },
+        {
+            "itemName": "Red Gem"
+        },
+        {
+            "itemName": "Mastermind Potion"
+        },
+        {
+            "itemName": "Gold Ingot"
+        },
+        {
+            "itemName": "Ultimate Spirit Potion"
+        },
+        {
+            "itemName": "White Gem"
+        },
+        {
+            "itemName": "Giant Emerald"
+        },
+        {
+            "itemName": "Green Gem"
+        },
+        {
+            "itemName": "Spectral Horseshoe"
+        },
+        {
+            "itemName": "Giant Shimmering Pearl"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "75000",
+    "creatureclass": "The Undead",
+    "earthDmgMod": "100%?",
+    "physicalDmgMod": "100%?",
+    "bosstiaryclass": "Archfoe",
+    "primarytype": "Ghosts",
+    "spawntype": [
+        "Triggered"
+    ],
+    "race_id": "1904",
+    "senseinvis": "yes",
+    "actualname": "Goshnar's Hatred",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Goshnar's Hatred",
+    "isboss": "yes",
+    "location": "[[Rotten Wasteland]].",
+    "iceDmgMod": "100%?",
+    "energyDmgMod": "100%?",
+    "deathDmgMod": "100%?"
+}

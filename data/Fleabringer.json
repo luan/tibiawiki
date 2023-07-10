@@ -1,0 +1,56 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "It's the [[Gnarlhound]]s' boss.",
+    "walksthrough": "?",
+    "hp": "265",
+    "speed": "?",
+    "abilities": "{{Ability List| {{Melee|?}} }}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "no",
+    "fireDmgMod": "100%",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "?",
+    "pushable": "?",
+    "implemented": "8.54",
+    "loot": [
+        {
+            "amount": "1-3",
+            "itemName": "Meat"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "Worm"
+        },
+        {
+            "itemName": "Shaggy Tail"
+        }
+    ],
+    "walksaround": "Energy, Fire",
+    "exp": "100",
+    "creatureclass": "Mammals",
+    "earthDmgMod": "100%",
+    "physicalDmgMod": "100%?",
+    "bosstiaryclass": "Nemesis",
+    "primarytype": "Hyaenids",
+    "race_id": "640",
+    "senseinvis": "yes",
+    "actualname": "Fleabringer",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "?",
+    "name": "Fleabringer",
+    "isboss": "yes",
+    "behaviour": "Run away in red hp.",
+    "location": "Steppe of [[Zao]]. Can be found in {{Mapper Coords|129.68|122.156|8|2|text=this cave}}, in {{Mapper Coords|129.86|122.230|8|2|text=this cave}}, on the surface around {{Mapper Coords|129.227|122.193|7|2|text=here}} and possibly other places. Spawns with 2-5 [[Insect Swarm]]s.",
+    "iceDmgMod": "100%?",
+    "strategy": "Any vocation above level 25 can kill up close, but lower level [[Mages]] and [[Paladin]]s should keep their distance.",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "100%?"
+}

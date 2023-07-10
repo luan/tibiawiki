@@ -1,0 +1,94 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "[[Pacera]] was the first server to kill it. '''The Handmaiden''' is the [[Hand of Cursed Fate]] boss.",
+    "walksthrough": "?",
+    "hp": "19500",
+    "speed": "?",
+    "abilities": "{{Ability List| {{Melee|0-750+|poison=30}}|{{Ability|Life Drain|0-1270+|element=lifedrain}}|{{Ability|Mana Drain|0-861+|element=manadrain}}|{{Ability|[[Drunkenness|Drunk Death Bomb]]|makes you [[Drunkenness|drunk]]|element=drunk}}|{{Ability|Infrequent [[Invisibility]]|element=invisible}}|{{Haste|[[Strong Haste]]}} }}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "yes",
+    "fireDmgMod": "0%",
+    "holyDmgMod": "110%",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "2020+?",
+    "pushable": "?",
+    "implemented": "7.9",
+    "loot": [
+        {
+            "amount": "0-184",
+            "itemName": "Gold Coin"
+        },
+        {
+            "amount": "0-5",
+            "itemName": "Platinum Coin"
+        },
+        {
+            "itemName": "Power Ring"
+        },
+        {
+            "itemName": "Energy Ring"
+        },
+        {
+            "itemName": "Stealth Ring"
+        },
+        {
+            "itemName": "Piece of Iron"
+        },
+        {
+            "itemName": "Dark Shield"
+        },
+        {
+            "itemName": "Big Bone"
+        },
+        {
+            "itemName": "Death Ring"
+        },
+        {
+            "itemName": "Steel Boots"
+        },
+        {
+            "itemName": "Blue Robe"
+        },
+        {
+            "itemName": "Demonic Essence"
+        },
+        {
+            "itemName": "Soul Orb"
+        },
+        {
+            "itemName": "The Handmaiden's Protector",
+            "rarity": "always"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "7500",
+    "creatureclass": "Demons",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "90%",
+    "bosstiaryclass": "Nemesis",
+    "primarytype": "Hands",
+    "spawntype": [
+        "Raid",
+        "Unique",
+        "Unblockable"
+    ],
+    "race_id": "301",
+    "senseinvis": "yes",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "The Handmaiden",
+    "isboss": "yes",
+    "behaviour": "Similar behaviour to the [[Hand of Cursed Fate]].",
+    "location": "[[Pits of Inferno]], in [[Pumin]]'s Throneroom.",
+    "iceDmgMod": "85%",
+    "strategy": "One [[Knight]] must have, at least 2500 or more [[Hitpoints]] to try to block this creature. Use [[Holy Damage]], [[Ice Damage]] or [[Energy Damage]] to kill this boss.",
+    "energyDmgMod": "85%?",
+    "deathDmgMod": "0%"
+}

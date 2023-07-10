@@ -1,0 +1,122 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "It's part of the {{Spoiler Section|Grimvale Quest|An Ancient Feud}}.",
+    "walksthrough": "?",
+    "hp": "6200",
+    "speed": "?",
+    "abilities": "{{Ability List\n |{{Melee|0-200}}\n |{{Ability|Life Drain Wave|200-300|element=lifedrain\n  |scene={{Scene|spell=5sqmwavenarrow|effect=Blood Effect|damage_effect=Red Sparkles Effect|look_direction=east}}}}\n |{{Ability|Life Drain Bomb|200-350|element=lifedrain\n  |scene={{Scene|spell=2sqmballself|effect=Blood Effect|damage_effect=Red Sparkles Effect}}}}\n |{{Ability|Life Drain Hit|200-300|element=lifedrain\n  |scene={{Scene|spell=1sqmstrike|effect_on_target=Red Sparkles Effect|missile=Burst Arrow Missile|missile_direction=south-east|missile_distance=1/1}}}}\n |{{Ability|Earth Ball|400-500|element=earth\n  |scene={{Scene|spell=1sqmballtarget|effect=Poison Effect 2|damage_effect=Poison Effect 1|missile=Burst Arrow Missile|missile_direction=south-east|missile_distance=2/2}}}}\n}}",
+    "healMod": "100%?",
+    "paraimmune": "yes",
+    "fireDmgMod": "70%",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "?",
+    "pushable": "no",
+    "runsat": "0",
+    "implemented": "12.40.9997",
+    "cooldown": "20",
+    "loot": [
+        {
+            "itemName": "Srezz' Eye"
+        },
+        {
+            "amount": "9",
+            "itemName": "Platinum Coin"
+        },
+        {
+            "amount": "3",
+            "itemName": "Ultimate Health Potion"
+        },
+        {
+            "itemName": "Gold Ingot"
+        },
+        {
+            "amount": "2",
+            "itemName": "Snake Skin"
+        },
+        {
+            "itemName": "Blue Crystal Shard"
+        },
+        {
+            "itemName": "Giant Shimmering Pearl (Brown)"
+        },
+        {
+            "itemName": "Mastermind Potion"
+        },
+        {
+            "itemName": "Gemmed Figurine"
+        },
+        {
+            "itemName": "Black Pearl"
+        },
+        {
+            "itemName": "Blue Gem"
+        },
+        {
+            "itemName": "Giant Sword"
+        },
+        {
+            "itemName": "Glacier Kilt"
+        },
+        {
+            "itemName": "Demonrage Sword"
+        },
+        {
+            "itemName": "Green Gem"
+        },
+        {
+            "itemName": "Raw Watermelon Tourmaline"
+        },
+        {
+            "itemName": "Skull Helmet"
+        },
+        {
+            "itemName": "Violet Gem"
+        },
+        {
+            "itemName": "War Axe"
+        },
+        {
+            "itemName": "Winged Tail"
+        },
+        {
+            "itemName": "Red Silk Flower"
+        },
+        {
+            "itemName": "Glacier Robe"
+        },
+        {
+            "itemName": "Gold Nugget"
+        },
+        {
+            "itemName": "Ring of Green Plasma"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "4800",
+    "creatureclass": "Reptiles",
+    "earthDmgMod": "60%",
+    "physicalDmgMod": "100%?",
+    "bosstiaryclass": "Archfoe",
+    "primarytype": "Serpents",
+    "spawntype": [
+        "Triggered"
+    ],
+    "race_id": "1983",
+    "senseinvis": "yes",
+    "actualname": "Srezz Yellow Eyes",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Srezz Yellow Eyes",
+    "isboss": "yes",
+    "location": "[[Lion Sanctum]].",
+    "iceDmgMod": "100%?",
+    "energyDmgMod": "90%",
+    "deathDmgMod": "100%?"
+}

@@ -1,0 +1,97 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "Some scholars consider the Wyvern a distant cousin of the [[Dragon]], though this is far from truth. The Wyvern we know today is the result of constant breeding of some significantly smaller, only mildly poisonous flying [[Lizards]]. \n\n{{JSpoiler|You may hunt 300 of these as a task of the [[Killing in the Name of... Quest]].}}",
+    "walksthrough": "Poison",
+    "hp": "795",
+    "abilities": "{{Ability List\n |{{Melee|0-120|poison=24}}\n |{{Ability|Poison Wave|starts from up to 13hp per turn|poison\n   |scene={{Scene|spell=8sqmwave|effect=Poison Effect 3|caster=Wyvern|look_direction=east}}}}\n |{{Ability|Screech|[[Drunkenness]] for up to 25 seconds|drunk\n   |scene={{Scene|spell=3sqmtwave|effect=Red Notes Effect|caster=Wyvern|look_direction=east}}}}\n |{{Healing|range=45-65}}\n |{{Haste}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "holyDmgMod": "100%",
+    "maxdmg": "144",
+    "pushable": "no",
+    "implemented": "7.9",
+    "loot": [
+        {
+            "amount": "1-90",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "amount": "0-3",
+            "itemName": "Dragon Ham",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Wyvern Talisman",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Small Sapphire",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Power Bolt",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Strong Health Potion",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Emerald Bangle",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Wand of Inferno",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Wyvern Fang",
+            "rarity": "rare"
+        }
+    ],
+    "walksaround": "Fire, Energy",
+    "exp": "515",
+    "mitigation": "1.21",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "wyvern",
+    "illusionable": "yes",
+    "armor": "19",
+    "convince": "--",
+    "name": "Wyvern",
+    "isboss": "no",
+    "iceDmgMod": "90%",
+    "energyDmgMod": "80%",
+    "deathDmgMod": "100%",
+    "plural": "wyverns",
+    "hpDrainDmgMod": "100%",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "Some scholars consider the Wyvern as a distant cousin of the dragons. This is far from truth though. The Wyvern we know nowadays are the result of constant breeding of some significantly smaller, only mildly poisonous flying lizards. Over several generations, orc shamans had selected the biggest and meanest of those little beasts for breeding. Subjecting those lizards to poison and alchemistic brewages as well as constant fighting, the orcs captured and killed thousands of them. Long before the breeding cycles came to an end, the original lizard race became extinct. Originally intended to be used as weapons in wars, Wyverns proved to be too uncontrollable and impulsive to be of any real use. Finally they were used for sports events in which the orcs forced them to battle each other and other creatures. So the breeding continued for a while until the orcish society was shattered by wars and many Wyverns escaped into freedom. These new and powerful predators had no problems to survive in freedom and only their natural aggressiveness, even among each other, prevented that they became a widespread plague.<br />Nowadays, the most aggressive Wyverns became extinct. The new breed is somewhat more sociable. Wyverns often form small packs, but since they are still quite aggressive, lethal power struggles are common, especially when it comes to leadership. Given their aggressive disposition, several Wyverns still end up in solitary.",
+    "speed": "93",
+    "pushobjects": "yes",
+    "fireDmgMod": "100%",
+    "sounds": [
+        "Shriiiek"
+    ],
+    "bestiaryclass": "Reptile",
+    "creatureclass": "Reptiles",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Wyverns",
+    "spawntype": [
+        "Regular",
+        "Raid",
+        "Unblockable"
+    ],
+    "race_id": "290",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "wyvern",
+    "behaviour": "They run away at deep yellow [[health]]. They can [[retarget]] and move items that are in their way, though they themselves cannot be [[List of Pushable Creatures|pushed]]. Their drunkenness is '''very''' heavy, but lasts for short time. They are often found in packs.",
+    "location": "* [[Carlin]]: [[Folda]] (3x), [[Vega]] (3x) and [[Ghostlands]] (1x).\n* [[Kazordoon]]: North of dragon lair ({{Mapper Coords|127.158|124.140|7|3|text=here}}, 3x), a 9x (7x+2x) [[Ferngrims Gate]], West of Orc Fortress (ground spawn, 2x) and at [[Paradox Tower]] entrance (2x). Also inside the [[Drillworm Caves]].\n* [[Gnomegate]]: All over the place in the [[Truffels Garden]] and the [[Crystal Grounds]], as well as [[Mushroom Gardens]].\n* [[Venore]]: [[Plains of Havoc]] (Ground level in the [[Giant Spider]] field), ({{Mapper Coords|127.217|125.78|7|3|text=here}}) and in  [[Black Knight's Villa]] (1x).\n* [[Edron]]: 8x north east of town (in the mountains), 2x spawn north of the mountain pass, north of [[Stonehome]] (1x), 2x north of [[Edron Dragon Lair]], and 2x at the entrance to the [[Old Fortress]].\n* [[Darashia]]: [[Plague Spike]] (3x).\n* [[Ankrahmun]]: [[Mal'ouquah|Green Djinn Tower]] entrance (1x) and near the [[Hyaena]]s and [[Cobra]]s (3x).\n* [[Port Hope]]: Deep in [[Tiquanda]] ({{Mapper Coords|128.72|127.118|7|3|text=here}}) (2x) and on a hill at [[Chor]] (3x).\n* [[Vandura Mountain]]: In the area with [[Nightstalker]]s (1x).\n* [[Formorgar Glacier]]: All over the place (2x with [[Mammoth]]s) and near the [[Magic Forcefield|teleporter]] to [[The Bloodtusk]].\n* [[Chyllfroest]]: Several on top of the mountain and underground.\n* [[Nargor]]: in [[Crystal Gardens]].",
+    "strategy": "'''[[Knight]]s''' can kill a Wyvern around [[level]] 30 with [[skills]] between 65/65 and 75/75, depending on the equipment worn and fighting stance. For blocking, 60/60 would be enough. Level matters more than skills because of their poison attack. Stay diagonal to avoid the poison and musical waves. Avoid wasting [[Energy Field]]s because it's likely you'll kill them fast enough without them, and you could step on your own field while moving around.<br/>\n'''[[Paladin]]s''' can hunt Wyverns at level 23 with 40 distance (60 is recommended), shooting [[Arrow]]s, [[Royal Spear]]s or [[Bolt]]s while trying to avoid [[Poison Wave]]. If poisoned, use [[Cure Poison]] as soon as possible to keep your health from being drained (it's quite likely you'll receive no other damage). You should consider wearing a [[Dwarven Ring]], because if you become drunk and can't run away you'll be receiving melee damage. Fighting Wyverns at low level and about 55 distance is one of the fastest and safest ways a paladin can level because they give good experience. As a guide, the best place for a lower level paladin to solo Wyverns is in the field north of the [[Edron Dragon Lair]]. There are two spawns total and plenty of room to run them. A level 30 paladin with 60 distance using a standard [[Bow]] can expect to kill, on average, 1 wyvern for every 20 [[Arrows]] shot. Start at the north and draw the Wyvern southward as you shoot. Because there is so much room to maneuver, you can easily avoid the poison wave. The musical wave is even simpler to stay away from, as it doesn't project very far. As described here, a paladin can kill a wyvern without taking any damage. Accordingly, in this locale, a [[Dwarven Ring]] is not really necessary. While waiting for [[respawn]], make sure you kill the [[Poacher]]s in the northeast woods as they routinely drop arrows, which helps to keep your ammo stocked.<br/>\n'''[[Mage]]s''' can kill them easily around level 27 with [[Flame Strike]]s or [[Fireball]]s. Lower level spell casters can shoot [[Fire Field]] runes to \"soften it up\" and help kill the Wyvern faster. Heal with [[Intense Healing]] and consider using [[Magic Shield]]. Mages often summon [[Demon Skeleton]]s or [[Monk]]s to kill Wyverns while shooting with an appropriate [[Rod]] or [[Wand]], depending on their level and [[vocation]]. Using [[Death Strike]]s is also a consideration.<br/>\n'''Hunting in a team:''' Depending on your vocation and how much room you have, using a [[Silver Amulet]] and a [[Dwarven Ring]] is a good idea to reduce [[Poisoned|poison damage]] and prevent becoming [[Drunkenness|drunk]]. You can hunt these with a low level team, consisting of a [[blocking|blocker]] (lvl 25+) and a shooter. Another way to hunt these creatures is to get a group of 3 or 4 people and go to a single spawn, like the one near Venore. Simply have the strongest go up first, followed by the others. Each person should be level 15+ or they will die. [[Luring|Lure]] the creature to a spot where everyone can stand diagonally. Make sure each of you have [[Light Healing]] or [[Intense Healing]] and [[Cure Poison]], or its poison will kill you. Just attack until it runs away, and make sure you stand at a good angle where the poison wave won't affect you."
+}

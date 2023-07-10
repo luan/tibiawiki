@@ -1,0 +1,133 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "It's part of the {{Spoiler Section|Grimvale Quest|An Ancient Feud}}.",
+    "walksthrough": "Energy, Fire, Poison",
+    "hp": "6300",
+    "speed": "?",
+    "abilities": "{{Ability List\n |{{Melee|0-300}}\n |{{Ability|Death Bomb|300-400|element=death\n  |scene={{Scene|spell=3sqmball2self|effect=Death Effect}}}}\n |{{Ability|Death Wave|250-350|element=death\n  |scene={{Scene|spell=3sqmtwave|effect=Death Effect|look_direction=east}}}}\n |{{Ability|Earth Hit|350-500|element=earth\n  |scene={{Scene|spell=1sqmstrike|damage_effect=Poison Effect 1|missile=Stone Missile|missile_direction=south-east|missile_distance=1/1}}}}\n |{{Summon|Werehyaena|1}}\n}}",
+    "pushobjects": "yes",
+    "healMod": "100%?",
+    "paraimmune": "yes",
+    "secondarytype": "Lycanthropes",
+    "fireDmgMod": "90%",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "1550 (2745 with Summon)",
+    "pushable": "no",
+    "runsat": "0",
+    "implemented": "12.40.9997",
+    "cooldown": "20",
+    "loot": [
+        {
+            "itemName": "Katex' Blood"
+        },
+        {
+            "amount": "9",
+            "itemName": "Platinum Coin"
+        },
+        {
+            "amount": "3",
+            "itemName": "Ultimate Health Potion"
+        },
+        {
+            "itemName": "Werehyaena Nose"
+        },
+        {
+            "itemName": "Gold Ingot"
+        },
+        {
+            "itemName": "Skull Helmet"
+        },
+        {
+            "itemName": "Demon Shield"
+        },
+        {
+            "itemName": "Werehyaena Talisman"
+        },
+        {
+            "itemName": "Raw Watermelon Tourmaline"
+        },
+        {
+            "itemName": "Werehyaena Trophy"
+        },
+        {
+            "itemName": "Magic Plate Armor"
+        },
+        {
+            "itemName": "Red Silk Flower"
+        },
+        {
+            "itemName": "Assassin Dagger"
+        },
+        {
+            "itemName": "Demonrage Sword"
+        },
+        {
+            "itemName": "Giant Sword"
+        },
+        {
+            "itemName": "Golden Armor"
+        },
+        {
+            "itemName": "Jade Hammer"
+        },
+        {
+            "itemName": "Mastermind Potion"
+        },
+        {
+            "itemName": "Ornate Crossbow"
+        },
+        {
+            "itemName": "Violet Gem"
+        },
+        {
+            "itemName": "War Axe"
+        },
+        {
+            "itemName": "Moonlight Crystals"
+        },
+        {
+            "itemName": "Ring of Green Plasma"
+        },
+        {
+            "itemName": "Gold Ring"
+        },
+        {
+            "itemName": "Blue Gem"
+        },
+        {
+            "itemName": "Alloy Legs"
+        },
+        {
+            "itemName": "Giant Shimmering Pearl"
+        }
+    ],
+    "walksaround": "None.",
+    "exp": "5000",
+    "creatureclass": "Mammals",
+    "earthDmgMod": "60%?",
+    "physicalDmgMod": "100%?",
+    "bosstiaryclass": "Archfoe",
+    "primarytype": "Hyaenids",
+    "spawntype": [
+        "Triggered"
+    ],
+    "race_id": "1981",
+    "senseinvis": "yes",
+    "actualname": "Katex Blood Tongue",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Katex Blood Tongue",
+    "isboss": "yes",
+    "location": "[[Lion Sanctum]].",
+    "iceDmgMod": "100%?",
+    "strategy": "Combos specially with a summoned Werehyena can deal a lot of damage. Low level knights can avoid this by dropping [[Fire Bomb Rune]]s and running around using [[Whirlwind Throw]] and [[Groundshaker]] approaching to do melee damage once it reaches yellow health or is separated from its summoned Werehyena",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "100%?"
+}

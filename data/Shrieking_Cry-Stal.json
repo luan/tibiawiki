@@ -1,0 +1,105 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "shrieking cry-stals",
+    "hpDrainDmgMod": "100%?",
+    "notes": "<gallery captionalign=\"center\" mode=\"nolines\">\nShrieking Cry-Stal Artwork.jpg|Official [[Creature Artwork]]\n</gallery>",
+    "hp": "20650",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "Another strange elemental creature of Gnomprona is the shrieking cry-stal. This unassuming creature that can actually be easily mistaken for an ordinary inanimate crystal which ironically made them prey of the Emerald Tortoises and other mineral eating inhabitants of gnomprona. Those creatures are in for a nasty surprise as the Shrieking Cry-stals are driven by a malicious, yet alien intelligence as it seems and are more than able to fight back. The level or alienness of this intelligence is not known and hard to pinpoint. With lacks of means to interact with their environment it's almost impossible to gauge such things. At least it seems highly probable that they have a limited form of communication with each other and can join forces in a common goal. Still not all predators are warded off easily and now and then a Shrieking Cry-stal ends up in the bowels of another subterranean monster. Enthusiastic gnomish crystallomancers were more then eager to study this strange creature. One of their more disturbing findings is, that the Shrieking Cry-stals are not feasting on the corpses of their victims, but a residual energy that lingers on said corpses. Though final proofs are needed it seems that the Cry-stals somehow manage to devour the spirit or even the very soul of such poor creatures. If proven true this would be on one hand a disturbingly frightening and threatening finding, on the other hand it might open up a new field of crystallomancy that allows to interact with the spirit world. For a traveller in Gnomprona though it means he has not only to fear for his life but for his very soul. The Cry-stals seem to prefer areas with occurrences of natural crystals. If it's because such environments are more suitable for crystals or there is some kind of relation to the crystals has yet to be found out. Disturbingly the dangerous Shrieking Cry-stals thrive in any environment and probably only its inability to climb in any form might have prevented their spread into the rest of the world. Therefore extreme caution is advised to move such a Cry-stal from the Gnomprona area. The gnomish science committee has put a ban on exporting the Shrieking Cry-stals and restricted any research on them for anyone but the local challenger operation.",
+    "speed": "207",
+    "abilities": "{{Ability List\n |{{Ability|[[feared|Fears]] target|element=feared}}\n |{{Ability|Energy Chain|749-1356|element=energy\n  |scene={{Scene|spell=chainspell|caster=Shrieking Cry-Stal|look_direction=south|effect=Purple Chain Effect|damage_effect=Blue Electricity Effect}}}}\n |{{Ability|Shrieking Wave|1037|element=energy\n  |scene={{Scene|spell=5sqmwavewide|caster=Shrieking Cry-Stal|look_direction=east|effect=Purple Notes Effect|damage_effect=Blue Electricity Effect}}}}\n}}",
+    "pushobjects": "yes",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "fireDmgMod": "95%",
+    "holyDmgMod": "0%",
+    "sounds": [
+        "La-la-la..AAAHHHH!!!",
+        "SCREEECH..."
+    ],
+    "pushable": "no",
+    "implemented": "12.90.12182",
+    "bestiaryclass": "Construct",
+    "loot": [
+        {
+            "amount": "1-2",
+            "itemName": "Crystal Coin",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Great Spirit Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Cry-Stal",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "Small Diamond",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Rusted Armor",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Green Crystal Fragment",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Terra Boots",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Protection Amulet",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Violet Gem",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Gold Ring",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Green Gem",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Ring of the Sky",
+            "rarity": "very rare"
+        }
+    ],
+    "exp": "13560",
+    "creatureclass": "Elementals",
+    "earthDmgMod": "105%",
+    "mitigation": "2.45",
+    "physicalDmgMod": "80%",
+    "primarytype": "Geo-Elementals",
+    "spawntype": [
+        "Regular"
+    ],
+    "attacktype": "Distance",
+    "race_id": "2278",
+    "bestiarylevel": "Challenging",
+    "history": "Its experience was decreased from 15,730 to 13,560 on {{OfficialNewsArchive|6875|July 28, 2022}}.",
+    "senseinvis": "yes",
+    "article": "a",
+    "actualname": "shrieking cry-stal",
+    "illusionable": "no",
+    "armor": "95",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "bestiaryname": "shriekingcrystal",
+    "name": "Shrieking Cry-Stal",
+    "isboss": "no",
+    "location": "[[Crystal Enigma]]",
+    "iceDmgMod": "95%",
+    "energyDmgMod": "90%",
+    "deathDmgMod": "100%"
+}

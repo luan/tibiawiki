@@ -1,0 +1,87 @@
+{
+    "summon": "310",
+    "templateType": "Creature",
+    "notes": "This Orc attacks with spears that can deal high damage for lower level players.",
+    "walksthrough": "?",
+    "hp": "105",
+    "abilities": "{{Ability List\n |{{Melee|0-25}}\n |{{Ability|Throws [[Spears]]|0-30|element=physical\n  |scene={{Scene|spell=5sqmstrike|background=canvas|caster=Orc Spearman|look_direction=south|missile=Spear Missile|missile_direction=south-east|missile_distance=5/5}}}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "holyDmgMod": "80%",
+    "maxdmg": "{{Max Damage|physical=55}}",
+    "pushable": "yes",
+    "usedelements": "Physical",
+    "implemented": "6.0",
+    "loot": [
+        {
+            "amount": "0-11",
+            "itemName": "Gold Coin"
+        },
+        {
+            "itemName": "Meat"
+        },
+        {
+            "itemName": "Spear"
+        },
+        {
+            "itemName": "Studded Helmet"
+        },
+        {
+            "itemName": "Studded Legs"
+        },
+        {
+            "itemName": "Machete",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Orc Leather",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Heavy Old Tome",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Orc Tooth",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Fire, Energy, Poison",
+    "exp": "38",
+    "mitigation": "0.30",
+    "attacktype": "Distance",
+    "article": "an",
+    "actualname": "orc spearman",
+    "illusionable": "yes",
+    "armor": "6",
+    "convince": "310",
+    "name": "Orc Spearman",
+    "isboss": "no",
+    "iceDmgMod": "100%",
+    "energyDmgMod": "80%",
+    "deathDmgMod": "110%",
+    "plural": "orc spearmen",
+    "hpDrainDmgMod": "100%",
+    "usespells": "no",
+    "occurrence": "Common",
+    "bestiarytext": "Orc Spearmen are the distance fighters among the orcs. Their spears are deadly weapons, but they are weak short-range fighters. Usually, they are accompanied by other types of orcs, so that they can hide behind them and attack their enemies from the second row.",
+    "speed": "88",
+    "pushobjects": "no",
+    "fireDmgMod": "100%",
+    "sounds": [
+        "Ugaar!"
+    ],
+    "bestiaryclass": "Humanoid",
+    "creatureclass": "Humanoids",
+    "earthDmgMod": "110%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Orcs",
+    "race_id": "50",
+    "bestiarylevel": "Easy",
+    "senseinvis": "no",
+    "drownDmgMod": "100%",
+    "bestiaryname": "orcspearman",
+    "behaviour": "Orc Spearmen run in low health and like to keep a distance. They will [[retarget]] to the nearest player.",
+    "location": "[[Orc Fortress]], [[Folda]] Dungeon, [[Edron Orc Cave]] and around it, [[Ancient Temple]], [[Venore Orc Cave]], below the Point of No Return in [[Outlaw Camp]], [[Plains of Havoc]], North of [[Thais]] in the [[Orc Peninsula]], [[Elvenbane]] and Orc Camp in [[Foreigner Quarter]]. Also found in [[Rookgaard]] West plains, [[Zao Orc Land]].",
+    "strategy": "If you are in [[Rookgaard]] don't fight them unless you are level 7+ or you have good equipment and [[Small Health Potion]]s, they appear in groups and with [[Orc]]s. On the premium side; there are two single spawns of these creatures, if you trap them in a corner they aren't so hard and will start use their weaker melee attack.<br />\nIn [[Mainland]], If you are fighting them in caves like [[Ancient Temple]] in [[Thais]], try to [[Luring|lure]] them to a safer places, as they are usually accompanied with [[Orc]]s and [[Orc Warrior]]s which, can be deadly for an inexperienced player."
+}

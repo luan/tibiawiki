@@ -1,0 +1,101 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "undertakers",
+    "hpDrainDmgMod": "100%?",
+    "notes": "<gallery captionalign=\"center\" mode=\"nolines\">\nUndertaker Artwork.jpg|Official [[Creature Artwork]]\n</gallery>",
+    "hp": "20100",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "This hunting Spider doesn't build intricate webs but in the past usually dug itself into the ground, to suddenly spring up, when alarmed through ground vibrations and drag their prey into their lairs. For these hunting tactics they earned the moniker 'Undertaker' by the first explorers to encounter them. With the more active volcano and earthquakes their sense for prey has become widely disturbed and they have mostly left their hidden lairs to freely roam the lands in search of prey. It has yet to be seen how this change of behaviour becomes their species as a whole and if its a viable tactic to survive. What can be said already, is that they became aggressive roaming predators that now are an even greater threat to all creatures in Gnomprona than before when their lairs could be spotted and avoided by keen senses. They are quite adapt at fighting which hints that their trap hunting habits were mostly a matter of convenience and less of necessity. Easily able to put up a fight, the Undertaker can compete with the other gnomepronean creatures eye to eye. Their underground lairs are not completely abandoned and they are still maintained. However, they now only serve as refuge, storage for excess prey or hiding spot for their eggs. Like squirrels, the Undertaker sometimes 'forgets' its current lair and builds a new one. Despite its hunting habits the undertaker still utilises some form of webbing which can be used spontaneously as a weapon. As the camouflage of the webbing that makes it look like a mixture of vines and roots has no apparent advantage, it's assumed that the undertaker in some distant past more heavily relied on local webs and its appearance as ordinary plant life, before moving to underground hunting lairs. This suggests that the undertaker is currently adapting for at least a third time to new behaviour patterns. This lets one wonder if this holds true for other gnompornean creatures, too or if such an adaptability is more something closely related to the undertaker per se.",
+    "speed": "205",
+    "abilities": "{{Ability List\n |{{Melee}}\n |{{Ability|Poison Bomb|1135|earth\n  |scene={{Scene|spell=2sqmballself|caster=Undertaker|look_direction=south|effect=Poison Effect 2|effect_on_caster=yes|damage_effect=Poison Effect 1}}}}\n |{{Ability|Death ball|157-852|death\n  |scene={{Scene|spell=2sqmballtarget|caster=Undertaker|look_direction=south|effect=Death Effect|damage_effect=Cloud Effect|missile=Death Missile (Large)|missile_direction=south-east|missile_distance=2/2}}}}\n |{{Ability|Rooting Wave||element=rooted\n  |scene={{Scene|spell=5sqmwavenarrow|caster=Undertaker|look_direction=east|effect=Rooting Effect}}}}\n}}",
+    "pushobjects": "yes",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "fireDmgMod": "100%",
+    "holyDmgMod": "105%",
+    "sounds": [
+        "Hizzzzz!"
+    ],
+    "pushable": "no",
+    "implemented": "12.90.12182",
+    "bestiaryclass": "Vermin",
+    "loot": [
+        {
+            "amount": "1-3",
+            "itemName": "Great Spirit Potion",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Undertaker Fangs",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "Crystal Coin",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Terra Legs",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Terra Boots",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Necrotic Rod",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Spider Silk",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Relic Sword",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Wand of Voodoo",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Blue Crystal Shard",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Butterfly Ring",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Violet Gem",
+            "rarity": "rare"
+        }
+    ],
+    "exp": "13543",
+    "creatureclass": "Invertebrates",
+    "earthDmgMod": "90%",
+    "mitigation": "2.22",
+    "physicalDmgMod": "115%",
+    "primarytype": "Insects",
+    "attacktype": "Melee",
+    "race_id": "2269",
+    "bestiarylevel": "Challenging",
+    "history": "Its experience was decreased from 15,710 to 13,543 on {{OfficialNewsArchive|6875|July 28, 2022}}.\n\nOn [[Updates/12.91.12383|September 06, 2022]] its health points were increased from 18,100 to 20,100.",
+    "senseinvis": "yes",
+    "article": "an",
+    "actualname": "undertaker",
+    "illusionable": "no",
+    "armor": "77",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "bestiaryname": "undertaker",
+    "name": "Undertaker",
+    "isboss": "no",
+    "location": "[[Monster Graveyard]]",
+    "iceDmgMod": "100%",
+    "strategy": "Unknown.",
+    "energyDmgMod": "110%",
+    "deathDmgMod": "60%"
+}

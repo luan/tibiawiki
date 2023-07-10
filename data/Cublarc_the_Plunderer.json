@@ -1,0 +1,81 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "Cublarc the Plunderer",
+    "hpDrainDmgMod": "100%?",
+    "notes": "Appears during [[Zao Raids#Orcs raid on Zzaion|raids on Zzaion]] and [[Zao Raids#Orcs raid on Zao Steppe|the steppe]].\n<gallery mode=\"nolines\">\nCublarc possible location.png\nCublarc The Plunderer for Tibia Wiki.JPG\nCublarc the pluderer.JPG\n</gallery>",
+    "isarenaboss": "no",
+    "walksthrough": "?",
+    "hp": "400",
+    "speed": "?",
+    "abilities": "{{Ability List| {{Melee|0?|element=physical}}|{{Ability|[[Arrow]]|85+}}|{{Ability|[[Poisoned|Poisons]]|up to 7hp/turn|element=poisoned}} }}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "100%",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        "Orc arga Huummmak!"
+    ],
+    "maxdmg": "85+",
+    "pushable": "?",
+    "implemented": "8.54",
+    "loot": [
+        {
+            "amount": "0-80",
+            "itemName": "Gold Coin"
+        },
+        {
+            "itemName": "Meat"
+        },
+        {
+            "itemName": "Shaggy Tail"
+        },
+        {
+            "itemName": "Orc Tooth"
+        },
+        {
+            "itemName": "Orc Leather"
+        },
+        {
+            "itemName": "Orcish Axe"
+        },
+        {
+            "itemName": "Disgusting Trophy",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Bow",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Silkweaver Bow",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Crossbow"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "400",
+    "creatureclass": "Humanoids",
+    "earthDmgMod": "120%?",
+    "physicalDmgMod": "100%?",
+    "bosstiaryclass": "Nemesis",
+    "primarytype": "Orcs",
+    "race_id": "634",
+    "senseinvis": "?",
+    "actualname": "Cublarc the Plunderer",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Cublarc the Plunderer",
+    "isboss": "yes",
+    "behaviour": "It behaves in the same way as an [[Orc Marauder]].",
+    "location": "Spawns randomly {{Mapper Coords|129.223|122.171|7|4|text=here}} and during 3 different raids:\n* When orcs are invading [[Zzaion]], it spawns near the gate.\n* During the Orc raid at the steppe, it spawns first {{Mapper Coords|129.55|122.157|7|1|text=here}}, then {{Mapper Coords|129.211|122.198|7|1|text=here}} and finally {{Mapper Coords|130.35|122.220|7|1|text=here}} after 5, 18 and 30 of the raid announcement.\n* During an unannounced, small raid around {{Mapper Coords|130.16|122.227|7|1|text=this camp}}.",
+    "iceDmgMod": "100%",
+    "strategy": "Be careful when facing this creature because it spawns with many others. The strategy is the same as an [[Orc Marauder]]. Remember that they only appear during a raid so kill it fast, make sure you have enough supplies with you because the real problem are the [[Orc Marauder]]s that appear with him. Try not to lure the other orcs or you may die quickly.",
+    "energyDmgMod": "100%?",
+    "deathDmgMod": "100%?"
+}

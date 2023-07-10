@@ -1,0 +1,116 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "walksthrough": "Poison",
+    "hp": "7800",
+    "abilities": "{{Ability List| {{Melee|0-500}}|{{Ability|Distance Life Drain|400-500|element=lifedrain}}|{{Ability|3x3 Death Missile|450-550|element=death}} }}",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "holyDmgMod": "125%",
+    "maxdmg": "1500+ HP per turn",
+    "pushable": "no",
+    "implemented": "11.80.7048",
+    "loot": [
+        {
+            "amount": "1-15",
+            "itemName": "Platinum Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Bone",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-5",
+            "itemName": "Soul Orb",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-1",
+            "itemName": "White Mushroom",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "Pelvis Bone",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-1",
+            "itemName": "Unholy Bone",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Knight Axe",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "0-1",
+            "itemName": "Bone Toothpick",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Mammoth Whopper",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Skull Helmet",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Brown Mushroom",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Mace",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Sword",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Ruthless Axe",
+            "rarity": "rare"
+        }
+    ],
+    "walksaround": "Energy, Fire",
+    "exp": "4500",
+    "mitigation": "2.16",
+    "attacktype": "Melee",
+    "history": "It's experience was decreased from 7,500 to 4,500 on [[Updates/12.31]].",
+    "article": "a",
+    "actualname": "skeleton elite warrior",
+    "illusionable": "no",
+    "armor": "75",
+    "convince": "--",
+    "name": "Skeleton Elite Warrior",
+    "isboss": "?",
+    "iceDmgMod": "100%",
+    "energyDmgMod": "105%",
+    "deathDmgMod": "0%",
+    "plural": "skeleton elite warriors",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "The Skeleton Elite Warrior is a stronger version of [[Skeleton Warrior]]s.",
+    "speed": "155",
+    "pushobjects": "?",
+    "fireDmgMod": "105%",
+    "sounds": [
+        ""
+    ],
+    "bestiaryclass": "Undead",
+    "creatureclass": "The Undead",
+    "earthDmgMod": "95%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Skeletons",
+    "race_id": "1674",
+    "bestiarylevel": "Hard",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "skeletonelite",
+    "behaviour": "Fights in close combat until death.",
+    "location": "[[Deep Desert]].",
+    "strategy": "Paladins can start hunting those around level 120 with high risk (200+ recommended), just lure it to the entrance of the cave and throw a Energy Wall Rune to run around it.\n\nBecause of their strong melee, knights should stay away from them until level 200 with a healer.\n\nMages should get a blocker or use their summon after level 200 with mana shield."
+}

@@ -1,0 +1,71 @@
+{
+    "summon": "200",
+    "templateType": "Creature",
+    "notes": "{{JSpoiler|You may hunt 300 of these as a task of the [[Killing in the Name of... Quest]].}}",
+    "walksthrough": "None",
+    "hp": "23",
+    "abilities": "{{Ability List|{{Melee|0-12}}}}",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "holyDmgMod": "100%",
+    "maxdmg": "{{Max Damage|physical=12}}",
+    "pushable": "?",
+    "usedelements": "Physical",
+    "implemented": "7.4",
+    "loot": [
+        {
+            "itemName": "Beetroot",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Badger Fur",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Acorn",
+            "rarity": "semi-rare"
+        }
+    ],
+    "walksaround": "Fire, Energy, Poison",
+    "exp": "5",
+    "mitigation": "0.07",
+    "attacktype": "Melee",
+    "history": "This creature was once very hard to find in the wild. With the [[Svargrond|Summer 2007 update]], they can now be found in considerable amounts around the [[Barbarians|barbarian camps]]. They have also been implemented in [[Tiquanda]], near the [[Tarantula]] caves.",
+    "article": "a",
+    "actualname": "badger",
+    "illusionable": "yes",
+    "armor": "1",
+    "convince": "200",
+    "name": "Badger",
+    "isboss": "no",
+    "iceDmgMod": "100%",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "100%",
+    "plural": "badgers",
+    "hpDrainDmgMod": "100%",
+    "usespells": "no",
+    "occurrence": "Common",
+    "bestiarytext": "These creatures are a common sight in Tibian forests and plains. Although they are usually quite shy, these animals are extremely territorial. Ready to attack any intruders regardless of their size, the Badger can easily become a nasty surprise to the unsuspecting traveller.",
+    "speed": "70",
+    "pushobjects": "?",
+    "fireDmgMod": "100%",
+    "sounds": [
+        ""
+    ],
+    "bestiaryclass": "Mammal",
+    "creatureclass": "Mammals",
+    "earthDmgMod": "100%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Mustelids",
+    "spawntype": [
+        "Regular"
+    ],
+    "race_id": "105",
+    "bestiarylevel": "Trivial",
+    "senseinvis": "no",
+    "drownDmgMod": "100%",
+    "bestiaryname": "badger",
+    "behaviour": "Runs in low [[health]].",
+    "location": "[[Hrodmir]], southern [[Tiquanda]], unannounced raid in [[Ab'Dendriel]] and [[Edron]].",
+    "strategy": "They are much like rats, so it is safe to attack them with [[Melee]]."
+}

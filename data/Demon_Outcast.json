@@ -1,0 +1,167 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "demon outcasts",
+    "hpDrainDmgMod": "100%",
+    "walksthrough": "Poison, Fire",
+    "hp": "6900",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "Demon outcasts are demons who have somehow fallen out of grace with their superiors. In demon society, this might happen for any reason and usually, punishment is swift and final. Sometimes though, annihilation may be considered too swift or too much of a waste. <br />Outcasts are branded for eternity, and even if they manage to serve their way back into the ranks of the demons, they are still considered inferior and disgusting - if only because they remind other demons of how quickly anyone may fall. The treatment of outcasts varies with the whims of the local demonic rulers; some outcasts might serve as gladiators for entertainment, others are used as subjects for various tortures and experiments.  Only in rare cases do demons bother to keep outcasts as prisoners; usually if they are supposed to be in possession of valuable information or particularly useful powers. The life of an outcast is miserable at best, and either way a constant fight for survival. The continuous hardships permit only the most cunning and resilient of them to survive, and their natural aggressiveness is magnified to an extreme extent. Outcasts are prone to going berserk, and even if they should somehow have gained their freedom, not much in their behaviour changes.  Outcasts usually don't think in long terms. Surviving the next day and venting off their immense anger is everything that matters to them. Their only delight seems to be to destroy and inflict pain and suffering to others. Sometimes, that attitude has induced demonic leaders to use them as expendable shock troops or to unleash them in an area that should simply be devastated and made uninhabitable. Once loose, they usually feel nothing but contempt for other demons and are unlikely to follow orders from anyone but the strongest and most frightening demons. As there is no common ground for outcasts even with their own kind, they only \"join forces\" for some random destructive acts. If there is nothing else to destroy or kill, outcasts will soon attack each other, and therefore no organised outcast societies are known. Only recently, escapees of a demonic prison joined the ranks of the known outcasts. They once belonged to the entourage of powerful demon princes, and might actively act to free them or regain the attention of a demon prince. Whether this is only a temporary switch to older routines or a more pervasive cast of mind remains yet to be seen.",
+    "speed": "148",
+    "abilities": "{{Ability List|{{Melee|0-400}}\n |{{Ability|Energy Beam|0-450|element=energy\n  |scene={{Scene|spell=6sqmbeam|effect=Purple Electricity Effect|caster=Demon Outcast|look_direction=east}}}}\n |{{Ability|Life Drain Beam|0-400|element=life drain\n  |scene={{Scene|spell=8sqmbeam|effect=Yellow Electricity Effect|caster=Demon Outcast|look_direction=east}}}}\n |{{Ability|Mana Drain Ball (Only affects Mages inside the range)|55-150|element=mana drain\n  |scene={{Scene|spell=1sqmballtarget|effect=Blue Electricity Effect|caster=Demon Outcast|missile=Energy Missile|missile_direction=south-east|missile_distance=2/2|edge_size=32}}}}\n |{{Debuff2|distance=yes|value=75%~\n  |scene={{Scene|spell=2sqmballtarget|effect=Green Sparkles Effect|caster=Demon Outcast||missile=Flash Arrow Missile|missile_direction=south-east|missile_distance=2/2|edge_size=32}}}}\n |{{Healing}}\n |{{Summon|Energy Elemental|2}}\n}}",
+    "healMod": "100%",
+    "pushobjects": "yes",
+    "paraimmune": "yes",
+    "fireDmgMod": "0%",
+    "holyDmgMod": "106%",
+    "sounds": [
+        "Back in the evil business!",
+        "This prison break will have casualties!",
+        "At last someone to hurt",
+        "No one will imprison me again!"
+    ],
+    "maxdmg": "{{Max Damage|physical=400|energy=450|lifedrain=400|manadrain=120|summons=1200}}",
+    "pushable": "no",
+    "runsat": "0",
+    "implemented": "10.30",
+    "bestiaryclass": "Demon",
+    "loot": [
+        {
+            "amount": "1-100",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-6",
+            "itemName": "Platinum Coin",
+            "rarity": "common"
+        },
+        {
+            "amount": "0-6",
+            "itemName": "Fire Mushroom",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "0-3",
+            "itemName": "Ultimate Health Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "Great Mana Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "0-5",
+            "itemName": "Small Diamond",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "0-5",
+            "itemName": "Small Ruby",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "0-5",
+            "itemName": "Small Sapphire",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "0-5",
+            "itemName": "Small Topaz",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "0-5",
+            "itemName": "Small Emerald",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "0-10",
+            "itemName": "Assassin Star",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Ring of Healing",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Giant Sword",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Stealth Ring",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Crown Shield",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Might Ring",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Ice Rapier",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Platinum Amulet",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Crusader Helmet",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Devil Helmet",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Demon Dust",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Cluster of Solace",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Demon Shield",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Crown Armor",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Demonrage Sword",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Energy",
+    "exp": "6200",
+    "creatureclass": "Demons",
+    "earthDmgMod": "60%",
+    "mitigation": "1.60",
+    "physicalDmgMod": "85%",
+    "primarytype": "Dreamhaunters",
+    "attacktype": "Melee",
+    "race_id": "1019",
+    "bestiarylevel": "Hard",
+    "senseinvis": "yes",
+    "article": "a",
+    "actualname": "demon outcast",
+    "illusionable": "no",
+    "armor": "49",
+    "drownDmgMod": "100%",
+    "convince": "--",
+    "bestiaryname": "demonoutcast",
+    "name": "Demon Outcast",
+    "isboss": "no",
+    "location": "[[Roshamuul Prison]].",
+    "iceDmgMod": "95%",
+    "strategy": "These are the most common creatures inside the [[Roshamuul Prison]], so special attention must be paid at them. Their summons are more annoying than dangerous. When hunting in teams, the blockers should throw a [[Poison Bomb Rune]] under their feet in order to avoid the Energy Elementals from getting close and taking the spot of other stronger creatures. \n\nWhen facing them solo, low level paladins can run around energy walls. Mages should shall use their strongest ice and energy attacks to take down this creature. Their mana drain is an area attack on target of the size of the [[Berserk]] spell, but it will only drain mana from Mages.",
+    "energyDmgMod": "108%",
+    "deathDmgMod": "70%"
+}

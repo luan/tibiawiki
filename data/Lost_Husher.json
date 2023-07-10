@@ -1,0 +1,151 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "isarenaboss": "no",
+    "walksthrough": "Poison",
+    "hp": "1600",
+    "abilities": "{{Ability List\n |{{Melee|?}}\n |{{Ability|Earth explosion|150-250+|element=earth}}\n |{{Ability|Death tar beam|150-350|element=death}}\n |{{Ability|Death tar ball|on itself; 150-200+|element=death}}\n |{{Ability|tar ball|on itself; 150-250|element=manadrain}}\n |{{Ability|Death Strike|150-200|element=death}}\n |{{Healing|range=75-92+|element=healing}}\n |{{Ability|[[Invisibility]]|often|element=invisible}}\n |{{Ability|[[Drunkenness]] bomb|red musical notes|element=drunk}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "secondarytype": "The Lost",
+    "holyDmgMod": "110%",
+    "maxdmg": "?",
+    "pushable": "no",
+    "implemented": "9.80",
+    "loot": [
+        {
+            "amount": "0-100",
+            "itemName": "Gold Coin"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "Platinum Coin"
+        },
+        {
+            "itemName": "Basalt Fetish"
+        },
+        {
+            "itemName": "Basalt Figurine"
+        },
+        {
+            "itemName": "Bone Fetish"
+        },
+        {
+            "itemName": "Bonecarving Knife"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "Brown Mushroom"
+        },
+        {
+            "itemName": "Coal"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "Great Mana Potion"
+        },
+        {
+            "itemName": "Holy Ash"
+        },
+        {
+            "itemName": "Lost Husher's Staff"
+        },
+        {
+            "itemName": "Red Hair Dye"
+        },
+        {
+            "itemName": "Skull Shatterer"
+        },
+        {
+            "itemName": "Small Topaz"
+        },
+        {
+            "amount": "0-3",
+            "itemName": "Strong Health Potion"
+        },
+        {
+            "itemName": "Wimp Tooth Chain"
+        },
+        {
+            "itemName": "Dwarven Ring",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Buckle",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Guardian Shield",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Knight Axe",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Terra Boots",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Clay Lump",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Fire Axe",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Skull Staff",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Spiked Squelcher",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Terra Legs",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Tower Shield",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Energy, Fire",
+    "exp": "1800",
+    "mitigation": "1.35",
+    "attacktype": "Distance",
+    "article": "a",
+    "actualname": "lost husher",
+    "illusionable": "no",
+    "armor": "55",
+    "convince": "--",
+    "name": "Lost Husher",
+    "isboss": "no",
+    "iceDmgMod": "85%",
+    "energyDmgMod": "90%",
+    "deathDmgMod": "80%",
+    "plural": "lost hushers",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "The Husher is what comes closest to a magic-using shaman in the ranks of the Lost. Rather instinctively, and probably by having watched their ominous superiors working spells, they acquired some form of magic on their own. This led to a unique mixture of magic types which magic theorists would deem impossible, yet surprisingly enough yields results. Their magic is in no way subtle, and they probably regard it as some kind of divine wonder, rather than a product of their own actions. It is unknown whether Hushers are able to use more than the battle magic that has been observed. Given the nature of the Lost, it seems unlikely that they developed some other use of their mystical gifts, but as with so much else concerning the Lost, as they have only been encountered in battle and captives could not be reasoned with, little is known about their home and culture. Besides their magic, the Hushers are as wild and bloodthirsty as any other Lost, although some more planning and smartness can be attested to them. They are extremely resilient to pain, and part of their semi-religious acts seems to involve ritually cutting off their own skin, and scorching themselves with hot irons. Their simple religion seems centred on suffering and worship of everything that is associated with fire, heat and lava. For some reason, their magic bears an extreme affinity to smoke rather than fire itself. The intricacies of their belief system, if one exists at all, and how they teach each other their techniques, are still puzzling given the violent and animal behaviour of the Lost. It has to be assumed that somewhere in the depths of the earth where the Lost are bred, there is something like a Lost community with at least rudimentary structures, which allow them some kind of cultural identity and teaching of skills that go deeper than the mere animal-like drill which the fighting forces of the Lost seem to receive.",
+    "speed": "125",
+    "pushobjects": "?",
+    "fireDmgMod": "75%",
+    "sounds": [
+        "Arr far zwar!"
+    ],
+    "bestiaryclass": "Humanoid",
+    "creatureclass": "Humanoids",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "95%",
+    "primarytype": "Dwarves",
+    "race_id": "924",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "lostdwarfhusher",
+    "location": "[[Caves of the Lost]], [[Lower Spike]] and in the [[Forsaken Mine/Lost Dwarves|Lost Dwarf]] version of the [[Forsaken Mine]].",
+    "strategy": "Unknown."
+}

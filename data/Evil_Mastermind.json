@@ -1,0 +1,53 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "It's the sixth and last floor boss. Use it to get your reward.",
+    "walksthrough": "Poison",
+    "hp": "1295",
+    "lightcolor": "180",
+    "speed": "?",
+    "abilities": "{{Ability List| {{Melee|0-77+}}|{{Ability|[[Fireball]]|66-72+|element=fire}}|{{Ability|[[Sudden Death]]|50-78+|element=death}}|{{Ability|[[Heavy Magic Missile]]|36-57+|element=energy}}|{{Ability|[[Life Drain|Distance Life Drain]]|70-73+|element=lifedrain}}|{{Ability|[[Mana Drain]]|59-75+|element=manadrain}}|{{Ability|[[Paralyze]]|element=paralyze}}|{{Healing}}|{{Haste}}|{{Summon|Vampire|1}} }}",
+    "pushobjects": "yes",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "100%",
+    "holyDmgMod": "105%",
+    "sounds": [
+        "You won't stop my masterplan to flood the world market with fake Bonelord language dictionaries!",
+        "My calculations tell me you'll die!",
+        "You can't stop me!",
+        "Beware! My evil monolog is coming!"
+    ],
+    "maxdmg": "357+ (657 with summon)",
+    "pushable": "No",
+    "lightradius": "3",
+    "implemented": "8.50",
+    "loot": [
+        {
+            "itemName": "Fan Club Membership Card"
+        }
+    ],
+    "walksaround": "Fire, Energy",
+    "exp": "675",
+    "creatureclass": "Invertebrates",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "95%",
+    "bosstiaryclass": "Bane",
+    "primarytype": "Bonelords",
+    "race_id": "569",
+    "senseinvis": "yes",
+    "actualname": "Evil Mastermind",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Evil Mastermind",
+    "isboss": "yes",
+    "behaviour": "Keeps distance shooting at you with magical attacks and runs (slowly) when you approach.",
+    "location": "[[Isle of Evil]].",
+    "iceDmgMod": "80%",
+    "strategy": "Kill from close so he uses the melee more than his other distance attacks.",
+    "energyDmgMod": "10%",
+    "deathDmgMod": "0%?"
+}

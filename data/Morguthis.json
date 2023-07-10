@@ -1,0 +1,91 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "Morguthis, [[Arkhotep]]'s [[General NPCs|general]], was sentenced to be locked away after his part in the conspiracies against the pharaoh. He is guarded by 8 [[Shredderthrower]]s.\n\n{{JSpoiler|One of the Pharaohs of [[The Ancient Tombs Quest]].}}",
+    "walksthrough": "None",
+    "hp": "4800",
+    "usespells": "yes",
+    "speed": "295",
+    "abilities": "{{Ability List\n |{{Melee|0-680|poison=4}}\n |{{Ability|Bloodrage|Increases melee by 50-70% for 5 seconds|buff\n  |scene={{Scene|spell=buffspell|effect=Green Sparkles Effect|caster=Morguthis|effect_on_caster=yes}}}}\n |{{Ability|Life drain strike|250-550|life drain\n  |scene={{Scene|spell=1sqmstrike|caster=Morguthis|missile_direction=south-east|missile_distance=2/2}}}}\n |{{Ability|Death Exori|450-750|death |scene={{Scene|spell=3x3spell|effect=Death Effect|caster=Morguthis|effect_on_caster=yes}}}}\n |{{Ability|Physical Exori|300-600|physical |scene={{Scene|spell=3x3spell|effect=Trembling Effect|caster=Morguthis|effect_on_caster=yes}}}}\n |{{Ability|Paralyze|210-230 points for 50 seconds|paralyze\n  |scene={{Scene|spell=7sqmstrike|effect=Red Sparkles Effect|caster=Morguthis|missile_direction=south-east|missile_distance=7/7}}}}\n |{{Summon|hero|3}}\n |{{Ability|turns invisible|1 second|invisible\n  |scene={{Scene|spell=buffspell|effect=Blue Sparkles Effect|caster=Morguthis|effect_on_caster=yes}}}}\n |{{Haste|[[Strong Haste]]|scene={{Scene|spell=buffspell|effect=Red Sparkles Effect|caster=Morguthis|effect_on_caster=yes}}}}\n |{{Healing|range=200-300|scene={{Scene|spell=buffspell|effect=Blue Sparkles Effect|caster=Morguthis|effect_on_caster=yes}}}}\n}}",
+    "pushobjects": "Yes",
+    "healMod": "100%?",
+    "paraimmune": "yes",
+    "fireDmgMod": "80%<",
+    "holyDmgMod": "120%",
+    "sounds": [
+        "I am the supreme warrior!",
+        "Come and fight me, cowards!",
+        "Vengeance!",
+        "You will make a fine trophy.",
+        "Let me hear the music of battle.",
+        "Another one to bite the dust!"
+    ],
+    "maxdmg": "{{Max Damage|physical=1400|death=500|summons=1080}}",
+    "pushable": "No",
+    "implemented": "7.3",
+    "loot": [
+        {
+            "amount": "0-221",
+            "itemName": "Gold Coin"
+        },
+        {
+            "itemName": "Sword Hilt",
+            "rarity": "always"
+        },
+        {
+            "amount": "0-3",
+            "itemName": "Assassin Star"
+        },
+        {
+            "itemName": "Black Pearl"
+        },
+        {
+            "itemName": "Great Health Potion"
+        },
+        {
+            "itemName": "Knight Axe"
+        },
+        {
+            "itemName": "Stone Skin Amulet"
+        },
+        {
+            "itemName": "Demonbone Amulet",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Mini Mummy",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Ravager's Axe",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Steel Boots",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Fire, Energy, Poison",
+    "exp": "3000",
+    "creatureclass": "The Undead",
+    "earthDmgMod": "110%",
+    "physicalDmgMod": "80%",
+    "bosstiaryclass": "Bane",
+    "primarytype": "Pharaohs",
+    "attacktype": "Melee",
+    "race_id": "84",
+    "senseinvis": "yes",
+    "illusionable": "no",
+    "armor": "75",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Morguthis",
+    "isboss": "no",
+    "behaviour": "Malicious; will make all efforts to destroy intruders.",
+    "location": "[[Tarpit Tomb]]",
+    "iceDmgMod": "80%<",
+    "strategy": "He will [[melee]] with anyone in close proximity, this allows distance attackers better chances to defeat him quickly.",
+    "energyDmgMod": "80%<",
+    "deathDmgMod": "0%"
+}

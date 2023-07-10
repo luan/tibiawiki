@@ -1,0 +1,126 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "Bretzecutioner",
+    "hpDrainDmgMod": "100%?",
+    "notes": "Part of the [[Killing in the Name of... Quest]]. In order to access the boss room you will need [[The Ice Islands Quest]] completed until mission 9 (\"Formorgar Mines 1\").",
+    "isarenaboss": "no",
+    "walksthrough": "?",
+    "hp": "5600",
+    "speed": "?",
+    "abilities": "{{Ability List|{{Melee|0-514+}}|{{Ability|Throws [[boulder]]s|0-200}}|{{Haste}}}}",
+    "pushobjects": "Yes",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "100%?",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "{{Max Damage|physical=714+}}",
+    "pushable": "?",
+    "implemented": "9.50",
+    "loot": [
+        {
+            "amount": "0-99",
+            "itemName": "Gold Coin"
+        },
+        {
+            "amount": "0-8",
+            "itemName": "Platinum Coin"
+        },
+        {
+            "itemName": "Giant Shimmering Pearl"
+        },
+        {
+            "itemName": "Crystal Necklace"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "Demonic Essence"
+        },
+        {
+            "itemName": "Death Ring"
+        },
+        {
+            "itemName": "Dark Armor"
+        },
+        {
+            "itemName": "Dark Shield"
+        },
+        {
+            "amount": "0-9",
+            "itemName": "Assassin Star"
+        },
+        {
+            "itemName": "Metal Spike"
+        },
+        {
+            "amount": "0-3",
+            "itemName": "Great Health Potion"
+        },
+        {
+            "amount": "0-3",
+            "itemName": "Great Mana Potion"
+        },
+        {
+            "amount": "0-3",
+            "itemName": "Great Spirit Potion"
+        },
+        {
+            "amount": "0-6",
+            "itemName": "Meat"
+        },
+        {
+            "amount": "0-5",
+            "itemName": "Small Amethyst"
+        },
+        {
+            "amount": "0-5",
+            "itemName": "Small Sapphire"
+        },
+        {
+            "amount": "0-5",
+            "itemName": "Small Diamond"
+        },
+        {
+            "itemName": "Spiked Squelcher"
+        },
+        {
+            "itemName": "Chaos Mace"
+        },
+        {
+            "itemName": "Giant Sword"
+        },
+        {
+            "itemName": "Dreaded Cleaver"
+        },
+        {
+            "itemName": "Steel Boots"
+        },
+        {
+            "itemName": "Skull Helmet"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "3700",
+    "creatureclass": "Demons",
+    "earthDmgMod": "100%?",
+    "physicalDmgMod": "100%?",
+    "primarytype": "Demons",
+    "race_id": "851",
+    "senseinvis": "?",
+    "actualname": "Bretzecutioner",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Bretzecutioner",
+    "isboss": "yes",
+    "behaviour": "Unknown.",
+    "location": "[[Formorgar Mines]], after teleport {{Mapper Coords|125.4|121.215|10|2|text=here}}.",
+    "iceDmgMod": "100%?",
+    "strategy": "Handle it as a slightly stronger [[destroyer]].",
+    "energyDmgMod": "100%?",
+    "deathDmgMod": "100%?"
+}

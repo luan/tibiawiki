@@ -1,0 +1,87 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "You can extract [[Ink]] from its corpse by using an empty [[Containers#Fluid_Containers|liquid container]] on it.\n<gallery captionalign=\"center\" mode=\"nolines\">\nBiting Book Artwork.jpg|Official [[Creature Artwork]]\n</gallery>",
+    "walksthrough": "Energy, Fire, Poison",
+    "hp": "6500",
+    "abilities": "{{Ability List\n |{{Melee|0-1055?}}\n |{{Ability|Spit|0-1210?|element=physical\n  |scene={{Scene|spell=3sqmstrike|caster=Biting Book|background=slate_floor|effect=Blood Effect|missile=Rocks Missile|missile_direction=south-east|missile_distance=3/3}}}}\n |{{Ability|Bat wave|800-1210?|element=physical\n  |scene={{Scene|spell=4sqmtwave|effect=Bat Swarm Effect|caster=Biting Book|background=slate_floor|look_direction=east}}}}\n |{{Ability|Dust Cloud|800-1200\n  |scene={{Scene|spell=3sqmball2self|caster=Biting Book|background=slate_floor|effect=Steam Effect|effect_on_caster=yes|edge_size=64}}}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "holyDmgMod": "100%",
+    "maxdmg": "{{Max Damage|physical=3475?}}",
+    "pushable": "?",
+    "implemented": "11.80.7048",
+    "loot": [
+        {
+            "amount": "1-55",
+            "itemName": "Platinum Coin",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-6",
+            "itemName": "Book Page",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-9",
+            "itemName": "Glowing Rune",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Silken Bookmark",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Big Bone",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Meat",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Ruby Necklace",
+            "rarity": "semi-rare"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "9350",
+    "mitigation": "1.88",
+    "attacktype": "Melee",
+    "history": "It's experience was decreased from 11,000 to 9,350 on [[Updates/12.31]].",
+    "article": "a",
+    "actualname": "biting book",
+    "illusionable": "no",
+    "armor": "76",
+    "convince": "--",
+    "name": "Biting Book",
+    "isboss": "no",
+    "iceDmgMod": "100%",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "100%",
+    "plural": "biting books",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "The biting books were literally created out of the stuff of nightmares.When tasked with creating a kind of guardian dog for Zathroth hoard, his librarians came up with several fiendish ideas. Many guardian creatures were prototyped but none could impress the collective of librarians who always favoured only their own creations. Finally one of them tasked nightmares and other demons to search the fringes of the subconsciousnesses of dreaming librarians for what scared them most. The amalgam of their loot was condensed into the form of the biting book. The librarians recognized what has been done there and reluctantly agreed that this creation would suit the role fine. In the centuries since then, many of the biting books were created and trained by their new masters. Indeed they act like some sort of dog and can be sometimes even playful with their owner. Still they are dangerous beasts and excellent companions as well as guardians for the libraries. They are resilient, never sleep and despite their appearance have keen senses. They can feel the slightest vibrations of the floor, their eyes are able to see in the spectrum of magic and their tongue is able to pick up smells from miles away. They are shrewd and aggressive fighters, albeit on a primal level and they are fiercely loyal to their master. Still a few of their kind proved too aggressive for training or went mad by mistreatment. Those were chained to walls to provide a scary obstacle for intruders. The biting books only major flaw is their diet which consists of ill-written stories and poetry.",
+    "speed": "240",
+    "pushobjects": "?",
+    "fireDmgMod": "100%",
+    "sounds": [
+        ""
+    ],
+    "bestiaryclass": "Construct",
+    "creatureclass": "Demons",
+    "earthDmgMod": "100%",
+    "physicalDmgMod": "50%",
+    "primarytype": "Possessed Objects",
+    "race_id": "1656",
+    "bestiarylevel": "Hard",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "bitingbook",
+    "behaviour": "Fights until death.",
+    "location": "[[Secret Library]] earth, energy, fire and ice sections. Also two incarcerated in the [[Issavi]] prison {{Mapper Coords|text=here|132.75|123.15|7|2|1|0.50.5}}, reachable from the city Library.",
+    "strategy": "Most importantly, try to avoid the waves."
+}

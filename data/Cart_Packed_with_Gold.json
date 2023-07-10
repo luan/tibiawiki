@@ -1,0 +1,53 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "hp": "10000",
+    "lightcolor": "206",
+    "abilities": "{{Ability List|}}",
+    "healMod": "100%?",
+    "fireDmgMod": "100%?",
+    "holyDmgMod": "100%?",
+    "maxdmg": "{{Max Damage|}}",
+    "pushable": "No",
+    "lightradius": "4",
+    "runsat": "0",
+    "implemented": "12.20.8834",
+    "loot": [
+        {
+            "itemName": "Small Diamond"
+        },
+        {
+            "itemName": "Stone Skin Amulet"
+        },
+        {
+            "itemName": "Ultimate Health Potion"
+        },
+        {
+            "itemName": "Terra Rod"
+        }
+    ],
+    "exp": "0",
+    "creatureclass": "Misc",
+    "earthDmgMod": "100%?",
+    "physicalDmgMod": "100%?",
+    "primarytype": "Machines",
+    "spawntype": [
+        "Unique"
+    ],
+    "race_id": "1769",
+    "article": "a",
+    "actualname": "cart packed with gold",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Cart Packed with Gold",
+    "isboss": "No",
+    "behaviour": "It will walk when there is a player close to it, as long as there are no obstacles in front of it.",
+    "location": "[[Cobra Bastion]] basement.",
+    "iceDmgMod": "100%?",
+    "strategy": "Protect it and clear its path to help it collect some gold. Whenever it drops [[Wheel Oil]], quickly use the oil on the Cart to speed it up for a second.",
+    "energyDmgMod": "100%?",
+    "deathDmgMod": "0%"
+}

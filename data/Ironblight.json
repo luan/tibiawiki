@@ -1,0 +1,163 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "Similar to a [[Lost Soul]], the ironblight does not heal itself and runs at low health.<br />\nIt can be [[Ironblight (Mount)|tamed]]. Use an [[Iron Loadstone]] or a [[Music Box]] on it to do so.",
+    "isarenaboss": "no",
+    "walksthrough": "Fire, Poison",
+    "hp": "6600",
+    "abilities": "{{Ability List\n |{{Melee|0-500}}\n |{{Ability|Ice Beam|300-500|element=ice}}\n |{{Ability|[[Viper Star]]|[[Explosion|+ area]] 300-500|element=earth}}\n |{{Ability|Poisoning Bomb|poisons for 23 hp/turn|element=poisoned}}\n |{{Ability|[[Invisibility]]|element=invisible}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "secondarytype": "Ungulates",
+    "holyDmgMod": "100%",
+    "maxdmg": "Unknown",
+    "pushable": "?",
+    "implemented": "9.60",
+    "loot": [
+        {
+            "amount": "4-199",
+            "itemName": "Gold Coin",
+            "rarity": "always"
+        },
+        {
+            "amount": "1-8",
+            "itemName": "Platinum Coin",
+            "rarity": "always"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Brown Crystal Splinter",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Crystalline Spikes",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Great Mana Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Green Crystal Shard",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Red Crystal Fragment",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Shiny Stone",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "Small Amethyst",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "Small Emerald",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Ultimate Health Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "War Crystal",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Crystal of Balance",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Crystal of Power",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Red Gem",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Springsprout Rod",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Glacial Rod",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Blue Gem",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Epee",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Magic Sulphur",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Terra Legs",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Crystal Mace",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Sapphire Hammer",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Composite Hornbow",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Jade Hat",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Energy",
+    "exp": "4400",
+    "mitigation": "2.40",
+    "attacktype": "Melee",
+    "article": "an",
+    "actualname": "ironblight",
+    "illusionable": "no",
+    "armor": "84",
+    "convince": "--",
+    "name": "Ironblight",
+    "isboss": "no",
+    "iceDmgMod": "80%",
+    "energyDmgMod": "75%",
+    "deathDmgMod": "60%",
+    "plural": "ironblights",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Uncommon",
+    "bestiarytext": "Ironblights are strange creatures that are highly magnetic. They follow unseen magnetic currents in the earth in their slow wanderings. They also emit magnetic fields of their own, sometimes moving iron-rich earth and stones seemingly at will. In the right surroundings, Ironblights can even walk on walls and ceilings. Oddly enough, their prolonged proximity to iron lets it rust at an unnatural rate. Therefore dwarfs are particularly interested in keeping the Ironblights away. In the past, successful extermination campaigns have eradicated Ironblight presences from their mines for quite a while. The Ironblights are usually as patient and slow as the stone they resemble, only to surprise the incautious with bursts of speed and aggression from one second to the next. The Ironblights are immensely irritated by the magnetic fields that most sentient beings seem to emit. The highly sensitive creatures experience pain and agony in the vicinity of people. Yet this seems to kick in only at a certain low range, far too late to avoid the cause of discomfort. Therefore Ironblights often threaten bases of underground dwellers. Young gnomes had the habit of challenging each other as to who can catch the attention of an Ironblight from furthest away compared to the others, just to prove who is smarter. This rather unwise practice has been forbidden to gnomes by law and promotional campaigns with slogans like 'it is not at all smart to challenge death by teasing Ironblights'.",
+    "speed": "143",
+    "pushobjects": "?",
+    "fireDmgMod": "40%",
+    "sounds": [
+        "Yowl!",
+        "Clonk!"
+    ],
+    "runsat": "red",
+    "bestiaryclass": "Elemental",
+    "creatureclass": "Elementals",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "85%",
+    "primarytype": "Geo-Elementals",
+    "race_id": "890",
+    "bestiarylevel": "Hard",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "ironblight",
+    "behaviour": "Ironblights will fight their opponents in close combat. Ironblights retarget very frequently.",
+    "location": "[[Warzone 3]].",
+    "strategy": "Ironblights are the only creatures in [[Warzone 3]] that walk through fire. It's recommended to use a [[Gill Necklace]] or a [[Terra Amulet]] because their poison damage really adds up."
+}

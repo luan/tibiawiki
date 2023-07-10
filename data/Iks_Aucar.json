@@ -1,0 +1,117 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "iks aucars",
+    "hpDrainDmgMod": "100%?",
+    "notes": "<gallery captionalign=\"center\" mode=\"nolines\">\nIks Aucar Artwork.jpg|Official [[Creature Artwork]]\n</gallery>",
+    "walksthrough": "Energy, Fire, Poison",
+    "hp": "1520",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "The Iks were an ancient civilization of proud warriors, builders and artists long lost to the world of Tibia. Their origins lie far from the known continents, only fragments of obscure lore and cultural remains tell of their history and legacy. A great catastrophe at the evolutionary height of their society led to exile and the scattering of surviving Iks in various parts of Tibia centuries ago. The Aucar are cursed remnants of the once proud Iks warrior caste. They are expertly trained in melee combat, formidable foes utilizing a rich set of effective moves and artistic flexibility. They are slower than other Iks but make up for this with raw power and aggressiveness.",
+    "speed": "105",
+    "abilities": "{{Ability List\n |{{Melee|203}}\n |{{Ability|Dust Beam|77-97|element=physical\n  |scene={{Scene|spell=5sqmbeam|caster=Iks Aucar|look_direction=east|effect=Dust Effect|damage_effect=Blood Effect}}}}\n |{{Ability|Explosion Strike|100~|element=physical\n  |scene={{Scene|spell=1sqmstrike|caster=Iks Aucar|look_direction=south|effect=Explosion Effect|damage_effect=Blood Effect}}}}\n |{{Ability|Dust Up|unknown|element=?\n  |scene={{Scene|spell=buffspell|effect=Dust Effect|caster=Iks Aucar|look_direction=south|effect_on_caster=yes}}}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "fireDmgMod": "95%",
+    "holyDmgMod": "100%",
+    "sounds": [
+        "Chaahrrr!",
+        "Hrmmmh!",
+        "Cathach!!",
+        "Chaahrrr!"
+    ],
+    "implemented": "13.10.12852",
+    "bestiaryclass": "Undead",
+    "loot": [
+        {
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Small Enchanted Sapphire",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Small Emerald",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Plate Shield",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Green Crystal Splinter",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Brown Crystal Splinter",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Onyx Chip",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Opal",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Strong Health Potion",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Small Ruby",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "War Hammer",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Rotten Feather",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Ritual Tooth",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Gold-Brocaded Cloth",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Broken Iks Cuirass"
+        },
+        {
+            "itemName": "Broken Iks Sandals"
+        }
+    ],
+    "walksaround": "None",
+    "exp": "1150",
+    "creatureclass": "The Undead",
+    "earthDmgMod": "100%",
+    "mitigation": "1.32",
+    "physicalDmgMod": "95%",
+    "primarytype": "Iks",
+    "spawntype": [
+        "Unblockable"
+    ],
+    "attacktype": "melee",
+    "race_id": "2344",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "article": "a",
+    "actualname": "Iks aucar",
+    "illusionable": "no",
+    "armor": "36",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "bestiaryname": "iksaucar",
+    "name": "Iks Aucar",
+    "isboss": "no",
+    "location": "[[Iksupan]]",
+    "iceDmgMod": "105%",
+    "energyDmgMod": "105%",
+    "deathDmgMod": "110%"
+}

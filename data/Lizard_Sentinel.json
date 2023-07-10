@@ -1,0 +1,101 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "They often appear along with other [[lizards]]; sentinels are ''somewhat'' slow. These creatures can be skinned with an [[Obsidian Knife]]. See also: [[Lizard Leather/Skinning]].",
+    "walksthrough": "Poison",
+    "hp": "265",
+    "abilities": "{{Ability List\n |{{Melee|0-45}}\n |{{Ability|Throws [[spear]]s|0-70|element=physical\n  |scene={{Scene|spell=5sqmstrike|background=canvas|caster=Lizard Sentinel|look_direction=south|missile=Spear Missile|missile_direction=south-east|missile_distance=5/5}}}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "holyDmgMod": "100%",
+    "maxdmg": "{{Max Damage|physical=115}}",
+    "pushable": "?",
+    "usedelements": "Physical",
+    "implemented": "7.5",
+    "loot": [
+        {
+            "amount": "0-80",
+            "itemName": "Gold Coin"
+        },
+        {
+            "amount": "0-3",
+            "itemName": "Spear"
+        },
+        {
+            "itemName": "Chain Armor"
+        },
+        {
+            "itemName": "Scale Armor"
+        },
+        {
+            "itemName": "Hunting Spear",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Obsidian Lance",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Lizard Leather",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Lizard Scale",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Health Potion",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Halberd",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Sentinel Shield",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Small Diamond",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Fire, Energy",
+    "exp": "110",
+    "mitigation": "0.62",
+    "attacktype": "Distance",
+    "article": "a",
+    "actualname": "lizard sentinel",
+    "illusionable": "yes",
+    "armor": "17",
+    "convince": "560",
+    "name": "Lizard Sentinel",
+    "isboss": "no",
+    "iceDmgMod": "80%",
+    "energyDmgMod": "90%",
+    "deathDmgMod": "100%",
+    "plural": "lizard sentinels",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "no",
+    "occurrence": "Common",
+    "bestiarytext": "Even the lizard people of the lowest caste follow some kind of spiritual path. Lizard Sentinels form a kind of temple guard rather than an army. Following the orders of Templars and snakecharmers, they work, fight and die for the welfare of the lizard race. Bred and raised for this purpose, only the Lizard Sentinels seem to have an almost steady supply for their troops whose strength lies in their numbers. They are rather distance than melee fighters and they try to shun close combat which seems to be a privilege of the Templars. If Lizard Sentinels are forced to fight eye to eye, they defend themselves almost reluctantly as if they were even in the face of death trying to avoid breaking any taboo.",
+    "speed": "90",
+    "pushobjects": "?",
+    "fireDmgMod": "110%",
+    "sounds": [
+        "Tssss!"
+    ],
+    "bestiaryclass": "Reptile",
+    "creatureclass": "Reptiles",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Low Class Lizards",
+    "race_id": "114",
+    "bestiarylevel": "Easy",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "lizardsentinel",
+    "behaviour": "They run at [[Health|dark red health]]. They like to keep a distance from their targets, while shooting [[spear]]s.",
+    "location": "[[Chor]], [[Forbidden Temple]], [[Zzaion]] and [[Foreigner Quarter]].",
+    "strategy": "[[Knight]]s, should use offensive fighting to kill them, since their defense is relatively low, and when you're close to them, they run slower than normal. Don't let this monster run too far away, or it may lure you into dangerous areas so kill them quickly. You should kill them first because their [[spear]]s can penetrate your [[armor]] easier than other attacks."
+}

@@ -1,0 +1,60 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "walksthrough": "Poison",
+    "hp": "250",
+    "abilities": "{{Ability List|{{Melee|0-80}}|{{Ability|Poison Beam|40-60|earth}}|{{Ability|Poison Ball on self|10-20|earth}}|{{Ability|Poison Shot|0|earth}}|{{Summon|Acid Blob|3}}}}",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "holyDmgMod": "100%",
+    "maxdmg": "{{Max Damage|physical=80|earth=80|summons=480}}",
+    "pushable": "?",
+    "implemented": "8.40",
+    "loot": [
+        {
+            "itemName": "Glob of Acid Slime",
+            "rarity": "uncommon"
+        }
+    ],
+    "walksaround": "Fire, Energy",
+    "exp": "250",
+    "mitigation": "0.25",
+    "attacktype": "Melee",
+    "article": "an",
+    "actualname": "acid blob",
+    "illusionable": "no",
+    "armor": "3",
+    "convince": "--",
+    "name": "Acid Blob",
+    "isboss": "no",
+    "iceDmgMod": "80%",
+    "energyDmgMod": "110%",
+    "deathDmgMod": "0%",
+    "plural": "acid blobs",
+    "hpDrainDmgMod": "100%",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "Highly destructive and corrosive, the Acid Blob has little in common with the ordinary slime. They are much better in finding and pursuing a target than their distant cousins. While the ordinary slime is driven by the primal urge to get food, the Acid Blob is out for destruction. It is indeed a frightening sight when a bunch of these creatures crawls towards a single target with the intention to completely destroy it.<br />Some researchers speculate that Acid Blobs share their intelligence with blobs all over the world. As Acid Blobs reproduce themselves by splitting into two entities, this thesis might have an element of truth.<br />Be it as it may, the Acid Blob is a constant threat particularly to the environment. Since living creatures are often smart and quick enough to avoid the attacks of the blobs, any kind of  plants,  constructions and the like are usually not that lucky and are annihilated by their attacks.<br />In the past, some eccentric madmen used Acid Blobs as waste disposal, which was considered to be somewhat stylish. However, after the Acid Blobs had digested a certain amount of waste, they started reproducing themselves multiple times which started to become a real problem. After several unpleasant incidents, this way of waste disposal was stopped, however, the results of such folly can still be seen at various places.",
+    "speed": "60",
+    "pushobjects": "?",
+    "fireDmgMod": "110%",
+    "sounds": [
+        "Kzzchhhh"
+    ],
+    "bestiaryclass": "Slime",
+    "creatureclass": "Elementals",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Blobs",
+    "spawntype": [
+        "Regular"
+    ],
+    "race_id": "513",
+    "bestiarylevel": "Medium",
+    "senseinvis": "no",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "acidblob",
+    "behaviour": "Like a [[Slime]], will advance towards its prey in attempt to overwhelm it by [[summon]]ing more Acid Blobs.",
+    "location": "[[Alchemist Quarter]], [[Deeper Banuta]].",
+    "strategy": "Kill it like a [[Slime]], being wary of geting surrounded by its [[Summon]]s. Try to kill this monster as fast as you can, because its [[Summon]]s, adding another [[Blobs|Blob-Type Creatures]], can make you lay down in few seconds."
+}

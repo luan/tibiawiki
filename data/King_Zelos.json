@@ -1,0 +1,210 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "It's the final boss of the [[Grave Danger Quest]].",
+    "walksthrough": "Fire, Energy, Poison",
+    "hp": "400000?",
+    "speed": "?",
+    "abilities": "{{Ability List| {{Melee|0-1000?}}|{{Ability|[[Status Condition|Great Hex]] beam|reduces maximum hitpoints to 40%; healing received to 50% and damage dealt to 50%|element=hexed}}|{{Ability|[[Death Damage|Expanding Death Ring]]|1000-2000; starts as a small ring near the boss after being channeled and grows bigger every second|element=death}}|{{Ability|Blood Ring around self|?|element=?}} }}",
+    "pushobjects": "yes",
+    "healMod": "100%?",
+    "paraimmune": "yes",
+    "fireDmgMod": "100%?",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        "Mine is the power of death! You can't defeat me!",
+        "I will rule again and my realm of death will span the world!",
+        "My lich-knights will conquer this world for me!"
+    ],
+    "maxdmg": "?",
+    "pushable": "no",
+    "runsat": "0",
+    "implemented": "12.20.8834",
+    "cooldown": "20",
+    "loot": [
+        {
+            "amount": "2-5",
+            "itemName": "Crystal Coin"
+        },
+        {
+            "amount": "2-4",
+            "itemName": "Silver Token"
+        },
+        {
+            "amount": "3",
+            "itemName": "Gold Token"
+        },
+        {
+            "amount": "6-14",
+            "itemName": "Ultimate Spirit Potion"
+        },
+        {
+            "amount": "6-14",
+            "itemName": "Ultimate Mana Potion"
+        },
+        {
+            "amount": "6-14",
+            "itemName": "Supreme Health Potion"
+        },
+        {
+            "amount": "1-4",
+            "itemName": "White Piece of Cloth"
+        },
+        {
+            "amount": "10",
+            "itemName": "Mastermind Potion"
+        },
+        {
+            "amount": "10",
+            "itemName": "Berserk Potion"
+        },
+        {
+            "amount": "10",
+            "itemName": "Bullseye Potion"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Yellow Gem"
+        },
+        {
+            "itemName": "Collar of Green Plasma"
+        },
+        {
+            "itemName": "Red Gem"
+        },
+        {
+            "itemName": "Blue Gem"
+        },
+        {
+            "itemName": "Green Gem"
+        },
+        {
+            "itemName": "Violet Gem"
+        },
+        {
+            "itemName": "Bar of Gold"
+        },
+        {
+            "itemName": "Crown Armor"
+        },
+        {
+            "itemName": "Flask of Warrior's Sweat"
+        },
+        {
+            "itemName": "Cobra Crown"
+        },
+        {
+            "itemName": "Red Tome"
+        },
+        {
+            "itemName": "Ring of Red Plasma"
+        },
+        {
+            "itemName": "Magic Sulphur"
+        },
+        {
+            "itemName": "Ring of Blue Plasma"
+        },
+        {
+            "itemName": "Collar of Blue Plasma"
+        },
+        {
+            "itemName": "Lightning Robe"
+        },
+        {
+            "itemName": "Terra Mantle"
+        },
+        {
+            "itemName": "Boots of Haste"
+        },
+        {
+            "itemName": "Mortal Mace"
+        },
+        {
+            "itemName": "Galea Mortis"
+        },
+        {
+            "itemName": "Bow of Cataclysm"
+        },
+        {
+            "itemName": "Shadow Cowl"
+        },
+        {
+            "itemName": "Toga Mortis"
+        },
+        {
+            "itemName": "Ring of Green Plasma"
+        },
+        {
+            "itemName": "Glacier Robe"
+        },
+        {
+            "itemName": "Ancient Liche Bone"
+        },
+        {
+            "itemName": "Gold Ingot"
+        },
+        {
+            "itemName": "Collar of Red Plasma"
+        },
+        {
+            "itemName": "Rotten Heart"
+        },
+        {
+            "itemName": "Young Lich Worm"
+        },
+        {
+            "itemName": "Giant Sapphire"
+        },
+        {
+            "itemName": "Giant Emerald"
+        },
+        {
+            "itemName": "Magma Coat"
+        },
+        {
+            "itemName": "Golden Hyaena Pendant"
+        },
+        {
+            "itemName": "Huge Chunk of Crude Iron"
+        },
+        {
+            "itemName": "Abyss Hammer"
+        },
+        {
+            "itemName": "Ornate Locket"
+        },
+        {
+            "itemName": "Giant Ruby"
+        },
+        {
+            "itemName": "Spirit Container"
+        },
+        {
+            "itemName": "Gemmed Figurine"
+        }
+    ],
+    "walksaround": "None.",
+    "exp": "?",
+    "earthDmgMod": "100%?",
+    "physicalDmgMod": "100%?",
+    "bosstiaryclass": "Archfoe",
+    "spawntype": [
+        "Triggered"
+    ],
+    "race_id": "1784",
+    "senseinvis": "yes",
+    "actualname": "King Zelos",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "King Zelos",
+    "isboss": "yes",
+    "location": "[[Isle of the Kings]]",
+    "iceDmgMod": "100%?",
+    "strategy": "Its elemental weakness depend on the team performance during the boss fight. The longer it takes for the team to reach Zelos, the stronger it will be. Nevertheless, Fire is always the best elemental to be used against it. \n\nIf the team has defeated the 4 minibosses before Zelos quickly enough, the strategy is easy. The blocker should always stay diagonal, preferably at the right side of the room near the wall so the boss doesn't face the team. The shooters should stay diagonal to avoid the Hex beam and shoot [[Fireball Rune]]s for maximum single-target damage. The second blocker can either attack from distance while blocking the 3 [[Risen Soldier]]s or stay near the boss, which is more dangerous but will increase the damage output.",
+    "energyDmgMod": "100%?",
+    "deathDmgMod": "-100%?"
+}

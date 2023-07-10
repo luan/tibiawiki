@@ -1,0 +1,93 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "They will only ever make two melee hits. As they frequently drop ice rapiers, it could be assumed that they use them as weapons, however their melee attacks are 100% physical damage.",
+    "plural": "pirat cutthroats",
+    "hpDrainDmgMod": "100%?",
+    "walksthrough": "Energy, Fire",
+    "hp": "2600",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "The rank and file crew of the Coyrm pirats consists mainly of cutthroats. Drawn to the seas by promises of cheese and plunder, young Corym join the ranks of the pirats in great numbers. When they realize that the life of a pirat is not the land of cheese and honey that was promised, it's already too late to leave. The sea demands a high death toll amongst the recruits and the crews have to be replenished constantly. Luckily enough for the pirat captains the lure of their promises is strong enough to ensure a steady stream of conscripts so that they simply don't care. Equipped with only the most basic weapons and armour a cutthroat is usually highly depended on his scavenging skills to steal and improvise better equipment, in their desperate battle to survival. A pirats life is cheap and this is employed by their superiors to the fullest. Why waste expensive green powder on an enemy, that can also be brought down is you only throw enough cutthroats against them. Any halve seasoned pirat is aware of this and tries it's best to raise through the ranks, so it will be them, who sends others to their deaths. While there is a lot backstabbing and treachery amongst those most lowly of pirats, a thing are to be seen is any glimmer of bravery. Only in great numerous advantage the cutthroats show the slightest chance of overcoming their cowardice and even then they are more than willing to shove any crewmate into harms way, to ensure their own survival.",
+    "speed": "160",
+    "abilities": "{{Ability List\n |{{Melee|0-400? at most 2 hits}}\n |{{Ability|Smoke wave|100-140?|element=physical\n  |scene={{Scene|spell=4sqmtwave|effect=Dust Effect|caster=Pirat Cutthroat|look_direction=east}}}}\n |{{Ability|Blood Exori|120-160?|element=energy\n  |scene={{Scene|spell=3x3spell|effect=Blood Effect|caster=Pirat Cutthroat|casting_effect=Blood Effect}}}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "fireDmgMod": "100%",
+    "holyDmgMod": "100%",
+    "sounds": [
+        ""
+    ],
+    "implemented": "12.60.10463",
+    "bestiaryclass": "Humanoid",
+    "loot": [
+        {
+            "amount": "1-4",
+            "itemName": "Great Health Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Ice Rapier",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Knight Axe",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Crystal Sword",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-10",
+            "itemName": "Pirate Coin",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Crowbar",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Knight Armor",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Focus Cape",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Pirat's Tail",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Shark Fins",
+            "rarity": "semi-rare"
+        }
+    ],
+    "walksaround": "Poison",
+    "exp": "1800",
+    "creatureclass": "Humanoids",
+    "earthDmgMod": "120%",
+    "mitigation": "1.88",
+    "physicalDmgMod": "90%",
+    "primarytype": "Pirats",
+    "attacktype": "Melee",
+    "race_id": "2036",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "article": "a",
+    "actualname": "pirat cutthroat",
+    "illusionable": "no",
+    "armor": "72",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "bestiaryname": "piratcutthroat",
+    "name": "Pirat Cutthroat",
+    "isboss": "no",
+    "behaviour": "Fights in close combat. They use a strong physical attack, but their weapon breaks after two hits.",
+    "location": "[[Pirat Mine]], [[The Wreckoning]], [[Krailos Steppe]].",
+    "iceDmgMod": "100%",
+    "strategy": "Be careful of their strong melee attack at the start of the fight. Use [[Earth Damage]] against them, and consider using items with [[Energy Resistant|Energy Resistance]].",
+    "energyDmgMod": "80%",
+    "deathDmgMod": "100%"
+}

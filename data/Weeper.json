@@ -1,0 +1,143 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "isarenaboss": "no",
+    "walksthrough": "Fire, Poison",
+    "hp": "6800",
+    "abilities": "{{Ability List\n |{{Melee|0-500}}\n |{{Ability|Fire Berserk|100-200?|element=fire\n  |scene={{Scene|spell=3x3spell|effect=Fire Effect|caster=Weeper|casting_effect=Fire Effect}}}}\n |{{Ability|Fire Beam|500-1000|element=fire\n  |scene={{Scene|spell=8sqmbeam|effect=Flame Effect|caster=Weeper|look_direction=east}}}}\n |{{Ability|Life Drain Ball|250-350?|element=life drain\n  |scene={{Scene|spell=2sqmballtarget|effect=Red Sparkles Effect|caster=Weeper|missile=Death Missile (Large)|missile_direction=south-east|missile_distance=2/2}}}}\n |{{Ability|[[Flame Strike]]|?|element=fire}}\n |{{healing}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "holyDmgMod": "100%",
+    "maxdmg": "~1500",
+    "pushable": "no",
+    "implemented": "9.60",
+    "loot": [
+        {
+            "amount": "1-199",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-7",
+            "itemName": "Platinum Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Blazing Bone",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Brown Crystal Splinter",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Eye of a Weeper",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Fiery Heart",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Great Mana Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Magma Clump",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-5",
+            "itemName": "Prismatic Bolt",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Red Crystal Fragment",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "Small Ruby",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Ultimate Health Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Violet Crystal Shard",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Fire Sword",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Coal",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Fire Axe",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Wand of Everblazing",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Magma Coat",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Magma Legs",
+            "rarity": "rare"
+        }
+    ],
+    "walksaround": "Energy",
+    "exp": "4800",
+    "mitigation": "2.19",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "weeper",
+    "illusionable": "no",
+    "armor": "76",
+    "convince": "--",
+    "name": "Weeper",
+    "isboss": "no",
+    "iceDmgMod": "105%",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "70%",
+    "plural": "weepers",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "lightcolor": "157",
+    "occurrence": "Uncommon",
+    "bestiarytext": "The Weepers are more living minerals than anything else. Though the gnomes fiercely deny it, it can be assumed that the Weepers served as inspiration for the construction of the first crystal golems. As an oddity of life, Weepers physically share only a few characteristics with truly living beings. It is all the more astonishing that in appearance and behaviour they could be confused with biological live forms. This raises a lot of questions about the Weepers and is fuel to dozens of more or less educated guesses about their origin. Some speculations see them as surviving servants of a long extinct race. Others point out the possibility that they are the offspring of early gnomish experiments. Some see the Weepers more in the array of elemental beings, going so far as to say that the Weepers are the incarnation of a new and to date undiscovered element. They got their name from the fiery 'tears' that usually leak in what would be considered their eye region as well as the odd sobbing sounds it emanates. Weepers are extremely unpredictable in their behaviour. The only constant seems to be their hatred for biological life which they attack fiercely and without restraint.",
+    "speed": "170",
+    "pushobjects": "no",
+    "fireDmgMod": "0%",
+    "sounds": [
+        "Moooaaan"
+    ],
+    "lightradius": "5",
+    "runsat": "red",
+    "bestiaryclass": "Construct",
+    "creatureclass": "Elementals",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "105%",
+    "primarytype": "Magma-Elementals",
+    "spawntype": [
+        "Regular"
+    ],
+    "race_id": "882",
+    "bestiarylevel": "Hard",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "weeper",
+    "behaviour": "Frequently attacks low level mages.",
+    "location": "[[Warzone 2]].",
+    "strategy": "If hunting with mages, protect them. They will retarget almost every turn to the lowest level mage, even if they are unreachable (e.g. if a mage is on the other side of the warzone bars, the knight/paladin inside will not be attacked). Energy walls are useful to protect yourself from them.\nHis beam is similar to [[Hellfire Fighter]]"
+}

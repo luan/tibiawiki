@@ -1,0 +1,136 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "When the enemy wall has been breached, the Minotaur Invader's role begins. Many of these will spawn all over the east side of the [[Glooth Underground Factory]], second floor, in many waves throughout the hour.",
+    "walksthrough": "?",
+    "hp": "1850",
+    "abilities": "{{Ability List|{{Melee|0-350+}}}}",
+    "healMod": "100%",
+    "paraimmune": "?",
+    "holyDmgMod": "90%",
+    "maxdmg": "{{Max Damage|physical=350+}}",
+    "pushable": "?",
+    "usedelements": "Physical",
+    "implemented": "10.70",
+    "loot": [
+        {
+            "amount": "0-197",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "amount": "0-4",
+            "itemName": "Platinum Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Piece of Warrior Armor",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Minotaur Horn",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Minotaur Leather",
+            "rarity": "semi-rare"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Small Topaz",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Small Ruby",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Small Amethyst",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Guardian Shield",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Knight Axe",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Mooh'tah Plate",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Blue Piece of Cloth",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Red Piece of Cloth",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Warrior Helmet",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Red Gem",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Blue Gem",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Titan Axe",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Minotaur Trophy",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Fire",
+    "exp": "1600",
+    "mitigation": "1.76",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "minotaur invader",
+    "illusionable": "no",
+    "armor": "40",
+    "convince": "?",
+    "name": "Minotaur Invader",
+    "isboss": "no",
+    "iceDmgMod": "110%",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "110%",
+    "status": "event",
+    "plural": "minotaur invaders",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "no",
+    "occurrence": "Rare",
+    "speed": "120",
+    "pushobjects": "?",
+    "fireDmgMod": "80%",
+    "sounds": [
+        "For the victory!",
+        "We will crush the enemy!"
+    ],
+    "runsat": "0",
+    "bestiaryclass": "Humanoid",
+    "creatureclass": "Humanoids",
+    "earthDmgMod": "100%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Minotaurs",
+    "spawntype": [
+        "Raid",
+        "Unblockable"
+    ],
+    "race_id": "1109",
+    "bestiarylevel": "Medium",
+    "senseinvis": "?",
+    "drownDmgMod": "100%?",
+    "behaviour": "Fights in close combat similar to an [[Execowtioner]].",
+    "location": "Second floor [[Glooth Underground Factory]], east side during the [[Oramond Factory Raids|Minotaurs raid]].",
+    "strategy": "Just kill them, they are similar to [[Execowtioner]]s but weaker. Watch out for [[Glooth Powered Minotaur]]s, which cannot be killed unless you lure them to special [[Glooth Extractor]]s, and for [[Minotaur Totem]]s, which heal all creatures around it."
+}

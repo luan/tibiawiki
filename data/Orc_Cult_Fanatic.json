@@ -1,0 +1,114 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "walksthrough": "?",
+    "hp": "1300",
+    "usespells": "no",
+    "occurrence": "Uncommon",
+    "bestiarytext": "The Orc Cult Fanatic is a stronger version of [[Orc Leader]]s.",
+    "speed": "115",
+    "abilities": "{{Ability List|{{Melee|0-200?}}|{{Ability|[[Throwing Knife|Throwing Knives]]|0-150?}}}}",
+    "pushobjects": "yes",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "fireDmgMod": "0%",
+    "holyDmgMod": "80%",
+    "sounds": [],
+    "maxdmg": "{{Max Damage|physical=350}}",
+    "pushable": "no",
+    "implemented": "11.40.5409",
+    "bestiaryclass": "Humanoid",
+    "loot": [
+        {
+            "amount": "1-135",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Fish",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Orc Leather",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Plate Shield",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-4",
+            "itemName": "Brown Mushroom",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Skull Belt",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Cultish Robe",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Great Health Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "Small Ruby",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Sword Ring",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Warrior Helmet",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Plate Armor",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Plate Legs",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Brass Legs",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Orc Tooth",
+            "rarity": "rare"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "1100",
+    "creatureclass": "Humanoids",
+    "earthDmgMod": "110%",
+    "mitigation": "0.99",
+    "physicalDmgMod": "110%",
+    "primarytype": "Orcs",
+    "spawntype": [
+        "Regular"
+    ],
+    "race_id": "1506",
+    "attacktype": "Melee",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "article": "an",
+    "actualname": "orc cult fanatic",
+    "illusionable": "no",
+    "armor": "22",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "bestiaryname": "orccultfanatic",
+    "name": "Orc Cult Fanatic",
+    "location": "[[Edron Orc Cave]].",
+    "iceDmgMod": "100%",
+    "strategy": "Unknown",
+    "energyDmgMod": "80%",
+    "deathDmgMod": "110%"
+}

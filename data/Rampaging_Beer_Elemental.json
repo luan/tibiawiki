@@ -1,0 +1,43 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "0%",
+    "notes": "{{JSpoiler|It's part of the final game of the [[Orcsoberfest]] event.}}",
+    "hp": "?",
+    "abilities": "{{Ability List|}}",
+    "pushobjects": "yes",
+    "healMod": "0%",
+    "paraimmune": "yes",
+    "fireDmgMod": "0%",
+    "holyDmgMod": "0%",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "0",
+    "pushable": "no",
+    "implemented": "12.20.9066",
+    "loot": [],
+    "exp": "?",
+    "creatureclass": "Elementals",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "0%",
+    "primarytype": "Event Creatures",
+    "spawntype": [
+        "Triggered"
+    ],
+    "senseinvis": "yes",
+    "article": "a",
+    "actualname": "rampaging beer elemental",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "0%",
+    "convince": "--",
+    "name": "Rampaging Beer Elemental",
+    "isboss": "no",
+    "behaviour": "Chases nearby characters upon spawning.",
+    "location": "[[Orcsoberfest Island]].",
+    "iceDmgMod": "0%",
+    "strategy": "Lure onto set traps on the floor.",
+    "energyDmgMod": "0%",
+    "deathDmgMod": "0%"
+}

@@ -1,0 +1,65 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "Foreman Kneebiter will disappear one hour after spawning. \n<gallery>\nForemankneebiter.jpg\n</gallery>",
+    "walksthrough": "?",
+    "hp": "570",
+    "speed": "?",
+    "abilities": "{{Ability List| {{Melee|0-250}}|{{Ability|[[Distance Fighting]]|0-67?|element=?}}|{{Healing}} }}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "90%",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        "Ashes and rust! I'll get you!",
+        "By Durins beard!",
+        "Hail Durin!",
+        "No one will steal our ore!",
+        "No trespassing allowed!"
+    ],
+    "maxdmg": "317+",
+    "pushable": "no",
+    "implemented": "8.20",
+    "loot": [
+        {
+            "amount": "1-100",
+            "itemName": "Gold Coin"
+        },
+        {
+            "itemName": "Steel Helmet"
+        },
+        {
+            "itemName": "Battle Shield"
+        },
+        {
+            "itemName": "Iron Ore"
+        },
+        {
+            "itemName": "Scale Armor"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "445",
+    "creatureclass": "Humanoids",
+    "earthDmgMod": "80%?",
+    "physicalDmgMod": "99%<?",
+    "bosstiaryclass": "Nemesis",
+    "primarytype": "Dwarves",
+    "race_id": "424",
+    "senseinvis": "yes",
+    "actualname": "Foreman Kneebiter",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Foreman Kneebiter",
+    "isboss": "yes",
+    "behaviour": "Foreman Kneebiter chases the opponent until death.",
+    "location": "[[Dwarf Mines]] ([[Kazordoon]]), {{Mapper Coords|127.44|124.137|15|4|text=here}}.",
+    "iceDmgMod": "100%?",
+    "strategy": "'''[[Knight]]s''': Knights should have good skills like 75/75. But it is recommended to have 80/80. Of course you don't know when you will meet him so you may die because of bad skills and a low amount of supplies. However a backpack of health potions should be enough. If you are [[Premium Account|Premium]] you should use [[Berserk]]-like [[Spells]] too.\n'''[[Sorcerer]]s''', the best way is to simply run using your best wand while shooting strike [[Spells]] like [[Death Strike]] if you are [[Premium Account|Premium]]. If you are non-premium you should still use your best wand and run. Using [[Fireball]] runes instead of [[Flame Strike]]/[[Death Strike]] is a good idea too. Just keep distance.\n'''[[Druid]]s''' should use their best rods like a [[Underworld Rod]] or a [[Hailstorm Rod]] combined with [[Flame Strike]]/[[Death Strike]].  If you are non-premium, use [[Fireball]] runes.\n[[Mage]]s can shoot [[Sudden Death]] runes. It's easier and faster.\n'''[[Paladin]]s''' need good skills. Use royal spears combined with either [[Ethereal Spear]] or [[Fireball]] runes.",
+    "energyDmgMod": "90%",
+    "deathDmgMod": "101%>?"
+}

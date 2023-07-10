@@ -1,0 +1,131 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "mad mages",
+    "hpDrainDmgMod": "100%?",
+    "notes": "He is [[Lloyd]]'s brother.{{JSpoiler|The Mad Mage appears during [[Their Master's Voice World Change]]. He spawns after 20 waves of golem servants, when the [[Slime Fungus]] returns. Items dropped by him are used in the [[Elementalist Outfits Quest]].}}",
+    "isarenaboss": "no",
+    "walksthrough": "Fire, Energy, Poison",
+    "hp": "2500",
+    "lightcolor": "204",
+    "speed": "?",
+    "abilities": "{{Ability List| {{Melee|0-30+}}|{{Ability|[[Fire Missile (Spell)|Fire Missile]]|0-200+|element=fire}}|{{Ability|[[Mana Drain]]|0-100+|element=manadrain}}|{{Ability|Shoots [[Fire Bomb]]|element=fire}}|{{Summon|Golden Servant|2?}}|{{Ability|[[Rage of the Skies]]|0-?|element=?}} }}",
+    "pushobjects": "yes",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "0%?",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        "Did it not come to your mind that I placed them here for a reason?",
+        "Now I have to create new servants! Do you want to spread this pest beyond these safe walls?",
+        "What have you done!"
+    ],
+    "maxdmg": "400+ (680+ with summons)",
+    "pushable": "no",
+    "lightradius": "4",
+    "implemented": "9.10",
+    "loot": [
+        {
+            "amount": "0-340",
+            "itemName": "Gold Coin"
+        },
+        {
+            "amount": "0-5",
+            "itemName": "Platinum Coin"
+        },
+        {
+            "amount": "0-5",
+            "itemName": "Strong Health Potion"
+        },
+        {
+            "amount": "0-5",
+            "itemName": "Strong Mana Potion"
+        },
+        {
+            "amount": "0-5",
+            "itemName": "Assassin Star"
+        },
+        {
+            "itemName": "Stealth Ring"
+        },
+        {
+            "amount": "0-3",
+            "itemName": "Dark Mushroom"
+        },
+        {
+            "itemName": "Luminous Orb"
+        },
+        {
+            "itemName": "Bullseye Potion",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Mind Stone",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Red Piece of Cloth",
+            "rarity": "rare"
+        },
+        {
+            "amount": "0-3",
+            "itemName": "Small Amethyst",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Crystal of Focus",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Spellbook of Warding",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Ring of the Sky",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Boots of Haste",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Lightning Robe",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Skull Helmet",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Piggy Bank",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Mage's Cap"
+        }
+    ],
+    "walksaround": "None",
+    "exp": "1800",
+    "creatureclass": "Humans",
+    "earthDmgMod": "100%?",
+    "physicalDmgMod": "120%?",
+    "bosstiaryclass": "Bane",
+    "primarytype": "Sorcerers",
+    "race_id": "703",
+    "history": "After the first part of the [[Updates/10.10|Summer Update 2013]] the [[World Change]] called [[Their Master's Voice]] was revised multiple times. Because the scripting of the Mad Mage became complicated which led to bugs, Cip decided to remove the Mad Mage from Tibia for some time, to reprogram the scripting of the Mad Mage correctly. See {{Post|35529957|Mirade's post on this topic}}.\n\nThe roleplaying consequence of this issue was the (temporarily) implementation of the NPC [[Sane Mage]], the sane version of the Mad Mage. During this time, [[Guide NPCs]] would say \"''The strange tower with the servants on Edron currently seems to be completely impassable because of a severe slime outbreak.''\" instead of their usual answer, when asked about [[Their Master's Voice|Master's Voice]].",
+    "senseinvis": "?",
+    "article": "a",
+    "actualname": "mad mage",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Mad Mage",
+    "isboss": "yes",
+    "behaviour": "His attacks are a bit similar to a [[Fire Elemental]]'s and [[Thornfire Wolf]]'s, but a bit stronger.",
+    "location": "[[Edron]], south-east of [[Telas]]' house.",
+    "iceDmgMod": "100%?",
+    "strategy": "Treat him like a weak [[Infernalist]]. Also, he strongly targets lower level players. However, in some worlds it's hard to deal the most damage because a lot of players are waiting for him during the last waves of attacks.<br />\n'''Paladins:''' This creature is weak against physical damage so [[Assassin Star]]s combined with the [[Sharpshooter]] spell should defeat him fairly rapidly.<br />\n'''Knights:''' Like paladins, it's recommended to use strong physical spells such as a combination of [[Blood Rage]] and [[Fierce Berserk]].<br />\n'''Mages:''' Should use [[Sudden Death]] runes. If you are a Druid, you may use [[Eternal Winter]] to deal a lot of damage.<br />\nHowever, if you are alone with the Mage and you won't waste supplies, you may attack him like a common creature.",
+    "energyDmgMod": "0%",
+    "deathDmgMod": "100%?"
+}

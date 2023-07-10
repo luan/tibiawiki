@@ -1,0 +1,96 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "isarenaboss": "no",
+    "walksthrough": "Poison",
+    "hp": "475",
+    "abilities": "{{Ability List| {{Melee|0-130}}|{{Ability|[[Life Drain]]|40-55?|element=lifedrain}} }}",
+    "healMod": "100%",
+    "paraimmune": "?",
+    "holyDmgMod": "125%",
+    "maxdmg": "200",
+    "pushable": "no",
+    "implemented": "9.10",
+    "loot": [
+        {
+            "amount": "1-108",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Bone",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-12",
+            "itemName": "Worm",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Longsword",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Scarab Coin",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Bone Shield",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Rotten Meat",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Half-Digested Piece of Meat",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Fist on a Stick",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Fire, Energy",
+    "exp": "215",
+    "mitigation": "0.46",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "tomb servant",
+    "illusionable": "no",
+    "armor": "22",
+    "convince": "--",
+    "name": "Tomb Servant",
+    "isboss": "no",
+    "iceDmgMod": "100%",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "0%",
+    "status": "event",
+    "plural": "tomb servants",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Rare",
+    "speed": "78",
+    "pushobjects": "yes",
+    "fireDmgMod": "100%",
+    "sounds": [
+        "Chaarr!!",
+        "Ngl..Nglll...Gll"
+    ],
+    "bestiaryclass": "Undead",
+    "creatureclass": "The Undead",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Undead Humanoids",
+    "spawntype": [
+        "Regular",
+        "Event"
+    ],
+    "race_id": "708",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "behaviour": "Fights until slain. Will push other monsters in its way.",
+    "location": "[[Horestis Tomb]]",
+    "strategy": "Kill it as you'd kill a [[Demon Skeleton]]."
+}

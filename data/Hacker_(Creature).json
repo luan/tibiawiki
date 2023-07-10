@@ -1,0 +1,85 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "hackers",
+    "hpDrainDmgMod": "100%",
+    "notes": "They appear in [[Thais Raids#Historic: Primitive raid|Primitive raids]], during [[Tibia's 10th Anniversary]].",
+    "walksthrough": "?",
+    "hp": "430",
+    "speed": "?",
+    "abilities": "{{Ability List\n |{{Melee|0-35+}}\n |{{Haste|[[Strong Haste]]|scene={{Scene|spell=buffspell|effect=Red Sparkles Effect|caster=Hacker (Creature)|caster_name=Hacker|look_direction=south|effect_on_caster=yes}}}}\n |{{Outfit|no|Pig|scene={{Scene|spell=buffspell|effect=Poof Effect|caster=Hacker (Creature)|caster_name=Hacker|look_direction=south|effect_on_caster=yes}}}}\n}}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "no",
+    "secondarytype": "Orcs",
+    "fireDmgMod": "0%",
+    "holyDmgMod": "100%",
+    "sounds": [
+        "Feel the wrath of me dos attack!",
+        "You're next!",
+        "Gimme free gold!",
+        "Me sooo smart!",
+        "Me have a cheating link for you!",
+        "Me is GM!",
+        "Gimme your password!",
+        "Me just need the code!",
+        "Me not stink!",
+        "Me other char is highlevel!"
+    ],
+    "maxdmg": "35+",
+    "pushable": "?",
+    "runsat": "429",
+    "implemented": "7.92",
+    "loot": [
+        {
+            "amount": "0-12?",
+            "itemName": "Gold Coin"
+        },
+        {
+            "itemName": "Ham"
+        },
+        {
+            "itemName": "Lamp"
+        },
+        {
+            "itemName": "Surprise Bag (Red)"
+        },
+        {
+            "itemName": "Surprise Bag (Blue)"
+        },
+        {
+            "itemName": "Halberd"
+        },
+        {
+            "itemName": "War Hammer"
+        },
+        {
+            "itemName": "Axe"
+        },
+        {
+            "itemName": "Battle Axe"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "45",
+    "creatureclass": "Special",
+    "earthDmgMod": "100%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Event Creatures",
+    "senseinvis": "no",
+    "article": "a",
+    "actualname": "hacker",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%",
+    "convince": "--",
+    "name": "Hacker (Creature)",
+    "isboss": "no",
+    "behaviour": "They run after being hit.",
+    "location": "Raid on [[Thais]]",
+    "iceDmgMod": "100%",
+    "strategy": "Use physical attacks such as [[exori mort]] on them.",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "100%",
+    "status": "deprecated"
+}

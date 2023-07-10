@@ -1,0 +1,181 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "It looks like an [[Ogre Brute]], with different colours.<br />\n{{JSpoiler|It's one of the bosses of [[The Dream Courts Quest]].}}",
+    "walksthrough": "?",
+    "hp": "?",
+    "speed": "?",
+    "abilities": "{{Ability List|}}",
+    "pushobjects": "yes",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "-100%",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        "RAAAARGH! I'M MASHING YE TO DUST BOOM!",
+        "BOOOM!",
+        "BOOOOM!!!",
+        "BOOOOOM!!!"
+    ],
+    "maxdmg": "3200+",
+    "pushable": "no",
+    "implemented": "12.00.7695",
+    "loot": [
+        {
+            "amount": "5",
+            "itemName": "Platinum Coin"
+        },
+        {
+            "itemName": "Crystal Coin"
+        },
+        {
+            "amount": "6",
+            "itemName": "Ultimate Spirit Potion"
+        },
+        {
+            "amount": "14",
+            "itemName": "Ultimate Mana Potion"
+        },
+        {
+            "amount": "6",
+            "itemName": "Supreme Health Potion"
+        },
+        {
+            "itemName": "Giant Shimmering Pearl"
+        },
+        {
+            "itemName": "Red Gem"
+        },
+        {
+            "itemName": "Blue Gem"
+        },
+        {
+            "itemName": "Ring of Blue Plasma"
+        },
+        {
+            "amount": "10",
+            "itemName": "Bullseye Potion"
+        },
+        {
+            "itemName": "Piggy Bank"
+        },
+        {
+            "itemName": "Mysterious Remains"
+        },
+        {
+            "itemName": "Energy Bar"
+        },
+        {
+            "itemName": "Collar of Green Plasma"
+        },
+        {
+            "itemName": "Ring of the Sky"
+        },
+        {
+            "amount": "2",
+            "itemName": "Silver Token"
+        },
+        {
+            "amount": "2",
+            "itemName": "Gold Token"
+        },
+        {
+            "itemName": "Crunor Idol"
+        },
+        {
+            "itemName": "Resizer"
+        },
+        {
+            "itemName": "Shoulder Plate"
+        },
+        {
+            "itemName": "Malofur's Lunchbox"
+        },
+        {
+            "itemName": "Pomegranate"
+        },
+        {
+            "itemName": "Chaos Mace"
+        },
+        {
+            "itemName": "Mastermind Potion"
+        },
+        {
+            "itemName": "Gold Ingot"
+        },
+        {
+            "itemName": "Yellow Gem"
+        },
+        {
+            "itemName": "Collar of Red Plasma"
+        },
+        {
+            "itemName": "Royal Star"
+        },
+        {
+            "itemName": "Huge Chunk of Crude Iron"
+        },
+        {
+            "itemName": "Berserk Potion"
+        },
+        {
+            "itemName": "Skull Staff"
+        },
+        {
+            "itemName": "Abyss Hammer"
+        },
+        {
+            "itemName": "Green Gem"
+        },
+        {
+            "itemName": "Collar of Blue Plasma"
+        },
+        {
+            "itemName": "Arcane Staff"
+        },
+        {
+            "itemName": "Magic Sulphur"
+        },
+        {
+            "itemName": "Soul Stone"
+        },
+        {
+            "itemName": "Violet Gem"
+        },
+        {
+            "itemName": "Ring of Green Plasma"
+        },
+        {
+            "itemName": "Ring of Red Plasma"
+        },
+        {
+            "itemName": "Giant Emerald"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "?",
+    "creatureclass": "Humanoids",
+    "earthDmgMod": "100%",
+    "physicalDmgMod": "100%?",
+    "bosstiaryclass": "Nemesis",
+    "primarytype": "Giants",
+    "spawntype": [
+        "Triggered"
+    ],
+    "race_id": "1696",
+    "senseinvis": "?",
+    "actualname": "Malofur Mangrinder",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Malofur Mangrinder",
+    "isboss": "yes",
+    "behaviour": "Unknown.",
+    "location": "The Dream Scar.",
+    "iceDmgMod": "100%?",
+    "strategy": "You will enter in a small room with an NPC, after a few seconds, you will be teleported into the boss room. Have the Knight lure the boss to the east side near the wall and avoid being in the beam it can shoot. Once it says \"I'M MASHING YE TO DUST BOOM\" it will become extremely slow and start doing massive damage up to 6000+. These attacks are very similar to a knights' groundshaker spell and the final attack will be a green energy wave-type spell that can also hit for a very high amount of damage. Once the boss is back to normal speed, lure it to the east wall again, and repeat the process until it dies. This boss has a 20 Minute Kill Timer.",
+    "energyDmgMod": "95%",
+    "deathDmgMod": "100%?"
+}

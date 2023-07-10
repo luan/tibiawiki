@@ -1,0 +1,99 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "This creature fights much like a [[Necromancer]], however doesn't summon, but paralyzes instead and have a tough armor. Be warned, if you're turned into a snowman your invisibility will be canceled.  Ice Witch had 540 [[Hit points]] before [[Summer Update 2009]]. Ice Witches heal a lot, it could be a good idea to team with a mage to shoot [[Thunderstorm]]s at groups. Since summer update 2009 all loot from this creature became rare drops, most witches you kill will be empty, so you'll be hunting for a while to get anything from them.",
+    "walksthrough": "None",
+    "hp": "650",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "Ice Witches are fallen shamans who rose from the ranks of the raiders and learned their arts from their head shaman. They rely on some strange kind of substance or drug to maintain their powers over ice and cold. Several of them serve the raider tribes with their magic, others are on missions for their sinister leader and can be encountered almost everywhere in the North. Again others became renegades and work only for their own agenda. Those renegade witches are even more hostile and dangerous. Ice Witches make use of icy variants of known spells and are schooled in the basics of shamanism and nature magic. This strange blend of sorcery and animism hints that they have been influenced by both magical schools in some way. It is speculated that a sorcerer might have tried to 'convert' shamans to the conventional ways of teachings and shared some wisdom with them.",
+    "speed": "114",
+    "abilities": "{{Ability List\n |{{Melee|0-60}}\n |{{Ability|Ice Wave|50-124|element=ice\n  |scene={{Scene|spell=6sqmwavewide|caster=Ice Witch|look_direction=east|effect=Ice Tornado Effect}}}}\n |{{Ability|Ice Missile|51-99|element=ice\n  |scene={{Scene|spell=7sqmstrike|caster=Ice Witch|look_direction=south|effect=Ice Explosion Effect|missile=Ice Missile|missile_direction=south-east|missile_distance=7/7}}}}\n |{{Healing}} \n |{{Ability|Paralyze|5secs~|element=paralyze\n  |scene={{Scene|spell=7sqmstrike|caster=Ice Witch|look_direction=south|missile=Ice Missile|missile_direction=south-east|missile_distance=7/7|effect=Unknown}}}} \n |{{Outfit|yes|Snowman (Decorated)|scene={{Scene|spell=7sqmstrike|caster=Ice Witch|look_direction=south|effect=Blue Confetti Effect|missile=Snowball Missile|missile_direction=south-east|missile_distance=7/7}}}}\n}}",
+    "pushobjects": "?",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "secondarytype": "Barbarians",
+    "fireDmgMod": "50%",
+    "holyDmgMod": "70%",
+    "sounds": [
+        "So you think you are cool?",
+        "I hope it is not too cold for you! HeHeHe.",
+        "Freeze!"
+    ],
+    "maxdmg": "{{Max Damage|physical=60|ice=334}}",
+    "pushable": "?",
+    "implemented": "8.00",
+    "bestiaryclass": "Human",
+    "loot": [
+        {
+            "amount": "0-90",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Ice Cube",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Green Mushroom",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Strong Mana Potion",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Clerical Mace",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Mystic Turban",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Shard",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Diamond Sceptre",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Glacier Shoes",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Crystal Sword",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Pair of Earmuffs",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Fire, Energy, Poison",
+    "exp": "580",
+    "creatureclass": "Humans",
+    "earthDmgMod": "60%",
+    "mitigation": "0.91",
+    "physicalDmgMod": "100%",
+    "primarytype": "Sorcerers",
+    "race_id": "331",
+    "attacktype": "Distance",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "illusionable": "no",
+    "armor": "70",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "bestiaryname": "icewitch",
+    "name": "Ice Witch",
+    "isboss": "no",
+    "behaviour": "She'll try to keep her distance, paralyze and spam you with attacks.",
+    "location": "[[Ice Witch Temple]], tower in [[Krimhorn]], caves around [[Hrodmir]] ('camps' area), [[Formorgar Glacier]] deepest mines, [[Magician Quarter]] in Yalahar (Level 60 Requirement Door).",
+    "iceDmgMod": "0%",
+    "strategy": "Hunt it like a [[necromancer]], however, because it use more melee attacks, summoning a [[demon skeleton]] doesn't work as well as it does for [[Necromancers]]. Try to corner it and kill it fast.<br />\n'''[[Knight]]s''': Run up to her and melee her fast.<br />\n'''[[Paladin]]s''': Try to trap the witch in the corner and stand 1 sqm away on the diagonal (this will avoid ice waves and maximize your damage).<br />\n'''[[Mages]]''': Approach her and use [[Energy Strike]] or [[Death Strike]] and rod/wand to kill her.",
+    "energyDmgMod": "110%",
+    "deathDmgMod": "110%"
+}

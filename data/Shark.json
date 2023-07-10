@@ -1,0 +1,91 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "Was implemented at the [[Winter Update 2011]].",
+    "isarenaboss": "no",
+    "walksthrough": "Fire, Poison",
+    "hp": "1200",
+    "abilities": "{{Ability List\n |{{Melee|0-190}}\n |{{Haste|[[Strong Haste]]}}}}",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "holyDmgMod": "100%",
+    "maxdmg": "{{Max Damage|physical=190}}",
+    "pushable": "no",
+    "usedelements": "Physical",
+    "implemented": "9.40",
+    "loot": [
+        {
+            "amount": "1-138",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-4",
+            "itemName": "Fish",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Deepling Scales",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Eye of a Deepling",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Small Sapphire",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Giant Shimmering Pearl (Brown)",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Fish Fin",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Energy",
+    "exp": "700",
+    "mitigation": "0.43",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "shark",
+    "illusionable": "yes",
+    "armor": "32",
+    "convince": "--",
+    "name": "Shark",
+    "isboss": "no",
+    "iceDmgMod": "90%",
+    "energyDmgMod": "105%",
+    "deathDmgMod": "100%",
+    "plural": "sharks",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "Sharks are some of the most fearful killers that roam the black depths of the seas. They rarely sleep, they focus solely on their prey once they have chosen a victim, and they have enough energy to pursue even the swiftest creatures as they swim fast and extremely efficiently. Beware if you ever encounter a sleeping shark, chances are it is awake and you are just the meal it is resting for.",
+    "speed": "145",
+    "pushobjects": "no",
+    "fireDmgMod": "45%",
+    "sounds": [
+        "Rarr chomp chomp!"
+    ],
+    "bestiaryclass": "Aquatic",
+    "creatureclass": "Misc",
+    "earthDmgMod": "80%",
+    "physicalDmgMod": "95%",
+    "primarytype": "Fishes",
+    "spawntype": [
+        "Regular",
+        "Event",
+        "Unblockable"
+    ],
+    "race_id": "782",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "drownDmgMod": "0%",
+    "bestiaryname": "shark",
+    "behaviour": "It swims at full speed against its prey to attack it with its strong melee.",
+    "location": "[[Fiehonja]], [[Seacrest Grounds]], [[Krailos Steppe]] underwater cave.",
+    "strategy": "They are extremely fast when hasted so don't try to outrun them.\nThey are weak compared to deeplings, so try to kill sharks first (if no spellsinger is in sight) so they dont break your shielding and block your path."
+}

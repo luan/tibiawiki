@@ -1,0 +1,42 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "It's part of the [[Feaster of Souls Quest]].",
+    "walksthrough": "?",
+    "hp": "?",
+    "speed": "?",
+    "abilities": "{{Ability List| {{Melee|?}} }}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "fireDmgMod": "110%?",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "?",
+    "pushable": "no",
+    "runsat": "0",
+    "implemented": "12.30.9287",
+    "loot": [],
+    "walksaround": "?",
+    "exp": "?",
+    "earthDmgMod": "100%?",
+    "physicalDmgMod": "100%?",
+    "spawntype": [
+        "Triggered"
+    ],
+    "race_id": "1867",
+    "senseinvis": "yes",
+    "actualname": "Brother Worm",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Brother Worm",
+    "isboss": "no",
+    "location": "[[Zarganash]]",
+    "iceDmgMod": "100%?",
+    "energyDmgMod": "100%?",
+    "deathDmgMod": "-100%?"
+}

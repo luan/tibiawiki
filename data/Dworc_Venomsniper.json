@@ -1,0 +1,102 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "Venomsnipers are weak and fragile, even for a dworc. However, the poison it applies can be annoying in certain situations.",
+    "walksthrough": "Poison",
+    "hp": "80",
+    "abilities": "{{Ability List| {{Melee|0-15}}|{{Ability|Shoots [[Poisoned|Poison]]|2 [[HP|hp]]/turn|element=poisoned}} }}",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "holyDmgMod": "85%",
+    "maxdmg": "17",
+    "pushable": "yes",
+    "usedelements": "Earth > Physical",
+    "implemented": "7.5",
+    "loot": [
+        {
+            "amount": "0-13",
+            "itemName": "Gold Coin"
+        },
+        {
+            "itemName": "Leather Armor"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "Throwing Knife"
+        },
+        {
+            "itemName": "Torch"
+        },
+        {
+            "amount": "0-3",
+            "itemName": "Poison Arrow",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Poison Dagger",
+            "rarity": "semi-rare"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "Skull (Item)",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Tribal Mask",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Seeds",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Bronze Amulet",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Bast Skirt",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Fire, Energy",
+    "exp": "35",
+    "mitigation": "0.38",
+    "attacktype": "Distance",
+    "history": "As of November 16, 2011, Dworc Venomsnipers as well as other poison-causing creatures can no longer be convinced. This was to prevent PvP abuse whereby a player would trick another player into convincing creatures that would later frag low level characters with poison applied earlier. After enough kills the player would obtain a [[Red Skull]] and would lose all items belonging to them upon being killed. More can be read in the news article \"{{OfficialNewsArchive|1894|Content Fixes}}\".",
+    "article": "a",
+    "actualname": "dworc venomsniper",
+    "illusionable": "yes",
+    "armor": "3",
+    "convince": "--",
+    "name": "Dworc Venomsniper",
+    "isboss": "no",
+    "iceDmgMod": "113%",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "108%",
+    "plural": "dworc venomsnipers",
+    "hpDrainDmgMod": "100%",
+    "usespells": "no",
+    "occurrence": "Common",
+    "bestiarytext": "The Dworc Venomsnipers are usually the women of the tribes. It is disputable if this results in their weaker physical constitution or in the fact that they are simply smarter than the average dworcish male. They are the dworcs with the best knowledge and skills in brewing poison, and no Dworc Venomsniper has ever been encountered without carrying various vials filled with some toxin. Single snipers are a rare view. Usually, they hide behind the fleshhunters and hurl volleys of poisonous projectiles at their enemies from a safe distance. If they get cornered, they are easy prey since they lack the skill and weaponry to stand a serious assault on their own.",
+    "speed": "76",
+    "pushobjects": "?",
+    "fireDmgMod": "113%",
+    "sounds": [
+        "Grow truk grrrrr.",
+        "Brak brrretz!",
+        "Prek tars, dekklep zurk."
+    ],
+    "bestiaryclass": "Humanoid",
+    "creatureclass": "Humanoids",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Dworcs",
+    "race_id": "216",
+    "bestiarylevel": "Easy",
+    "senseinvis": "no",
+    "drownDmgMod": "100%",
+    "bestiaryname": "dworcvenomsniper",
+    "behaviour": "They attack from a distance and shoot poison, they run in low health.",
+    "location": "South of [[Port Hope]] ([[Trapwood]]) on ground level and underground and on [[Foreigner Quarter]] of [[Yalahar]].",
+    "strategy": "When fighting [[Dworcs]], one strategy is to kill the [[Dworc Voodoomaster]]s first, then the [[Dworc Fleshhunter]]s and finally the venomsnipers."
+}

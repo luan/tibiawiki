@@ -1,0 +1,161 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "It is the strongest melee-based regular creature in [[Free Account]] areas.",
+    "isarenaboss": "no",
+    "walksthrough": "Fire",
+    "hp": "3800",
+    "abilities": "{{Ability List\n |{{Melee|0-500+}}\n |{{Ability|Throws [[boulder]]|340+|element=physical}}\n |{{Ability|physical fire ball|3x3; 250+|element=physical}}\n |{{Debuff2|Reduction bomb on itself; red sparkles|shielding=yes|value=50-87%}}\n |{{Debuff2|Reduction explosion on itself; physical hit graphic|melee=yes|value=66%}}\n |{{Ability|Green Sparkles|enhances its own melee skills?|element=buff\n   |scene={{Scene|spell=buffspell|effect=Green Sparkles Effect|caster=Enslaved Dwarf|look_direction=south|effect_on_caster=yes}}}}\n |{{Ability|[[Self Healing]]|physical hit graphic; 396-478+|element=healing}}\n |{{Ability|[[drunkenness]] bomb|yellow sparks; on itself|element=drunk}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "secondarytype": "The Lost",
+    "holyDmgMod": "100%",
+    "maxdmg": "1100+",
+    "pushable": "no",
+    "implemented": "9.60",
+    "loot": [
+        {
+            "amount": "1-149",
+            "itemName": "Gold Coin",
+            "rarity": "always"
+        },
+        {
+            "amount": "1-6",
+            "itemName": "Platinum Coin",
+            "rarity": "always"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Brown Mushroom",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Great Health Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Great Mana Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Iron Ore",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Small Amethyst",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Small Emerald",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "War Hammer",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Ancient Shield",
+            "rarity": "semi-rare"
+        },
+        {
+            "amount": "1-5",
+            "itemName": "Drill Bolt",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Glorious Axe",
+            "rarity": "semi-rare"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Brown Crystal Splinter",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Green Crystal Splinter",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Guardian Shield",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Red Crystal Fragment",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Shiny Stone",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Axe Ring",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Coal",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Green Crystal Shard",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Titan Axe",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Sapphire Hammer",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Tower Shield",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Warrior Helmet",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Energy, Poison",
+    "exp": "2700",
+    "mitigation": "1.88",
+    "attacktype": "Melee",
+    "history": "Although this creature was implemented with the [[Updates/9.60|Summer Update 2012]], its first spawns were only added to the game on the [[Updates/9.80|Winter Update 2012]].",
+    "article": "an",
+    "actualname": "enslaved dwarf",
+    "illusionable": "no",
+    "armor": "60",
+    "convince": "--",
+    "name": "Enslaved Dwarf",
+    "isboss": "no",
+    "iceDmgMod": "90%",
+    "energyDmgMod": "95%",
+    "deathDmgMod": "85%",
+    "plural": "enslaved dwarfs",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "The Lost are some of the dwarfs that never joined one of the dwarven communities and aimlessly wandered the depths of the world in search of refuge. Sometimes in the ancient past they were found by 'those below' and cruelly enslaved by the masters of the depths. After generations of slavery and breeding, those dwarfs have lost all memory of their ancestry and culture, rendering them hardly more than aggressive animals of war. They lack a complicated language, communicating only with select gnarls and snarls. Their entire bitter lives are centred around battle and carnage. After their masters have completely broken their will, the Lost march in unquestioning obedience into battle whenever their cruel slavers order them to do so. It is hard to tell what motivation drives them. They seem not to revere to their masters in any way and show no joy in battle. The only emotion they are showing is incredible anger that rivals that of a rabid animal.",
+    "speed": "135",
+    "pushobjects": "?",
+    "fireDmgMod": "0%",
+    "sounds": [
+        "Bark!",
+        "Blood!"
+    ],
+    "bestiaryclass": "Humanoid",
+    "creatureclass": "Humanoids",
+    "earthDmgMod": "70%",
+    "physicalDmgMod": "103%",
+    "primarytype": "Dwarves",
+    "race_id": "886",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "enslaveddwarf",
+    "behaviour": "Unknown.",
+    "location": "[[Caves of the Lost]], [[Lower Spike]] and [[Jaccus Maxxen's Dungeon]].",
+    "strategy": "A deadly creature for unprepared low level players, a blocker is probably to be preferred if these are to be hunted together with other [[The Lost|Lost]]. An energy wall (or two energy walls in a cross shape) can be set up to make it walk longer distances and be easier to solo, but it may still do high damage from a distance. Beware of the drunkenness bomb if it gets too close, as well as other [[The Lost|Lost]] (especially [[Lost Basher|Bashers]]), that may interfere. '''Knights''' who decide to solo them should watch out for their skill reduction spells, which will reduce the [[Berserk]] hits to a joke. Keep an eye on your melee skill bar so you know when to cast an attack spell."
+}

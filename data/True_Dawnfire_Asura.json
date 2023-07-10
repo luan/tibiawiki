@@ -1,0 +1,179 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "They are the [[Dawnfire Asura]] in their true form.",
+    "walksthrough": "Energy, Fire, Poison",
+    "hp": "8500",
+    "abilities": "{{Ability List|{{Melee|0-700}}|{{Ability|Death Ball|550-750|death}}|{{Ability|Fire Missile|450-830|fire}}|{{Ability|Mana Drain Beam|50-300|manadrain}}|{{Ability|Smoke Berserk||slowed}}}}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "secondarytype": "Asuri",
+    "holyDmgMod": "110%",
+    "maxdmg": "{{Max Damage|physical=700|death=750|fire=830|manadrain=300}}",
+    "pushable": "no",
+    "implemented": "11.80.7048",
+    "loot": [
+        {
+            "amount": "1-12",
+            "itemName": "Platinum Coin",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "Flask of Demonic Blood",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Great Mana Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "Small Enchanted Ruby",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Small Diamond",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "Small Ruby",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-5",
+            "itemName": "Small Emerald",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Small Amethyst",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Soul Orb",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Demonic Essence",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Small Topaz",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Golden Lotus Brooch",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Peacock Feather Fan",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Magma Coat",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Ruby Necklace",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Red Gem",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Blue Gem",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Crystal Coin",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Wand of Inferno",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Mysterious Fetish",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Mystic Turban",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Red Piece of Cloth",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Focus Cape",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Spellbook of Mind Control",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Oriental Shoes",
+            "rarity": "semi-rare"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "Royal Star",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Death Ring",
+            "rarity": "rare"
+        }
+    ],
+    "walksaround": "None",
+    "exp": "7475",
+    "mitigation": "2.16",
+    "attacktype": "Melee",
+    "history": "Its experience was decreased from 9200 to 5980 with the third batch of changes of [[Updates/12.31|Update 12.31]] and raised to 7475 with its eighth batch.",
+    "article": "a",
+    "actualname": "true dawnfire asura",
+    "illusionable": "no",
+    "armor": "77",
+    "convince": "--",
+    "name": "True Dawnfire Asura",
+    "isboss": "no",
+    "iceDmgMod": "105%",
+    "energyDmgMod": "110%",
+    "deathDmgMod": "80%",
+    "plural": "true dawnfire asuras",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "Asuri are demonic creatures who can hide their true face and appear in the form of beautiful women. Although they often take on a seductive appearance, they show their true form as soon as there is no need for charade. In this case they appear as tall, beautiful women with four arms, fangs and glowing eyes. These demonesses are driven mainly by greed and envy. They enter the mortal world because they begrudge humans and other peoples their vigour, beauty and happiness. They seek to destroy positive feelings as love, contentment and mirth, because herefrom they gain their energy. An asura especially stalks men she regards as handsome and happy. These victims are lured into gorgeous palaces full of riches and conveniences, inhabited by several asuri. There they ensnare the men with amusements such as wine, music, dance and intoxicating substances that indulge their senses and make them submissive and weak-willed. Then the asuri divest them of vitality and beauty. When an asura gets weary of her victim or if captives unexpectedly oppose the demonesses, these unfortunates come to know the true face of the palace: As the asuri show a beautiful face outwardly and are in truth terrible demons, likewise the palace, behind its marvelous veneer, is full of prison cells, torture chambers and even rooms where sacrificial altars await the asuri's emaciated victims. \n\nThere are several kinds of asuri. The dawnfire asuri have tanned skin and black hair, favouring clothes in the colours red, orange and yellow. They are associated with fire and energy and prefer to use magic rather than weapons.",
+    "speed": "180",
+    "pushobjects": "yes",
+    "fireDmgMod": "0%",
+    "sounds": [
+        ""
+    ],
+    "runsat": "0",
+    "bestiaryclass": "Demon",
+    "creatureclass": "Demons",
+    "earthDmgMod": "100%",
+    "physicalDmgMod": "110%",
+    "primarytype": "Demons",
+    "spawntype": [
+        "Regular",
+        "Unblockable"
+    ],
+    "race_id": "1620",
+    "bestiarylevel": "Hard",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "truedawnfire",
+    "behaviour": "Fights in close range.",
+    "location": "[[Asura Palace]], [[Asura Vaults]].",
+    "strategy": "Beware that they are much stronger than regular Asuri and deal considerable damage, some times in area."
+}

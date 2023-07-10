@@ -1,0 +1,136 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "A very powerful [[melee]] creature with substantial [[hitpoint]]s to survive many attacks. They can move as fast as a level 50 [[player]] so lower [[level]]s should avoid them. It's resistances do not comply with the resistances of most Undead, as this is the only undead creature that is weak against [[Death Damage]] and [[Earth Damage]] instead of being strong against/resistant to them. It is also the only undead creature strong against [[Holy Damage]].",
+    "walksthrough": "Fire",
+    "hp": "1000",
+    "abilities": "{{Ability List\n |{{Melee|0-250}}\n |{{Ability|[[Whirlwind Throw]]|0-135|element=physical\n  |scene={{Scene|spell=5sqmstrike|background=canvas|caster=Undead Gladiator|look_direction=south|missile=Throwing Sword Missile|missile_direction=south-east|missile_distance=5/5}}}}\n |{{Ability|Invisibility||invisible}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "holyDmgMod": "90%",
+    "maxdmg": "{{Max Damage|physical=385}}",
+    "pushable": "?",
+    "usedelements": "Physical",
+    "implemented": "8.40",
+    "loot": [
+        {
+            "amount": "1-148",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Belted Cape",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Scimitar",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-18",
+            "itemName": "Throwing Star",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Brass Armor",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Brass Legs",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Broken Gladiator Shield",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Hunting Spear",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Plate Legs",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Protection Amulet",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Two Handed Sword",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Dark Helmet",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Plate Armor",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Health Potion",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Crusader Helmet",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Flask of Warrior's Sweat",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Knight Axe",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Stealth Ring",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Energy, Poison",
+    "exp": "800",
+    "mitigation": "1.54",
+    "attacktype": "Melee",
+    "article": "an",
+    "actualname": "undead gladiator",
+    "illusionable": "no",
+    "armor": "35",
+    "convince": "--",
+    "name": "Undead Gladiator",
+    "isboss": "no",
+    "iceDmgMod": "100%",
+    "energyDmgMod": "80%",
+    "deathDmgMod": "105%",
+    "plural": "undead gladiators",
+    "hpDrainDmgMod": "100%",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "A curse, necromancy or some magic plague has turned the Undead Gladiator in his current state. Unlike other undead, his will power and determination let him retain a certain degree of his former self. A few gladiators were even able to stay almost the complete same person considering  personality and intelligence which makes them to especially fearsome opponents. Undead Gladiators can wield a large variety of weapons, and their undead state has even enhanced their fighting skills. Without any moral restraints, immune to pain, and tireless, an Undead Gladiator is a virtual fighting machine that wears down his opponent before he finishes them off in a burst of skilful attacks.<br />Without the need for sleep or food, their existence has turned into a constant battle, a permanent test of their skills. They strive for perfection, but ironically, their undead state prevents them from enhancing their skills further or to train their body. So the emptiness of their existence is haunting them every moment, and feeds the rage and jealousy towards the living.<br />Undead Gladiators often participate in gruesome duels with each other to test their skills in a macabre and tireless dance of death, sometimes lasting for days.",
+    "speed": "110",
+    "pushobjects": "?",
+    "fireDmgMod": "20%",
+    "sounds": [
+        "Let's battle it out in a duel!",
+        "Bring it!",
+        "I'll fight here in eternity and beyond.",
+        "I will not give up!",
+        "Another foolish adventurer who tries to beat me."
+    ],
+    "bestiaryclass": "Undead",
+    "creatureclass": "The Undead",
+    "earthDmgMod": "110%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Skeletons",
+    "spawntype": [
+        "Regular"
+    ],
+    "race_id": "508",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "undeadgladiator",
+    "behaviour": "Fights to [[death]] in close quarters combat.",
+    "location": "[[Arena and Zoo Quarter]], [[Krailos]].",
+    "strategy": "'''[[Paladin]]s:''' You should use a blocker or a mage with some mass spells to clear the floor of the arena first, and once that has happened, there is plenty of space to run the gladiators.  Because of their high defense, you should use strong weapons, even with high skills.\n'''[[Knight]]s:''' They hit very hard so [[skill]] levels of 80/80 and at least [[level]] 50 and good [[equipment]] is recommended. Only high level knights will profit, so try to get a druid to heal you. If you solo, it's usually wiser to fight 2 at a time instead of one, because you will be using exori/exori gran often just to get some damage through their great defense.  Exori will hit both gladiators and will yield twice the experience for almost the same amount of mana.\n\n'''[[Sorcerer]]s:''' Should use a [[Wand of Starstorm]] or [[Wand of Voodoo]] since these are elements they're weakest to for wands, and use [[Terra Strike]].  If it's too crowded and there are several gladiators on the floor, use [[energy wave]] to clear the groups while running them.  If it gets too tough, you can go between the beds on the bottom floor to narrow them to one direct attack at a time.  Recommended for levels 60+.\n'''[[Druid]]s:''' Should use a [[Springsprout Rod]] and [[Terra Strike]].  The combination will drop the gladiators quite efficiently.  If things get tough with a group of them, use [[Terra Wave]] to clean them out fast.  Recommended for levels 50+. A blocker would be a nice idea."
+}

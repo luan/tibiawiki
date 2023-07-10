@@ -1,0 +1,51 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "isarenaboss": "no",
+    "walksthrough": "?",
+    "hp": "?",
+    "lightcolor": "77",
+    "speed": "?",
+    "abilities": "{{Ability List| {{Melee|?}}|{{Healing|range=?}} }}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "secondarytype": "Demons",
+    "fireDmgMod": "100%?",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "?",
+    "pushable": "?",
+    "lightradius": "3",
+    "implemented": "8.61",
+    "loot": [
+        {
+            "itemName": "Tentacle Piece"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "?",
+    "creatureclass": "Special",
+    "earthDmgMod": "100%?",
+    "physicalDmgMod": "100%?",
+    "primarytype": "Event Creatures",
+    "senseinvis": "?",
+    "article": "a",
+    "actualname": "spawn of Devovorga",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "?",
+    "name": "Spawn of Devovorga",
+    "isboss": "no",
+    "behaviour": "Unknown",
+    "location": "[[Vengoth]].",
+    "iceDmgMod": "100%?",
+    "strategy": "Unknown",
+    "energyDmgMod": "100%?",
+    "deathDmgMod": "100%?",
+    "status": "event"
+}

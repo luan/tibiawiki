@@ -1,0 +1,237 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%",
+    "notes": "This is the last boss in the [[Forgotten Knowledge Quest]].",
+    "walksthrough": "Fire, Energy, Poison",
+    "hp": "?",
+    "speed": "?",
+    "abilities": "{{Ability List\n |{{Melee|0-1000+}}\n |{{Ability|Small Poison UE|0-700|element=earth}}\n |{{Ability|Big energy wave|0-1600|element=energy}}\n |{{Ability|Energy Chain|429-996|element=energy\n  |scene={{Scene|spell=chainspell|caster=The Last Lore Keeper|look_direction=south|effect=Purple Chain Effect|damage_effect=Blue Electricity Effect}}}}\n |{{Ability|Mana Drain Chain|173-474|element=mana drain\n  |scene={{Scene|spell=chainspell|caster=The Last Lore Keeper|look_direction=south|effect=Purple Chain Effect|damage_effect=Purple Chain Effect}}}}\n |{{Ability|[[Summon]]s multiple [[Sword Of Vengeance]]|element=summon}}\n}}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "yes",
+    "fireDmgMod": "85%",
+    "holyDmgMod": "100%",
+    "sounds": [
+        "You shall not pass!",
+        "You are not worthy!",
+        "This knowledge is forbidden!"
+    ],
+    "maxdmg": "2000+",
+    "pushable": "no",
+    "cooldown": "336",
+    "implemented": "11.02.4128",
+    "loot": [
+        {
+            "amount": "100-200",
+            "itemName": "Gold Coin"
+        },
+        {
+            "itemName": "Ancient Stone"
+        },
+        {
+            "itemName": "Onyx Chip"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "Gold Token"
+        },
+        {
+            "amount": "1-5",
+            "itemName": "Iron Ore"
+        },
+        {
+            "itemName": "Piece of Royal Steel"
+        },
+        {
+            "amount": "10-35",
+            "itemName": "Platinum Coin"
+        },
+        {
+            "amount": "1-4",
+            "itemName": "Silver Token"
+        },
+        {
+            "amount": "3-6",
+            "itemName": "Blue Crystal Shard"
+        },
+        {
+            "amount": "3-10",
+            "itemName": "Violet Crystal Shard"
+        },
+        {
+            "amount": "3",
+            "itemName": "Green Crystal Shard"
+        },
+        {
+            "amount": "5-10",
+            "itemName": "Great Mana Potion"
+        },
+        {
+            "amount": "5-10",
+            "itemName": "Ultimate Health Potion"
+        },
+        {
+            "amount": "5-10",
+            "itemName": "Great Spirit Potion"
+        },
+        {
+            "amount": "20",
+            "itemName": "Small Sapphire"
+        },
+        {
+            "itemName": "Red Gem"
+        },
+        {
+            "itemName": "Yellow Gem"
+        },
+        {
+            "itemName": "Gold Ingot"
+        },
+        {
+            "amount": "20",
+            "itemName": "Small Emerald"
+        },
+        {
+            "itemName": "Blue Gem"
+        },
+        {
+            "itemName": "Mystical Hourglass"
+        },
+        {
+            "amount": "2",
+            "itemName": "Opal"
+        },
+        {
+            "itemName": "Green Gem"
+        },
+        {
+            "amount": "20",
+            "itemName": "Small Topaz"
+        },
+        {
+            "amount": "4",
+            "itemName": "White Piece of Cloth"
+        },
+        {
+            "amount": "20",
+            "itemName": "Small Ruby"
+        },
+        {
+            "itemName": "Magic Sulphur"
+        },
+        {
+            "itemName": "Giant Shimmering Pearl"
+        },
+        {
+            "amount": "20",
+            "itemName": "Small Amethyst"
+        },
+        {
+            "itemName": "Ring of Red Plasma"
+        },
+        {
+            "itemName": "Enchanted Chicken Wing"
+        },
+        {
+            "itemName": "Skull Staff"
+        },
+        {
+            "itemName": "Violet Gem"
+        },
+        {
+            "itemName": "Sapphire Hammer"
+        },
+        {
+            "itemName": "Part of a Rune (One)"
+        },
+        {
+            "itemName": "Part of a Rune (Two)"
+        },
+        {
+            "itemName": "Part of a Rune (Three)"
+        },
+        {
+            "itemName": "Part of a Rune (Four)"
+        },
+        {
+            "itemName": "Part of a Rune (Five)"
+        },
+        {
+            "itemName": "Part of a Rune (Six)"
+        },
+        {
+            "itemName": "Silkweaver Bow"
+        },
+        {
+            "itemName": "Voltage Armor"
+        },
+        {
+            "itemName": "Bonelord Helmet"
+        },
+        {
+            "itemName": "Spellscroll of Prophecies"
+        },
+        {
+            "itemName": "Golden Armor"
+        },
+        {
+            "itemName": "Heavy Mace"
+        },
+        {
+            "itemName": "Nightmare Blade"
+        },
+        {
+            "itemName": "Astral Source"
+        },
+        {
+            "itemName": "Forbidden Tome"
+        },
+        {
+            "itemName": "Key to Knowledge"
+        },
+        {
+            "itemName": "Astral Glyph"
+        },
+        {
+            "itemName": "Crystalline Sword"
+        },
+        {
+            "itemName": "Umbral Hammer"
+        },
+        {
+            "itemName": "Crude Umbral Hammer"
+        },
+        {
+            "itemName": "Soul Stone"
+        },
+        {
+            "itemName": "Hammer of Prophecy"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "45000?",
+    "creatureclass": "Mammals",
+    "earthDmgMod": "80%",
+    "physicalDmgMod": "75%",
+    "bosstiaryclass": "Nemesis",
+    "primarytype": "Humanoids",
+    "spawntype": [
+        "Triggered"
+    ],
+    "race_id": "1304",
+    "senseinvis": "yes",
+    "actualname": "The Last Lore Keeper",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%",
+    "convince": "--",
+    "name": "The Last Lore Keeper",
+    "isboss": "yes",
+    "behaviour": "Fights in close range and retargets quite often.",
+    "location": "Deep below [[Nargor]], {{Mapper Coords|124.240|128.78|14|2|text=here}} (accessible through the [[Astral Shaper Boss Dungeon]] behind an [[Energy Gate]]).",
+    "iceDmgMod": "65%",
+    "strategy": "See [[Forgotten Knowledge Quest]].",
+    "energyDmgMod": "85%",
+    "deathDmgMod": "40%"
+}

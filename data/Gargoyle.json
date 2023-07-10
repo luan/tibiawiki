@@ -1,0 +1,115 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "They can be used as a training monster, but they heal very slowly. It's better to train with two if you can and switch targets when one has low health.\n{{JSpoiler|You may hunt 200 of these as a task of the [[Killing in the Name of... Quest]].}}",
+    "walksthrough": "Poison",
+    "hp": "250",
+    "abilities": "{{Ability List|{{Melee|0-65}}|{{Healing|range=5-15}}}}",
+    "healMod": "100%",
+    "paraimmune": "No",
+    "holyDmgMod": "100%",
+    "maxdmg": "{{Max Damage|physical=65}}",
+    "pushable": "no",
+    "implemented": "7.4",
+    "loot": [
+        {
+            "amount": "0-30",
+            "itemName": "Gold Coin"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "Potato",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "0-10",
+            "itemName": "Small Stone",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Stone Wing",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "0-5",
+            "itemName": "Strawberry",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Battle Shield",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Morning Star",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Wolf Tooth Chain",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Steel Helmet",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Piece of Marble Rock",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Shiny Stone",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Club Ring",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Dark Armor",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Fire, Energy",
+    "exp": "150",
+    "mitigation": "0.78",
+    "attacktype": "Melee",
+    "history": "Since [[Update 8.54|Christmas update 2009]] they do not drop ham or meat, so they are not a good source of food anymore. They still do, however, drop strawberries and potatoes.",
+    "article": "a",
+    "actualname": "gargoyle",
+    "illusionable": "yes",
+    "armor": "26",
+    "convince": "--",
+    "name": "Gargoyle",
+    "isboss": "no",
+    "iceDmgMod": "100%",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "60%",
+    "plural": "gargoyles",
+    "hpDrainDmgMod": "0%",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "Although Gargoyles are a common sight all over Tibia, the origin of this remarkable species remains clouded in mystery. In fact, a reward offered by the great wizard Cyrius the Half-Bald to those who could solve the mystery was never claimed. However, one or two interesting facts have been discovered. It is widely agreed today that Gargoyles prefer dark places,which is why they are typically found in dreary dungeons and other subterranean complexes. There they breed and hunt, using their uncanny ability to blend in with the stony surfaces of their lairs.",
+    "speed": "100",
+    "pushobjects": "yes",
+    "fireDmgMod": "110%",
+    "sounds": [
+        "Feel my claws, softskin.",
+        "There is a stone in your shoe!",
+        "Stone sweet stone.",
+        "Harrrr harrrr!",
+        "Chhhhhrrrrk!"
+    ],
+    "runsat": "30",
+    "bestiaryclass": "Magical",
+    "creatureclass": "Elementals",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "80%",
+    "primarytype": "Geo-Elementals",
+    "race_id": "95",
+    "bestiarylevel": "Easy",
+    "senseinvis": "No",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "gargoyle",
+    "behaviour": "They seem to [[retarget]] on the player with the highest level around.",
+    "location": "[[Meriana Gargoyle Cave]], [[Ankrahmun Tombs]], [[Mal'ouquah]], [[Goroma]], [[Deeper Banuta]], [[Formorgar Mines]], [[Vengoth]], [[Farmine Mines]], [[Upper Spike]] and [[Medusa Tower]].",
+    "strategy": "They are easier than a [[Cyclops]], but rarely come without other creatures."
+}

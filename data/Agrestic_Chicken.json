@@ -1,0 +1,66 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "agrestic chickens",
+    "hpDrainDmgMod": "100%?",
+    "notes": "When you attack it, it may become an [[Aggressive Chicken]].",
+    "walksthrough": "None",
+    "hp": "15",
+    "usespells": "no",
+    "occurrence": "Common",
+    "speed": "64",
+    "abilities": "{{Ability List|}}",
+    "healMod": "100%",
+    "paraimmune": "?",
+    "fireDmgMod": "100%",
+    "holyDmgMod": "100%",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "{{Max Damage}}",
+    "implemented": "12.40.9997",
+    "bestiaryclass": "Bird",
+    "loot": [
+        {
+            "amount": "1-2",
+            "itemName": "Chicken Feather",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Worm",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Meat",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Egg",
+            "rarity": "rare"
+        }
+    ],
+    "exp": "0",
+    "creatureclass": "Misc",
+    "earthDmgMod": "100%",
+    "mitigation": "0.05",
+    "physicalDmgMod": "100%",
+    "primarytype": "Birds",
+    "race_id": "1979",
+    "attacktype": "Melee",
+    "bestiarylevel": "Trivial",
+    "senseinvis": "?",
+    "article": "an",
+    "actualname": "agrestic chicken",
+    "illusionable": "yes",
+    "armor": "1",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Agrestic Chicken",
+    "isboss": "no",
+    "behaviour": "It ignores you as a regular [[Chicken]].",
+    "location": "[[Bounac]], the [[Order of the Lion]] settlement.",
+    "iceDmgMod": "100%",
+    "strategy": "Ignore it.",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "100%"
+}

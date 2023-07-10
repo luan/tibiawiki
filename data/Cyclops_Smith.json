@@ -1,0 +1,114 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "The strongest variety of cyclops, they are the artisans and weaponsmiths of their race. They can easily be identified by the distinctive blue mohawk on their heads. Stronger than a [[Dwarf Guard]], however, Cyclops Smith doesn't hit higher hits as often as [[Dwarf Guards]]",
+    "walksthrough": "None.",
+    "hp": "435",
+    "abilities": "{{Ability List\n |{{Melee|0-150}}\n |{{Ability|Whirlwind Throw|17-70\n  |scene={{Scene|spell=3sqmstrike|caster=Cyclops Smith|look_direction=south|effect=Poof Effect|missile=Throwing Club Missile|missile_direction=south-east|missile_distance=3/3}}}}\n |{{Ability|Drunkenness|lasts for about 2 seconds|drunk\n  |scene={{Scene|spell=3sqmstrike|caster=Cyclops Smith|look_direction=south|effect=Stars Effect|missile=Throwing Club Missile|missile_direction=south-east|missile_distance=3/3|damage_effect=None}}}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "holyDmgMod": "80%",
+    "maxdmg": "{{Max Damage|physical=220}}",
+    "pushable": "No",
+    "implemented": "8.10",
+    "loot": [
+        {
+            "amount": "1-70",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Meat",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Battle Shield",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Cyclops Toe",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Battle Axe",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Battle Hammer",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Heavy Machete",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Plate Shield",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Double Axe",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Strong Health Potion",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Dark Helmet",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Spiked Squelcher",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Cyclops Trophy",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Club Ring",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Fire, Energy, Poison",
+    "exp": "255",
+    "mitigation": "0.96",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "cyclops smith",
+    "illusionable": "yes",
+    "armor": "28",
+    "convince": "695",
+    "name": "Cyclops Smith",
+    "isboss": "no",
+    "iceDmgMod": "100%",
+    "energyDmgMod": "80%",
+    "deathDmgMod": "105%",
+    "plural": "cyclops smiths",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "no",
+    "occurrence": "Common",
+    "bestiarytext": "The Cyclops Smiths are somehow the nobility amongst the cyclops. Cyclops praise those skilled in the art of blacksmithing the same way as humans praise great artists. Although cyclops work usually lacks refinement and is rather functional than pretty, the wares of the Cyclops Smiths are in great demand of all other races. All cyclops, with the exception of the simple-minded drones, are constantly trying to enhance their smithing skill. It's the aim of all cyclops to be recognised by their society as master smith. Of course being the cream of the crop is not achieved easily, and the cyclops never grant this prestigious title thoughtlessly.",
+    "speed": "102",
+    "pushobjects": "yes",
+    "fireDmgMod": "90%",
+    "sounds": [
+        "Outis emoi g' onoma.",
+        "Whack da humy!",
+        "Ai humy phary ty kaynon"
+    ],
+    "runsat": "0",
+    "bestiaryclass": "Giant",
+    "creatureclass": "Humanoids",
+    "earthDmgMod": "110%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Giants",
+    "race_id": "389",
+    "bestiarylevel": "Medium",
+    "senseinvis": "no",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "cyclopssmith",
+    "behaviour": "Cyclops Smiths have strong melee and distance attacks. They also make you drunk quite often.",
+    "location": "[[Cyclopolis]] second floor and below, [[Mistrock]], [[Mount Sternum]], [[Cyclops Camp]] second floor and in the [[Forsaken Mine/Cyclopes|Cyclops]] version of the [[Forsaken Mine]].",
+    "strategy": "'''[[Mage]]s:''' can shoot at it with their wand/rods while running. Kill it fast because it has alot of [[hp]] and it can make you drunk and run into other [[cyclops]]. A [[premium]] [[mage]] can shoot at it with [[Death Strike]] and [[Terra Strike]].<br />\n'''[[Paladin]]s:''' can shoot it with [[royal spear]]s with distance level 50 or higher while running. A good idea is to come with a paladin level 25+ and with a dwarven ring.<br />\n'''[[Knights]]:''' can kill them with skills 75/75 and at least level 35. Their strength is comparable with [[orc leaders]], and should bring [[Health Potions]] in the case of groups as Cyclops Smiths rarely come alone, they are usually spawned by at least one [[Cyclops Drone]] or another Cyclops Smith."
+}

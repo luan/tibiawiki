@@ -1,0 +1,121 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "walksthrough": "Fire",
+    "hp": "1500",
+    "abilities": "{{Ability List|}}",
+    "healMod": "100%",
+    "paraimmune": "?",
+    "holyDmgMod": "100%",
+    "maxdmg": "?",
+    "pushable": "no",
+    "implemented": "10.70",
+    "loot": [
+        {
+            "amount": "1-3",
+            "itemName": "Platinum Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Quara Tentacle",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Mind Stone",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Great Mana Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Ring of Healing",
+            "rarity": "semi-rare"
+        },
+        {
+            "amount": "1-5",
+            "itemName": "Shrimp",
+            "rarity": "semi-rare"
+        },
+        {
+            "amount": "1-7",
+            "itemName": "Assassin Star",
+            "rarity": "semi-rare"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Small Ruby",
+            "rarity": "semi-rare"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Small Amethyst",
+            "rarity": "semi-rare"
+        },
+        {
+            "amount": "1-10",
+            "itemName": "Vortex Bolt",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Violet Crystal Shard",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Northwind Rod",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Fish Fin",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Piggy Bank",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Energy, Poison",
+    "exp": "1250",
+    "mitigation": "1.04",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "renegade quara constrictor",
+    "illusionable": "yes",
+    "armor": "35",
+    "convince": "--",
+    "name": "Renegade Quara Constrictor",
+    "isboss": "no",
+    "iceDmgMod": "0%",
+    "energyDmgMod": "125%",
+    "deathDmgMod": "100%",
+    "status": "event",
+    "plural": "renegade quara constrictors",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "lightcolor": "35",
+    "occurrence": "Rare",
+    "speed": "190",
+    "pushobjects": "yes",
+    "fireDmgMod": "0%",
+    "sounds": [
+        ""
+    ],
+    "lightradius": "2",
+    "bestiaryclass": "Aquatic",
+    "creatureclass": "Amphibians",
+    "earthDmgMod": "110%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Quara",
+    "spawntype": [
+        "Regular",
+        "Event",
+        "Unblockable"
+    ],
+    "race_id": "1097",
+    "bestiarylevel": "Medium",
+    "senseinvis": "no",
+    "drownDmgMod": "0%",
+    "behaviour": "Unknown",
+    "location": "[[Seacrest Grounds]] when [[Seacrest Serpent]]s are not spawning.",
+    "strategy": "The same as the one used for a regular [[Quara Constrictor]]."
+}

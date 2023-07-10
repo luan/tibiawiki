@@ -1,0 +1,88 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "These [[Creature]]s are immune to [[Physical Damage]], however, they can be damaged by weapons that have been enchanted or come with natural enchantments such as a [[Fire Axe]] or a [[Fire Sword]]. They are not weak to [[Holy Damage]], unlike most other undead creatures.",
+    "walksthrough": "Poison",
+    "hp": "150",
+    "abilities": "{{Ability List|{{Melee|0-80}}|{{Ability|[[Life Drain]]|20-45|element=lifedrain}}}}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "holyDmgMod": "100%",
+    "maxdmg": "{{Max Damage|physical=80|lifedrain=45}}",
+    "pushable": "no",
+    "implemented": "6.61-6.97",
+    "loot": [
+        {
+            "itemName": "Shadow Herb"
+        },
+        {
+            "itemName": "Morning Star"
+        },
+        {
+            "itemName": "Cape"
+        },
+        {
+            "itemName": "Combat Knife"
+        },
+        {
+            "itemName": "White Piece of Cloth",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Ghostly Tissue",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Book (Orange)",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Ancient Shield",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Stealth Ring",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Fire, Energy",
+    "exp": "120",
+    "mitigation": "0.51",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "ghost",
+    "illusionable": "yes",
+    "armor": "10",
+    "convince": "--",
+    "name": "Ghost",
+    "isboss": "no",
+    "iceDmgMod": "100%",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "0%",
+    "plural": "ghosts",
+    "hpDrainDmgMod": "0%",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "Ghosts have been spotted in the haunted ruins of Drefia on Darama. Some people say that they are the souls of the former inhabitants, which died in that horrible disaster destroying the once beautiful city. Indeed they are supernatural in some way, as no physical weapon can hit them, and their shivering touch makes their opponents loose some vitality.",
+    "speed": "80",
+    "pushobjects": "?",
+    "fireDmgMod": "100%",
+    "sounds": [
+        "Huh!",
+        "Shhhhhh",
+        "Buuuuuh"
+    ],
+    "runsat": "0",
+    "bestiaryclass": "Undead",
+    "creatureclass": "The Undead",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "0%",
+    "primarytype": "Ghosts",
+    "race_id": "48",
+    "bestiarylevel": "Easy",
+    "senseinvis": "no",
+    "drownDmgMod": "0%",
+    "bestiaryname": "ghost",
+    "location": "[[Ghost Ship]], [[Drefia]], [[Ankrahmun Tombs]], [[Mount Sternum Undead Cave]] between Thais and Kazordoon, [[Dark Cathedral]], under [[Treasure Island]], [[Isle of the Kings]], [[Grothmok tunnels]] (in [[Dwarven Mines]]), [[Goroma]], [[Ramoa]], [[Lich Hell]], [[Upper Spike]].",
+    "strategy": "Use [[Full Defense]] mode and shoot runes, [[Wand]], [[Rod]] or enchanted weapon that use fire, ice, energy or holy element. They move slowly, so running from them is not difficult. A good strategy for knights hunting in tombs (where it's common to encounter ghosts) is to bring a fire sword/axe or another enchanted weapon, that way you don't need to waste any [[Rune]]s."
+}

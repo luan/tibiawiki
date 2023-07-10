@@ -1,0 +1,53 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "None.",
+    "walksthrough": "Fire",
+    "hp": "1700",
+    "lightcolor": "35",
+    "speed": "?",
+    "abilities": "{{Ability List\n |{{Melee|0-109+|poison=5}}\n |{{Ability|Green Life Drain Beam|162-228+|element=lifedrain}}\n |{{Ability|Distance Life Drain|106-169+|element=lifedrain}}\n |{{Ability|Cold Bubble Beam|134-148+|element=ice}}\n |{{Ability|Cool Bubble Exori|101-149+|element=ice}}\n |{{Ability|[[Paralyze]]|element=paralyze}}\n |{{Healing|range=50-100}}\n}}",
+    "pushobjects": "yes",
+    "healMod": "100%?",
+    "paraimmune": "yes",
+    "fireDmgMod": "0%",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        "Qua hah tsh!",
+        "Teech tsha tshul!",
+        "Quara tsha Fach!",
+        "Tssssha Quara!",
+        "Blubber.",
+        "Blup."
+    ],
+    "maxdmg": "808+",
+    "pushable": "no",
+    "lightradius": "2",
+    "implemented": "8.40",
+    "loot": [
+        {
+            "itemName": "Gold Coin"
+        }
+    ],
+    "walksaround": "Energy, Poison",
+    "exp": "500",
+    "creatureclass": "Amphibians",
+    "earthDmgMod": "115%?",
+    "physicalDmgMod": "100%?",
+    "primarytype": "Quara",
+    "race_id": "489",
+    "senseinvis": "yes",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "0%",
+    "convince": "--",
+    "name": "Splasher",
+    "isboss": "yes",
+    "behaviour": "Same of a [[Quara Hydromancer]].",
+    "location": "At [[Yalahar]], [[Sunken Quarter]]. When entering the [[Sunken Quarter]] step down from the underwater hill and head to south-west, there you should find stairs which takes you down to the boss. The boss is behind a sealed door, so make sure you have the access to that room.",
+    "iceDmgMod": "0%",
+    "strategy": "Shoot from the door.",
+    "energyDmgMod": "125%?",
+    "deathDmgMod": "100%?"
+}

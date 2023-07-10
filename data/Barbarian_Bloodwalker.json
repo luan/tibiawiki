@@ -1,0 +1,112 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "It's strongest barbarian of the tribe.",
+    "walksthrough": "None",
+    "hp": "305",
+    "abilities": "{{Ability List\n |{{Melee|0-200}}\n |{{Haste}}}}",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "holyDmgMod": "80%",
+    "maxdmg": "{{Max Damage|physical=200}}",
+    "pushable": "no",
+    "usedelements": "Physical",
+    "implemented": "8.00",
+    "loot": [
+        {
+            "amount": "1-12",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Lamp",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Battle Axe",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Halberd",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Chain Helmet",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Chain Armor",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Ham",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Health Potion",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Red Piece of Cloth",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Beastslayer Axe",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Shard",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Fur Boots",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Fire, Energy, Poison",
+    "exp": "195",
+    "mitigation": "0.25",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "barbarian bloodwalker",
+    "illusionable": "no",
+    "armor": "9",
+    "convince": "590",
+    "name": "Barbarian Bloodwalker",
+    "isboss": "no",
+    "iceDmgMod": "50%",
+    "energyDmgMod": "90%",
+    "deathDmgMod": "110%",
+    "plural": "barbarian bloodwalkers",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "The Barbarian Bloodwalkers did surely not receive their name for their diplomatic talent. A Bloodwalker first strikes and then he strikes even more. Bloodwalkers are nearly mad and always on the brink of frenzy. The constant abuse of berserker elixirs forced them into a life of mayhem and destruction.<br />Battle and carnage are the lifeblood of the Barbarian Bloodwalkers. Regarded by their tribesmen as beings touched by divinity, there is little that could restrain them. As a matter of fact, the same shamans that supplied them with berserker elixirs in the first place, now keep them drugged with potions to pacify them and to make them less prone to rampages. In times of war, however, these 'holy warriors' are set on the enemies and most of their tribesmen do their best to avoid any act that might provoke their wrath. The rage that guides the actions of a Bloodwalker leaves no room for fear, pain, surrender or mercy. With no regard for their own lives, the Bloodwalkers storm into battle and their war cries challenge everything, be it mortal, demon or god.",
+    "speed": "118",
+    "pushobjects": "yes",
+    "fireDmgMod": "100%",
+    "sounds": [
+        "YAAAHEEE!",
+        "SLAUGHTER!",
+        "CARNAGE!",
+        "You can run but you can't hide"
+    ],
+    "runsat": "0",
+    "bestiaryclass": "Human",
+    "creatureclass": "Humans",
+    "earthDmgMod": "105%",
+    "physicalDmgMod": "90%",
+    "primarytype": "Barbarians",
+    "spawntype": [
+        "Regular",
+        "Raid"
+    ],
+    "race_id": "323",
+    "bestiarylevel": "Medium",
+    "senseinvis": "no",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "barbarianbloodwalker",
+    "behaviour": "These creatures can be compared to and should be treated like an [[Orc Berserker]].",
+    "location": "[[Krimhorn]], [[Bittermor]], [[Ragnir]], [[Arena and Zoo Quarter]] inside the Arena.",
+    "strategy": "[[Knights]], should attack these on full attack, and target them first since they hit the hardest out of all [[Barbarians]].<br/>\n[[Paladins]], with 65 distance fighting should get rid of these first, since they run fast.<br/>\n[[Mages]], of [[Level]] 25 and [[Magic Level]] 30 can run them and with 4-5 [[Stoneshower]] or [[Stalagmite]] rune charges. Use [[Magic Shield]] or [[Stealth Ring]] because they hit hard and they cannot see invisible. For levels 35+ use [[Invisible]] spell with [[Terra Strike]]."
+}

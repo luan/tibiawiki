@@ -1,0 +1,57 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "Similar to a [[Stone Rhino]]",
+    "walksthrough": "?",
+    "hp": "3000",
+    "speed": "?",
+    "abilities": "{{Ability List\n |{{Melee|0-263+}}\n |{{Healing|range=0-195+}}\n}}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "100%?",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "{{Max Damage|physical=263+}}",
+    "pushable": "?",
+    "usedelements": "Physical",
+    "implemented": "11.40.5409",
+    "loot": [
+        {
+            "itemName": "Hardened Bone"
+        },
+        {
+            "itemName": "Raw Meat"
+        },
+        {
+            "itemName": "Rhino Hide"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "1800",
+    "creatureclass": "Mammals",
+    "earthDmgMod": "100%?",
+    "physicalDmgMod": "100%?",
+    "primarytype": "Ungulates",
+    "spawntype": [
+        "Regular"
+    ],
+    "senseinvis": "?",
+    "article": "a",
+    "actualname": "museum stone rhino",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "?",
+    "name": "Museum Stone Rhino",
+    "isboss": "no",
+    "behaviour": "Fights in close combat.",
+    "location": "[[Museum of Tibian Arts]] (only at [[Night]])",
+    "iceDmgMod": "100%?",
+    "strategy": "Unknown",
+    "energyDmgMod": "100%?",
+    "deathDmgMod": "100%?"
+}

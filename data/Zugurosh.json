@@ -1,0 +1,164 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "He is a [[The Ruthless Seven Minions|Ruthless Seven Servant]], and you must defeat him in order to proceed through [[The Inquisition Quest]]. Despite his might, the demon known as '''Zugurosh''' is a coward, and he would be the first to admit that - if he were threatened enough. '''Zugurosh''' spent a good part of his past hiding from real and assumed enemies. Seeking for protection, he joined the ranks of [[The Ruthless Seven]] soon after they had established themselves as the mightiest of all surviving cabals. Though he is quick on the uptake, his cowardice prevented him from gaining any significant power until his paranoia helped him to discover a treachery in the ranks of [[The Ruthless Seven Minions]]. This granted him the attention of his dark masters and a rather high position in their ranks that only resulted in intensifying his fears.\n\n'''Zugurosh''' prefers to be a living coward than a dead hero. Ironically his cowardice and paranoia made him a valuable tool for [[The Ruthless Seven]] who entrusted him with several safety measures for their numerous operations. Assuming enemies and betrayal everywhere, '''Zugurosh''' is responsible for some of the most important and essential safety measures of [[The Ruthless Seven]]. He has a rather unique network of bribed and threatened informants. Though treachery and backstabbing is quite common among demons, this kind of controlled betrayal on a grand scale is a rather unusual concept for their race, and so far it works quite well.\n\n'''Zugurosh''' hates every fair fight, and he ensures that things are in his favour before he makes his move. He enjoys to prey upon helpless victims and loves nothing more than cheap victories using deceit, traps and ambushes. Since demons do not mind much about such tactics, '''Zugurosh''' is quite respected by his kind.\n\n{{JSpoiler|It's one of the bosses of [[The Inquisition Quest]].}}",
+    "walksthrough": "?",
+    "hp": "90500",
+    "speed": "165",
+    "abilities": "{{Ability List\n |{{Melee|0-800}}\n |{{Ability|Life Drain|0-500|lifedrain}}\n |{{Ability|Death Beam|0-500|death\n  |scene={{Scene|spell=10sqmbeam|caster=Zugurosh|look_direction=east|effect=Death Effect}}}}\n |{{Ability|Death Ball|0-100|death\n  |scene={{Scene|spell=3sqmball2self|caster=Zugurosh|look_direction=south|effect=Cloud Effect|effect_on_caster=yes}}}}\n |{{Ability|Burning Ball|burns you, 10 hp/turn|burning\n  |scene={{Scene|spell=2sqmballtarget|caster=Zugurosh|look_direction=south|effect=Blast Effect|missile=Fire Missile|missile_direction=south-east|missile_distance=2/2}}}}\n |{{Ability|Mana Draining Splash Ball|0-200|manadrain\n  |scene={{Scene|spell=3sqmball2self|caster=Zugurosh|look_direction=south|effect=Water Splash Effect}}}}\n |{{Ability|Paralyze|reduces speed by 770 points|slowed\n  |scene={{Scene|spell=3sqmstrike|caster=Zugurosh|look_direction=south|effect=Green Sparkles Effect|effect_on_caster=yes}}}}\n |{{Ability|Invisible||invisible}}\n |{{Healing|Weak Healing|range=40-60 or 400-600}}\n |{{Healing|Strong Healing|range=400-600}}\n}}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "yes",
+    "secondarytype": "Archdemons",
+    "fireDmgMod": "70%",
+    "holyDmgMod": "70%",
+    "sounds": [
+        "You will run out of resources soon enough!",
+        "One little mistake and you're all are mine!",
+        "I sense your strength fading!",
+        "I know you will show a weakness!",
+        "Your fear will make you prone to mistakes!"
+    ],
+    "maxdmg": "{{Max Damage|physical=800|lifedrain=500|death=600|fire=10|manadrain=200}}",
+    "pushable": "?",
+    "runsat": "4500",
+    "implemented": "8.20",
+    "loot": [
+        {
+            "amount": "0-182",
+            "itemName": "Gold Coin"
+        },
+        {
+            "amount": "0-28",
+            "itemName": "Platinum Coin"
+        },
+        {
+            "amount": "0-30",
+            "itemName": "Talon"
+        },
+        {
+            "amount": "0-10",
+            "itemName": "Soul Orb"
+        },
+        {
+            "amount": "0-9",
+            "itemName": "Yellow Piece of Cloth"
+        },
+        {
+            "amount": "0-9",
+            "itemName": "Brown Piece of Cloth"
+        },
+        {
+            "itemName": "Slightly Rusted Armor"
+        },
+        {
+            "amount": "0-10",
+            "itemName": "White Piece of Cloth"
+        },
+        {
+            "amount": "0-10",
+            "itemName": "Blue Piece of Cloth"
+        },
+        {
+            "amount": "0-10",
+            "itemName": "Green Piece of Cloth"
+        },
+        {
+            "amount": "0-10",
+            "itemName": "Red Piece of Cloth"
+        },
+        {
+            "itemName": "Slightly Rusted Legs"
+        },
+        {
+            "itemName": "Gold Ingot"
+        },
+        {
+            "itemName": "Great Spirit Potion"
+        },
+        {
+            "itemName": "Silver Brooch"
+        },
+        {
+            "itemName": "Ultimate Health Potion"
+        },
+        {
+            "amount": "0-11",
+            "itemName": "Black Pearl"
+        },
+        {
+            "amount": "0-7",
+            "itemName": "Small Sapphire"
+        },
+        {
+            "amount": "0-8",
+            "itemName": "Onyx Arrow"
+        },
+        {
+            "itemName": "Boots of Haste"
+        },
+        {
+            "itemName": "Steel Boots"
+        },
+        {
+            "itemName": "Stone Skin Amulet"
+        },
+        {
+            "itemName": "Amulet of Loss"
+        },
+        {
+            "itemName": "Great Mana Potion"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "Great Health Potion"
+        },
+        {
+            "itemName": "Jewel Case"
+        },
+        {
+            "itemName": "Demon Horn"
+        },
+        {
+            "itemName": "Golden Boots",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Demonic Essence",
+            "rarity": "always"
+        },
+        {
+            "itemName": "Blue Gem"
+        },
+        {
+            "itemName": "Crystal Ball"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "10000",
+    "creatureclass": "Demons",
+    "earthDmgMod": "70%",
+    "physicalDmgMod": "50%?",
+    "bosstiaryclass": "Bane",
+    "primarytype": "The Ruthless Seven Minions",
+    "spawntype": [
+        "Regular",
+        "Unique",
+        "Unblockable"
+    ],
+    "race_id": "434",
+    "senseinvis": "yes",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Zugurosh",
+    "isboss": "yes",
+    "behaviour": "'''Zugurosh''' runs on [[Health|very low health]].",
+    "location": "Teleporter after [[The Inquisition Quest|The Sunken Caves]].",
+    "iceDmgMod": "70%",
+    "strategy": "It would be very wise to trap this boss as he retargets very frequently to the nearest creature. The best way would to use [[Wild Growth]] by a [[Druid]] so you can still shoot the boss and heal the blocker, and they stay longer than [[Magic Wall]]s. If possible, try to ensure the main blocker is not hit by the towers since they reduce from 85% to 100% of their [[Shielding]]. This can be done by putting shooters or [[Summon]]ed [[Creatures]] close to the pillars since they target the nearest player. Summoning [[Fire Devil]]s or [[Fire Elemental]]s to help deal damage with a few mages would be wise if he is trapped, as he has an immense amount of health. The more firepower the better to take down this ''\"healthy\"'' demon.<br />",
+    "energyDmgMod": "70%",
+    "deathDmgMod": "0%"
+}

@@ -1,0 +1,67 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "?",
+    "walksthrough": "?",
+    "hp": "50000",
+    "abilities": "{{Ability List|}}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "100%?",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "?",
+    "pushable": "?",
+    "usedelements": "?",
+    "implemented": "12.20.9066",
+    "loot": [
+        {
+            "itemName": "Violet Gem"
+        },
+        {
+            "itemName": "Plushie of Devovorga",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Plushie of Gaz'Haragoth",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Plushie of King Tibianus",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Sight of Surrender's Plushie",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Plushie of a Deepling",
+            "rarity": "rare"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "0",
+    "creatureclass": "Special",
+    "earthDmgMod": "100%?",
+    "physicalDmgMod": "100%?",
+    "primarytype": "Traps",
+    "race_id": "1847",
+    "senseinvis": "?",
+    "actualname": "Orger Treasure",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Orger Treasure",
+    "isboss": "yes",
+    "behaviour": "?",
+    "location": "[[Orcsoberfest Island]].",
+    "iceDmgMod": "100%?",
+    "strategy": "Unknown.",
+    "energyDmgMod": "100%?",
+    "deathDmgMod": "100%?"
+}

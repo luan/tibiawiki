@@ -1,0 +1,180 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "walksthrough": "Fire, Energy, Poison",
+    "hp": "17000",
+    "abilities": "{{Ability List\n |{{Melee|0-600}}\n |{{Ability|Flame Strike|500-700|fire}}\n |{{Ability|Fireball Cross|700-100|fire|scene={{Scene|spell=plusspell|caster=Rage Squid|effect=Fireball Effect|casting_effect=Fireball Effect|background=slate_floor|edge_size=32}}}}\n |{{Ability|Blast Ball|500-700|fire|scene={{Scene|spell=1sqmballtarget|missile=Fire Missile|missile_direction=south-east|missile_distance=2/2|caster=Rage Squid|effect=Blast Effect|background=slate_floor|edge_size=32}}}}\n |{{Ability|Fire Berserk|500-700|fire|scene={{Scene|spell=3x3spell|caster=Rage Squid|effect=Fire Effect|effect_on_caster=yes|background=slate_floor}}}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "holyDmgMod": "100%",
+    "maxdmg": "{{Max Damage|fire=2400|physical=600}}",
+    "pushable": "no",
+    "implemented": "11.80.7048",
+    "loot": [
+        {
+            "amount": "1-6",
+            "itemName": "Platinum Coin",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "Ultimate Health Potion",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "Great Mana Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "Great Spirit Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-?",
+            "itemName": "Glowing Rune",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Demonic Essence",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Inkwell (Black)",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-6",
+            "itemName": "Fire Mushroom",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-5",
+            "itemName": "Small Topaz",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-5",
+            "itemName": "Small Ruby",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-5",
+            "itemName": "Small Amethyst",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-5",
+            "itemName": "Small Emerald",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Fire Axe",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Giant Sword",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Red Gem",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Talon",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Slime Heart",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Orb",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Might Ring",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Piece of Dead Brain",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Demon Shield",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Platinum Amulet",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Demonrage Sword",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Purple Tome",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Devil Helmet",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Magic Plate Armor",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Wand of Everblazing",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Demon Trophy",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "None",
+    "exp": "14820",
+    "mitigation": "2.16",
+    "attacktype": "Melee",
+    "history": "It's experience was decreased from 19,000 to 14,820 on [[Updates/12.31]].",
+    "article": "a",
+    "actualname": "rage squid",
+    "illusionable": "no",
+    "armor": "78",
+    "convince": "--",
+    "name": "Rage Squid",
+    "isboss": "no",
+    "iceDmgMod": "115%",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "100%",
+    "plural": "rage squids",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "In the psionic gifted race that in a lack for a better term in spoken language were dubbed 'Squids', strange and unfamiliar casts were created. One of the lowest casts are used as a kind of dumpster for unwanted and disturbing thoughts and emotions. Those unfortunate squids are forcefully filled with thoughts and emotions that are no their own. Picked from the ranks of the weakest and most instable of the squid race they soon fall victim to madness while their minds are more and more shattered. Even in this state the broken being, no longer comprehending what's happening to them are further used and flooded with foreign brain patterns. A good part of the caste withers away and dies in the process. Some though mysteriously manage to survive. Over time their own frustration and anger adds up with those that are dumped into them and this dangerous mixture is only contained by a more and more fragile mind. Sooner or later those minds just snap. This is usually noticed by their handlers far in advance and the unfortunate creatures are extracted to undergo a gruesome procedure to alter their minds and brain pattern. After all the lobotomys and inductions there is little left over then an animalistic creature that follows predetermined patterns like a golem. These creatures, known as rage squids are highly aggressive and violent and their only use is to employ them as a kind of guard or attack dog. Often accompanied by a handler, they are used in packs for war or hunts. Tempered by violence and aggression their former meager fighting skills become formidable by their training and conditioning. Only recently rumored shifts in the society of squids lead to a dramatic increase of rage squids produced. Because of this rage squids are now sometimes employed for very specific guarding tasks without any handler present.",
+    "speed": "215",
+    "pushobjects": "yes",
+    "fireDmgMod": "0%",
+    "sounds": [
+        ""
+    ],
+    "runsat": "0",
+    "bestiaryclass": "Magical",
+    "creatureclass": "Invertebrates",
+    "earthDmgMod": "100%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Mollusks",
+    "spawntype": [
+        "Regular"
+    ],
+    "race_id": "1668",
+    "bestiarylevel": "Hard",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "ragingbrainsquid",
+    "behaviour": "Fights in close combat.",
+    "location": "[[Secret Library]] fire section.",
+    "strategy": "Use a lot of [[Fire Damage]] protection when hunting them. Be careful with the [[Ink Blob]]s around the spawn and if possible trap them outside of your hunting route. Blockers must be very careful when in front of them due to their cross-shaped spell that deals a lot of Fire Damage and can be used at the same time as the Strike and Bersek or Fireball."
+}

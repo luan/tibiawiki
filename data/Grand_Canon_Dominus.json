@@ -1,0 +1,126 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "It's a boss of the [[Order of the Falcon]].\n{{JSpoiler|Part of [[The Secret Library Quest]].}}",
+    "walksthrough": "?",
+    "hp": "15000",
+    "speed": "?",
+    "abilities": "{{Ability List\n |{{Melee|0-600+}}\n |{{Ability|Energy Beam|400-600|element=energy}}\n |{{Ability|Divine Berserk|550-750|element=holy\n   |scene={{Scene|spell=3x3spell|effect=Holy Cross Effect|caster=Grand Canon Dominus|look_direction=south|effect_on_caster=yes}}}}\n |{{Ability|Energy Hit|600-820|element=energy\n  |scene={{Scene|spell=2sqmstrike|caster=Grand Canon Dominus|look_direction=south|effect=Blue Electrify Effect|damage_effect=Trembling Effect|missile=Ethereal Spear Missile|missile_direction=south-east|missile_distance=2/2}}}}\n |{{Ability|Death Bomb|900-1050|element=death\n  |scene={{Scene|spell=2sqmballtarget|caster=Grand Canon Dominus|look_direction=south|effect=Cloud Effect|missile=Death Missile|missile_direction=south-east|missile_distance=2/2}}}}\n |{{Ability|Distance Paralyze|element=paralyze\n  |scene={{Scene|spell=7sqmstrike|effect=Green Sparkles Effect|caster=Grand Canon Dominus}}}}\n}}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "50%",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "2600+",
+    "pushable": "?",
+    "runsat": "0",
+    "implemented": "11.80.7048",
+    "loot": [
+        {
+            "amount": "1-5",
+            "itemName": "Platinum Coin"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "Great Mana Potion"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "Great Health Potion"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Small Topaz"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Small Diamond"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Small Enchanted Amethyst"
+        },
+        {
+            "amount": "1-10",
+            "itemName": "Assassin Star"
+        },
+        {
+            "amount": "1-35",
+            "itemName": "Onyx Arrow"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Small Amethyst"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Small Emerald"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Small Ruby"
+        },
+        {
+            "itemName": "Falcon Crest"
+        },
+        {
+            "itemName": "Red Gem"
+        },
+        {
+            "itemName": "Damaged Armor Plates"
+        },
+        {
+            "itemName": "Green Gem"
+        },
+        {
+            "itemName": "Violet Gem"
+        },
+        {
+            "itemName": "Mastermind Shield"
+        },
+        {
+            "itemName": "Patch of Fine Cloth"
+        },
+        {
+            "itemName": "Giant Shimmering Pearl"
+        },
+        {
+            "itemName": "Golden Armor"
+        },
+        {
+            "itemName": "Falcon Bow"
+        },
+        {
+            "itemName": "Falcon Wand"
+        },
+        {
+            "itemName": "Falcon Plate"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "11000",
+    "creatureclass": "Humans",
+    "earthDmgMod": "50%",
+    "physicalDmgMod": "40%?",
+    "bosstiaryclass": "Bane",
+    "primarytype": "Members of the Order of the Falcon",
+    "race_id": "1584",
+    "senseinvis": "yes",
+    "actualname": "Grand Canon Dominus",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Grand Canon Dominus",
+    "isboss": "yes",
+    "behaviour": "Fights in close combat.",
+    "location": "[[Falcon Bastion]].",
+    "iceDmgMod": "50%?",
+    "strategy": "For duos or small teams, Grand Canon Dominus isn't much harder than the other minibosses of the [[Falcon Bastion]]. Players should avoid standing in front of it due to its strong beam, which together with the other abilities can easily combo more than 2000 HP. For those trying to kill it solo, beware that the area where it spawns does not favor running too much, and you'll be hit by its attacks nonetheless.",
+    "energyDmgMod": "50%",
+    "deathDmgMod": "50%?"
+}

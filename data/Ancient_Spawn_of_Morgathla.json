@@ -1,0 +1,242 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "It looks like an [[Ancient Scarab]] with different colours. This boss has no cooldown; you can fight it again immediately after killing it.<br />\n{{JSpoiler|Part of the [[Dangerous Depths Quest]].}}",
+    "walksthrough": "?",
+    "hp": "?",
+    "speed": "?",
+    "abilities": "{{Ability List|}}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "yes",
+    "fireDmgMod": "100%?",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "?",
+    "pushable": "?",
+    "runsat": "0",
+    "implemented": "11.50.6055",
+    "loot": [
+        {
+            "amount": "4",
+            "itemName": "Mastermind Potion"
+        },
+        {
+            "amount": "150-350",
+            "itemName": "Platinum Coin"
+        },
+        {
+            "itemName": "Ring of Healing"
+        },
+        {
+            "amount": "6",
+            "itemName": "Blue Crystal Shard"
+        },
+        {
+            "itemName": "Daramian Waraxe"
+        },
+        {
+            "amount": "6",
+            "itemName": "Violet Crystal Shard"
+        },
+        {
+            "amount": "3",
+            "itemName": "Ancient Stone"
+        },
+        {
+            "amount": "12-24",
+            "itemName": "Great Spirit Potion"
+        },
+        {
+            "amount": "6",
+            "itemName": "Green Crystal Shard"
+        },
+        {
+            "amount": "3",
+            "itemName": "Onyx Chip"
+        },
+        {
+            "itemName": "Silver Token"
+        },
+        {
+            "itemName": "Springsprout Rod"
+        },
+        {
+            "amount": "12-24",
+            "itemName": "Great Mana Potion"
+        },
+        {
+            "amount": "6",
+            "itemName": "Huge Chunk of Crude Iron"
+        },
+        {
+            "itemName": "Luminous Orb"
+        },
+        {
+            "itemName": "Scarab Amulet"
+        },
+        {
+            "itemName": "Terra Hood"
+        },
+        {
+            "amount": "12-24",
+            "itemName": "Ultimate Health Potion"
+        },
+        {
+            "amount": "2",
+            "itemName": "Yellow Gem"
+        },
+        {
+            "amount": "2",
+            "itemName": "Blue Gem"
+        },
+        {
+            "itemName": "Bonebreaker"
+        },
+        {
+            "itemName": "Djinn Blade"
+        },
+        {
+            "amount": "2",
+            "itemName": "Giant Shimmering Pearl"
+        },
+        {
+            "itemName": "Gold Token"
+        },
+        {
+            "amount": "2",
+            "itemName": "Red Gem"
+        },
+        {
+            "amount": "50",
+            "itemName": "Scarab Coin"
+        },
+        {
+            "itemName": "Scarab Shield"
+        },
+        {
+            "amount": "20",
+            "itemName": "Small Amethyst"
+        },
+        {
+            "amount": "20",
+            "itemName": "Small Diamond"
+        },
+        {
+            "amount": "20",
+            "itemName": "Small Emerald"
+        },
+        {
+            "amount": "20",
+            "itemName": "Small Ruby"
+        },
+        {
+            "amount": "20",
+            "itemName": "Small Topaz"
+        },
+        {
+            "itemName": "Underworld Rod"
+        },
+        {
+            "itemName": "Plan for a Makeshift Armour"
+        },
+        {
+            "itemName": "Crude Wood Planks"
+        },
+        {
+            "itemName": "Tinged Pot"
+        },
+        {
+            "itemName": "Earthborn Titan Armor"
+        },
+        {
+            "itemName": "Magic Sulphur"
+        },
+        {
+            "itemName": "Terra Legs"
+        },
+        {
+            "itemName": "Scarab Pincers"
+        },
+        {
+            "itemName": "Crystal Coin"
+        },
+        {
+            "itemName": "Enchanted Chicken Wing"
+        },
+        {
+            "itemName": "Terra Mantle"
+        },
+        {
+            "itemName": "Magic Light Wand"
+        },
+        {
+            "itemName": "Maxilla Maximus"
+        },
+        {
+            "itemName": "Green Gem"
+        },
+        {
+            "itemName": "Violet Gem"
+        },
+        {
+            "itemName": "Depth Scutum"
+        },
+        {
+            "itemName": "Ancient Amulet"
+        },
+        {
+            "itemName": "Warrior's Shield"
+        },
+        {
+            "itemName": "Oriental Shoes"
+        },
+        {
+            "itemName": "Candle Stump"
+        },
+        {
+            "itemName": "Demonrage Sword"
+        },
+        {
+            "itemName": "Ravager's Axe"
+        },
+        {
+            "itemName": "Scorpion Sceptre"
+        },
+        {
+            "itemName": "Heart of the Mountain (Item)"
+        },
+        {
+            "itemName": "Fireborn Giant Armor"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "?",
+    "creatureclass": "Invertebrates",
+    "earthDmgMod": "100%?",
+    "physicalDmgMod": "100%?",
+    "bosstiaryclass": "Archfoe",
+    "primarytype": "Insects",
+    "spawntype": [
+        "Unique",
+        "Triggered"
+    ],
+    "race_id": "1551",
+    "senseinvis": "yes",
+    "actualname": "Ancient Spawn Of Morgathla",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Ancient Spawn of Morgathla",
+    "isboss": "yes",
+    "behaviour": "It fights in close combat.",
+    "location": "Deep under the [[Gnome Deep Hub]].",
+    "iceDmgMod": "100%?",
+    "strategy": "Be careful with the [[Burrowing Beetle]]s and with the environment that will also cause you a lot of damage. Attack it while avoiding the [[Obsidian Pipes]] and the [[Sulphur Geysir]]e around the rooms.",
+    "energyDmgMod": "100%?",
+    "deathDmgMod": "100%?"
+}

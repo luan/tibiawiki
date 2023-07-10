@@ -1,0 +1,89 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "Countess Sorrow",
+    "hpDrainDmgMod": "0%",
+    "notes": "It's the [[Phantasm]]'s boss.",
+    "walksthrough": "?",
+    "hp": "6500",
+    "lightcolor": "203",
+    "speed": "200",
+    "abilities": "{{Ability List|{{Melee|0-828+|poisoned=46}}|{{Ability|Life Drain|423-976+|element=lifedrain}}|{{Ability|Mana Drain Exori|45-90|element=manadrain}}|{{Ability|Drunk Bomb|element=drunk}}|{{Ability|[[Invisibility]]|element=invisible}}|{{Ability|Frequent [[Self Healing]]|416-625|element=healing}}|{{Summon|Phantasm|3|Phantasm (Weak)}}|{{Haste}} }}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "yes",
+    "secondarytype": "Dreamhaunters",
+    "fireDmgMod": "110%",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        "I'm so sorry ... for youuu!",
+        "You won't rest in peace! Never ever!",
+        "Sleep ... for eternity!",
+        "Dreams can come true. As my dream of killing you.",
+        "You are lost pathetic mortal."
+    ],
+    "maxdmg": "2905+ (With the [[summon]]s - 5845+)",
+    "pushable": "?",
+    "lightradius": "3",
+    "implemented": "7.9",
+    "loot": [
+        {
+            "amount": "0-179+",
+            "itemName": "Gold Coin"
+        },
+        {
+            "amount": "0-4",
+            "itemName": "Platinum Coin"
+        },
+        {
+            "itemName": "Demonic Essence"
+        },
+        {
+            "itemName": "Protection Amulet"
+        },
+        {
+            "itemName": "Worn Leather Boots"
+        },
+        {
+            "itemName": "Plate Legs"
+        },
+        {
+            "itemName": "Stealth Ring"
+        },
+        {
+            "itemName": "Soul Orb"
+        },
+        {
+            "itemName": "Blue Robe"
+        },
+        {
+            "itemName": "Silver Mace"
+        },
+        {
+            "itemName": "Countess Sorrow's Frozen Tear",
+            "rarity": "always"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "13000",
+    "creatureclass": "The Undead",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "0%",
+    "bosstiaryclass": "Nemesis",
+    "primarytype": "Ghosts",
+    "race_id": "306",
+    "senseinvis": "yes",
+    "actualname": "Countess Sorrow",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Countess Sorrow",
+    "isboss": "yes",
+    "behaviour": "[[Summon]]s fast and hit slowly and usually doesn't do comboes. But, '''Countess Sorrow''' can send you and your team directly to the [[Temple]] in a blink of an eye.",
+    "location": "[[Pits of Inferno]] - [[Bazir]]'s Throneroom. {{Mapper Coords|128.26|126.107|15|4|text=here}}",
+    "iceDmgMod": "50%",
+    "strategy": "You can't hit this monster with [[Physical Damage]]. [[Mage]]s must use [[Fire Damage|Fire-Based Attacks]] and a [[Druid]] must heal the blocker always ([[Druid]]s' elements are not necessary because '''Countess Sorrow''' is strong against [[Ice Damage]] and immune to [[Earth Damage]]).",
+    "energyDmgMod": "90%",
+    "deathDmgMod": "0%"
+}

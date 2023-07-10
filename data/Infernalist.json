@@ -1,0 +1,127 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "Behaves similar to a [[Warlock]]. The difference is that '''Infernalists''' can make several combos.",
+    "walksthrough": "Fire, Energy, Poison",
+    "hp": "3650",
+    "abilities": "{{Ability List\n |{{Melee|0-100}}\n |{{Ability|Flame Strike|63-180|fire}}\n |{{Ability|[[Burst Arrow]]s|90-180|fire}}\n |{{Ability|[[Explosion]] on himself||?}}\n |{{Healing}}\n |{{Ability|Fire Bomb||fire field}}\n |{{Ability|Fire Beam|0-250|fire}}\n |{{Ability|Mana Drain Bomb|53-120|manadrain}}\n |{{Ability|Invisible||invisible}}\n |{{Summon|Fire Elemental|1}}\n |{{Debuff2|shielding=yes|melee=yes|value=50%}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "holyDmgMod": "80%",
+    "maxdmg": "{{Max Damage|physical=100|fire=630|manadrain=120|summons=280}}",
+    "pushable": "?",
+    "implemented": "8.40",
+    "loot": [
+        {
+            "amount": "1-151",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Great Health Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Great Mana Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-5",
+            "itemName": "Raspberry",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Skull Staff",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Energy Ring",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Small Enchanted Ruby",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Red Piece of Cloth",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Royal Tapestry",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Magic Sulphur",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Black Skull (Item)",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Spellbook of Mind Control",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Magma Boots",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Red Tome",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Gold Ingot",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Crystal of Power",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Piggy Bank",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "None",
+    "exp": "4000",
+    "mitigation": "1.15",
+    "attacktype": "Distance",
+    "article": "an",
+    "actualname": "infernalist",
+    "illusionable": "no",
+    "armor": "33",
+    "convince": "--",
+    "name": "Infernalist",
+    "isboss": "no",
+    "iceDmgMod": "105%",
+    "energyDmgMod": "0%",
+    "deathDmgMod": "90%",
+    "plural": "infernalists",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "At all times, doomsday cults have found followers. Infernalists are usually high-ranking followers of such cults that like to take things into their own hands. Instead of waiting for the apocalypse to come, they actively aim for their goal of total destruction.<br />Though Infernalists used to be eager students of magic, they discarded a good deal of spells in their repertoire in favour of more destructive and flashy spell effects. It is surely not astonishing that their favourite element is fire, as these spells are not only highly destructive put also have some glamorous effects.<br />Infernalists are easily won over for any task that causes destruction. They lack any form of patience though and often leave one job to join another. Several Infernalists work as mercenaries and some even find employment in armies. However, their short temper and their eagerness to start arguments about minor incidents make them bad employees. Even the cults they belong to are not very fond of them. For this reason, they are often sent on dangerous or even suicidal missions in the hope that they will never return. Despite all the destruction they have caused and enemies they have made, in the end, most Infernalists die either of their own machinations like destroying a building they are still in, or at the hands of allies that want to get rid of them.",
+    "speed": "115",
+    "pushobjects": "?",
+    "fireDmgMod": "0%",
+    "sounds": [
+        "Nothing will remain but your scorched bones!",
+        "Some like it hot!",
+        "It's cooking time!",
+        "Feel the heat of battle!"
+    ],
+    "bestiaryclass": "Human",
+    "creatureclass": "Humans",
+    "earthDmgMod": "5%",
+    "physicalDmgMod": "105%",
+    "primarytype": "Sorcerers",
+    "race_id": "529",
+    "bestiarylevel": "Hard",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "infernalist",
+    "behaviour": "Runs in low [[health]].",
+    "location": "[[Magician Quarter]] (2+5?), [[Hero Cave]] (2), [[Demona]] (2), [[Fury Dungeon]].",
+    "strategy": "Similar to [[Warlock]]s however these are more [[Fire]] based.<br />\n'''[[Druids]]''' as low as level 60 can kill them relatively easily by [[Summon Creature|summoning]] a [[Demon Skeleton]] and using [[Ice Strike]] and [[Hailstorm Rod]] to kill them. You can even try killing them as a level 28 [[mage]] but it's proven to be a huge waste of supplies (requiring 100+ [[Mana Potion]]s, 100+ [[Icicle]]s and 60+[[Intense Healing Rune]]s). [[Magma Set]] is recommended. You can also try wearing [[Dragon Necklace]], although they will wear off really fast since you're almost constantly on fire while hunting them. From about level 90 it becomes possible to kill one using just a [[Hailstorm Rod]] and [[Ice Strike]] although it can still be wasteful until higher levels. To make visible cast [[Envenom]].<br />\n'''[[Knights]]''' should attack them as soon as possible with a two-handed weapon since they are weak to physical attacks melee and in defence. Try to trap them in a corner, as they can be an annoyance when they are running around everywhere. When blocking Infernalists it is normally more efficient to use full offence rather than full defence. Running in their direction and using [[Groundshaker]] is a good way to make them visible again, you can also use [[Whirlwind Throw]] shortly after they go invisible or [[Inflict Wound]] and they will be visible again for a good time.<br /> \n'''[[Paladin]]''' could solo a Infernalist by trapping it in a corner and attacking with [[Assassin Star]]s while using [[Divine Missile]] to break their invisibility, alternatively [[Divine Caldera]] when trapped or [[Holy Flash]].<br />\n'''[[Sorcerers]]''' are recommended to hunt them without [[Wands]] since it would be waste of [[Mana Points]], it is a better way hunting with [[Icicle]] or [[Explosion]]. To break their invisibility shoot [[Avalanche]] or cast [[Curse]]."
+}

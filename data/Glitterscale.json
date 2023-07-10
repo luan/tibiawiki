@@ -1,0 +1,53 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "Glitterscale",
+    "hpDrainDmgMod": "100%?",
+    "notes": "Its corpse cannot be skinned.\n{{JSpoiler|Part of [[A Father's Burden Quest]].}}",
+    "walksthrough": "Fire, Energy, Poison",
+    "hp": "1000",
+    "speed": "?",
+    "abilities": "{{Ability List\n |{{Melee|0-120}}\n |{{Ability|[[Fire Wave]]|90-180|element=fire}}\n |{{Ability|[[Fireball]]|70-120|element=fire}}\n}}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "0%",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "?",
+    "pushable": "no",
+    "implemented": "8.60",
+    "loot": [
+        {
+            "itemName": "Flexible Dragon Scale"
+        }
+    ],
+    "walksaround": "None.",
+    "exp": "700",
+    "creatureclass": "Reptiles",
+    "earthDmgMod": "20%",
+    "physicalDmgMod": "100%?",
+    "bosstiaryclass": "Bane",
+    "primarytype": "Dragons",
+    "spawntype": [
+        "Regular",
+        "Unique"
+    ],
+    "race_id": "670",
+    "senseinvis": "yes",
+    "actualname": "Glitterscale",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "?",
+    "name": "Glitterscale",
+    "isboss": "yes",
+    "behaviour": "The same as a dragon.",
+    "location": "Below [[Greenshore]].",
+    "iceDmgMod": "110%",
+    "strategy": "A little bit stronger than a regular [[Dragon]].",
+    "energyDmgMod": "80%",
+    "deathDmgMod": "100%"
+}

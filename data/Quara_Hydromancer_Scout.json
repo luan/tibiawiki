@@ -1,0 +1,113 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "Has the same life, gives the same exp and has the same magic power as the normal [[Quara Hydromancer]], but loot has a lower drop chance.\n{{JSpoiler|You may hunt 400 [[Quara Constrictor Scout]]s, Quara Hydromancer Scouts, [[Quara Mantassin Scout]]s, [[Quara Pincher Scout]]s and [[Quara Predator Scout]]s combined as a task of the [[Killing in the Name of... Quest]].}}",
+    "walksthrough": "Fire",
+    "hp": "1100",
+    "abilities": "{{Ability List\n |{{Melee|0-40+|poison=5}}\n |{{Ability|Ice Berserk|130-165|element=ice\n  |scene={{Scene|spell=3x3spell|effect=Ice Explosion Effect|caster=Quara Hydromancer Scout|effect_on_caster=yes}}}}\n |{{Ability|Cold Green Beam|0-210+|element=ice\n  |scene={{Scene|spell=8sqmbeam|effect=Poison Effect 2|caster=Quara Hydromancer Scout|look_direction=east}}}}\n |{{Ability|Life Drain Bubble Beam|125-250|element=life drain\n  |scene={{Scene|spell=8sqmbeam|effect=Bubbles Effect|caster=Quara Hydromancer Scout|look_direction=east}}}}\n |{{Ability|Distance Life Drain|45-170|element=life drain\n  |scene={{Scene|spell=3sqmstrike|effect=Red Sparkles Effect|caster=Quara Hydromancer Scout|casting_effect=Red Sparkles Effect|missile_direction=south-east|missile_distance=3/3}}}}\n |{{Healing}}\n |{{Ability|Distance Paralyze||slowed}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "holyDmgMod": "100%",
+    "maxdmg": "{{Max Damage|physical=40|earth=5|lifedrain=420|ice=375}}",
+    "pushable": "?",
+    "implemented": "7.8",
+    "loot": [
+        {
+            "amount": "0-139",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "amount": "0-3",
+            "itemName": "Fish",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "0-4",
+            "itemName": "Shrimp",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Quara Eye",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "White Pearl",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Black Pearl",
+            "rarity": "semi-rare"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "Small Emerald",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Obsidian Lance",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Fish Fin",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Wand of Cosmic Energy",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Ring of Healing",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Knight Armor",
+            "rarity": "rare"
+        }
+    ],
+    "walksaround": "Energy, Poison",
+    "exp": "800",
+    "mitigation": "1.04",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "quara hydromancer scout",
+    "illusionable": "no",
+    "armor": "30",
+    "convince": "--",
+    "name": "Quara Hydromancer Scout",
+    "isboss": "no",
+    "iceDmgMod": "0%",
+    "energyDmgMod": "110%",
+    "deathDmgMod": "100%",
+    "plural": "quara hydromancer scouts",
+    "hpDrainDmgMod": "0%",
+    "usespells": "yes",
+    "lightcolor": "35",
+    "occurrence": "Common",
+    "bestiarytext": "The Quara Hydromancer Scout is a weaker version of [[Quara Hydromancer]]s.",
+    "speed": "95",
+    "pushobjects": "?",
+    "fireDmgMod": "0%",
+    "sounds": [
+        "Qua hah tsh!",
+        "Teech tsha tshul!",
+        "Quara tsha Fach!",
+        "Tssssha Quara!",
+        "Blubber.",
+        "Blup."
+    ],
+    "lightradius": "2",
+    "bestiaryclass": "Aquatic",
+    "creatureclass": "Amphibians",
+    "earthDmgMod": "110%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Quara",
+    "race_id": "244",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "drownDmgMod": "0%",
+    "bestiaryname": "quarahydromancerscout",
+    "behaviour": "Watch for their healing ability since they heal themself at average level.",
+    "location": "[[Malada]], [[Hrodmir Quara Scout Caves]], [[Quara Grotto]], [[Oramond]].",
+    "strategy": "They are easy to handle one-on-one but you rarely find them without others. Big groups of [[Quara]] occasionally raid. [[Liberty Bay Raids#Quara Scout Raid on Liberty Bay|Liberty Bay]] or the [[Liberty Bay Raids#Quara Scout Raid on Liberty Bay Plantations|plantations]].\n<br>'''All vocations''': stay diagonal to avoid beam attacks.<br>'''[[Paladin]]s''': try to keep distance and use [[Light Healing]] to remove paralysis.<br>'''[[Mage]]s''': keep a distance and use [[energy strike]].  It is also recommended to use [[Mana Shield]] if fighting in close quarters with this creature.<br>'''[[Knight]]''': Kill them fast or their exori-like attacks and their beams will hurt you quite a lot."
+}

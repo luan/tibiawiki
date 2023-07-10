@@ -1,0 +1,124 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "This creature, despite it's lack of health, has deadly attacks which can deal enough damage to give you a free trip back to the [[Temple]].",
+    "walksthrough": "Poison",
+    "hp": "1350",
+    "abilities": "{{Ability List\n |{{Melee|0-305|poison=15}}\n |{{Ability|Great drunk bomb|element=drunk|scene={{Scene|spell=2sqmballself|effect=Purple Notes Effect|caster=Spectre|effect_on_caster=yes}}}}\n |{{Ability|Invisible Distance Mana Drain|100-400|mana drain|scene={{Scene|spell=7sqmstrike|caster=Spectre|missile_direction=south-east|missile_distance=7/7}}}}\n |{{Ability|Distance Life Drain|170-260+|life drain|scene={{Scene|spell=7sqmstrike|effect=Red Sparkles Effect|caster=Spectre|missile_direction=south-east|missile_distance=7/7}}}}\n |{{Ability|Sparkle Drowning Berserk|20 [[hp]] / 20 turns|element=drowning|scene={{Scene|spell=3x3spell|effect=Green Sparkles Effect|caster=Spectre|effect_on_caster=yes}}}} \n |{{Healing|Frequent [[Self-Healing]]|range=100-250}}\n |{{Healing|Infrequent [[Self-Healing|Strong Self-Healing]]|range=350-700}}\n |{{Haste}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "holyDmgMod": "100%",
+    "maxdmg": "''400 [[Mana Drain|mana drain]]'' and 600+",
+    "pushable": "no",
+    "implemented": "7.9",
+    "loot": [
+        {
+            "amount": "1-301",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Blank Rune",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Wand of Cosmic Energy",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Lyre",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Demonic Essence",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Soul Orb",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-7",
+            "itemName": "Platinum Coin",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "White Piece of Cloth",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Shiny Stone",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Great Mana Potion",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Silver Brooch",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Relic Sword",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Death Ring",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Stealth Ring",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Demonbone Amulet",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Shadow Sceptre",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Fire, Energy",
+    "exp": "2100",
+    "mitigation": "1.04",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "spectre",
+    "illusionable": "no",
+    "armor": "40",
+    "convince": "--",
+    "name": "Spectre",
+    "isboss": "no",
+    "iceDmgMod": "99%",
+    "energyDmgMod": "108%",
+    "deathDmgMod": "0%",
+    "plural": "spectres",
+    "hpDrainDmgMod": "0%",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "The more powerful a soul has been in its lifetime, the more powerful it will be as a ghost. The more malicious and intelligent a soul has been in its lifetime, the greater the variety of powers it can demand as a ghost. For most ghosts it takes great effort to maintain some sort of sentience. Most end as drifting memories of the past, driven by emotions they do no longer understand. But some sinister beings are aware of the fate that looms above them. They research forbidden knowledge and forge dark pacts in time. This allows them to rise as a sentient and powerful form of ghost, known to those with mystical knowledge as Spectre. Spectres usually posses some being that functions as shell that they have prepared during lifetime. Often they use beings to which they have a strong emotional bond like family members. In the long run, the Spectres' puppets die away and leave the Spectre stranded in the world of mortals without a suitable host. Some succumb to madness when recognising it, others turn their frustration into hatred towards humanity. Being enemies of all things alive, they both pose a great threat to mortals.",
+    "speed": "140",
+    "pushobjects": "yes",
+    "fireDmgMod": "108%",
+    "sounds": [
+        "Revenge ... is so ... sweet.",
+        "Life...force! Feed me your... lifeforce",
+        "Mor... tals!",
+        "Buuuuuh"
+    ],
+    "bestiaryclass": "Undead",
+    "creatureclass": "The Undead",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "10%",
+    "primarytype": "Ghosts",
+    "race_id": "286",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "drownDmgMod": "0%",
+    "bestiaryname": "spectre",
+    "behaviour": "Flees at very low health, but returns quickly after it [[Self-Healing|heals itself]].",
+    "location": "[[Pits of Inferno]], The Crystal Caves and The Soul Well in [[The Inquisition Quest]], [[Drefia Grim Reaper Dungeons]], [[Vengoth]] and [[Grounds of Despair]].",
+    "strategy": "A [[Sorcerer]] or [[Druid]] with 110+ level can use [[Energy Strike]] to solo a Spectre easily. [[Dwarven Ring]] is recommended, as it causes [[Drunkenness]] a lot (if you don't want to use it be sure to not to run in their Great Musical Bomb). Higher level [[Sorcerer]]s (160+) can use [[Rage of the Skies]] to kill many at once as you can kill a Spectre by 2 hits.\n'''Note''': it is posible to hunt them in inquisitions at level 110 as sorc if you get a friend making the hands runing away and clean the hffs. if you do so try only get 1 spectre and use normal energy strike. Really good exp and big profit is possible even at low level."
+}

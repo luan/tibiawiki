@@ -1,0 +1,59 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "Similar to a [[Stone Golem]]",
+    "walksthrough": "?",
+    "hp": "270",
+    "speed": "?",
+    "abilities": "{{Ability List\n |{{Melee|0-100?}}\n}}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "100%?",
+    "holyDmgMod": "100%?",
+    "sounds": [],
+    "maxdmg": "{{Max Damage|physical=100?}}",
+    "pushable": "?",
+    "usedelements": "Physical",
+    "implemented": "11.40.5409",
+    "loot": [
+        {
+            "amount": "0-24",
+            "itemName": "Gold Coin"
+        },
+        {
+            "itemName": "Iron Ore"
+        },
+        {
+            "itemName": "Power Ring"
+        },
+        {
+            "itemName": "Small Stone"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "160",
+    "creatureclass": "Elementals",
+    "earthDmgMod": "100%?",
+    "physicalDmgMod": "100%?",
+    "primarytype": "Geo-Elementals",
+    "spawntype": [
+        "Regular"
+    ],
+    "senseinvis": "?",
+    "article": "a",
+    "actualname": "museum stone golem",
+    "illusionable": "yes",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "?",
+    "name": "Museum Stone Golem",
+    "isboss": "no",
+    "behaviour": "Fights in close combat.",
+    "location": "[[Museum of Tibian Arts]]",
+    "iceDmgMod": "100%?",
+    "strategy": "Unknown",
+    "energyDmgMod": "100%?",
+    "deathDmgMod": "100%?"
+}

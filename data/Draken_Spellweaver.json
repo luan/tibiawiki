@@ -1,0 +1,135 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "This creature was added with the [[Updates/8.54|Christmas Update 2009]]. It is somewhat ironic that the [[Spellweaver's Robe]] provides +10% resistance to energy because Draken Spellweavers are weak to [[Energy Damage|Energy]].<br>\nThe more cunning [[Draken]] often choose to become Draken Spellweavers. Combining their intellect with their inherent magical talent, probably comparable with that of a dragon, they make great spell casters of formidable power.\n{{JSpoiler|You may hunt 900 [[Draken Abomination]], [[Draken Elite]], Draken Spellweaver, [[Draken Warmaster]] combined, as a task of the [[Killing in the Name of... Quest]]. Upon completion of the task you will face [[Paiz the Pauperizer]].}}",
+    "walksthrough": "Fire, Poison",
+    "hp": "5000",
+    "abilities": "{{Ability List| {{Melee|0-350 }}|{{Ability|invisible [[Flame Beam]]|0-605|element=fire}}|{{Ability|[[Fire Bomb]]|around self or target|element=fire}}|{{Ability|[[Soulfire|Ultimate Soulfire Spark Bomb]]|on itself; it burns you (10 [[hp]]/17 turns for 170 damage total)|element=burning}} }}",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "holyDmgMod": "105%",
+    "maxdmg": "1000",
+    "pushable": "?",
+    "implemented": "8.54",
+    "loot": [
+        {
+            "amount": "1-200",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-5",
+            "itemName": "Platinum Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Meat",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-5",
+            "itemName": "Small Ruby",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Weaver's Wandtip",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Great Mana Potion",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Wand of Inferno",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Focus Cape",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Zaoan Shoes",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Luminous Orb",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Draken Sulphur",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Green Gem",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Zaoan Legs",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Spellweaver's Robe",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Zaoan Robe",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Bamboo Leaves",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Ring of the Sky",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Draken Trophy",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Harness",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Energy",
+    "exp": "3100",
+    "mitigation": "1.35",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "draken spellweaver",
+    "illusionable": "no",
+    "armor": "25",
+    "convince": "--",
+    "name": "Draken Spellweaver",
+    "isboss": "no",
+    "iceDmgMod": "110%",
+    "energyDmgMod": "110%",
+    "deathDmgMod": "20%",
+    "plural": "draken spellweavers",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "The more cunning Draken often choose to become Draken Spellweavers. Combining their intellect with their inherent magical talent, probably comparable with that of a dragon, they make great spell casters of formidable power. Sadly, at least for the Draken this often means a rather dull life full of bureaucracy. They are high-ranking members of the hierarchy and with that they are often deeply involved in palace politics and intrigues. It is said their valued intellect binds them to such positions and all these intrigues and deceit are only ways to blow off steam. So when the rare occasion arises that a Draken Spellweaver takes part in a battle, they are often more fierce than their warrior cousins. They combine spells and physical attacks and so pose a threat to even the most experienced fighters. Although highly capable in the realms of magic, they only use a limited array of spells. Most of them are quite direct and have an immense damage output. The majority of Draken Spellweavers see battles as an welcome escape from their duties such as studying and regulating. They enjoy to leave all finesse and intrigues behind and to taste the blood of an enemy.",
+    "speed": "168",
+    "pushobjects": "?",
+    "fireDmgMod": "0%",
+    "sounds": [
+        "Zzzzzooom!",
+        "Fissziss!",
+        "Kazzzzzzuuum!"
+    ],
+    "bestiaryclass": "Dragon",
+    "creatureclass": "Reptiles",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "110%",
+    "primarytype": "Draken",
+    "race_id": "618",
+    "bestiarylevel": "Hard",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "drakenspellweaver",
+    "behaviour": "Fights until death.",
+    "location": "[[Zao Palace]], [[Razachai]], and [[Zzaion]].",
+    "strategy": "Be ready to countermeasure [[invisibility]] with [[thunderstorm]] runes or another instant spell. Any damage over time spell, such as [[Inflict Wound]] or [[Holy Flash]] is a good option as well. It is pretty fast but it attacks as if it was melee so it is not as troublesome as a [[warlock]], treat it like a much stronger [[dragon lord]]. Energy walls are a good choice to keep them at bay while finishing off the [[Draken Warmaster]]s that accompany them."
+}

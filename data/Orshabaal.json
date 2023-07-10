@@ -1,0 +1,261 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "0%?",
+    "notes": "It's a Demon Lord - lesser of the Demon Overlord (which are yet to plague Tibia) but still dangerous.\nWhenever you think the world is safe and all the monsters have been killed, when you least expect it, '''Orshabaal''' surfaces. It is a [[Demon Lords|Demon Lord]] who normally hides very deep down in the depths of The [[Edron]] [[Hero Cave]].\nIts magical and physical powers are overwhelming! Many brave heroes have fallen by the great fireball and energy beam it utilizes. To make matters worse, it flees when it reaches red health, and if the adventurers are not fast enough in killing it, Orshabaal's vile healing magic will allow it to return to the fray. Whenever it chooses to raid a world it won't come alone, it brings a lot of [[Demon]]s as company to help spread death and disaster. It drops the mighty [[Thunder Hammer]]. Even though Orshabaal has since lost his title of strongest monster, he remains the most infamous, due to his spawn location on the surface (the [[Triangle of Terror]] hide deep below the surface, and [[Ferumbras]] sits at the very top of his citadel). You are able to use [[Blessed Wooden Stake]] on his corpse as well as on all his summoned demon's corpses, in order to get [[Demon Dust]]. Sometimes Orshabaal gets trapped by his own [[Demon]]s because he doesn't kill his summons like [[Scarab]]s kill [[Larva]]s. The quickest kill of this feisty monster was an astonishing 7 seconds on [[Lunara]].\n\n<gallery captionalign=\"left\" mode=\"nolines\">\nOrshabaal416ra3.jpg|Orshabaal Announcement and appears!\nOrshabaal1.gif|Orshabaal performing an [[Ultimate Explosion]]\nOrshabaal2.gif\n</gallery>\n\nOrshabaal was first sighted on [[Pacera]], Aug 26th 2005.\nHe was first killed on [[Titania]], Sept 11th 2005.\n\nTo all players on the world it appears, 3 messages are broadcasted in white text.\n{{Raid Message|00:00:00|Orshabaal's minions are working on his return to the World. LEAVE Edron at once, mortals.|00:03:20|Orshabaal is about to make his way into the mortal realm. Run for your lives!|00:06:40|Orshabaal has been summoned from hell to plague the lands of mortals again.}}",
+    "walksthrough": "Energy, Fire",
+    "hp": "22500",
+    "usespells": "yes",
+    "speed": "270",
+    "abilities": "{{Ability List\n |{{Melee|0-1991}}\n |{{Ability|Mana Drain Strike|300-600|mana drain\n  |scene={{Scene|spell=7sqmstrike|caster=Orshabaal|missile_direction=south-east|missile_distance=7/7|effect=Red Sparkles Effect}}}}\n |{{Ability|Mana Poison Bomb|150-350|mana drain\n  |scene={{Scene|spell=3sqmball2self|effect=Poison Effect 3|caster=Orshabaal|effect_on_caster=yes}}}}\n |{{Debuff2|Debuff|distance=yes|value=50-90%|duration=6\n  |scene={{Scene|spell=3sqmball2self|effect=Trembling Effect|caster=Orshabaal|effect_on_caster=yes}}}}\n |{{Ability|Fire Ball|310-600|fire\n  |scene={{Scene|spell=5sqmballtarget|effect=Fireball Effect|caster=Orshabaal|missile=Fire Missile|missile_direction=south-east|missile_distance=5/5}}}}\n |{{Ability|Creates Fire Fields|element=fire field\n  |scene={{Scene|spell=2sqmballtarget|effect=Fire|caster=Orshabaal|missile=Fire Missile|missile_direction=south-east|missile_distance=2/2}}}}\n |{{Ability|Energy Beam|500-850|energy\n  |scene={{Scene|spell=8sqmbeam|effect=Purple Electricity Effect|caster=Orshabaal|look_direction=east}}}}\n |{{Healing|range=1500-2500|scene={{Scene|spell=buffspell|effect=Blue Sparkles Effect|caster=Orshabaal|effect_on_caster=yes}}}}\n |{{Healing|range=600-1000|scene={{Scene|spell=buffspell|effect=Blue Sparkles Effect|caster=Orshabaal|effect_on_caster=yes}}}}\n |{{Haste|scene={{Scene|spell=buffspell|effect=Red Sparkles Effect|caster=Orshabaal|effect_on_caster=yes}}}}\n |{{Summon|demon|4}}\n}}",
+    "pushobjects": "yes",
+    "healMod": "100%?",
+    "paraimmune": "yes",
+    "fireDmgMod": "0%",
+    "holyDmgMod": "101%>?",
+    "sounds": [
+        "PRAISED BE MY MASTERS, THE RUTHLESS SEVEN!",
+        "YOU ARE DOOMED!",
+        "ORSHABAAL IS BACK!",
+        "Be prepared for the day my masters will come for you!",
+        "SOULS FOR ORSHABAAL!"
+    ],
+    "maxdmg": "{{Max Damage|physical=1991+|fire=620|manadrain=950|energy=850|summons=6120}}",
+    "pushable": "no",
+    "runsat": "2500",
+    "implemented": "7.4",
+    "loot": [
+        {
+            "amount": "0-280",
+            "itemName": "Gold Coin"
+        },
+        {
+            "amount": "0-71",
+            "itemName": "Platinum Coin"
+        },
+        {
+            "amount": "0-19",
+            "itemName": "Small Amethyst"
+        },
+        {
+            "amount": "0-13",
+            "itemName": "Black Pearl"
+        },
+        {
+            "amount": "0-9",
+            "itemName": "Small Emerald"
+        },
+        {
+            "amount": "0-9",
+            "itemName": "Small Sapphire"
+        },
+        {
+            "amount": "0-5",
+            "itemName": "Talon"
+        },
+        {
+            "amount": "0-5",
+            "itemName": "Demonic Essence"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "Demon Horn"
+        },
+        {
+            "amount": "0-1",
+            "itemName": "Gold Ingot"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "Small Diamond"
+        },
+        {
+            "amount": "0-15",
+            "itemName": "White Pearl"
+        },
+        {
+            "amount": "0-42+",
+            "itemName": "Assassin Star"
+        },
+        {
+            "itemName": "Ring of Healing"
+        },
+        {
+            "itemName": "Protection Amulet"
+        },
+        {
+            "itemName": "Ring of the Sky"
+        },
+        {
+            "itemName": "Death Ring"
+        },
+        {
+            "itemName": "Energy Ring"
+        },
+        {
+            "itemName": "Might Ring"
+        },
+        {
+            "itemName": "Stealth Ring"
+        },
+        {
+            "itemName": "Gold Ring"
+        },
+        {
+            "itemName": "Crystal Ring"
+        },
+        {
+            "itemName": "Teddy Bear"
+        },
+        {
+            "itemName": "Green Gem"
+        },
+        {
+            "itemName": "Blue Gem"
+        },
+        {
+            "itemName": "Golden Mug"
+        },
+        {
+            "itemName": "Purple Tome"
+        },
+        {
+            "itemName": "Orb"
+        },
+        {
+            "itemName": "Ultimate Health Potion"
+        },
+        {
+            "itemName": "Great Spirit Potion"
+        },
+        {
+            "itemName": "Great Health Potion"
+        },
+        {
+            "itemName": "Great Mana Potion"
+        },
+        {
+            "itemName": "Magic Light Wand"
+        },
+        {
+            "itemName": "Life Crystal"
+        },
+        {
+            "itemName": "Crystal Necklace"
+        },
+        {
+            "itemName": "Strange Symbol"
+        },
+        {
+            "itemName": "Mind Stone"
+        },
+        {
+            "itemName": "Orshabaal's Brain"
+        },
+        {
+            "itemName": "Ice Rapier"
+        },
+        {
+            "itemName": "Two Handed Sword"
+        },
+        {
+            "itemName": "Giant Sword"
+        },
+        {
+            "itemName": "Silver Dagger"
+        },
+        {
+            "itemName": "Double Axe"
+        },
+        {
+            "itemName": "Fire Axe"
+        },
+        {
+            "itemName": "Golden Sickle"
+        },
+        {
+            "itemName": "Thunder Hammer"
+        },
+        {
+            "itemName": "Dragon Hammer"
+        },
+        {
+            "itemName": "Skull Staff"
+        },
+        {
+            "itemName": "Wand of Decay"
+        },
+        {
+            "itemName": "Necrotic Rod"
+        },
+        {
+            "itemName": "Snakebite Rod"
+        },
+        {
+            "itemName": "Devil Helmet"
+        },
+        {
+            "itemName": "Magic Plate Armor"
+        },
+        {
+            "itemName": "Golden Legs"
+        },
+        {
+            "itemName": "Boots of Haste"
+        },
+        {
+            "itemName": "Stone Skin Amulet"
+        },
+        {
+            "itemName": "Platinum Amulet"
+        },
+        {
+            "itemName": "Silver Amulet"
+        },
+        {
+            "itemName": "Demon Shield"
+        },
+        {
+            "itemName": "Mastermind Shield"
+        },
+        {
+            "itemName": "Crystal Ball"
+        },
+        {
+            "itemName": "Voodoo Doll"
+        },
+        {
+            "itemName": "Robe of the Underworld"
+        },
+        {
+            "itemName": "Ancient Amulet"
+        },
+        {
+            "itemName": "Onyx Arrow"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "10000",
+    "creatureclass": "Demons",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "80%<?",
+    "bosstiaryclass": "Nemesis",
+    "primarytype": "Demon Lords",
+    "spawntype": [
+        "Raid"
+    ],
+    "attacktype": "Melee",
+    "race_id": "201",
+    "senseinvis": "yes",
+    "illusionable": "no",
+    "armor": "90",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Orshabaal",
+    "isboss": "yes",
+    "location": "North of [[Edron]] near the Dragon Lair in the stone circle ({{Mapper Coords|129.94|123.213|7|3|text=here}}).",
+    "iceDmgMod": "101%>?",
+    "strategy": "Nowadays, '''Orshabaal''' will most likely die in a few seconds because of the high number of players who will be waiting for it. In such cases, the best strategy is try to position yourself around its spawn and attack it as soon as possible when it spawns. If he server is new, or if there are few players online, you may use the strategy that was for a long time the only way to kill this once-fearsome boss.\n\nLure it to the famous spot near the entrance of [[Cyclopolis]]. When it's at red health, shoot [[Magic Wall]]s so it can't run away. The blocker should party mode with the shooters and get the loot ASAP after killing it.\nSince it's likely the blocker won't be able to heal quickly enough when Orshabaal performs a strong combo, it is advised to have at least a few mages using [[Ultimate Healing]] or [[Exura Sio]] on the blocker. A good strategy is luring the Orshabaal into a place that you can hold just it between 2 trees, or in a corridor where 1-2 [[Demon]]s limit its movement, helping avoid the line-of-sight attacks. Also its possible to use a medium level char (or a low level) as bait to lure him in a place where he will get trapped by his summons, after that people can easily shoot and Orshabaal won't move until its near death.\n\nAlso, keep in mind that when the blocker is blocking Orshabaal, it will still tend to use [[Great Fireball]] and [[Great Energy Beam]], so you may want to stand diagonal and quite a way back from it to avoid these attacks or you may experience a quick death.",
+    "energyDmgMod": "20%",
+    "deathDmgMod": "50%"
+}

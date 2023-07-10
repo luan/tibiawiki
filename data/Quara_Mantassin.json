@@ -1,0 +1,107 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "Quara Mantassins are used to destroy the leaders of the [[Quara]]s enemies (which basically means all non-quara and [[Hydro-Elementals]]) ranks, and are also used as spies and assassins for special operations.\n\n{{JSpoiler|You may hunt 600 [[Quara Constrictor]], [[Quara Hydromancer]], Quara Mantassin, [[Quara Pincher]], [[Quara Predator]] combined, as a task of the [[Killing in the Name of... Quest]]. Upon completion of the task you will face [[Thul]].}}",
+    "walksthrough": "Fire",
+    "hp": "800",
+    "abilities": "{{Ability List|{{Melee|0-140}}|{{Ability|Invisible|2 seconds|invisible}}|{{Haste|[[Strong Haste]]}}}}",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "holyDmgMod": "100%",
+    "maxdmg": "{{Max Damage|physical=140}}",
+    "pushable": "?",
+    "implemented": "7.8",
+    "loot": [
+        {
+            "amount": "1-130",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Mantassin Tail",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Halberd",
+            "rarity": "semi-rare"
+        },
+        {
+            "amount": "1-5",
+            "itemName": "Shrimp",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Cape",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Fish Fin",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Small Sapphire",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Stealth Ring",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Two Handed Sword",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Strange Helmet",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Blue Robe",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Energy, Poison",
+    "exp": "400",
+    "mitigation": "0.70",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "quara mantassin",
+    "illusionable": "no",
+    "armor": "16",
+    "convince": "480",
+    "name": "Quara Mantassin",
+    "isboss": "no",
+    "iceDmgMod": "0%",
+    "energyDmgMod": "125%",
+    "deathDmgMod": "100%",
+    "plural": "quara mantassins",
+    "hpDrainDmgMod": "0%",
+    "usespells": "yes",
+    "lightcolor": "35",
+    "occurrence": "Common",
+    "bestiarytext": "The shrewd Quara Mantassins are often not recognised until it's too late. Like all quara, they have undergone massive modifications of their bodies which have made them an own subspecies. Especially in their native, maritime habitat, they are masters of camouflage and disguise. However, also on land they are known for stealthy sneak attacks. But away from their natural element, the water, they are weaker and easier to defeat.<br />Usually they serve their race in special operations and they are the ones that target the leaders of their enemies in big battles. With an arsenal of tricks the Quara Mantassin are quite capable on their own. Their love for covert operations gives them their place in the quaran warfare but they are not seen too often in open battles. On the other hand, a Quara Mantassin that you do not see is four times deadlier than a Quara Mantassin that you do see.",
+    "speed": "295",
+    "pushobjects": "?",
+    "fireDmgMod": "0%",
+    "sounds": [
+        "Shrrrr",
+        "Zuerk Pachak!"
+    ],
+    "lightradius": "2",
+    "bestiaryclass": "Aquatic",
+    "creatureclass": "Amphibians",
+    "earthDmgMod": "110%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Quara",
+    "spawntype": [
+        "Regular",
+        "Unblockable"
+    ],
+    "race_id": "241",
+    "bestiarylevel": "Medium",
+    "senseinvis": "no",
+    "drownDmgMod": "0%",
+    "bestiaryname": "quaramantassin",
+    "behaviour": "This creature is extremely fast upon using [[haste]], and runs away at 40 [[hp]]. It casts invisibility quite often also.",
+    "location": "[[Calassa]], [[Frozen Trench]], [[Yalahar]] ([[Sunken Quarter]]).",
+    "strategy": "This type of quara does not pose any major threat to an experienced player with the right runes and equipment, since its melee attack is relatively weak.<br>'''Knight''': you should wait for them to get to you, and simply use melee with full attack and a shield.  When it turns invisible use [[Groundshaker]], [[Whirlwind Throw]], or [[Thunderstorm]] to get it visible again or just wait because the invisibility lasts for a short amount of time unless it casts it again.<br>'''Mages''': should use energy based attacks. If it runs away in deep red, shoot it with [[Heavy Magic Missile]] or area runes. It's safe to fight two at once, provided you're ready to cast a [[Healing Spells|healing spell]].<br>'''Paladins''': should use shield and a throwing weapon as Mantassins are very fast and if you use crossbow or bow it could cause you significant damage."
+}

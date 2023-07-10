@@ -1,0 +1,93 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "isarenaboss": "no",
+    "walksthrough": "Poison",
+    "hp": "1100",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "The Waspoids are the ever-busy scouts of the hive. They are highly responsive to the hive's wishes and can be found almost everywhere in the vicinity of the hive. As soon as a Waspoid encounters something tasty or threatening, it uses its powerful pheromones to call for reinforcements. So encountering a single Waspoid often means that all Hive Born in the area are on their way to assist the Waspoid in a few heartbeats. Therefore it should be killed as fast as possible. The Waspoid itself is, strangely enough, not truly aggressive. However, it displays a rude curiosity that involves stinging and biting of the encountered object which, despite its unaggressive intention, leads to a fight. The wings of the Waspoid are known to emit a highly annoying noise that can unnerve even the most stoic mammal. Insects, however, seem to be magically attracted by the noise and experiments seem to prove that the Waspoids are able to gain some kind of influence over insects that are not native to the hive. The experiments suggest that the Waspoids can control and lure foreign insects to the hive. Since it has been deemed as too dangerous to continue such experiments, they have been forbidden and it can only be speculated what the hive would 'do' to such formerly unaligned insects.<br />In the battle against the Deeplings, the Waspoids are harassing opponents from unexpected angles, circumventing battle lines. They are an advance force that pierces the enemy's defence to disrupt the supply lines and reinforcements. Waspoids rather operate in small groups on their own than joining forces with other Hive Born. This way they can fully exploit their speed and their flight ability and so gain a considerable advantage for their army.",
+    "speed": "155",
+    "abilities": "{{Ability List|{{Melee|0-250+|poison=20}}|{{Ability|[[Poison Bomb]]|100-150?|element=poison}}|{{Ability|[[Poison Hit]]|?|element=poison}}|{{Ability|Frequent [[Self-Healing]]|element=healing}} }}",
+    "pushobjects": "?",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "secondarytype": "Hive Born",
+    "fireDmgMod": "110%",
+    "holyDmgMod": "107%",
+    "sounds": [
+        "Peeex!",
+        "Bzzzzzzzrrrrzzzzzzrrrrr!"
+    ],
+    "maxdmg": "400?",
+    "pushable": "?",
+    "implemented": "9.40",
+    "bestiaryclass": "Vermin",
+    "loot": [
+        {
+            "amount": "0-135",
+            "itemName": "Gold Coin"
+        },
+        {
+            "itemName": "Platinum Coin"
+        },
+        {
+            "itemName": "Compound Eye"
+        },
+        {
+            "itemName": "Waspoid Claw"
+        },
+        {
+            "itemName": "Waspoid Wing"
+        },
+        {
+            "itemName": "Black Pearl",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Emerald Bangle",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Yellow Gem",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Carapace Shield",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Grasshopper Legs",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Hive Scythe",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Fire, Energy",
+    "exp": "830",
+    "creatureclass": "Invertebrates",
+    "earthDmgMod": "0%",
+    "mitigation": "1.54",
+    "physicalDmgMod": "102%",
+    "primarytype": "Insects",
+    "race_id": "792",
+    "attacktype": "Melee",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "illusionable": "yes",
+    "armor": "36",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "bestiaryname": "waspoid",
+    "name": "Waspoid",
+    "isboss": "no",
+    "behaviour": "Fights in close combat. Waspoids will retreat at low health, but will come back after healing themselves.",
+    "location": "[[The Hive]], [[Hive Outpost]].",
+    "iceDmgMod": "100%",
+    "strategy": "Pretty annoying creatures which can heal a lot. Focus all of your power on them. Most of the damage taken will come from their [[Poison Bomb]].",
+    "energyDmgMod": "75%",
+    "deathDmgMod": "95%"
+}

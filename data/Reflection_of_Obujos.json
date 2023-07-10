@@ -1,0 +1,61 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "reflections of Obujos",
+    "hpDrainDmgMod": "100%?",
+    "notes": "It's somehow related to [[Obujos]] and very similar to it in power. \n\n{{JSpoiler|Part of the [[Opticording Sphere Quest]].}}",
+    "walksthrough": "?",
+    "hp": "35000?",
+    "speed": "?",
+    "abilities": "{{Ability List\n |{{Melee|0-1200|poison=18}}\n |{{Ability|Great Cloud-Energy Bomb|200-600|manadrain}}\n |{{Ability|Ice Beam|600-1300|ice}}\n |{{Ability|Eternal Winter Wave|600-1500|lifedrain}}\n |{{Ability|Great Sudden Death Bomb|200-800|death}}\n |{{Ability|Distance Earth Attack (Assassin star/arrow)|0-800|earth}}\n |{{Debuff2|Sudden Death|distance=yes|value=60%}}\n |{{Healing|Extremely fast [[Self-Healing]]|1000-2000+}}}}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "100%?",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "{{Max Damage|physical=1200|earth=818|manadrain=600|ice=1300|lifedrain=1500|death=800}}",
+    "pushable": "?",
+    "implemented": "11.50.6055",
+    "loot": [
+        {
+            "itemName": "Deepling Axe"
+        },
+        {
+            "itemName": "Eye of a Deepling"
+        },
+        {
+            "itemName": "Obujos' Shell"
+        },
+        {
+            "itemName": "Giant Shimmering Pearl"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "20000?",
+    "creatureclass": "Amphibians",
+    "earthDmgMod": "100%?",
+    "physicalDmgMod": "100%?",
+    "primarytype": "Deeplings",
+    "spawntype": [
+        "Unique",
+        "Triggered"
+    ],
+    "senseinvis": "?",
+    "article": "a",
+    "actualname": "reflection of Obujos",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Reflection of Obujos",
+    "isboss": "yes",
+    "behaviour": "Attacks at close range and runs at deep red hp.",
+    "location": "[[Chamber of Reflections]]",
+    "iceDmgMod": "100%?",
+    "strategy": "Treat it like you would with [[Obujos]]. You'll need a level 250+ Elite Knight to block it and must be careful with its combos. It retargets often, but you can trap it between the glass walls north of the room to stop it from moving, as long as the blocker can take the wave damages.",
+    "energyDmgMod": "100%?",
+    "deathDmgMod": "100%?"
+}

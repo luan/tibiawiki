@@ -1,0 +1,128 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "They are a stronger mutation of [[Dragon Lord]]s thanks to their ability to [[Paralyze]]. They also behave like [[Hydra]]s but their [[Loot]] and attacks are similar to [[Dragon lord]]s.",
+    "walksthrough": "Fire, Poison",
+    "hp": "1800",
+    "abilities": "{{Ability List\n |{{Melee|0-220}}\n |{{Ability|Smoke Beam|0-200|element=physical\n  |scene={{Scene|spell=1sqmbeam|caster=Frost Dragon|effect=Poof Effect|look_direction=east|damage_effect=Unknown}}}}\n |{{Ability|Smoke Wave|238-380|element=lifedrain\n  |scene={{Scene|spell=8sqmwave|caster=Frost Dragon|effect=Poof Effect|look_direction=east|damage_effect=Red Sparkles Effect}}}}\n |{{Ability|Ice Wave|Reduces 405-435 speed points|element=paralyze\n  |scene={{Scene|spell=8sqmwave|caster=Frost Dragon|effect=Ice Explosion Effect|look_direction=east|damage_effect=None}}}}\n |{{Ability|Ice Ball|128-240|element=ice\n  |scene={{Scene|spell=2sqmballtarget|caster=Frost Dragon|look_direction=south|effect=Icicle Effect|missile=Ice Shard Missile|missile_direction=south-east|missile_distance=2/2|damage_effect=Ice Explosion Effect}}}}\n |{{Ability|Paralyze Ball|Reduces 265-230 speed points|element=paralyze\n  |scene={{Scene|spell=2sqmballtarget|caster=Frost Dragon|look_direction=south|effect=Icicle Effect|missile=Ice Shard Missile|missile_direction=south-east|missile_distance=2/2|damage_effect=None}}}}\n |{{Ability|Ice Berserk|53-120|element=ice\n  |scene={{Scene|spell=3x3spell|caster=Frost Dragon|effect=Ice Tornado Effect|damage_effect=Ice Explosion Effect}}}}\n |{{Ability|Smoke Berserk|Reduces 190~ speed points|element=paralyze\n  |scene={{Scene|spell=3x3spell|caster=Frost Dragon|effect=Poof Effect|effect_on_caster=yes|damage_effect=None}}}}\n |{{Healing|range=190-200~\n  |scene={{Scene|spell=buffspell|effect=Blue Sparkles Effect|caster=Frost Dragon|look_direction=south|effect_on_caster=yes}}}}\n |{{Haste\n  |scene={{Scene|spell=buffspell|effect=Red Sparkles Effect|caster=Frost Dragon|look_direction=south|effect_on_caster=yes}}}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "holyDmgMod": "100%",
+    "maxdmg": "{{Max Damage|physical=420|lifedrain=380|ice=360}}",
+    "pushable": "?",
+    "implemented": "8.00",
+    "loot": [
+        {
+            "amount": "1-243",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "Dragon Ham",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Book (Gemmed)",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-6",
+            "itemName": "Power Bolt",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Green Mushroom",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Golden Mug",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Small Sapphire",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Energy Ring",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Ice Cube",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Life Crystal",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Shard",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Strange Helmet",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Ice Rapier",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Tower Shield",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Royal Helmet",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Dragon Slayer",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Dragon Scale Mail",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Energy",
+    "exp": "2100",
+    "mitigation": "1.07",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "frost dragon",
+    "illusionable": "no",
+    "armor": "38",
+    "convince": "--",
+    "name": "Frost Dragon",
+    "isboss": "no",
+    "iceDmgMod": "0%",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "90%",
+    "plural": "frost dragons",
+    "hpDrainDmgMod": "0%",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "The constant consumption of strange magical particles which were strongly connected to the element of ice changed this type of dragons into a new breed over time. Even though they are still young compared with other dragons, they carry a strong dragon heritage and the consumed particles fuelled their strength even more.<br />Their arrogance does not allow them to be something less than other dragons and so their temper is even worse than that of their dragon cousins. The feeling to have to prove themselves all the time makes them reckless and aggressive and with that even more dangerous.<br />Frost Dragons usually get along well with other dragons for a while. However, mixed communities often suffer from prejudices and lethal infights between the species. Though the mostly younger Frost Dragons often lack the refined magic abilities of their cousins, they are usually more powerful when it comes to physical abilities. Their newly gained control over the element ice easily makes up for their missing command of fire. They still possess a quite impressive resistance against fire from their dragonic heritage. Unlike other dragons, the Frost Dragons do not live alone or in small families. Instead they tend to form flocks of frightening sizes. Flocks of Frost Dragons usually inhabit spacious lairs and claim large territories as their hunting ground which they fiercely protect against other predators.",
+    "speed": "106",
+    "pushobjects": "?",
+    "fireDmgMod": "0%",
+    "sounds": [
+        "YOU WILL FREEZE!",
+        "ZCHHHHH!",
+        "I am so cool.",
+        "Chill out!"
+    ],
+    "runsat": "250",
+    "bestiaryclass": "Dragon",
+    "creatureclass": "Reptiles",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "95%",
+    "primarytype": "Dragons",
+    "race_id": "317",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "frostdragon",
+    "location": "[[Okolnir]], [[Razachai]], [[Ice Witch Temple]], [[Frost Dragon Tunnel]], [[Yakchal Crypt]] (only during [[Yakchal]]'s awakening ritual), [[Dragonblaze Peaks]], [[Deeper Banuta]], [[Chyllfroest]].",
+    "strategy": "Stand diagonal to them as you would with a [[Dragon Lord]]. If not careful, their lethal combos can bring down even decent [[Level|High Level]] players. Sometimes it is very hard to outrun them in pack due to their [[Paralyze]] ability. They have the ability to kill a [[Level|Level 100]] [[Mage]] in one combo.<br />'''[[Mage]]s''' should use [[Magic Shield]] and attack with [[Energy Damage|Energy-based Attacks]]. It is also recommended to use [[Glacier Set]] as protection for the avalanche attack, and  a [[Garlic Necklace]] to protect against its wave attack.<br />'''[[Knight]]s''' should avoid the waves and heal all the time to remove [[Paralyze]] and be able to move fast. When the Frost Dragon runs away, use [[Whirlwind Throw|Exori Hur]] to kill it faster and to avoid luring more. From level 150 and above a knight can hunt these profitable depending on loot, but on lvl ~90 you can already kill one as a knight.<br />'''[[Paladin]]s''' must run but use walls to trap it, because you can lure other '''Frost Dragons''' and [[Frost Dragon Hatchling]]s. ''All vocations should run diagonal as their [[Paralyze|Paralyzing Ice Wave]] is very dangerous and can easily lead to your death."
+}

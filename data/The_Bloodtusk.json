@@ -1,0 +1,73 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "According to [[Grizzly Adams]], \"''The citizens of Svargrond live in fear because of a frightfully bad-tempered mammoth they call 'Blood Tusk'.''\"\n{{JSpoiler|Part of the [[Killing in the Name of... Quest]].}}",
+    "walksthrough": "None.",
+    "hp": "600",
+    "speed": "?",
+    "abilities": "{{Ability List\n |{{Melee|0-120+}}\n}}",
+    "pushobjects": "yes",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "110%",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "{{Max Damage|physical=120+}}",
+    "pushable": "no",
+    "usedelements": "Physical",
+    "implemented": "8.50",
+    "loot": [
+        {
+            "amount": "0-100",
+            "itemName": "Gold Coin"
+        },
+        {
+            "amount": "0-5",
+            "itemName": "Platinum Coin"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "Mammoth Tusk"
+        },
+        {
+            "amount": "0-4",
+            "itemName": "Tusk"
+        },
+        {
+            "itemName": "Mammoth Fur Cape"
+        },
+        {
+            "itemName": "Tusk Shield"
+        },
+        {
+            "itemName": "Furry Club"
+        },
+        {
+            "itemName": "Red Piece of Cloth"
+        }
+    ],
+    "walksaround": "Fire, Energy, Poison",
+    "exp": "300",
+    "creatureclass": "Mammals",
+    "earthDmgMod": "85%<",
+    "physicalDmgMod": "100%?",
+    "primarytype": "Ungulates",
+    "race_id": "547",
+    "senseinvis": "yes",
+    "actualname": "The Bloodtusk",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "The Bloodtusk",
+    "isboss": "yes",
+    "behaviour": "It fights until death.",
+    "location": "North-west of [[Svargrond]]. Reached after levitating 5 floors up on the passage to the glacier {{Mapper Coords|text=here|125.171|121.186|7|2|1|0.50.5}}, then heading north and entering the portal located {{Mapper Coords|125.104|121.140|2|2|text=here}}.",
+    "iceDmgMod": "110%?",
+    "strategy": "Kill it like a normal [[Mammoth]], it is slightly stronger and have more hp but it's not too hard to kill them. Mages and Paladins be prepared to take some extra damage, he is hard to outrun in his small ice cave.",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "100%?"
+}

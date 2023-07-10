@@ -1,0 +1,60 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "Diseased Dans",
+    "hpDrainDmgMod": "100%?",
+    "notes": "He's an infected human, a plague carrier.",
+    "walksthrough": "None.",
+    "hp": "800",
+    "lightcolor": "30",
+    "speed": "?",
+    "abilities": "{{Ability List|{{Melee|0-103+|poison=3}}|{{Ability|[[Poison Storm]] on you|poisons you up to 31 [[hp]]/turn|element=poisoned}}|{{Ability|[[Life Drain|Poison Exori]] life drain damage|200-247+|element=lifedrain}}|{{Ability|[[Paralyze]]|element=paralyze}}|{{Healing}} }}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "65%",
+    "holyDmgMod": "105%",
+    "sounds": [
+        "Can't think ... must kill!",
+        "Where ... where am I?",
+        "Is that you, Tom?",
+        "Phew, what an awful smell ... oh, that's me."
+    ],
+    "maxdmg": "381+",
+    "pushable": "no",
+    "lightradius": "4",
+    "implemented": "8.40",
+    "loot": [
+        {
+            "amount": "0-25+",
+            "itemName": "Gold Coin"
+        }
+    ],
+    "walksaround": "Fire, Energy, Poison",
+    "exp": "300",
+    "creatureclass": "Elementals",
+    "earthDmgMod": "80%",
+    "physicalDmgMod": "105%",
+    "bosstiaryclass": "Bane",
+    "primarytype": "Bio-Elementals",
+    "spawntype": [
+        "Regular",
+        "Unique"
+    ],
+    "race_id": "486",
+    "senseinvis": "yes",
+    "article": "a",
+    "actualname": "Diseased Dan",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Diseased Dan",
+    "isboss": "yes",
+    "behaviour": "Like a [[Bog Raider]].",
+    "location": "[[Alchemist Quarter]], {{Mapper Coords|127.194|121.215|8|2|text=here}}.",
+    "iceDmgMod": "105%",
+    "strategy": "Open the door and shoot, go out if you need to heal. Note that more than one player can enter the sealed door at the same time, so ask a friend for help if you need a blocker. Since the [[Summer Update 2012]] the hp decreased from 2000 to 800 and the attacks became weaker.",
+    "energyDmgMod": "110%",
+    "deathDmgMod": "95%"
+}

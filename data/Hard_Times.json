@@ -1,0 +1,41 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "0%",
+    "notes": "{{JSpoiler|Appears during the [[25 Years of Tibia Quest]].}}",
+    "hp": "?",
+    "abilities": "{{Ability List|}}",
+    "pushobjects": "no",
+    "healMod": "0%",
+    "paraimmune": "?",
+    "fireDmgMod": "0%",
+    "holyDmgMod": "0%",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "?",
+    "pushable": "no",
+    "usedelements": "?",
+    "runsat": "0",
+    "implemented": "12.85.11485",
+    "loot": [],
+    "exp": "?",
+    "creatureclass": "Elementals",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "0%",
+    "primarytype": "Geo-Elementals",
+    "spawntype": [
+        "Unblockable"
+    ],
+    "senseinvis": "?",
+    "actualname": "hard times",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Hard Times",
+    "isboss": "no",
+    "iceDmgMod": "0%",
+    "energyDmgMod": "0%",
+    "deathDmgMod": "0%"
+}

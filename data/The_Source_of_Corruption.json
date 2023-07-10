@@ -1,0 +1,205 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "The Source Of Corruption",
+    "hpDrainDmgMod": "100%?",
+    "notes": "{{JSpoiler|It's the final boss of the [[Cults of Tibia Quest]].}}",
+    "walksthrough": "?",
+    "hp": "0?",
+    "speed": "?",
+    "abilities": "{{Ability List| {{Melee|0-500+}}|{{Ability|Energy Beam|300-500+|element=energy}}|{{Ability|[[Damage Reflection]]|~15%|element=?}}|{{Summon|Soul Reaper|2}} }}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "100%?",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "1500+",
+    "pushable": "?",
+    "runsat": "0",
+    "cooldown": "20",
+    "implemented": "11.40.5409",
+    "loot": [
+        {
+            "amount": "1-200",
+            "itemName": "Gold Coin",
+            "rarity": "always"
+        },
+        {
+            "amount": "0-30",
+            "itemName": "Platinum Coin"
+        },
+        {
+            "amount": "0-20",
+            "itemName": "Small Ruby"
+        },
+        {
+            "amount": "0-20",
+            "itemName": "Small Sapphire"
+        },
+        {
+            "amount": "0-20",
+            "itemName": "Small Amethyst"
+        },
+        {
+            "amount": "0-20",
+            "itemName": "Small Topaz"
+        },
+        {
+            "amount": "0-23",
+            "itemName": "Small Emerald"
+        },
+        {
+            "amount": "0-7",
+            "itemName": "Violet Crystal Shard"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "Strong Health Potion"
+        },
+        {
+            "amount": "0-5",
+            "itemName": "Great Mana Potion"
+        },
+        {
+            "amount": "0-5",
+            "itemName": "Ultimate Health Potion"
+        },
+        {
+            "amount": "0-8",
+            "itemName": "Great Spirit Potion"
+        },
+        {
+            "amount": "0-3",
+            "itemName": "Great Health Potion"
+        },
+        {
+            "amount": "0-5",
+            "itemName": "Piece of Hell Steel"
+        },
+        {
+            "amount": "1-10",
+            "itemName": "Crystallized Anger"
+        },
+        {
+            "amount": "0-3",
+            "itemName": "Magic Sulphur"
+        },
+        {
+            "amount": "0-4",
+            "itemName": "Gold Token"
+        },
+        {
+            "amount": "0-3",
+            "itemName": "Silver Token"
+        },
+        {
+            "amount": "0-4",
+            "itemName": "White Piece of Cloth"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "Opal"
+        },
+        {
+            "amount": "0-11",
+            "itemName": "Solid Rage"
+        },
+        {
+            "itemName": "Onyx Chip"
+        },
+        {
+            "itemName": "Demon Dust"
+        },
+        {
+            "itemName": "Red Gem"
+        },
+        {
+            "itemName": "Green Gem"
+        },
+        {
+            "itemName": "Giant Shimmering Pearl"
+        },
+        {
+            "itemName": "Enchanted Chicken Wing"
+        },
+        {
+            "itemName": "Ancient Stone"
+        },
+        {
+            "itemName": "Gold Ingot"
+        },
+        {
+            "itemName": "Ring of Red Plasma"
+        },
+        {
+            "itemName": "Skull Staff"
+        },
+        {
+            "itemName": "Devil Helmet"
+        },
+        {
+            "itemName": "Sapphire Hammer"
+        },
+        {
+            "itemName": "Heavy Mace"
+        },
+        {
+            "itemName": "Demonwing Axe"
+        },
+        {
+            "itemName": "Yalahari Figurine"
+        },
+        {
+            "itemName": "Nightmare Blade"
+        },
+        {
+            "itemName": "Yellow Gem"
+        },
+        {
+            "itemName": "Blue Gem"
+        },
+        {
+            "itemName": "Silkweaver Bow"
+        },
+        {
+            "itemName": "Crude Umbral Slayer"
+        },
+        {
+            "itemName": "Umbral Slayer"
+        },
+        {
+            "itemName": "Violet Gem"
+        },
+        {
+            "itemName": "Gemmed Figurine"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "0?",
+    "creatureclass": "Elementals",
+    "earthDmgMod": "100%?",
+    "physicalDmgMod": "100%?",
+    "bosstiaryclass": "Archfoe",
+    "primarytype": "Electro-Elementals",
+    "spawntype": [
+        "Triggered"
+    ],
+    "race_id": "1500",
+    "senseinvis": "?",
+    "actualname": "The Source Of Corruption",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "The Source of Corruption",
+    "isboss": "yes",
+    "behaviour": "It fights in close combat.",
+    "location": "[[Feyrist]], behind the teleport next to [[Gerimor]].",
+    "iceDmgMod": "100%?",
+    "strategy": "It's easier to kill it if the blockers trap it in one of the corners of the room. Shooters should be careful because besides its spells, it will also reflect 15% of all the damage dealt to it.",
+    "energyDmgMod": "100%?",
+    "deathDmgMod": "100%"
+}

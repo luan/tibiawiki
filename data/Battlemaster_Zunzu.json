@@ -1,0 +1,89 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "Battlemaster Zunzu",
+    "hpDrainDmgMod": "100%?",
+    "notes": "Battlemaster Zunzu is a raid monster since February 17th, 2010.",
+    "walksthrough": "?",
+    "hp": "4000",
+    "speed": "?",
+    "abilities": "{{Ability List| {{Melee|0-300}}|{{Ability|[[Earth Damage|Poison]] attack|300-350|element=earth}}|{{Ability|[[Whirlwind Throw]]|0-200|element=?}}|{{Ability|[[Earth Damage|Poison]]|10-20|element=earth}}|{{Healing|range=200-350}} }}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "75%",
+    "holyDmgMod": "100%",
+    "sounds": [
+        "Hissss!"
+    ],
+    "maxdmg": "~650",
+    "pushable": "?",
+    "runsat": "0",
+    "implemented": "8.54",
+    "loot": [
+        {
+            "amount": "0-136",
+            "itemName": "Gold Coin"
+        },
+        {
+            "amount": "0-10",
+            "itemName": "Small Emerald"
+        },
+        {
+            "itemName": "Great Health Potion"
+        },
+        {
+            "itemName": "Red Lantern"
+        },
+        {
+            "itemName": "Zaogun Flag"
+        },
+        {
+            "itemName": "Zaoan Legs"
+        },
+        {
+            "itemName": "Zaoan Shoes",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Zaoan Armor",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Jade Hat",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Zaogun Shoulderplates",
+            "rarity": "always"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "2500",
+    "creatureclass": "Lizards",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "85%",
+    "bosstiaryclass": "Nemesis",
+    "primarytype": "High Class Lizards",
+    "spawntype": [
+        "Raid",
+        "Unique",
+        "Unblockable"
+    ],
+    "race_id": "635",
+    "history": "When the [[Muggy Plains]] were first created, there was a glitch/bug that spawned several Battlemaster Zunzu's in the [[Temple of Equilibrium]]. It is not confirmed whether or not this glitch/bug can still occur.",
+    "senseinvis": "?",
+    "actualname": "Battlemaster Zunzu",
+    "illusionable": "No",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Battlemaster Zunzu",
+    "isboss": "yes",
+    "behaviour": "Fights until death.",
+    "location": "[[Zao]] ([[Muggy Plains]], May Spawn somewhere between the following two coordinates {{Mapper Coords|129.185|122.10|7|2|text=here}} and {{Mapper Coords|129.211|122.12|7|2|text=here}} or {{Mapper Coords|130.2|122.16|7|2|text=here}}).",
+    "iceDmgMod": "85%",
+    "strategy": "'''[[Mages]]:''' should be at least level 120 to solo these without [[Magic Shield]]. Be sure to keep exura gran or vita handy as they can deal massive damage. Use [[Energy Wave]] or [[Great Energy Beam]] as a [[Sorcerer]], or [[Ice Wave]] as a [[Druid]]. You can also use [[Ice Strike]] and your favourite weapon, but considering their high amount of health, that is not recommended unless you're in a party.\n'''[[Knights]]:''' should kill this using [[Berserk]] and [[Blood Rage]] if you're fighting them solo. In a party, rely on your shooters to help you.\n'''[[Paladins]]:''' should run them, but be very careful not to attract more lizards while doing so or you will have a hard time. Use strong ammunition to drop them as fast as possible.",
+    "energyDmgMod": "80%",
+    "deathDmgMod": "90%"
+}

@@ -1,0 +1,128 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "isarenaboss": "no",
+    "walksthrough": "Fire, Poison",
+    "hp": "1600",
+    "abilities": "{{Ability List| {{Melee|0-230?}}|{{Ability|[[Soulfire]] exori|on every turn|element=fire}}|{{Ability|[[Fireball]]|100-200|element=fire}}|{{Ability|Fire Beam|196-338+|element=fire}} }}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "secondarytype": "Apes",
+    "holyDmgMod": "100%",
+    "maxdmg": "Unknown",
+    "pushable": "no",
+    "implemented": "9.60",
+    "loot": [
+        {
+            "amount": "1-107",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Platinum Coin",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-10",
+            "itemName": "Banana",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Blazing Bone",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Fiery Heart",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Magma Clump",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Strong Health Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Strong Mana Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Brown Crystal Splinter",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Red Crystal Fragment",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Sword Ring",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Wand of Inferno",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Coal",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Magma Amulet",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Fire Sword",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Magma Coat",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Energy",
+    "exp": "1100",
+    "mitigation": "1.46",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "vulcongra",
+    "illusionable": "no",
+    "armor": "50",
+    "convince": "--",
+    "name": "Vulcongra",
+    "isboss": "no",
+    "iceDmgMod": "105%",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "95%",
+    "plural": "vulcongras",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "The Vulcongra is one of the fastest diggers underground. The attempts of the dwarfs to replace their digging rotworms with Vulcongras were met with little success due to the Vulcongras' untrainable nature. The Vulcongras are almost purely by its instincts. Their foremost need seems to be hunger. Vulcongras spend most of their time on finding and eating. Since they can eat almost everything from dust to stones, they are literally eating constantly without any need of sleep or water. As there seems to be no way to scare them off, Vulcongras often become a threat for gnomish holdings. As they do not seem to care what they eat, the Vulcongras shun away from nothing. They could equally destroy a gnomish house as they would devour precious tools or crystals. They stoically fight back any attackers. Even when not attacked, someone often finds himself at the centre of a Vulcongra's eating attention as it tries to sample some bites. They lack any evil intention,though. The gnomes are experimenting on driving them away with certain crystal frequencies or lights, without any notable success till now. The Vulcongra seem to be just too dumb to be affected by any scare tactic. The stupidity and hunger of the Vulcongra is so prominent that they feature in many gnomish sayings such as 'hungry as a Vulcongra'.",
+    "speed": "160",
+    "pushobjects": "yes",
+    "fireDmgMod": "0%",
+    "sounds": [
+        "Fuchah!",
+        "Fuchah! Fuchah!",
+        "Yag! Yag! Yag!"
+    ],
+    "runsat": "red",
+    "bestiaryclass": "Mammal",
+    "creatureclass": "Elementals",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Magma-Elementals",
+    "spawntype": [
+        "Regular",
+        "Unblockable"
+    ],
+    "race_id": "898",
+    "bestiarylevel": "Hard",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "vulcongra",
+    "behaviour": "Chases foes.",
+    "location": "[[Hot Spot]] (in [[Gnomebase Alpha]]) and [[Lower Spike]].",
+    "strategy": "Stand diagonal."
+}

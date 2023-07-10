@@ -1,0 +1,109 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "walksthrough": "Fire",
+    "hp": "1200",
+    "abilities": "{{Ability List|}}",
+    "healMod": "100%",
+    "paraimmune": "?",
+    "holyDmgMod": "100%",
+    "maxdmg": "?",
+    "pushable": "no",
+    "implemented": "10.70",
+    "loot": [
+        {
+            "itemName": "Mantassin Tail",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Mind Stone",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Stealth Ring",
+            "rarity": "semi-rare"
+        },
+        {
+            "amount": "0-4",
+            "itemName": "Shrimp",
+            "rarity": "semi-rare"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "Small Sapphire",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Blue Crystal Shard",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Ice Rapier",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Strange Helmet",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Fish Fin",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Two Handed Sword",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Blue Robe",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Energy Ring",
+            "rarity": "rare"
+        }
+    ],
+    "walksaround": "Energy, Poison",
+    "exp": "1000",
+    "mitigation": "0.70",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "renegade quara mantassin",
+    "illusionable": "no",
+    "armor": "16",
+    "convince": "--",
+    "name": "Renegade Quara Mantassin",
+    "isboss": "no",
+    "iceDmgMod": "0%",
+    "energyDmgMod": "125%",
+    "deathDmgMod": "100%",
+    "status": "event",
+    "plural": "renegade quara mantassins",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "lightcolor": "35",
+    "occurrence": "Rare",
+    "speed": "295",
+    "pushobjects": "yes",
+    "fireDmgMod": "0%",
+    "sounds": [
+        ""
+    ],
+    "lightradius": "2",
+    "bestiaryclass": "Aquatic",
+    "creatureclass": "Amphibians",
+    "earthDmgMod": "110%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Quara",
+    "spawntype": [
+        "Regular",
+        "Event",
+        "Unblockable"
+    ],
+    "race_id": "1099",
+    "bestiarylevel": "Medium",
+    "senseinvis": "no",
+    "drownDmgMod": "0%",
+    "behaviour": "Unknown",
+    "location": "[[Seacrest Grounds]] when [[Seacrest Serpent]]s are not spawning.",
+    "strategy": "The same used for a regular [[Quara Mantassin]]."
+}

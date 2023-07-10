@@ -1,0 +1,92 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "{{JSpoiler|It's the miniboss faced at the end of {{Spoiler Section|Kilmaresh Quest|Aspiring Oracle}}.}}",
+    "hp": "25000",
+    "speed": "?",
+    "abilities": "{{Ability List|}}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "100%?",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "{{Max Damage|}}",
+    "pushable": "?",
+    "runsat": "0",
+    "implemented": "12.70.10953",
+    "loot": [
+        {
+            "itemName": "Crystal Coin"
+        },
+        {
+            "itemName": "Dagger"
+        },
+        {
+            "itemName": "Fire Sword"
+        },
+        {
+            "itemName": "Gold Ingot"
+        },
+        {
+            "itemName": "Knight Armor"
+        },
+        {
+            "itemName": "Lightning Headband"
+        },
+        {
+            "itemName": "Sacred Tree Amulet"
+        },
+        {
+            "itemName": "Springsprout Rod"
+        },
+        {
+            "itemName": "Terra Boots"
+        },
+        {
+            "itemName": "Guardian Halberd"
+        },
+        {
+            "itemName": "Manticore Ear"
+        },
+        {
+            "itemName": "Violet Gem"
+        },
+        {
+            "itemName": "Small Emerald"
+        },
+        {
+            "itemName": "Onyx Chip"
+        },
+        {
+            "itemName": "Terra Rod"
+        },
+        {
+            "itemName": "Manticore Tail"
+        }
+    ],
+    "exp": "21500",
+    "creatureclass": "Misc",
+    "earthDmgMod": "100%?",
+    "physicalDmgMod": "100%?",
+    "bosstiaryclass": "Bane",
+    "primarytype": "Anuma",
+    "race_id": "2106",
+    "senseinvis": "?",
+    "actualname": "Enusat the Onyx Wing",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Enusat the Onyx Wing",
+    "isboss": "yes",
+    "behaviour": "Attacks from distance.",
+    "location": "In a tomb under [[Kilmaresh Central Steppe]], {{Mapper Coords|text=here|132.3|123.64|7|2|1|0.50.5}}.",
+    "iceDmgMod": "100%?",
+    "strategy": "Unknown.",
+    "energyDmgMod": "100%?",
+    "deathDmgMod": "100%?"
+}

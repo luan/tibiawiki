@@ -1,0 +1,97 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "glooth batteries",
+    "hpDrainDmgMod": "100%?",
+    "notes": "Stays stationary.",
+    "isarenaboss": "no",
+    "walksthrough": "None.",
+    "hp": "8000",
+    "speed": "?",
+    "abilities": "{{Ability List| {{Melee|0}}|{{Ability|[[Poison Storm]]|206?-582+|element=poison}}|{{Ability|[[Self Healing]]|133-454; 3x3 energy effect|element=healing}} }}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "75%",
+    "holyDmgMod": "75%",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "?",
+    "pushable": "?",
+    "implemented": "10.70",
+    "loot": [
+        {
+            "amount": "0-5",
+            "itemName": "Platinum Coin"
+        },
+        {
+            "itemName": "Great Health Potion"
+        },
+        {
+            "itemName": "Great Mana Potion"
+        },
+        {
+            "itemName": "Crystal Pedestal"
+        },
+        {
+            "itemName": "Metal Spats"
+        },
+        {
+            "itemName": "Gearwheel Chain"
+        },
+        {
+            "itemName": "Flask of Rust Remover"
+        },
+        {
+            "itemName": "Gear Wheel"
+        },
+        {
+            "itemName": "Iron Ore"
+        },
+        {
+            "itemName": "Mastermind Potion"
+        },
+        {
+            "itemName": "Steel Boots"
+        },
+        {
+            "itemName": "Heat Core"
+        },
+        {
+            "itemName": "Alloy Legs"
+        },
+        {
+            "itemName": "War Crystal"
+        },
+        {
+            "itemName": "Crystal Pedestal (Red)"
+        }
+    ],
+    "walksaround": "Fire, Energy, Poison",
+    "exp": "3000",
+    "creatureclass": "Elementals",
+    "earthDmgMod": "99%<?",
+    "physicalDmgMod": "100%?",
+    "primarytype": "Electro-Elementals",
+    "spawntype": [
+        "Raid",
+        "Unblockable"
+    ],
+    "senseinvis": "?",
+    "article": "a",
+    "actualname": "glooth battery",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Glooth Battery",
+    "isboss": "no",
+    "behaviour": "Unknown",
+    "location": "[[Glooth Plant]], during a raid.",
+    "iceDmgMod": "75%",
+    "strategy": "Paladins and mages can easily take this without taking the strong poison storm damage.",
+    "energyDmgMod": "75%",
+    "deathDmgMod": "100%?",
+    "status": "event"
+}

@@ -1,0 +1,90 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "Zevelon Duskbringer",
+    "hpDrainDmgMod": "100%?",
+    "notes": "New creature in [[Updates/8.2|Summer Update 2008]]. It can be assumed that he is an [[Elf|Elven]] [[Vampire]] due to the fact he says \"Ashari\", shoots sniper arrows and dwells in [[Hellgate]], which is extremely close to [[Ab'dendriel]]. \n<noinclude><gallery mode=\"nolines\">\nZevelon Duskbringer.png|Zevelon Duskbringer and the Vampires it spawns with. \nZevelon Duskbringer.jpg|Zevelon Duskbringer on Shivera\nvanlyvestribute.PNG|Zevelon on Refugia\n</gallery></noinclude>",
+    "isarenaboss": "no",
+    "walksthrough": "?",
+    "hp": "1400",
+    "speed": "?",
+    "abilities": "{{Ability List| {{Melee|0-400}}|{{Ability|[[Summon]]s 3 [[Vampires]] at once|element=summon}}|{{Ability|[[Mana Drain]]|0-80|element=manadrain}}|{{Ability|[[Sniper Arrow]]|0-100|element=?}}|{{Ability|Distance [[Life Drain]]|50-200|element=lifedrain}}|{{Ability|[[Paralysis]]|element=paralyze}}|{{Ability|[[Invisibility]]|element=invisible}}|{{Ability|[[Drunkenness]]|element=drunk}}|{{Outfit|no|Bat}}|{{Healing|range=60-70}} }}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "100%",
+    "holyDmgMod": "105%",
+    "sounds": [
+        "I want Your Blood",
+        "Come Here!",
+        "I will be still around when my 'noble' race is gone.",
+        "Human blood is not suitable for drinking!",
+        "Human blood is a hardly suitable drink.",
+        "Your short live is coming to an end.",
+        "Ashari Mortals. Come and stay forever!"
+    ],
+    "maxdmg": "Around 1000",
+    "pushable": "?",
+    "implemented": "8.20",
+    "loot": [
+        {
+            "amount": "0-97",
+            "itemName": "Gold Coin"
+        },
+        {
+            "amount": "0-5",
+            "itemName": "Platinum Coin"
+        },
+        {
+            "itemName": "Skull (Item)"
+        },
+        {
+            "itemName": "Black Pearl"
+        },
+        {
+            "itemName": "Strong Health Potion"
+        },
+        {
+            "itemName": "Ring of Healing"
+        },
+        {
+            "itemName": "Vampire Shield",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Dreaded Cleaver",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Vampire Lord Token",
+            "rarity": "always"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "1800",
+    "creatureclass": "The Undead",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "50%?",
+    "bosstiaryclass": "Nemesis",
+    "primarytype": "Vampires",
+    "spawntype": [
+        "Raid",
+        "Unique",
+        "Unblockable"
+    ],
+    "race_id": "475",
+    "senseinvis": "yes",
+    "actualname": "Zevelon Duskbringer",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Zevelon Duskbringer",
+    "isboss": "yes",
+    "behaviour": "Spawns with 0-3 vampires, Goes [[Invisible]] and runs away in low health.",
+    "location": "[[Hellgate]], small graveyard [http://tibia.wikia.com/wiki/Mapper?coords=127.255-123.91-11-2-1-1-Zevelon_Duskbringer_(Vampire_boss) here].",
+    "iceDmgMod": "100%",
+    "strategy": "Beware if you are low level, because this boss will be fatal for you.<br> Higher level '''Mages''' should run, heal when he paralyzes you and shoot [[Flame Strike]] and [[Great Fireball|GFBs]] when he goes invisible, so you hurt summoned vampires and boss at the same time and get him visible again.",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "0%"
+}

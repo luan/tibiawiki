@@ -1,0 +1,91 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "muglex clan assassins",
+    "hpDrainDmgMod": "100%?",
+    "notes": "A weaker [[Goblin Assassin]].",
+    "walksthrough": "None",
+    "hp": "75",
+    "speed": "70",
+    "abilities": "{{Ability List| {{Melee|?}}|{{Ability|throws [[Small Stone]]|0-10+?|element=?}}|{{Ability|[[Drunkenness|Intoxicates]]|element=drunk}} }}",
+    "pushobjects": "No",
+    "healMod": "100%?",
+    "paraimmune": "no",
+    "fireDmgMod": "100%?",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "?",
+    "pushable": "Yes",
+    "implemented": "10.55",
+    "loot": [
+        {
+            "amount": "0-18",
+            "itemName": "Gold Coin"
+        },
+        {
+            "itemName": "Dagger"
+        },
+        {
+            "amount": "0-3",
+            "itemName": "Small Stone"
+        },
+        {
+            "itemName": "Bone"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "Fish"
+        },
+        {
+            "itemName": "Short Sword"
+        },
+        {
+            "itemName": "Small Axe"
+        },
+        {
+            "itemName": "Leather Helmet"
+        },
+        {
+            "itemName": "Mouldy Cheese"
+        },
+        {
+            "itemName": "Leather Armor"
+        },
+        {
+            "itemName": "Bone Club",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Studded Armor",
+            "rarity": "rare"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "48",
+    "creatureclass": "Humanoids",
+    "earthDmgMod": "100%?",
+    "physicalDmgMod": "100%?",
+    "primarytype": "Goblins",
+    "spawntype": [
+        "Regular",
+        "Unblockable"
+    ],
+    "race_id": "1078",
+    "senseinvis": "no",
+    "article": "a",
+    "actualname": "muglex clan assassin",
+    "illusionable": "yes",
+    "armor": "6",
+    "drownDmgMod": "100%?",
+    "convince": "360",
+    "name": "Muglex Clan Assassin",
+    "isboss": "no",
+    "behaviour": "Unknown",
+    "location": "[[Dawnport]].",
+    "iceDmgMod": "100%?",
+    "strategy": "Unknown",
+    "energyDmgMod": "100%?",
+    "deathDmgMod": "100%?"
+}

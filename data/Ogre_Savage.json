@@ -1,0 +1,131 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "<p><noinclude>[[File:Ogre Savage Artwork.jpg|250px]]</noinclude></p>",
+    "walksthrough": "Poison",
+    "hp": "1400",
+    "abilities": "{{Ability List| {{Melee|0-300|element=physical}}|{{Haste}}|{{Ability|a big [[Bleeding]] AoE|0-5|element=bleed}}|{{Ability|[[Explosion]]|0-102+|element=?}}|{{Ability|[[Whirlwind Throw]]|0-100+}} }}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "holyDmgMod": "50%",
+    "maxdmg": "400+",
+    "pushable": "no",
+    "implemented": "10.90",
+    "loot": [
+        {
+            "amount": "1-154",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-5",
+            "itemName": "Cookie",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Ogre Ear Stud",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Skull Fetish",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Mysterious Fetish",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Strong Health Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Ogre Nose Ring",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Onyx Chip",
+            "rarity": "semi-rare"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "Small Ruby",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "War Hammer",
+            "rarity": "semi-rare"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Jalapeno Pepper",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Opal",
+            "rarity": "semi-rare"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Small Topaz",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Ogre Choppa",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Berserk Potion",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Shamanic Mask",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Dreaded Cleaver",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Energy, Fire",
+    "exp": "950",
+    "mitigation": "1.18",
+    "attacktype": "Melee",
+    "article": "an",
+    "actualname": "ogre savage",
+    "illusionable": "no",
+    "armor": "32",
+    "convince": "--",
+    "name": "Ogre Savage",
+    "isboss": "no",
+    "iceDmgMod": "80%",
+    "energyDmgMod": "110%",
+    "deathDmgMod": "90%",
+    "plural": "ogre savages",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "Ogres are large, downright monstrous in appearance, considerably dwarfing even tall orcs. They have a plump, corpulent body, chunky hands and feet and a small, seemingly neckless head. An average adult ogre stands over twelve feet tall, and his waist circumference is almost the half of his height. Most ogres are bald and only rarely have facial hair. They use wooden clubs as weapons, banded, studded or spiked with iron; but stone hatchets or fork-like weapons are also common. While missile combat with bows or crossbows is too difficult for them, they are good at throwing heavy things, particularly boulders. They mature more quickly than humans, reaching adulthood at the age of twelve.\n\nOgres live in tribes that inhabit the steppe and grassland of Krailos, for the most part dwelling in big leather tents or stone huts, though some ogre tribes still have nomadic tendencies. Leader of a tribe is usually the strongest male ogre. The chieftain is supported by an ogre-shaman. If the shaman is female, the two are often, but not necessarily, a couple. The chieftain is responsible for all decisions concerning the hunt and martial matters while the shaman is responsible for all affairs spiritual and social. \n\nAlthough the ogres are a warlike, often brutal people, they are mostly interested in good food rather than in anything else. Ogres worship the Great Hunger, a kind of spirit being they believe will eat up the entire world if not fed regularly. Therefore they often perform rites of sacrifice (of food and of living creatures) to feed this entity. \n\nMost male ogres come in two varieties, brutes and savages. Their main task is to fight for the clan or to scout the steppe for something edible. Ogre savages favour fang-like weapons, like short swords made of stone, axes of crude iron or clubs carved out of animal horn. No less dangerous than the brutes, most ogre savages prefer weapons with an edge or blade over a club - the better to slice their enemy's belly or to bleed and weaken their fleeing prey. They love to mince their food, and taunt enemies with war cries that hint at the meashed meal the foe will be turned into.",
+    "speed": "110",
+    "pushobjects": "yes",
+    "fireDmgMod": "80%",
+    "sounds": [
+        "You tasty!",
+        "Must! Chop! Food! Raahh!",
+        "UGGA UGGA!!"
+    ],
+    "runsat": "0",
+    "bestiaryclass": "Giant",
+    "creatureclass": "Humanoids",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Giants",
+    "race_id": "1162",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "ogresavage",
+    "behaviour": "Fight in close combat.",
+    "location": "[[Krailos Steppe]].",
+    "strategy": "Simply kill it, make use of its weakness to [[Energy Damage]]."
+}

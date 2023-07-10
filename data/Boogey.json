@@ -1,0 +1,62 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "Boogey",
+    "hpDrainDmgMod": "0%",
+    "notes": "It's the fourth floor boss. Use his body to get a random reward before you use the body of Evil Mastermind, otherwise you may not get any item.",
+    "walksthrough": "None",
+    "hp": "930",
+    "speed": "?",
+    "abilities": "{{Ability List| {{Melee|0-120|element=physical}}|{{Ability|[[Blood|Blood Bomb]]|12-20|element=death}}|{{Ability|[[Sudden Death]]|0-30 Hits physical}}|{{Ability|[[Death Damage|Great Sudden Death Beam]]|20-30|element=death}}|{{Healing}}|{{Ability|Sudden Death Bomb Summon|1-2 [[Demon Skeleton]]s|element=summon}} }}",
+    "pushobjects": "yes",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "110%",
+    "holyDmgMod": "110%",
+    "sounds": [
+        "Since you didn't eat your spinach Bogey comes to get you!",
+        "Too bad you did not eat your lunch, now I have to punish you!",
+        "Even if you beat me, I'll hide in your closet until you one day drop your guard!",
+        "You better had believe in me!",
+        "I'll take you into the darkness ... forever!"
+    ],
+    "maxdmg": "200 (670+ with 2 summons)",
+    "pushable": "no",
+    "runsat": "0",
+    "implemented": "8.50",
+    "loot": [
+        {
+            "itemName": "Heavy Metal T-Shirt"
+        },
+        {
+            "itemName": "Club of the Fury"
+        },
+        {
+            "itemName": "Scythe of the Reaper"
+        },
+        {
+            "itemName": "Musician's Bow"
+        }
+    ],
+    "walksaround": "Fire, Energy, Poison",
+    "exp": "475",
+    "creatureclass": "The Undead",
+    "earthDmgMod": "60%",
+    "physicalDmgMod": "100%",
+    "bosstiaryclass": "Bane",
+    "primarytype": "Undead Humanoids",
+    "race_id": "567",
+    "senseinvis": "yes",
+    "actualname": "Boogey",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "0%?",
+    "convince": "--",
+    "name": "Boogey",
+    "isboss": "yes",
+    "location": "[[Isle of Evil]].",
+    "iceDmgMod": "75%",
+    "strategy": "Kill it fast.",
+    "energyDmgMod": "110%",
+    "deathDmgMod": "0%"
+}

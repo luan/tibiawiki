@@ -1,0 +1,51 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "This creature was added in [[Summer Update 2010]].<br />\n{{JSpoiler|Part of [[A Father's Burden Quest]].}}",
+    "walksthrough": "Poison",
+    "hp": "900",
+    "speed": "?",
+    "abilities": "{{Ability List\n |{{Melee|?|poison=7}}\n |{{Ability|Poison Wave|element=poisoned}}\n |{{Ability|Musical Wave|makes you [[drunk]]|element=drunk}}\n |{{Healing|range=61-90}}\n}}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "100%",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        "Shriiiek"
+    ],
+    "maxdmg": "100?",
+    "pushable": "no",
+    "implemented": "8.60",
+    "loot": [
+        {
+            "itemName": "Strong Sinew"
+        }
+    ],
+    "walksaround": "Fire, Energy",
+    "exp": "515",
+    "creatureclass": "Reptiles",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "100%?",
+    "bosstiaryclass": "Bane",
+    "primarytype": "Wyverns",
+    "spawntype": [
+        "Regular",
+        "Unique"
+    ],
+    "race_id": "671",
+    "senseinvis": "yes",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "?",
+    "name": "Heoni",
+    "isboss": "yes",
+    "behaviour": "Runs in low health.",
+    "location": "[[Edron]] northeast of the city (the mountains).",
+    "iceDmgMod": "90%",
+    "strategy": "Treat it as a regular Wyvern.",
+    "energyDmgMod": "80%",
+    "deathDmgMod": "100%?"
+}

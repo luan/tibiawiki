@@ -1,0 +1,124 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "This creature was added with the [[Updates/8.54|Christmas Update 2009]]. After [[Summer Update 2010]] these creatures  drop [[Tower Shield]]s and can be skinned in order to obtain [[Lizard Leather]].",
+    "walksthrough": "Poison",
+    "hp": "1800",
+    "abilities": "{{Ability List| {{Melee|0-261}}|{{Ability|[[Life Drain|2 sqm distance Life Drain]]|60-120|element=lifedrain}}|{{Ability|Slow [[Self-Healing]] [green star animation]|25-75|element=healing}} }}",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "holyDmgMod": "100%",
+    "maxdmg": "370",
+    "pushable": "no",
+    "implemented": "8.54",
+    "loot": [
+        {
+            "amount": "1-227",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Great Health Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "High Guard Shoulderplates",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Spiked Iron Ball",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Strong Health Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Platinum Coin",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Bunch of Ripe Rice",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "High Guard Flag",
+            "rarity": "semi-rare"
+        },
+        {
+            "amount": "1-4",
+            "itemName": "Small Emerald",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Red Lantern",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Lizard Leather",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Lizard Scale",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Tower Shield",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Zaoan Legs",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Zaoan Shoes",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Zaoan Armor",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Fire, Energy",
+    "exp": "1450",
+    "mitigation": "1.18",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "lizard high guard",
+    "illusionable": "no",
+    "armor": "40",
+    "convince": "--",
+    "name": "Lizard High Guard",
+    "isboss": "no",
+    "iceDmgMod": "110%",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "100%",
+    "plural": "lizard high guards",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "Lizard High Guards are hand-picked former members of the legions who showed great talent or had proven themselves in battle. These individuals were schooled in advanced tactics and put to a series of challenging tests. Joining the Lizard High Guards is a secret ceremony that takes place on the Isle of Strife. It is rumoured that the candidates do not only face several creatures in the arena but also have to battle their inner demons to prove themselves worthy. With the decline of the empire and the dwindling numbers of lizards, these tests became less and less lethal. Still, failure is seen as a dire disgrace and once these unlucky individuals are back in the legions they often seek death in battle to escape their shame.<br />The Lizard High Guards are the elite troops of the empire and fiercely loyal to their superiors following their strict code of honour. Their pride and honour let them stick to any given task, regardless how futile their mission may seem. Failure is no option for a Lizard High Guard. In the army, the Lizard High Guards form an almost monastic order with rituals and an ever present code of behaviour. The ideal Lizard High Guard is expected to be an example of absolute control over its mind and body. Lizard High Guards on ceremonial watch are known to remain so motionless that they could easily pass as statues.   The Lizard High Guards are perfectly aware of their elite status in the society and they look on the ordinary legionnaires with contempt.",
+    "speed": "119",
+    "pushobjects": "yes",
+    "fireDmgMod": "55%",
+    "sounds": [
+        "Hizzzzzzz!",
+        "To armzzzz!",
+        "Engage zze aggrezzor!"
+    ],
+    "runsat": "0",
+    "bestiaryclass": "Reptile",
+    "creatureclass": "Reptiles",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "100%",
+    "primarytype": "High Class Lizards",
+    "race_id": "625",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "lizardhighguard",
+    "behaviour": "Faster than weaker lizards. Often appears with [[Lizard Dragon Priest|dragon priests]] and [[Lizard Legionnaire|legionnaires]]. These creatures can be skinned with an [[Obsidian Knife]]. See also: [[Lizard Leather/Skinning]].",
+    "location": "[[Zzaion]], [[Zao Palace]] and its [[Zao Palace Antechambers|antechambers]], [[Muggy Plains]], [[Zao Orc Land]] (single spawn in fort), [[Corruption Hole]], [[Razachai]], [[Temple of Equilibrium]], [[Northern Zao Plantations]].",
+    "strategy": "Its melee attacks can be compared to a [[Giant Spider]]'s.\n'''[[Knight]]s''' can just melee it, using [[berserk]] if they want to kill it faster. With at least level 65 and skills 75/75 you should be able to kill them. '''[[Mage]]s''' are recommended to hunt them at around level 90 since lizards do not walk alone. Use [[Icicle]] or [[Ice Strike]] because they are weak against [[ice]]. [[Sorcerer]]s would also use [[energy wave]] if there are more than two lizards keen to fight."
+}

@@ -1,0 +1,111 @@
+{
+    "summon": "290",
+    "templateType": "Creature",
+    "notes": "Many players prefer not to train on trolls since they run away when they have low [[Hit Points|hp]]. However, since they drop spears some [[paladin]]s may hunt them with spears in an attempt to raise their distance fighting skill.",
+    "walksthrough": "None",
+    "hp": "50",
+    "abilities": "{{Ability List|{{Melee|0-15}}}}",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "holyDmgMod": "90%",
+    "maxdmg": "{{Max Damage|physical=15}}",
+    "pushable": "yes",
+    "implemented": "2.0",
+    "loot": [
+        {
+            "amount": "1-12",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Hand Axe",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Leather Boots",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Leather Helmet",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Meat",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Rope",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Spear",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Studded Club",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Wooden Shield",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Heavy Old Tome",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Bunch of Troll Hair",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Silver Amulet",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Fire, Energy, Poison",
+    "exp": "20",
+    "mitigation": "0.20",
+    "attacktype": "Melee",
+    "history": "Before the [[Updates/8.1|Christmas Update 2007]], trolls looked like this: [[File:Troll (Old).gif]]",
+    "article": "a",
+    "actualname": "troll",
+    "illusionable": "yes",
+    "armor": "6",
+    "convince": "290",
+    "name": "Troll",
+    "isboss": "no",
+    "iceDmgMod": "100%",
+    "energyDmgMod": "80%",
+    "deathDmgMod": "110%",
+    "plural": "trolls",
+    "hpDrainDmgMod": "100%",
+    "usespells": "no",
+    "occurrence": "Common",
+    "bestiarytext": "Trolls are a human-like race that lives in small tribes in the holes and dungeons of Tibia. There they hunt animals and seek treasures over which they keep a jealous watch. They are weak and silly fighters, but as a squad they can become quite dangerous.",
+    "speed": "63",
+    "pushobjects": "no",
+    "fireDmgMod": "100%",
+    "sounds": [
+        "Hmmm, bugs",
+        "Hmmm, dogs",
+        "Grrr",
+        "Groar",
+        "Gruntz!"
+    ],
+    "runsat": "15",
+    "bestiaryclass": "Humanoid",
+    "creatureclass": "Humanoids",
+    "earthDmgMod": "110%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Trolls",
+    "spawntype": [
+        "Regular"
+    ],
+    "race_id": "15",
+    "bestiarylevel": "Trivial",
+    "senseinvis": "no",
+    "drownDmgMod": "100%",
+    "bestiaryname": "troll",
+    "location": "In many dungeons around [[Tibia]] like the troll cave in [[Thais]], south of [[Carlin]] (out the east exit and down the hole), [[Island of Destiny]], [[Edron Troll Cave]], and in [[Ab'Dendriel]]. Also found in [[Rookgaard]].",
+    "strategy": "They are fairly weak; just attack them. Take precautions if you're lower than about level 7 on Rookgaard when approaching them and try to block the creature using parcels or chests. You could find yourself getting killed with several hitting you at once."
+}

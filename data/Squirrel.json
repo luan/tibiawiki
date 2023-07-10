@@ -1,0 +1,71 @@
+{
+    "summon": "220",
+    "templateType": "Creature",
+    "notes": "New creature in the christmas [[Updates/Update 8.12|update 2007]].",
+    "walksthrough": "None",
+    "hp": "20",
+    "abilities": "{{Ability List|None}}",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "holyDmgMod": "100%",
+    "maxdmg": "0",
+    "pushable": "yes",
+    "implemented": "8.10",
+    "loot": [
+        {
+            "itemName": "Acorn",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Peanut",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Walnut",
+            "rarity": "rare"
+        }
+    ],
+    "walksaround": "Fire, Energy, Poison",
+    "exp": "0",
+    "mitigation": "0.05",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "squirrel",
+    "illusionable": "yes",
+    "armor": "1",
+    "convince": "220",
+    "name": "Squirrel",
+    "isboss": "no",
+    "iceDmgMod": "100%",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "100%",
+    "plural": "squirrels",
+    "hpDrainDmgMod": "100%",
+    "usespells": "no",
+    "occurrence": "Common",
+    "bestiarytext": "The impish Squirrel is said to be a distant relative of skunks and leprechauns. The original diminutive Squirrels grew to enormous proportions after eating nuts from Crunor's blessed trees of life. The legend goes that the first Squirrels who ate the nuts became immortal and grew to Squirrels as large as houses over the time. Hunters avoid preying on Squirrels. The little rodents are not only extremely swift, but there is also a legend that says that the giant Squirrels take bloody revenge on all killers of their descendants. Anyway, Squirrels are also considered as force of good which puts them in opposition to the evil penguins. There seems to be a blood feud between Squirrels and penguins which is proven by the fact that you never encounter Squirrels and penguins in the same area.",
+    "speed": "240",
+    "pushobjects": "no",
+    "fireDmgMod": "100%",
+    "sounds": [
+        "Chchch"
+    ],
+    "runsat": "20",
+    "bestiaryclass": "Mammal",
+    "creatureclass": "Mammals",
+    "earthDmgMod": "100%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Glires",
+    "spawntype": [
+        "Regular",
+        "Unblockable"
+    ],
+    "race_id": "384",
+    "bestiarylevel": "Trivial",
+    "senseinvis": "no",
+    "drownDmgMod": "100%",
+    "bestiaryname": "squirrel",
+    "behaviour": "Squirrels are as fast as a level 130.",
+    "location": "North of [[Carlin]], Northwest of [[Thais]], East of [[Kazordoon]], [[Yalahar]], [[Dawnport]], [[Edron]] [[Hunter]]s Camp, [[Plains of Havoc]] and other Tibian woods.",
+    "strategy": "Try to trap them against walls or trees or, failing that, use any area attack rune, because catching one can be extremely difficult."
+}

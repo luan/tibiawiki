@@ -1,0 +1,101 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "It's the [[Bonelords]]' Boss. It can cause [[Death Damage]] and all different kinds of [[Magical Damage]]. Always spawns with 3 [[Bonelord]]s and 2 [[Elder Bonelord]]s near it. When the Evil Eye is present in Hellgate, large clusters of Bonelords and Elder Bonelords (groups of 5 or 6) that are not normally present appear.",
+    "walksthrough": "?",
+    "hp": "1200",
+    "usespells": "yes",
+    "speed": "175",
+    "abilities": "{{Ability List\n |{{Melee|0-91}}\n |{{Ability|Mana Drain Wave|150-250|mana drain\n  |scene={{Scene|spell=8sqmwave|effect=Ripple Effect|caster=The Evil Eye|look_direction=east}}}}\n |{{Ability|Earth Wave|35-85|earth\n  |scene={{Scene|spell=8sqmwave|effect=Poison Effect 1|caster=The Evil Eye|look_direction=east}}}}\n |{{Ability|Life drain Wave|75-85|life drain\n  |scene={{Scene|spell=8sqmwave|effect=Red Sparkles Effect|caster=The Evil Eye|look_direction=east}}}}\n |{{Ability|Death Shot|135-175|death\n  |scene={{Scene|spell=7sqmstrike|effect=Death Effect|caster=The Evil Eye|missile=Death Missile|missile_direction=south-east|missile_distance=7/7}}}}\n |{{Ability|Energy Shot|60-130|energy\n  |scene={{Scene|spell=7sqmstrike|caster=The Evil Eye|missile=Energy Missile|missile_direction=south-east|missile_distance=7/7|effect=Blue Electricity Effect}}}}\n |{{Ability|Fire Shot|85-115|fire\n  |scene={{Scene|spell=7sqmstrike|caster=The Evil Eye|missile=Fire Missile|missile_direction=south-east|missile_distance=7/7|effect=Fire Effect}}}}\n |{{Ability|Earth Shot|40-120|earth\n  |scene={{Scene|spell=7sqmstrike|caster=The Evil Eye|missile=Poison Missile|missile_direction=south-east|missile_distance=7/7|effect=Poison Effect 1}}}}\n |{{Ability|Life drain Shot|110-130|life drain\n  |scene={{Scene|spell=7sqmstrike|effect=Red Sparkles Effect|caster=The Evil Eye|missile_direction=south-east|missile_distance=7/7}}}}\n |{{Ability|paralyze|200-230 points for 20 seconds|paralyze\n  |scene={{Scene|spell=7sqmstrike|effect=Red Sparkles Effect|caster=The Evil Eye|missile_direction=south-east|missile_distance=7/7}}}}\n |{{Healing|range=1-219|scene={{Scene|spell=buffspell|effect=Blue Sparkles Effect|caster=The Evil Eye|effect_on_caster=yes}}}}\n |{{Summon|Demon Skeleton|6|Ghost}}\n}}",
+    "pushobjects": "yes",
+    "healMod": "100%?",
+    "paraimmune": "yes",
+    "fireDmgMod": "100%?",
+    "holyDmgMod": "101%>?",
+    "sounds": [
+        "Inferior creatures, bow before my power!",
+        "653768764!"
+    ],
+    "maxdmg": "1169 (Almost 1500 with [[Summon]]s)",
+    "pushable": "no",
+    "runsat": "0",
+    "implemented": "7.5",
+    "loot": [
+        {
+            "amount": "0-229",
+            "itemName": "Gold Coin"
+        },
+        {
+            "itemName": "Small Flask of Eyedrops",
+            "rarity": "always"
+        },
+        {
+            "itemName": "Bonelord Eye",
+            "rarity": "always"
+        },
+        {
+            "itemName": "Morning Star"
+        },
+        {
+            "itemName": "Steel Shield"
+        },
+        {
+            "itemName": "Longsword",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Two Handed Sword",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Spellbook",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Great Mana Potion",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Bonelord Shield",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Terra Mantle",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Terra Rod",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Bonelord Helmet",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "750",
+    "creatureclass": "Invertebrates",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "100%?",
+    "bosstiaryclass": "Nemesis",
+    "primarytype": "Bonelords",
+    "spawntype": [
+        "Raid"
+    ],
+    "attacktype": "Distance",
+    "race_id": "210",
+    "senseinvis": "yes",
+    "actualname": "The Evil Eye",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "The Evil Eye",
+    "isboss": "yes",
+    "location": "North East of the [[Hellgate Library]].",
+    "iceDmgMod": "100%?",
+    "strategy": "'''[[Knight]]s''' should rush in and kill it fast if you have no shooters. It has no [[Melee]] attack, so it will continue to use its distance attacks when you are up close. Be especially careful of the many [[Summon]]s, and use [[Berserk]] to kill them if necessary. Using a [[Stealth Ring]] may be useful to avoid the [[Demon Skeleton]]s' extra damage.<br>\n'''[[Paladin]]s''' Stay diagonal, hit them with your weapon, and [[exori san]]. Use potions if your health is low.<br>\n'''[[Mage]]s''' should use their wand to kill him. Avoid or ignore the summons and kill '''The Evil Eye''' first unless you are taking too much damage. It might be useful to run in circles to avoid getting hurt by the summoned [[Demon Skeleton]]s and [[Ghost]]s. Also, using [[Invisible]] or a [[Stealth Ring]] might be useful to avoid the summons' damage.",
+    "energyDmgMod": "100%?",
+    "deathDmgMod": "100%?"
+}

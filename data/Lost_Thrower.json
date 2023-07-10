@@ -1,0 +1,120 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "isarenaboss": "no",
+    "walksthrough": "Poison",
+    "hp": "1700",
+    "abilities": "{{Ability List\n |{{Melee|0-300}}\n |{{Debuff2|red sparkle explosion on itself|distance=yes|value=55%}}\n |{{Ability|3x3 physical bomb|150-300|element=physical}}\n |{{Ability|manadrain bomb|60-?|element=manadrain}}\n |{{Ability|[[Drunkenness]] explosion|element=drunk}}\n |{{Ability|[[Whirlwind Throw]]|150-250|element=physical}}\n |{{Ability|[[Invisibility]]|very often|element=invisible}}\n |{{Healing|range=100-500}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "secondarytype": "The Lost",
+    "holyDmgMod": "100%",
+    "maxdmg": "700+",
+    "pushable": "no",
+    "implemented": "9.80",
+    "loot": [
+        {
+            "amount": "1-140",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Platinum Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Basalt Fetish",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Basalt Figurine",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Bloody Dwarven Beard",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Broken Throwing Axe",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Brown Mushroom",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Coal",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Great Health Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Great Mana Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Iron Ore",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Lost Bracers",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Mad Froth",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Red Hair Dye",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Helmet of the Lost",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Buckle",
+            "rarity": "rare"
+        }
+    ],
+    "walksaround": "Energy, Fire",
+    "exp": "1200",
+    "mitigation": "1.40",
+    "attacktype": "Distance",
+    "article": "a",
+    "actualname": "lost thrower",
+    "illusionable": "no",
+    "armor": "50",
+    "convince": "--",
+    "name": "Lost Thrower",
+    "isboss": "no",
+    "iceDmgMod": "85%",
+    "energyDmgMod": "90%",
+    "deathDmgMod": "90%",
+    "plural": "lost throwers",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "One of the most single-minded Lost yet encountered, the Thrower is often compared to some kind of insect by its dwarven enemies. The Thrower knows no fear, no mercy and no change of plans. It seems as if, once they have made up their minds or are herded to some aim, they are only to be stopped by death or by fulfilling their agenda. Though lacking the ferocity and aggression of their brethren, they share or even surpass their mercilessness, and their zombie-like dispassion forms an irritating contrast to the madness and bloodlust generally encountered in other Lost. The first assumption, that they were the raised dead of former battles, could be refuted, but the throwers seem to be completely broken in spirit and soul. It is pointless, however, to wonder whether they were broken for having a rebellious spirit, or if the raising in the slave pens do this to some of the Lost by default. The outcome is yet another killing machine at the disposal of the Lost hordes.<br />Whereas other Lost bloodthirstily charge at the enemy ranks to engage them in close combat, the dispassionate Throwers are some of the few Lost to actually use long-distance weaponry, and use throwing axes to some efficiency. What they lack in precision they make up for in sheer force, and their thrown axes are known to bite sharp and go deep. Throwers often are part of the first wave of an attacking army of the Lost, but are also encountered in other fighting forces. Yet it is quite rare to encounter parties of Throwers on their own, and it seems that without the driving force of their brethrens' ferocity, they lack or forget any goal they might have had. They march and fight until complete and fatal exhaustion, ignoring their wounds and never leaving the battlefield, even if a combat had raged for hours or days on end. Where other Lost continue hitting a defeated foe in their frenzy, the thrower might do the same thing for the only reason that no one has told them to stop.  Also, it has occurred that without leadership or examples to follow, they stayed so intent on a given order that they completely ignored enemies whilst marching to a destination point even under heavy crossbow fire. While being one of the less dangerous of the Lost, the Thrower is by no means to be underestimated.",
+    "speed": "120",
+    "pushobjects": "yes",
+    "fireDmgMod": "85%",
+    "sounds": [
+        ""
+    ],
+    "bestiaryclass": "Humanoid",
+    "creatureclass": "Humanoids",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "90%",
+    "primarytype": "Dwarves",
+    "race_id": "926",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "lostthrower",
+    "location": "[[Caves of the Lost]], [[Lower Spike]] and in the [[Forsaken Mine/Lost Dwarves|Lost Dwarf]] version of the [[Forsaken Mine]].",
+    "strategy": "It is easy for a paladin to kill this, just keep distance and use assassin stars, prismatic bolts or crystalline arrows. For knights it is little harder to hunt them because you have to follow them. Level 100+ is recommended to kill these."
+}

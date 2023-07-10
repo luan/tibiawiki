@@ -1,0 +1,114 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "These creatures will only spawn when their side in on the winning hand in the Arak War.",
+    "isarenaboss": "no",
+    "walksthrough": "?",
+    "hp": "2100",
+    "abilities": "{{Ability List \n |{{Melee|0-250+}}\n |{{Ability|Poison Explosion|0-?|element=earth\n  |scene={{Scene|spell=4sqmball2self|effect=Poison Effect 1|caster=Askarak Lord|effect_on_caster=yes}}}}\n |{{Ability|Poison Wave|0-?|element=earth\n  |scene={{Scene|spell=4sqmtwave|effect=Poison Effect 1|caster=Askarak Lord|look_direction=east}}}}\n |{{Ability|Poison Beam|0-?|element=earth\n  |scene={{Scene|spell=5sqmbeam|effect=Poison Effect 1|caster=Askarak Lord |look_direction=east}}}}\n |{{Ability|Paralyze|element=paralyze\n  |scene={{Scene|spell=3sqmstrike|caster=Askarak Lord|effect=Red Sparkles Effect|missile_direction=south-east|missile_distance=3/3}}}}\n }}",
+    "healMod": "100%",
+    "paraimmune": "?",
+    "holyDmgMod": "100%",
+    "maxdmg": "?",
+    "pushable": "no",
+    "implemented": "9.10",
+    "loot": [
+        {
+            "amount": "1-190",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Platinum Coin",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-5",
+            "itemName": "Small Emerald",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Strong Mana Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Strong Health Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Brown Mushroom",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Energy Ring",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Magic Sulphur",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Mastermind Potion",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Springsprout Rod",
+            "rarity": "rare"
+        },
+        {
+            "amount": "1-5",
+            "itemName": "Assassin Star",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Terra Mantle",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "1200",
+    "mitigation": "1.18",
+    "attacktype": "Melee",
+    "article": "an",
+    "actualname": "askarak lord",
+    "illusionable": "no",
+    "armor": "40",
+    "convince": "--",
+    "name": "Askarak Lord",
+    "isboss": "no",
+    "iceDmgMod": "35%",
+    "energyDmgMod": "35%",
+    "deathDmgMod": "105%",
+    "status": "event",
+    "plural": "askarak lords",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Rare",
+    "speed": "120",
+    "pushobjects": "yes",
+    "fireDmgMod": "120%",
+    "sounds": [
+        "DEATH TO THE SHABURAK!",
+        "GREEN WILL RULE!",
+        "ONLY WE ARE TRUE DEMONS!",
+        "RED IS MAD!",
+        "WE RULE!"
+    ],
+    "bestiaryclass": "Demon",
+    "creatureclass": "Arak Demons",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Askarak Demons",
+    "spawntype": [
+        "Regular",
+        "Event"
+    ],
+    "race_id": "728",
+    "bestiarylevel": "Medium",
+    "senseinvis": "?",
+    "drownDmgMod": "100%?",
+    "behaviour": "Unknown.",
+    "location": "[[Demonwar Crypt]].",
+    "strategy": "Unknown."
+}

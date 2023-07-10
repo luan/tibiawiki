@@ -1,0 +1,174 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "A demonic minion with sole purpose to bring pain and despair to all who enter its domain. It has the ability to deal high amounts of damage and can also [[Mana Drain]] making it one of the most dangerous creatures in [[Tibia]]. The Hand of Cursed Fate's boss is [[The Handmaiden]].\nIt's the first creature known to drop a non-blank rune.",
+    "walksthrough": "Fire, Energy, Poison",
+    "hp": "7500",
+    "abilities": "{{Ability List| {{Melee|0-520|poison=19}}|{{Ability|[[Mana Drain]]|0-920+|element=manadrain}}|{{Ability|[[Death Damage|Death Strike]]|0-880+|element=death}}|{{Ability|[[Invisibility]]|element=invisible}}|{{Haste|[[Strong Haste]]}}|{{Healing}}|{{Ability|causes [[Drunkenness]]|element=drunk}} }}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "holyDmgMod": "125%",
+    "maxdmg": "{{Max Damage|physical=520|earth=19|manadrain=920|death=880}}",
+    "pushable": "?",
+    "implemented": "7.9",
+    "loot": [
+        {
+            "amount": "4-267",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-7",
+            "itemName": "Platinum Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Soul Orb",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-4",
+            "itemName": "Flask of Demonic Blood",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Great Mana Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Ultimate Health Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Mind Stone",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-5",
+            "itemName": "Assassin Star",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-4",
+            "itemName": "Small Sapphire",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Demonic Essence",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Protection Amulet",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Yellow Gem",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Emerald Bangle",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Wand of Inferno",
+            "rarity": "semi-rare"
+        },
+        {
+            "amount": "1-8",
+            "itemName": "Sudden Death Rune",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Knight Armor",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Energy Ring",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Blue Gem",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Death Ring",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Crown Armor",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Platinum Amulet",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Skull Staff",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Violet Gem",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Book (Orange)",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Gold Ingot",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Boots of Haste",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Mysterious Voodoo Skull",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Abyss Hammer",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "None",
+    "exp": "5000",
+    "mitigation": "1.88",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "hand of cursed fate",
+    "illusionable": "no",
+    "armor": "53",
+    "convince": "--",
+    "name": "Hand of Cursed Fate",
+    "isboss": "no",
+    "iceDmgMod": "110%",
+    "energyDmgMod": "0%",
+    "deathDmgMod": "0%",
+    "plural": "hands of cursed fate",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "It is unknown to mankind whether this hand is some pure materialisation of demonic essence or actually a body part of a greater evil. It is sure though that its existence is fuelled by powerful demonic forces. Living or animated, it is a fast and powerful minion in the demonic ranks. Yet obviously lacking a head, the creature is quite cunning and loves dirty surprise attacks. It usually attacks with individual fingers, but it is also said that the Hand of Cursed Fate sometimes grasps an opponent to crush it in its powerful grip. Its greatest pleasure is to bring pain and despair to others. Above all it enjoys the suffering of creatures. The Hand of Cursed Fate is attracted by those whom it senses as doomed and takes greatest amusement in their demise. Therefore it is a powerful adversary, and it is no mockery when it is claimed that the Hand of Cursed Fate can pull some dirty tricks out of its sleeve.",
+    "speed": "130",
+    "pushobjects": "?",
+    "fireDmgMod": "0%",
+    "sounds": [
+        ""
+    ],
+    "runsat": "6000",
+    "bestiaryclass": "Undead",
+    "creatureclass": "Demons",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Hands",
+    "race_id": "281",
+    "bestiarylevel": "Hard",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "handofcursedfate",
+    "behaviour": "A cowardly creature that retreats early upon being damaged and often goes invisible.",
+    "location": "[[Pits of Inferno]], [[The Inquisition Quest|The Battlefield]], [[The Inquisition Quest|The Arcanum]], [[The Inquisition Quest|The Blood Halls]], [[The Inquisition Quest|The Crystal Caves]] and [[Grounds of Despair]].",
+    "strategy": "Since it has no ranged damaging attack, it is a good idea to have a [[Knight]] blocking it and as many shooters as possible. This may be tricky though since it can disappear, and you have to find it with [[Runes]]. So, that [[Knight]] must try to lure it in a place where it can't move, and then spam it with [[Ice Damage|Ice]] and [[Holy Damage|Holy-Based]] [[Spells]]. Note though that when using [[Haste]], the creature can become extremely fast, about the speed of a level 650+ so don't expect to chase it until it has slowed down. Try to trap the creature with a [[Knight]] blocker and possibly some [[Wild Growth]]s."
+}

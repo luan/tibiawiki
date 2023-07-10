@@ -1,0 +1,89 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "stonerefiners",
+    "hpDrainDmgMod": "100%",
+    "notes": "With an insatiable and voracious appetite for minerals,  Stonerefiners live away from the sunlight, in dark caves where their sight is at its best. Strong and fast, they use their strong jaws & dangerously sharp teeth to attack those that challenge them. \nTheir acid spit -capable of breaking down even rock- will deal earth damage similar to a stone shower. \nAdditionally, they can cause tremors similar to a knights Berserk. <br />\n\nTheir scaley skin is grey from their mineral & rock diet and their eyes are bloodshot red. It is said that these reptiles evolved from the water, you can see their bodies are still reminiscent of a fish - especially the tail and skull. They had to evolve to walk on land for access to better minerals, as well as to evade stronger predators.<br />\n\nDO NOT underestimate these creatures, adventurer. They may look weak, but they are deceptively strong, particularly for rookie players. If in groups, even an experienced player can find themselves in trouble. <br /> \n\nInvisibility or a stealth ring is your friend here, to evade them and avoid getting trapped to a most certainly painful death.",
+    "walksthrough": "Energy, Poison",
+    "hp": "800",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "speed": "110",
+    "abilities": "{{Ability List| {{Melee|0-115}}|{{Ability|[[Stone Shower]]|100-180|element=?}}|{{Ability|[[Berserk]]|50-70|element=?}} }}",
+    "pushobjects": "no",
+    "healMod": "100%",
+    "paraimmune": "?",
+    "fireDmgMod": "110%",
+    "holyDmgMod": "100%",
+    "sounds": [
+        "knak knak knak",
+        "nomnomnom"
+    ],
+    "maxdmg": "?",
+    "pushable": "no",
+    "implemented": "11.50.6055",
+    "bestiaryclass": "Reptile",
+    "loot": [
+        {
+            "amount": "1-4",
+            "itemName": "Platinum Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Glob of Acid Slime",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Coal",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Rare Earth",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "Poisonous Slime",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-5",
+            "itemName": "Half-Digested Stones",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-?",
+            "itemName": "Rat Cheese",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Stonerefiner's Skull",
+            "rarity": "uncommon"
+        }
+    ],
+    "walksaround": "Fire",
+    "exp": "500",
+    "creatureclass": "Reptiles",
+    "earthDmgMod": "80%",
+    "mitigation": "0.72",
+    "physicalDmgMod": "120%",
+    "primarytype": "Crocodilians",
+    "race_id": "1525",
+    "attacktype": "Melee",
+    "bestiarylevel": "Medium",
+    "senseinvis": "no",
+    "article": "a",
+    "actualname": "stonerefiner",
+    "illusionable": "no",
+    "armor": "20",
+    "drownDmgMod": "100%",
+    "convince": "--",
+    "name": "Stonerefiner",
+    "isboss": "no",
+    "behaviour": "They use physical and earth type damage to beat their opponents, a stonerefiner never retreats.",
+    "location": "[[Corym Mines]], {{Mapper Coords|text=here|129.29|125.5|11|8|1|0.1250.125}}.",
+    "iceDmgMod": "120%",
+    "strategy": "'''[[Mage]]s''' 30+ can face them using ice strike and fire strike spells or using avalanche, icicle, great fireball and fireball runes since they are weak against those elements. It's highly recommended for noob players to wear an [[Energy Ring]] or use [[Magic Shield]] (if you are mage) 'cause they tend to be in groups of 3-5 and can hit high combos. Using runes to kill'em in groups it is recommended.\n\n'''[[Paladin]]s''' and '''[[Knight]]s''' 40+ should defeat them quickly because they're weak against physical damage. Elite Knights can lure more at a time and [[Exori]] them to speed up xp gain.\n\nLower level players with good skills can level up quickly using stealth rings since they can't sense invisibility.",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "100%"
+}

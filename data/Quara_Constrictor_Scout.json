@@ -1,0 +1,89 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "A weaker version of [[Quara Constrictor]]s. This monster can be seen during raids on [[Liberty Bay]].\n{{JSpoiler|You may hunt 400 Quara Constrictor Scouts, [[Quara Hydromancer Scout]]s, [[Quara Mantassin Scout]]s, [[Quara Pincher Scout]]s and [[Quara Predator Scout]]s combined as a task of the [[Killing in the Name of... Quest]].}}",
+    "walksthrough": "Fire",
+    "hp": "450",
+    "abilities": "{{Ability List|{{Melee|0-130+}}|{{Ability|[[Berserk|Life Drain Berserk]]|0-80+|element=life drain|scene={{Scene|spell=3x3spell|effect=Trembling Effect|caster=Quara Constrictor Scout|casting_effect=Trembling Effect}}}} }}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "holyDmgMod": "100%",
+    "maxdmg": "{{Max Damage|physical=130|lifedrain=80}}",
+    "pushable": "no",
+    "implemented": "7.8",
+    "loot": [
+        {
+            "amount": "0-49",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Longsword",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "0-3",
+            "itemName": "Shrimp",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Quara Tentacle",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Small Amethyst",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Brass Armor",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Fish Fin",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Energy, Poison",
+    "exp": "200",
+    "mitigation": "0.86",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "quara constrictor scout",
+    "illusionable": "yes",
+    "armor": "14",
+    "convince": "600",
+    "name": "Quara Constrictor Scout",
+    "isboss": "no",
+    "iceDmgMod": "0%",
+    "energyDmgMod": "110%",
+    "deathDmgMod": "100%",
+    "plural": "quara constrictor scouts",
+    "hpDrainDmgMod": "0%",
+    "usespells": "yes",
+    "lightcolor": "35",
+    "occurrence": "Common",
+    "bestiarytext": "The Quara Constrictor Scout is a weaker version of [[Quara Constrictor]]s.",
+    "speed": "75",
+    "pushobjects": "?",
+    "fireDmgMod": "0%",
+    "sounds": [
+        "Tssss!",
+        "Gaaahhh!",
+        "Gluh! Gluh!",
+        "Boohaa!"
+    ],
+    "lightradius": "2",
+    "bestiaryclass": "Aquatic",
+    "creatureclass": "Amphibians",
+    "earthDmgMod": "110%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Quara",
+    "race_id": "240",
+    "bestiarylevel": "Medium",
+    "senseinvis": "no",
+    "drownDmgMod": "0%",
+    "bestiaryname": "quaraconstrictorscout",
+    "behaviour": "They run when in deep dark red health.",
+    "location": "[[Malada]], [[Arena Quarter]], [[Treasure Island]] Eastern Caves, [[Hrodmir Quara Scout Caves]], [[Quara Grotto]], [[Oramond]].",
+    "strategy": "'''[[Paladin]]s''': They are easy to kill from distance.<br />\n'''[[Mage]]s''': Use [[energy strike]].<br />\n'''[[Knight]]s''': Their defence is very low and they deal quite low damage."
+}

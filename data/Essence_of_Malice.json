@@ -1,0 +1,165 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "Essence of Malice",
+    "hpDrainDmgMod": "100%?",
+    "notes": "{{JSpoiler|Part of the [[Cults of Tibia Quest]].}}",
+    "walksthrough": "?",
+    "hp": "250000",
+    "lightcolor": "119",
+    "speed": "?",
+    "abilities": "{{Ability List\n |{{Melee|0-450}}\n |{{Ability|Death Missile|200-747|element=death\n  |scene={{Scene|spell=4sqmstrike|caster=Essence of Malice|look_direction=south|effect=Cloud Effect|missile=Death Missile|missile_direction=south-east|missile_distance=4/4|damage_effect=None}}}}\n |{{Ability|Chain Lightning|116-392|element=death\n  |scene={{Scene|spell=chainspell|caster=Essence of Malice|look_direction=south|effect=Grey Chain Effect|damage_effect=Cloud Effect}}}}\n |{{Ability|Death Beam|203-300|element=death\n  |scene={{Scene|spell=8sqmbeam|caster=Essence of Malice|look_direction=east|effect=Death Effect|damage_effect=Cloud Effect}}}}\n}}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "secondarytype": "The Undead",
+    "fireDmgMod": "150%",
+    "holyDmgMod": "150%",
+    "sounds": [
+        "Your demised will please me!",
+        "You will suffer!"
+    ],
+    "maxdmg": "950?",
+    "pushable": "?",
+    "lightradius": "4",
+    "runsat": "0",
+    "cooldown": "20",
+    "implemented": "11.40.5409",
+    "loot": [
+        {
+            "amount": "1-200",
+            "itemName": "Gold Coin"
+        },
+        {
+            "amount": "1-30",
+            "itemName": "Platinum Coin"
+        },
+        {
+            "itemName": "Demon Shield"
+        },
+        {
+            "itemName": "Yellow Gem"
+        },
+        {
+            "amount": "1-10",
+            "itemName": "Small Amethyst"
+        },
+        {
+            "itemName": "Ring of Blue Plasma"
+        },
+        {
+            "itemName": "Lightning Legs"
+        },
+        {
+            "itemName": "Odd Organ"
+        },
+        {
+            "itemName": "Plasma Pearls"
+        },
+        {
+            "itemName": "Shockwave Amulet"
+        },
+        {
+            "itemName": "Witch Hat"
+        },
+        {
+            "amount": "1-10",
+            "itemName": "Ultimate Health Potion"
+        },
+        {
+            "itemName": "Mysterious Remains"
+        },
+        {
+            "amount": "1-5",
+            "itemName": "Energy Bar"
+        },
+        {
+            "itemName": "Blade of Corruption"
+        },
+        {
+            "itemName": "Gold Token"
+        },
+        {
+            "itemName": "Silver Token"
+        },
+        {
+            "itemName": "Ring of Red Plasma"
+        },
+        {
+            "itemName": "Wand of Inferno"
+        },
+        {
+            "itemName": "Great Mana Potion"
+        },
+        {
+            "itemName": "Ring of Green Plasma"
+        },
+        {
+            "itemName": "Green Gem"
+        },
+        {
+            "itemName": "Great Spirit Potion"
+        },
+        {
+            "itemName": "Fire Axe"
+        },
+        {
+            "itemName": "Small Sapphire"
+        },
+        {
+            "itemName": "Wand of Defiance"
+        },
+        {
+            "itemName": "Red Gem"
+        },
+        {
+            "itemName": "Giant Shimmering Pearl"
+        },
+        {
+            "itemName": "Wand of Everblazing"
+        },
+        {
+            "itemName": "Magma Monocle"
+        },
+        {
+            "itemName": "Small Diamond"
+        },
+        {
+            "itemName": "Noble Axe"
+        },
+        {
+            "itemName": "Small Topaz"
+        },
+        {
+            "itemName": "Small Emerald"
+        },
+        {
+            "itemName": "Violet Gem"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "150000",
+    "creatureclass": "Reptiles",
+    "earthDmgMod": "150%",
+    "physicalDmgMod": "100%?",
+    "bosstiaryclass": "Archfoe",
+    "primarytype": "Dragons",
+    "spawntype": [
+        "Triggered"
+    ],
+    "attacktype": "Melee",
+    "race_id": "1487",
+    "senseinvis": "?",
+    "actualname": "Essence of Malice",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Essence of Malice",
+    "isboss": "yes",
+    "location": "[[Forbidden Temple (Carlin)]].",
+    "iceDmgMod": "50%",
+    "strategy": "The Essence of Malice does not hit very hard, just use [[Physical]] and elemental (except [[Death Damage|Death]]) damage on it.",
+    "energyDmgMod": "150%",
+    "deathDmgMod": "0%"
+}

@@ -1,0 +1,112 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "New creature in [[Updates/8.2|Summer Update 2008]], since [[Updates/8.4|Winter Update 2008]] it is profitable to hunt this creature. Since [[Updates/8.5]] '''Energy Elementals''' loot is much better. Don't underestimate these creatures. They are more deadly than a [[wyrm]] due to their frequently used energy attacks plus the fact that you cannot avoid any of its non-melee attacks.<br/>",
+    "walksthrough": "Fire, Energy",
+    "hp": "500",
+    "abilities": "{{Ability List|{{Melee|0-175+}}|{{Ability|Energy Explosion|125-252+|energy}}|{{Ability|[[Heavy Magic Missile]]|100-130+|energy}}|{{Ability|Spark Bomb|25 [[hp]]/7 turns|electrified}}|{{Healing}}}}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "holyDmgMod": "95%",
+    "maxdmg": "{{Max Damage|physical=175+|energy=407+}}",
+    "pushable": "?",
+    "implemented": "8.20",
+    "loot": [
+        {
+            "amount": "1-170",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Mana Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-10",
+            "itemName": "Flash Arrow",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-5",
+            "itemName": "Throwing Star",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Strong Mana Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Crystal Sword",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Small Amethyst",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Obsidian Lance",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Crystal Ring",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Silver Amulet",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Energy Ring",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Wand of Cosmic Energy",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Guardian Shield",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Poison",
+    "exp": "550",
+    "mitigation": "0.72",
+    "attacktype": "Melee",
+    "article": "an",
+    "actualname": "energy elemental",
+    "illusionable": "yes",
+    "armor": "25",
+    "convince": "--",
+    "name": "Energy Elemental",
+    "isboss": "no",
+    "iceDmgMod": "0%",
+    "energyDmgMod": "0%",
+    "deathDmgMod": "95%",
+    "plural": "energy elementals",
+    "hpDrainDmgMod": "0%",
+    "usespells": "yes",
+    "lightcolor": "143",
+    "occurrence": "Common",
+    "bestiarytext": "The actual Energy Elemental is just a tiny spark that can be hardly spotted. The origin of those sparks is unknown, but their creation has been attributed to natural forces. This malicious spark strives for nothing more than mayhem and havoc. Although it is not necessarily evil, it is definitely cruel and careless. In the state of a spark, it swirls around for a while until it has gathered enough electrical charges and stirred up the wind to turn into a small storm. By 'riding' this storm, the elemental becomes more substantial and significantly dangerous.<br />Hurling mighty energy attacks and being almost insubstantial, Energy Elementals are extremely dangerous. They have some intelligence and actually enjoy blasting their enemies with powerful lightnings. Energy Elementals can be encountered almost everywhere, as they can spawn at any place that contains some air. Their main attacks are lightnings and forceful gusts of wind, but they can also cause some form of suffocation. Almost as fast as lightning, it is hardly impossible to escape from an Energy Elemental unless it is temporarily destroyed. It can regenerate itself by drawing air from the surrounding area. Capricious as a storm, it is very unpredictable in combat and even experienced adventurers can hardly foretell how an Energy Elemental will behave.",
+    "speed": "115",
+    "pushobjects": "?",
+    "fireDmgMod": "0%",
+    "sounds": [
+        ""
+    ],
+    "lightradius": "4",
+    "bestiaryclass": "Elemental",
+    "creatureclass": "Elementals",
+    "earthDmgMod": "115%",
+    "physicalDmgMod": "65%",
+    "primarytype": "Electro-Elementals",
+    "race_id": "457",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "energyelemental",
+    "behaviour": "Chases opponent until death.",
+    "location": "[[Kha'zeel]], [[Energy Elemental Lair]], [[Vandura Mountain]], [[Vengoth]]'s mountain.",
+    "strategy": "[[Strange Talisman|Strange talisman]] can come in handy, so take some with you when hunting these.<br/>\nFor '''[[mage]]s''' level 60 and below use mana shield when facing more than 2. It might be smart to use [[Terra Wave]]. Mages of level 70 and higher use [[Terra Strike]] and wand/rod (ideally [[Springsprout Rod]]) while standing still. A [[Lightning Set]] is very handy. Or keep around 5 squares away to avoid melee and spark bomb for less damage.\n\nA mage around level 100 can easily hunt them and profit solely using [[Soft Boots]] and the dropped [[Mana Potions]].<br/>\n\n'''[[Paladin]]s''' should attack their with ammunition and [[Exori San]] before they deal major damage. [[Envenomed Arrow]]s would come in handy against them.<br/>\n'''[[Knights]]''' Should try to avoid them at low levels since they are very strong against physical damage. However, at higher levels (around level 90) it can be profitable to hunt them because of the high gold drop rate as well as the many chances of looting NPC sellable items. [[Mana potion]]s and [[exura ico]] will often be enough, soft boots are also recommended however try to keep some [[Health Potions|health potion]]s at hand for safety. Knights can take a strong [[two-handed]] weapon and use [[exori]] when fighting more than one."
+}

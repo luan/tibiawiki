@@ -1,0 +1,72 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "furious scorpions",
+    "hpDrainDmgMod": "100%?",
+    "notes": "{{JSpoiler|Part of [[The Secret Library Quest]].}}",
+    "walksthrough": "?",
+    "hp": "15000",
+    "speed": "?",
+    "abilities": "{{Ability List| {{Melee|0-700+}}|{{Ability|[[Poison Arrow]]|0-1000+|element=poison}}|{{Ability|[[Blood Bomb]]|?-500+|element=?}}|{{Ability|[[Smoke Bomb]] on itself|?-500+|element=?}} }}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "80%",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "2700+",
+    "pushable": "?",
+    "runsat": "0",
+    "implemented": "11.80.7048",
+    "loot": [
+        {
+            "amount": "0-34",
+            "itemName": "Gold Coin"
+        },
+        {
+            "amount": "0-5",
+            "itemName": "Platinum Coin"
+        },
+        {
+            "itemName": "Daramian Mace"
+        },
+        {
+            "itemName": "Black Shield"
+        },
+        {
+            "amount": "3",
+            "itemName": "Small Emerald"
+        },
+        {
+            "itemName": "Steel Helmet"
+        }
+    ],
+    "walksaround": "Energy",
+    "exp": "12000",
+    "creatureclass": "Invertebrates",
+    "earthDmgMod": "30%",
+    "physicalDmgMod": "100%?",
+    "primarytype": "Arachnids",
+    "spawntype": [
+        "Triggered",
+        "Unique"
+    ],
+    "race_id": "1625",
+    "senseinvis": "yes",
+    "article": "a",
+    "actualname": "furious scorpion",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Furious Scorpion",
+    "isboss": "no",
+    "behaviour": "It fights in close combat but also throws arrows from distance.",
+    "location": "The [[Deep Desert]].",
+    "iceDmgMod": "120%",
+    "strategy": "You will be teleported into the room on the eastern side. As you walk to the west into the room, 4 [[Skeleton Elite Warrior]]s, 2 [[Undead Elite Gladiator]]s, and the [[Furious Scorpion]] will spawn in the room with you. You can use [[Energy Bomb Rune]]s on path to protect yourself from the creatures so you only have to deal with the boss. Be careful for the other creatures in the room as they will still do distance damage. You have 5 minutes to kill the boss, loot the chest and leave through the teleport to the south.\n\n[[File:Furious Scorpion Video|thumb|left|335 px]]",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "100%"
+}

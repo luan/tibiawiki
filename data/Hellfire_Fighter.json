@@ -1,0 +1,130 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "walksthrough": "Fire",
+    "hp": "3800",
+    "abilities": "{{Ability List\n |{{Melee|0-520}}\n |{{Ability|Fire Beam|392-1500|element=fire\n  |scene={{Scene|spell=9sqmbeam|effect=Flame Effect|caster=Hellfire Fighter|look_direction=east}}}}\n |{{Ability|Fire Berserk|60-330|element=fire\n  |scene={{Scene|spell=3x3spell|effect=Fire Effect|caster=Hellfire Fighter|casting_effect=Fire Effect}}}}\n |{{Ability|[[Fire Bomb]] around itself|element=fire\n  |scene={{Scene|spell=3x3spell|effect=Fire|caster=Hellfire Fighter|casting_effect=Fire Effect}}}}\n |{{Ability|[[Soulfire|Giant Soulfire Ball]]|element=burning\n  |scene={{Scene|spell=6sqmballself|effect=Flame Effect|caster=Hellfire Fighter|casting_effect=Flame Effect}}}}\n }}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "holyDmgMod": "100%",
+    "maxdmg": "{{Max Damage|physical=520|fire=1850}}",
+    "pushable": "?",
+    "implemented": "7.9",
+    "loot": [
+        {
+            "amount": "1-246",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Burnt Scroll",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Blank Rune",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Demonic Essence",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Soul Orb",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Fiery Heart",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Wand of Inferno",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Piece of Hellfire Armor",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Fire Sword",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Emerald Bangle",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Small Diamond",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Platinum Coin",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Magma Legs",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Coal",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Magma Coat",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Fire Axe",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Demonbone Amulet",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Energy, Poison",
+    "exp": "3120",
+    "mitigation": "1.60",
+    "attacktype": "Melee",
+    "history": "Its experience was decreased from 3900 to 1365 with the first batch of changes of [[Updates/12.31|Update 12.31]]. It was later increased to 3120 with the second batch.",
+    "article": "a",
+    "actualname": "hellfire fighter",
+    "illusionable": "no",
+    "armor": "62",
+    "convince": "--",
+    "name": "Hellfire Fighter",
+    "isboss": "no",
+    "iceDmgMod": "125%",
+    "energyDmgMod": "80%",
+    "deathDmgMod": "80%",
+    "plural": "hellfire fighters",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "lightcolor": "212",
+    "occurrence": "Common",
+    "bestiarytext": "Rage sometimes becomes an urge too strong to be controlled. Which is true for creatures like humans, is even more evident in the demon kind. In some of the demons the fire of hatred grows so strong that they are consumed by this inner, hellish fire. Some of them are powerful enough to fight back that urge for a while. They are equipped with hellish armors to contain the destructive energy that burns through them. They save their lives for the price of an existence in consuming and eternal pain, hatred and rage. Driven to the edge of madness and sometimes beyond, those demons love to release some of their anger and inner fire upon others. Exhaustive fight is their only way to find relief. The so-called Hellfire Fighters fight and destroy with everything that is left of their minds and consciousness in the ocean of rage and pain that had become their lives. Never expect a Hellfire Fighter to give in or to retreat. They will always fight to the bitter end.",
+    "speed": "165",
+    "pushobjects": "?",
+    "fireDmgMod": "0%",
+    "sounds": [
+        ""
+    ],
+    "lightradius": "5",
+    "bestiaryclass": "Demon",
+    "creatureclass": "Elementals",
+    "earthDmgMod": "100%",
+    "physicalDmgMod": "50%",
+    "primarytype": "Pyro-Elementals",
+    "spawntype": [
+        "Regular",
+        "Unblockable"
+    ],
+    "race_id": "295",
+    "bestiarylevel": "Hard",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "hellfirefighter",
+    "behaviour": "This monster will spam fire spells. Not too dangerous if you avoid the beam.",
+    "location": "[[Pits of Inferno]], [[Demon Forge]], [[Fury Dungeon]].",
+    "strategy": "Avoid its lethal beam, it can do up to 1500~ [[hp]] of [[damage]]. Try to be at full [[hp]] at all times. [[Mage]]s should use [[mana shield]] and stay far and diagonal from it while shooting [[SD]]s, [[Icicle (Rune)|Icicle]]s or [[Ice Strike]], or if high enough [[level]], you can block them diagonally by using [[Ice Strike]].\nHigh level mages can make massive amounts of experience by hunting Hellfire Fighters in the Dark Path of Demon Forge. Just lure 3-5 and kill them with [[Avalanche]] runes, and remember to always check your mana. Don't forget to bring lots of supplies."
+}

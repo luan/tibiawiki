@@ -1,0 +1,89 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "Lethal Lissy is one of the pirates who constantly tries to loot Liberty Bay with overwhelming invasions of pirates. If you see her around Liberty Bay, it's not a good sign.\n<p>{{JSpoiler|\nYou get a chance to kill her in the [[Killing in the Name of... Quest]] after killing '''3000 pirates''' for [[Raymond Striker]]. The teleporter is located [http://tibia.wikia.com/wiki/Mapper?coords{{=}}124.233-128.85-1-4-1-1 here].<br>[[File:Lethal_Lissy_-_Killing_in_the_Name_of.._Quest.png|thumb|left|Lethal Lissy]]<br><br><br><br><br><br><br>\n}}</p>",
+    "walksthrough": "?",
+    "hp": "1450",
+    "speed": "?",
+    "abilities": "{{Ability List| {{Melee|0-160}}|{{Healing|range=150}}|{{Summon|Pirate Cutthroat|4}}|{{Ability|[[Musical Notes]]|a purple field of music notes appears in front of Lethal Lissy|element=?}} }}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "100%?",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "160+",
+    "pushable": "?",
+    "implemented": "7.8",
+    "loot": [
+        {
+            "amount": "0-121+",
+            "itemName": "Gold Coin",
+            "rarity": "always"
+        },
+        {
+            "itemName": "The Lethal Lissy's Shirt",
+            "rarity": "always"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "Skull (Item)"
+        },
+        {
+            "itemName": "Plate Armor"
+        },
+        {
+            "itemName": "Knight Armor",
+            "rarity": "rare"
+        },
+        {
+            "amount": "0-3",
+            "itemName": "Meat",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Small Diamond",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Pirate Backpack",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Very Old Piece of Paper",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Double Axe"
+        },
+        {
+            "itemName": "Protection Amulet"
+        },
+        {
+            "itemName": "Great Health Potion"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "500",
+    "creatureclass": "Humans",
+    "earthDmgMod": "100%?",
+    "physicalDmgMod": "100%?",
+    "primarytype": "Pirates",
+    "race_id": "272",
+    "senseinvis": "?",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Lethal Lissy",
+    "isboss": "yes",
+    "behaviour": "Flees when low on [[Hp]].",
+    "location": "West of Eleonore's castle, near the Guild House \"The Ivy Cottage\".",
+    "iceDmgMod": "100%?",
+    "strategy": "Using an ultimate attack, or focusing SD's on Lethal Lissy is recomended to get the most experience and loot the addon item.",
+    "energyDmgMod": "100%?",
+    "deathDmgMod": "100%?"
+}

@@ -1,0 +1,96 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "It's part of the [[Feaster of Souls Quest]].",
+    "walksthrough": "?",
+    "hp": "24000",
+    "speed": "?",
+    "abilities": "{{Ability List| {{Melee|?}} }}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "fireDmgMod": "100%",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "?",
+    "pushable": "no",
+    "runsat": "0",
+    "cooldown": "20",
+    "implemented": "12.30.9287",
+    "loot": [
+        {
+            "itemName": "Skull Coin"
+        },
+        {
+            "amount": "8",
+            "itemName": "Platinum Coin"
+        },
+        {
+            "itemName": "Diamond"
+        },
+        {
+            "itemName": "Silver Hand Mirror"
+        },
+        {
+            "itemName": "White Gem"
+        },
+        {
+            "itemName": "Terra Rod"
+        },
+        {
+            "itemName": "Necklace of the Deep"
+        },
+        {
+            "itemName": "Wand of Starstorm"
+        },
+        {
+            "itemName": "Wand of Cosmic Energy"
+        },
+        {
+            "itemName": "Yellow Gem"
+        },
+        {
+            "itemName": "Red Gem"
+        },
+        {
+            "itemName": "Death Toll"
+        },
+        {
+            "itemName": "Pair of Nightmare Boots"
+        },
+        {
+            "itemName": "Glacial Rod"
+        },
+        {
+            "itemName": "Hailstorm Rod"
+        },
+        {
+            "itemName": "Springsprout Rod"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "18000",
+    "creatureclass": "The Undead",
+    "earthDmgMod": "100%",
+    "physicalDmgMod": "50%?",
+    "bosstiaryclass": "Archfoe",
+    "primarytype": "Ghosts",
+    "spawntype": [
+        "Triggered"
+    ],
+    "race_id": "1890",
+    "senseinvis": "yes",
+    "actualname": "Irgix the Flimsy",
+    "illusionable": "yes",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Irgix the Flimsy",
+    "isboss": "yes",
+    "location": "[[Netherworld]]",
+    "iceDmgMod": "110%",
+    "energyDmgMod": "0%",
+    "deathDmgMod": "0%"
+}

@@ -1,0 +1,103 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "None.",
+    "isarenaboss": "no",
+    "walksthrough": "Poison",
+    "hp": "850",
+    "abilities": "{{Ability List| {{Melee|0-120|poison=3}}|{{Ability|[[Death Hit]]|0-130?|element=death}}|{{Ability|[[Paralyze]]|element=paralyze}} }}",
+    "healMod": "100%",
+    "paraimmune": "?",
+    "holyDmgMod": "125%",
+    "maxdmg": "253?",
+    "pushable": "no",
+    "implemented": "9.10",
+    "loot": [
+        {
+            "amount": "0-160",
+            "itemName": "Gold Coin"
+        },
+        {
+            "itemName": "Flask of Embalming Fluid"
+        },
+        {
+            "itemName": "Gauze Bandage"
+        },
+        {
+            "itemName": "Magic Light Wand"
+        },
+        {
+            "amount": "0-3",
+            "itemName": "Scarab Coin"
+        },
+        {
+            "amount": "0-3",
+            "itemName": "Worm"
+        },
+        {
+            "itemName": "Pharaoh Banner",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Silver Brooch",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Strange Talisman",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Black Pearl",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Crystal Ring",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Poison Dagger",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Mini Mummy",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Fire, Energy",
+    "exp": "560",
+    "mitigation": "0.67",
+    "attacktype": "Melee",
+    "article": "an",
+    "actualname": "elder mummy",
+    "illusionable": "No",
+    "armor": "35",
+    "convince": "--",
+    "name": "Elder Mummy",
+    "isboss": "no",
+    "iceDmgMod": "80%",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "0%",
+    "status": "event",
+    "plural": "elder mummies",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Rare",
+    "speed": "85",
+    "pushobjects": "yes",
+    "fireDmgMod": "100%",
+    "sounds": [
+        ""
+    ],
+    "bestiaryclass": "Undead",
+    "creatureclass": "The Undead",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Undead Humanoids",
+    "race_id": "711",
+    "bestiarylevel": "Medium",
+    "senseinvis": "?",
+    "drownDmgMod": "100%?",
+    "behaviour": "Fights in close combat until death.",
+    "location": "[[Horestis Tomb]].",
+    "strategy": "Treat it like a [[Mummy]] with more hp and slightly stronger attacks."
+}

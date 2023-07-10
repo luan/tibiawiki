@@ -1,0 +1,276 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "{{JSpoiler|Ferumbras Mortal Shell is the last stage of Ferumbras during the [[Ferumbras' Ascendant Quest]].}}",
+    "walksthrough": "Fire, Energy, Poison",
+    "hp": "300000",
+    "speed": "?",
+    "abilities": "{{Ability List\n |{{Ability|Great Death Beam|1700-2000?|element=death}}\n |{{Healing|range=450-5500?}}\n |and more\n}}",
+    "pushobjects": "yes",
+    "healMod": "100%?",
+    "paraimmune": "yes",
+    "fireDmgMod": "35%",
+    "sounds": [
+        "INSECTS!",
+        "If you strike me down, I shall become more powerful than you could possibly imagine!",
+        "I' STILL POWERFUL ENOUGH TO CRUSH YOU!",
+        "I WILL MAKE ALL OF YOU SUFFER!",
+        "THE POWER WAS MINE!"
+    ],
+    "holyDmgMod": "35%",
+    "maxdmg": "2000?",
+    "pushable": "no",
+    "implemented": "10.90",
+    "cooldown": "336",
+    "loot": [
+        {
+            "amount": "100-200",
+            "itemName": "Gold Coin"
+        },
+        {
+            "amount": "10-25",
+            "itemName": "Platinum Coin"
+        },
+        {
+            "amount": "3",
+            "itemName": "Silver Token",
+            "rarity": "always"
+        },
+        {
+            "itemName": "Velvet Mantle"
+        },
+        {
+            "itemName": "Mastermind Shield"
+        },
+        {
+            "itemName": "Blue Gem"
+        },
+        {
+            "itemName": "Red Gem"
+        },
+        {
+            "itemName": "Green Gem"
+        },
+        {
+            "itemName": "Ferumbras' Amulet"
+        },
+        {
+            "itemName": "Scroll of Ascension"
+        },
+        {
+            "itemName": "Spellbook of Mind Control"
+        },
+        {
+            "itemName": "Spellbook of Lost Souls"
+        },
+        {
+            "itemName": "Glacier Kilt"
+        },
+        {
+            "itemName": "Lightning Legs"
+        },
+        {
+            "itemName": "Terra Legs"
+        },
+        {
+            "itemName": "Magma Legs"
+        },
+        {
+            "itemName": "Haunted Blade"
+        },
+        {
+            "itemName": "Abyss Hammer"
+        },
+        {
+            "itemName": "Berserker"
+        },
+        {
+            "itemName": "Havoc Blade"
+        },
+        {
+            "itemName": "Haunted Blade"
+        },
+        {
+            "itemName": "Bloody Edge"
+        },
+        {
+            "itemName": "Skullcrusher"
+        },
+        {
+            "itemName": "Chaos Mace"
+        },
+        {
+            "itemName": "Impaler"
+        },
+        {
+            "itemName": "Jade Hammer"
+        },
+        {
+            "itemName": "Demonrage Sword"
+        },
+        {
+            "itemName": "Shadow Sceptre"
+        },
+        {
+            "amount": "10",
+            "itemName": "Small Sapphire"
+        },
+        {
+            "amount": "10",
+            "itemName": "Small Amethyst"
+        },
+        {
+            "amount": "10",
+            "itemName": "Small Emerald"
+        },
+        {
+            "amount": "10",
+            "itemName": "Small Diamond"
+        },
+        {
+            "amount": "5",
+            "itemName": "White Pearl"
+        },
+        {
+            "itemName": "Rift Bow"
+        },
+        {
+            "itemName": "Rift Crossbow"
+        },
+        {
+            "itemName": "Rift Shield"
+        },
+        {
+            "itemName": "Rift Lamp"
+        },
+        {
+            "itemName": "Rift Lance"
+        },
+        {
+            "itemName": "Giant Shimmering Pearl"
+        },
+        {
+            "itemName": "Emerald Bangle"
+        },
+        {
+            "itemName": "Gold Ingot"
+        },
+        {
+            "itemName": "Soul Orb"
+        },
+        {
+            "itemName": "Golden Armor"
+        },
+        {
+            "itemName": "Golden Legs"
+        },
+        {
+            "itemName": "Runed Sword"
+        },
+        {
+            "itemName": "Boots of Homecoming"
+        },
+        {
+            "itemName": "Demonwing Axe"
+        },
+        {
+            "itemName": "Ferumbras' Mana Keg"
+        },
+        {
+            "itemName": "Spellscroll of Prophecies"
+        },
+        {
+            "itemName": "Ornamented Axe"
+        },
+        {
+            "itemName": "Divine Plate"
+        },
+        {
+            "itemName": "Greenwood Coat",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Great Shield",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Mysterious Scroll",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Ferumbras' Hat",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Ferumbras' Staff (Blunt)"
+        },
+        {
+            "itemName": "Black Pearl"
+        },
+        {
+            "itemName": "Rift Tapestry"
+        },
+        {
+            "itemName": "Small Topaz"
+        },
+        {
+            "itemName": "Phoenix Shield"
+        },
+        {
+            "itemName": "Queen's Sceptre"
+        },
+        {
+            "itemName": "Spellbook of Dark Mysteries"
+        },
+        {
+            "itemName": "Demon Shield"
+        },
+        {
+            "itemName": "Vile Axe"
+        },
+        {
+            "itemName": "Great Axe"
+        },
+        {
+            "itemName": "Magic Plate Armor"
+        },
+        {
+            "itemName": "Obsidian Truncheon"
+        },
+        {
+            "itemName": "Nightmare Blade"
+        },
+        {
+            "itemName": "Emerald Sword"
+        },
+        {
+            "itemName": "Folded Rift Carpet"
+        },
+        {
+            "itemName": "Hellforged Axe"
+        }
+    ],
+    "walksaround": "None",
+    "exp": "100000",
+    "creatureclass": "Humans",
+    "earthDmgMod": "35%",
+    "physicalDmgMod": "100%?",
+    "bosstiaryclass": "Nemesis",
+    "primarytype": "Sorcerers",
+    "race_id": "1206",
+    "senseinvis": "yes",
+    "actualname": "Ferumbras Mortal Shell",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Ferumbras Mortal Shell",
+    "isboss": "yes",
+    "behaviour": "Does not retarget very often.",
+    "location": "[[Halls of Ascension]].",
+    "iceDmgMod": "35%",
+    "strategy": "Lure it to the south-west corner of the room and them just keep attacking it. It's strong to most elements but takes considerable [[Physical Damage]]. See the [[Ferumbras' Ascension Quest|quest spoiler]] for a detailed strategy.\n[[File:Ferumbras Mortal Shell (TMA 2020)|left|250px]]",
+    "energyDmgMod": "35%",
+    "deathDmgMod": "35%"
+}

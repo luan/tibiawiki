@@ -1,0 +1,119 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "Dharalion",
+    "hpDrainDmgMod": "100%?",
+    "notes": "He is the [[boss]] of the [[Elves]]. Always spawns with at least 2 [[Elf Scout]]s and 1 [[Elf Arcanist]]. Looks the same as an [[Elf Arcanist]].",
+    "walksthrough": "?",
+    "hp": "380",
+    "speed": "?",
+    "abilities": "{{Ability List\n |{{Melee|0-30}}\n |{{Summon|Demon Skeleton|2}}\n |{{Ability|[[Sudden Death]]|80-151|element=death}}\n |{{Ability|[[Heavy Magic Missile]]|80-100|element=energy}}\n |{{Healing|range=90-120}}\n |{{Ability|[[Mana Drain]]|0-100|element=manadrain}}\n |{{Debuff2|Poison Strike|distance=yes|value=a lot|element=debuff}}\n |{{Haste}}\n}}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "100%",
+    "holyDmgMod": "110%",
+    "sounds": [
+        "Feel my wrath!",
+        "No one will stop my ascension!",
+        "My powers are divine!",
+        "You desecrated this temple!",
+        "Muahahaha!"
+    ],
+    "maxdmg": "280 (750 with 2 [[Demon Skeleton]]s)",
+    "pushable": "?",
+    "implemented": "7.5",
+    "loot": [
+        {
+            "itemName": "Holy Orchid",
+            "rarity": "always"
+        },
+        {
+            "amount": "0-100",
+            "itemName": "Gold Coin",
+            "rarity": "always"
+        },
+        {
+            "itemName": "Elvish Talisman"
+        },
+        {
+            "itemName": "Elven Astral Observer"
+        },
+        {
+            "itemName": "Yellow Gem"
+        },
+        {
+            "itemName": "Melon",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Blank Rune",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Elven Amulet",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Bread",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Great Mana Potion",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Life Crystal",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Cornucopia",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Sling Herb",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Green Tunic",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Bowl"
+        },
+        {
+            "itemName": "Candlestick"
+        },
+        {
+            "itemName": "Golden Goblet"
+        },
+        {
+            "itemName": "Royal Spear"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "570",
+    "creatureclass": "Humanoids",
+    "earthDmgMod": "100%",
+    "physicalDmgMod": "100%?",
+    "bosstiaryclass": "Nemesis",
+    "primarytype": "Elves",
+    "spawntype": [
+        "Raid"
+    ],
+    "race_id": "203",
+    "senseinvis": "yes",
+    "actualname": "Dharalion",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Dharalion",
+    "isboss": "yes",
+    "behaviour": "Dharalion fights until death.",
+    "location": "[[Shadowthorn]], the [[Time Ring Quest]] room. [[Image:Dharalion.jpg|thumb|238px]]",
+    "iceDmgMod": "100%?",
+    "strategy": "Just treat him like a strong Elf Arcanist. It's recommended to use  a [[Stealth Ring]] or the spell [[Invisible]] when fighting him, so his summons cannot see you.",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "100%?"
+}

@@ -1,0 +1,131 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "<gallery captionalign=\"center\" mode=\"nolines\">\nCursed Book Artwork.jpg|Official [[Creature Artwork]]\n</gallery>",
+    "walksthrough": "Fire, Poison",
+    "hp": "20000",
+    "abilities": "{{Ability List|}}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "holyDmgMod": "100%",
+    "maxdmg": "?",
+    "pushable": "no",
+    "implemented": "11.80.7048",
+    "loot": [
+        {
+            "amount": "1-3",
+            "itemName": "Book Page",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-10",
+            "itemName": "Platinum Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Silken Bookmark",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-7",
+            "itemName": "Small Diamond",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-?",
+            "itemName": "Small Topaz",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-?",
+            "itemName": "Small Stone",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Protection Amulet",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Terra Boots",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Diamond Sceptre",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Terra Hood",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Terra Legs",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Terra Amulet",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Stone Skin Amulet",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Sacred Tree Amulet",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Springsprout Rod",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Terra Mantle",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Swamplair Armor",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Energy",
+    "exp": "13345",
+    "mitigation": "2.16",
+    "attacktype": "Melee",
+    "history": "Its experience was decreased from 15,700 to 13,345 on [[Updates/12.31]].",
+    "article": "a",
+    "actualname": "cursed book",
+    "illusionable": "no",
+    "armor": "82",
+    "convince": "--",
+    "name": "Cursed Book",
+    "isboss": "no",
+    "iceDmgMod": "100%",
+    "energyDmgMod": "110%",
+    "deathDmgMod": "100%",
+    "plural": "cursed books",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Uncommon",
+    "bestiarytext": "Though some potent books can gain consciousness and sentience on their own, this fiendish creature is created by botched attempts to read them and harness their power. Sometimes wannabe magicians try their luck on spells way out of their league with typically dramatic consequences. Most such misfortunes lead to the untimely death of the vain caster in spectacular fashion, sometimes, however, it happens that some lesser demon is partly summoned and melts into the book containing the spell by absorbing the life force of the unfortunate reader. Such demon-book conglomerates can become enormously powerful by harnessing the knowledge contained in the book, demonic forces and whatever might be left of the casters memories and fractured soul. For their raw power and potential but also for their contained knowledge, such cursed books are hunted down by Zathroths librarians and bookkeepers and dragged away to some sinister place of forbidden knowledge. There they are trained, their skills honed and they become part of Zathroth's collection and serve as his guardian dogs to protect other secrets. Perhaps because of the way of their unwilling creation, cursed books feel nothing but spite, contempt and hatred against living beings. Sometimes they even plot to incite mortals to follow their own foolishness and use spells beyond their power. Whether they do so to create more of their kind or just to enjoy the misery of others can't be told for sure. Most of them just skip such subtlety and attack anything not allied to them or their masters with all of the raw power available to them.",
+    "speed": "220",
+    "pushobjects": "yes",
+    "fireDmgMod": "100%",
+    "sounds": [
+        ""
+    ],
+    "runsat": "0",
+    "bestiaryclass": "Magical",
+    "creatureclass": "Demons",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Possessed Objects",
+    "spawntype": [
+        "Regular"
+    ],
+    "race_id": "1655",
+    "bestiarylevel": "Hard",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "cursedbook",
+    "location": "[[Secret Library]] earth section.",
+    "strategy": "Unknown"
+}

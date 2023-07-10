@@ -1,0 +1,86 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "He's the boss of [[Warlock]]s. Spawns with 2 [[Warlock]]s.",
+    "walksthrough": "Fire",
+    "hp": "5100",
+    "speed": "?",
+    "abilities": "{{Ability List\n |{{Melee|0-130}}\n |{{Ability|shoots [[Burst Arrow]]s|0-250|element=fire}}\n |{{Ability|Creates Fire Fields|element=fire field\n  |scene={{Scene|spell=plusspelltarget|effect=Fire|caster=Zarabustor|missile=Fire Missile|missile_direction=south-east|missile_distance=2/2}}}}\n |{{Ability|[[Heavy Magic Missile]]|0-250|element=physical}}\n |{{Ability|[[Great Energy Beam]]|130-350|element=energy}}\n |{{Ability|Mana Drain|0-250?|element=manadrain}}\n |{{Ability|[[Paralysis]]|element=paralyze}}\n |{{Ability|[[Invisibility]]|element=invisible}}\n |{{Healing}}\n |{{Summon|Green Djinn|3}}\n}}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "yes",
+    "fireDmgMod": "0%",
+    "holyDmgMod": "101%>?",
+    "sounds": [
+        "Killing is such a splendid diversion from my studies.",
+        "Time to test my newest spells!",
+        "Ah, practice time once again!"
+    ],
+    "maxdmg": "{{Max Damage|physical=380|fire=260|energy=350|manadrain=250?}}",
+    "pushable": "?",
+    "implemented": "8.20",
+    "loot": [
+        {
+            "amount": "1-150",
+            "itemName": "Gold Coin"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Small Sapphire"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "Assassin Star"
+        },
+        {
+            "itemName": "Poison Dagger"
+        },
+        {
+            "itemName": "Blue Robe"
+        },
+        {
+            "itemName": "Might Ring"
+        },
+        {
+            "itemName": "Skull Staff"
+        },
+        {
+            "itemName": "Golden Armor"
+        },
+        {
+            "itemName": "Lightning Legs"
+        },
+        {
+            "itemName": "Lightning Robe"
+        },
+        {
+            "itemName": "Spellbook of Mind Control"
+        },
+        {
+            "itemName": "Ring of the Sky"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "8000",
+    "creatureclass": "Humans",
+    "earthDmgMod": "10%?",
+    "physicalDmgMod": "101%>?",
+    "bosstiaryclass": "Nemesis",
+    "primarytype": "Sorcerers",
+    "race_id": "421",
+    "history": "He was first killed on Nova, a few hours after [[Updates/8.2|Summer Update 2008]] was launched.",
+    "senseinvis": "yes",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Zarabustor",
+    "isboss": "yes",
+    "behaviour": "Zarabustor behaves same as a normal [[Warlock]].",
+    "location": "[[Demona]], in the room Northeast of the pentagram room, {{Mapper Coords|126.253|123.107|14|2|text=here}}.",
+    "iceDmgMod": "0%",
+    "strategy": "Trap him in the corner and kill him like a [[Warlock]].",
+    "energyDmgMod": "0%",
+    "deathDmgMod": "100%?"
+}

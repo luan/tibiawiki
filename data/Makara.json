@@ -1,0 +1,103 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "makaras",
+    "hpDrainDmgMod": "100%?",
+    "notes": "<gallery captionalign=\"center\" mode=\"nolines\">\nMakara Artwork.jpg|Official [[Creature Artwork]]\n</gallery>",
+    "walksthrough": "Fire",
+    "hp": "5050",
+    "usespells": "Yes",
+    "occurrence": "Common",
+    "bestiarytext": "Makara are quite unusual amphibious creatures native to the waters of Marapur. They look like a cross between a hippopotamus and a seahorse, but are clearly comparable to the former in size. In earlier times, the makara were often domesticated by the nagas to serve as pack and working animals. However, when the nagas discovered that the giant beavers native to Marapur were easier to tame and less costly to care for and feed, they turned away from domesticating makara. So nowadays, most makara can be found living in the wild. However, they seldom come to the surface, mostly they stay under water, often in already sunken naga ruins.",
+    "speed": "175",
+    "abilities": "{{Ability List\n |{{Melee|0-361}}\n |{{Ability|Ice strike|320|element=ice}}\n |{{Ability|Stone Bomb|270-315|element=physical}}\n |{{Ability|Splash Wave|282-758|element=ice}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "fireDmgMod": "95%",
+    "holyDmgMod": "100%",
+    "sounds": [
+        "waddle waddle"
+    ],
+    "implemented": "12.90.12182",
+    "bestiaryclass": "Amphibic",
+    "loot": [
+        {
+            "amount": "1-13",
+            "itemName": "Platinum Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Meat",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Makara Fin",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Makara Tongue",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Rainbow Quartz",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Green Crystal Fragment",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Yellow Gem",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Green Crystal Shard",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Cyan Crystal Fragment",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Blue Gem",
+            "rarity": "semi-rare"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "Small Diamond",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Sea Horse Figurine",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Poison, Energy",
+    "exp": "5720",
+    "creatureclass": "Amphibians",
+    "earthDmgMod": "115%",
+    "mitigation": "1.99",
+    "physicalDmgMod": "110%",
+    "spawntype": [
+        "Regular",
+        "Unblockable"
+    ],
+    "attacktype": "Melee",
+    "race_id": "2262",
+    "bestiarylevel": "Hard",
+    "senseinvis": "yes",
+    "article": "a",
+    "actualname": "makara",
+    "illusionable": "no",
+    "armor": "74",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "bestiaryname": "makara",
+    "name": "Makara",
+    "isboss": "no",
+    "location": "[[Temple of the Moon Goddess]].",
+    "iceDmgMod": "75%",
+    "energyDmgMod": "115%",
+    "deathDmgMod": "105%"
+}

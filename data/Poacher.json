@@ -1,0 +1,92 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "New creature in the [[Updates/8.1|Winter Update 2007]].",
+    "walksthrough": "None",
+    "hp": "90",
+    "abilities": "{{Ability List\n |{{Melee|0-35}}\n |{{Ability|Shoot [[Arrow]]|0-35|element=physical\n  |scene={{Scene|spell=5sqmstrike|background=canvas|caster=Poacher|look_direction=south|missile=Arrow Missile|missile_direction=south-east|missile_distance=5/5}}}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "holyDmgMod": "100%",
+    "maxdmg": "{{Max Damage|physical=70}}",
+    "pushable": "No",
+    "usedelements": "Physical",
+    "implemented": "8.10",
+    "loot": [
+        {
+            "itemName": "Leather Helmet",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-18",
+            "itemName": "Arrow",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Leather Legs",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Bow",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Roll",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Torch",
+            "rarity": "semi-rare"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "Poison Arrow",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Closed Trap",
+            "rarity": "rare"
+        }
+    ],
+    "walksaround": "Fire, Energy, Poison",
+    "exp": "70",
+    "mitigation": "0.33",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "poacher",
+    "illusionable": "yes",
+    "armor": "10",
+    "convince": "530",
+    "name": "Poacher",
+    "isboss": "no",
+    "iceDmgMod": "100%",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "100%",
+    "plural": "poachers",
+    "hpDrainDmgMod": "100%",
+    "usespells": "no",
+    "occurrence": "Common",
+    "bestiarytext": "Several criminals and outcasts of society hide in the wilderness to live on roots, mushrooms, animals and everything else which is somehow edible. Those who survive the first hard months eventually become quite skilled Poachers. Making little difference between animals and humans, they see anything as fitting prey which they manage to kill. Some of them work as pathfinders and trackers for some bandits, others gather in small hunting packs just like wild animals. Again others are loners - close to insanity who turn into beings that the locals call 'wild men'. Poachers can be found almost everywhere. They hunt deer and wolfs in the woods as well as rats and insects in caves. Knowing that travellers posses useful equipment and money, they don't even shrink away from murder and thievery. Poachers have little to lose and often disregard their own safety. Hoping for a lucky shot, they even attack much stronger opponents. Poachers are most dangerous when the victims are taken by surprise while being on a hunting trip. It almost seems as if they could smell the blood of a wounded adventurer as they tend to appear when someone is in a fierce fight with some wild beast. Travelling adventurers are well advised to have some backup healing material available while passing a territory known for Poacher activity.",
+    "speed": "99",
+    "pushobjects": "Yes",
+    "fireDmgMod": "100%",
+    "sounds": [
+        "You will not live to tell anyone!",
+        "You are my game today!",
+        "Look what has stepped into my trap!"
+    ],
+    "bestiaryclass": "Human",
+    "creatureclass": "Humans",
+    "earthDmgMod": "100%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Outlaws",
+    "race_id": "376",
+    "bestiarylevel": "Easy",
+    "senseinvis": "no",
+    "drownDmgMod": "100%",
+    "bestiaryname": "poacher",
+    "behaviour": "They shoot arrows while approaching you, and will use melee once they get close enough. They run in deep red [[hitpoints|health]].",
+    "location": "South of [[Elvenbane]] and [[Ab'Dendriel]], [[Ferngrims Gate]], Northeast of [[Carlin]], [[Edron]] [[Hunter]] Camps, [[Yalahar]] - [[Trade Quarter]] and [[Foreigner Quarter]].",
+    "strategy": "Treat them as a weak [[hunter]]."
+}

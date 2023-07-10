@@ -1,0 +1,96 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "If you fall in a trap, you may take alot of damage from these as well as the other creatures that fall down. A plate set should be enough to armor block its attacks.",
+    "walksthrough": "Poison",
+    "hp": "85",
+    "abilities": "{{Ability List\n |{{Melee|0-25|poison=1}}\n |{{Ability|Throws [[Throwing Knives]]|0-15|element=physical}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "holyDmgMod": "100%",
+    "maxdmg": "41",
+    "pushable": "yes",
+    "usedelements": "Physical > Earth",
+    "implemented": "7.5",
+    "loot": [
+        {
+            "amount": "0-13",
+            "itemName": "Gold Coin"
+        },
+        {
+            "itemName": "Leather Armor"
+        },
+        {
+            "itemName": "Cleaver"
+        },
+        {
+            "itemName": "Torch"
+        },
+        {
+            "amount": "0-3",
+            "itemName": "Skull (Item)",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Poison Dagger",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Hunting Spear",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Bone Shield",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Tribal Mask",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Ripper Lance",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Fire, Energy",
+    "exp": "40",
+    "mitigation": "0.20",
+    "attacktype": "Melee",
+    "history": "As of November 16, 2011, Dworc Fleshhunters as well as other poison-causing creatures can no longer be convinced. This was to prevent PvP abuse whereby a player would trick another player into convincing creatures that would later frag low level characters with poison applied earlier. After enough kills the player would obtain a [[Red Skull]] and would lose all items belonging to them upon being killed. More can be read in the news article \"{{OfficialNewsArchive|1894|Content Fixes}}\".",
+    "article": "a",
+    "actualname": "dworc fleshhunter",
+    "illusionable": "yes",
+    "armor": "3",
+    "convince": "--",
+    "name": "Dworc Fleshhunter",
+    "isboss": "no",
+    "iceDmgMod": "110%",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "113%",
+    "plural": "dworc fleshhunters",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "no",
+    "occurrence": "Common",
+    "bestiarytext": "The most common members of the orcish subspecies known as dworcs (which are rumoured to be a hybrid of orcs and dwarfs) are known as Dworc Fleshhunters. The name is referring to the cannibalistic habits of this disgusting race. Dworc Fleshhunters serve as scouts, and in battles they form the shock troops of the dworcish tribes. With long lance-like weapons, they try to slow down their enemies while other dworcs attack from a safe distance. Like all dworcs, the constant exposure to poison has made them immune to all toxic effects, and like all dworcs they like to apply some sort of poison on their weaponry. Without their allies their fighting abilities to delay and to distract their enemy becomes almost worthless, and so they pose only a little threat to a seasoned fighter.",
+    "speed": "74",
+    "pushobjects": "?",
+    "fireDmgMod": "108%",
+    "sounds": [
+        "Grow truk grrrrr.",
+        "Brak brrretz!",
+        "Prek tars, dekklep zurk."
+    ],
+    "bestiaryclass": "Humanoid",
+    "creatureclass": "Humanoids",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Dworcs",
+    "race_id": "215",
+    "bestiarylevel": "Easy",
+    "senseinvis": "no",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "dworcfleshhunter",
+    "behaviour": "Dworc Fleshhunters run when in dark red health.",
+    "location": "South of [[Port Hope]] ([[Trapwood]]) on ground level and underground.",
+    "strategy": "You may want to kill them before going for the [[Dworc Voodoomaster]]s as they might block your way."
+}

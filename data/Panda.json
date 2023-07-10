@@ -1,0 +1,70 @@
+{
+    "summon": "300",
+    "templateType": "Creature",
+    "notes": "Pandas are an endangered species, they can only be found in small numbers in [[Tiquanda]]. Can be tamed using [[Bamboo Leaves]].",
+    "walksthrough": "Poison",
+    "hp": "80",
+    "abilities": "{{Ability List|{{Melee|0-16}}}}",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "holyDmgMod": "100%",
+    "maxdmg": "{{Max Damage|physical=16}}",
+    "pushable": "?",
+    "usedelements": "Physical",
+    "implemented": "7.5",
+    "loot": [
+        {
+            "amount": "1-4",
+            "itemName": "Meat",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Ham",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Bamboo Stick",
+            "rarity": "uncommon"
+        }
+    ],
+    "walksaround": "Fire, Energy",
+    "exp": "23",
+    "mitigation": "0.20",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "panda",
+    "illusionable": "yes",
+    "armor": "8",
+    "convince": "300",
+    "name": "Panda",
+    "isboss": "no",
+    "iceDmgMod": "100%",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "100%",
+    "plural": "pandas",
+    "hpDrainDmgMod": "100%",
+    "usespells": "no",
+    "occurrence": "Common",
+    "bestiarytext": "The cute looks of the Panda is misleading. Above all, the Panda is a bear and as such short-tempered and fast in its attacks. It is just as strong as other bears, and the only major difference to its conspecifics is its habitat. Panda bears that were caught and shipped to Thais died quickly and even though magic was used, no Panda survived more than a week away from its home. It is found most often in the southern regions of Tiquanda. Considering that they share their territory with the vile dworcs and other savage creatures, it is quite obvious that they are fierce fighters.",
+    "speed": "78",
+    "pushobjects": "?",
+    "fireDmgMod": "110%",
+    "sounds": [
+        "Groar",
+        "Grrrr"
+    ],
+    "bestiaryclass": "Mammal",
+    "creatureclass": "Mammals",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Bears",
+    "race_id": "123",
+    "bestiarylevel": "Easy",
+    "senseinvis": "no",
+    "drownDmgMod": "100%",
+    "bestiaryname": "panda",
+    "behaviour": "They run at low hitpoints.",
+    "location": "South of [[Port Hope]] around [[Trapwood]], as well as a lone specimen in the [[Arena Quarter]].",
+    "strategy": "Just attack them."
+}

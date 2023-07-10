@@ -1,0 +1,78 @@
+{
+    "summon": "300",
+    "templateType": "Creature",
+    "notes": "Part of [[Orcsoberfest]] World Quest.",
+    "walksthrough": "None",
+    "hp": "700",
+    "abilities": "{{Ability List| {{Melee|0-60+}}|{{Ability|Earth Smoke Ball on herself|0-135+|element=earth}}|{{Haste}} }}",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "holyDmgMod": "90%",
+    "maxdmg": "195",
+    "pushable": "Yes",
+    "usedelements": "Physical, Earth",
+    "implemented": "12.20.9066",
+    "loot": [
+        {
+            "amount": "1-22",
+            "itemName": "Meat",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Veal",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Meat Hammer",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Milk Churn",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Cow Bell",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Fire, Poison, Energy",
+    "exp": "400",
+    "mitigation": "0.78",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "cow",
+    "illusionable": "yes",
+    "armor": "28",
+    "convince": "--",
+    "name": "Cow",
+    "isboss": "no",
+    "iceDmgMod": "100%",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "110%",
+    "status": "event",
+    "plural": "cows",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Rare",
+    "speed": "95",
+    "pushobjects": "No",
+    "fireDmgMod": "100%",
+    "sounds": [
+        ""
+    ],
+    "runsat": "15",
+    "bestiaryclass": "Mammal",
+    "creatureclass": "Mammals",
+    "earthDmgMod": "110%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Ungulates",
+    "spawntype": [
+        "Regular",
+        "Unblockable"
+    ],
+    "race_id": "1856",
+    "bestiarylevel": "Medium",
+    "senseinvis": "Yes",
+    "drownDmgMod": "100%?",
+    "location": "[[Orcsoberfest Island]]."
+}

@@ -1,0 +1,75 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "These monsters spawn with less than 100% hp, showing their masochistic natures.",
+    "walksthrough": "Poison",
+    "hp": "2800",
+    "abilities": "{{Ability List| {{Melee|0-200|element=physical}}|{{Ability|[[Glooth Spear]]|50-350; 3 sqm radius|element=?}}|{{Ability|Poison Ball on itself|[[Life Drain]]; 50-300; 4 sqm radius|element=lifedrain}}|{{Ability|[[Physical Damage|Green Sparkles Berserk]]|50-200}} }}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "holyDmgMod": "100%",
+    "maxdmg": "1000",
+    "pushable": "no",
+    "implemented": "11.40.5409",
+    "loot": [
+        {
+            "amount": "0-98",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Fig Leaf",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Bed of Nails",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Torn Shirt",
+            "rarity": "rare"
+        }
+    ],
+    "walksaround": "Fire, Energy",
+    "exp": "2200",
+    "mitigation": "0.78",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "barkless devotee",
+    "illusionable": "no",
+    "armor": "30",
+    "convince": "--",
+    "name": "Barkless Devotee",
+    "isboss": "no",
+    "iceDmgMod": "85%",
+    "energyDmgMod": "83%",
+    "deathDmgMod": "85%",
+    "plural": "barkless devotees",
+    "hpDrainDmgMod": "100%",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "Barkless devotees are the backbone of the Barkless. They feel rejected from the world and its inhabitants. All devotees strife to live a life of hardship and suffering, full of hope that the afterlife rewards those who embraced pain and misery.",
+    "speed": "150",
+    "pushobjects": "yes",
+    "fireDmgMod": "90%",
+    "sounds": [
+        ""
+    ],
+    "runsat": "0",
+    "bestiaryclass": "Humanoid",
+    "creatureclass": "Humanoids",
+    "earthDmgMod": "100%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Elves",
+    "spawntype": [
+        "Regular"
+    ],
+    "race_id": "1486",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%",
+    "bestiaryname": "barklessdevotee",
+    "behaviour": "Fights in close combat.",
+    "location": "[[Barkless Cult Trial Zone]] (below [[Ab'Dendriel]])",
+    "strategy": "If you're lower than level 120 be careful, because they come in packs and can deal strong combos. Try not to face more than 2 or they will send you to temple.\n-Paladins and Mages lower than 120 should avoid getting close to the blocker that's recommended to use one at that level, since their spear hits a wide range around the target and is used very often. Fire Bombs and Walls can come in handy to keep them away. At level 130+ can solo these creatures 2 by 2, and at 150+ you could hunt them with no problem, but be careful not to get trapped, always carry fire runes for emergency or precaution.\n-Knights lower than level 130 should avoid to face more than 2 at a time. It's recommended level 150+ and skills 95/95 to hunt them without problems. Get some ultimate health potions with you and try to kill them fast using berserk and fierce berserk."
+}

@@ -1,0 +1,130 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "It's the [[Monk]]s' Boss.",
+    "walksthrough": "?",
+    "hp": "400",
+    "speed": "?",
+    "abilities": "{{Ability List|{{Melee|0-50+}}|{{Ability|Divine Missile|65-180+|holy}}|{{Healing|Fast [[Self-Healing]]|10-200}}|{{Summon|War Wolf|3}}|{{Outfit|no|War Wolf}}|{{Ability|Mana Drain|20-45+|manadrain}}}}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "secondarytype": "Shapeshifters",
+    "fireDmgMod": "100%?",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        "You desacrated this place!",
+        "Yoooohuuuu!",
+        "I will cleanse this isle!",
+        "Grrrrrrr"
+    ],
+    "maxdmg": "{{Max Damage|physical=50|holy=180|manadrain=45|summons=150}}",
+    "pushable": "?",
+    "implemented": "7.5",
+    "loot": [
+        {
+            "amount": "0-94",
+            "itemName": "Gold Coin"
+        },
+        {
+            "amount": "0-3",
+            "itemName": "Platinum Coin"
+        },
+        {
+            "itemName": "Strong Mana Potion"
+        },
+        {
+            "itemName": "Sandals"
+        },
+        {
+            "itemName": "Brown Flask"
+        },
+        {
+            "itemName": "Bowl"
+        },
+        {
+            "itemName": "Bread"
+        },
+        {
+            "itemName": "Scroll"
+        },
+        {
+            "itemName": "Sling Herb"
+        },
+        {
+            "itemName": "Star Herb"
+        },
+        {
+            "itemName": "Grave Flower"
+        },
+        {
+            "itemName": "Plate"
+        },
+        {
+            "itemName": "Lamp"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "Staff"
+        },
+        {
+            "itemName": "Blank Rune"
+        },
+        {
+            "itemName": "Ankh"
+        },
+        {
+            "itemName": "Safety Pin"
+        },
+        {
+            "itemName": "Rope Belt"
+        },
+        {
+            "itemName": "Life Crystal"
+        },
+        {
+            "itemName": "Power Ring"
+        },
+        {
+            "itemName": "Wolf Tooth Chain"
+        },
+        {
+            "itemName": "Dirty Fur"
+        },
+        {
+            "itemName": "Green Tunic"
+        },
+        {
+            "itemName": "Yellow Gem"
+        },
+        {
+            "itemName": "Wooden Whistle",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Book of Prayers",
+            "rarity": "always"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "600",
+    "creatureclass": "Humans",
+    "earthDmgMod": "50%",
+    "physicalDmgMod": "100%?",
+    "primarytype": "Monks",
+    "race_id": "206",
+    "senseinvis": "yes",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Fernfang",
+    "isboss": "yes",
+    "behaviour": "Fernfang fights until death. He tries to keep away from players with his high speed \"similar to a level 70\" spamming [[Exori San]]. He retargets to the nearest player or summon.",
+    "location": "[[Isle of Mists]]. Fernfang and 2 to 4 [[War Wolf|War Wolves]] spawn on the second floor and 4 to 6 [[War Wolf|War Wolves]] spawn in the first floor.",
+    "iceDmgMod": "30%?",
+    "strategy": "Since it can only be fought by [[druid]]s, simply use area runes to kill all the war wolves that spawn with him, then [[SD]] him to death. The best strategy for low levels is go to the first floor, kill the War wolves down there, then jump up and down and use runes or making summonds to distract him, if you are higher leveled, corner him with the war wolves he summons and use [[Flame Strike]] and [[Underworld Rod]].",
+    "energyDmgMod": "100%?",
+    "deathDmgMod": "100%?"
+}

@@ -1,0 +1,127 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "walksthrough": "Energy",
+    "hp": "4500",
+    "usespells": "yes",
+    "abilities": "{{Ability List\n |{{Melee|0-217+}}\n |{{Ability|Mana Drain Spark Beam|313-345|element=mana drain\n  |scene={{Scene|spell=6sqmbeam|caster=The Moonlight Aster|look_direction=east|effect=Sparks Effect|damage_effect=Red Sparkles Effect}}}}\n |{{Ability|Cursed Ball||element=cursed\n  |scene={{Scene|spell=3sqmballtarget|caster=The Moonlight Aster|effect=Cloud Effect|missile=Onyx Arrow Missile|missile_direction=south-east|missile_distance=3/3}}}}\n |{{Ability|Wave|maybe cursed?|element=?}}\n |{{Debuff2|melee=yes|shielding=yes|value=20-27%|duration=7\n  |scene={{Scene|spell=5sqmstrike|caster=The Moonlight Aster|effect=Red Sparkles Effect|missile=Death Missile|missile_direction=south-east|missile_distance=5/5}}}}\n |{{Ability|Paralyzing Black Cloud|Reduces 335 Speed Points|element=paralyze\n  |scene={{Scene|spell=2sqmballself|caster=The Moonlight Aster|effect=Black Smoke Effect|effect_on_caster=yes}}}}\n |{{Ability|Ring Attack||element=?\n  |scene={{Scene|spell=4sqmring2|caster=The Moonlight Aster|effect=Death Effect}}}}\n |{{Ability|Invisible||element=invisible\n  |scene={{Scene|spell=buffspell|effect=Teleport Effect|caster=The Moonlight Aster|effect_on_caster=yes}}}}\n |{{Healing|range=381-426\n  |scene={{Scene|spell=buffspell|effect=Blue Sparkles Effect|caster=The Moonlight Aster|effect_on_caster=yes}}}}\n}}",
+    "pushobjects": "yes",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "90%",
+    "holyDmgMod": "100%?",
+    "sounds": [],
+    "maxdmg": "0",
+    "pushable": "no",
+    "runsat": "0",
+    "cooldown": "20",
+    "implemented": "12.90.12182",
+    "loot": [
+        {
+            "itemName": "Skullcracker Armor"
+        },
+        {
+            "itemName": "Platinum Coin"
+        },
+        {
+            "itemName": "Small Sapphire"
+        },
+        {
+            "itemName": "Blue Crystal Shard"
+        },
+        {
+            "itemName": "Gold Ingot"
+        },
+        {
+            "itemName": "Yellow Gem"
+        },
+        {
+            "itemName": "Gold Coin"
+        },
+        {
+            "itemName": "Peacock Feather Fan"
+        },
+        {
+            "itemName": "Ultimate Health Potion"
+        },
+        {
+            "itemName": "Demonic Essence"
+        },
+        {
+            "itemName": "Silver Brooch"
+        },
+        {
+            "itemName": "Golden Lotus Brooch"
+        },
+        {
+            "itemName": "Flask of Demonic Blood"
+        },
+        {
+            "itemName": "Necrotic Rod"
+        },
+        {
+            "itemName": "Great Mana Potion"
+        },
+        {
+            "itemName": "Moonlight Rod"
+        },
+        {
+            "itemName": "Peacock Feather"
+        },
+        {
+            "itemName": "Tribal Mask"
+        },
+        {
+            "itemName": "Silver Amulet"
+        },
+        {
+            "itemName": "Oriental Shoes"
+        },
+        {
+            "itemName": "Great Spirit Potion"
+        },
+        {
+            "itemName": "Blue Gem"
+        },
+        {
+            "itemName": "Blue Robe"
+        },
+        {
+            "itemName": "Wand of Cosmic Energy"
+        },
+        {
+            "itemName": "Black Pearl"
+        },
+        {
+            "itemName": "White Gem"
+        },
+        {
+            "itemName": "Spellbook of Mind Control"
+        }
+    ],
+    "walksaround": "Fire, Poison",
+    "exp": "9250",
+    "creatureclass": "Demons",
+    "earthDmgMod": "110%",
+    "physicalDmgMod": "100%?",
+    "bosstiaryclass": "Archfoe",
+    "primarytype": "Asuri",
+    "spawntype": [
+        "Triggered"
+    ],
+    "attacktype": "Melee",
+    "race_id": "2236",
+    "senseinvis": "no",
+    "actualname": "The Moonlight Aster",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "The Moonlight Aster",
+    "isboss": "yes",
+    "location": "[[Asura Palace]]",
+    "iceDmgMod": "85%",
+    "energyDmgMod": "110%",
+    "deathDmgMod": "0%"
+}

@@ -1,0 +1,92 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "One of the oldest rare-spawning bosses. Also known as the [[Stone Golem]]'s boss, although Grorlam has never been found in the vicinity of any nor does summon them.",
+    "walksthrough": "Poison",
+    "hp": "3000",
+    "speed": "?",
+    "abilities": "{{Ability List|{{Melee|0-300+}}|{{Ability|Throws [[Stone (Medium)|boulder]]s|0-200+}}|{{Healing|range=very often}}|{{Haste|Strong Haste}}}}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "yes",
+    "fireDmgMod": "110%?",
+    "holyDmgMod": "80%?",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "{{Max Damage|physical=500+}}",
+    "pushable": "?",
+    "implemented": "7.5",
+    "loot": [
+        {
+            "itemName": "Shiny Stone",
+            "rarity": "always"
+        },
+        {
+            "amount": "0-100",
+            "itemName": "Gold Coin"
+        },
+        {
+            "amount": "0-6",
+            "itemName": "Platinum Coin"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "Small Amethyst"
+        },
+        {
+            "amount": "0-20",
+            "itemName": "Small Stone"
+        },
+        {
+            "itemName": "Sulphurous Stone"
+        },
+        {
+            "itemName": "Red Gem"
+        },
+        {
+            "itemName": "Steel Shield"
+        },
+        {
+            "itemName": "Power Ring"
+        },
+        {
+            "itemName": "Iron Ore"
+        },
+        {
+            "itemName": "Scale Armor"
+        },
+        {
+            "itemName": "Crystal Ring"
+        },
+        {
+            "itemName": "Carlin Sword"
+        },
+        {
+            "itemName": "Steel Boots",
+            "rarity": "rare"
+        }
+    ],
+    "walksaround": "Energy, Fire",
+    "exp": "2400",
+    "creatureclass": "Elementals",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "70%?",
+    "bosstiaryclass": "Nemesis",
+    "primarytype": "Geo-Elementals",
+    "race_id": "205",
+    "senseinvis": "yes",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Grorlam",
+    "isboss": "yes",
+    "behaviour": "Fights until death and rarely [[retarget]]s.",
+    "location": "Deep in [[Mount Sternum Undead Cave|Mount Sternum/Undead Cave]], in an {{Mapper Coords|126.124|125.66|12|2|text=empty cave}} that is located under some [[Cave Rat]]s (can also be reached through [[Ancient Temple]]), in the {{Mapper Coords|126.163|125.0|15|2|text=cave}} down after the [[Giant Spider]], in the [[Dragon]]'s spawn, in an unreachable 2 sqm area with some tombs at the undead area, and possibly other places under [[Mount Sternum]]. A [[Pick]] is needed to enter these caves. He might also spawn on fourth and fifth floor of the undead cave.",
+    "iceDmgMod": "100%?",
+    "strategy": "Since the [[Updates/8.1|Christmas Update 2007]], Grorlam can see [[invisible]] players and is stronger against physical attacks. Death damage, fire and possible ice damage do well against it.",
+    "energyDmgMod": "80%",
+    "deathDmgMod": "101%>?"
+}

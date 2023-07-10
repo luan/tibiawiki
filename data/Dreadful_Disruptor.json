@@ -1,0 +1,111 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "Dreadful Disruptors",
+    "hpDrainDmgMod": "100%?",
+    "notes": "'''Dreadful Disruptor''' sighted and killed on [[Descubra]].\n\n[[File:Dreadful Disruptor.JPG|left]].",
+    "walksthrough": "?",
+    "hp": "10000?",
+    "speed": "?",
+    "abilities": "{{Ability List| {{Melee|?}}|{{Healing}} }}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "secondarytype": "Electro-Elementals",
+    "fireDmgMod": "75%",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "?",
+    "pushable": "no",
+    "implemented": "10.94",
+    "loot": [
+        {
+            "itemName": "Ring of Red Plasma"
+        },
+        {
+            "itemName": "Ring of Green Plasma"
+        },
+        {
+            "itemName": "Collar of Red Plasma"
+        },
+        {
+            "itemName": "Collar of Blue Plasma"
+        },
+        {
+            "itemName": "Collar of Green Plasma"
+        },
+        {
+            "itemName": "Platinum Coin"
+        },
+        {
+            "itemName": "Energy Vein"
+        },
+        {
+            "itemName": "Plasmatic Lightning"
+        },
+        {
+            "itemName": "Plasma Pearls"
+        },
+        {
+            "itemName": "Dangerous Proto Matter"
+        },
+        {
+            "itemName": "Great Health Potion"
+        },
+        {
+            "itemName": "Energy Drink"
+        },
+        {
+            "itemName": "Gold Coin"
+        },
+        {
+            "itemName": "Energy Bar"
+        },
+        {
+            "itemName": "Red Crystal Fragment"
+        },
+        {
+            "itemName": "Blue Crystal Shard"
+        },
+        {
+            "itemName": "Wand of Starstorm"
+        },
+        {
+            "itemName": "Great Mana Potion"
+        },
+        {
+            "itemName": "Great Spirit Potion"
+        },
+        {
+            "itemName": "Ring of Blue Plasma"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "14000",
+    "creatureclass": "Invertebrates",
+    "earthDmgMod": "90%",
+    "physicalDmgMod": "90%",
+    "bosstiaryclass": "Nemesis",
+    "primarytype": "Cnidarians",
+    "spawntype": [
+        "Raid",
+        "Unique",
+        "Unblockable"
+    ],
+    "race_id": "1279",
+    "senseinvis": "?",
+    "actualname": "Dreadful Disruptor",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Dreadful Disruptor",
+    "isboss": "yes",
+    "behaviour": "Fights in close combat.",
+    "location": "[[Otherworld (Edron)]]. Shares a [[Varying Monster Spawn]] with a [[Stabilizing Dread Intruder]], {{Mapper Coords|125.35|122.141|11|8|text=here}}. The respawn rate is 4 to 5 minutes, and is not affected by [[Rapid Respawn Events|Rapid Respawn]]. The chance for the boss to spawn seems to be around 1 in 50 to 1 in 100.",
+    "iceDmgMod": "75%",
+    "energyDmgMod": "20%?",
+    "deathDmgMod": "85%"
+}

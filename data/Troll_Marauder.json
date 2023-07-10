@@ -1,0 +1,87 @@
+{
+    "summon": "350",
+    "templateType": "Creature",
+    "plural": "troll marauders",
+    "hpDrainDmgMod": "100%?",
+    "notes": "It's a considerably stronger and much rarer [[Mountain Troll]].",
+    "walksthrough": "?",
+    "hp": "70",
+    "speed": "?",
+    "abilities": "{{Ability List|{{Melee|0-29?}}}}",
+    "pushobjects": "no",
+    "healMod": "100%?",
+    "paraimmune": "no",
+    "fireDmgMod": "90%",
+    "holyDmgMod": "90%",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "{{Max Damage|physical=29?}}",
+    "pushable": "yes",
+    "usedelements": "Physical",
+    "runsat": "15",
+    "implemented": "10.55",
+    "loot": [
+        {
+            "amount": "1-8",
+            "itemName": "Gold Coin"
+        },
+        {
+            "itemName": "Spear"
+        },
+        {
+            "itemName": "Meat",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Wooden Shield",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Studded Club",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Studded Armor",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Leather Boots",
+            "rarity": "semi-rare"
+        },
+        {
+            "amount": "0-6",
+            "itemName": "Simple Arrow",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Silver Amulet",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Fire,Energy,Poison",
+    "exp": "40",
+    "creatureclass": "Humanoids",
+    "earthDmgMod": "100%",
+    "physicalDmgMod": "115%",
+    "primarytype": "Trolls",
+    "spawntype": [
+        "Regular",
+        "Unblockable"
+    ],
+    "race_id": "1083",
+    "senseinvis": "no",
+    "article": "a",
+    "actualname": "troll marauder",
+    "illusionable": "yes",
+    "armor": "8",
+    "drownDmgMod": "100%?",
+    "convince": "350",
+    "name": "Troll Marauder",
+    "isboss": "no",
+    "location": "[[Dawnport]] (~6% chance, {{Mapper Coords|125.43|124.46|10|8|text=here}}).",
+    "iceDmgMod": "90%",
+    "strategy": "Unknown",
+    "energyDmgMod": "90%",
+    "deathDmgMod": "110%"
+}

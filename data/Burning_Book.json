@@ -1,0 +1,123 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "walksthrough": "Energy, Fire, Poison",
+    "hp": "18000",
+    "abilities": "{{Ability List\n |{{Melee|0-600}}\n |{{Ability|Flame Strike|700-950|fire}}\n |{{Ability|Sparkles Beam|700-850|fire|scene={{Scene|spell=5sqmbeam|caster=Burning Book|effect=Red Sparkles Effect|look_direction=east|background=slate_floor}}}}\n |{{Ability|Explosion Berserk|650-900|fire|scene={{Scene|spell=3x3spell|caster=Burning Book|effect=Explosion Effect|background=slate_floor}}}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "holyDmgMod": "100%",
+    "maxdmg": "{{Max Damage|fire=1850|physical=600}}",
+    "pushable": "no",
+    "usedelements": "Fire",
+    "implemented": "11.80.7048",
+    "loot": [
+        {
+            "amount": "1-35",
+            "itemName": "Platinum Coin",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-4",
+            "itemName": "Book Page",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "Flask of Demonic Blood",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-?",
+            "itemName": "Demonic Essence",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Silken Bookmark",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-7",
+            "itemName": "Small Amethyst",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Magma Coat",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Guardian Shield",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Soul Orb",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Scimitar",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Necrotic Rod",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Magma Monocle",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Death Ring",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Stealth Ring",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Shadow Sceptre",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "None",
+    "exp": "11934",
+    "mitigation": "2.16",
+    "attacktype": "Melee",
+    "history": "It's experience was decreased from 15,300 to 11,934 on [[Updates/12.31]].",
+    "article": "a",
+    "actualname": "burning book",
+    "illusionable": "no",
+    "armor": "82",
+    "convince": "--",
+    "name": "Burning Book",
+    "isboss": "no",
+    "iceDmgMod": "110%",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "100%",
+    "plural": "burning books",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "The burning books are created from pages formed from damned souls, bound with the essence of what the unenlightened calls hell and inscribes with runes of hellfire in a sinful language. Filled of what the gods opposing Zathroth and his allies would consider blasphemy and mockery of the godly order of things, these books have been given such a strong purpose that they unintentionally came to life. Burning not only with hell fire but also the desire to taint and burn everything that opposes Zathroth they are a common sight at places dedicated to him. The semi sentient books can't be controlled and so they are usually allowed to hover around, sniffing for all things that don't bear the mark of Zathroth. Sometimes, when a follower of Zathroth falls out of grace, they are the first to swarm him, attack him and ultimately incinerate him. Because of that faith trials are often held where many of the burning books made their lair. Though they technically intended with another, unknown sinister purpose, the sentience of the books had never stopped their production in the depth of hell. It is assumed that their production continues because they found their place and use despite being a failure. Other rumors though claim that only one burning masterbook was created at all and somewhere in the deepest, burning pits of hell this queen book still exists. Tended by an army of lower books, it spawns its burning breed with each beat of her burning heart.<br />\nThe burning books themselves are highly attuned to fire and wield it as shield and weapon. It is remorseless in its cruelty and eager to destroy anything that might displease Zathroth. How these animalistic creatures determine the dedication of others and how accurate they might be remains a secret. The cynical followers of Zathroth don't mind either and gleefully watch even the downfall of one of their own, when the books decide someone earned Zathroth' wrath.",
+    "speed": "220",
+    "pushobjects": "yes",
+    "fireDmgMod": "0%",
+    "sounds": [
+        ""
+    ],
+    "bestiaryclass": "Magical",
+    "creatureclass": "Demons",
+    "earthDmgMod": "100%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Possessed Objects",
+    "spawntype": [
+        "Regular"
+    ],
+    "race_id": "1663",
+    "bestiarylevel": "Hard",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "burningcursedbook",
+    "behaviour": "Fights in close combat.",
+    "location": "[[Secret Library]] fire section.",
+    "strategy": "Use a lot of [[Fire Damage]] protection when hunting them. Be careful with the [[Ink Blob]]s around the spawn and if possible trap them outside of your hunting route."
+}

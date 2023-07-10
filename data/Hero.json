@@ -1,0 +1,165 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "A powerful and often hunted creature. It wears an outfit similar to the old [[gamemaster]]'s outfit, but in different colors. It also has a misleading name, don't expect this hero to come save you any time soon. They used to be the only creature with the full [[Crown Set]] in its loot until the [[Updates/10.8|10.8]] update with the introduction of [[Renegade Knight]]s and [[Vile Grandmaster]]s.",
+    "walksthrough": "Energy, Poison",
+    "hp": "1400",
+    "abilities": "{{Ability List|{{Melee|0-240}}|{{Ability|Shoots [[arrow]]s|0-120}}|{{Healing|range=200-250}}}}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "holyDmgMod": "50%",
+    "maxdmg": "{{Max Damage|physical=360}}",
+    "pushable": "No",
+    "implemented": "6.4",
+    "loot": [
+        {
+            "amount": "1-100",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Scroll",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-13",
+            "itemName": "Arrow",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Red Rose",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Grapes",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Bow",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-4",
+            "itemName": "Sniper Arrow",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-2?",
+            "itemName": "Meat",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Green Tunic",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Scroll of Heroic Deeds",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Wedding Ring",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Rope",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Red Piece of Cloth",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Lyre",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Two Handed Sword",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Scarf",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Small Notebook",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "War Hammer",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Great Health Potion",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Crown Legs",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Fire Sword",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Crown Armor",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Might Ring",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Crown Helmet",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Crown Shield",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Piggy Bank",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Fire",
+    "exp": "1200",
+    "mitigation": "1.32",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "hero",
+    "illusionable": "no",
+    "armor": "35",
+    "convince": "--",
+    "name": "Hero",
+    "isboss": "no",
+    "iceDmgMod": "90%",
+    "energyDmgMod": "60%",
+    "deathDmgMod": "120%",
+    "plural": "heroes",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "The Heroes that prowl the isle of Edron were among the first explorers. Once brave knights and loyal to the king, too close contact with evil monsters or greed for treasures - nobody knows for sure - turned their hearts. Now, they attack every intruder of their sphere using their incredible strength or their dangerous bows.",
+    "speed": "140",
+    "pushobjects": "Yes",
+    "fireDmgMod": "70%",
+    "sounds": [
+        "Let's have a fight!",
+        "I will sing a tune at your grave.",
+        "Have you seen princess Lumelia?",
+        "Welcome to my battleground!"
+    ],
+    "bestiaryclass": "Human",
+    "creatureclass": "Humans",
+    "earthDmgMod": "50%",
+    "physicalDmgMod": "90%",
+    "primarytype": "Outlaws",
+    "race_id": "73",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "hero",
+    "behaviour": "Heroes attack the enemy with deadly hits and shoot them with [[arrow]]s when they try to escape.",
+    "location": "In [[Hero Cave]] in [[Edron]], it has many rooms with many kinds of monsters and different amounts of Heroes. Also in [[Magician Quarter]], accompanied by other monsters. [[Old Fortress]] is now by far the largest respawn",
+    "strategy": "A team hunting these may consist of a [[Knight]] blocking and using [[Challenge]] regularly, these are easy to kill from a medium level of about 50, although it probably won't be profitable. <br />\n'''[[Knight]]s:''' You can hunt these from around lvl 70 and skills 80/80. Try always fighting one hero at a time using [[exori hur]] and [[exori ico]] to counteract their healing. Wearing equipment with [[Physical Damage|physical protection]] is effective. Unless you're a high level knight who can run from [[spawn]] to spawn and slay multiple heroes with [[exori min]] and [[exori gran]].<br />\n'''[[Mages]]:''' Can start killing heroes solo without mana shield, from about level 60. For level 60+ players, these can be killed moderately easy using a [[Death]] [[Wand]] or [[Rod]] and using [[Death Strike]]. Because they are quite weak [[Death Damage]], they can be killed at lower levels very easily using [[Sudden Death]] runes. Although, this will be harder to profit with. Don't bother summoning anything, you'd spend more time [[Healing Spells|healing]] your summons doing any damage. Try to not use [[Magic Shield]], unless you’re facing more heroes than you can handle. When you are mage level 55+ you can solo these using only exura.<br />\n'''[[Paladins]]:''' Can do as they would with any other creature, run and shoot preferably with some [[spear]]s and a [[Shields|shield]], using [[Ethereal Spear]] to aid in killing them. <br /> \n'''All Vocations''' You can also use [[Dwarven Set]] with all vocations to reduce damage but it will also reduce your capacity as a mage or paladin. <br /> \n<gallery mode=\"nolines\">\nimage:Heroes 2.gif|A Knight and Druid team.\n</gallery>"
+}

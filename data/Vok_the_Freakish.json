@@ -1,0 +1,91 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "It's part of the [[Feaster of Souls Quest]].",
+    "walksthrough": "?",
+    "hp": "32000",
+    "speed": "?",
+    "abilities": "{{Ability List| {{Melee|?}} }}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "fireDmgMod": "100%",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "?",
+    "pushable": "no",
+    "runsat": "0",
+    "cooldown": "20",
+    "implemented": "12.30.9287",
+    "loot": [
+        {
+            "itemName": "Skull Coin"
+        },
+        {
+            "amount": "10",
+            "itemName": "Platinum Coin"
+        },
+        {
+            "itemName": "Cursed Bone"
+        },
+        {
+            "itemName": "White Gem"
+        },
+        {
+            "itemName": "Moonstone"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Red Gem"
+        },
+        {
+            "itemName": "Death Toll"
+        },
+        {
+            "itemName": "Emerald Bangle"
+        },
+        {
+            "itemName": "Gemmed Figurine"
+        },
+        {
+            "itemName": "Ornate Crossbow"
+        },
+        {
+            "itemName": "Pair of Nightmare Boots"
+        },
+        {
+            "itemName": "Silver Hand Mirror"
+        },
+        {
+            "itemName": "Small Stone"
+        },
+        {
+            "itemName": "Crystal Crossbow"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "27000",
+    "creatureclass": "The Undead",
+    "earthDmgMod": "100%",
+    "physicalDmgMod": "50%?",
+    "bosstiaryclass": "Archfoe",
+    "primarytype": "Ghosts",
+    "spawntype": [
+        "Triggered"
+    ],
+    "race_id": "1892",
+    "senseinvis": "yes",
+    "actualname": "Vok the Freakish",
+    "illusionable": "yes",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Vok the Freakish",
+    "isboss": "yes",
+    "location": "[[Netherworld]]",
+    "iceDmgMod": "110%",
+    "energyDmgMod": "0%",
+    "deathDmgMod": "0%"
+}

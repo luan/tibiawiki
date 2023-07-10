@@ -1,0 +1,60 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "Appears during [[The Lightbearer]] event.",
+    "walksthrough": "?",
+    "hp": "125",
+    "abilities": "{{Ability List\n |{{Melee|0-50?}}\n |{{Ability|Life Drain|0-80?|element=life drain\n  |scene={{Scene|spell=3sqmstrike|caster=Doomsday Cultist|effect=Red Sparkles Effect|missile=Death Missile|missile_direction=south-east|missile_distance=3/3}}}} \n }}",
+    "healMod": "100%",
+    "paraimmune": "?",
+    "secondarytype": "Event Creatures",
+    "holyDmgMod": "125%",
+    "maxdmg": "?",
+    "pushable": "?",
+    "implemented": "8.50",
+    "loot": [
+        {
+            "itemName": "Midnight Shard",
+            "rarity": "rare"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "100",
+    "mitigation": "0.51",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "doomsday cultist",
+    "illusionable": "no",
+    "armor": "9",
+    "convince": "--",
+    "name": "Doomsday Cultist",
+    "isboss": "no",
+    "iceDmgMod": "90%",
+    "energyDmgMod": "70%",
+    "deathDmgMod": "0%",
+    "status": "event",
+    "hpDrainDmgMod": "100%",
+    "usespells": "yes",
+    "occurrence": "Very Rare",
+    "speed": "75",
+    "pushobjects": "?",
+    "fireDmgMod": "100%",
+    "sounds": [
+        ""
+    ],
+    "bestiaryclass": "Human",
+    "creatureclass": "Humans",
+    "earthDmgMod": "80%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Voodoo Cultists",
+    "spawntype": [
+        "Event"
+    ],
+    "race_id": "583",
+    "bestiarylevel": "Easy",
+    "senseinvis": "?",
+    "drownDmgMod": "100%",
+    "behaviour": "Unknown.",
+    "location": "[[Tarpit Tomb]] around [https://tibia.fandom.com/wiki/Mapper?coords=129.169-127.178-11-2-1-1 the Lightbringer's basin].",
+    "strategy": "Unknown."
+}

@@ -1,0 +1,90 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "Brutus Bloodbeard",
+    "hpDrainDmgMod": "100%?",
+    "notes": "Only appears on Pirate Raids in Liberty Bay or you have a chance to encounter him by finishing a killing task for [[Raymond Striker]]. \n<p>{{JSpoiler|You get a chance to kill him in the [[Killing in the Name of... Quest]] after killing '''3000 pirates''' for [[Raymond Striker]]. The teleporter is located [http://tibia.wikia.com/wiki/Mapper?coords{{=}}124.233-128.85-1-4-1-1 here].<br>[[File:Brutus_Bloodbeard_-_Killing_in_the_Name_of..._Quest.png|thumb|left|Brutus Bloodbeard]]<br><br><br><br><br><br><br><br><br>}}</p>",
+    "walksthrough": "?",
+    "hp": "1555",
+    "speed": "?",
+    "abilities": "{{Ability List| {{Melee|0-100+}}|{{Ability|[[Throwing Knife]]s|0-100+|element=?}}|{{Ability|Smoke Wave,causes [[Drunkenness]]|element=drunk}} }}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "100%?",
+    "holyDmgMod": "99%<?",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "350",
+    "pushable": "?",
+    "implemented": "7.8",
+    "loot": [
+        {
+            "amount": "0-200",
+            "itemName": "Gold Coin",
+            "rarity": "always"
+        },
+        {
+            "itemName": "Brutus Bloodbeard's Hat",
+            "rarity": "always"
+        },
+        {
+            "itemName": "Skull (Item)"
+        },
+        {
+            "itemName": "Meat"
+        },
+        {
+            "itemName": "Plate Armor"
+        },
+        {
+            "itemName": "Small Diamond"
+        },
+        {
+            "itemName": "Knight Armor",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Very Old Piece of Paper",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Great Health Potion",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Pirate Backpack",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Dagger",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Protection Amulet",
+            "rarity": "rare"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "795",
+    "creatureclass": "Humans",
+    "earthDmgMod": "100%?",
+    "physicalDmgMod": "100%?",
+    "primarytype": "Pirates",
+    "race_id": "274",
+    "senseinvis": "?",
+    "actualname": "Brutus Bloodbeard",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Brutus Bloodbeard",
+    "isboss": "yes",
+    "behaviour": "Unknown",
+    "location": "[[Liberty Bay]], the lighthouse south west of the depot during pirate raid. Also, might appear randomly above pirate tavern in [[Nargor]] after completing the pirate killing task.",
+    "iceDmgMod": "101%>?",
+    "strategy": "Stand still or use a [[Dwarven Ring]] because the [[drunk]]ness is similar to that of djinns. For sorcerers/druids, it is highly recommended to use one of [[Ultimate Spells]] in order to kill other pirates around, get the most experience and loot the hat. You can treat him as slightly stronger version of [[Pirate Corsair]] so it shouldn't be too hard for any vocation to kill it.",
+    "energyDmgMod": "101%>?",
+    "deathDmgMod": "100%?"
+}

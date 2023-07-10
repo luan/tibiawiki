@@ -1,0 +1,128 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "walksthrough": "Energy, Poison",
+    "hp": "600",
+    "abilities": "{{Ability List\n |{{Melee|0-34+}}\n |{{Ability|Throws Snowball|0-70+|element=ice\n  |scene={{Scene|spell=3sqmstrike|effect=Ice Explosion Effect|caster=Schiach|missile=Snowball Missile|missile_direction=south-east|missile_distance=3/3}}}}\n |{{Ability|Ice Beam|0-124+|element=ice\n  |scene={{Scene|spell=4sqmbeam|effect=Ice Crystal Effect|caster=Schiach|look_direction=east}}}}\n |{{Ability|Small Avalanche around itself|0-60+|element=ice\n  |scene={{Scene|spell=2sqmballself|effect=Icicle Effect|caster=Schiach|casting_effect=Icicle Effect}}}}\n |{{Ability|Small Ice Tornado on target|0-120+|element=ice\n  |scene={{Scene|spell=1sqmballtarget|effect=Ice Tornado Effect|caster=Schiach|missile=Ice Missile|missile_direction=south-east|missile_distance=2/2|edge_size=32}}}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "?",
+    "holyDmgMod": "120%",
+    "maxdmg": "60+",
+    "pushable": "?",
+    "usedelements": "Ice > Physical",
+    "implemented": "12.02.7746",
+    "loot": [
+        {
+            "amount": "0-50",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Broken Bell",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Fireworks Capsule",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Grainy Fireworks Powder",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Glacier Kilt",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Rainbow Quartz",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Percht Horns",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Versicolour Fireworks Powder",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Red Fireworks Powder",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Yellow Fireworks Powder",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Green Fireworks Powder",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Blue Fireworks Powder",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Orange Fireworks Powder",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Purple Fireworks Powder",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Turquoise Fireworks Powder",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Bright Bell",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Glacier Robe",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Glacial Rod",
+            "rarity": "rare"
+        }
+    ],
+    "walksaround": "Fire",
+    "exp": "580",
+    "mitigation": "0.78",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "schiach",
+    "illusionable": "no",
+    "armor": "43",
+    "convince": "?",
+    "name": "Schiach",
+    "isboss": "?",
+    "iceDmgMod": "90%",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "90%",
+    "status": "event",
+    "plural": "schiaches",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Rare",
+    "speed": "140",
+    "pushobjects": "?",
+    "fireDmgMod": "120%",
+    "sounds": [
+        "Krik Krik!",
+        "Psh psh psh!!"
+    ],
+    "runsat": "0",
+    "bestiaryclass": "Fey",
+    "creatureclass": "The Undead",
+    "earthDmgMod": "100%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Undead Humanoids",
+    "race_id": "1741",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "behaviour": "Fights in close combat.",
+    "location": "[[Percht Island]]",
+    "strategy": "Unknown"
+}

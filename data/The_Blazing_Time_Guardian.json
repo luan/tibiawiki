@@ -1,0 +1,169 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "This is a version of [[The Time Guardian]], one of the bosses in the [[Forgotten Knowledge Quest]].",
+    "walksthrough": "?",
+    "hp": "?",
+    "lightcolor": "184",
+    "speed": "?",
+    "abilities": "{{Ability List| {{Melee|?}} }}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "-200%?",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "?",
+    "pushable": "?",
+    "lightradius": "5",
+    "implemented": "11.02.4128",
+    "loot": [
+        {
+            "itemName": "Ring of Healing"
+        },
+        {
+            "itemName": "Platinum Coin"
+        },
+        {
+            "itemName": "Red Gem"
+        },
+        {
+            "itemName": "Mastermind Potion"
+        },
+        {
+            "itemName": "Great Mana Potion"
+        },
+        {
+            "itemName": "Green Crystal Shard"
+        },
+        {
+            "itemName": "Gold Coin"
+        },
+        {
+            "itemName": "Luminous Orb"
+        },
+        {
+            "itemName": "Great Spirit Potion"
+        },
+        {
+            "itemName": "Skull Staff"
+        },
+        {
+            "itemName": "Small Topaz"
+        },
+        {
+            "itemName": "Gold Token"
+        },
+        {
+            "itemName": "Violet Crystal Shard"
+        },
+        {
+            "itemName": "Spellscroll of Prophecies"
+        },
+        {
+            "itemName": "Magic Sulphur"
+        },
+        {
+            "itemName": "Small Ruby"
+        },
+        {
+            "itemName": "Giant Shimmering Pearl"
+        },
+        {
+            "itemName": "Silver Token"
+        },
+        {
+            "itemName": "Blue Crystal Shard"
+        },
+        {
+            "itemName": "Ultimate Health Potion"
+        },
+        {
+            "itemName": "Small Diamond"
+        },
+        {
+            "itemName": "Huge Chunk of Crude Iron"
+        },
+        {
+            "itemName": "Diamond Sceptre"
+        },
+        {
+            "itemName": "Cluster of Solace"
+        },
+        {
+            "itemName": "Yellow Gem"
+        },
+        {
+            "itemName": "Stone Skin Amulet"
+        },
+        {
+            "itemName": "Small Amethyst"
+        },
+        {
+            "itemName": "Part of a Rune (Three)"
+        },
+        {
+            "itemName": "Green Gem"
+        },
+        {
+            "itemName": "Small Emerald"
+        },
+        {
+            "itemName": "Glacier Robe"
+        },
+        {
+            "itemName": "Guardian Boots"
+        },
+        {
+            "itemName": "Jade Hammer"
+        },
+        {
+            "itemName": "Ancient Watch"
+        },
+        {
+            "itemName": "Blue Gem"
+        },
+        {
+            "itemName": "Soul Stone"
+        },
+        {
+            "itemName": "Glacier Kilt"
+        },
+        {
+            "itemName": "Runed Sword"
+        },
+        {
+            "itemName": "Magma Legs"
+        },
+        {
+            "itemName": "Part of a Rune"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "50000",
+    "creatureclass": "Special",
+    "earthDmgMod": "100%?",
+    "physicalDmgMod": "100%?",
+    "primarytype": "Machines",
+    "spawntype": [
+        "Triggered"
+    ],
+    "race_id": "1293",
+    "senseinvis": "?",
+    "actualname": "The Blazing Time Guardian",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "The Blazing Time Guardian",
+    "isboss": "yes",
+    "behaviour": "Unknown",
+    "location": "Deep below north-west of [[Edron]], {{Mapper Coords|128.209|123.175|14|2|text=here}} (accessible through the [[Astral Shaper Dungeon]] behind the [[Holy Portal]]).",
+    "iceDmgMod": "101%>?",
+    "strategy": "Unknown, it is healed by [[Fire Damage]], avoid it in this form.",
+    "energyDmgMod": "100%?",
+    "deathDmgMod": "100%?"
+}

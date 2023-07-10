@@ -1,0 +1,52 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "Part of the [[Opticording Sphere Quest]]. It can also appear as [[File:An Observer Eye 2.gif]] when its cord is cut and after it's damaged for the first time. \n\nNote that you can only obtain the [[Lightsphere]] once, if you kill it again you will not receive a second one.",
+    "walksthrough": "?",
+    "hp": "30000",
+    "speed": "0",
+    "abilities": "{{Ability List| {{Ability|[[Great Energy Beam]]|0-5000+|element=energy}} }}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "50%?",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "5000+",
+    "pushable": "?",
+    "runsat": "0",
+    "implemented": "11.02.4128",
+    "loot": [
+        {
+            "itemName": "Lightsphere",
+            "rarity": "always"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "0",
+    "creatureclass": "Special",
+    "earthDmgMod": "110%?",
+    "physicalDmgMod": "100%?",
+    "primarytype": "Machines",
+    "spawntype": [
+        "Triggered"
+    ],
+    "race_id": "1392",
+    "senseinvis": "?",
+    "actualname": "An Observer Eye",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "An Observer Eye",
+    "isboss": "yes",
+    "behaviour": "It is immobile, so it won't move. It will attack when provoked.",
+    "location": "[[Replica Dungeon]], past the [[Mysterious Device]].",
+    "iceDmgMod": "100%?",
+    "strategy": "Do not get close to it and walk around it using [[Magic Wall Rune]]s to protect yourself from its sight. After using the machine north of the room, attack it '''from distance''' and '''do not use summons''' since they may trigger the boss' beams and target the players. Druids can use earth damage due to Boss's heavy death resistance.",
+    "energyDmgMod": "100%?",
+    "deathDmgMod": "50%?"
+}

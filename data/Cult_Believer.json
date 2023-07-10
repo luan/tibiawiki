@@ -1,0 +1,100 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "It worships [[Zathroth]].",
+    "walksthrough": "?",
+    "hp": "975",
+    "abilities": "{{Ability List\n |{{Melee|0-200}}\n |{{Healing|range=150-250}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "holyDmgMod": "90%",
+    "maxdmg": "{{Max Damage|physical=200}}",
+    "pushable": "no",
+    "implemented": "11.40.5409",
+    "loot": [
+        {
+            "amount": "1-70",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Meat",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Great Health Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Small Diamond",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Small Emerald",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Small Amethyst",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Cultish Robe",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Scarf",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Piggy Bank",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Might Ring",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Fire, Energy, Poison",
+    "exp": "850",
+    "mitigation": "1.18",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "cult believer",
+    "illusionable": "no",
+    "armor": "30",
+    "convince": "--",
+    "name": "Cult Believer",
+    "isboss": "no",
+    "iceDmgMod": "90%",
+    "energyDmgMod": "90%",
+    "deathDmgMod": "100%",
+    "plural": "cult believers",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "The Cult Believer is a stronger version of [[Adept of the Cult|Adepts Of The Cult]].",
+    "speed": "130",
+    "pushobjects": "yes",
+    "fireDmgMod": "90%",
+    "sounds": [
+        "Death to the unbelievers!"
+    ],
+    "runsat": "0",
+    "bestiaryclass": "Human",
+    "creatureclass": "Humans",
+    "earthDmgMod": "90%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Outlaws",
+    "spawntype": [
+        "Regular"
+    ],
+    "race_id": "1512",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%",
+    "bestiaryname": "cultbeliever",
+    "behaviour": "They fight in close combat.",
+    "location": "[[Forbidden Temple (Carlin)]]",
+    "strategy": "They are not very hard and die rather quickly, treat them like a weaker [[Vicious Squire]]."
+}

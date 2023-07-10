@@ -1,0 +1,94 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "goldhanded cultist brides",
+    "hpDrainDmgMod": "100%?",
+    "isarenaboss": "no",
+    "walksthrough": "?",
+    "hp": "3000",
+    "usespells": "yes",
+    "occurrence": "Uncommon",
+    "speed": "150",
+    "abilities": "{{Ability List|}}",
+    "pushobjects": "?",
+    "healMod": "100%",
+    "paraimmune": "?",
+    "fireDmgMod": "90%",
+    "holyDmgMod": "100%",
+    "sounds": [
+        "Your backpack looks very compelling!"
+    ],
+    "maxdmg": "?",
+    "pushable": "?",
+    "implemented": "11.40.5409",
+    "bestiaryclass": "Human",
+    "loot": [
+        {
+            "amount": "1-250",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Golden Brush",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Opal",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Tiger Eye",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Golden Bag",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Golden Backpack",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Gold Ingot",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Yellow Gem",
+            "rarity": "semi-rare"
+        },
+        {
+            "amount": "1-10",
+            "itemName": "Platinum Coin",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Gold Nugget",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "2000",
+    "creatureclass": "Humans",
+    "earthDmgMod": "100%",
+    "mitigation": "0.78",
+    "physicalDmgMod": "100%",
+    "primarytype": "Outlaws",
+    "race_id": "1482",
+    "attacktype": "Melee",
+    "bestiarylevel": "Medium",
+    "senseinvis": "?",
+    "article": "a",
+    "actualname": "goldhanded cultist bride",
+    "illusionable": "no",
+    "armor": "30",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Goldhanded Cultist Bride",
+    "isboss": "no",
+    "behaviour": "Unknown",
+    "location": "[[Museum of Tibian Arts]].",
+    "iceDmgMod": "85%",
+    "strategy": "Unknown",
+    "energyDmgMod": "83%",
+    "deathDmgMod": "85%"
+}

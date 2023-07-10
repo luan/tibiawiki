@@ -1,0 +1,87 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "'''The Plasmother''' is the [[Defiler]] boss. It was killed first time on [[Furora]].",
+    "walksthrough": "?",
+    "hp": "7500",
+    "lightcolor": "30",
+    "speed": "?",
+    "abilities": "{{Ability List|{{Melee|0-400}}|{{Ability|[[Poisoned|poison]]s you|up to 40 [[Hitpoints|hp]]/turn|poisoned}}|{{Ability|Poison Ball|may [[Paralysis|paralyze]] you|slowed}}|{{Ability|Poison Ball|poisons you up to 40 hp/turn|poisoned}}|{{Ability|Poison Ball|50-300|death}}|{{Ability|Poison Berserk||earth}}|{{Ability|[[Sudden Death]]|300-800+|death}}|{{Summon|Defiler|2}}}}",
+    "pushobjects": "Yes",
+    "healMod": "100%?",
+    "paraimmune": "yes",
+    "fireDmgMod": "100%?",
+    "holyDmgMod": "115%",
+    "sounds": [
+        "Blubb",
+        "Blubb Blubb",
+        "Blubberdiblubb"
+    ],
+    "maxdmg": "{{Max Damage|physical=400|earth=?|death=300|summons=880}}",
+    "pushable": "No",
+    "lightradius": "3",
+    "implemented": "7.9",
+    "loot": [
+        {
+            "amount": "0-177+",
+            "itemName": "Gold Coin"
+        },
+        {
+            "amount": "0-20",
+            "itemName": "Platinum Coin"
+        },
+        {
+            "itemName": "Demonic Essence"
+        },
+        {
+            "amount": "0-3",
+            "itemName": "Black Pearl"
+        },
+        {
+            "amount": "0-3",
+            "itemName": "Small Sapphire"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "Small Amethyst"
+        },
+        {
+            "amount": "0-3",
+            "itemName": "Small Emerald"
+        },
+        {
+            "itemName": "Soul Orb"
+        },
+        {
+            "itemName": "The Plasmother's Remains",
+            "rarity": "always"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "12000",
+    "creatureclass": "Elementals",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "90%",
+    "bosstiaryclass": "Nemesis",
+    "primarytype": "Bio-Elementals",
+    "spawntype": [
+        "Raid",
+        "Unique",
+        "Unblockable"
+    ],
+    "race_id": "300",
+    "senseinvis": "yes",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "The Plasmother",
+    "isboss": "yes",
+    "behaviour": "He run in low [[health]] and [[Summon]]s up to 2 [[Defiler]]s.",
+    "location": "[[Pits of Inferno]] - [[Verminor]]'s Throneroom.",
+    "iceDmgMod": "100%?",
+    "strategy": "Try to block it with a [[Knight]] and use [[Sudden Death]] or [[Death Strike]]. [[Wild Growth]] and [[Magic Wall]] will help your team a lot.",
+    "energyDmgMod": "90%",
+    "deathDmgMod": "110%"
+}

@@ -1,0 +1,92 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "Seems to be the same as [[Ghost]].",
+    "isarenaboss": "no",
+    "walksthrough": "Poison",
+    "hp": "150",
+    "abilities": "{{Ability List| {{Melee|0-80}}|{{Ability|[[Life Drain]]|20-45|element=lifedrain}} }}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "holyDmgMod": "100%",
+    "maxdmg": "130",
+    "pushable": "No",
+    "implemented": "10.10",
+    "loot": [
+        {
+            "itemName": "Morning Star",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Combat Knife",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Cape",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Shadow Herb",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Book (Orange)",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "White Piece of Cloth",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Ghostly Tissue",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Ancient Shield",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Stealth Ring",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Energy, Fire",
+    "exp": "120",
+    "mitigation": "0.51",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "tarnished spirit",
+    "illusionable": "yes",
+    "armor": "10",
+    "convince": "--",
+    "name": "Tarnished Spirit",
+    "isboss": "no",
+    "iceDmgMod": "100%",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "0%",
+    "plural": "tarnished spirits",
+    "hpDrainDmgMod": "0%?",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "Tarnished spirits are foul ghosts, tainted by nameless crimes they committed in life that do not permit them to rest in peace. They are feeble, sickly things that stalk dark and doomed places, trying to find victims to whisper their evil deeds to and feeding off their life force. Though not very strong, they seek to harm adventurers in their mean, petty ways, and will stalk them until slain. Tarnished spirits relish in the gloom of crypts, graveyards and other places of death, although they are often driven out to the borders by stronger undead creatures, where they linger and wait for prey.",
+    "speed": "80",
+    "pushobjects": "?",
+    "fireDmgMod": "100%",
+    "sounds": [
+        "Huh!"
+    ],
+    "runsat": "0",
+    "bestiaryclass": "Undead",
+    "creatureclass": "The Undead",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "0%",
+    "primarytype": "Ghosts",
+    "race_id": "976",
+    "bestiarylevel": "Easy",
+    "senseinvis": "no",
+    "drownDmgMod": "0%?",
+    "bestiaryname": "tarnishedspirit",
+    "behaviour": "They fight in close range.",
+    "location": "[[Drefia]].",
+    "strategy": "Kill them like a regular [[Ghost]]. Don't let them trap you without an appropriate elemental attack."
+}

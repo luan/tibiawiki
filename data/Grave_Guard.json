@@ -1,0 +1,79 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "None.",
+    "isarenaboss": "no",
+    "walksthrough": "Fire, Poison",
+    "hp": "720",
+    "abilities": "{{Ability List| {{Melee|0-150?}}|{{Ability|Blue sparks on itself|element=?}} }}",
+    "healMod": "100%",
+    "paraimmune": "?",
+    "holyDmgMod": "110%",
+    "maxdmg": "150?",
+    "pushable": "?",
+    "implemented": "9.10",
+    "loot": [
+        {
+            "amount": "0-130",
+            "itemName": "Gold Coin"
+        },
+        {
+            "itemName": "Grave Flower"
+        },
+        {
+            "itemName": "Health Potion"
+        },
+        {
+            "itemName": "Mana Potion"
+        },
+        {
+            "itemName": "Scarab Coin",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Daramian Waraxe",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Death Ring",
+            "rarity": "rare"
+        }
+    ],
+    "walksaround": "Energy",
+    "exp": "485",
+    "mitigation": "1.24",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "grave guard",
+    "illusionable": "no",
+    "armor": "35",
+    "convince": "--",
+    "name": "Grave Guard",
+    "isboss": "no",
+    "iceDmgMod": "110%",
+    "energyDmgMod": "70%",
+    "deathDmgMod": "90%",
+    "status": "event",
+    "plural": "grave guards",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Rare",
+    "speed": "100",
+    "pushobjects": "?",
+    "fireDmgMod": "0%",
+    "sounds": [
+        ""
+    ],
+    "bestiaryclass": "Undead",
+    "creatureclass": "Demons",
+    "earthDmgMod": "10%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Imps",
+    "race_id": "707",
+    "bestiarylevel": "Medium",
+    "senseinvis": "?",
+    "drownDmgMod": "100%?",
+    "behaviour": "Unknown.",
+    "location": "[[Horestis Tomb]].",
+    "strategy": "Unknown."
+}

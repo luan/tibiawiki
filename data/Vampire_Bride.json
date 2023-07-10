@@ -1,0 +1,133 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "Since [[Updates/10.1]], it is possible to use a [[Blessed Wooden Stake]] to collect [[Vampire Dust]]. See also [[Vampire Dust/Dusting]].",
+    "walksthrough": "Poison",
+    "hp": "1200",
+    "abilities": "{{Ability List|{{Melee|0-190}}|{{Ability|Life Drain|60-130|lifedrain}}|{{Ability|Sudden death (sometimes with hearts)|60-150|death}}|{{Ability|Energy Missile|60-150|energy}}|{{Healing|range=40-80}}}}",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "holyDmgMod": "110%",
+    "maxdmg": "{{Max Damage|physical=190|lifedrain=130|death=150|energy=150}}",
+    "pushable": "no",
+    "implemented": "8.40",
+    "loot": [
+        {
+            "amount": "1-149",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Platinum Coin",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Strong Mana Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Vampire Teeth",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Moonlight Rod",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Blood Preservation",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Strong Health Potion",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Emerald Bangle",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Hibiscus Dress",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Rusted Armor",
+            "rarity": "rare"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Small Diamond",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Velvet Tapestry",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Boots of Haste",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Flower Bouquet",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Mysterious Voodoo Skull",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Blood Goblet",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Leather Whip",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Fire, Energy",
+    "exp": "1050",
+    "mitigation": "1.18",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "vampire bride",
+    "illusionable": "no",
+    "armor": "55",
+    "convince": "--",
+    "name": "Vampire Bride",
+    "isboss": "no",
+    "iceDmgMod": "80%",
+    "energyDmgMod": "90%",
+    "deathDmgMod": "0%",
+    "plural": "vampire brides",
+    "hpDrainDmgMod": "100%",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "Vampire Brides are the favoured few of the rare and elusive master vampires. While lesser vampires have often been turned by the spread of the curse, Vampire Brides were bitten almost exclusively by master vampires. At their lifetime, they have been women of extraordinary beauty who often had a strain of cruelty in their personality. As undead, they are powerful vampires of a haunting beauty that own a respectable array of abilities. They love to play cat and mouse with their chosen victim, and are rather picky in their choice whose blood they are going to drink. Also those that are not worthy as a blood donor are not safe from death, though. Quite the opposite, Vampire Brides love to cruelly torture their victims to death.<br />Their cleverness makes many of them good magicians and alchemists. Some use magic or alchemy to look like a human and so make it easier to lay hands on their victims. They are vain creatures who love to surround themselves with small courts of undead in catacombs or under cities. It can take centuries before a Vampire Bride and its ghostly court are routed out by vampire hunters or the inquisition. Even then, the shrewd brides are often able to escape, ready to plan a horrible revenge.",
+    "speed": "100",
+    "pushobjects": "yes",
+    "fireDmgMod": "110%",
+    "sounds": [
+        "Kneel before your Mistress!",
+        "Dead is the new alive.",
+        "Come, let me kiss you, darling. Oh wait, I meant kill.",
+        "Enjoy the pain - I know you love it.",
+        "Are you suffering nicely enough?",
+        "You won't regret you came to me, sweetheart."
+    ],
+    "runsat": "0",
+    "bestiaryclass": "Undead",
+    "creatureclass": "The Undead",
+    "earthDmgMod": "80%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Vampires",
+    "spawntype": [
+        "Regular"
+    ],
+    "race_id": "483",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "drownDmgMod": "90%",
+    "bestiaryname": "vampirebride",
+    "behaviour": "Fights in close combat.",
+    "location": "[[Drefia]] and [[Vampire Castle]] on [[Vengoth]], [[Edron Vampire Crypt]].",
+    "strategy": "A common idea is to wear a [[Strange Talisman]] to reduce their often used [[HMM]] damage.<br>'''Knight:''' Very easy for knights around level 100 with good skills (85/85). You can pull around 2-5 and [[Berserk|Exori]] them down, and still make profit (using a [[Blessed Wooden Stake]]). You can face 1 at a time around level 80, but it won't be good exp or profit. <br>'''Paladins:''' Just run them like any other monster but avoid luring more of them. Using [[Divine Missile]] would be useful when there is more than one.<br>'''Mages:''' Treat them like normal [[Vampires]] with stronger attacks, so heal early. Using [[Flame Strike]] and Wand/Rod it the most common strategy. Wearing a [[Lightning Set]] can reduce their [[HMM]] damage as well."
+}

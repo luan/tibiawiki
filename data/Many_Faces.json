@@ -1,0 +1,122 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "many faces",
+    "hpDrainDmgMod": "100%?",
+    "notes": "Many Faces are the creatures from [[Mirrored Nightmare]] that can trigger [[Goshnar's Taints]].\n\nIt only drops a [[Bag You Desire]] for players with at least one of [[Goshnar's Taints]]. The more taints you have, the higher the chance. The Bag is always dropped inside a [[Reward Container]] so there's no risk of leaving it behind in the creature's corpse.",
+    "walksthrough": "None",
+    "hp": "30000",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "Mindless souls, bound together by the hostile environment of Zarganash, this pitiful horrors roam the realm to spread their suffering and misery. They are drawn to even the most flimsy glimmer of hope and bravery and will do everything to destroy it. Living travellers in Zarganash are like a blazing beacon to them and they won't stop until this beacon is extinguished once and for all. They will use everything at their disposal to annihilate their target and follow it relentlessly. Yet if the target becomes maddened by despair they immediately cease their attacks, seemingly oblivious to even the existence of their former victim. Rather than being an individual, the many faces seem to be a conglomerate of souls that were fused together by an unknown force. An event that seemingly randomly affects denizens of Zarganash, so that the many faces can actually consist of a diverse cast of other denizen of the realm. Even the number of fused souls varies greatly but it seems to need a certain amount of accumulated power until a many faces is formed. So a few powerful souls might be sufficient to form such a creature, whereas it would take a great number of lesser souls to form another. Most many faces consist of two or three more powerful souls that battle for dominance while the weaker souls they consist of to, have no influence over the amalgam creature at all. They seem to be dominated by the most potent soul that they consist of. Though in constant battle with other personas the dominant spirit maintains complete control over his conglomerate body. This control is broken though when the many faces are sufficiently damaged and their behaviour turns to rather erratic and random patterns. Eons ago the many faces served the dread maiden as her harbingers, until an unknown event caused a schism. In our days the many faces flee the presence of the dread maiden and are hunted by their other minions. The maiden herself though, is said to pay the many faces no attention at all.",
+    "speed": "215",
+    "abilities": "{{Ability List| {{Melee|?}} }}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "fireDmgMod": "105%",
+    "holyDmgMod": "50%",
+    "sounds": [
+        "I have a head start.",
+        "Look into my eyes! No, the other ones!",
+        "The mirrors can't contain the night!"
+    ],
+    "runsat": "10",
+    "implemented": "12.40.9997",
+    "bestiaryclass": "Demon",
+    "loot": [
+        {
+            "itemName": "Crystal Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Ultimate Health Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Apron",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Hailstorm Rod",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Violet Gem",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Green Gem",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Blue Gem",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Northwind Rod",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Sacred Tree Amulet",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Glacier Shoes",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Glacier Robe",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Stone Skin Amulet",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Ring of Red Plasma",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Head (Many Faces)",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Glacial Rod",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Gruesome Fan",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Bag You Desire",
+            "rarity": "very rare"
+        }
+    ],
+    "exp": "18870",
+    "earthDmgMod": "100%",
+    "mitigation": "3.34",
+    "physicalDmgMod": "100%",
+    "spawntype": [
+        "Unblockable"
+    ],
+    "race_id": "1927",
+    "attacktype": "Melee",
+    "bestiarylevel": "Challenging",
+    "history": "Its experience was reduced from 28,600 to 21,450 and its loot in 16% with the balancing changes on {{OfficialNewsArchive|6086|April 15, 2021}}. Its experience was further reduced to 18,870 with the [[Updates/12.66.10866|changes]] on {{OfficialNewsArchive|6159|June 01, 2021}}.",
+    "senseinvis": "yes",
+    "actualname": "many faces",
+    "illusionable": "no",
+    "armor": "105",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "bestiaryname": "manyfaces",
+    "name": "Many Faces",
+    "isboss": "no",
+    "behaviour": "This creature is able to destroy player-made [[Magic Wall (Object)|Magic Walls]] and [[Wild Growth (Object)|Wild Growth]].",
+    "location": "[[Mirrored Nightmare]].",
+    "iceDmgMod": "70%",
+    "strategy": "This creature is by far the stronger and more common one in the area, specially due to its ability to deal Critical Damage, so the Knight should always [[Challenge]] them to make sure they don't target the shooters of the party.",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "130%"
+}

@@ -1,0 +1,130 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "Their summoned phantasms have only 65 [[HP]] and are immune to [[Earth Damage]], but they can do a lot of [[damage]]. Phantasms' boss is [[Countess Sorrow]] located in [[Ruthless Seven|Bazir]]'s throne room.",
+    "walksthrough": "None",
+    "hp": "3950",
+    "abilities": "{{Ability List| {{Melee|0-470}}|{{Ability|[[Death Hit]]|248-510|element=death}}|{{Ability|[[Drown Damage|Drowning Wave]] makes you drown|element=drowning}}|{{Summon|Phantasm (Weak)|3}}|{{Ability|[[Invisible]]|element=invisible}}|{{Ability|[[Drunkenness]] Explosion|element=drunk}}|{{Ability|[[Mana Drain]] Exori|5-80|element=manadrain}}|{{Healing|Frequent [[Self-Healing]]|range=228-449}}|{{Haste}} }}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "secondarytype": "Dreamhaunters",
+    "holyDmgMod": "110%",
+    "maxdmg": "~800",
+    "pushable": "no",
+    "implemented": "7.9",
+    "loot": [
+        {
+            "amount": "1-238",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-4",
+            "itemName": "Platinum Coin",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Blank Rune",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Great Mana Potion",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Shadow Herb",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Demonic Essence",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "Small Amethyst",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "Small Emerald",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "Small Ruby",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "Small Topaz",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Ultimate Health Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Shadow Sceptre",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Stealth Ring",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Crown Armor",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Death Ring",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Abyss Hammer",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Fire, Energy, Poison",
+    "exp": "4400",
+    "mitigation": "1.10",
+    "attacktype": "Melee",
+    "illusionable": "no",
+    "armor": "80",
+    "convince": "--",
+    "name": "Phantasm",
+    "isboss": "no",
+    "iceDmgMod": "80%",
+    "energyDmgMod": "110%",
+    "deathDmgMod": "0%",
+    "hpDrainDmgMod": "0%",
+    "usespells": "yes",
+    "lightcolor": "203",
+    "occurrence": "Common",
+    "bestiarytext": "Phantasms are said to be the dreams of madmen. Abducted from their dreamers on the backs of nightmares, they are unpredictable allies of chaos. Obviously destructive, their complete and absolute madness makes it hard to control them. However, some of the demonlords enjoy their service since their essence is quite close to the souls of mortals that those demons cherish. Some Phantasms are not created by the deeds of demons, but break loose from their mad dreamers by happenings in the world of the mortals or due to things that cannot be understood by those of sane minds. All Phantasms are able to shift from the realm of dreams to the real world and back at will, although their mental disposition makes it rarely a conscious decision. Still their physical form is an illusion and intangible. Their state of existence grants them some ghostly powers that they use to affect minds. Only the most powerful and mad Phantasms exists for a longer time. Their energy constantly leaking away, most of them fade into nothingness after a while if they cannot substitute this energy by stolen life forces.",
+    "speed": "170",
+    "pushobjects": "yes",
+    "fireDmgMod": "110%",
+    "sounds": [
+        "Oh my, you forgot to put your pants on!",
+        "Weeheeheeheehee!",
+        "Its nothing but a dream.",
+        "Dream a little dream with me!",
+        "Give in."
+    ],
+    "lightradius": "3",
+    "bestiaryclass": "Magical",
+    "creatureclass": "The Undead",
+    "earthDmgMod": "80%",
+    "physicalDmgMod": "0%",
+    "primarytype": "Ghosts",
+    "race_id": "292",
+    "bestiarylevel": "Hard",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "phantasm",
+    "behaviour": "Runs in deep low health(around 350), attacks target and summons weaker phantasms rapidly.",
+    "location": "[[Pits of Inferno]], [[The Inquisition Quest]], [[Deeper Banuta]] (single spawn, {{Mapper Coords|127.246|127.116|14|2|text=here}}) and [[Grounds of Deceit]].",
+    "strategy": "Mages should use energy strikes or energy wave to kill them fast. It is also recommended to shoot GFBs to kill the summons."
+}

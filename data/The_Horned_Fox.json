@@ -1,0 +1,113 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "He is one of the [[Minotaur]] bosses. He has a [[Secret Hideout]] near the [[Dwarf Mines]] of [[Kazordoon]] which he rarely visits. He is one of the few Minotaurs that has been proven to be able to write (as evidenced by [[The Fox Is Out (Book)|this document]]). You can use an [[Obsidian Knife]] on his corpse in order to skin [[Minotaur Leather]].",
+    "walksthrough": "?",
+    "hp": "265",
+    "speed": "?",
+    "abilities": "{{Ability List\n |{{Melee|0-100}}\n |{{Ability|Shoots Bolts|0-20|element=physical}}\n |{{Summon|Minotaur Guard|2|Minotaur Archer|Minotaur Mage}}\n |{{Ability|[[Poisoned|Poison]]|starting at 4 damage|element=poisoned}}\n |{{Ability|[[Invisibility]]|2 seconds|element=invisible}}\n |{{Healing|range=25-75}}\n}}",
+    "pushobjects": "yes",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "100%?",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        "I'll be back!",
+        "Catch me, if you can!",
+        "You will never get me!",
+        "Help me, Boys!"
+    ],
+    "maxdmg": "120",
+    "pushable": "no",
+    "implemented": "7.5",
+    "loot": [
+        {
+            "amount": "0-99",
+            "itemName": "Gold Coin"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "Minotaur Horn"
+        },
+        {
+            "itemName": "Minotaur Leather"
+        },
+        {
+            "itemName": "Piece of Warrior Armor"
+        },
+        {
+            "amount": "0-14",
+            "itemName": "Piercing Bolt"
+        },
+        {
+            "itemName": "Brass Armor"
+        },
+        {
+            "itemName": "Battle Shield",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Double Axe",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Fishing Rod",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Meat",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Strong Health Potion",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Dwarven Helmet",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Stealth Ring",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Hatchet",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Wand of Cosmic Energy",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Nose Ring",
+            "rarity": "always"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "300",
+    "creatureclass": "Humanoids",
+    "earthDmgMod": "100%?",
+    "physicalDmgMod": "100%?",
+    "primarytype": "Minotaurs",
+    "spawntype": [
+        "Raid",
+        "Unique",
+        "Triggered",
+        "Unblockable"
+    ],
+    "race_id": "202",
+    "senseinvis": "yes",
+    "illusionable": "no",
+    "armor": "16",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "The Horned Fox",
+    "isboss": "yes",
+    "behaviour": "The Horned Fox fights until death.",
+    "location": "At the other side of the teleporter. The teleporter to him is located {{Mapper Coords|126.194|124.244|9|2|text=here}}, at the way to the place where he spawned before the [[Killing in the Name of... Quest]] was introduced to Tibia, but just one floor further down. It is also marked when you complete the task of killing 5000 [[minotaur]]s so it isn't hard to find.",
+    "iceDmgMod": "101%>?",
+    "strategy": "'''[[Mage]]s:''' Kill him fast with [[Ice Strike]] or [[Death Strike]] so you won't get much damage from him nor his summons. Ideally, use [[Invisibility]] so as not to receive any damage from his summons (if he has time to summon). <br>\n'''[[Knight]]s:''' Try to trap him in a corner so you know where he is when he goes [[invisible]]. When he goes [[invisible]] use [[Berserk]]. Use [[Stealth Ring]] so you don't receive damage from his summons. <br>\n'''[[Paladin]]s:''' Kill him fast and use [[Invisibility]] so you don't receive damage from his summons. Further, it is recommended that you run him so as to minimize damage.",
+    "energyDmgMod": "100%?",
+    "deathDmgMod": "101%>?"
+}

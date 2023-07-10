@@ -1,0 +1,168 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "Affected by the boss chest loot system and special AI. When summoning a [[Nightfiend]] he says \"{{Sound|Out of the dark I call you, fiend in the night!}}\". Once the Pale Count reaches yellow health he will say \"{{Sound|Dare to follow me to my Sanctuary below and you shall DIE!}}\" and teleport himself downstairs at full health. When the Pale Count spawns, the following raid message appears:<br />\n:{{Message|type=server|The Pale Count has risen from his crypt deep under Drefia. Blood will flow.}}\nNote about loot:\n*All participants will receive 1-199 [[Gold Coin]]s and [[Vampire's Cape Chain]].\n*All participants will receive one (and only one) of these: (1-9 [[Black Pearl]]s {{!}} 1-9 [[Small Amethyst]]s {{!}} 1-9 [[Small Diamond]]s {{!}} 1-9 [[Small Emerald]]s {{!}} 1-9 [[Small Ruby|Small Rubies]] {{!}} 1-9 [[Small Sapphire]]s {{!}} 1-9 [[Small Topaz|Small Topazes]])\n*Almost all participants will receive one (and only one) of these: ([[White Piece of Cloth]] {{!}} [[Blue Piece of Cloth]] {{!}} [[Red Piece of Cloth]])\n*Almost all participants will receive one (and only one) of these: ([[Stealth Ring]] {{!}} [[Ring of Healing]])\n*Almost all participants will receive 1-5 [[Strong Health Potion]]s.\n*Almost all participants will receive 1-5 [[Strong Mana Potion]]s.\n*Almost all participants will receive a [[Vampire Lord Token]].",
+    "walksthrough": "?",
+    "hp": "50000",
+    "speed": "?",
+    "abilities": "{{Ability List\n |{{Melee}}\n |{{Ability|Shoots [[Sniper Arrow|sniper arrows]]|0-490?}}\n |{{Ability|Throws [[Throwing Knife|knives]]|0-310}}\n |{{Ability|Death Wave|0-200?|death}}\n |{{Ability|Large Death Ball|0-480+|lifedrain}}\n |{{Ability|Large Red Music Ball|0-525|manadrain}}\n |{{Healing}}\n |{{Summon|Nightfiend}}\n |{{Ability|Turns invisible||invisible}}\n |{{Outfit|no|Nightfiend}}\n }}",
+    "pushobjects": "yes",
+    "healMod": "100%?",
+    "paraimmune": "no",
+    "secondarytype": "Shapeshifters",
+    "fireDmgMod": "85%",
+    "holyDmgMod": "110%",
+    "sounds": [
+        "Feel the hungry kiss of death!",
+        "The monsters in the mirror will come eat your dreams.",
+        "Your pitiful life has come to an end!",
+        "I will squish you like a maggot and suck you dry!",
+        "Yield to the inevitable!",
+        "Some day I shall see my beautiful face in a mirror again."
+    ],
+    "maxdmg": "{{Max Damage|physical=800|death=200|manadrain=525|lifedrain=480+|summons=500?}}",
+    "pushable": "no",
+    "implemented": "10.20",
+    "loot": [
+        {
+            "itemName": "Vampire Lord Token"
+        },
+        {
+            "itemName": "Vampire's Cape Chain"
+        },
+        {
+            "itemName": "Vampire Teeth"
+        },
+        {
+            "amount": "0-100",
+            "itemName": "Gold Coin"
+        },
+        {
+            "amount": "0-5",
+            "itemName": "Platinum Coin"
+        },
+        {
+            "amount": "0-5",
+            "itemName": "Small Emerald"
+        },
+        {
+            "amount": "0-5",
+            "itemName": "Small Sapphire"
+        },
+        {
+            "amount": "0-5",
+            "itemName": "Small Amethyst"
+        },
+        {
+            "amount": "0-5",
+            "itemName": "Small Diamond"
+        },
+        {
+            "amount": "0-5",
+            "itemName": "Black Pearl"
+        },
+        {
+            "amount": "0-3",
+            "itemName": "Strong Health Potion"
+        },
+        {
+            "amount": "0-5",
+            "itemName": "Strong Mana Potion"
+        },
+        {
+            "itemName": "Blood Preservation"
+        },
+        {
+            "itemName": "Violet Gem"
+        },
+        {
+            "itemName": "Epee"
+        },
+        {
+            "itemName": "Stealth Ring"
+        },
+        {
+            "itemName": "Ring of Healing"
+        },
+        {
+            "itemName": "White Piece of Cloth"
+        },
+        {
+            "itemName": "Blue Piece of Cloth"
+        },
+        {
+            "itemName": "Red Piece of Cloth"
+        },
+        {
+            "itemName": "Vampire Shield"
+        },
+        {
+            "itemName": "Chaos Mace"
+        },
+        {
+            "itemName": "Bloody Edge"
+        },
+        {
+            "itemName": "Dreaded Cleaver"
+        },
+        {
+            "itemName": "Spellbook of Lost Souls"
+        },
+        {
+            "itemName": "The Vampire Count's Medal",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Silver Raid Token",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Haunted Mirror Piece",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Vampire Silk Slippers",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Vampire's Signet Ring",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Small Ruby"
+        },
+        {
+            "itemName": "Small Topaz"
+        },
+        {
+            "itemName": "Blue Gem"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "28000",
+    "creatureclass": "The Undead",
+    "earthDmgMod": "100%",
+    "physicalDmgMod": "100%?",
+    "bosstiaryclass": "Nemesis",
+    "primarytype": "Vampires",
+    "spawntype": [
+        "Raid",
+        "Unique",
+        "Unblockable"
+    ],
+    "race_id": "972",
+    "senseinvis": "yes",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "The Pale Count",
+    "isboss": "yes",
+    "behaviour": "Unknown.",
+    "location": "During a raid under [[Drefia]], initially {{Mapper Coords|128.197|126.167|14|2|text=here}}. After reaching yellow health it teleports itself with full health to the lower floor and spawns in front of the mirror, {{Mapper Coords|128.204|126.162|15|8|text=exactly here}}. Entrance to this place, which is opened only during his raid, is located {{Mapper Coords|128.233|126.176|12|2|text=here}}.",
+    "iceDmgMod": "70%",
+    "strategy": "The Pale Count fights at melee range and switches target often, a decent level knight should block it, using [[Challenge]] frequently. If there are many players waiting for it, then make sure you position yourself well and use your best attacks to have a higher chance of good loot.",
+    "energyDmgMod": "70%",
+    "deathDmgMod": "0%"
+}

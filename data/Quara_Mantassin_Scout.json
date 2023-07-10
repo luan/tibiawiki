@@ -1,0 +1,90 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "This monster can be seen during a quara raid in [[Liberty Bay]]. An easier version of [[Quara Mantassin]]s.\n{{JSpoiler|You may hunt 400 [[Quara Constrictor Scout]]s, [[Quara Hydromancer Scout]]s, Quara Mantassin Scouts, [[Quara Pincher Scout]]s and [[Quara Predator Scout]]s combined as a task of the [[Killing in the Name of... Quest]].}}",
+    "walksthrough": "Fire",
+    "hp": "220",
+    "abilities": "{{Ability List|{{Melee|0-110}}}}",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "holyDmgMod": "100%",
+    "maxdmg": "{{Max Damage|physical=110}}",
+    "pushable": "?",
+    "implemented": "7.8",
+    "loot": [
+        {
+            "amount": "1-30",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Mantassin Tail",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Chain Armor",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Skull (Item)",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Small Sapphire",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Two Handed Sword",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Stealth Ring",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Fish Fin",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Energy, Poison",
+    "exp": "100",
+    "mitigation": "0.56",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "quara mantassin scout",
+    "illusionable": "no",
+    "armor": "7",
+    "convince": "480",
+    "name": "Quara Mantassin Scout",
+    "isboss": "no",
+    "iceDmgMod": "0%",
+    "energyDmgMod": "110%",
+    "deathDmgMod": "100%",
+    "plural": "quara mantassin scouts",
+    "hpDrainDmgMod": "0%",
+    "usespells": "no",
+    "lightcolor": "35",
+    "occurrence": "Common",
+    "bestiarytext": "The Quara Mantassin Scout is a weaker version of [[Quara Mantassin]]s.",
+    "speed": "70",
+    "pushobjects": "?",
+    "fireDmgMod": "0%",
+    "sounds": [
+        "Shrrrr",
+        "Zuerk Pachak!"
+    ],
+    "lightradius": "2",
+    "bestiaryclass": "Aquatic",
+    "creatureclass": "Amphibians",
+    "earthDmgMod": "110%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Quara",
+    "race_id": "242",
+    "bestiarylevel": "Easy",
+    "senseinvis": "no",
+    "drownDmgMod": "0%",
+    "bestiaryname": "quaramantassinscout",
+    "behaviour": "Run in low hp.",
+    "location": "[[Malada]], [[Tiquanda/Water Elemental Cave|Water Elemental Cave]] near [[Port Hope]], [[Hrodmir Quara Scout Caves]], [[Quara Grotto]], [[Oramond]].",
+    "strategy": "'''[[Paladin]]s''': Just kill them, or you can use them so they block other quaras way so they can't reach you and you can kill the stronger quaras first.<br>'''[[Mage]]s''': Use [[energy strike]] and always try to keep a distance and don't run into other quaras.<br> '''[[Knight]]''': They are very easy to kill, they deal low damage and their defense is low."
+}

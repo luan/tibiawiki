@@ -1,0 +1,104 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "walksthrough": "Fire",
+    "hp": "8000",
+    "abilities": "{{Ability List|{{Melee|0-300}}|{{Ability|Small Fireball|250-450|fire}}|{{Ability|Blood Beam|250-450|death}}|{{Ability|Blood Berserk|250-600|energy}}|{{Summon|Lava Lurker Attendant|1}}}}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "holyDmgMod": "100%",
+    "maxdmg": "{{Max Damage|physical=300|fire=450|death=450|energy=600|summons=300}}",
+    "pushable": "no",
+    "usedelements": "Fire",
+    "implemented": "11.80.7048",
+    "loot": [
+        {
+            "amount": "1-3",
+            "itemName": "Red Gem",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "Red Piece of Cloth",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "Demonic Essence",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-14",
+            "itemName": "Small Enchanted Ruby",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-8",
+            "itemName": "Red Crystal Fragment",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Flask of Demonic Blood",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Book of Necromantic Rituals",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Pick",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Black Skull (Item)",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Sample of Monster Blood",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Energy, Poison",
+    "exp": "8000",
+    "mitigation": "1.96",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "floating savant",
+    "illusionable": "no",
+    "armor": "74",
+    "convince": "--",
+    "name": "Floating Savant",
+    "isboss": "no",
+    "iceDmgMod": "110%",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "50%",
+    "plural": "floating savants",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "Floating savants are reanimated husks that are inhabited by the spirit of a deceased scholar. Technically they are created from the bodies of burnt out guardians of tales. Sometimes the guardians absorb too much or too dangerous knowledge so their minds become destroyed. Not to waste their nigh immortal bodies, they are salvaged to host the mind of a notable Zaothroth scholar of any race who reaches the end of his lifespan. Through secret arcane rituals the mind is extracted from the dying body and fused with the soulless shell of the guardian. The process is not without danger though and often the transfer shatters mind and soul of the scholar. For most followers of Zathroth taking that risk pales compared to the opportunity to pursuit their quest for knowledge for an eternity. The new physiology requires a long time of recuperating and adjusting for the savants. Especially the floating is a difficult art to master for most. While newly created floating savants retain their original personality, over the centuries their new body with little need for sleep, nutrition and worldly pleasures changes their behavior and outlook on the world significantly. Emotions and most ambitions aside for learning as much as they can, become more and more irrelevant. While at first zealously follow their research of their mortal days, for most of them the pursuit of their original fields of their studies soon becomes too little to fill their new won time and they begin to widely broaden their fields of research. For some those studies end abruptly with their own minds torn apart by forbidden knowledge and their bodies been reused again. Others live through the ages, more and more becoming removed from the world in their minds. Constantly creating, evaluating and comparing new theories and concepts they have little awareness of their surroundings and pay little attention to things short of imminent threats and hazardous environments. Most places that house floating savants use arcane alarm systems for that reason. Whenever a threat arises, this silent alarm is raised in the complex and waves of arcane energy are sent out, that disrupt the concentration of the savants, so that they turn their attention to their surroundings. Obviously the savants are not amused by this disruption by mundane threats and react with anger, eager to return to their studies as soon as possible. In combat they rely on spells and the inherit abilities of their bodies although they are not particularly trained in the usage of the latter.",
+    "speed": "165",
+    "pushobjects": "yes",
+    "fireDmgMod": "0%",
+    "sounds": [
+        "tssooosh tsoooosh tssoooosh!",
+        "We didn't stop the fire!"
+    ],
+    "runsat": "0",
+    "bestiaryclass": "Demon",
+    "creatureclass": "Demons",
+    "earthDmgMod": "100%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Demons",
+    "spawntype": [
+        "Regular"
+    ],
+    "race_id": "1637",
+    "bestiarylevel": "Hard",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "floatingsavant",
+    "behaviour": "It fights in close range and rarely retargets.",
+    "location": "[[The Extension Site]]",
+    "strategy": "The Floating Savant combos its spells very frequently, easily dealing 1200+ damage in one turn. Blockers should avoid staying in front of it, and fire protection equipment is very useful."
+}

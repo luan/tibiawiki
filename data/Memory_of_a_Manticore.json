@@ -1,0 +1,72 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "walksthrough": "?",
+    "hp": "3730",
+    "abilities": "{{Ability List|}}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "100%?",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "?",
+    "pushable": "?",
+    "usedelements": "?",
+    "implemented": "12.85.11485",
+    "loot": [
+        {
+            "itemName": "Rainbow Quartz"
+        },
+        {
+            "itemName": "Violet Gem"
+        },
+        {
+            "itemName": "Green Crystal Fragment"
+        },
+        {
+            "itemName": "Special Fx Box"
+        },
+        {
+            "itemName": "Bottle of Champagne"
+        },
+        {
+            "itemName": "Small Emerald"
+        },
+        {
+            "itemName": "Flaming Arrow"
+        },
+        {
+            "itemName": "Gold Coin"
+        },
+        {
+            "itemName": "Prismatic Quartz"
+        },
+        {
+            "itemName": "Royal Star"
+        },
+        {
+            "itemName": "Candy Floss (Large)"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "1590",
+    "earthDmgMod": "100%?",
+    "physicalDmgMod": "100%?",
+    "race_id": "2184",
+    "senseinvis": "?",
+    "article": "a",
+    "actualname": "memory of a manticore",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "?",
+    "name": "Memory of a Manticore",
+    "isboss": "no",
+    "iceDmgMod": "100%?",
+    "energyDmgMod": "100%?",
+    "deathDmgMod": "100%?"
+}

@@ -1,0 +1,102 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "crape men",
+    "hpDrainDmgMod": "100%?",
+    "notes": "<gallery captionalign=\"center\" mode=\"nolines\">\nCrape Man Artwork.jpg|Official [[Creature Artwork]]\n</gallery>",
+    "hp": "9150",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "The crape men are one of the stranger creations of the mad Dr. Marrow. In fact several found failed specimens that have been discarded hint at a gruesome failure rate in their creation.Despite their misleading naming, there are individuals of both genders present, yet without a thorough medical examination it's impossible to tell them apart.Seemingly bred as a first line of defence in the ranks of his creatures, the crape men are stout and durable yet slow and dull.They lack most of the intelligence of their human parts and more often than not are below the average intelligence of gorillas. They have, however, a grasp on human language and can understand simple phrases. The creatures in itself are rather docile and passive, yet due to training their stoicism is usually overcome and they attack all presumed aggressors in a given area. The training of crab men is a slow and arduous process. Some of them prove to be untrainable at all and are often released into the wilds where most of them just starve to death as they seem to have little own drive to sustain themselves. The crape men have a love for the sea and despise the dwelling on land, yet their physiology is far better suited for the latter. This inherent tragedy of their existence lead to the death of several crape men by drowning, as most of them are not capable to stay under water for prolonged periods of time. Their breed is one of the most unstable ones of Dr. Marrows creation and so the range of differences and mutations is huge.So some of them defy the above mentioned aspects and for instance display greater intelligence and a few are even capable of beathing under water indefinitely. It is assumed that over the cause of the next decades a natural selection will favour some mutations and help them spread amongst the creatures' population. As an oddity crape men show a high disdain of cucumber. It is assumed it reminds their ape part of unripe bananas.",
+    "speed": "155",
+    "abilities": "{{Ability List\n |{{Melee|0-271}}\n |{{Ability|Crab Claw Snap|116-313|element=physical\n  |scene={{Scene|spell=4sqmstrike|caster=Crape Man|look_direction=south|effect=Explosion Effect}}}}\n |{{Ability|Energy Ball|331-383|element=energy\n  |scene={{Scene|spell=2sqmballtarget|caster=Crape Man|look_direction=south|effect=Purple Electricity Effect|damage_effect=Blue Electricity Effect}}}}\n |{{Ability|Energy Wave|314-369|element=energy\n  |scene={{Scene|spell=3sqmtwave|caster=Crape Man|look_direction=east|effect=Blue Electricity Effect|damage_effect=none}}}}\n |{{Ability|Sparkles|unknown|element=?\n  |scene={{Scene|spell=buffspell|effect=Blue Sparkles Effect|caster=Crape Man|look_direction=south|effect_on_caster=yes}}}}\n}}",
+    "pushobjects": "yes",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "fireDmgMod": "100%",
+    "holyDmgMod": "100%",
+    "sounds": [
+        "Ungh! Ungh!",
+        "Klack klack!",
+        "Hugah!"
+    ],
+    "pushable": "no",
+    "runsat": "0",
+    "implemented": "13.10.12852",
+    "bestiaryclass": "Humanoid",
+    "loot": [
+        {
+            "itemName": "Platinum Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Guardian Halberd",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Crab Man Claws",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Great Health Potion",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Giant Shimmering Pearl (Green)",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Lightning Legs",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Glacier Kilt",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Magma Coat",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Green Gem",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Warrior's Shield",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Hammer of Wrath",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Noble Axe",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Ring of the Sky"
+        }
+    ],
+    "exp": "5040",
+    "creatureclass": "Misc",
+    "earthDmgMod": "95%",
+    "mitigation": "2.13",
+    "physicalDmgMod": "75%",
+    "primarytype": "Hybrids",
+    "attacktype": "melee",
+    "race_id": "2337",
+    "bestiarylevel": "Hard",
+    "senseinvis": "yes",
+    "article": "a",
+    "actualname": "crape man",
+    "illusionable": "no",
+    "armor": "80",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Crape Man",
+    "isboss": "no",
+    "location": "[[Ingol]]",
+    "iceDmgMod": "105%",
+    "energyDmgMod": "90%",
+    "deathDmgMod": "115%"
+}

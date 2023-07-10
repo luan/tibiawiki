@@ -1,0 +1,48 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "deathspawns",
+    "hpDrainDmgMod": "100%?",
+    "notes": "They are summoned by [[Hell Hole]]s in the [[Annihilon]]'s Ward on [[The Inquisition Quest]].",
+    "walksthrough": "?",
+    "hp": "225",
+    "speed": "51",
+    "abilities": "{{Ability List\n |{{Melee|0-40?}}\n |{{Ability|Poisons you||poisoned}}\n |{{Ability|Death Strike|400-700|death\n  |scene={{Scene|spell=1sqmstrike|caster=Deathspawn|look_direction=south|effect=Death Effect|missile=Death Missile|missile_direction=south-east|missile_distance=1/1}}}}\n |{{Ability|Energy Strike|200-450|energy\n  |scene={{Scene|spell=1sqmstrike|caster=Deathspawn|look_direction=south|effect=Blue Electricity Effect|missile=Energy Missile|missile_direction=south-east|missile_distance=1/1}}}}\n |{{Ability|Sparkles|unknown|?\n  |scene={{Scene|spell=buffspell|caster=Deathspawn|look_direction=south|effect=Red Sparkles Effect|effect_on_caster=yes}}}}\n}}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "85%",
+    "holyDmgMod": "110%",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "{{Max Damage|physical=40|death=700|energy=450|earth=1}}",
+    "pushable": "?",
+    "implemented": "8.20",
+    "loot": [
+        {
+            "itemName": "Dirty Fur"
+        }
+    ],
+    "walksaround": "Fire",
+    "exp": "0",
+    "creatureclass": "Amphibians",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "100%?",
+    "primarytype": "Frogs",
+    "senseinvis": "?",
+    "article": "a",
+    "actualname": "deathspawn",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "?",
+    "name": "Deathspawn",
+    "isboss": "no",
+    "behaviour": "They are summoned by the [[Hell Hole]]s and will attack whoever is closest to it. It usually attacks first whoever is on the sides of the lavahole, if no one is on the sides it will attack whoever stands diagonally, if no one stands diagonally it will attack whoever is closest to the north of the lavahole(to be confirmed)?",
+    "location": "[[Annihilon]]'s Ward on [[The Inquisition Quest]].",
+    "iceDmgMod": "85%",
+    "strategy": "Try to keep using area runes to kill them off when killing [[Annihilon]]. Use [[Fire Bomb]] on self, and as long as you don't move and stand in the middle of the fire, it can't reach you.",
+    "energyDmgMod": "85%",
+    "deathDmgMod": "0%"
+}

@@ -1,0 +1,119 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "It's part of the [[Soul War Quest]].",
+    "walksthrough": "?",
+    "hp": "?",
+    "speed": "?",
+    "abilities": "{{Ability List|}}",
+    "healMod": "100%?",
+    "paraimmune": "yes",
+    "fireDmgMod": "100%?",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "?",
+    "pushable": "no",
+    "runsat": "0",
+    "implemented": "12.40.9997",
+    "cooldown": "20",
+    "loot": [
+        {
+            "itemName": "Cruelty's Chest"
+        },
+        {
+            "itemName": "Cruelty's Claw"
+        },
+        {
+            "itemName": "Figurine of Cruelty"
+        },
+        {
+            "itemName": "Ultimate Mana Potion"
+        },
+        {
+            "itemName": "Violet Gem"
+        },
+        {
+            "itemName": "Giant Amethyst"
+        },
+        {
+            "itemName": "White Gem"
+        },
+        {
+            "itemName": "Crystal Coin"
+        },
+        {
+            "itemName": "Red Gem"
+        },
+        {
+            "itemName": "Mastermind Potion"
+        },
+        {
+            "itemName": "Bullseye Potion"
+        },
+        {
+            "itemName": "Gold Ingot"
+        },
+        {
+            "itemName": "Yellow Gem"
+        },
+        {
+            "itemName": "Giant Emerald"
+        },
+        {
+            "itemName": "Supreme Health Potion"
+        },
+        {
+            "itemName": "Ultimate Spirit Potion"
+        },
+        {
+            "itemName": "Berserk Potion"
+        },
+        {
+            "itemName": "Blue Gem"
+        },
+        {
+            "itemName": "Giant Sapphire"
+        },
+        {
+            "itemName": "Green Gem"
+        },
+        {
+            "itemName": "Coral Brooch"
+        },
+        {
+            "itemName": "Bag You Desire"
+        },
+        {
+            "itemName": "Spectral Saddle"
+        },
+        {
+            "itemName": "Spectral Horse Tack"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "75000",
+    "creatureclass": "The Undead",
+    "earthDmgMod": "100%?",
+    "physicalDmgMod": "100%?",
+    "bosstiaryclass": "Archfoe",
+    "primarytype": "Ghosts",
+    "spawntype": [
+        "Triggered"
+    ],
+    "race_id": "1902",
+    "senseinvis": "yes",
+    "actualname": "Goshnar's Cruelty",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Goshnar's Cruelty",
+    "isboss": "yes",
+    "location": "Accessed through [[Zarganash]].",
+    "iceDmgMod": "100%?",
+    "energyDmgMod": "100%?",
+    "deathDmgMod": "100%?"
+}

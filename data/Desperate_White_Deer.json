@@ -1,0 +1,59 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "desperate white deers",
+    "hpDrainDmgMod": "100%?",
+    "notes": "To fight one, you must kill a regular [[White Deer]]. If the deer doesn't become [[Enraged White Deer|enraged]], it will despair.",
+    "isarenaboss": "No",
+    "walksthrough": "None",
+    "hp": "55",
+    "speed": "?",
+    "abilities": "{{Ability List|{{Haste|[[Strong Haste]]}}}}",
+    "pushobjects": "Yes",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "100%",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        "*bell*",
+        "ROOOAAARR!!",
+        "*sniff*",
+        "*wheeze*"
+    ],
+    "maxdmg": "0",
+    "pushable": "No",
+    "implemented": "9.10",
+    "loot": [
+        {
+            "amount": "0-3",
+            "itemName": "Ham"
+        },
+        {
+            "itemName": "White Deer Antlers"
+        },
+        {
+            "itemName": "White Deer Skin"
+        }
+    ],
+    "walksaround": "Fire, Energy, Poison",
+    "exp": "35",
+    "creatureclass": "Mammals",
+    "earthDmgMod": "100%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Ungulates",
+    "senseinvis": "?",
+    "article": "a",
+    "actualname": "desperate white deer",
+    "illusionable": "Yes",
+    "armor": "1",
+    "drownDmgMod": "0%?",
+    "convince": "--",
+    "name": "Desperate White Deer",
+    "isboss": "No",
+    "behaviour": "Runs away.",
+    "location": "Same as [[White Deer]]: around [[Ab'Dendriel]], Carlin (east from [[Lothar]]), [[Femor Hills]] and [[Ferngrims Gate]].",
+    "iceDmgMod": "100%",
+    "strategy": "Kill it before it runs away. Be careful though, as two [[Elf Scout]]s might spawn to avenge its death. When the elves are summoned, it says: \"''The elves came too late to save the deer, however they might avenge it.''\"",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "100%?"
+}

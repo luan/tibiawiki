@@ -1,0 +1,85 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "isarenaboss": "no",
+    "walksthrough": "None.",
+    "hp": "380",
+    "abilities": "{{Ability List|{{Melee|0-120?}}|{{Ability|Throws boulders|0-50?}}|{{Ability|Paralyze Berserk||slowed}}|{{Ability|Poison Ball on itself|poisons you, starting from up to 13|poisoned}}}}",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "holyDmgMod": "100%",
+    "maxdmg": "{{Max Damage|physical=170?|earth=13}}",
+    "pushable": "No",
+    "implemented": "10.10",
+    "loot": [
+        {
+            "amount": "1-45",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Fir Cone",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Dowser",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "White Mushroom",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Swampling Club",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Small Emerald",
+            "rarity": "rare"
+        }
+    ],
+    "walksaround": "Energy, Fire, Poison",
+    "exp": "145",
+    "mitigation": "0.67",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "wilting leaf golem",
+    "illusionable": "yes",
+    "armor": "21",
+    "convince": "--",
+    "name": "Wilting Leaf Golem",
+    "isboss": "no",
+    "iceDmgMod": "105%",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "100%",
+    "plural": "wilting leaf golems",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "The withered leaf golem are strange entities that have somehow settled with the fact that their spirit is trapped in physical form. They have endured the trials of getting used to a physical body and gained a certain familiarity with it and the physical world. This enables them to uses their strengths to the full extent and they have become considerably more dangerous. They usually are that accustomed to an certain environment, that they become extremely territorial. Still most of them understand only very basic concepts of our world and are inhabited by a consciousness that is extremely alien to that of a human. Most of these old golems share an unexplainable aggression towards lifeforms that are not plants. On the other hand they seem to be able to communicate with plants in some way and are usually overly protective towards them. This factors combine to an extremely dangerous state of mind that lead often to attacks on anything that enters their woods. Astonishingly enough their attacks display not only an affinity to the element earth but also to the element of air, as they instinctively use it to enhance their movement or more often to hinder that of their chosen foes.<br />There are rare cases of reports that tell about good natured withered leaf golems. Almost all those cases can be linked to leaf golems inhabited by the spirits of former druids, that have become more accustomed with their changed nature. This versions of the withered leaf golems are often considerably more powerful then their spirit brethren. Malignant versions of this amalgamations also exist. They often are loners that claim entire forests as their own and act as their self proclaimed guardian, discouraging anyone to even enter the realm of their gruesome reign.",
+    "speed": "74",
+    "pushobjects": "?",
+    "fireDmgMod": "105%",
+    "sounds": [
+        "*crackle*",
+        "*swwwwishhhh*"
+    ],
+    "runsat": "0",
+    "bestiaryclass": "Plant",
+    "creatureclass": "Elementals",
+    "earthDmgMod": "60%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Bio-Elementals",
+    "spawntype": [
+        "Regular"
+    ],
+    "race_id": "982",
+    "bestiarylevel": "Medium",
+    "senseinvis": "no",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "wiltingleafgolem",
+    "behaviour": "They fight in close range.",
+    "location": "[[Forest Fury Camp]], [[Lair of the Treeling Witch]] and in the [[Forsaken Mine/Forest Furies|Forest Fury]] version of the [[Forsaken Mine]].",
+    "strategy": "Has a nasty melee for lower level players, but can be taken down with ease. A good mage strategy is to gather several of them (together with [[Forest Furies]]) and use [[GFB]] or [[Fire Wave|Fire]]/[[Ice Wave]]."
+}

@@ -1,0 +1,107 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "This creature was added with the [[Summer Update 2010]]. They usually come in groups with other Souleaters, [[Mutated Bat]]s, [[Mutated Rat]]s, [[Mutated Tiger]]s or [[Death Blob]]s.",
+    "walksthrough": "None",
+    "hp": "1100",
+    "abilities": "{{Ability List\n |{{Melee|0-209}}\n |{{Ability|Sparkle Life Drain Bomb|0-60|element=lifedrain\n  |scene={{Scene|spell=2sqmballself|caster=Souleater|look_direction=south|effect=Red Sparkles Effect|effect_on_caster=yes}}}}\n |{{Ability|Drowning Death Ball|30~ turns|element=drowning\n  |scene={{Scene|spell=2sqmballtarget|caster=Souleater|look_direction=south|effect=Death Effect|missile=Death Missile (Large)|missile_direction=south-east|missile_distance=2/2}}}}\n |{{Ability|Ice Missile|50-130|element=ice\n  |scene={{Scene|spell=7sqmstrike|caster=Souleater|look_direction=south|effect=Ice Explosion Effect|missile=Ice Missile|missile_direction=south-east|missile_distance=7/7}}}}\n |{{Ability|Musical Wave|100-200+|element=?\n  |scene={{Scene|spell=4sqmtwave|caster=Souleater|look_direction=east|effect=Red Notes Effect}}}}\n |{{Ability|[[Invisible]]|around 3 seconds|element=invisible}}\n |{{Healing|range=75-202\n  |scene={{Scene|spell=buffspell|caster=Souleater|look_direction=south|effect=Blue Sparkles Effect|effect_on_caster=yes}}}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "secondarytype": "High Class Lizards",
+    "holyDmgMod": "110%",
+    "maxdmg": "480+",
+    "pushable": "?",
+    "implemented": "8.60",
+    "loot": [
+        {
+            "amount": "1-200",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-6",
+            "itemName": "Platinum Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Great Mana Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Lizard Essence",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Ultimate Health Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Ectoplasmic Sushi",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Necrotic Rod",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Wand of Cosmic Energy",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Death Ring",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Spirit Container",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Souleater Trophy",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Fire, Energy, Poison",
+    "exp": "1300",
+    "mitigation": "0.51",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "souleater",
+    "illusionable": "no",
+    "armor": "30",
+    "convince": "--",
+    "name": "Souleater",
+    "isboss": "no",
+    "iceDmgMod": "50%",
+    "energyDmgMod": "110%",
+    "deathDmgMod": "0%",
+    "plural": "souleaters",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "lightcolor": "137",
+    "occurrence": "Common",
+    "bestiarytext": "The corruption in Zao comes in many different ways. Often, the corruption which is visible is the least dangerous. Sometimes, however, the corruption rather touches the soul than the body. Sometimes, this goes unnoticed by those affected and those close to them. Sometimes, this leads to erratic behaviour, morbid fascinations, or a violent temper. Sometimes, the corruption goes unnoticed for a whole lifetime. Only in death those who are touched by the corruption learn the horrid truth about their nature. The taint in their soul twists their nature and refuses them the afterlife that awaited them. They are bound to the realm of the mortals in an ethereal form, tormented by an eternal hunger and plagued by their twisted vision of the world around them. They perceive the world as rotten and flawed, worth to be destroyed. Everything that exists is a pain to them, particularly if it is alive. Destruction and total oblivion seem to be the only salvation for them. Since their new ethereal body is inherently flawed, they constantly burn up spiritual energy in a rate that leaves them in a constant state of hunger. To satisfy this hunger, they feed on the vital force and soul energy of mortals. They absorb them by touch, although the most powerful of them drain the needed energy by their mere presence. Often, nothing more than mummified husks are left over from their victims.When the worst hunger is satisfied, they are cunning and relatively patient. They love to toy with their victims, but what they love the most is introducing them to their own twisted view of the world by demoralising the mortals, or shattering their dreams in some way. Quite soon though, their hunger takes over and they lose all interest in games and greedily feast on their prey.",
+    "speed": "105",
+    "pushobjects": "?",
+    "fireDmgMod": "110%",
+    "sounds": [
+        "Life is such a fickle thing!",
+        "I will devour your soul.",
+        "Souuuls!",
+        "I will feed on you.",
+        "Aaaahh"
+    ],
+    "lightradius": "3",
+    "bestiaryclass": "Undead",
+    "creatureclass": "The Undead",
+    "earthDmgMod": "100%",
+    "physicalDmgMod": "40%",
+    "primarytype": "Ghosts",
+    "race_id": "675",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "souleater",
+    "behaviour": "Unknown.",
+    "location": "[[Razachai]], [[Northern Zao Plantations]], [[Souleater Mountains]], [[Deeper Banuta]] (many on all floors from the {{Mapper Coords|128.10|127.97|14|2|text=7th}} onward).",
+    "strategy": "'''[[Mage]]s''' use [[Flame Strike|Flame]] or [[Energy Strike]] while running away and their [[Wand]] or [[Rod]]. Avoid getting trapped by lots of them.<br />'''[[Knight]]s''' and '''[[Paladin]]s''' are advised to not hunt these creatures since they are very strong against [[Physical]]. Running and shooting might lead to groups which are deadly, so beware, also you can use [[Helmet of the deep]] when blocking to prevent [[Drowning]] damage."
+}

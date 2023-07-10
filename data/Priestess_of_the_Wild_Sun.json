@@ -1,0 +1,110 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "walksthrough": "Fire, Energy, Poison",
+    "hp": "8500",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "Once, the inhabitants of Kilmaresh worshipped the two sun gods Suon and Fafnar and attached great importance to the fact that the worship of both deities was always in balance. However, there came a time when a group of Fafnar's adherers became more and more influential and aggressive until this sect postulated the sole worship of Fafnar. This resulted in a religious war between the Fafnar followers and those who fought for the duality of the two sun gods. Ultimately, the war was ended by a major natural disaster that split off the eastern peninsula from the western part of the land mass. This was interpreted as a demonstration of divine wrath. It was rumoured that Suon had shattered the continent in his anger about the humans' misdeeds. From that day on, the old empire was in shambles and the worship of Fafnar is now forbidden in the new empire.<br/>But the cult of Fafnar still exists on Kilmaresh, albeit in secret. Her followers go to great lengths to strengthen Fafnar's influence and try to re-establish her worship. To achieve their goals they are not above using either infiltration or violence. The Priestesses of the Wild Sun are a special branch of Fafnar's clerics. They serve the Smiter with great devotion but other than the Burning Gladiators they seek to restore Fafnar's worship by intrigues and scheming rather than brute force.",
+    "speed": "160",
+    "abilities": "{{Ability List| {{Melee|0-350}}|{{Ability|[[Fire Damage|Fire Cross]] on target|350-500|element=fire}}|{{Ability|[[Fire Damage|Fire X]] on target|350-500|element=fire}}|{{Ability|[[Fire Damage|Fire Ring]] on target|300-400|element=fire}}|{{Ability|[[Energy Damage|Energy Berserk]]|250-400|element=energy}}|{{Ability|[[Energy Damage|Energy Wave]]|250-350|element=energy}} }}",
+    "pushobjects": "yes",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "fireDmgMod": "80%",
+    "holyDmgMod": "100%",
+    "sounds": [
+        "Fafnar will burn you!",
+        "Fear the Wild Sun!",
+        "There is only one true sun!"
+    ],
+    "maxdmg": "1200+",
+    "pushable": "no",
+    "implemented": "12.20.8834",
+    "bestiaryclass": "Human",
+    "loot": [
+        {
+            "amount": "1-3",
+            "itemName": "Platinum Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Fafnar Symbol",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Secret Instruction (Gryphon)",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Secret Instruction (Mirror)",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Secret Instruction (Silver)",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Golden Sickle",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Wand of Decay",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "War Axe",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Empty Honey Glass",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Relic Sword",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Wand of Everblazing",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Golden Mask",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Sea Horse Figurine",
+            "rarity": "rare"
+        }
+    ],
+    "walksaround": "None",
+    "exp": "6400",
+    "creatureclass": "Humans",
+    "earthDmgMod": "100%",
+    "mitigation": "2.25",
+    "physicalDmgMod": "100%",
+    "primarytype": "Fafnar Cultists",
+    "spawntype": [
+        "Regular"
+    ],
+    "race_id": "1799",
+    "attacktype": "Melee",
+    "bestiarylevel": "Hard",
+    "history": "Its experience was decreased from 8,000 to 6,400 on [[Updates/12.31.9434|Update 12.31.9434]].",
+    "senseinvis": "yes",
+    "article": "a",
+    "actualname": "priestess of the wild sun",
+    "illusionable": "no",
+    "armor": "82",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "bestiaryname": "priestessofthewildsun",
+    "name": "Priestess of the Wild Sun",
+    "isboss": "no",
+    "location": "[[Issavi Sewers]], [[Kilmaresh Mountains]], [[Kilmaresh Catacombs]].",
+    "iceDmgMod": "125%",
+    "strategy": "Unknown.",
+    "energyDmgMod": "85%",
+    "deathDmgMod": "100%"
+}

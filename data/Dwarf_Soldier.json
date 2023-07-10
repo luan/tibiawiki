@@ -1,0 +1,101 @@
+{
+    "summon": "360",
+    "templateType": "Creature",
+    "notes": "Strong creatures able to use both [[Melee]] and distance combat. [[Dwarf Guard]]s and Dwarf Soldiers are the most hunted kind of [[Dwarves]] since they have the highest drop rate of [[Iron Ore]]s. They are also among the most profitable creatures in game.",
+    "walksthrough": "None",
+    "hp": "135",
+    "abilities": "{{Ability List\n |{{Melee|0-70}}\n |{{Ability|Bolts|0-60|element=physical\n  |scene={{Scene|spell=7sqmstrike|background=canvas|caster=Dwarf Soldier|look_direction=south|missile=Bolt Missile|missile_direction=south-east|missile_distance=7/7}}}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "holyDmgMod": "100%",
+    "maxdmg": "{{Max Damage|physical=130}}",
+    "pushable": "No",
+    "usedelements": "Physical",
+    "implemented": "6.1",
+    "loot": [
+        {
+            "amount": "0-12",
+            "itemName": "Gold Coin"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "White Mushroom"
+        },
+        {
+            "amount": "0-7",
+            "itemName": "Bolt"
+        },
+        {
+            "itemName": "Soldier Helmet"
+        },
+        {
+            "itemName": "Shovel"
+        },
+        {
+            "itemName": "Chain Armor"
+        },
+        {
+            "amount": "0-3",
+            "itemName": "Piercing Bolt",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Dwarven Shield",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Crossbow",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Battle Axe",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Iron Ore",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Axe Ring",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Fire, Energy, Poison",
+    "exp": "70",
+    "mitigation": "0.51",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "dwarf soldier",
+    "illusionable": "yes",
+    "armor": "9",
+    "convince": "360",
+    "name": "Dwarf Soldier",
+    "isboss": "no",
+    "iceDmgMod": "100%",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "105%",
+    "plural": "dwarf soldiers",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "no",
+    "occurrence": "Common",
+    "bestiarytext": "Dwarf Soldiers form the dwarfs' army. They are quite strong fighters and know how to make use of the complex terrain very well. Due to their shortness they can use passages through the mountains where nobody can follow them and attack with their crossbows from hiding-places where nobody expects them.",
+    "speed": "88",
+    "pushobjects": "Yes",
+    "fireDmgMod": "105%",
+    "sounds": [
+        "Hail Durin!"
+    ],
+    "runsat": "0",
+    "bestiaryclass": "Humanoid",
+    "creatureclass": "Humanoids",
+    "earthDmgMod": "90%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Dwarves",
+    "race_id": "71",
+    "bestiarylevel": "Easy",
+    "senseinvis": "no",
+    "drownDmgMod": "100%",
+    "bestiaryname": "dwarfsoldier",
+    "location": "[[Kazordoon]] [[Dwarf Mines]], [[Cyclopolis]], [[Dwacatra]], [[Ferngrims Gate]], [[Dwarf Bridge]], [[Mount Sternum Undead Cave]], [[Beregar]], [[Tiquanda Dwarf Cave]], [[Cormaya Dwarf Cave]].",
+    "strategy": "Low levels should avoid them as they can hurt quite badly. When they are in low health, their bolts seem to be stronger, so be aware if you think you have almost killed them.<br>\n[[Mages]]: [[Sorcerers]] should use a [[wand]] with [[Fire Damage]] and [[Druids]] should use a [[rod]] with [[Death Damage]] because they are weak to fire and death. To kill faster, premium [[mages]] should use [[Flame Strike]] or [[Death Strike]]."
+}

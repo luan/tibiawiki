@@ -1,0 +1,77 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "Marziel was once a normal person and a citizen of [[Carlin]]. He, his brothers [[Arthei]], [[Lersatio]], and [[Boreth]], and Arthei's wife [[Kala]], travelled to [[Yalahar]] in order to find a new home. From that moment on Marziel started keeping a [[Arthei's Descent into Vampirism I (Book)|diary]]. From the first part of this diary it becomes clear that he used to have a girlfriend named [[Melava]].<br>He is the third boss you will encounter during the [[Blood Brothers Quest]]. To access the boss' room, a female character needs to walk in front of the ''big throne with a vampire lord on it'' and then throw blood on the carpet. Two [[Vampire Bride]]s will appear, after killing one you are teleported to the boss room. If you are fast enough going back to the room where you killed the [[Vampire Bride]], you can loot the body. Also, if you manage to kill both [[Vampire Bride]]s at the same time the loot from both will appear in server log, but when you return to the room there will be only one body.<br>You will receive [[The Dust of Marziel]] when you use a [[Blessed Wooden Stake]] on his dead body.",
+    "walksthrough": "?",
+    "hp": "1900",
+    "speed": "?",
+    "abilities": "{{Ability List| {{Ability|Life Drain|0-600|element=lifedrain}}|{{Summon|Vampire|3}}|{{Healing}} }}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "90%",
+    "holyDmgMod": "105%",
+    "sounds": [
+        "My brides will show you how to suffer beautifully.",
+        "I smell warm blood.",
+        "Why are you disturbing me and my brides?",
+        "You shouldn't have come.",
+        "You! You had no right to read my diary!",
+        "I... want... your... blood!"
+    ],
+    "maxdmg": "~800",
+    "pushable": "?",
+    "implemented": "8.40",
+    "loot": [
+        {
+            "amount": "0-7",
+            "itemName": "Platinum Coin"
+        },
+        {
+            "amount": "0-100",
+            "itemName": "Gold Coin"
+        },
+        {
+            "itemName": "Strong Health Potion"
+        },
+        {
+            "itemName": "Ring of Healing"
+        },
+        {
+            "itemName": "Vampire Shield",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Dreaded Cleaver",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "3000",
+    "creatureclass": "The Undead",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "57%",
+    "bosstiaryclass": "Bane",
+    "primarytype": "Vampires",
+    "spawntype": [
+        "Unique",
+        "Triggered",
+        "Unblockable"
+    ],
+    "race_id": "481",
+    "senseinvis": "?",
+    "actualname": "Marziel",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Marziel",
+    "isboss": "yes",
+    "behaviour": "Goes invisible often, sometimes turns into a bat and fights until death.",
+    "location": "[[Vengoth/Castle|Vengoth Castle]] in the Third Tower that can be accessed.",
+    "iceDmgMod": "105%",
+    "strategy": "Unknown",
+    "energyDmgMod": "80%",
+    "deathDmgMod": "0%"
+}

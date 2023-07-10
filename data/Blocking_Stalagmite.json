@@ -1,0 +1,31 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "Found in [[Primal Ordeal Quest]]",
+    "walksthrough": "None",
+    "hp": "10500",
+    "abilities": "{{Ability List}}",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "100%",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "0",
+    "implemented": "12.90.12182",
+    "exp": "?",
+    "earthDmgMod": "100%",
+    "physicalDmgMod": "100%?",
+    "senseinvis": "?",
+    "actualname": "blocking stalagmite",
+    "illusionable": "no",
+    "drownDmgMod": "100%?",
+    "convince": "?",
+    "name": "Blocking Stalagmite",
+    "isboss": "no",
+    "iceDmgMod": "0%",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "0%"
+}

@@ -1,0 +1,114 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "The most dangerous [[Corym]]. Avoid fighting multiple Coryms when killing this one (if low level). The damage of a Skirmisher and one Vanguard (or two+ Vanguards) can kill a low level mage instantly.",
+    "isarenaboss": "no",
+    "walksthrough": "Energy",
+    "hp": "700",
+    "abilities": "{{Ability List\n |{{Melee|0-140+}}\n |{{Ability|Poison Wave|50-90+|element=poison\n  |scene={{Scene|spell=5sqmtwavenarrow|caster=Corym Vanguard|effect=Poison Effect 1|look_direction=east}}}}\n |{{Ability|Death Ball|40-60+|element=death\n  |scene={{Scene|spell=2sqmballtarget|caster=Corym Vanguard|effect=Death Effect|damage_effect=Cloud Effect|missile=Death Missile|missile_direction=south-east|missile_distance=2/2}}}}\n |{{Healing|range=17-60+\n  |scene={{Scene|spell=buffspell|effect=Blue Sparkles Effect|caster=Corym Vanguard|look_direction=south|effect_on_caster=yes}}}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "holyDmgMod": "100%",
+    "maxdmg": "~290+",
+    "pushable": "?",
+    "implemented": "9.80",
+    "loot": [
+        {
+            "amount": "1-90",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Cheese",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Bola",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Cheese Cutter",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Earflap",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Soft Cheese",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Rat Cheese",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Spike Shield",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Ratana",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Life Preserver",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Cheesy Figurine",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Leather Harness",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Spiky Club",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Rat God Doll",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Fire, Poison",
+    "exp": "490",
+    "mitigation": "0.99",
+    "attacktype": "Melee",
+    "history": "These could drop up to 120 [[Gold Coin]]s before the [[2016 Winter Update]].",
+    "article": "a",
+    "actualname": "corym vanguard",
+    "illusionable": "yes",
+    "armor": "29",
+    "convince": "--",
+    "name": "Corym Vanguard",
+    "isboss": "no",
+    "iceDmgMod": "90%",
+    "energyDmgMod": "80%",
+    "deathDmgMod": "100%",
+    "plural": "corym vanguards",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "The Vanguards are the gatherers, tinkerers and craftsmen of the Corym. Usually of a build somewhat more muscular and hardy than the regular Corym, they have many responsibilities in the Corym society. They are the guards that keep vigil over the den and all resources. They craft the crude but mean weaponry of the Corym, and repair stolen or found goods to render them suitable for Corym usage. Most importantly, certain Vanguards are responsible for keeping the slime tunnel system running. The slime tunnels are a well-kept secret of the Corym and work with specially prepared slime and swamp gases to provide long-range transport between remote Corym dens, in a way everyone else would consider rather disgusting as well as insanely dangerous. The gruesome accidents in the tunnel system are usually discarded as the failure of a charm the deceased, or crippled user had been wearing.<br />There is nothing a Vanguard cannot put to good use. They collect all kinds of stuff, broken or new, and stockpile it for later use. It is a great disgrace for a Vanguard not to have something somewhere, for to at least temporally fix something or rather, everything - aside from their ordinary tasks, most Vanguards consider themselves inventors. Whenever possible, they mix and match the pieces of their collection with each other, often with no clue as to what it is they are working on. Most of the time, the outcome is completely unreliable or unusable; a fact no Vanguard would ever admit. Inasmuch as possible, they convince others to wear, use or try out their inventions. Given the fact that there are only very few volunteers, this is usually handled by a complex system of 'I owe you'. When someone accepts a favour from a Vanguard, he should expect to become a test subject of some kind of invention at a future point.<br />The Vanguards are more robust, better trained and far better equipped than their kin. In times of war, they are therefore found in the front lines of battle; and even in combat, the Vanguards like to try out something new. As this is not merely limited to weapons, but includes all kinds of tactics and attacks, the Vanguard is quite an unpredictable opponent always full of nasty surprises.",
+    "speed": "100",
+    "pushobjects": "?",
+    "fireDmgMod": "100%",
+    "sounds": [
+        "Gimme! Gimme!"
+    ],
+    "runsat": "50",
+    "bestiaryclass": "Humanoid",
+    "creatureclass": "Humanoids",
+    "earthDmgMod": "100%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Corym",
+    "race_id": "918",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "vanguard",
+    "behaviour": "Runs away in red health.",
+    "location": "[[Venore Corym Cave]], [[Tiquanda Corym Cave]], [[Corym Black Market]], [[Carlin Corym Cave]]/[[Dwarf Mines]] Diggers Depths Mine, [[Upper Spike]].",
+    "strategy": "'''[[Knight]]s:''' If you have a low level or skills and fight against more than two Corym at once, it's best to use exori while trying to stay diagonal to the Corym Vanguard to avoid its wave.<br />\n'''[[Mage]]s:'''  Use fire or death damaging attacks, while staying diagonal. When in a Corym Cave, it's recommended that you stay [[Invisible]] even if the Vanguards can sense invisibility.<br />\n'''[[Paladin]]s:'''  At level 25 with decent stats and [[Royal spear]] can just run them like other creatures, carry [[Health Potions]] for safety. They are easy profit."
+}

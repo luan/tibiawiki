@@ -1,0 +1,68 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "A boss appearing in a random raid north of [[Carlin]]. Raid messages are:\n{{Raid Message|00:00:00|Some wasps have been found north of Carlin. There is some loud buzzing in the air.|00:04:10|Buzzing madness north of Carlin! Be careful if you're allergic!|00:05:00|Willi Wasp the Wicked has arrived!}}",
+    "walksthrough": "?",
+    "hp": "250",
+    "speed": "?",
+    "abilities": "{{Ability List|{{Melee|0-?|poison=?}}}}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "110%",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "?",
+    "pushable": "?",
+    "implemented": "10.10",
+    "loot": [
+        {
+            "amount": "1-20",
+            "itemName": "Gold Coin"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "Honeycomb"
+        },
+        {
+            "itemName": "Silver Amulet"
+        },
+        {
+            "itemName": "Small Emerald"
+        },
+        {
+            "itemName": "Silver Raid Token"
+        },
+        {
+            "itemName": "Small Topaz"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "250",
+    "creatureclass": "Invertebrates",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "100%?",
+    "bosstiaryclass": "Nemesis",
+    "primarytype": "Insects",
+    "spawntype": [
+        "Raid",
+        "Unique"
+    ],
+    "race_id": "955",
+    "senseinvis": "?",
+    "illusionable": "yes",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Willi Wasp",
+    "isboss": "yes",
+    "behaviour": "Unknown.",
+    "location": "North of [[Carlin]].",
+    "iceDmgMod": "100%?",
+    "strategy": "Unknown.",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "100%?"
+}

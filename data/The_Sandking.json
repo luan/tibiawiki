@@ -1,0 +1,177 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "The Sandking",
+    "hpDrainDmgMod": "100%?",
+    "notes": "{{JSpoiler|Part of the [[Cults of Tibia Quest]].}}",
+    "walksthrough": "?",
+    "hp": "?",
+    "speed": "?",
+    "abilities": "{{Ability List\n |{{Melee|0-700+|element=physical}}\n |{{Ability|Poison Wave|400-700|element=energy\n  |scene={{Scene|spell=9sqmwave|caster=The Sandking|effect=Poison Effect 3|look_direction=east|damage_effect=Blue Electricity}}}}\n |{{Ability|[[Sparks Effect|Spark Beam]]|500-1000|element=physical}}\n |{{Ability|Death Chain|517+|element=death\n  |scene={{Scene|spell=chainspell|caster=The Sandking|effect=Green Chain Effect|damage_effect=Cloud Effect}}}}\n |{{Ability|Poison Bomb|150-500|element=death\n  |scene={{Scene|spell=2sqmballtarget|caster=The Sandking|effect=Poison Effect 1|missile=Poison Missile|missile_direction=south-east|missile_distance=2/2}}}}\n |{{Ability|Sparks Bomb|?|element=?\n  |scene={{Scene|spell=6sqmballself|caster=The Sandking|effect=Sparks Effect|effect_on_caster=yes|damage_effect=Unknown}}}}\n |{{Ability|Dust Beam|?|element=?\n  |scene={{Scene|spell=8sqmbeam|caster=The Sandking|effect=Dust Effect|look_direction=east|damage_effect=Unknown}}}}\n |{{Healing|range=219-344\n  |scene={{Scene|spell=buffspell|effect=Blue Sparkles Effect|caster=The Sandking|effect_on_caster=yes}}}}\n}}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "100%?",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        "CRRRK!"
+    ],
+    "maxdmg": "2100+",
+    "pushable": "?",
+    "implemented": "11.40.5409",
+    "cooldown": "20",
+    "loot": [
+        {
+            "amount": "200",
+            "itemName": "Gold Coin"
+        },
+        {
+            "amount": "15-30",
+            "itemName": "Platinum Coin"
+        },
+        {
+            "amount": "10",
+            "itemName": "Small Diamond"
+        },
+        {
+            "amount": "10",
+            "itemName": "Small Amethyst"
+        },
+        {
+            "amount": "10",
+            "itemName": "Small Ruby"
+        },
+        {
+            "amount": "10",
+            "itemName": "Small Emerald"
+        },
+        {
+            "amount": "10",
+            "itemName": "Small Topaz"
+        },
+        {
+            "itemName": "Giant Shimmering Pearl"
+        },
+        {
+            "itemName": "Luminous Orb"
+        },
+        {
+            "itemName": "Skull Staff"
+        },
+        {
+            "amount": "3",
+            "itemName": "Green Crystal Shard"
+        },
+        {
+            "amount": "3",
+            "itemName": "Violet Crystal Shard"
+        },
+        {
+            "amount": "3",
+            "itemName": "Blue Crystal Shard"
+        },
+        {
+            "amount": "5-10",
+            "itemName": "Great Spirit Potion"
+        },
+        {
+            "amount": "5-10",
+            "itemName": "Great Mana Potion"
+        },
+        {
+            "amount": "5-10",
+            "itemName": "Ultimate Health Potion"
+        },
+        {
+            "itemName": "Mastermind Potion"
+        },
+        {
+            "itemName": "Red Gem"
+        },
+        {
+            "itemName": "Blue Gem"
+        },
+        {
+            "itemName": "Green Gem"
+        },
+        {
+            "itemName": "Violet Gem"
+        },
+        {
+            "itemName": "Yellow Gem"
+        },
+        {
+            "itemName": "Ring of Healing"
+        },
+        {
+            "itemName": "Cluster of Solace"
+        },
+        {
+            "itemName": "Hailstorm Rod"
+        },
+        {
+            "itemName": "Grasshopper Legs"
+        },
+        {
+            "itemName": "Arcane Staff"
+        },
+        {
+            "itemName": "Huge Chunk of Crude Iron"
+        },
+        {
+            "itemName": "Magic Sulphur"
+        },
+        {
+            "itemName": "Djinn Blade"
+        },
+        {
+            "itemName": "Heart of the Mountain (Item)"
+        },
+        {
+            "itemName": "Runed Sword"
+        },
+        {
+            "itemName": "Cobra Crown"
+        },
+        {
+            "itemName": "Assassin Dagger"
+        },
+        {
+            "itemName": "Gold Token"
+        },
+        {
+            "itemName": "Silver Token"
+        },
+        {
+            "itemName": "Crystalline Axe"
+        },
+        {
+            "itemName": "Calopteryx Cape"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "?",
+    "creatureclass": "Invertebrates",
+    "earthDmgMod": "100%?",
+    "physicalDmgMod": "100%?",
+    "bosstiaryclass": "Archfoe",
+    "primarytype": "Annelids",
+    "spawntype": [
+        "Triggered"
+    ],
+    "race_id": "1444",
+    "senseinvis": "?",
+    "actualname": "The Sandking",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "The Sandking",
+    "isboss": "yes",
+    "behaviour": "Fights in close combat.",
+    "location": "Below the [[Dark Pyramid]].",
+    "iceDmgMod": "100%?",
+    "strategy": "Don't let it step on [[Sand Brood]]s' corpses or it will heal itself. Other than that, just attack it with all your power.\n[[File:The Sandking - Solo - RP (TMA 2020)|left|250px]]",
+    "energyDmgMod": "100%?",
+    "deathDmgMod": "100%?"
+}

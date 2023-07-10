@@ -1,0 +1,86 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "They offer decent amount of money and experience for the effort.",
+    "walksthrough": "None",
+    "hp": "185",
+    "abilities": "{{Ability List|{{Melee|0-50}}}}",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "holyDmgMod": "100%",
+    "maxdmg": "{{Max Damage|physical=50}}",
+    "pushable": "No",
+    "usedelements": "Physical",
+    "implemented": "7.8",
+    "loot": [
+        {
+            "amount": "0-30",
+            "itemName": "Gold Coin"
+        },
+        {
+            "itemName": "Fish"
+        },
+        {
+            "itemName": "Plate Shield",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Battle Hammer",
+            "rarity": "semi-rare"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "Tortoise Egg",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Turtle Shell",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Tortoise Shield",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Fire, Energy, Poison",
+    "exp": "90",
+    "mitigation": "0.51",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "tortoise",
+    "illusionable": "yes",
+    "armor": "22",
+    "convince": "445",
+    "name": "Tortoise",
+    "isboss": "no",
+    "iceDmgMod": "80%",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "100%",
+    "plural": "tortoises",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "no",
+    "occurrence": "Common",
+    "bestiarytext": "In the past, the once peaceful Tortoise of the Shattered Isles has been hunted by sailors and settlers until it was almost eradicated. It is disputed whether the Tortoise has learnt at last to defend itself or, as some members of the explorer's society claim, some kind of natural selection has set in that left only the meanest and most aggressive Tortoises. Be that as it may, nowadays the island Tortoises are quite capable to defend themselves. Heavy natural armor and a strong jaw make up for their slowness to some extent. Still their slowness is their major weakness and it is probably only a matter of time until humans rout them out in their last refuges on the isles.",
+    "speed": "65",
+    "pushobjects": "No",
+    "fireDmgMod": "110%",
+    "sounds": [
+        ""
+    ],
+    "bestiaryclass": "Reptile",
+    "creatureclass": "Reptiles",
+    "earthDmgMod": "80%",
+    "physicalDmgMod": "80%",
+    "primarytype": "Tortoises",
+    "spawntype": [
+        "Regular"
+    ],
+    "race_id": "258",
+    "bestiarylevel": "Easy",
+    "senseinvis": "no",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "tortoise",
+    "behaviour": "These creatures fight until death.<br>Since [[Updates/8.4|update 8.4]] there have been rare spawns of powerful (but slow) tortoises, this is an anti-cheat measure taken by CIP.",
+    "location": "[[Laguna Islands]], [[Fenrock]], [[Port Hope]] and also can be found behind a wall below the center of [[Liberty Bay]]. These cannot be reached.",
+    "strategy": "They are slow and not too hard so they shouldn't be any problem for any vocation; you should be more careful of many [[Toad]]s and [[Thornback Tortoise]]s that usually accompany them. Use parcels if you are of a low level to avoid multiple attacks.<br>You may come across an unusually slow tortoise who heals itself. It no longer hits as hard as it used to, but some testing suggests that it \"trains\" like a slime would. They have abnormally high hit points, and heal a lot, very quickly. This monster is designed to make [[Cheating|Cheaters]] \"stuck\" on this monster, since they cannot kill it."
+}

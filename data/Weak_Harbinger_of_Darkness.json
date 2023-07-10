@@ -1,0 +1,68 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "None.",
+    "walksthrough": "?",
+    "hp": "15000",
+    "speed": "?",
+    "abilities": "{{Ability List|{{Melee}}}}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "secondarytype": "Event Creatures",
+    "fireDmgMod": "100%?",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "?",
+    "pushable": "?",
+    "implemented": "8.50",
+    "loot": [
+        {
+            "amount": "0-98",
+            "itemName": "Gold Coin"
+        },
+        {
+            "amount": "0-28",
+            "itemName": "Platinum Coin"
+        },
+        {
+            "itemName": "Midnight Shard"
+        },
+        {
+            "amount": "0-4",
+            "itemName": "Small Emerald"
+        },
+        {
+            "amount": "0-5",
+            "itemName": "Small Diamond"
+        },
+        {
+            "itemName": "Gold Ingot"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "8700",
+    "creatureclass": "Demons",
+    "earthDmgMod": "100%?",
+    "physicalDmgMod": "100%?",
+    "primarytype": "Demons",
+    "senseinvis": "?",
+    "article": "a",
+    "actualname": "weak harbinger of darkness",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Weak Harbinger of Darkness",
+    "isboss": "no",
+    "behaviour": "They chase until death.",
+    "location": "[[Temple of Light]], during certain circumstances in the [[Lightbearer]] event.",
+    "iceDmgMod": "100%?",
+    "strategy": "Unknown.",
+    "energyDmgMod": "100%?",
+    "deathDmgMod": "100%?",
+    "status": "deprecated"
+}

@@ -1,0 +1,105 @@
+{
+    "summon": "300",
+    "templateType": "Creature",
+    "notes": "Good [[monsters]] to [[level]] on in [[Rookgaard]].<br />{{JSpoiler|A single Orc that rarely spawns in the [[Orc Fort]] drops an [[Old and Used Backpack]].<br /> {{Seealso|Sam's Old Backpack Quest}}}}",
+    "walksthrough": "?",
+    "hp": "70",
+    "abilities": "{{Ability List|{{Melee|0-35}}}}",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "holyDmgMod": "90%",
+    "maxdmg": "{{Max Damage|physical=35}}",
+    "pushable": "yes",
+    "usedelements": "Physical",
+    "implemented": "Pre-6.0",
+    "loot": [
+        {
+            "amount": "0-14",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Axe",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Meat",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Sabre",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Studded Armor",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Studded Shield",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Studded Helmet",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Heavy Old Tome",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Orc Leather",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Orc Tooth",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Fire, Energy, Poison",
+    "exp": "25",
+    "mitigation": "0.20",
+    "attacktype": "Melee",
+    "history": "The sprite has changed with [[Updates/10.55|Update 10.55]], from [[File:Orc (Old).gif]] to [[File:Orc.gif]]",
+    "article": "an",
+    "actualname": "orc",
+    "illusionable": "yes",
+    "armor": "4",
+    "convince": "300",
+    "name": "Orc",
+    "isboss": "no",
+    "iceDmgMod": "100%",
+    "energyDmgMod": "80%",
+    "deathDmgMod": "110%",
+    "plural": "orcs",
+    "hpDrainDmgMod": "100%",
+    "usespells": "no",
+    "occurrence": "Common",
+    "bestiarytext": "Orcs are a very ancient race that once ruled the whole of Tibia. Later, they were expelled from the upper world by other races, and now they live in the dungeons of Tibia. They are human-like and very wily. Organised as paramilitary squads they can be quite dangerous.",
+    "speed": "75",
+    "pushobjects": "no",
+    "fireDmgMod": "100%",
+    "sounds": [
+        "Grow truk grrrrr.",
+        "Prek tars, dekklep zurk.",
+        "Grak brrretz!"
+    ],
+    "runsat": "15",
+    "bestiaryclass": "Humanoid",
+    "creatureclass": "Humanoids",
+    "earthDmgMod": "110%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Orcs",
+    "spawntype": [
+        "Regular",
+        "Raid",
+        "Unblockable"
+    ],
+    "race_id": "5",
+    "bestiarylevel": "Easy",
+    "senseinvis": "no",
+    "drownDmgMod": "100%",
+    "bestiaryname": "orc",
+    "behaviour": "Orcs cannot push items.",
+    "location": "[[Ulderek's Rock]], [[Edron Orc Cave]], [[Ancient Temple]], [[Ice Islands]], [[Venore Orc Cave]], [[Rookgaard Orc Fortress]], [[Rookgaard]] main cave, [[Fibula Dungeon]], [[Elvenbane]], [[Foreigner Quarter]], [[Zao Orc Land]].",
+    "strategy": "You should be at least Level 4 to fight them. Be careful when hunting them at low levels, as they might come together with [[Orc Spearmen]]."
+}

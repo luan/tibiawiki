@@ -1,0 +1,77 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "The 3-4 [[monk]]s he spawns with are not summoned, so be careful. When this creature is spawned, you may notice that there are far more [[Ice Golem]]s than usual in the cave below him. You ''may'' be roped up the moment you step on the square below the hole in his room. You must walk around {{Mapper Coords|125.127|121.173|3|4|text=here}} if you want to get roped. Once roped a message will appear: <br>{{Sound|You have been roped up!}}.\n\nThe [[Man in the Cave]] was started from a {{Thread|1344512|post}} on the [[Tibia Forum]]s in August 2006 by a player on [[Luminera]] named Frack'Heart (now deleted). Apparently Frack'Heart was complaining about a player in the [[Kazordoon]] [[Dwarf Mines]] who was roping creatures. His English skills were far from advanced, therefore the post was hard to understand.\n\nHe is also the only creature known to drop the [[Fur Cap]].\n\n''See also:'' {{OfficialNewsArchive|3516|C.G.B. – Top Secret}}\n\n<noinclude><gallery mode=\"nolines\">\nMIC.jpg|Man in the Cave on [[Antica]]\nMan in the Cave for Tibia Wiki.jpg|Man in the cave on [[Unitera]]\nmaninthekejv.PNG|Man in the Cave on Refugia\nMan in the Cave Monks.png|You can hear the monks if you're standing exactly under his room. \n</gallery></noinclude>",
+    "isarenaboss": "no",
+    "walksthrough": "?",
+    "hp": "485",
+    "speed": "?",
+    "abilities": "{{Ability List| {{Melee|0-62|element=physical}}|{{Ability|Throws [[Small Stone]]s|0-95}}|{{Summon|Monk|?}}|{{Haste}}|{{Healing}} }}",
+    "pushobjects": "yes",
+    "healMod": "100%?",
+    "paraimmune": "no",
+    "fireDmgMod": "100%?",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        "THE MONKS ARE MINE!",
+        "I will rope you up! All of you!",
+        "Have you seen my old pal Frack?",
+        "A MIC to rule them all!",
+        "Let me put my rope around your neck!"
+    ],
+    "maxdmg": "157",
+    "pushable": "no",
+    "implemented": "8.00",
+    "loot": [
+        {
+            "amount": "0-40?",
+            "itemName": "Gold Coin"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "Rope"
+        },
+        {
+            "itemName": "Brown Piece of Cloth"
+        },
+        {
+            "itemName": "Mercenary Sword"
+        },
+        {
+            "itemName": "Fur Cap"
+        },
+        {
+            "itemName": "Shard"
+        },
+        {
+            "itemName": "Brown Bread"
+        },
+        {
+            "itemName": "Mammoth Fur Cape"
+        }
+    ],
+    "walksaround": "Fire,Energy,Poison",
+    "exp": "777",
+    "creatureclass": "Humans",
+    "earthDmgMod": "100%?",
+    "physicalDmgMod": "100%?",
+    "bosstiaryclass": "Nemesis",
+    "primarytype": "Outlaws",
+    "race_id": "338",
+    "history": "The monster was a [[CipSoft]] tribute to a Lumineran player called Frack'Heart (now deleted) who posted a {{Thread|1344512|thread}} trying to warn all sorcerers and druids that he was hunting in the dwarf mines and something \"roped his monk summoned\". Since Frack'Heart's English was so bad, people got confused, missinformed and just flamed him. \n\nThe [[Tibia.com]] Featured Article of April, 2016, was about the myth of the Man in the Cave. You can read the article {{OfficialNewsArchive|3516|here}}.\n\n==== Discovery of Man in the Cave ====\nReports by [http://www.tibia.com/community/?subtopic=characters&name=Chaotic+Sorcerer Chaotic Sorcerer] on Luminera said that he spawns in the Svargrond Mines and that he only found the spawn by chance. Chaotic was just exploring formorgar glacier with a friend when suddenly he saw the orange text. \"You have been roped\"...\n\n[[File:ManinCave1.jpg|300px]]",
+    "senseinvis": "yes",
+    "actualname": "man in the cave",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Man in the Cave",
+    "isboss": "yes",
+    "behaviour": "Runs in low health.",
+    "location": "Inside the [[Formorgar Glacier]], {{Mapper Coords|125.133|121.172|2|2|text=here}}.",
+    "iceDmgMod": "100%?",
+    "strategy": "Kill him fast. He is a lot weaker than his [[Monk|summons]].",
+    "energyDmgMod": "100%?",
+    "deathDmgMod": "100%?"
+}

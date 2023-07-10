@@ -1,0 +1,140 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "Raid occurs in different cities at different times. You will never know in which city until the raid is announced. Normally spawns near depot but also on other locations throughout the city. Raids occur during April fool's month.\n<gallery captionalign=\"left\" mode=\"nolines\">\nUndead jester.GIF|Some undead jesters and their abilities.\n</gallery>",
+    "walksthrough": "?",
+    "hp": "355",
+    "abilities": "{{Ability List| {{Melee|?}}|{{Ability|[[Drunkness|Liquor Cream Cake]] causes heavy [[Drunkenness]]|element=drunk}}|{{Ability|[[Cave Rat|Musical Bomb]]|[[summon]]s 4 [[Cave Rat]]s|element=summon}}|{{Ability|[[Self-Healing]]|makes confetti|element=healing}}|{{Ability|[[Invisibility]]|looks similar to [[Death Strike]]|element=invisible}}|{{Ability|[[Paralyze|Paralyzing Confetti Wave]]|element=paralyze}} }}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "secondarytype": "Undead Humanoids",
+    "holyDmgMod": "120%",
+    "maxdmg": "3 (43 with summons)",
+    "pushable": "?",
+    "implemented": "8.10",
+    "loot": [
+        {
+            "itemName": "Fish",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Suspicious Surprise Bag",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Red Piece of Cloth",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Yellow Piece of Cloth",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "White Piece of Cloth",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Green Piece of Cloth",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Blue Piece of Cloth",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Brown Piece of Cloth",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "The Head of a Jester Doll",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Part of a Jester Doll (Right Leg)",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Part of a Jester Doll (Left Leg)",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Part of a Jester Doll (Right Arm)",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Part of a Jester Doll (Left Arm)",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "The Torso of a Jester Doll",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Green Perch",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Rainbow Trout",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Marlin",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "5",
+    "mitigation": "0.13",
+    "attacktype": "Distance",
+    "article": "an",
+    "actualname": "undead jester",
+    "illusionable": "no",
+    "armor": "3",
+    "convince": "--",
+    "name": "Undead Jester",
+    "isboss": "no",
+    "iceDmgMod": "70%",
+    "energyDmgMod": "90%",
+    "deathDmgMod": "0%",
+    "status": "event",
+    "plural": "undead jesters",
+    "hpDrainDmgMod": "0%",
+    "usespells": "yes",
+    "occurrence": "Very Rare",
+    "speed": "112",
+    "pushobjects": "yes",
+    "fireDmgMod": "80%",
+    "sounds": [
+        "Who's bad?",
+        "I have a cunning plan!",
+        "Resistance is futile! You will be amused!",
+        "Pull my finger!",
+        "Why did the chicken cross the road? TO KILL YOU!!!",
+        "I will teach you all to mock me!",
+        "He who laughs last, Laughs best!",
+        "Th-Th-Th-That's all, folks!",
+        "A zathroth priest, a druid and a paladin walk into a bar ...",
+        "Ha Ha!",
+        "Doh!",
+        "Zathroth made me do it!",
+        "And now for something completely different!",
+        "You think this is funny now?",
+        "Are we having fun yet?",
+        "Did I do that?"
+    ],
+    "bestiaryclass": "Undead",
+    "creatureclass": "Special",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Event Creatures",
+    "spawntype": [
+        "Event"
+    ],
+    "race_id": "388",
+    "bestiarylevel": "Trivial",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%",
+    "behaviour": "Keeps distance, [[retarget]]s and runs in yellow health.",
+    "location": "[[Ab'Dendriel]], [[Ankrahmun]], [[Carlin]], [[Darashia]], [[Edron]], [[Kazordoon]] (floor -3, between entrance and [[depot]]), [[Liberty Bay]], [[Port Hope]] (west, east and south across river from [[Depot]]), [[Svargrond]], [[Thais]], [[Venore]], [[Yalahar]].",
+    "strategy": "Just kill them. [[Dwarven Ring]] is a must or you will waste a lot of time trying to reach them."
+}

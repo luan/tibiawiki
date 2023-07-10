@@ -1,0 +1,106 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "These Magic [[Creature]]s are the counterpart of [[Blue Djinn]] and a lower rank than [[Efreet]]. They can turn you into a [[rat]] and cancel your invisibility.\n\n{{JSpoiler|You can receive a task to kill 500 green djinns of the [[Killing in the Name of... Quest]]. When you complete this task you may fight [[Merikh the Slaughterer]].}}",
+    "walksthrough": "None.",
+    "hp": "330",
+    "abilities": "{{Ability List\n |{{Melee|0-110}}\n |{{Ability|fire strike|45-75|fire\n  |scene={{Scene|spell=7sqmstrike|caster=Green Djinn|missile=Fire Missile|missile_direction=south-east|missile_distance=7/7|effect=None}}}}\n |{{Ability|energy strike|50-90|electrified\n  |scene={{Scene|spell=7sqmstrike|caster=Green Djinn|missile=Energy Missile|missile_direction=south-east|missile_distance=7/7|effect=None}}}}\n |{{Ability|life drain strike|55-105|life drain\n  |scene={{Scene|spell=7sqmstrike|caster=Green Djinn|missile=Death Missile|missile_direction=south-east|missile_distance=7/7|effect=None}}}}\n |{{Ability|Drunkenness|30 seconds|drunk\n  |scene={{Scene|spell=7sqmstrike|effect=Teleport Effect|caster=Green Djinn|missile=Energy Missile|missile_direction=south-east|missile_distance=7/7}}}}\n |{{Ability|[[Cancel Invisibility]]|element=invisible}}\n |{{Outfit|yes|rat|{{Scene|spell=7sqmstrike|effect=Blue Sparkles Effect|caster=Green Djinn|missile_direction=south-east|missile_distance=7/7}}}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "holyDmgMod": "113%",
+    "maxdmg": "320+",
+    "pushable": "?",
+    "usedelements": "Fire > Death > Energy > Melee",
+    "implemented": "7.3",
+    "loot": [
+        {
+            "amount": "0-115",
+            "itemName": "Gold Coin"
+        },
+        {
+            "itemName": "Cheese"
+        },
+        {
+            "itemName": "Dirty Turban",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Book (Green)",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Green Piece of Cloth",
+            "rarity": "semi-rare"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "Royal Spear",
+            "rarity": "semi-rare"
+        },
+        {
+            "amount": "0-4",
+            "itemName": "Small Emerald",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Grave Flower",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Mana Potion",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Small Oil Lamp",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Mystic Turban",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Fire, Energy, Poison",
+    "exp": "215",
+    "mitigation": "0.78",
+    "attacktype": "Melee",
+    "history": "Although the Green Djinn was technically implemented with the [[Updates/7.3|Summer Update 2004]], its first spawns were added to the game with the [[Updates/7.4|Christmas Update 2004]].",
+    "article": "a",
+    "actualname": "green djinn",
+    "illusionable": "no",
+    "armor": "20",
+    "convince": "--",
+    "name": "Green Djinn",
+    "isboss": "no",
+    "iceDmgMod": "110%",
+    "energyDmgMod": "50%",
+    "deathDmgMod": "80%",
+    "plural": "green djinns",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "In ancient times the Green Djinns lost a great war against their blue brethren. Considered to be extinct, the last knowledge of these powerful beings turned into legends and legends became fairy-tales. Those who have encountered the recently resurfaced, self-proclaimed masters of evil can attest that they are indeed, a reality, and not a pleasant one. These magic-wielding enemies of all good embrace destruction and enjoy causing pain. Although only inferior members of the green-skinned race have been sighted until now, they are enemies to beware of.  Their magical tricks make them more than a match for unexpecting adventurers. Despising all living beings and everything that is beautiful, their especially passionate hatred is reserved for their blue-skinned relatives, whom they regard as traitors to djinnkind.",
+    "speed": "110",
+    "pushobjects": "?",
+    "fireDmgMod": "20%",
+    "sounds": [
+        "Good wishes are for fairytales",
+        "I wish you a merry trip to hell!",
+        "Muhahahaha!",
+        "I grant you a deathwish!",
+        "Tell me your last wish!"
+    ],
+    "runsat": "0",
+    "bestiaryclass": "Magical",
+    "creatureclass": "Humanoids",
+    "earthDmgMod": "100%",
+    "physicalDmgMod": "80%",
+    "primarytype": "Djinn",
+    "race_id": "51",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "greendjinn",
+    "behaviour": "Green Djinns use strong melee when close to their opponents, and [[Energy|Energy Attacks]] when the opponent is at a [[distance]].",
+    "location": "[[Mal'ouquah]], [[Oasis Tomb]], under the [[Ankrahmun Library Tomb]], [[Serpentine Tower]] last floor behind the [[Magic Wall]]s, [[Deeper Banuta]], [[Goroma]] underground, [[Magician Quarter]].",
+    "strategy": "It is '''highly recommended''' to wear a [[Dwarven Ring]] as it can save you a trip back to the [[Temple]]! When Djinns make you [[drunk]], it is '''very hard''' to control your movements. They can make you '''very''' [[drunk]]. A useful way for a sorcerer or druid to kill one is to summon a [[Demon Skeleton]] and to use that to attack and block the djinn and also use [[Ice Strike]] to kill it faster, this is a useful technique as the Demon Skeleton would not take much damage aside from [[Energy Damage|electrical attacks]], so you may need to summon another one every 5-6 djinns. At about level 60 a druid can easily and quickly kill these using just their [[Hailstorm Rod]] and [[Ice Strike]].\nAnother option is running and shooting with [[Avalanche Rune]]."
+}

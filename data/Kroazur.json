@@ -1,0 +1,112 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "Kroazur",
+    "hpDrainDmgMod": "100%?",
+    "notes": "You can kill this boss once every 2 real-life hours. {{JSpoiler|Part of the [[Threatened Dreams Quest]].}}",
+    "walksthrough": "?",
+    "hp": "3000",
+    "speed": "?",
+    "abilities": "{{Ability List|}}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "45%",
+    "holyDmgMod": "105%",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "?",
+    "pushable": "?",
+    "cooldown": "2",
+    "implemented": "11.40.5409",
+    "loot": [
+        {
+            "amount": "31-365",
+            "itemName": "Gold Coin",
+            "rarity": "always"
+        },
+        {
+            "amount": "1-7",
+            "itemName": "Platinum Coin",
+            "rarity": "always"
+        },
+        {
+            "itemName": "Fairy Wings",
+            "rarity": "always"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Strong Health Potion"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "Great Health Potion"
+        },
+        {
+            "amount": "1-5",
+            "itemName": "Small Enchanted Amethyst"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "Ancient Coin"
+        },
+        {
+            "amount": "1-5",
+            "itemName": "Small Enchanted Emerald"
+        },
+        {
+            "itemName": "Gemmed Figurine"
+        },
+        {
+            "amount": "1-8",
+            "itemName": "Assassin Star"
+        },
+        {
+            "itemName": "Cluster of Solace"
+        },
+        {
+            "itemName": "Gold Ingot"
+        },
+        {
+            "itemName": "Silver Token"
+        },
+        {
+            "itemName": "Red Crystal Fragment"
+        },
+        {
+            "itemName": "Nightmare Blade"
+        },
+        {
+            "itemName": "Gold Token"
+        },
+        {
+            "itemName": "Small Enchanted Sapphire"
+        },
+        {
+            "itemName": "Small Enchanted Ruby"
+        }
+    ],
+    "walksaround": "Fire, Poison, Energy",
+    "exp": "2700",
+    "creatureclass": "Demons",
+    "earthDmgMod": "20%",
+    "physicalDmgMod": "100%?",
+    "bosstiaryclass": "Bane",
+    "primarytype": "Demons",
+    "race_id": "1515",
+    "senseinvis": "?",
+    "actualname": "Kroazur",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Kroazur",
+    "isboss": "yes",
+    "behaviour": "Will fight in close combat.",
+    "location": "[[Feyrist]] nightmare creatures cave.",
+    "iceDmgMod": "90%?",
+    "strategy": "Mages and paladins below level 150 can use field runes to keep it away while attacking it. Its room is also quite big so it's easy to run around it.",
+    "energyDmgMod": "80%",
+    "deathDmgMod": "100%?"
+}

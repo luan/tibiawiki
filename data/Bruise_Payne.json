@@ -1,0 +1,86 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "Part of the [[Killing in the Name of... Quest]]. It is also an [[Allusions#Comic Books|allusion]] to [https://en.wikipedia.org/wiki/Batman Batman].",
+    "isarenaboss": "no",
+    "walksthrough": "Poison",
+    "hp": "1600",
+    "speed": "?",
+    "abilities": "{{Ability List| {{Melee|0-240+?}}|{{Ability|White Musical Bomb around itself|0-237+|element=?}}|{{Ability|slow [[Self-Healing]]|50-65|element=healing}}|{{Ability|earth wave|poisons for up to 9 hp/turn|element=earth}} }}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "secondarytype": "Mutated Mammals",
+    "fireDmgMod": "100%",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "?",
+    "pushable": "?",
+    "runsat": "red",
+    "implemented": "9.50",
+    "loot": [
+        {
+            "amount": "3-99",
+            "itemName": "Gold Coin",
+            "rarity": "always"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "Bat Wing"
+        },
+        {
+            "itemName": "Energy Ring",
+            "rarity": "always"
+        },
+        {
+            "itemName": "Mutated Bat Ear",
+            "rarity": "always"
+        },
+        {
+            "amount": "0-5",
+            "itemName": "Small Amethyst",
+            "rarity": "always"
+        },
+        {
+            "itemName": "Star Herb",
+            "rarity": "always"
+        },
+        {
+            "itemName": "Batwing Hat"
+        },
+        {
+            "amount": "0-5",
+            "itemName": "Black Pearl"
+        },
+        {
+            "itemName": "Black Shield"
+        },
+        {
+            "itemName": "Mercenary Sword"
+        }
+    ],
+    "walksaround": "Fire, Energy",
+    "exp": "1000",
+    "creatureclass": "Mammals",
+    "earthDmgMod": "35%<?",
+    "physicalDmgMod": "100%?",
+    "primarytype": "Bats",
+    "race_id": "848",
+    "senseinvis": "?",
+    "actualname": "Bruise Payne",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Bruise Payne",
+    "isboss": "yes",
+    "behaviour": "Behaves much like a regular [[Mutated Bat]].",
+    "location": "A bat-shaped area above northern [[Zao]]. To access it, enter the [[Magic Forcefield]] located in [[Yalahar]]'s [[Alchemist Quarter]], {{Mapper Coords|127.167|121.138|3|4|text=here}}.",
+    "iceDmgMod": "80%?",
+    "strategy": "Unknown.",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "0%"
+}

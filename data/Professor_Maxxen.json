@@ -1,0 +1,68 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "{{JSpoiler|It's the final boss of the [[Hero of Rathleton Quest]].}}",
+    "walksthrough": "?",
+    "hp": "90000",
+    "speed": "?",
+    "abilities": "{{Ability List|}}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "100%?",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "?",
+    "pushable": "?",
+    "implemented": "10.70",
+    "loot": [
+        {
+            "itemName": "Glooth Glider Casing"
+        },
+        {
+            "itemName": "Feedbag"
+        },
+        {
+            "itemName": "Gold Ingot"
+        },
+        {
+            "itemName": "Rusted Armor"
+        },
+        {
+            "itemName": "Glooth Bag"
+        },
+        {
+            "itemName": "Platinum Coin"
+        },
+        {
+            "itemName": "Slightly Rusted Armor"
+        },
+        {
+            "itemName": "Rusted Legs"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "15500",
+    "creatureclass": "Misc",
+    "earthDmgMod": "100%?",
+    "physicalDmgMod": "100%?",
+    "bosstiaryclass": "Bane",
+    "primarytype": "Machines",
+    "race_id": "1093",
+    "senseinvis": "?",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Professor Maxxen",
+    "isboss": "yes",
+    "behaviour": "Unknown.",
+    "location": "Deep under [[Rathleton]].",
+    "iceDmgMod": "100%?",
+    "strategy": "Unknown.",
+    "energyDmgMod": "100%?",
+    "deathDmgMod": "100%?"
+}

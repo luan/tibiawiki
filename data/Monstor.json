@@ -1,0 +1,58 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "0%",
+    "notes": "It's the fifth floor boss. Use his body to get a random reward before you use the body of Evil Mastermind, otherwise you may not get any item.  Probably an allusion to The Incredible Hulk.",
+    "walksthrough": "None",
+    "hp": "960",
+    "speed": "?",
+    "abilities": "{{Ability List\n |{{Melee|0-167+}}\n |{{Ability|Green Lifedrain Wave|66-85+|lifedrain}}\n |{{Healing|[[Self-Healing]] looks like burning}}\n |{{Summon|Acid Blob|3}}\n}}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "50%",
+    "holyDmgMod": "103%",
+    "sounds": [
+        "NO ARMY ME STOPPING! GRARR!",
+        "ME DESTROY CITY! GROAR!",
+        "WHARR! MUST ... KIDNAP WOMEN!"
+    ],
+    "maxdmg": "{{Max Damage|physical=167?|lifedrain=85?|summons=480}}",
+    "pushable": "?",
+    "runsat": "0",
+    "implemented": "8.50",
+    "loot": [
+        {
+            "itemName": "Helmet of Ultimate Terror"
+        },
+        {
+            "itemName": "Farmer's Avenger"
+        },
+        {
+            "itemName": "Shield of Care"
+        },
+        {
+            "itemName": "Incredible Mumpiz Slayer"
+        }
+    ],
+    "walksaround": "Fire, Energy, Poison",
+    "exp": "575",
+    "creatureclass": "Demons",
+    "earthDmgMod": "70%",
+    "physicalDmgMod": "80%",
+    "bosstiaryclass": "Bane",
+    "primarytype": "Demons",
+    "race_id": "568",
+    "senseinvis": "yes",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Monstor",
+    "isboss": "yes",
+    "location": "[[Isle of Evil]].",
+    "iceDmgMod": "90%",
+    "strategy": "The stairs that goes up can be used so you get hit only by 2 monsters, try to trap yourself there with 2 gargoyles and shoot monstor with distance attacks.",
+    "energyDmgMod": "107%",
+    "deathDmgMod": "100%?"
+}

@@ -1,0 +1,103 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "She is the [[Dragon]] boss that spawns with their raid on [[Muggy Plains]] (25 minutes after the initial raid message). She looks the same as a [[Dragon]]. Her corpse can be skinned in order to get a [[Green Dragon Leather]].\n\n<gallery mode=\"nolines\">\nImage:Grand_Mother_after_and_before_8.7.gif|Grand Mother Foulscale\nScreenshot (212).png|Don't try to screenshot without watching your HP or you could end up like this.\n</gallery>",
+    "walksthrough": "?",
+    "hp": "1850",
+    "speed": "?",
+    "abilities": "{{Ability List| {{Melee|?}}|{{Ability|[[Fire Wave]]|0-152?|element=fire}}|{{Ability|[[Great Fireball]]|element=fire}}|{{Ability|Great Musical Bomb|[[Summon]]s 4 [[Dragon Hatchling]]s at once|element=summon}}|{{Healing}} }}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "yes",
+    "fireDmgMod": "0%",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        "GROOAAARRR!"
+    ],
+    "maxdmg": "300+ (without summons)",
+    "pushable": "?",
+    "implemented": "8.54",
+    "loot": [
+        {
+            "amount": "0-71",
+            "itemName": "Gold Coin"
+        },
+        {
+            "itemName": "Dragon Ham"
+        },
+        {
+            "amount": "5-8",
+            "itemName": "Burst Arrow"
+        },
+        {
+            "itemName": "Short Sword"
+        },
+        {
+            "itemName": "Steel Shield"
+        },
+        {
+            "itemName": "Mace"
+        },
+        {
+            "itemName": "Longsword"
+        },
+        {
+            "itemName": "Plate Legs"
+        },
+        {
+            "itemName": "Steel Helmet"
+        },
+        {
+            "itemName": "Crossbow"
+        },
+        {
+            "itemName": "Double Axe"
+        },
+        {
+            "itemName": "Dragon Hammer"
+        },
+        {
+            "itemName": "Wand of Inferno"
+        },
+        {
+            "itemName": "Dragonbone Staff"
+        },
+        {
+            "itemName": "Dragon Shield"
+        },
+        {
+            "itemName": "Green Dragon Scale",
+            "rarity": "always"
+        },
+        {
+            "itemName": "Green Dragon Leather",
+            "rarity": "always"
+        },
+        {
+            "itemName": "Broadsword"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "1400",
+    "creatureclass": "Reptiles",
+    "earthDmgMod": "20%?",
+    "physicalDmgMod": "100%?",
+    "bosstiaryclass": "Nemesis",
+    "primarytype": "Dragons",
+    "race_id": "642",
+    "senseinvis": "yes",
+    "actualname": "Grand Mother Foulscale",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Grand Mother Foulscale",
+    "isboss": "yes",
+    "behaviour": "She will run away with red hp.",
+    "location": "[[Muggy Plains]], {{Mapper Coords|text=here|130.28|121.198|7|2|1|0.50.5}}",
+    "iceDmgMod": "105%",
+    "strategy": "Same as a dragon, but keep in mind she has more [[hp]] and also summons [[Dragon Hatchling]]s. Don't underestimate the damage that dragon hatchlings can deal!",
+    "energyDmgMod": "75%?",
+    "deathDmgMod": "100%?"
+}

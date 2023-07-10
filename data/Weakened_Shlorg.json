@@ -1,0 +1,129 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "One of the raid bosses with special mechanics.",
+    "walksthrough": "?",
+    "hp": "10000",
+    "speed": "?",
+    "abilities": "{{Ability List|}}",
+    "pushobjects": "yes",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "100%?",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        "Slurp!",
+        "Tchhh!"
+    ],
+    "maxdmg": "?",
+    "pushable": "no",
+    "implemented": "10.20",
+    "loot": [
+        {
+            "amount": "105",
+            "itemName": "Gold Coin"
+        },
+        {
+            "amount": "5",
+            "itemName": "Platinum Coin"
+        },
+        {
+            "amount": "5",
+            "itemName": "Small Emerald"
+        },
+        {
+            "itemName": "Small Topaz"
+        },
+        {
+            "amount": "3",
+            "itemName": "Great Spirit Potion"
+        },
+        {
+            "amount": "3",
+            "itemName": "Ultimate Health Potion"
+        },
+        {
+            "amount": "3",
+            "itemName": "Great Mana Potion"
+        },
+        {
+            "amount": "2",
+            "itemName": "Silver Raid Token"
+        },
+        {
+            "amount": "2",
+            "itemName": "Boggy Dreads"
+        },
+        {
+            "itemName": "Green Piece of Cloth"
+        },
+        {
+            "itemName": "Blue Piece of Cloth"
+        },
+        {
+            "itemName": "Yellow Piece of Cloth"
+        },
+        {
+            "itemName": "Red Piece of Cloth"
+        },
+        {
+            "itemName": "Yellow Gem"
+        },
+        {
+            "itemName": "Green Gem"
+        },
+        {
+            "itemName": "Springsprout Rod"
+        },
+        {
+            "itemName": "Belted Cape"
+        },
+        {
+            "itemName": "Serpent Sword"
+        },
+        {
+            "itemName": "Angelic Axe"
+        },
+        {
+            "itemName": "Glorious Axe"
+        },
+        {
+            "itemName": "Chaos Mace"
+        },
+        {
+            "itemName": "Paladin Armor"
+        },
+        {
+            "itemName": "Goo Shell"
+        },
+        {
+            "itemName": "Glass of Goo"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "6500",
+    "creatureclass": "Elementals",
+    "earthDmgMod": "100%?",
+    "physicalDmgMod": "100%?",
+    "primarytype": "Bio-Elementals",
+    "spawntype": [
+        "Raid",
+        "Unique",
+        "Triggered"
+    ],
+    "race_id": "992",
+    "senseinvis": "?",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Weakened Shlorg",
+    "isboss": "yes",
+    "behaviour": "Fights in close range.",
+    "location": "[[Edron Earth Elemental Cave]]",
+    "iceDmgMod": "100%?",
+    "strategy": "To start with he is [[Shlorg|invincible]] so you must use [[Smoking Coal]] on the basins in the room to make him a Weakened Shlorg then he is finally killable, its advised to run and kill this monster because he has strong physical attacks.",
+    "energyDmgMod": "100%?",
+    "deathDmgMod": "100%?"
+}

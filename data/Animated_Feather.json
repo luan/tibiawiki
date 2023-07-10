@@ -1,0 +1,143 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "<gallery captionalign=\"center\" mode=\"nolines\">\nAnimated Feather Artwork.jpg|Official [[Creature Artwork]]\n</gallery>",
+    "walksthrough": "Energy, Poison",
+    "hp": "13000",
+    "abilities": "{{Ability List\n |{{Melee|0-400}}\n |{{Ability|Ice Strike|600-800|element=Ice\n  |scene={{Scene|spell=2sqmstrike|effect=Ice Explosion Effect|missile=Ice Missile|missile_direction=south-east|missile_distance=2/2|background=slate_floor|caster=Animated Feather}}}}\n |{{Ability|Ice Tornado|600-900|element=ice\n  |scene={{Scene|spell=xspell|effect=Ice Tornado Effect Small|effect_on_caster=yes|background=slate_floor|caster=Animated Feather|edge_size=32}}}}\n |{{Ability|Ice Wave|800-1200|element=ice\n  |scene={{Scene|spell=3sqmwave|effect=Ice Explosion Effect|look_direction=east|background=slate_floor|caster=Animated Feather|edge_size=32}}}}\n |{{Ability|Icicles|600-800|element=ice\n  |scene={{Scene|spell=1sqmballtarget|effect=Icicle Effect|missile=Ice Missile|missile_direction=south-east|missile_distance=2/2|background=slate_floor|caster=Animated Feather|edge_size=32}}}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "holyDmgMod": "100%",
+    "maxdmg": "{{Max Damage|ice=2000|physical=400}}",
+    "pushable": "no",
+    "usedelements": "Ice, Physical",
+    "implemented": "11.80.7048",
+    "loot": [
+        {
+            "amount": "1-12",
+            "itemName": "Small Sapphire",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-21",
+            "itemName": "Platinum Coin",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-5",
+            "itemName": "Glowing Rune",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Glacier Mask",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Energy Ring",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Ice Cube",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Ultimate Mana Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Quill",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Diamond Sceptre",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Glacier Amulet",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Golden Mug",
+            "rarity": "semi-rare"
+        },
+        {
+            "amount": "1-12",
+            "itemName": "Small Diamond",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Life Crystal",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Hailstorm Rod",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Crystal Mace",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Sapphire Hammer",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Glacial Rod",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Crystalline Armor",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Leviathan's Amulet",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Fire",
+    "exp": "9860",
+    "mitigation": "2.02",
+    "attacktype": "Melee",
+    "history": "Its experience was decreased from 11,600 to 9,860 with the first batch of changes of [[Updates/12.31|Update 12.31]].",
+    "article": "an",
+    "actualname": "animated feather",
+    "illusionable": "no",
+    "armor": "79",
+    "convince": "--",
+    "name": "Animated Feather",
+    "isboss": "no",
+    "iceDmgMod": "0%",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "100%",
+    "plural": "animated feathers",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "lightcolor": "179",
+    "occurrence": "Common",
+    "bestiarytext": "Animated fathers are usually created as simple golems that serve as copyists and automated scribes. Unspectacular and not sentient on their own, they are mere tools for powerful magicians. There are rumours, though, of ancient feathers that copied so many arcane texts, that some of the knowledge gradually accumulated in them. Slowly but steadily they grow in power and sentience. Eventually they acquired some sort of self awareness. Becoming less of a tool and more of a being, they grew less useful for their original purpose. At some point they are pulled from their copy duties and act more like librarians. Their main function becomes to contain dangerous knowledge with the use of their acquired skills in glyphs and wards. Still they are obsessed with their original purpose and copy random books in their spare time, accumulating more and more knowledge in the process. They are highly skilled in the use of arcane sigils but in the time of need and urgency they rather employ spontaneous bursts of the magic they acquired. Even when protecting themselves or their libraries, they still act more like emotionless constructs reacting on a more practical base. Their fighting style might also best be described as 'efficient'. It takes an extremely long time for an animated feather to display some kind of personality. Most perish to the teeth of time and accidents. The few that endure can become quite intelligent, even quirky. Rumour has it, that a few feathers authored books on their own, not even just compiled knowledge they acquired but genuinely new and creative works with astounding insights. At least one extremely old animated feather chose to author books of comedic limericks while another specialized on acclaimed love poems.",
+    "speed": "210",
+    "pushobjects": "yes",
+    "fireDmgMod": "118%",
+    "sounds": [
+        ""
+    ],
+    "lightradius": "4",
+    "runsat": "0",
+    "bestiaryclass": "Magical",
+    "creatureclass": "Demons",
+    "earthDmgMod": "100%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Possessed Objects",
+    "spawntype": [
+        "Regular"
+    ],
+    "race_id": "1671",
+    "bestiarylevel": "Hard",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "animatedfeather",
+    "behaviour": "Fights in close combat.",
+    "location": "[[The Secret Library]] ice section.",
+    "strategy": "Use as much [[Ice Damage]] protection as you can, because this will be the biggest part of the damage when fighting these creatures."
+}

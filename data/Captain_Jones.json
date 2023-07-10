@@ -1,0 +1,65 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "New [[bosses|boss creature]] in [[Updates/8.2|Summer Update 2008]]. It's probably an [[Allusions#Davy Jones|allusion]] of [[wikipedia:Davy Jones (Pirates of the Caribbean)|Davy Jones]], the captain of the [[wikipedia:Flying Dutchman (Pirates of the Caribbean)|Flying Dutchman]] in the [[wikipedia:Pirates of the Caribbean (film series)|Pirates of the Carribean movie]].\n\n<gallery mode=\"nolines\">\nImage:Captain jones.JPG|Captain Jones\ncaptain jones2.JPG|Captain Jones Solo\n</gallery>",
+    "walksthrough": "?",
+    "hp": "555",
+    "speed": "?",
+    "abilities": "{{Ability List| {{Melee|0-100?}}|{{Healing}}|{{Ability|[[Sudden Death]]|0-90?|element=death}}|{{Outfit|yes|Skeleton}} }}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "secondarytype": "Ghosts",
+    "fireDmgMod": "90%",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        "Join my crew ... forever.",
+        "You are lost!"
+    ],
+    "maxdmg": "400~",
+    "pushable": "?",
+    "implemented": "8.20",
+    "loot": [
+        {
+            "amount": "1-150",
+            "itemName": "Gold Coin"
+        },
+        {
+            "itemName": "Red Robe"
+        },
+        {
+            "itemName": "Crown Legs"
+        },
+        {
+            "itemName": "Focus Cape"
+        },
+        {
+            "itemName": "Stealth Ring"
+        },
+        {
+            "itemName": "Spike Sword"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "620",
+    "creatureclass": "Humans",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "0%",
+    "bosstiaryclass": "Nemesis",
+    "primarytype": "Pirates",
+    "race_id": "430",
+    "senseinvis": "?",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Captain Jones",
+    "isboss": "yes",
+    "behaviour": "It will fight until death.",
+    "location": "[[Ghostship]].",
+    "iceDmgMod": "80%?",
+    "strategy": "?",
+    "energyDmgMod": "90%",
+    "deathDmgMod": "100%?"
+}

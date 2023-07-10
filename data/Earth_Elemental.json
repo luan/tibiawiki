@@ -1,0 +1,97 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "{{JSpoiler|During [[Shadows of Yalahar Quest]], they can be skinned using a [[Pick]] to obtain [[Elemental Crystal]]s and other items like [[Small Diamond]]s.<br />\n<small>See also [[Earth Elemental/Pick Statistics|Pick Statistics]].</small>}}",
+    "walksthrough": "Energy, Poison",
+    "hp": "650",
+    "abilities": "{{Ability List\n |{{Melee|0-110+}}\n |{{Ability|Earth Missle|72-105|element=earth\n  |scene={{Scene|spell=7sqmstrike|caster=Earth Elemental|effect=Poison Effect 1|missile=Earth Missile|missile_direction=south-east|missile_distance=7/7|damage_effect=None}}}}\n |{{Ability|Boulder Explosion|59-107|element=physical\n  |scene={{Scene|spell=plusspelltarget|caster=Earth Elemental|effect=Poof Effect|missile=Stone Missile|missile_direction=south-east|missile_distance=2/2}}}}\n |{{Ability|Poison Beam|starts at 10-13 [[hp]]/turn|element=poisoned\n  |scene={{Scene|spell=9sqmbeam|caster=Earth Elemental|effect=Plant Effect|look_direction=east|damage_effect=None}}}}\n |{{Ability|Poison Bomb|starts at 5-7[[hp]]/turn|element=poisoned\n  |scene={{Scene|spell=3sqmball2self|caster=Earth Elemental|look_direction=south|effect=Poison Effect 3|effect_on_caster=yes|damage_effect=None}}}}\n |{{Ability|Distance Paralyze|Reduces 230~ speed points for 3 seconds|element=paralyze\n  |scene={{Scene|spell=3sqmstrike|caster=Earth Elemental|effect=Plant Effect|missile=Poison Missile|missile_direction=south-east|missile_distance=3/3|damage_effect=None}}}}\n |{{Healing|range=60-80\n  |scene={{Scene|spell=buffspell|effect=Blue Sparkles Effect|caster=Earth Elemental|look_direction=south|effect_on_caster=yes}}}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "holyDmgMod": "50%",
+    "maxdmg": "328+",
+    "pushable": "no",
+    "implemented": "8.20",
+    "loot": [
+        {
+            "amount": "0-130",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "amount": "0-30",
+            "itemName": "Earth Arrow",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "0-10",
+            "itemName": "Small Stone",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Blank Rune",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Lump of Earth",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Strong Mana Potion",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Heavily Rusted Armor",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Small Topaz",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Clay Lump",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Coal",
+            "rarity": "rare"
+        }
+    ],
+    "walksaround": "Fire",
+    "exp": "450",
+    "mitigation": "0.78",
+    "attacktype": "Melee",
+    "article": "an",
+    "actualname": "earth elemental",
+    "illusionable": "yes",
+    "armor": "45",
+    "convince": "--",
+    "name": "Earth Elemental",
+    "isboss": "no",
+    "iceDmgMod": "15%",
+    "energyDmgMod": "0%",
+    "deathDmgMod": "60%",
+    "plural": "earth elementals",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "Followers of Crunor claim that Earth Elementals mirror the wrath of Tibia's land. All the abuse and mistreatment of the earth caused an elemental subconsciousness to wake up and to send the powerful Earth Elementals to seek revenge on the living creatures. It is said that Earth Elementals form spontaneously, so to speak anywhere and not necessarily at a place where the earth has been defiled. The Earth Elementals seem mindless, guided only by some mystic field that spans the whole world according to the followers of Crunor. If an Earth Elemental is disconnected from this field, it becomes increasingly violent and destructive. It starts a rampage that eventually will lead to its own destruction. However, even the Earth Elementals that are connected to this field are by no means peaceful creatures. They follow a universal instinct that often leads to conflicts with living beings. The ultimate goal might be to bring some kind of universal balance; but to achieve this goal, much violence is used, relying on the enormous strength and resilience of the Earth Elementals.",
+    "speed": "115",
+    "pushobjects": "yes",
+    "fireDmgMod": "125%",
+    "sounds": [
+        "Stomp."
+    ],
+    "bestiaryclass": "Elemental",
+    "creatureclass": "Elementals",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "65%",
+    "primarytype": "Geo-Elementals",
+    "race_id": "458",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "earthelemental",
+    "behaviour": "Like any [[Elementals|Elemental-type]], it's violent and strong.",
+    "location": "[[Edron Earth Elemental Cave]] (17 of them on the first floor), [[Vandura Mountain]], [[Deeper Banuta]] (2 spawns, {{Mapper Coords|127.231|127.85|12|2|text=here}} and {{Mapper Coords|127.219|127.90|14|2|text=here}}), [[Vengoth|Vengoth Castle]], [[Robson Isle]], [[Drillworm Caves]], [[Crystal Grounds]], [[Middle Spike]].",
+    "strategy": "These creatures are quite dangerous for low levels so beware! They use paralyze often to prevent targets from running away and hit hard with their physical attacks, [[Stone (Medium)|Boulder]] and [[Melee]]. They are weak against [[Fire Damage]], use this to the best possible advantage. Try not to let them get close enough to use their physical attacks. For low and middle [[level]] mages it is not recommended to fight with more than two Earth Elementals at a time, also using [[GFB]] and [[Energy Ring]] (instead of instant [[Magic Shield]]) would be helpful if meeting more than two of them. Sorcerers are especially recommended to hunt these after level 33 because of the extra use of [[Wand of Inferno]]. It is then fast to kill them, gaining plenty of experience and gold."
+}

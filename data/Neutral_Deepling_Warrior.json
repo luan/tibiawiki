@@ -1,0 +1,80 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "neutral deepling warriors",
+    "hpDrainDmgMod": "100%?",
+    "notes": "{{JSpoiler|They are part of [[The Secret Library Quest]].}}",
+    "isarenaboss": "no",
+    "walksthrough": "Fire",
+    "hp": "1600",
+    "speed": "145",
+    "abilities": "{{Ability List\n |{{Melee|0-280}}\n |{{Ability|Exploding Axe Throw|0-270|?\n  |scene={{Scene|spell=7sqmstrike|caster=Neutral Deepling Warrior|look_direction=south|effect=Explosion Effect|missile=Throwing Axe Missile|missile_direction=south-east|missile_distance=7/7}}}}\n |{{Healing|range=115-195}}}}",
+    "pushobjects": "yes",
+    "healMod": "100%?",
+    "paraimmune": "no",
+    "fireDmgMod": "0%",
+    "holyDmgMod": "100%",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "{{Max Damage|physical=550}}",
+    "pushable": "no",
+    "runsat": "deep red",
+    "implemented": "11.80.7048",
+    "loot": [
+        {
+            "itemName": "Gold Coin"
+        },
+        {
+            "itemName": "Great Health Potion"
+        },
+        {
+            "itemName": "Deeptags"
+        },
+        {
+            "itemName": "Deepling Warts"
+        },
+        {
+            "itemName": "Deepling Filet"
+        },
+        {
+            "itemName": "Life Ring"
+        },
+        {
+            "itemName": "Vortex Bolt"
+        },
+        {
+            "itemName": "Great Mana Potion"
+        },
+        {
+            "itemName": "Deepling Ridge"
+        },
+        {
+            "itemName": "Small Emerald"
+        },
+        {
+            "itemName": "Warrior's Axe"
+        }
+    ],
+    "walksaround": "Energy, Poison",
+    "exp": "1500",
+    "creatureclass": "Amphibians",
+    "earthDmgMod": "110%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Deeplings",
+    "senseinvis": "yes",
+    "article": "a",
+    "actualname": "neutral deepling warrior",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "0%?",
+    "convince": "--",
+    "name": "Neutral Deepling Warrior",
+    "isboss": "no",
+    "behaviour": "It will also attack [[Brokul]], so use that in your favor.",
+    "location": "[[Brokul]]'s room.",
+    "iceDmgMod": "0%?",
+    "strategy": "Try to get it to target [[Brokul]] instead of you.",
+    "energyDmgMod": "110%",
+    "deathDmgMod": "90%?"
+}

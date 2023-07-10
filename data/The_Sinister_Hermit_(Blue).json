@@ -1,0 +1,107 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "The Sinister Hermit",
+    "hpDrainDmgMod": "100%?",
+    "notes": "{{JSpoiler|Part of the [[Cults of Tibia Quest]].}}",
+    "walksthrough": "?",
+    "hp": "?",
+    "speed": "?",
+    "abilities": "{{Ability List| {{Melee|0-1100+}}|{{Ability|[[Earth Damage|Terra Beam]]|300-400?|element=earth}} }}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "100%?",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "?",
+    "pushable": "?",
+    "implemented": "11.40.5409",
+    "loot": [
+        {
+            "amount": "0-200?",
+            "itemName": "Gold Coin"
+        },
+        {
+            "amount": "0-20?",
+            "itemName": "Platinum Coin"
+        },
+        {
+            "amount": "0-10?",
+            "itemName": "Prismatic Quartz"
+        },
+        {
+            "amount": "0-1?",
+            "itemName": "Yellow Gem"
+        },
+        {
+            "amount": "0-1?",
+            "itemName": "Odd Organ"
+        },
+        {
+            "amount": "0-5?",
+            "itemName": "Great Spirit Potion"
+        },
+        {
+            "amount": "0-5?",
+            "itemName": "Ultimate Health Potion"
+        },
+        {
+            "amount": "0-1",
+            "itemName": "Plasma Pearls"
+        },
+        {
+            "amount": "0-10",
+            "itemName": "Spark Sphere"
+        },
+        {
+            "amount": "0-10",
+            "itemName": "Curious Matter"
+        },
+        {
+            "amount": "0-10",
+            "itemName": "Small Diamond"
+        },
+        {
+            "amount": "0-1",
+            "itemName": "Mysterious Remains"
+        },
+        {
+            "amount": "0-5?",
+            "itemName": "Energy Bar"
+        },
+        {
+            "amount": "1",
+            "itemName": "Impaler",
+            "rarity": "rare"
+        },
+        {
+            "amount": "1",
+            "itemName": "Shield of Corruption",
+            "rarity": "rare"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "0",
+    "creatureclass": "Humans",
+    "earthDmgMod": "100%?",
+    "physicalDmgMod": "100%?",
+    "primarytype": "Outlaws",
+    "race_id": "1420",
+    "senseinvis": "?",
+    "actualname": "The Sinister Hermit",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "The Sinister Hermit (Blue)",
+    "isboss": "yes",
+    "behaviour": "Fights in close combat.",
+    "location": "The Humans Cult hideout under the Outlaw Camp.",
+    "iceDmgMod": "100%?",
+    "strategy": "While it's in this form the boss is vulnerable. Dealing damage to it while it is not standing on the geyser will cause it to turn back into it's invulnerable form, [[The Sinister Hermit (Yellow)]].",
+    "energyDmgMod": "100%?",
+    "deathDmgMod": "100%?"
+}

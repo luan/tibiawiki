@@ -1,0 +1,56 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "Similar to a [[Cyclops]].",
+    "walksthrough": "?",
+    "hp": "260",
+    "speed": "?",
+    "abilities": "{{Ability List|}}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "100%?",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "?",
+    "pushable": "?",
+    "implemented": "11.40.5409",
+    "loot": [
+        {
+            "itemName": "Gold Coin"
+        },
+        {
+            "itemName": "Meat"
+        },
+        {
+            "itemName": "Heavy Old Tome"
+        },
+        {
+            "itemName": "Short Sword"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "150",
+    "creatureclass": "Humanoids",
+    "earthDmgMod": "100%?",
+    "physicalDmgMod": "100%?",
+    "primarytype": "Giants",
+    "senseinvis": "?",
+    "article": "an",
+    "actualname": "animated cyclops",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "?",
+    "name": "Animated Cyclops",
+    "isboss": "?",
+    "behaviour": "Unknown",
+    "location": "[[Museum of Tibian Arts]] (only at [[Night]])",
+    "iceDmgMod": "100%?",
+    "strategy": "Unknown",
+    "energyDmgMod": "100%?",
+    "deathDmgMod": "100%?"
+}

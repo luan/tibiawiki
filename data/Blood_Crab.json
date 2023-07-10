@@ -1,0 +1,83 @@
+{
+    "summon": "505",
+    "templateType": "Creature",
+    "notes": "There are 2 types of blood crabs - the ones that live on land and the ones that [[Deepsea Blood Crab|live underwater]].<br /> The ones that live on land usually spawn with turtles around.",
+    "walksthrough": "Poison",
+    "hp": "290",
+    "abilities": "{{Ability List|{{Melee|0-110}}}}",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "holyDmgMod": "100%",
+    "maxdmg": "{{Max Damage|physical=110}}",
+    "pushable": "No",
+    "implemented": "7.8",
+    "loot": [
+        {
+            "amount": "0-20",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Fish",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Chain Armor",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Brass Legs",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Bloody Pincers",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "White Pearl",
+            "rarity": "rare"
+        }
+    ],
+    "walksaround": "Fire, Energy",
+    "exp": "160",
+    "mitigation": "0.46",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "blood crab",
+    "illusionable": "yes",
+    "armor": "28",
+    "convince": "505",
+    "name": "Blood Crab",
+    "isboss": "no",
+    "iceDmgMod": "0%",
+    "energyDmgMod": "105%",
+    "deathDmgMod": "100%",
+    "plural": "blood crabs",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "no",
+    "occurrence": "Common",
+    "bestiarytext": "It is not known why the Blood Crab is so aggressive and hostile, but since it is confirmed that those crabs are carnivorous it is not that surprising. Heavily armored and incredibly strong, their only weakness seems to be their relative slowness. Still they are fast enough to catch up with a careless victim and everybody is well advised to avoid any closer encounter with those beasts. A lucky person sees them roaming the shores and can prepare for their attacks. The more unfortunate ones do not see them before it is too late. What is more, try to avoid meeting Blood Crabs underwater as they are much stronger when they can cavort in their favourite element.<br />Blood Crabs seem to appear out of nothing when they quickly ascend from the depth of the sea. Sometimes they wait motionlessly for a victim to approach, a strategy which works quite well because their shells can easily be mistaken for stones. It is rumoured that from time to time the quara tame Blood Crabs and use them as watchdogs, but since none of them was ever seen in a raid, this rumour is not confirmed yet.",
+    "speed": "80",
+    "pushobjects": "yes",
+    "fireDmgMod": "110%",
+    "sounds": [
+        ""
+    ],
+    "bestiaryclass": "Aquatic",
+    "creatureclass": "Invertebrates",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "95%",
+    "primarytype": "Crustaceans",
+    "spawntype": [
+        "Regular",
+        "Unblockable"
+    ],
+    "race_id": "261",
+    "bestiarylevel": "Easy",
+    "senseinvis": "no",
+    "drownDmgMod": "0%",
+    "bestiaryname": "bloodcrab",
+    "behaviour": "They fight to death, and rarely retarget.",
+    "location": "[[Goroma]] (beyond electric barrier), [[Laguna Islands]], [[Shattered Isles]], Underground [[Port Hope]], [[Mistrock]], [[Treasure Island]]. There is also one underwater next to [[The Tibianic]], however it is unreachable.",
+    "strategy": "[[Knight]]s should just melee, avoiding getting surrounded by other monsters. Since they're slow, [[paladin]]s can handle these monsters fairly well. \n[[Mage]]s using summons should be careful because blood crabs usually won't change targets and won't switch targets unless you're nearly off the screen."
+}

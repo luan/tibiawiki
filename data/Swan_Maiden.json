@@ -1,0 +1,133 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "<gallery mode=\"nolines\">\nFile:Swan Maiden Artwork.jpg|Official [[Creature Artwork]]\n</gallery>",
+    "walksthrough": "?",
+    "hp": "800",
+    "abilities": "{{Ability List\n |{{Melee|0-160}}\n |{{Ability|Energy Strike|83-105|element=energy\n  |scene={{Scene|spell=2sqmstrike|effect_on_target=Blue Electricity Effect|missile=Energy Missile|missile_direction=south-east|missile_distance=2/2|caster=Swan Maiden}}}}\n |{{Ability|[[Mana Drain]]|82-119|element=manadrain\n  |scene={{Scene|spell=2sqmstrike|damage_effect=Red Sparkles Effect|effect_on_target=Holy Cross Effect|missile=Holy Missile (Appearance)|missile_direction=south-east|missile_distance=2/2|caster=Swan Maiden}}}}\n |{{Ability|Sparkle Ball on themselves|causes [[paralysis]] for a few seconds|element=paralyze\n  |scene={{Scene|spell=3sqmball2self|effect=Vanishing Fae Effect|caster=Swan Maiden}}}}\n |{{Healing|range=62-78}}\n |{{Ability|[[Blue Notes Effect|unknown Blue Notes Effect]]|element=?}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "holyDmgMod": "70%",
+    "maxdmg": "?",
+    "pushable": "?",
+    "implemented": "11.40.5409",
+    "loot": [
+        {
+            "amount": "1-89",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Wild Flowers",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Colourful Snail Shell",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Powder Herb",
+            "rarity": "semi-rare"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "White Pearl",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Silver Brooch",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Great Mana Potion",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Green Mushroom",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Small Enchanted Emerald",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Coral Brooch",
+            "rarity": "semi-rare"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Opal",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Clerical Mace",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Flower Wreath",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Boots of Haste",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Summer Dress",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Strong Mana Potion",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Butterfly Ring",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Diamond Sceptre",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Energy\nFire\nPoison",
+    "exp": "700",
+    "mitigation": "1.18",
+    "attacktype": "Distance",
+    "article": "a",
+    "actualname": "swan maiden",
+    "illusionable": "no",
+    "armor": "54",
+    "convince": "--",
+    "name": "Swan Maiden",
+    "isboss": "no",
+    "iceDmgMod": "100%",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "50%",
+    "plural": "swan maidens",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Uncommon",
+    "bestiarytext": "Swan maidens are a kind of fae who can shapeshift from a young elven or human female into a beautiful swan. The magical item allowing this transformation is a swan feather cloak, a garment with swan feathers attached. If this cloak is taken from a swan maiden, she is stuck in the shape she had at the time of the theft. She will only be able to shapeshift again when she regains her cloak. On Feyrist it is always hard to tell whether a swan swimming on a lake is an ordinary animal or a swan maiden in her bird shape. Swan maidens protect the wilds of their secret realm from intruders and live in small flocks along secluded lakeshores. It is told that a swan maiden can transform a willing human or elven virgin into a swan maiden herself. Swan maidens emerge from mortals' dreams about flying.",
+    "speed": "117",
+    "pushobjects": "?",
+    "fireDmgMod": "110%",
+    "sounds": [
+        "Nightmarish monster! This dream is not meant for you!",
+        "You won't steal my robe! Back off!",
+        "You are not allowed to lay eyes on me in this shape!",
+        "Are you stalking me? You will bitterly regret this!"
+    ],
+    "runsat": "40",
+    "bestiaryclass": "Fey",
+    "creatureclass": "Humanoids",
+    "earthDmgMod": "70%",
+    "physicalDmgMod": "110%",
+    "primarytype": "Fae",
+    "race_id": "1437",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "swanmaiden",
+    "behaviour": "Swan Maidens try to attack their opponents at a distance using their spells.",
+    "location": "[[Feyrist Meadows]]",
+    "strategy": "Wearing a [[Bronze Amulet]] could be a good idea in order to counter their commonly used mana drain attack. Otherwise they're not that strong and your biggest worry should be running into groups of other [[Feyrist]] creatures while chasing them."
+}

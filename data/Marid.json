@@ -1,0 +1,128 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "These strong creatures are usually found in groups and with many [[Blue Djinn]]. In the [[Blue Djinn Fortress]], they are also accompanied by [[Scarab]]s and [[Fire Elemental]]s.",
+    "walksthrough": "None",
+    "hp": "550",
+    "abilities": "{{Ability List\n |{{Melee|0-114}}\n |{{Ability|Life drain Strike|60-120|life drain\n  |scene={{Scene|spell=7sqmstrike|caster=marid|missile=Death Missile|missile_direction=south-east|missile_distance=7/7|effect=Unknown}}}}\n |{{Ability|Fire Strike|40-110|fire\n  |scene={{Scene|spell=7sqmstrike|caster=marid|missile=Fire Missile|missile_direction=south-east|missile_distance=7/7|effect=Unknown}}}}\n |{{Ability|Energy Strike|65-115|energy\n  |scene={{Scene|spell=7sqmstrike|caster=marid|missile=Energy Missile|missile_direction=south-east|missile_distance=7/7|effect=Unknown}}}}\n |{{Ability|Drunkenness|60 seconds|drunk\n  |scene={{Scene|spell=7sqmstrike|effect=Teleport Effect|caster=Marid|missile=Energy Missile|missile_direction=south-east|missile_distance=7/7}}}}\n |{{Ability|Electrifies|25 hp/3 turns|electrified\n  |scene={{Scene|spell=3x3spell|effect=Blue Electricity Effect|caster=Marid|effect_on_caster=yes}}}}\n |{{Ability|paralyze|reduces 170-220 speed points for 15 seconds|paralyze\n  |scene={{Scene|spell=7sqmstrike|effect=Red Sparkles Effect|caster=Marid|missile_direction=south-east|missile_distance=7/7}}}}\n |{{Summon|Blue Djinn|2}}\n |{{Healing|range=50-80\n  |scene={{Scene|spell=buffspell|effect=Blue Sparkles Effect|caster=Marid|effect_on_caster=yes}}}}\n |{{Outfit|yes|rabbit|{{Scene|spell=7sqmstrike|effect=Blue Sparkles Effect|caster=Marid|missile_direction=south-east|missile_distance=7/7}}}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "holyDmgMod": "80%",
+    "maxdmg": "{{Max Damage|physical=90|lifedrain=90|energy=355|summons=420}}",
+    "pushable": "?",
+    "implemented": "7.4",
+    "loot": [
+        {
+            "amount": "1-130",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-25",
+            "itemName": "Blueberry",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Jewelled Belt",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "Royal Spear",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Small Sapphire",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Strong Mana Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Blue Piece of Cloth",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Blue Tapestry",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Heavy Machete",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Seeds",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Hailstorm Rod",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Noble Turban",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Magma Monocle",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Blue Gem",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Mystic Turban",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Small Oil Lamp",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Wooden Flute",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Fire, Energy, Poison",
+    "exp": "410",
+    "mitigation": "0.91",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "marid",
+    "illusionable": "no",
+    "armor": "24",
+    "convince": "--",
+    "name": "Marid",
+    "isboss": "no",
+    "iceDmgMod": "105%",
+    "energyDmgMod": "40%",
+    "deathDmgMod": "108%",
+    "plural": "marids",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "The proud Marid are the strongest warriors among the noble race of the blue djinn. They possess amazing magical powers, and their prowess in battle is truly fearsome. However, their undeniable power as well as their race's natural tendency towards pride make them vulnerable to the temptations of vanity and arrogance. The Marid, being devout followers of the prophet Daraman's teachings, try to resist these temptations as well as they can, but it has happened before that a Marid strayed from the true path and succumbed to the corruption and the lowly desires that are hidden deep in the soul of every djinn. Beware of such fallen Marid, because they are no better than the Efreet, the Marids' green-skinned djinn cousins and arch-enemies.",
+    "speed": "117",
+    "pushobjects": "?",
+    "fireDmgMod": "10%",
+    "sounds": [
+        "Wishes can come true.",
+        "Feel the power of my magic, tiny mortal!",
+        "Simsalabim",
+        "Be careful what you wish for."
+    ],
+    "bestiaryclass": "Magical",
+    "creatureclass": "Humanoids",
+    "earthDmgMod": "90%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Djinn",
+    "race_id": "104",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "marid",
+    "behaviour": "Marid seems to be a Higher Ranked [[Blue Djinn]].",
+    "location": "[[Kha'zeel]], [[Magician Quarter]], Djinn battle island through the [[Haunted Tomb]].",
+    "strategy": "Wear a [[Dwarven Ring]] at all times when facing these. If hunting in the [[Ashta'daramai]], bring a good blocker and a [[druid]] that can use [[Eternal Winter]]. Because of the large number of creatures in the small rooms of the [[Blue Djinn Fortress]] (and that they all have strong distance attacks), you can lose up to 800 or more [[hitpoints]] just from \"peeking\" up the steps. Even though this creature only yields 410 experience points, they can be as deadly as a [[Dragon Lord]]."
+}

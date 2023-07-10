@@ -1,0 +1,134 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "walksthrough": "?",
+    "hp": "?",
+    "speed": "?",
+    "abilities": "{{Ability List| {{Melee|?}} }}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "fireDmgMod": "30%",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "?",
+    "pushable": "no",
+    "runsat": "0",
+    "implemented": "12.30.9287",
+    "cooldown": "20",
+    "loot": [
+        {
+            "amount": "2",
+            "itemName": "Crystal Coin"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "White Gem"
+        },
+        {
+            "amount": "2",
+            "itemName": "Green Gem"
+        },
+        {
+            "amount": "6",
+            "itemName": "Supreme Health Potion"
+        },
+        {
+            "amount": "6",
+            "itemName": "Ultimate Spirit Potion"
+        },
+        {
+            "amount": "6",
+            "itemName": "Ultimate Mana Potion"
+        },
+        {
+            "itemName": "Diamond"
+        },
+        {
+            "amount": "10",
+            "itemName": "Berserk Potion"
+        },
+        {
+            "amount": "10",
+            "itemName": "Bullseye Potion"
+        },
+        {
+            "amount": "10",
+            "itemName": "Mastermind Potion"
+        },
+        {
+            "itemName": "Moonstone"
+        },
+        {
+            "itemName": "Death Toll"
+        },
+        {
+            "itemName": "Ivory Comb"
+        },
+        {
+            "itemName": "Angel Figurine"
+        },
+        {
+            "itemName": "Cursed Bone"
+        },
+        {
+            "itemName": "Giant Topaz"
+        },
+        {
+            "itemName": "Silver Hand Mirror"
+        },
+        {
+            "itemName": "Ghost Claw"
+        },
+        {
+            "itemName": "Ring of Souls"
+        },
+        {
+            "itemName": "Phantasmal Axe"
+        },
+        {
+            "itemName": "Brain Head's Giant Neuron"
+        },
+        {
+            "itemName": "Brain Head's Left Hemisphere"
+        },
+        {
+            "itemName": "Brain Head's Right Hemisphere"
+        },
+        {
+            "itemName": "Pair of Old Bracers"
+        },
+        {
+            "itemName": "Giant Amethyst"
+        },
+        {
+            "itemName": "Spooky Hood"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "?",
+    "creatureclass": "The Undead",
+    "earthDmgMod": "100%",
+    "physicalDmgMod": "100%?",
+    "bosstiaryclass": "Archfoe",
+    "spawntype": [
+        "Triggered"
+    ],
+    "race_id": "1862",
+    "senseinvis": "yes",
+    "actualname": "Brain Head",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Brain Head",
+    "isboss": "yes",
+    "behaviour": "Unknown.",
+    "location": "[[Netherworld]]",
+    "iceDmgMod": "150%?",
+    "strategy": "Do not use energy and fire, as these damage types will heal the boss.\n{{JSpoiler|Part of the [[Feaster of Souls Quest]].}}",
+    "energyDmgMod": "-1000%",
+    "deathDmgMod": "80%?"
+}

@@ -1,0 +1,113 @@
+{
+    "summon": "490",
+    "templateType": "Creature",
+    "notes": "Cyclops are strong and giant creatures, also believed to be skillful in metallurgy. As rendered in [[Tibia]], they appear to have 4 toes on one foot and 3 toes on the other.",
+    "walksthrough": "None",
+    "hp": "260",
+    "abilities": "{{Ability List|{{Melee|0-105}}}}",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "holyDmgMod": "80%",
+    "maxdmg": "{{Max Damage|physical=105}}",
+    "pushable": "No",
+    "implemented": "2.0",
+    "loot": [
+        {
+            "amount": "0-47",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Meat",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Short Sword",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Cyclops Toe",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Plate Shield",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Battle Shield",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Heavy Old Tome",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Halberd",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Dark Helmet",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Health Potion",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Wolf Tooth Chain",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Club Ring",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Cyclops Trophy",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Fire, Energy, Poison",
+    "exp": "150",
+    "mitigation": "0.62",
+    "attacktype": "Melee",
+    "history": "Prior to [[update]] 6.0, Cyclopes looked like this: [[File:Cyclops (3.0).gif]]",
+    "article": "a",
+    "actualname": "cyclops",
+    "illusionable": "yes",
+    "armor": "17",
+    "convince": "490",
+    "name": "Cyclops",
+    "isboss": "no",
+    "iceDmgMod": "100%",
+    "energyDmgMod": "75%",
+    "deathDmgMod": "110%",
+    "plural": "cyclopes",
+    "hpDrainDmgMod": "100%",
+    "usespells": "no",
+    "occurrence": "Common",
+    "bestiarytext": "Cyclopes are a human-like race but with only one eye and minor intelligence. They even talk in a similar language. They live in holes where they prospect for gold and other metals. Be warned that they get very angry about adventurers entering their claim. They will slay every intruder using their incredible power.",
+    "speed": "95",
+    "pushobjects": "yes",
+    "fireDmgMod": "100%",
+    "sounds": [
+        "Human, uh whil dyh!",
+        "Youh ah trak!",
+        "Let da mashing begin!",
+        "Toks utat.",
+        "Il lorstok human!"
+    ],
+    "runsat": "0",
+    "bestiaryclass": "Giant",
+    "creatureclass": "Humanoids",
+    "earthDmgMod": "110%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Giants",
+    "race_id": "22",
+    "bestiarylevel": "Easy",
+    "senseinvis": "no",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "cyclops",
+    "behaviour": "A cyclops will [[Retargeting|retarget]] to other players in their vicinity. They kill weaker creatures and move items that are in their way, therefore items are not effective in blocking their path.",
+    "location": "[[Plains of Havoc]], [[Mount Sternum]], [[Femor Hills]], [[Cyclops Camp]], [[Cyclopolis]], [[Ancient Temple]], [[Shadowthorn]], [[Orc Fort]], [[Mistrock]], [[Foreigner Quarter]], [[Outlaw Camp]] and in the [[Forsaken Mine/Cyclopes|Cyclops]] version of the [[Forsaken Mine]].",
+    "strategy": "[[Knight]]s, should have good equipment and skills to hunt cyclops (55/55). Level 25 is recommended for those not familiar with their corresponding hunting ground. Balanced fighting is recommended to avoid lots of damage, if skills do not meet appropriate requirements. Also, [[Health Potions]] are recommended.<br>\n[[Paladin]]s, Just attack them while keeping your distance and try to avoid getting cornered. Two or more of these can kill a low level paladin if he or she is not careful.<br />\n[[Mage]]s, Should attack them with [[Stalagmite]], [[wand]] or [[rod]], and cast [[Invisible]] if they are surrounded [[Stoneshower]] will also help. Premium mages can use [[Death Strike]] or [[Terra Strike]] to kill faster."
+}

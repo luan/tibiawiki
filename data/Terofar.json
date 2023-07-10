@@ -1,0 +1,176 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "It is extremely difficult boss for paladins and knights due to his skill reducing abilities.",
+    "walksthrough": "?",
+    "hp": "40000",
+    "speed": "?",
+    "abilities": "{{Ability List\n |{{Melee|0-1800}}\n |{{Ability|[[Curse]]|1-1000? Long cooldown,uses once per fight|element=cursed}}\n |{{Ability|[[Boulder]]|0-500|element=physical}}\n |{{Ability|[[Blood Ball]]|0-?|element=?}}\n |{{Debuff2|Beam|magic=yes|value=100%}}\n |{{Debuff2|Wave|melee=yes|distance=yes|shielding=yes}}\n |{{Ability|frequent [[Self-Healing]]|0-500|element=healing}}\n}}",
+    "pushobjects": "yes",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "secondarytype": "Demon Lords",
+    "fireDmgMod": "50%",
+    "holyDmgMod": "50%",
+    "sounds": [
+        "Terofar cast a greater death curse on you!",
+        "IT TOOK AN ARMY OF YOUR KIND TO DEFEAT THE WARDEN. NOW YOU ARE ALONE!",
+        "THE WARDS ARE FAILING! MY ESCAPE IS ONLY A MATTER OF TIME!!",
+        "FEELS GOOD TO BE BACK IN ACTION!"
+    ],
+    "maxdmg": "?",
+    "pushable": "no",
+    "implemented": "10.30",
+    "loot": [
+        {
+            "amount": "1-58",
+            "itemName": "Platinum Coin"
+        },
+        {
+            "amount": "0-9",
+            "itemName": "Small Amethyst"
+        },
+        {
+            "amount": "0-4",
+            "itemName": "Small Diamond"
+        },
+        {
+            "amount": "0-25",
+            "itemName": "Small Emerald"
+        },
+        {
+            "amount": "0-20",
+            "itemName": "Small Ruby"
+        },
+        {
+            "amount": "0-17",
+            "itemName": "Small Sapphire"
+        },
+        {
+            "amount": "0-12",
+            "itemName": "Small Topaz"
+        },
+        {
+            "amount": "0-8",
+            "itemName": "Blue Crystal Shard"
+        },
+        {
+            "amount": "0-7",
+            "itemName": "Violet Crystal Shard"
+        },
+        {
+            "amount": "0-6",
+            "itemName": "Green Crystal Shard"
+        },
+        {
+            "itemName": "Gold Ingot"
+        },
+        {
+            "itemName": "Cluster of Solace"
+        },
+        {
+            "itemName": "Demon Horn"
+        },
+        {
+            "amount": "1-5",
+            "itemName": "Great Spirit Potion"
+        },
+        {
+            "amount": "1-4",
+            "itemName": "Great Mana Potion"
+        },
+        {
+            "amount": "1-4",
+            "itemName": "Ultimate Health Potion"
+        },
+        {
+            "itemName": "Dream Warden Mask"
+        },
+        {
+            "itemName": "Blue Gem"
+        },
+        {
+            "itemName": "Green Gem"
+        },
+        {
+            "itemName": "Demonic Essence"
+        },
+        {
+            "itemName": "Giant Shimmering Pearl"
+        },
+        {
+            "itemName": "Guardian Shield"
+        },
+        {
+            "itemName": "Crown Shield"
+        },
+        {
+            "itemName": "Demon Shield"
+        },
+        {
+            "itemName": "Skull Helmet"
+        },
+        {
+            "itemName": "Royal Helmet"
+        },
+        {
+            "itemName": "Paladin Armor"
+        },
+        {
+            "itemName": "Terra Boots"
+        },
+        {
+            "itemName": "Steel Boots"
+        },
+        {
+            "itemName": "Boots of Haste"
+        },
+        {
+            "itemName": "Voltage Armor"
+        },
+        {
+            "itemName": "Earthborn Titan Armor"
+        },
+        {
+            "itemName": "Lavos Armor"
+        },
+        {
+            "itemName": "Unrealized Dream",
+            "rarity": "always"
+        },
+        {
+            "itemName": "Dream Matter",
+            "rarity": "always"
+        },
+        {
+            "itemName": "Magic Plate Armor"
+        },
+        {
+            "itemName": "Gold Coin"
+        },
+        {
+            "itemName": "Mastermind Shield"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "24000",
+    "creatureclass": "Demons",
+    "earthDmgMod": "50%",
+    "physicalDmgMod": "100%?",
+    "primarytype": "Dreamhaunters",
+    "race_id": "1025",
+    "senseinvis": "?",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Terofar",
+    "isboss": "yes",
+    "behaviour": "Unknown.",
+    "location": "[[Roshamuul Prison]]",
+    "iceDmgMod": "50%",
+    "strategy": "All vocations: Due to his strong abilities and melee it is advised to use prismatic rings along with Prismatic Necklace, Gill Necklace or Stone Skin Amulets.\n<br />'''Mages:''' Enter with [[Energy Ring]] and [[Stone Skin Amulet]] equipped. In the best case scenario, you will summon a monster that will reach Terofar before you do, so he's the one to be inflicted with a curse. If that doesn't work, you should keep an eye on the death hits you get and once it starts hitting over 300, you may want to put an [[Energy Ring]] again until the curse is gone. Keep Terofar on diagonal all the time, so you can avoid his waves, keep summoning [[Fire Devil]]s in case they die, and just shoot it down with your [[Wand of Defiance]]/[[Glacial Rod]] and [[Sudden Death Rune]]s. It will take around 10 minutes before it dies even if you are a high level.\nIt's also wise to carry few [[Mastermind Potion]]s along and drink one of them each time you failed to react fast enough and got yourself hitted with Skill lowering wave.\n<br />'''Paladins:''' You can start killing it pretty smooth around 400 level. Just stay on diagonal, keep on using [[Sharpshooter]] along with [[Great Spirit Potion]]s and shoot it down with [[Infernal Bolt]]s, [[Sudden Death Rune]]s and occasional [[Strong Ethereal Spear]]. Remember to heal yourself to full before casting each [[Sharpshooter]]. It's also wise to carry [[Energy Ring]] and [[Pot of Blackjack]]/[[Rotworm Stew]] in case things go south and you can't overheal the damage you get.\n<br />'''Knights:''' It's totally or at least nearly impossible to kill it as a [[Knight]]. Better ask your fellow friends with other vocation to do it for you.",
+    "energyDmgMod": "50%",
+    "deathDmgMod": "50%"
+}

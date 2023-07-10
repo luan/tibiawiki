@@ -1,0 +1,100 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "New creature after winter [[Updates/Update 8.12|update 2007]]. A Dryad is a female tree-spirit, usually benevolent and shy in nature but they will fiercely attack anyone who might harm their natural habitat.",
+    "isarenaboss": "no",
+    "walksthrough": "Poison",
+    "hp": "310",
+    "abilities": "{{Ability List| {{Melee|0-90}}|{{Ability|[[Earth|Plant Bomb]]|20-30+|element=earth}}|{{Ability|[[Invisibility]]|element=invisible}}|{{Ability|[[Paralyze|Paralyzing Ball]]|element=paralyze}}|{{Ability|[[Self-Healing]] often|element=healing}}|{{Ability|[[Drunkenness|Heart Missile]] causes mild [[Drunkenness]]|element=drunk}} }}",
+    "healMod": "100%",
+    "paraimmune": "?",
+    "secondarytype": "Ghosts",
+    "holyDmgMod": "100%",
+    "maxdmg": "120+",
+    "pushable": "No",
+    "implemented": "8.10",
+    "loot": [
+        {
+            "amount": "1-30",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "White Mushroom",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "Seeds",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Coconut Shoes",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Flower Dress",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Flower Wreath",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Leaf Legs",
+            "rarity": "rare"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Orange Mushroom",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Carrot on a Stick",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Small Amethyst",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Fire, Energy",
+    "exp": "190",
+    "mitigation": "1.26",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "dryad",
+    "illusionable": "no",
+    "armor": "15",
+    "convince": "--",
+    "name": "Dryad",
+    "isboss": "no",
+    "iceDmgMod": "80%",
+    "energyDmgMod": "70%",
+    "deathDmgMod": "100%",
+    "status": "event",
+    "plural": "dryads",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Very Rare",
+    "speed": "115",
+    "pushobjects": "Yes",
+    "fireDmgMod": "120%",
+    "sounds": [
+        "Feel the wrath of mother Tibia!",
+        "Defiler of nature!"
+    ],
+    "bestiaryclass": "Fey",
+    "creatureclass": "Special",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Event Creatures",
+    "race_id": "383",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "behaviour": "Fights in close combat, run away at red [[hp]], kills other creatures and move objects.",
+    "location": "Dryads appear in forest areas of [[Edron]], [[Port Hope]], [[Carlin]] and [[Cormaya]] during raids in '''June'''. There are 5 total waves, the initial one with the raid message and the rest every 15 minutes during next hour.<br />\nRaids are heralded by these messages:\n*{{Server Message|Dryads have returned to protect the forest north of Edron.}} - Forest areas north of [[Edron]]\n*{{Server Message|Dryads have returned to protect the northern forests near Ab'Dendriel.}} - Forests between [[Carlin]] and [[Ab'Dendriel]]\n*{{Server Message|Dryads have returned to protect the jungle of Tiquanda.}} - Deep jungle areas east of [[Port Hope]]\n*{{Server Message|Dryads have returned to protect their tree gardens underneath Cormaya.}} -  [[Dryad Gardens]] in [[Cormaya]]",
+    "strategy": "'''[[Knights]]''' can kill them from [[level]] 20 onwards, however they hit relatively hard and can be dangerous in numbers. That said, they are very good profit and exp for low leveled Knights.\n'''[[Paladin]]''' can run them with a spear and shield and using [[Light Healing]] to cancel out [[paralysis]].\n'''[[Mages]]''' should run from them using their wand/rod and [[Flame Strike]]. Have a few [[Great Fireball]] runes on hand in-case you are attacked by 3 or more Dryad."
+}

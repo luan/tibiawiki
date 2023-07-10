@@ -1,0 +1,100 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "Mostly found with [[Hellfire Fighter]]s in the [[Demon Forge]]. A two spawn also exists in the deeper parts of [[Banuta]].",
+    "isarenaboss": "no",
+    "walksthrough": "Fire",
+    "hp": "1800",
+    "abilities": "{{Ability List|{{Melee|0-300?}}|{{Ability|[[Fire Bomb]]|around itself|burning}}|{{Ability|[[Fire Bomb]]|on target|burning}}|{{Ability|Fire-[[berserk]]|60-250|fire}}|{{Ability|Flame Beam (no graphic)|200-700|fire}}|{{Ability|Large red sparkle bomb|burns you|burning}}}}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "holyDmgMod": "100%",
+    "maxdmg": "{{Max Damage|physical=300?|fire=960}}",
+    "pushable": "?",
+    "implemented": "8.20",
+    "loot": [
+        {
+            "amount": "1-212",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Platinum Coin",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Rusted Armor",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Small Ruby",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Wand of Inferno",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Fire Sword",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Magma Amulet",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Magma Boots",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Magma Legs",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Energy, Poison",
+    "exp": "1400",
+    "mitigation": "1.32",
+    "attacktype": "Melee",
+    "history": "As of [[Updates/9.60|Summer Update 2012]] this creature started to drop loot. This was based on player input in the test server forums, when discussing the profitability of the new added hunting area, [[Hot Spot]].\n\nYou can no longer convince Massive Fire Elementals as of Patch 10.13 (previously it took 690 mana).",
+    "article": "a",
+    "actualname": "massive fire elemental",
+    "illusionable": "no",
+    "armor": "57",
+    "convince": "--",
+    "name": "Massive Fire Elemental",
+    "isboss": "no",
+    "iceDmgMod": "115%",
+    "energyDmgMod": "70%",
+    "deathDmgMod": "80%",
+    "plural": "massive fire elementals",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "lightcolor": "206",
+    "occurrence": "Common",
+    "bestiarytext": "Compared to normal elementals, the massive fire elementals are not only a mere concentration of the elemental fire, but also of fear and primal anger. It is their nature to destroy, to kill and to devour. Though intelligent, it is rarely known of such an elemental to control their anger long enough to be reasoned with. Even though they are not truly allied with the demonic forces, their desire to fight and to destroy more often than not has put them into uneasy alliances of destruction. Sometimes demonic overlords even manage to cull the massive fire elementals into servitude. It is said that some truly powerful magicians also managed this feat. There are also ancient rumours of something that the massive fire elementals desire above anything else; a desire in them burning so hot that it even pales their hatred. With this as bargaining tool, in the past some creatures managed to enlist the help of these elementals. Others knew long-lost spells to bind the elemental forces to their will. Thus vast armies of fire elementals, lesser and great, marched in the battles of the god wars. Several places in the known world still bear the mark of their doing, even after all these centuries. For now, the threat of another such attack seems unlikely and no greater numbers of massive fire elementals in our world have yet been encountered. Gnomish intelligence reports, however, speak of fire elementals of all kinds in the service of the enigmatic rulers 'below'. If they are servants, allies or only attracted by the mayhem and heat attributed to the activities of 'those below', is up to speculation. All evidence suggests though that there are far more of them left in the world than was assumed for a long time.",
+    "speed": "119",
+    "pushobjects": "?",
+    "fireDmgMod": "0%",
+    "sounds": [
+        ""
+    ],
+    "lightradius": "5",
+    "bestiaryclass": "Elemental",
+    "creatureclass": "Elementals",
+    "earthDmgMod": "100%",
+    "physicalDmgMod": "50%",
+    "primarytype": "Pyro-Elementals",
+    "spawntype": [
+        "Regular",
+        "Unblockable"
+    ],
+    "race_id": "313",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "hellfireelemental",
+    "behaviour": "Follows target, fights until the death.",
+    "location": "[[Demon Forge]], [[Deeper Banuta]] ({{Mapper Coords|127.229|127.44|12|2|text=here}}), [[Hero Cave]], [[Hot Spot]], [[Fury Dungeon]].",
+    "strategy": "As most Massive Elementals, they can easily kill players under level 70.\n\n'''Mages''' Spam the monster with [[Ice]] spells and use [[Magic Shield]] as they can combo easily a mage under lvl 100, [[Druid]]s wont have problem with [[Hailstorm Rod|Hailstorm]]/[[Glacial Rod]] and the [[Ultimate Ice Strike|Ultimate]], [[Strong Ice Strike|Strong]], [[Ice Strike|Normal Ice strikes]] as well as both Ice waves. Sorcerers would have a little more difficult time killing them, use [[Ice Strike]] with an Energy Rod, over lvl 150 use [[Jungle Wand]] and finally use a [[Deepling Ceremonial Dagger]]/[[Deepling Fork|Fork]] once above level 180.\n\n'''[[Knight]]s''' could use [[Frost|ice-imbued weapons]] and [[Berserk]] but the hunt will not compensate the cost of the [[Imbuing|imbuement]], it is better to avoid hunting them until you have the level to use a [[Resizer]]/[[Winterblade]]/[[Cobra Axe]].\n\n'''[[Paladin]]s''' can use any distance weapon imbued with [[Frost]], however it is not money wise as the powerful version will only convert 50% of the physical damage into Ice Damage, thus after applying the creatures resistances and weaknesses you will deal around 82.5% of the total damage; [[Shiver Arrow]]s are not an alternative as their damage is so low and splitted in half between physical and ice. The best strategy to reduce waste, will be then to use [[Envenomed Arrow]]s with a bow and the [[Divine Missile]] spell, after the damage reduction, you will cause 75% of the arrows damage, resulting to be around 40, 2 points more than [[Onyx Arrow]]s. Kill one by one, and be ready to cure as they hit hard."
+}

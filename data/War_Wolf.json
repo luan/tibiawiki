@@ -1,0 +1,77 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "These giant wolves are usually tamed by [[Orc]]s to fight mounted on them, they run fast.",
+    "walksthrough": "None",
+    "hp": "140",
+    "abilities": "{{Ability List|{{Melee|0-50}}}}",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "holyDmgMod": "90%",
+    "maxdmg": "{{Max Damage|physical=50}}",
+    "pushable": "no",
+    "implemented": "7.0",
+    "loot": [
+        {
+            "amount": "1-2",
+            "itemName": "Ham",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Warwolf Fur",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Wolf Paw",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Wolf Trophy",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Fire, Energy, Poison",
+    "exp": "55",
+    "mitigation": "0.41",
+    "attacktype": "Melee",
+    "history": "Although the sprites for war wolf were implemented on [[Updates/7.0|Update 7.0]], the first known spawns of this creature were probably only implemented with the [[Ulderek's Rock]] revamp on [[Updates/7.2|Update 7.2]].",
+    "article": "a",
+    "actualname": "war wolf",
+    "illusionable": "yes",
+    "armor": "8",
+    "convince": "420",
+    "name": "War Wolf",
+    "isboss": "no",
+    "iceDmgMod": "110%",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "110%",
+    "plural": "war wolves",
+    "hpDrainDmgMod": "100%",
+    "usespells": "no",
+    "occurrence": "Common",
+    "bestiarytext": "War Wolves are a race of fearsome beasts bred by orcs. They are much larger than their less dangerous cousins from which they evolved, reaching up to five feet in height, and in fact orcs often use them as mounts to ride on. However, War Wolves are dangerous opponents in their own right, endowed with awesome strength and vicious, razor-sharp teeth that can cut through armour and flesh alike. Also, War Wolves have proven to be so cunning in battle that some scholars believe these animals have acquired some kind of semi-intelligence. Of course these may only be rumours, but there can be no doubt that War Wolves hate all civilised races just as ardently as their masters do. A War Wolf will always fight to the death.",
+    "speed": "132",
+    "pushobjects": "yes",
+    "fireDmgMod": "100%",
+    "sounds": [
+        "Yoooohhuuuu!",
+        "Grrrrrrr"
+    ],
+    "bestiaryclass": "Mammal",
+    "creatureclass": "Mammals",
+    "earthDmgMod": "80%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Canines",
+    "spawntype": [
+        "Regular",
+        "Raid"
+    ],
+    "race_id": "3",
+    "bestiarylevel": "Easy",
+    "senseinvis": "no",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "warwolf",
+    "behaviour": "War Wolves do not run when in low [[health]].",
+    "location": "[[Orc Fort]], the [[Orc Peninsula]], [[Magician Tower]] and northwest (tower) or south (underground) of [[Thais]], [[Zao]] steppe (encaged), [[Vengoth]].",
+    "strategy": "When attacking be careful because they attack in groups and sometimes are found with [[Orc Rider]]s."
+}

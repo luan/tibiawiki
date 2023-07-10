@@ -1,0 +1,163 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "When it's hasted it's able to outrun a level 130 player. So always be prepared to use [[Haste]] or [[Strong Haste]]. It can also be [[Skinning|skinned]] in order to get [[Behemoth Fang]]s. See also: [[Perfect Behemoth Fang/Skinning]].\n\n{{JSpoiler|You may hunt 700 of these as a task of the [[Killing in the Name of... Quest]]. Upon completion of the task you will face [[Stonecracker]].}}",
+    "walksthrough": "Fire, Poison",
+    "hp": "4000",
+    "abilities": "{{Ability List\n |{{Melee|0-455}}\n |{{Ability|Boulder throw|0-200|element=physical\n  |scene={{Scene|spell=5sqmstrike|background=canvas|caster=Behemoth|look_direction=south|missile=Stone Missile|missile_direction=south-east|missile_distance=5/5}}}}\n |{{Haste}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "holyDmgMod": "70%",
+    "maxdmg": "{{Max Damage|physical=635}}",
+    "pushable": "No",
+    "usedelements": "Physical",
+    "implemented": "6.4",
+    "loot": [
+        {
+            "amount": "1-200",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-5",
+            "itemName": "Platinum Coin",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-6",
+            "itemName": "Meat",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Battle Stone",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Double Axe",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-5",
+            "itemName": "Assassin Star",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-5",
+            "itemName": "Small Amethyst",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Two Handed Sword",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Great Health Potion",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Dark Armor",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Plate Armor",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Crystal Necklace",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Perfect Behemoth Fang",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Giant Sword",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Strange Symbol",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Big Bone",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Pick",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Behemoth Claw",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Steel Boots",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Behemoth Trophy",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Amphora",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Crowbar",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Titan Axe",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "War Axe",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Energy",
+    "exp": "2500",
+    "mitigation": "1.74",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "behemoth",
+    "illusionable": "no",
+    "armor": "50",
+    "convince": "--",
+    "name": "Behemoth",
+    "isboss": "no",
+    "iceDmgMod": "110%",
+    "energyDmgMod": "90%",
+    "deathDmgMod": "105%",
+    "plural": "behemoths",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "Behemoths are giant monsters that live in the ancient town deep below Edron. They look a bit like cross-breeds of humans and bulls and even talk in human language, but nobody knows yet where they come from. Although they are of minor intelligence, they are very strong fighters and throw huge stones at their opponents.",
+    "speed": "170",
+    "pushobjects": "Yes",
+    "fireDmgMod": "70%",
+    "sounds": [
+        "Crush the intruders!",
+        "You're so little!",
+        "Human flesh -  delicious!"
+    ],
+    "runsat": "0",
+    "bestiaryclass": "Giant",
+    "creatureclass": "Humanoids",
+    "earthDmgMod": "20%",
+    "physicalDmgMod": "90%",
+    "primarytype": "Giants",
+    "spawntype": [
+        "Regular",
+        "Unblockable"
+    ],
+    "race_id": "55",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "behemoth",
+    "behaviour": "Behemoths attack their enemies and chase them with their great speed.",
+    "location": "[[Cyclopolis]], deepest part of [[Tarpit Tomb]] after the flame, [[Forbidden Lands]], [[Vandura Mountain]], [[Deeper Banuta]] (single spawn {{Mapper Coords|127.220|127.89|14|2|text=here}}, double spawn {{Mapper Coords|text=here|127.234|127.59|14|2|1|0.50.5}}), [[Serpentine Tower]] (unreachable), deep into the [[Formorgar Mines]], [[Arena and Zoo Quarter]], [[Demon Forge|The Dark Path]], [[Lower Spike]], [[Chyllfroest]], [[Medusa Tower]] and [[Underground Glooth Factory]] (west side).",
+    "strategy": "A team of a '''[[Knight]]''' and a '''[[Druid]]''' at level 70 can hunt these with much profit and experience using the [[Ice Strike]] and [[Heal Friend]] spell. <br> '''[[Paladin]]''', lower [[level]] than 80 should have a [[blocking|blocker]] or hunt solo from [[level]] 85+ with 90+ [[distance]]. Hunting them is easy and usually there will be profit in [[Loot]].<br>\n'''[[Mage]]s''' A good strategy is to use energy walls on the ground, this strategy can turn quite profitable if executed properly.<br>\nThe {{Mapper Coords|text=Behemoth Hill|127.126|122.1|7|2|1|0.50.5}} in the [[Arena Quarter]] is a perfect place to try out your first behemoth. Sorcerers can cast a DoT spell such as [[Curse]], followed by going down again is a good idea since the behemoth does not heal. Frequently recasting such a spell when the damage is down to 10 per round can kill the behemoth in about 5-10 minutes without putting yourself in too much danger.<br>\n'''[[Knight]]s''' can solo hunt Behemoths at level 200+ with an ice weapon such as [[Winterblade]] with relative ease and profit as Behemoths are weak to ice damage and otherwise resistant to physical damage. Using '''[[Summon Skullfrost]]''' when hunting Behemoths is very effective as they are weak to both ice and death damage."
+}

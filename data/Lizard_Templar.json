@@ -1,0 +1,103 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "They often appear along with other [[Lizards]]. These creatures attack with [[melee]] attacks only, and aren't very fast; thus, an easy kill for [[paladin]]s and [[mage]]s. Even though it has a huge amount of [[hitpoints]], its attacks are rather weak, so they won't be a problem for experienced [[knight]]s either. These creatures can be skinned with an [[Obsidian Knife]]. See also: [[Lizard Leather/Skinning]].",
+    "walksthrough": "Poison",
+    "hp": "410",
+    "abilities": "{{Ability List|{{Melee|0-70}}}}",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "holyDmgMod": "100%",
+    "maxdmg": "{{Max Damage|physical=70}}",
+    "pushable": "No",
+    "usedelements": "Physical",
+    "implemented": "7.5",
+    "loot": [
+        {
+            "amount": "0-60",
+            "itemName": "Gold Coin"
+        },
+        {
+            "itemName": "Short Sword"
+        },
+        {
+            "itemName": "Sword",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Steel Helmet",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Morning Star",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Plate Armor",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Lizard Scale",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Lizard Leather",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Health Potion",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Templar Scytheblade",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Small Emerald",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Salamander Shield",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Fire, Energy",
+    "exp": "155",
+    "mitigation": "0.51",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "lizard templar",
+    "illusionable": "yes",
+    "armor": "26",
+    "convince": "--",
+    "name": "Lizard Templar",
+    "isboss": "no",
+    "iceDmgMod": "90%",
+    "energyDmgMod": "80%",
+    "deathDmgMod": "100%",
+    "plural": "lizard templars",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "no",
+    "occurrence": "Common",
+    "bestiarytext": "The proud holy warriors of the lizard race follow a strange code of honour which cannot be understood by the other races. Part of this code seems to be fighting valiantly the warm-blooded races which they regard as intruders in their realm. Their thick scale skin, their incredible toughness and their unwavering determination to win a fight had made the lizard people the dominating race in Tiquanda for a long time. Even their enemies must credit them skilfulness and elegance in the usage of their exotic weapons. Probably, lizards see a fight as a religious experience. Their fighting style is obviously very formalised yet very efficient. The snake-like blade-dance that they perform in combat is only clouded by their overconfidence and their inability to accept defeat.",
+    "speed": "87",
+    "pushobjects": "Yes",
+    "fireDmgMod": "110%",
+    "sounds": [
+        "Hissss!"
+    ],
+    "runsat": "0",
+    "bestiaryclass": "Reptile",
+    "creatureclass": "Reptiles",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Low Class Lizards",
+    "race_id": "113",
+    "bestiarylevel": "Easy",
+    "senseinvis": "no",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "lizardtemplar",
+    "behaviour": "Unknown.",
+    "location": "[[Chor]], [[Forbidden Temple]], [[Yalahar]]'s [[Foreigner Quarter]] and in [[Zzaion]].",
+    "strategy": "'''[[Mage]]s''' and '''[[Paladin]]s''': Run away from them while shooting [[rune]]s or [[bolt]]s; be careful while running, or you will run into another respawn.<br>'''[[Knight]]s''': If you are [[skill]]ed enough, the templar shouldn't be much of a problem. Just attack it, and be careful so you don't get surrounded. Level 55 with skills 70/70 and it should be easy with decent equipment."
+}

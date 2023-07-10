@@ -1,0 +1,60 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "vampire pigs",
+    "hpDrainDmgMod": "0%",
+    "walksthrough": "None",
+    "hp": "305",
+    "usespells": "yes",
+    "occurrence": "Uncommon",
+    "speed": "55",
+    "abilities": "{{Ability List\n |{{Melee|0-100}}\n |{{Ability|Life Sucking Bat Bomb|15-25|element=life drain\n  |scene={{Scene|spell=2sqmballself|effect=Bat Swarm Effect|caster=Vampire Pig|casting_effect=Bat Swarm Effect}}}}\n |{{Ability|Lifedrain Shoot|35-55|element=life drain\n  |scene={{Scene|spell=3sqmstrike|effect=Red Sparkles Effect|caster=Vampire Pig|missile=Death Missile (Large)|missile_direction=south-east|missile_distance=3/3}}}}\n |{{Outfit|no|Mutated Bat}}\n}}",
+    "pushobjects": "no",
+    "healMod": "100%",
+    "paraimmune": "?",
+    "fireDmgMod": "100%",
+    "holyDmgMod": "100%",
+    "sounds": [
+        "Oink",
+        "Oink oink"
+    ],
+    "maxdmg": "190",
+    "pushable": "yes",
+    "implemented": "8.50",
+    "bestiaryclass": "Undead",
+    "loot": [
+        {
+            "amount": "1-40",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        }
+    ],
+    "walksaround": "Fire, Energy, Poison",
+    "exp": "165",
+    "creatureclass": "Mammals",
+    "earthDmgMod": "100%",
+    "mitigation": "0.62",
+    "physicalDmgMod": "100%",
+    "primarytype": "Ungulates",
+    "spawntype": [
+        "Regular"
+    ],
+    "race_id": "558",
+    "attacktype": "Melee",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "article": "a",
+    "actualname": "vampire pig",
+    "illusionable": "no",
+    "armor": "20",
+    "drownDmgMod": "0%",
+    "convince": "--",
+    "name": "Vampire Pig",
+    "isboss": "no",
+    "behaviour": "Runs in very low health.",
+    "location": "[[Isle of Evil]] on the surface.",
+    "iceDmgMod": "100%",
+    "strategy": "Just kill them fast. [[Knight]] and [[Paladin]] should have a weapon (one handed or two handed) with an attack over 35 and a semi-good shield to hunt this creatures. With 55/55 you could kill this creature, but 65/65 is needed for profit.",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "100%"
+}

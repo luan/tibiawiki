@@ -1,0 +1,168 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "It is the only creature that appears in more than one [[Warzones|Warzone]]. Despite the name, they have never been seen interacting with other dwarves of [[the Lost]].",
+    "isarenaboss": "no",
+    "walksthrough": "Poison",
+    "hp": "5900",
+    "abilities": "{{Ability List| {{Melee|0-500}}|{{Ability|[[Mana Drain]] ball|0-250+ on itself|element=manadrain}}|{{Ability|causes [[drunkenness]]|element=drunk}}|{{Ability|[[Invisibility]]|element=invisible}} }}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "secondarytype": "The Lost",
+    "holyDmgMod": "100%",
+    "maxdmg": "800",
+    "pushable": "no",
+    "implemented": "9.60",
+    "loot": [
+        {
+            "amount": "2-200",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-9",
+            "itemName": "Platinum Coin",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Brown Crystal Splinter",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Brown Mushroom",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-10",
+            "itemName": "Drill Bolt",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Great Health Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Great Mana Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Green Crystal Fragment",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Iron Ore",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Small Topaz",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Blue Crystal Splinter",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Coal",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Dwarven Ring",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Piggy Bank",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Violet Crystal Shard",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Black Shield",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Clay Lump",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Guardian Shield",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Knight Axe",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Chaos Mace",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Magic Sulphur",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Spiked Squelcher",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Terra Boots",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Tower Shield",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Fire Axe",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Royal Helmet",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Energy, Fire",
+    "exp": "4400",
+    "mitigation": "2.40",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "lost berserker",
+    "illusionable": "no",
+    "armor": "80",
+    "convince": "--",
+    "name": "Lost Berserker",
+    "isboss": "no",
+    "iceDmgMod": "60%",
+    "energyDmgMod": "83%",
+    "deathDmgMod": "85%",
+    "plural": "lost berserkers",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "If all Lost are somewhat deranged due to mental and physical abuse, the berserkers of the Lost are the worst of the lot. Insane to a degree that resembles rabies, they are all teeth and claws when attacking an enemy. Their masters often bind their weapons to their hands, since the lost beserkers tend to forget to use them in the heat of battle and often try to overpower their foes through clawing and biting. Gnomish troops that took enemy bases by surprise told stories that the lost beserkers are held in what resembles high security prisons chained in iron, deprived from sound and vision by leathery masks. More than other Lost they are focused on battle and carnage. Even other Lost, accustomed to injuries, wars and infighting tend to avoid them. Sometimes their bloodlust is so great that they begin to fight each other even in the midst of battle.",
+    "speed": "150",
+    "pushobjects": "?",
+    "fireDmgMod": "90%",
+    "sounds": [
+        "Kill! Kiill! Kill!",
+        "Death! Death! Death!"
+    ],
+    "runsat": "0",
+    "bestiaryclass": "Humanoid",
+    "creatureclass": "Humanoids",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "80%",
+    "primarytype": "Dwarves",
+    "race_id": "888",
+    "bestiarylevel": "Hard",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "lostberserker",
+    "behaviour": "Lost berserkers will fight in close combat.",
+    "location": "[[Warzone 2|Warzones 2]] and [[Warzone 3|3]].",
+    "strategy": "Wear a dwarven ring. Not recommended for knights to fight them alone, because they do mana drain. For all other vocations, use your strongest attacks to kill them. Energy walls and fire walls are useful here."
+}

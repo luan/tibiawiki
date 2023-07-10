@@ -1,0 +1,144 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "{{JSpoiler|It's one of the minibosses of [[Kilmaresh Quest]], Wanted mission.}}",
+    "walksthrough": "Energy, Fire, Poison",
+    "hp": "25000",
+    "speed": "?",
+    "abilities": "{{Ability List|{{Melee|0-600?}}|}}",
+    "pushobjects": "yes",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "90%",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "{{Max Damage|}}",
+    "pushable": "no",
+    "runsat": "0",
+    "implemented": "12.70.10953",
+    "cooldown": "20",
+    "loot": [
+        {
+            "itemName": "Tagralt-Inlaid Scabbard"
+        },
+        {
+            "itemName": "Terra Boots"
+        },
+        {
+            "itemName": "Knight Armor"
+        },
+        {
+            "itemName": "Crystal Coin"
+        },
+        {
+            "itemName": "Gold Ingot"
+        },
+        {
+            "itemName": "Yellow Gem"
+        },
+        {
+            "itemName": "Small Emerald"
+        },
+        {
+            "itemName": "Lightning Headband"
+        },
+        {
+            "itemName": "Small Diamond"
+        },
+        {
+            "itemName": "Rainbow Quartz"
+        },
+        {
+            "itemName": "Violet Gem"
+        },
+        {
+            "itemName": "Lightning Legs"
+        },
+        {
+            "itemName": "Wand of Inferno"
+        },
+        {
+            "itemName": "Lightning Pendant"
+        },
+        {
+            "itemName": "Eye-Embroidered Veil"
+        },
+        {
+            "itemName": "Sea Horse Figurine"
+        },
+        {
+            "itemName": "Focus Cape"
+        },
+        {
+            "itemName": "Magma Coat"
+        },
+        {
+            "itemName": "Ring of Green Plasma"
+        },
+        {
+            "itemName": "Underworld Rod"
+        },
+        {
+            "itemName": "Dagger"
+        },
+        {
+            "itemName": "Sacred Tree Amulet"
+        },
+        {
+            "itemName": "Magma Boots"
+        },
+        {
+            "itemName": "Wand of Starstorm"
+        },
+        {
+            "itemName": "Metal Spats"
+        },
+        {
+            "itemName": "Dwarven Ring"
+        },
+        {
+            "itemName": "Wand of Cosmic Energy"
+        },
+        {
+            "itemName": "Ring of Healing"
+        },
+        {
+            "itemName": "Golden Mask"
+        },
+        {
+            "itemName": "Warrior's Shield"
+        },
+        {
+            "itemName": "Onyx Chip"
+        },
+        {
+            "itemName": "Terra Hood"
+        }
+    ],
+    "walksaround": "None",
+    "exp": "20500",
+    "creatureclass": "Humans",
+    "earthDmgMod": "100%",
+    "physicalDmgMod": "95%",
+    "bosstiaryclass": "Archfoe",
+    "primarytype": "Fafnar Cultists",
+    "spawntype": [
+        "Triggered"
+    ],
+    "race_id": "2104",
+    "senseinvis": "yes",
+    "actualname": "Sister Hetai",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Sister Hetai",
+    "isboss": "yes",
+    "location": "Through a teleport located inside the [[Kilmaresh Catacombs]], {{Mapper Coords|text=here|132.90|122.236|9|2|1|0.50.5}}.",
+    "iceDmgMod": "125%",
+    "energyDmgMod": "85%",
+    "deathDmgMod": "100%"
+}

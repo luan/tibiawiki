@@ -1,0 +1,117 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "{{JSpoiler|It's one of the bosses of [[A Pirate's Tail Quest]].}}",
+    "walksthrough": "None",
+    "hp": "?",
+    "speed": "40",
+    "abilities": "{{Ability List| {{Melee|0-400}}|{{Ability|[[Thunderstorm]]|100-350?|element=?}}|{{Ability|[[Energy Wave]]|100-200?|element=energy}} }}",
+    "pushobjects": "no",
+    "healMod": "100%?",
+    "fireDmgMod": "120%",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        ""
+    ],
+    "pushable": "no",
+    "runsat": "0",
+    "implemented": "12.60.10463",
+    "cooldown": "20",
+    "loot": [
+        {
+            "itemName": "Cheesy Key"
+        },
+        {
+            "itemName": "Plushie of Tentugly",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Crystal Coin"
+        },
+        {
+            "itemName": "Platinum Coin"
+        },
+        {
+            "itemName": "Golden Skull"
+        },
+        {
+            "itemName": "Mastermind Potion"
+        },
+        {
+            "itemName": "Ultimate Mana Potion"
+        },
+        {
+            "itemName": "Ultimate Health Potion"
+        },
+        {
+            "itemName": "Tentacle of Tentugly"
+        },
+        {
+            "itemName": "Pirate Coin"
+        },
+        {
+            "itemName": "Bullseye Potion"
+        },
+        {
+            "itemName": "Tiara"
+        },
+        {
+            "itemName": "Giant Amethyst"
+        },
+        {
+            "itemName": "Giant Topaz"
+        },
+        {
+            "itemName": "Small Treasure Chest"
+        },
+        {
+            "itemName": "Ultimate Spirit Potion"
+        },
+        {
+            "itemName": "Berserk Potion"
+        },
+        {
+            "itemName": "Giant Ruby"
+        },
+        {
+            "itemName": "Golden Dustbin"
+        },
+        {
+            "itemName": "Golden Cheese Wedge"
+        },
+        {
+            "itemName": "Tentugly's Eye"
+        },
+        {
+            "itemName": "Tentugly's Jaws",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Sea Horse Figurine"
+        }
+    ],
+    "walksaround": "None",
+    "exp": "40000",
+    "earthDmgMod": "130%?",
+    "physicalDmgMod": "100%?",
+    "bosstiaryclass": "Archfoe",
+    "spawntype": [
+        "Triggered"
+    ],
+    "race_id": "2048",
+    "history": "With the [[Summer Update 2022]], a new version of Tentugly's sprite was added to the game files, with a complete body and without the clapboards around it. This was most likely done so the boss can appear in the [[Bosstiary]] with a better image than it would be if it showed up as it does during the actual fight. This version of Tentugly is not animated and looks like this:\n\n[[File:Tentugly.gif]]",
+    "senseinvis": "yes",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Tentugly's Head",
+    "isboss": "yes",
+    "behaviour": "It doesn't move.",
+    "location": "The boat between [[Rascacoon]] and [[The Wreckoning]].",
+    "iceDmgMod": "100%?",
+    "strategy": "Just focus on killing it when it appears, otherwise deal with its [[Tentacle|tentacles]].",
+    "energyDmgMod": "70%",
+    "deathDmgMod": "100%?"
+}

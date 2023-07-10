@@ -1,0 +1,104 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "Stampors are a [[Mount|tameable]] creature.\n\n{{JSpoiler|You may hunt 600 of these as a task of the [[Killing in the Name of... Quest]]. Upon completion of the task you will face [[Tromphonyte]].}}",
+    "walksthrough": "None",
+    "hp": "1200",
+    "abilities": "{{Ability List\n |{{Melee|0-130}}\n |{{Ability|[[Berserk]]|150-280|element=?}}\n |{{Ability|Throws life draining [[Small Stone]]|75-100|element=lifedrain}}\n |{{Healing|range=90-120}}\n |{{Debuff2|Earth Hit|melee=yes|distance=yes|value=40%|duration=18}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "holyDmgMod": "50%",
+    "maxdmg": "400",
+    "pushable": "?",
+    "implemented": "8.70",
+    "loot": [
+        {
+            "amount": "0-242",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "Platinum Coin",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "Small Topaz",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "Stampor Talons",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "Strong Health Potion",
+            "rarity": "semi-rare"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "Strong Mana Potion",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Stampor Horn",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Hollow Stampor Hoof",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "War Hammer",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Knight Armor",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Spiked Squelcher",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Fire, Energy, Poison",
+    "exp": "780",
+    "mitigation": "0.91",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "stampor",
+    "illusionable": "no",
+    "armor": "60",
+    "convince": "--",
+    "name": "Stampor",
+    "isboss": "no",
+    "iceDmgMod": "90%",
+    "energyDmgMod": "70%",
+    "deathDmgMod": "90%",
+    "plural": "stampors",
+    "hpDrainDmgMod": "100%",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "Scientists have various theories about the nature of the Stampor. Some of them see the Stampor as holy animal of a long forgotten god. Others claim that the Stampor must be some surviving experiment of an ancient and now extinct race. Another faction sees the Stampor as an ordinary animal with a high affinity to the element earth. All of them base their theories on the Stampor's astonishing abilities which nonetheless seem rather natural and not based on magic at all. Be it as it may, the Stampors that have been encountered were quite powerful and often a threat to travellers. This is not caused by an unusual aggressiveness of the Stampor, but rather on their stupidity and bad eyesight. They seem to mistake unknown intruders as members of other Stampor herds which they try to drive off. While a Stampor is very resilient and tough and can easily withstand the 'friendly poking' and spitting, for an ordinary human such friendly warnings can become life-threatening. They seem to be drawn to places aligned to elemental earth in some way and there were sightings of Stampors in areas to which they would be physically unable to travel. Of course this only fuelled rumours and the above mentioned theories, though none of this sightings could be confirmed, yet.",
+    "speed": "220",
+    "pushobjects": "?",
+    "fireDmgMod": "80%",
+    "sounds": [
+        "KRRRRRNG"
+    ],
+    "bestiaryclass": "Reptile",
+    "creatureclass": "Mammals",
+    "earthDmgMod": "100%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Ungulates",
+    "race_id": "694",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%",
+    "bestiaryname": "stampor",
+    "behaviour": "This creature changes target easily and can swap back just as fast. Blocker/shooter teamhunts are discouraged due to their erratic behavior.",
+    "location": "[[Stampor Cave]] on the [[Muggy Plains]] ({{Mapper Coords|129.140|121.236|7|2|text=here}}), [[Chyllfroest]].",
+    "strategy": "Mages: Can hunt them from level 80 and above.<br />\n[[Sorcerer]]s should use [[Wand of Voodoo]] and [[Druid]]s, [[Springsprout Rod]] in combination with [[Earth Strike]]. Be careful as they can come in groups of two, keep [[Exura Gran]] ready incase you need it. Another strategy, if you are a Mage, is to lure 4-6 Stampors and kill them using [[Stone Shower Rune]]s, this is recommended for Druids/Sorcerers above level 110. You do not need to stand diagonal in order to avoid any waves although, their [[Berserk]] may cause a lot damage, it is advised to keep some distance. In the cave you will walk slow because of the bad ground so when there are many use [[Strong Haste]] to outrun them. \n[[Knight]]s and [[Paladin]]s should not hunt these monsters due to their skill reduction ability, which is used quite frequently."
+}

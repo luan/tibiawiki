@@ -1,0 +1,82 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "Lersatio was once a normal person and a citizen of [[Carlin]]. He, his brothers [[Arthei]], [[Marziel]], and [[Boreth]], and Arthei's wife [[Kala]], travelled to [[Yalahar]] in order to find a new home. From that moment on Marziel started keeping a [[Arthei's Descent into Vampirism I (Book)|diary]].<br>Lersatio is a vain vampire who dreams to see his face in a mirror again, which is why he awakens when you break the mirrors near him. He is the second boss you will encounter during the [[Blood Brothers Quest]]. He spawns with 2 [[Vampire]]s.<br>You will receive [[The Dust of Lersatio]] when you use a [[Blessed Wooden Stake]] on his dead body.",
+    "walksthrough": "?",
+    "hp": "1645",
+    "speed": "135",
+    "abilities": "{{Ability List| {{Melee|0-392+}}|{{Ability|[[Sniper Arrow]]|0-258+|element=?}}|{{Ability|Distance [[Life Drain]]|80-120|element=lifedrain}}|{{Ability|Summons 3 [[Vampire]]s at once|element=summon}}|{{Ability|[[Invisibility]]|element=invisible}}|{{Outfit|no|Bat}} }}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "101%>?",
+    "holyDmgMod": "101%>?",
+    "sounds": [
+        "The monsters in the mirrors will come eat your dreams.",
+        "Your pitiful life has come to an end.",
+        "One day I will see my pretty face in a mirror again."
+    ],
+    "maxdmg": "750+ (1200+ with summons)",
+    "pushable": "?",
+    "implemented": "8.40",
+    "loot": [
+        {
+            "amount": "0-5",
+            "itemName": "Platinum Coin"
+        },
+        {
+            "amount": "1-100",
+            "itemName": "Gold Coin"
+        },
+        {
+            "itemName": "Strong Health Potion"
+        },
+        {
+            "itemName": "Blood Preservation"
+        },
+        {
+            "itemName": "Ring of Healing",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Vampire Shield",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Dreaded Cleaver",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Black Pearl",
+            "rarity": "rare"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "2500",
+    "creatureclass": "The Undead",
+    "earthDmgMod": "100%?",
+    "physicalDmgMod": "100%?",
+    "bosstiaryclass": "Bane",
+    "primarytype": "Vampires",
+    "spawntype": [
+        "Unique",
+        "Triggered",
+        "Unblockable"
+    ],
+    "race_id": "482",
+    "senseinvis": "yes",
+    "actualname": "Lersatio",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Lersatio",
+    "isboss": "yes",
+    "behaviour": "He fights till death. Uses [[Invisibility]] very often.",
+    "location": "[[Vengoth/Castle|Vengoth Castle]].",
+    "iceDmgMod": "100%?",
+    "strategy": "'''Knights:''' the best option is to [[Exori]] or [[Exori Gran]] as much as possible while keeping an eye on your health.  That way you kill all the summons as well so they don't do extra damage.",
+    "energyDmgMod": "60%",
+    "deathDmgMod": "0%"
+}

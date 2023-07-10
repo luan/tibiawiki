@@ -1,0 +1,61 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "Only appears during the [[The Lightbearer]] event.",
+    "walksthrough": "Poison, Fire",
+    "hp": "2000",
+    "abilities": "{{Ability List\n |{{Melee|0-150?}}\n |{{Ability|Poison Hit|0-225?|element=earth\n  |scene={{Scene|spell=3sqmstrike|caster=Midnight Spawn|effect=Poison Effect 1|missile=Poison Missile|missile_direction=south-east|missile_distance=3/3}}}}\n |{{Ability|Energy Exori|90-110?|element=energy|scene={{Scene|spell=3x3spell|effect=Blue Electricity Effect|caster=Midnight Spawn|effect_on_caster=yes}}}}\n |{{Ability|Drunk Hit|element=drunk\n  |scene={{Scene|spell=3sqmstrike|caster=Midnight Spawn|effect=Poison Effect 1|missile=Poison Missile|missile_direction=south-east|missile_distance=3/3}}}} \n }}",
+    "healMod": "100%",
+    "paraimmune": "?",
+    "secondarytype": "Event Creatures",
+    "holyDmgMod": "70%",
+    "maxdmg": "?",
+    "pushable": "no",
+    "implemented": "8.50",
+    "loot": [
+        {
+            "itemName": "Midnight Shard",
+            "rarity": "uncommon"
+        }
+    ],
+    "walksaround": "Energy",
+    "exp": "900",
+    "mitigation": "1.18",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "midnight spawn",
+    "illusionable": "no",
+    "armor": "40",
+    "convince": "--",
+    "name": "Midnight Spawn",
+    "isboss": "no",
+    "iceDmgMod": "110%",
+    "energyDmgMod": "90%",
+    "deathDmgMod": "105%",
+    "status": "event",
+    "plural": "midnight spawns",
+    "hpDrainDmgMod": "100%",
+    "usespells": "yes",
+    "occurrence": "Very Rare",
+    "speed": "170",
+    "pushobjects": "?",
+    "fireDmgMod": "70%",
+    "sounds": [
+        ""
+    ],
+    "bestiaryclass": "Slime",
+    "creatureclass": "Elementals",
+    "earthDmgMod": "20%",
+    "physicalDmgMod": "90%",
+    "primarytype": "Blobs",
+    "spawntype": [
+        "Event"
+    ],
+    "race_id": "584",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%",
+    "behaviour": "Unknown.",
+    "location": "Forbidden Lands around [https://tibia.fandom.com/wiki/Mapper?coords=128.251-127.50-7-4-1-1 the Lightbringer's basin].",
+    "strategy": "Bring a [[Dwarven Ring]] to avoid luring other strong creatures like [[Behemoth]] or [[Massive Earth Elemental]]. Use [[Energy Bomb|Energy Bombs]] to protect yourself from them and the Behemoths."
+}

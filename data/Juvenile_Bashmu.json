@@ -1,0 +1,153 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "walksthrough": "Fire, Energy, Poison",
+    "hp": "7500",
+    "occurrence": "Common",
+    "bestiarytext": "Juvenile Bashmu are the younger versions of [[Bashmu]]s.",
+    "speed": "195",
+    "abilities": "{{Ability List| {{Melee|0-400}}|{{Ability|[[Energy Beam]]|300-400|element=energy}}|{{Ability|Energy [[Berserk]]|400-500|element=energy}}|{{Ability|[[Terra Strike]]|400-500|element=earth}} }}",
+    "healMod": "100%",
+    "pushobjects": "yes",
+    "paraimmune": "yes",
+    "fireDmgMod": "100%",
+    "holyDmgMod": "120%",
+    "sounds": [],
+    "maxdmg": "{{Max Damage|physical=400|energy=900|earth=500}}",
+    "pushable": "no",
+    "usedelements": "?",
+    "implemented": "12.70.10953",
+    "bestiaryclass": "Magical",
+    "loot": [
+        {
+            "amount": "1-19",
+            "itemName": "Platinum Coin",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Great Spirit Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-4",
+            "itemName": "Ultimate Health Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Blue Crystal Shard",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Bashmu Tongue",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Lightning Pendant",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Lightning Boots",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Lightning Legs",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Violet Gem",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Yellow Gem",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Green Gem",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Red Gem",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "War Hammer",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Crystal Mace",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Diamond Sceptre",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Amber Staff",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Dragonbone Staff",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Violet Crystal Shard",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Green Crystal Shard",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Cyan Crystal Fragment",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Bashmu Fang",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Bashmu Feather",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Skull Staff",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Chaos Mace",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Spellweaver's Robe",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Pair of Iron Fists",
+            "rarity": "rare"
+        }
+    ],
+    "walksaround": "None",
+    "exp": "4500",
+    "creatureclass": "Reptiles",
+    "earthDmgMod": "95%",
+    "mitigation": "2.19",
+    "physicalDmgMod": "100%",
+    "primarytype": "Serpents",
+    "race_id": "2100",
+    "bestiarylevel": "Hard",
+    "senseinvis": "yes",
+    "article": "a",
+    "actualname": "juvenile bashmu",
+    "illusionable": "no",
+    "armor": "75",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "bestiaryname": "juvenilebashmu",
+    "name": "Juvenile Bashmu",
+    "location": "[[Salt Caves]].",
+    "iceDmgMod": "110%",
+    "energyDmgMod": "95%",
+    "deathDmgMod": "95%"
+}

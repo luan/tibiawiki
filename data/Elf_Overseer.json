@@ -1,0 +1,89 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "Was introduced in the [[Summer Update 2011]]. As long as the [[Thornfire World Change]] isn't active, three of them will [[respawn]] daily in three different places.<br />\n{{JSpoiler|You need to kill them in order to set [[Shadowthorn]] on fire during the [[Thornfire World Change]].}}",
+    "isarenaboss": "no",
+    "walksthrough": "Fire",
+    "hp": "500",
+    "abilities": "{{Ability List| {{Melee|0-75?}}|{{Healing|range=50-72?}}|{{Ability|Bubble Beam|89+?|element=?}}|{{Ability|Drown Explosion|50+|element=drown}} }}",
+    "healMod": "100%",
+    "paraimmune": "?",
+    "holyDmgMod": "105%",
+    "maxdmg": "240+",
+    "pushable": "yes",
+    "implemented": "9.10",
+    "loot": [
+        {
+            "amount": "1-50",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "Bread",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Elvish Talisman",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Battle Shield",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Health Potion",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Mana Potion",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Crystal Sword",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Holy Orchid",
+            "rarity": "semi-rare"
+        }
+    ],
+    "walksaround": "Energy, Poison",
+    "exp": "290",
+    "mitigation": "0.64",
+    "attacktype": "Melee",
+    "article": "an",
+    "actualname": "elf overseer",
+    "illusionable": "no",
+    "armor": "15",
+    "convince": "?",
+    "name": "Elf Overseer",
+    "isboss": "no",
+    "iceDmgMod": "90%",
+    "energyDmgMod": "80%",
+    "deathDmgMod": "90%",
+    "status": "event",
+    "plural": "elf overseers",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Very Rare",
+    "speed": "88",
+    "pushobjects": "no",
+    "fireDmgMod": "0%",
+    "sounds": [
+        "Do YOU want some more water, yes? YES?",
+        "DOWN WITH THE FIRES OF IGNORANCE!!"
+    ],
+    "bestiaryclass": "Humanoid",
+    "creatureclass": "Humanoids",
+    "earthDmgMod": "100%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Elves",
+    "race_id": "741",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "behaviour": "Unknown.",
+    "location": "[[Shadowthorn]].",
+    "strategy": "Stronger than an [[Elf Arcanist]], kill it fast. Beware of [[Drown Damage|Drown]] hits. Stay diagonal to avoid its beam. He will sometimes hit you with it, sometimes not."
+}

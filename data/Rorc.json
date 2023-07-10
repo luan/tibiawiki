@@ -1,0 +1,91 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "<noinclude><p>[[File:Rorc.jpg|200px]]</p></noinclude>",
+    "isarenaboss": "no",
+    "walksthrough": "?",
+    "hp": "260",
+    "abilities": "{{Ability List|{{Melee|0-120}}|{{Haste}}|{{Healing|range=0-35}}}}",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "secondarytype": "Birds",
+    "holyDmgMod": "90%",
+    "maxdmg": "{{Max Damage|physical=120}}",
+    "pushable": "no",
+    "implemented": "10.10",
+    "loot": [
+        {
+            "amount": "0-34",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Rorc Feather",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Hatched Rorc Egg",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Wolf Tooth Chain",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Plate Shield",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Orcish Axe",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Obsidian Lance",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Rorc Egg",
+            "rarity": "rare"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "105",
+    "mitigation": "0.51",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "rorc",
+    "illusionable": "no",
+    "armor": "12",
+    "convince": "540",
+    "name": "Rorc",
+    "isboss": "no",
+    "iceDmgMod": "100%",
+    "energyDmgMod": "80%",
+    "deathDmgMod": "110%",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "The rorcs are the creation of a power-hungry orc shaman who used water of Ashar'tel stolen from the forest furies, to emulate their fearsome strength and fury in his own warriors. His nomad tribe of orcish raiders employed a tamed variety of terrorbirds as mounts. The careless usage of the mystical water somehow mutated and fused rider and mount to a fearsome new creature, an entirely new breed of orcs, the rorcs. The shaman's delight was short lived as the changed minions were not amused by their treatment. They used their newfound prowess and scorn to overthrow and supposedly kill the shaman. Since then, the rorcs have sought out recognition by their orcish brethren. Some inherent urge drove them to seek out their own flock and reunite with them. Other orcs first greeted them with contempt. But after a first attempt of extermination failed miserably at the claws of the rorcs, the orcish warchiefs began to reconsider. For now, the rorcs are grudgingly allowed to live at the fringes of orcish territory in an uneasy alliance with their brethren. If the rorcs can prove their worth, they might be allowed to join the orcish ranks and bolster their armies. If the two breeds separate, as more and more rorc roosters demand, then the rorcs will become an unique tribe, looking for a place of their own, of course with violent force. Both options paint a dark future for neighbouring communities and the world as a whole. The rorcs are fearsome fighters, even more aggressive, single-minded and brutal than an ordinary orc. Charging into battle, they employ natural and forged weapons with ferocity. Often they are in some frenzy akin to those of the forest furies, with which they share their origin. Even in their brighter moments, they are creatures that look to prove themselves before the other orcs and their pack mates. Infightings between rorcs roosters are common and often lethal, as the orc-bird mixture leads to an aggressive pack behaviour. A severely wounded leader is often killed by some contender, even if the battle against some common enemy is still joined.",
+    "speed": "88",
+    "pushobjects": "yes",
+    "fireDmgMod": "100%",
+    "sounds": [
+        "Kroaaah!!",
+        "Butak <crooooarck> bana zamar!",
+        "Krrrooow truaaak kiiiii!"
+    ],
+    "runsat": "0",
+    "bestiaryclass": "Magical",
+    "creatureclass": "Humanoids",
+    "earthDmgMod": "110%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Orcs",
+    "race_id": "978",
+    "bestiarylevel": "Easy",
+    "senseinvis": "no",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "rorc",
+    "behaviour": "They fight in close range.",
+    "location": "South-west of [[Ulderek's Rock]] and in the [[Forsaken Mine/Rorcs|Rorc]] version of the [[Forsaken Mine]].",
+    "strategy": "Treat it as a [[Kongra]]."
+}

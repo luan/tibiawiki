@@ -1,0 +1,105 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "They are similar to [[Bonebeast]]s, but a bit weaker. Added in the [[Updates/8.4|Christmas Update 2008]].\n\n{{JSpoiler|You may hunt 400 of these as a task of the [[Killing in the Name of... Quest]]. Upon completion of the task you will face [[Esmeralda]].}}",
+    "walksthrough": "Poison",
+    "hp": "550",
+    "abilities": "{{Ability List\n |{{Melee|0-155}} (may poison up to 5hp/turn)\n |{{Ability|Envenom|45-85|earth\n  |scene={{Scene|spell=5sqmstrike|background=canvas|effect=Poison Effect 3|caster=Mutated Rat|look_direction=south|missile=Poison Missile|missile_direction=south-east|missile_distance=5/5}}}}\n |{{Ability|Poison Beam|5 hp/turn|poisoned\n   |scene={{Scene|spell=5sqmbeam|effect=Poison Effect 3|caster=Mutated Rat|look_direction=east}}}}\n |{{Ability|Poison Berserk|4 hp/turn|poisoned\n   |scene={{Scene|spell=3x3spell|effect=Poison Effect 3|caster=Mutated Rat|effect_on_caster=yes}}}}\n |{{Ability|Life Drain Berserk|0-70|lifedrain\n   |scene={{Scene|spell=3x3spell|effect=Red Sparkles Effect|caster=Mutated Rat|effect_on_caster=yes}}}}\n |{{Ability|Paralyze||slowed}}\n |{{Healing}} (weak)\n}}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "secondarytype": "Glires",
+    "holyDmgMod": "90%",
+    "maxdmg": "305",
+    "pushable": "?",
+    "implemented": "8.40",
+    "loot": [
+        {
+            "amount": "1-130",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Skull (Item)",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Stone Herb",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Mutated Rat Tail",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Plate Shield",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Halberd",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Green Mushroom",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Mouldy Cheese",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Health Potion",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Stealth Ring",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Spellbook of Enlightenment",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Tower Shield",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Fire, Energy",
+    "exp": "450",
+    "mitigation": "0.99",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "mutated rat",
+    "illusionable": "no",
+    "armor": "32",
+    "convince": "--",
+    "name": "Mutated Rat",
+    "isboss": "no",
+    "iceDmgMod": "100%",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "0%",
+    "plural": "mutated rats",
+    "hpDrainDmgMod": "0%",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "Mutated Rats usually grow out of rats eating contaminated remains of experiments. Given the rats' ferocious appetite and the thoughtless disposal of residues by alchemists, Mutated Rats are not as uncommon as one might like. They are subject of many rumours and legends as they are hardly met during daytime. This makes it somewhat hard to give an adequate description of their attitudes and abilities. It is certain that their behaviour usually does not change much due to the mutation other than becoming more daring. Rumour has it that depending on their sources of food - the disgusting details will be left out here - they might get frightening intelligent and live much longer than usual rats. Mutated Rats always take the leadership over the common rats in their area. Being the leader, the Mutated Rats rarely leave the deepest lairs but are served and fed by their smaller brethren. In combat they are rarely seen without the company of ordinary rats that seem to serve as their soldiers. They are definitely more powerful and even vital than their smaller kin but they are still not much of a threat for an experienced fighter.<br />It is also said that some of them actually become immortal and gain magic knowledge from devouring whole books about magic. Those Mutated Rats are actually able to learn certain rat related spells and become powerful ratomancers. However, those are just rumours and there have never been any real facts or credible reports.",
+    "speed": "115",
+    "pushobjects": "?",
+    "fireDmgMod": "110%",
+    "sounds": [
+        "Grrrrrrrrrrrrrr!",
+        "Fcccccchhhhhh"
+    ],
+    "bestiaryclass": "Mammal",
+    "creatureclass": "Mammals",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Mutated Mammals",
+    "race_id": "502",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "drownDmgMod": "0%",
+    "bestiaryname": "mutatedrat",
+    "behaviour": "Fights to death, paralyzing more often if you keep distance. Moves and kills weaker monsters.",
+    "location": "[[Alchemist Quarter]], [[Arena and Zoo Quarter]] (Inside the arena with other mutated creatures), [[Razachai]], [[Vampire Castle]] on [[Vengoth]], [[Robson's Isle]], [[Mushroom Gardens]], [[Souleater Mountains]], [[Northern Zao Plantations]], [[Middle Spike]].",
+    "strategy": "'''Paladins:''' These can be soloed easily at level 50+ with 75+ distance. Try to run around to avoid their melee, as they can hit pretty hard.<br /> '''Knights:''' Try to face only one at a time by \"dancing\" around, using obstacles and other monsters to your advantage. Easy monster at level 65, but in order to do the [[Killing in the Name of... Quest|Mutated Rat task]] and don't waste, it is recommended at least level 75 with 80/80 skills and good equipment.<br /> '''Mages:''' At level 50 you can just use [[Flame Strike]] and occassionally [[Exura]] if you are paralyzed. You can also try at level 40 or even less, but heal as soon as your HP gets below 300, it can be pretty risky. Druid should use [[Northwind Rod]] or [[Hailstorm Rod]] and [[Flame Strike]] to get them down fast."
+}

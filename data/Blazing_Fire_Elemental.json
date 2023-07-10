@@ -1,0 +1,68 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "blazing fire elementals",
+    "hpDrainDmgMod": "100%",
+    "notes": "Was introduced in the [[Updates/8.2|Summer Update 2008]]. It was summonable until July 9th.",
+    "walksthrough": "Fire",
+    "hp": "650",
+    "speed": "?",
+    "abilities": "{{Ability List| {{Melee|0-100}}|{{Ability|[[Great Fireball]] on itself|100-150|element=fire}}|{{Ability|[[Explosion|Fire Explosion]]|65-200|element=fire}} }}",
+    "pushobjects": "Yes",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "0%",
+    "holyDmgMod": "100%",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "450~",
+    "pushable": "No",
+    "implemented": "8.20",
+    "loot": [
+        {
+            "amount": "0-125",
+            "itemName": "Gold Coin"
+        },
+        {
+            "itemName": "Glimmering Soil",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Fiery Heart",
+            "rarity": "semi-rare"
+        },
+        {
+            "amount": "0-3",
+            "itemName": "Flaming Arrow",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Coal",
+            "rarity": "rare"
+        }
+    ],
+    "walksaround": "Energy, Poison",
+    "exp": "450",
+    "creatureclass": "Elementals",
+    "earthDmgMod": "100%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Pyro-Elementals",
+    "race_id": "471",
+    "history": "Blazing Fire Elementals were summonable for 700 [[mana]] for a few days after they were implemented, making it the most mana costing creature to summon. They weren't intended to be summonable, and therefore the patch in the morning from 9 July (there were 2 patches that day) fixed this.",
+    "senseinvis": "?",
+    "article": "a",
+    "actualname": "blazing fire elemental",
+    "illusionable": "yes",
+    "armor": "?",
+    "drownDmgMod": "100%",
+    "convince": "--",
+    "name": "Blazing Fire Elemental",
+    "isboss": "no",
+    "behaviour": "Like a normal [[Fire Elemental]] but a bit stronger.",
+    "location": "[[The Elemental Spheres Quest]], [[Sorcerer]]'s part - [[Fire Sphere]].",
+    "iceDmgMod": "125%>",
+    "strategy": "Shoot from distance using [[Icicle Rune]]s to kill it fast. For profit hunting [[Ice Strike]] is advised or luring a couple and using [[Avalanche Rune]]s.",
+    "energyDmgMod": "80%<",
+    "deathDmgMod": "70%<"
+}

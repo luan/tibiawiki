@@ -1,0 +1,84 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "They can attack you from a long distance even before you can see them on your screen!<br>Some spawns are behind walls or plants, so you cannot reach them to attack with [[melee]]. In these cases, you need to use distance attacks to kill them.",
+    "walksthrough": "None",
+    "hp": "150",
+    "abilities": "{{Ability List\n |{{Ability|Earth Strike|17-37|earth\n  |scene={{Scene|spell=7sqmstrike|effect=Poison Effect 1|caster=Spit Nettle|missile=Poison Missile|missile_direction=south-east|missile_distance=7/7}}}}\n |{{Ability|Poisoning Strike|up to 2 hp/turn|poisoned\n  |scene={{Scene|spell=7sqmstrike|effect=Poison Effect 1|caster=Spit Nettle|missile=Poison Missile|missile_direction=south-east|missile_distance=7/7}}}}\n |{{Healing|range=8-16\n  |scene={{Scene|spell=buffspell|effect=Blue Sparkles Effect|caster=Spit Nettle|effect_on_caster=yes}}}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "holyDmgMod": "100%",
+    "maxdmg": "{{Max Damage|earth=45}}",
+    "pushable": "No",
+    "implemented": "7.5",
+    "loot": [
+        {
+            "amount": "0-5",
+            "itemName": "Gold Coin",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Shadow Herb",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Nettle Spit",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "Sling Herb",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Grave Flower",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Nettle Blossom",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Seeds",
+            "rarity": "rare"
+        }
+    ],
+    "walksaround": "Fire, Energy, Poison",
+    "exp": "20",
+    "mitigation": "0.86",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "spit nettle",
+    "illusionable": "no",
+    "armor": "12",
+    "convince": "--",
+    "name": "Spit Nettle",
+    "isboss": "no",
+    "iceDmgMod": "80%",
+    "energyDmgMod": "0%",
+    "deathDmgMod": "100%",
+    "plural": "spit nettles",
+    "hpDrainDmgMod": "100%",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "A rather strange plant of the jungle in Tiquanda is the Spit Nettle. To some extent this plant is a sentient being that attacks everything that approaches it. Most jungle dwellers seem to have developed some strategy to coexist with that plant. Outsiders however are immediately attacked with poisonous thorns that the nettle spits from a sack beneath its blossoms. It seems it has an endless supply of thorns and we have not heard yet of a nettle that has run out of them. It is not quite clear why a plant would attack in such a manner, but most likely it is some sort of self-defence that is unparalleled in the plant world. The lizard people have cultivated that plant to defend their dwellings. So utmost caution is advised when you encounter a colony of those plants, some angry 'gardener' could be just around the corner.",
+    "speed": "39",
+    "pushobjects": "No",
+    "fireDmgMod": "110%",
+    "sounds": [
+        ""
+    ],
+    "bestiaryclass": "Plant",
+    "creatureclass": "Elementals",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Bio-Elementals",
+    "race_id": "221",
+    "bestiarylevel": "Easy",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%",
+    "bestiaryname": "spitnettle",
+    "behaviour": "Does not move and cannot be pushed. All its attacks are at a distance and earth-damage.",
+    "location": "[[Tiquanda]], [[Trapwood]], the outskirts of [[Chor]] and [[Forbidden Lands]], [[Alchemist Quarter]] in [[Yalahar]], [[Tiquanda Laboratory]].",
+    "strategy": "'''[[Druid]]s''' and '''[[Sorcerer]]s''': Try not to use [[Energy]] attacks on them. It is better to avoid them, as they only give 20 [[exp]] have a good defence and can do some serious damage, which can be dangerous for a low [[level]]."
+}

@@ -1,0 +1,127 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "Branchy Crawlers are the creatures from [[Rotten Wasteland]] that can trigger [[Goshnar's Taints]].\n\nIt only drops a [[Bag You Desire]] for players with at least one of [[Goshnar's Taints]]. The more taints you have, the higher the chance. The Bag is always dropped inside a [[Reward Container]] so there's no risk of leaving it behind in the creature's corpse.",
+    "walksthrough": "Fire, Energy, Poison",
+    "hp": "27000",
+    "abilities": "{{Ability List\n |{{Melee|0-600}}\n |{{Ability|Poison Bolt|1000-1200|earth\n  |scene={{Scene|spell=3sqmstrike|caster=Branchy Crawler|missile=Piercing Bolt Missile|missile_direction=south-east|missile_distance=3/3|effect=Poison Effect 1}}}}\n |{{Ability|Roots Ball on target|1100-1200|earth\n  |scene={{Scene|spell=2sqmballtarget|caster=Branchy Crawler|missile=Poison Missile|missile_direction=south-east|missile_distance=2/2|effect=Plant Effect}}}}\n |{{Ability|Holy Ball|1100-1300|holy\n  |scene={{Scene|spell=2sqmballself|caster=Branchy Crawler|effect=Holy Effect|edge_size=32|effect_on_caster=yes}}}}\n |{{Ability|Holy Strike|1000-1200|holy}}\n |{{Ability|Blood Ball||destroys Magic Walls and Wild Growths\n  |scene={{Scene|spell=2sqmballself|caster=Branchy Crawler|effect=Explosion Effect|edge_size=32|effect_on_caster=yes}}}}\n |{{Ability|Roots you in place||rooted}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "holyDmgMod": "60%",
+    "maxdmg": "{{Max Damage|physical=600|earth=2400|holy=3700}}",
+    "pushable": "no",
+    "implemented": "12.40.9997",
+    "loot": [
+        {
+            "itemName": "Crystal Coin",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-8",
+            "itemName": "Ultimate Health Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Gold Ingot",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Roots",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Terra Legs",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Violet Gem",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Crawler's Essence",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Green Gem",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Blue Gem",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Hammer of Wrath",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Nightmare Blade",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Crystal Crossbow",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Ruthless Axe",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Twiceslicer",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Crystalline Sword",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Bag You Desire",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "None.",
+    "exp": "17860",
+    "mitigation": "2.75",
+    "attacktype": "Melee",
+    "history": "Its experience was decreased from 31,200 to 23,400 with [[Updates/12.50.10135|Update 12.50.10135]]. Its loot had the drop chance reduced by 10% on the same update.\n\nIts experience was reduced from 23,400 to 21,700 with the balancing changes on {{OfficialNewsArchive|6086|April 15, 2021}}. Its experience was further reduced to 19,000 with the [[Updates/12.66.10866|changes]] on {{OfficialNewsArchive|6159|June 01, 2021}}.\n\nOn {{OfficialNewsArchive|6555|February 01, 2022}}, its experience was decreased to 17,860 while its loot was decreased by 6%.",
+    "article": "a",
+    "actualname": "branchy crawler",
+    "illusionable": "no",
+    "armor": "100",
+    "convince": "--",
+    "name": "Branchy Crawler",
+    "isboss": "no",
+    "iceDmgMod": "100%",
+    "energyDmgMod": "105%",
+    "deathDmgMod": "115%",
+    "plural": "branchy crawlers",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "Branchy crawlers are what Zarganash creates out of lost nature spirits that by ill luck somehow ended up in this realm. The environment of Zarganash, with is the complete antithesis to life, health and growth, immediately begins to twist and corrupt those spirits in body and mind. With alarming speed it moulds them into something far more sinister and dangerous. In a mockery of their former existence, they foster the growth of bleakness and of all things that carry the deathly taint of Zarganash. In a vague memory of their former existence they find purpose in a twisted form of the things that were once dear to them. Where they once fostered growth, they now shepherd the lost souls towards their inevitable doom and damnation. They do so without glee, though. For them they are just following a new found natural order that all things have to bow to. Where other creatures of Zarganash seem to enjoy the suffering and abandonment of hope, the branchy crawlers seemingly just gave in to their new existence with an overwhelming resignation that virtually begins to seep out of them. Though they might even be able to feel some form of pity towards their victims, they still show no remorse or restraint. If anything, they seem to experience overwhelming self-loathing. They carry with them blight and despair, eternally locking them out of everything that could have had any deeper meaning to them. They are barred of anything they once held dear. In yet another mockery of their former existence the branchy crawlers have odd regenerative abilities. Whenever they are destroyed their essence will reform into a new branchy crawler after a while. This form of immortality is yet only a curse to them, binding them eternally to the twisted form and existence that they hate.",
+    "speed": "235",
+    "pushobjects": "yes",
+    "fireDmgMod": "109%",
+    "sounds": [
+        "Bones are just sticks. They break easily.",
+        "Decay!",
+        "I'll make you crawl, too!"
+    ],
+    "runsat": "10",
+    "bestiaryclass": "Plant",
+    "creatureclass": "Elementals",
+    "earthDmgMod": "50%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Bio-Elementals",
+    "spawntype": [
+        "Regular",
+        "Unblockable"
+    ],
+    "race_id": "1931",
+    "bestiarylevel": "Challenging",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "ghostlycrawler",
+    "behaviour": "Attacks from close range.",
+    "location": "[[Rotten Wasteland]].",
+    "strategy": "Branchy Crawlers should be the teams first focus of attention when hunting in the [[Rotten Wasteland]], since they can't be dealt with by shooters using [[Fire Bomb Rune]]s as [[Rotten Golem]]s can. The blocker should avoid leaving them behind when pulling and make sure to [[Challenge]] them away from the shooters."
+}

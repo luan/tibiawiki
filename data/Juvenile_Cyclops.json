@@ -1,0 +1,93 @@
+{
+    "summon": "490",
+    "templateType": "Creature",
+    "plural": "juvenile cyclopes",
+    "hpDrainDmgMod": "100%?",
+    "notes": "A young [[Cyclops]], but still a worthy foe. The strongest creature you can meet on [[Dawnport]].",
+    "walksthrough": "--",
+    "hp": "260",
+    "speed": "80",
+    "abilities": "{{Ability List\n |{{Melee|0-70}}\n |{{Ability|Boulder throw|0-45|element=physical\n  |scene={{Scene|spell=5sqmstrike|background=canvas|caster=Juvenile Cyclops|look_direction=south|missile=Stone Missile|missile_direction=south-east|missile_distance=5/5}}}}\n |{{Haste}}\n}}",
+    "pushobjects": "yes",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "90%",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "{{Max Damage|physical=115}}",
+    "pushable": "No",
+    "usedelements": "Physical",
+    "runsat": "0",
+    "implemented": "10.55",
+    "loot": [
+        {
+            "amount": "1-25",
+            "itemName": "Gold Coin"
+        },
+        {
+            "amount": "0-3",
+            "itemName": "Meat",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Sword",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Mace",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Chain Helmet",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Chain Armor",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Hatchet",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Studded Legs",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Plate Shield",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Health Potion",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Energy, Fire, Poison",
+    "exp": "130",
+    "creatureclass": "Humanoids",
+    "earthDmgMod": "100%?",
+    "physicalDmgMod": "100%?",
+    "primarytype": "Giants",
+    "spawntype": [
+        "Regular",
+        "Unblockable"
+    ],
+    "race_id": "1077",
+    "senseinvis": "?",
+    "article": "a",
+    "actualname": "juvenile cyclops",
+    "illusionable": "yes",
+    "armor": "11",
+    "drownDmgMod": "100%?",
+    "convince": "?",
+    "name": "Juvenile Cyclops",
+    "isboss": "no",
+    "behaviour": "They will not [[Retargeting|retarget]] to other players unless the player hides behind of across another player. They kill or move creatures and items that are in their way, therefore items are not effective in blocking their path.",
+    "location": "[[Dawnport]]'s northwest part, floor -3. One in the [[Crystal Dungeons]], floor -2.",
+    "iceDmgMod": "100%?",
+    "strategy": "They hit hard and are hard to hit. A [[Knight]] should block and can shoot a poison field rune under them, while other vocations shoot it. Solo knights will have a very tough time with their high defense. It's discouraged to try to kill them alone.\n[[Mage]]s, Should attack them with [[Earth Damage]], [[wand]] or [[rod]], [[Light Stone Shower Rune]] will also help.",
+    "energyDmgMod": "90%",
+    "deathDmgMod": "100%?"
+}

@@ -1,0 +1,97 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "The '''Merlkin''' are the magic users of the [[apes]]. They can best be described by being some kind of primitive witch doctor. Considering the fact that those apes raid the human settlements to steal their tools, it is very likely that they have also stolen their knowledge about [[magic]]. Their ability to wield magic hints at a greater intelligence than that of their cousins (the [[Sibang]] and the [[Kongra]]) with whom they seem to live in an uneasy peace. Still, the Merlkins work together with the other ape races and their strange magic combined with the skills of the others form very effective attack forces. After the christmas update 2008, the merlkin could be seldom much stronger, so take care!\n{{JSpoiler|You may hunt 300 [[Kongra]], [[Sibang]], Merlkin combined, as a task of the [[Killing in the Name of... Quest]].}}",
+    "walksthrough": "None",
+    "hp": "235",
+    "abilities": "{{Ability List\n |{{Melee|0-30}}\n |{{Ability|Energy Strike|15-45|energy\n  |scene={{Scene|spell=7sqmstrike|effect=Blue Electricity Effect|caster=merlkin|missile=Energy Missile|missile_direction=south-east|missile_distance=7/7}}}}\n |{{Ability|Fire Strike|30-90|fire\n  |scene={{Scene|spell=7sqmstrike|effect=Fireball Effect|caster=merlkin|missile=Fire Missile|missile_direction=south-east|missile_distance=7/7}}}}\n |{{Ability|Creates Poison Fields|element=poison field\n  |scene={{Scene|spell=7sqmstrike|effect=Poison_Gas|caster=merlkin|missile=Energy Missile|missile_direction=south-east|missile_distance=7/7}}}}\n |{{Healing|range=10-40|scene={{Scene|spell=buffspell|effect=Blue Sparkles Effect|caster=merlkin|effect_on_caster=yes}}}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "holyDmgMod": "90%",
+    "maxdmg": "170",
+    "pushable": "no",
+    "implemented": "7.5",
+    "loot": [
+        {
+            "amount": "0-45",
+            "itemName": "Gold Coin"
+        },
+        {
+            "amount": "0-12",
+            "itemName": "Banana"
+        },
+        {
+            "itemName": "Magic Light Wand",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Ape Fur",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Banana Sash",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Mana Potion",
+            "rarity": "rare"
+        },
+        {
+            "amount": "0-5",
+            "itemName": "Orange",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Wand of Decay",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Banana Staff",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Small Amethyst",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Fire, Energy, Poison",
+    "exp": "145",
+    "mitigation": "1.04",
+    "attacktype": "Distance",
+    "article": "a",
+    "actualname": "merlkin",
+    "illusionable": "yes",
+    "armor": "16",
+    "convince": "--",
+    "name": "Merlkin",
+    "isboss": "no",
+    "iceDmgMod": "115%",
+    "energyDmgMod": "90%",
+    "deathDmgMod": "105%",
+    "plural": "merlkins",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "Even a few of the ape people are able to command some kind of strange magic. It is hard to say which role the Merlkins play in the ape society, but they are probably described best as some kind of primitive witch doctors. It is another mystery how those primitives were able to develop any kind of magic at all, but considering the fact that those apes raid the human settlements to steal their tools, it is very likely that they have also stolen their knowledge about magic. Their ability to wield magic hints at a greater intelligence than that of their cousins with whom they seem to live in an uneasy peace. Animosities between the different breeds have been reported, so it is unlikely that the Merlkin are a kind of elite among the apes. Still they work together with the other ape races and their strange magic combined with the skills of the others form very effective attack forces.",
+    "speed": "97",
+    "pushobjects": "?",
+    "fireDmgMod": "80%",
+    "sounds": [
+        "Ugh! Ugh! Ugh!",
+        "Holy banana!",
+        "Chakka! Chakka!"
+    ],
+    "bestiaryclass": "Mammal",
+    "creatureclass": "Mammals",
+    "earthDmgMod": "100%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Apes",
+    "race_id": "117",
+    "bestiarylevel": "Easy",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "merlkin",
+    "behaviour": "Merlkin can be very tricky because they can spam you with attacks and walk away. They will try to keep a short distance from you, but they are easy to catch since they do not run very fast. They can move items that are in their way and [[Retarget]]. They have the ability to bring down even a high level player.",
+    "location": "[[Banuta]], north-east of [[Port Hope]].",
+    "strategy": "Always kill the Merlkins in a group of [[apes]] first, since they can do the most damage, and can spam you with distance attacks.<br>'''[[Knight]]s''' should drive it in a corner and kill it with a two-handed weapon.<br>'''Other vocations''' should use [[Bolt]]s, [[Icicle (Rune)|Icicle]] runes, or [[Avalanche (rune)|Avalanches]] to kill them fast."
+}

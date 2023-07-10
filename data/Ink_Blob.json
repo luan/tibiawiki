@@ -1,0 +1,141 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "<gallery captionalign=\"center\" mode=\"nolines\">\nInk Blob Artwork.jpg|Official [[Creature Artwork]]\n</gallery>",
+    "walksthrough": "Fire, Poison",
+    "hp": "9500",
+    "abilities": "{{Ability List|{{Melee|0-550}}\n |{{Ability|Poison Burst Arrows|600-900|earth\n  |scene={{Scene|spell=1sqmballtarget|caster=Ink Blob|background=slate_floor|effect=Poison Effect 2|missile=Poison Arrow Missile|missile_direction=south-east|missile_distance=2/2|edge_size=32}}}}\n |{{Ability|Big Sparkles Bomb|600-850|earth|scene={{Scene|spell=3sqmball2self|caster=Ink Blob|background=slate_floor|effect=Blue Sparkles Effect|edge_size=32|effect_on_caster=yes}}}}\n |{{Ability|Small Sparkles Bomb|700-950|earth|scene={{Scene|spell=2sqmballself|caster=Ink Blob|background=slate_floor|effect=Blue Sparkles Effect|edge_size=32|effect_on_caster=yes}}}}\n |{{Ability|Ripple Wave|1200-1650|earth|scene={{Scene|spell=3sqmwave|caster=Ink Blob|background=slate_floor|effect=Ripple Effect|edge_size=32}}}}\n |{{Ability|[[Poison]]s you|starts at 30-45|poisoned}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "holyDmgMod": "100%",
+    "maxdmg": "{{Max Damage|phyisical=550|earth=2750}}",
+    "pushable": "no",
+    "implemented": "11.80.7048",
+    "loot": [
+        {
+            "amount": "1-7",
+            "itemName": "Small Diamond",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-25",
+            "itemName": "Platinum Coin",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "Small Topaz",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-9",
+            "itemName": "Poisonous Slime",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-40",
+            "itemName": "Envenomed Arrow",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-4",
+            "itemName": "Inkwell (Black)",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "Giant Shimmering Pearl (Brown)",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Terra Boots",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Terra Hood",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Blue Gem",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Terra Legs",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Stone Skin Amulet",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Protection Amulet",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Sacred Tree Amulet",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Springsprout Rod",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Terra Mantle",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Clay Lump",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Terra Amulet",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Swamplair Armor",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Energy",
+    "exp": "14450",
+    "mitigation": "2.02",
+    "attacktype": "Melee",
+    "history": "It's experience was decreased from 17,000 to 14,450 on [[Updates/12.31]].",
+    "article": "an",
+    "actualname": "ink blob",
+    "illusionable": "no",
+    "armor": "70",
+    "convince": "--",
+    "name": "Ink Blob",
+    "isboss": "no",
+    "iceDmgMod": "100%",
+    "energyDmgMod": "108%",
+    "deathDmgMod": "100%",
+    "plural": "ink blobs",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "It is said said great authors put a part of their hearts, sweat, blood and souls into their masterpieces. This is often more than true for works on arcane knowledge. Some works become like entities on their own and begin to feed on the energy of their creator. Sometimes they consume even more energy than a mere arcane book can contain. Such overloaded books begin to 'bleed' out some of the lifeblood and essence they contain in the form of magic ink. While a single book can merely produce some inconsequential droplets of soul-ink, a large number of books that provide such ink might pool into a greater blob. This combined essence quickly gains a form of sentience of their own and feeds on lesser pools to grow in size and power. Since they become very protective towards the books that spawned them and they still feel some kind of mystical connection to, they are usually rather seen as useful than just a mere nuisance, though they are always quite hostile towards strangers. Since in theory they can absorb unlimited amounts of essence pools and grow to abominably sizes, they are commonly culled by the keepers of the libraries that spawn them and split into lesser, better manageable blobs of smaller size. The refreshment of fading inks in old books, destruction of vermin as well as mold and keeping the pages at the ideal state of dryness counts to their more usual functions. They tend scare away some nosy intruders and keep visitors out of areas they are unwanted in. While relatively 'newborn' ink blobs are timid and react to strangers with scary faces and bubbly noises older, more experienced blobs, become considerably more aware of their own capabilities and grow more and more aggressive and malignant.",
+    "speed": "190",
+    "pushobjects": "yes",
+    "fireDmgMod": "100%",
+    "sounds": [
+        ""
+    ],
+    "runsat": "0",
+    "bestiaryclass": "Slime",
+    "creatureclass": "Elementals",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Blobs",
+    "spawntype": [
+        "Regular"
+    ],
+    "race_id": "1658",
+    "bestiarylevel": "Hard",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "inkblob",
+    "location": "[[Secret Library]] earth, fire and ice sections.",
+    "strategy": "Despite having considerably less HP than the creatures it's found with, Ink Blobs deal the most damage, so they should be the main focus during pulls to eliminate the threat. Since they don't walk over Energy, [[Energy Bomb Rune]]s can be helpful for shooters in some situations, but it won't protect you from most of the other creatures around."
+}

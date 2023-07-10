@@ -1,0 +1,78 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "Fairly low hp, gives good experience but not good loot. After [[Updates/8.2|Update 8.2]], they drop a rare spellbook.",
+    "isarenaboss": "no",
+    "walksthrough": "Fire, Poison",
+    "hp": "800",
+    "abilities": "{{Ability List\n |{{Melee|0-160}}\n |{{Ability|Ice Ball|60-110|element=ice\n  |scene={{Scene|spell=2sqmballtarget|caster=Frost Dragon Hatchling|look_direction=south|effect=Icicle Effect|missile=Ice Shard Missile|missile_direction=south-east|missile_distance=2/2|damage_effect=Ice Explosion Effect}}}}\n |{{Ability|Ice Wave|60-110|element=ice\n  |scene={{Scene|spell=7sqmwave|caster=Frost Dragon Hatchling|effect=Ice Explosion Effect|look_direction=east|damage_effect=None}}}}\n |{{Healing|range=40-50~\n  |scene={{Scene|spell=buffspell|effect=Blue Sparkles Effect|caster=Frost Dragon Hatchling|look_direction=south|effect_on_caster=yes}}}}\n |{{Ability|[[Paralyze|Distance Paralyze]]|element=paralyze}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "holyDmgMod": "100%",
+    "maxdmg": "380",
+    "pushable": "?",
+    "implemented": "8.10",
+    "loot": [
+        {
+            "amount": "0-55",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Dragon Ham",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Frosty Heart",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Health Potion",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Spellbook of Enlightenment",
+            "rarity": "rare"
+        }
+    ],
+    "walksaround": "Energy",
+    "exp": "745",
+    "mitigation": "1.04",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "frost dragon hatchling",
+    "illusionable": "yes",
+    "armor": "32",
+    "convince": "--",
+    "name": "Frost Dragon Hatchling",
+    "isboss": "no",
+    "iceDmgMod": "0%",
+    "energyDmgMod": "105%",
+    "deathDmgMod": "100%",
+    "plural": "frost dragon hatchlings",
+    "hpDrainDmgMod": "0%",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "The offspring of the mighty frost dragons does not get pampered much by their parents. Exposed to the harsh climate, the Frost Dragon Hatchlings are taught the hard way the well-known rule of survival of the fittest. Only the most resistant and healthiest survive the first months. The always hungry hatchlings compete for food and shelter. Moreover, elder dragons too pose a constant threat as they do not shrink from devouring their own offspring in times of need. Constantly in need to raise their status in the pecking order of their lairs, the Frost Dragon Hatchlings improve their skills and become probably more lethal opponents than the ordinary adult dragon might be. Only rarely they hunt in the wilderness; it is much more likely to encounter the hatchlings in their lairs, supporting their relatives in their fight against intruders who are foolish enough to set a foot in the frost dragons' territory. The hatchlings tend to attack rather swiftly and deadly as they have to see to it that they get their food and loot before somebody else of their kin steals the prey.",
+    "speed": "86",
+    "pushobjects": "?",
+    "fireDmgMod": "0%",
+    "sounds": [
+        "Rooawwrr",
+        "Fchu?"
+    ],
+    "runsat": "30",
+    "bestiaryclass": "Dragon",
+    "creatureclass": "Reptiles",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Dragons",
+    "race_id": "402",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "frostdragonhatchling",
+    "behaviour": "They are slow and attack with waves.",
+    "location": "[[Okolnir]], [[Factory Quarter]] ([[Yalahar]]), [[Dragonblaze Peaks]], [[Ice Witch Temple]], [[Frost Dragon Tunnel]], [[Chyllfroest]].",
+    "strategy": "For any vocation, keep diagonal to avoid the waves. Treat them like a normal [[dragon]]. They commonly attack with Avalanche and Ice Wave simultaneously.<br /> \n'''[[Mages]]''' who are [[Level]] 35 and under should use [[Mana Shield]]. [[Summon]]s work do well when facing these; it is best to run them and use [[Energy Damage]].<br />\n'''[[Paladin]]s''' should run these, just like a [[Wyvern]], by shooting and avoiding the wave attacks. The [[Exori con]] spell is of tremendous benefit here, so use it often. Likewise, [[Flash Arrow]]s are well-suited to employ against this reptile. A level 37 Paladin with 67 [[Distance Fighting]] using a normal [[Bow]] can, for example, expect to use 13 of these energy arrows per kill, on average. As hatchlings are so stingy with their loot, and the cost of these specialized arrows so high, this is hardly economical, but it certainly makes for good [[Powerleveling]]. An alternate strategy is to come at them with [[Royal Spears]] and a very good [[Shields|shield]], e.g. 31 defense, and use Exori con continuously. In any event, bring lots of [[Health Potions|Health]] and [[Mana Potion]]s, or expect a trip to the [[Temple]].<br />\n'''[[Knight]]s''' will typically [[Melee]] them and lure with caution, as other Hatchlings and even [[Frost Dragon]]s are found together. Skills of 70/70 and a good one-handed weapon will help."
+}

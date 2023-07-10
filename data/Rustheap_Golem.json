@@ -1,0 +1,130 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "walksthrough": "?",
+    "hp": "2800",
+    "abilities": "{{Ability List\n |{{Melee|0-400}}\n |{{Ability|Black Smoke Wave|0-412?|element=life drain\n  |scene={{Scene|spell=4sqmwave|effect=Black Smoke Effect|caster=Rustheap Golem|look_direction=east}}}}\n |{{Ability|Paralyze Bomb around itself|element=paralyze\n  |scene={{Scene|spell=3sqmball2self|effect=Red Sparkles Effect|caster=Rustheap Golem|casting_effect=Red Sparkles Effect}}}}\n |{{Ability|[[Electrify]] Berserk on target|element=electrified\n  |scene={{Scene|spell=1sqmballtarget|effect=Trembling Effect|caster=Rustheap Golem|missile=Energy Missile|missile_direction=south-east|missile_distance=2/2|edge_size=32}}}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "holyDmgMod": "100%",
+    "maxdmg": "?",
+    "pushable": "no",
+    "implemented": "10.50",
+    "loot": [
+        {
+            "amount": "1-300",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "Platinum Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Necromantic Rust",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Strong Health Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Strong Mana Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Flask of Rust Remover",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Slightly Rusted Armor",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Gearwheel Chain",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Nail",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Slightly Rusted Legs",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Bronze Gear Wheel",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "War Hammer",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Iron Ore",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "White Pearl",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Black Pearl",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Metal Bat",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Spiked Squelcher",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "2100",
+    "mitigation": "1.26",
+    "attacktype": "Melee",
+    "history": "Its experience was decreased from 2300 to 1679 on the first batch of changes of [[Updates/12.31|Update 12.31]]. It was later increased to 2100 on the fifth batch of changes.",
+    "article": "a",
+    "actualname": "rustheap golem",
+    "illusionable": "no",
+    "armor": "46",
+    "convince": "--",
+    "name": "Rustheap Golem",
+    "isboss": "no",
+    "iceDmgMod": "100%",
+    "energyDmgMod": "105%",
+    "deathDmgMod": "90%",
+    "plural": "rustheap golems",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "Another curious side-product of the so called necromantic smog that often plagues the Rathleton area, the rustheap golem is seemingly somewhat of the mutated poltergeist. Whereas a poltergeist usually haunts a specific place as invisible force that moves unliving objects, in this case the poltergeist seems to be fused with several items of scrap and litter into an undead creature that never had lived at all. Obviously this process is extremely painful for the poltergeist as is the whole further existence as rustheap creature. It seems that rotting and decaying objects over the time become charged with more and more necromantic residue energy, that they become spiritually sticky for some forms of spirits. Those imbued parts of junk eventually stick themselves to an unwilling spirit host and attract even more imbued junk over the time until the whole spirit soaked into a pile of necromantic junk. Thereby the poltergeists that are usually bound to a place or an object become mobile on their own but under the price of constant pain and strain as they feel their new junk body decay. Their answer to their misery is usually to lash out at everyone they might encounter. It is said that attacks of rustheap golems are especially painful because the creature transmits some of its own pain through the wounds into its victim, easing it's own suffering in the process. Without any real purpose and bound to an existence of suffering the rustheap creatures roam abandoned places oddly enough attracted buy junk and decay. Some are even known to create their own lairs of junk and trash, probably in resemblance of their old place bound habits. It is impossible to exorcise a spirit our of their new junk bodies and it is yet unknown what happens to the original poltergeist when it's junk body is destroyed. Some assume the aggressiveness of the rusheap creatures simply aims at provoking it's own destruction but the fierceness with which this creatures fight suggest otherwise.",
+    "speed": "125",
+    "pushobjects": "yes",
+    "fireDmgMod": "30%",
+    "sounds": [
+        "*clatter*",
+        "*krrk*",
+        "*frzzp*"
+    ],
+    "runsat": "0",
+    "bestiaryclass": "Construct",
+    "creatureclass": "Misc",
+    "earthDmgMod": "100%",
+    "physicalDmgMod": "105%",
+    "primarytype": "Machines",
+    "spawntype": [
+        "Regular",
+        "Unblockable"
+    ],
+    "race_id": "1041",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "rustheapgolem",
+    "location": "[[Workshop Quarter]], [[Glooth Factory]], [[Underground Glooth Factory]], [[Oramond Dungeon]] (depending on Magistrate votes), [[Jaccus Maxxen's Dungeon]].",
+    "strategy": "It might be a good idea to bring a [[Garlic Necklace]] or [[Necklace of the Deep]] to counter their strong [[Life Drain]] attacks. \n'''[[Knight]]s''' and '''[[Paladin]]s''' are best suited to deal with these, as they are weak to [[Physical Damage]]. Diagonal is advisable to avoid their waves."
+}

@@ -1,0 +1,166 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "walksthrough": "?",
+    "hp": "1600",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "speed": "125",
+    "abilities": "{{Ability List| {{Melee|0-200+}}|{{Ability|Death Strike|200-400|element=death}}|{{Ability|Death tar beam|150-350|element=death}}|{{Ability|Mana Drain Tar ball|150-250 on itself|element=manadrain}}|{{Healing|range=100-200+}}|{{Ability|Drunkenness bomb|red musical notes|element=drunk}} }}",
+    "pushobjects": "?",
+    "healMod": "100%",
+    "paraimmune": "?",
+    "secondarytype": "The Lost",
+    "fireDmgMod": "75%",
+    "holyDmgMod": "110%",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "700+",
+    "pushable": "?",
+    "implemented": "11.50.6055",
+    "bestiaryclass": "Humanoid",
+    "loot": [
+        {
+            "amount": "1-100",
+            "itemName": "Gold Coin"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Platinum Coin"
+        },
+        {
+            "itemName": "Wimp Tooth Chain",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Coal",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "Strong Health Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Brown Mushroom",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Holy Ash",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Red Hair Dye",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Basalt Fetish",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Small Topaz",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Bonecarving Knife",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Basalt Figurine",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Lost Husher's Staff",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Great Mana Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Bone Fetish",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Skull Shatterer",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Dwarven Ring",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Guardian Shield",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Buckle",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Clay Lump",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Knight Axe",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Terra Boots",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Suspicious Device",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Tower Shield",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Terra Legs",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Fire Axe",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Skull Staff",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Spiked Squelcher",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "1800",
+    "creatureclass": "Humanoids",
+    "earthDmgMod": "0%",
+    "mitigation": "1.35",
+    "physicalDmgMod": "95%",
+    "primarytype": "Dwarves",
+    "race_id": "1529",
+    "attacktype": "Distance",
+    "bestiarylevel": "Medium",
+    "senseinvis": "?",
+    "article": "a",
+    "actualname": "lost exile",
+    "illusionable": "no",
+    "armor": "55",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Lost Exile",
+    "isboss": "no",
+    "behaviour": "Similar to [[Lost Husher]], just stronger.",
+    "location": "South east of the [[Gnome Deep Hub]]'s entrance.",
+    "iceDmgMod": "85%",
+    "strategy": "To receive loot and experience from these creatures and at same time do task, it's recommended to lure them to the entrance and kill them there (at least those nearby spawns) or destroy a [[Makeshift Home]] and kill them far from other [[Makeshift Home]]s.",
+    "energyDmgMod": "90%",
+    "deathDmgMod": "80%"
+}

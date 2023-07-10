@@ -1,0 +1,149 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "Zamuloshs",
+    "hpDrainDmgMod": "100%?",
+    "notes": "He's the minion of [[Bazir]].<br />\n{{JSpoiler|Part of the [[Ferumbras' Ascension Quest]].}}",
+    "walksthrough": "?",
+    "hp": "?",
+    "speed": "?",
+    "abilities": "{{Ability List\n |{{Melee}}\n |{{Ability|Sparkles Bomb|?|element=?\n  |scene={{Scene|spell=6sqmballself|caster=Zamulosh|effect=Red Sparkles Effect|effect_on_caster=yes}}}}\n |{{Ability|Death Wave|?|element=?\n  |scene={{Scene|spell=9sqmwave|caster=Zamulosh|look_direction=east|effect=Death Effect}}}}\n |{{Ability|Red Sparkles Wave|?|element=?\n  |scene={{Scene|spell=9sqmwave|caster=Zamulosh|look_direction=east|effect=Red Sparkles Effect}}}}\n |{{Ability|Blue Sparkles Invisible Bomb|Turns everyone invisible 3secs~|element=invisible\n  |scene={{Scene|spell=6sqmballself|caster=Zamulosh|effect=Blue Sparkles Effect|effect_on_caster=yes}}}}\n |{{Ability|Teleport Beam|248-380~|element=mana drain\n  |scene={{Scene|spell=10sqmbeam|caster=Zamulosh|look_direction=east|effect=Teleport Effect|damage_effect=Red Sparkles Effect}}}}\n |{{Ability|Life Drain|0-1000?|element=lifedrain}}\n |{{Ability|Cursed|up to 350+|element=cursed}}\n |{{Ability|Poisoned|up to 22hp/turn|element=poisoned}}\n |{{Ability|Frequent [[Invisibility]]|3secs~|element=invisible\n  |scene={{Scene|spell=buffspell|effect=Red Sparkles Effect|caster=Zamulosh|look_direction=south|effect_on_caster=yes}}}}\n |{{Ability|[[Summon Creature|Summons]] 5 replicas of himself|element=summon}}\n |and more\n}}",
+    "pushobjects": "yes",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "50%",
+    "holyDmgMod": "101%>?",
+    "sounds": [
+        "I AM ZAMULOSH!"
+    ],
+    "maxdmg": "1000?",
+    "pushable": "no",
+    "runsat": "0",
+    "cooldown": "44",
+    "implemented": "10.90",
+    "loot": [
+        {
+            "amount": "1-101",
+            "itemName": "Gold Coin"
+        },
+        {
+            "amount": "6",
+            "itemName": "Blue Crystal Splinter"
+        },
+        {
+            "amount": "6",
+            "itemName": "Brown Crystal Splinter"
+        },
+        {
+            "amount": "5",
+            "itemName": "Great Mana Potion"
+        },
+        {
+            "amount": "6",
+            "itemName": "Green Crystal Splinter"
+        },
+        {
+            "amount": "5",
+            "itemName": "Small Amethyst"
+        },
+        {
+            "amount": "5",
+            "itemName": "Small Ruby"
+        },
+        {
+            "amount": "5",
+            "itemName": "Ultimate Health Potion"
+        },
+        {
+            "amount": "5",
+            "itemName": "Great Spirit Potion"
+        },
+        {
+            "itemName": "Crystalline Armor"
+        },
+        {
+            "amount": "20-25",
+            "itemName": "Platinum Coin"
+        },
+        {
+            "itemName": "Demonic Essence"
+        },
+        {
+            "itemName": "Red Gem"
+        },
+        {
+            "itemName": "Green Gem"
+        },
+        {
+            "itemName": "Yellow Gem"
+        },
+        {
+            "itemName": "Time Ring"
+        },
+        {
+            "itemName": "Stealth Ring"
+        },
+        {
+            "itemName": "Rift Shield"
+        },
+        {
+            "itemName": "Silver Token",
+            "rarity": "always"
+        },
+        {
+            "itemName": "Book of Lies"
+        },
+        {
+            "itemName": "Maimer"
+        },
+        {
+            "itemName": "Flask of Demonic Blood"
+        },
+        {
+            "itemName": "Small Sapphire"
+        },
+        {
+            "itemName": "Small Topaz"
+        },
+        {
+            "itemName": "Giant Shimmering Pearl"
+        },
+        {
+            "itemName": "Blue Gem"
+        },
+        {
+            "itemName": "Small Emerald"
+        },
+        {
+            "itemName": "Ring of Healing"
+        },
+        {
+            "itemName": "Spellbook of Mind Control"
+        },
+        {
+            "itemName": "Rift Crossbow"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "50000",
+    "creatureclass": "Demons",
+    "earthDmgMod": "101%>?",
+    "physicalDmgMod": "100%?",
+    "bosstiaryclass": "Archfoe",
+    "primarytype": "The Ruthless Seven Minions",
+    "race_id": "1181",
+    "senseinvis": "yes",
+    "actualname": "Zamulosh",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Zamulosh",
+    "isboss": "yes",
+    "behaviour": "Zamulosh will become [[Invisible]] very often. It is occasionally teleported to the center of the room.",
+    "location": "[[Ferumbras' Ascension Quest]] area.",
+    "iceDmgMod": "100%?",
+    "strategy": "Since this boss will be found with multiple clones (5 weak and 1 equally strong), that best way to deal with it is to always attack using area damage (such as [[Avalanche Rune]]s and [[Diamond Arrow]]s) to hit them all. If the false Zamuloshs aren't attacked, the team will be teleported to the center of the room, forcing you to lose turns and reposition, so even if you figure out which one is the real Zamulosh, focusing on it is not recommended. \n\nIt may be difficult to keep up with the real boss' HP during the fight, but if the team is using area attacks the real Zamulosh will eventually die (and the clones also disappear when this happens).",
+    "energyDmgMod": "100%?",
+    "deathDmgMod": "100%?"
+}

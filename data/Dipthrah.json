@@ -1,0 +1,93 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "0%?",
+    "notes": "Dipthrah was sentenced to be locked away, after his part in the conspiracies against the pharaoh, [[Arkhotep]]. He is the [[Pharaohs|pharaoh]] of divinity, and the only pharaoh immune to [[Physical Damage|physical damage]].\n\n{{JSpoiler|One of the Pharaohs of [[The Ancient Tombs Quest]].}}",
+    "walksthrough": "None",
+    "hp": "4200",
+    "usespells": "yes",
+    "speed": "240",
+    "abilities": "{{Ability List\n |{{Melee|0-260|poison=4}}\n |{{Ability|Life Drain Strike|400-800|life drain\n  |scene={{Scene|spell=1sqmstrike|caster=Dipthrah|effect=None|damage_effect=None}}}}\n |{{Ability|Mana Drain Strike|200-500|mana drain\n  |scene={{Scene|spell=7sqmstrike|effect=Red Sparkles Effect|caster=Dipthrah|missile_direction=south-east|missile_distance=7/7}}}}\n |{{Ability|Paralyze|190-230 points for 50 seconds|paralyze\n  |scene={{Scene|spell=7sqmstrike|effect=Red Sparkles Effect|caster=Dipthrah|missile_direction=south-east|missile_distance=7/7}}}}\n |{{Ability|Mass Drunkenness|60 seconds|drunk\n  |scene={{Scene|spell=2sqmballself|effect=Ripple Effect|caster=Dipthrah|effect_on_caster=yes}}}}\n |{{Debuff2|Debuff|yes|yes|value=40-60%|duration=40\n  |scene={{Scene|spell=3sqmball2self|effect=Ripple Effect|caster=Dipthrah|effect_on_caster=yes}}}}\n |{{Summon|priestess|4}}\n |{{Healing|range=100-200\n  |scene={{Scene|spell=buffspell|effect=Blue Sparkles Effect|caster=Dipthrah|effect_on_caster=yes}}}}\n}}",
+    "pushobjects": "yes",
+    "healMod": "100%?",
+    "paraimmune": "yes",
+    "fireDmgMod": "95%",
+    "holyDmgMod": "110%",
+    "sounds": [
+        "You can't escape death forever",
+        "Come closer to learn the final lesson",
+        "Undeath will shatter my shackles.",
+        "You don't need this magic anymore."
+    ],
+    "maxdmg": "{{Max Damage|physical=200|lifedrain=800|manadrain=500|summons=820}}",
+    "pushable": "no",
+    "runsat": "0",
+    "implemented": "7.3",
+    "loot": [
+        {
+            "amount": "0-208",
+            "itemName": "Gold Coin"
+        },
+        {
+            "amount": "0-3",
+            "itemName": "Small Sapphire"
+        },
+        {
+            "itemName": "Great Mana Potion"
+        },
+        {
+            "itemName": "Energy Ring"
+        },
+        {
+            "itemName": "Mind Stone",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Blue Gem",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Mini Mummy",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Ankh",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Skull Staff",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Pharaoh Sword",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Ornamented Ankh",
+            "rarity": "always"
+        }
+    ],
+    "walksaround": "Fire, Energy, Poison",
+    "exp": "2900",
+    "creatureclass": "The Undead",
+    "earthDmgMod": "80%",
+    "physicalDmgMod": "0%",
+    "bosstiaryclass": "Bane",
+    "primarytype": "Pharaohs",
+    "attacktype": "Melee",
+    "race_id": "87",
+    "senseinvis": "yes",
+    "actualname": "Dipthrah",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Dipthrah",
+    "isboss": "no",
+    "behaviour": "Malicious, will make all efforts to destroy intruders. He will walk diagonally through summons to reach his target.",
+    "location": "[[Mountain Tomb]].",
+    "iceDmgMod": "100%",
+    "strategy": "In his room there are 9 [[Magicthrower]]s and 5 [[Bonelord]]s. He has a standard non-blockable spawn, spawning on the west side of the room (right by the [[Coal Basin]]). Due to his [[Physical Damage|physical]] immunity, mages are highly recommended. Paladins should use elemental arrows and knights enchanted weapons. His mana drain makes up a lot of his damage, so knights can quite easily block it. [[Bronze Amulet]]s may be a good choice for mages and [[Garlic Necklace]]s for knights.\n\n'''Knights''': enter the room first to distract the pillars. Be sure to [[challenge]] the pharaoh to protect the shooters. Dipthrah will drain your mana a lot and most of your attack spells will be blocked, so it may be a good idea to just block the pharaoh. It may help your shooters to shoot [[Fire Bomb]]s for their safety.<br />\n'''Paladins''': if there is a knight, stand behind him and shoot with elemental arrows. If there is no knight, you can substitute a blocker with some difficulties (you will need a healer - your mana will be depleted fast).<br />\n'''Mages''': shoot from a distance with [[Flame Strike]] or [[Ice Strike]]. A mage (preferably druid for [[Mass Healing]]) can quite easily camp this pharaoh alone after the first clear by having a [[Demon Skeleton]] summon block for them. In this strategy, the knight will enter first and attract the pillars. After the first clear, the knight leaves the room and the DS are attacked (if they are closest to the pillars). The pharaoh cannot easily kill a DS because most of its damage is from [[Life Drain]]. Bomb runes will prevent the pharaoh from reaching the mage and [[Fireball]] or [[Icicle]] runes can be used to attack the pharaoh without moving the summons (if the summons move, the pharaoh is more likely to attack the mage). Setting up in the north-west corner of the room will also permit 2-3 [[Bonelord]]s spawning.",
+    "energyDmgMod": "80%",
+    "deathDmgMod": "0%"
+}

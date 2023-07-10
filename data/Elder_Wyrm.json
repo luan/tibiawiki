@@ -1,0 +1,144 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "isarenaboss": "no",
+    "walksthrough": "Energy, Fire, Poison",
+    "hp": "2700",
+    "abilities": "{{Ability List| {{Melee|0-350}}|{{Healing|range=100-150}}|{{Ability|long [[Energy Wave]]|100-120|element=energy}}|{{Ability|[[Energy Damage|Energy Bomb on Self]]|140-200|element=energy}}|{{Ability|[[Heavy Magic Missile]]|90-130|element=?}}|{{Ability|[[Death Damage|Death Bubble Wave]] does Life Drain|250-300|element=lifedrain}}|{{Ability|Strike Beam|0-150|element=?}} }}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "holyDmgMod": "100%",
+    "maxdmg": "700",
+    "pushable": "No",
+    "implemented": "10.10",
+    "loot": [
+        {
+            "amount": "1-180",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "Platinum Coin",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Dragon Ham",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Strong Health Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Strong Mana Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Crossbow",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Wyrm Scale",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-5",
+            "itemName": "Small Diamond",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Soul Orb",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Wand of Draconia",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Lightning Pendant",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Lightning Legs",
+            "rarity": "rare"
+        },
+        {
+            "amount": "1-10",
+            "itemName": "Power Bolt",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Wand of Starstorm",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Lightning Boots",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Lightning Robe",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Dragonbone Staff",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Shadow Sceptre",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Composite Hornbow",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Shockwave Amulet",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "None.",
+    "exp": "2500",
+    "mitigation": "1.35",
+    "attacktype": "Melee",
+    "article": "an",
+    "actualname": "elder wyrm",
+    "illusionable": "yes",
+    "armor": "48",
+    "convince": "--",
+    "name": "Elder Wyrm",
+    "isboss": "no",
+    "iceDmgMod": "100%",
+    "energyDmgMod": "0%",
+    "deathDmgMod": "100%",
+    "plural": "elder wyrms",
+    "hpDrainDmgMod": "100%",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "Cunning, vicious, deadly. Those are the words associated with the Elder Wyrms by those few who have seen them and lived to tell the tale. Having clawed away all potential rivals, an Elder Wyrm has grown a darker, thick scale, and has retired to an ideal lair deep below the earth, where it basks in the heat of lava streams and feeds off interesting gems, most of the time. Some of its offspring is usually around as well, prepared to hunt or scout for its parent should it develop a special appetite. Once the younger Wyrm develops an appetite for its parent's lair, though, a savage battle for the hunting ground ensues, leaving only the winner alive.",
+    "speed": "140",
+    "pushobjects": "?",
+    "fireDmgMod": "70%",
+    "sounds": [
+        "GRROARR",
+        "GRRR"
+    ],
+    "bestiaryclass": "Dragon",
+    "creatureclass": "Reptiles",
+    "earthDmgMod": "25%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Wyrms",
+    "spawntype": [
+        "Regular",
+        "Unblockable"
+    ],
+    "race_id": "963",
+    "bestiarylevel": "Hard",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%",
+    "bestiaryname": "elderwyrm",
+    "behaviour": "They fight in close range and unlike Wyrms, do not run on low health.",
+    "location": "[[Drefia Wyrm Lair]], [[Vandura Wyrm Cave]], [[Oramond Factory Raids]] (west), [[Warzone 4]].",
+    "strategy": "This creature is quite stronger then regular Wyrms, but can be treated the same as their speed resemble a lot, but they do not run on red health. They can be slayed by players from level 60 and over, but it can be hard for players under level 100 because of the number of creatures.\n[[Mages]] of level 150+ can hunt solo on Drefia Elder Wyrms without mana shield, but keep in mind that the high number of creatures will not make you hunt efficiently until about level 200, levels below 150 will need mana shield if facing more then 4 wyrms or 2 elder wyrms. Druids should use Glacial Rod + Avalanches, SDs, Ice Waves or Eternal Winter, and Sorcerers should use Wand of Voodoo + Avalanches and/or SDs. A good strategy is a Druid and Knight duo, but be aware that Wyrms will run in red health, and running for them can lure a lot of creatures to you, so a good hint is to use Eternal Winter or Fierce Berserk when sure that they will fall before they run.\n\n[[Paladins]] of level 150+ can hunt solo on Drefia Elder Wyrms, try always to run on spots that you have already cleared, and also use the support of Avalanches to hit over 4 creatures on the respawn, Paladins can use either bows/crossbows or assassin stars.\n[[Knights]] of level 180+ can hunt solo on Drefia Elder Wyrms, but they will only hunt efficiently after level of about 230+, since that way a Knight can get up to 8 creatures around him, and spam them with berserk and fierce berserk for fast killing. You could also hunt with a Druid, it is a good way to earn great amounts of experience."
+}

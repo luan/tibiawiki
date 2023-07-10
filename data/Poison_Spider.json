@@ -1,0 +1,69 @@
+{
+    "summon": "270",
+    "templateType": "Creature",
+    "notes": "Poison Spiders are a bit stronger than regular [[Spider]]s in that they hit harder and can [[Poisoned|poison]] you with venom a little stronger than that of a [[Snake]]'s. It is not advisable to attack one below [[Level]] 4. [[Giant Spider]]s [[summon]] up to two Poison Spiders to break shielding and enable much stronger hits.",
+    "walksthrough": "Poison",
+    "hp": "26",
+    "abilities": "{{Ability List|{{Melee|0-20|poison=2}}}}",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "holyDmgMod": "100%",
+    "maxdmg": "{{Max Damage|physical=20|earth=2}}",
+    "pushable": "yes",
+    "usedelements": "Physical > Earth",
+    "implemented": "4.0",
+    "loot": [
+        {
+            "amount": "0-4",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Poison Spider Shell",
+            "rarity": "rare"
+        }
+    ],
+    "walksaround": "Fire, Energy",
+    "exp": "22",
+    "mitigation": "0.15",
+    "attacktype": "Melee",
+    "history": "As of November 16, 2011, Poison Spiders as well as other poison-causing creatures can no longer be convinced. This was to prevent PvP abuse whereby a player would trick another player into convincing creatures that would later frag low level characters with poison applied earlier. After enough kills the player would obtain a [[Red Skull]] and would lose all items belonging to them upon being killed. More can be read in the news article \"{{OfficialNewsArchive|1894|Content Fixes}}\".\n\nPrior to update 7.40 they used to look like this:<br />\n[[File:Ps.jpg]]",
+    "article": "a",
+    "actualname": "poison spider",
+    "illusionable": "yes",
+    "armor": "2",
+    "convince": "--",
+    "name": "Poison Spider",
+    "isboss": "no",
+    "iceDmgMod": "100%",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "100%",
+    "plural": "poison spiders",
+    "hpDrainDmgMod": "100%",
+    "usespells": "no",
+    "occurrence": "Common",
+    "bestiarytext": "Poison Spiders live in the forests and dungeons of Tibia. They usually hunt small animals, but with their poisonous bite they can even kill animals that are bigger than them. Therefore, and as they always crop up in packs, they are quite dangerous for badly equipped adventurers.",
+    "speed": "80",
+    "pushobjects": "no",
+    "fireDmgMod": "110%",
+    "sounds": [
+        ""
+    ],
+    "runsat": "6",
+    "bestiaryclass": "Vermin",
+    "creatureclass": "Invertebrates",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Arachnids",
+    "spawntype": [
+        "Regular",
+        "Unblockable"
+    ],
+    "race_id": "36",
+    "bestiarylevel": "Trivial",
+    "senseinvis": "no",
+    "drownDmgMod": "100%",
+    "bestiaryname": "poisonspider",
+    "location": "Found in various caves and plains around [[Tibia]] (including [[Rookgaard]]).",
+    "strategy": "Losing one or two [[Hitpoints]] per turn due to poison is not worth using an [[Antidote]] spell or potion. Just eat [[Food]] to counter the [[Poisoned|poison]], even if you are in [[Rookgaard]]."
+}

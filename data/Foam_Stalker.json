@@ -1,0 +1,144 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "foam stalkers",
+    "hpDrainDmgMod": "100%?",
+    "notes": "<gallery captionalign=\"center\" mode=\"nolines\">\nFoam Stalker Artwork.jpg|Official [[Creature Artwork]]\n</gallery>",
+    "walksthrough": "Energy",
+    "hp": "4500",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "Foam stalkers are elemental water creatures. On Marapur they emerge from the spray of waterfalls cascading down from the mountains. Since they cannot survive on land for long, they quickly retreat below sea level after their emergence and thus populate the reef caves beneath and around Marapur. Because of their elemental bodies, it is often difficult to distinguish them from the water around them. As they roam the reefs, they often capture coral branches, flotsam, pearls or small fish with their swirling bodies. These objects can then be seen swirling around in their watery shapes.",
+    "speed": "180",
+    "abilities": "{{Ability List\n |{{Melee|0-346}}\n |{{Ability|Ripple Wave|236-362|element=ice\n  |scene={{Scene|spell=4sqmwave|effect=Ripple Effect|caster=Foam Stalker|look_direction=east}}}}\n |{{Ability|Ripple Beam|349|element=ice\n  |scene={{Scene|spell=5sqmbeam|effect=Ripple Effect|caster=Foam Stalker|look_direction=east|damage_effect=Ice Explosion Effect}}}}\n |{{Ability|Ice Strike|297-455|element=ice\n  |scene={{Scene|spell=1sqmstrike|effect=Ice Explosion Effect|caster=Foam Stalker}}}}\n |{{Ability|Icicle Bomb|250|element=ice\n  |scene={{Scene|spell=2sqmballself|effect=Icicle Effect|caster=Foam Stalker|effect_on_caster=yes}}}}\n |{{Ability|Mana drain|174-257|element=mana drain}}\n |{{Ability|Splash ring|367; 3 rounds increasingly bigger ring up to 5sqm|element=ice?}}\n |{{Healing|range=80-113}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "fireDmgMod": "20%",
+    "holyDmgMod": "100%",
+    "sounds": [
+        "splash",
+        "gurgle",
+        "dribble"
+    ],
+    "maxdmg": "0",
+    "implemented": "12.90.12182",
+    "bestiaryclass": "Elemental",
+    "loot": [
+        {
+            "amount": "1-20",
+            "itemName": "Platinum Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Strong Mana Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Glacier Shoes",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "White Pearl",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Black Pearl",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Remains of a Fish",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Twigs",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Halberd",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Spike Sword",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Staff",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Combat Knife",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Orichalcum Pearl",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Coral Branch",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Flotsam",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Giant Shimmering Pearl (Green)",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Terra Boots",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Small Diamond",
+            "rarity": "semi-rare"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Small Emerald",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Knight Legs",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Soul Orb",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Violet Gem",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Mercenary Sword",
+            "rarity": "rare"
+        }
+    ],
+    "exp": "3120",
+    "creatureclass": "Elementals",
+    "earthDmgMod": "100%",
+    "mitigation": "1.74",
+    "physicalDmgMod": "100%",
+    "primarytype": "Hydro-Elementals",
+    "spawntype": [
+        "Unblockable"
+    ],
+    "attacktype": "Distance",
+    "race_id": "2259",
+    "bestiarylevel": "Hard",
+    "senseinvis": "yes",
+    "article": "a",
+    "actualname": "foam stalker",
+    "illusionable": "no",
+    "armor": "64",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "bestiaryname": "foamstalker",
+    "name": "Foam Stalker",
+    "isboss": "no",
+    "location": "[[Great Pearl Fan Reef]]",
+    "iceDmgMod": "80%",
+    "energyDmgMod": "130%",
+    "deathDmgMod": "100%"
+}

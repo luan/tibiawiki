@@ -1,0 +1,97 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "walksthrough": "Poison, Energy",
+    "hp": "4750",
+    "usespells": "yes",
+    "abilities": "{{Ability List\n |{{Melee|0-479}}\n |{{Ability|Ice Missile|220-274|ice\n  |scene={{Scene|spell=2sqmstrike|caster=The Winter Bloom|look_direction=south|missile=Ice Missile|missile_direction=south-east|missile_distance=2/2|damage_effect=Ice Explosion Effect}}}}\n |{{Ability|Death Bomb|388-447|death\n  |scene={{Scene|spell=4sqmballtarget|caster=The Winter Bloom|look_direction=south|effect=Death Effect|effect_on_target=Death Effect|damage_effect=Cloud Effect|missile=Death Missile (Large)|missile_direction=south-east|missile_distance=4/4}}}}\n |{{Debuff2|Debuff Missile|melee=yes|shielding=yes|value=40-60%|duration=13s\n  |scene={{Scene|spell=5sqmstrike|caster=The Winter Bloom|look_direction=south|missile=Death Missile|missile_direction=south-east|missile_distance=5/5}}}}\n |{{Ability|Death Missile|?|?\n  |scene={{Scene|spell=3sqmstrike|caster=The Winter Bloom|look_direction=south|missile=Death Missile|missile_direction=south-east|missile_distance=3/3|damage_effect=Sparks Effect}}}}\n |{{Ability|Ice Tornado|?|freezing}}\n |{{Ability|Ice Bomb|312-351|ice\n  |scene={{Scene|spell=2sqmballself|caster=The Winter Bloom|look_direction=south|effect=Ice Explosion Effect|effect_on_caster=yes}}}}\n |{{Ability|Paralyzing Ice Bomb|Reduces 330-340 speed points|paralyze\n  |scene={{Scene|spell=2sqmballself|caster=The Winter Bloom|look_direction=south|effect=Ice Explosion Effect|effect_on_caster=yes}}}}\n |{{Ability|Invisible|2 seconds|invisible\n   |scene={{Scene|spell=buffspell|effect=Teleport Effect|caster=The Winter Bloom|look_direction=south|effect_on_caster=yes}}}}\n |{{Ability|Paralyze|element=paralyze}}\n |{{Ability|Ice Ring|?|element=ice}}\n |{{Ability|Sparks Beam|383+(At least 8 sqms, red sparkles)|element=Mana Drain}}\n}}",
+    "pushobjects": "yes",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "110%",
+    "sounds": [],
+    "holyDmgMod": "100%?",
+    "maxdmg": "0",
+    "pushable": "no",
+    "runsat": "0",
+    "cooldown": "20",
+    "implemented": "12.90.12182",
+    "loot": [
+        {
+            "itemName": "Platinum Coin"
+        },
+        {
+            "itemName": "Flask of Demonic Blood"
+        },
+        {
+            "itemName": "Red Gem"
+        },
+        {
+            "itemName": "Northwind Rod"
+        },
+        {
+            "itemName": "Gold Ingot"
+        },
+        {
+            "itemName": "Great Mana Potion"
+        },
+        {
+            "itemName": "Soul Orb"
+        },
+        {
+            "itemName": "Hailstorm Rod"
+        },
+        {
+            "itemName": "Gold Coin"
+        },
+        {
+            "itemName": "Peacock Feather Fan"
+        },
+        {
+            "itemName": "Ultimate Health Potion"
+        },
+        {
+            "itemName": "Demonic Essence"
+        },
+        {
+            "itemName": "Great Spirit Potion"
+        },
+        {
+            "itemName": "Blue Gem"
+        },
+        {
+            "itemName": "Small Diamond"
+        },
+        {
+            "itemName": "Crystal Ring"
+        },
+        {
+            "itemName": "Golden Lotus Brooch"
+        }
+    ],
+    "walksaround": "Fire",
+    "exp": "9250",
+    "creatureclass": "Demons",
+    "earthDmgMod": "50%",
+    "physicalDmgMod": "100%?",
+    "bosstiaryclass": "Archfoe",
+    "primarytype": "Asuri",
+    "spawntype": [
+        "Triggered"
+    ],
+    "attacktype": "Melee",
+    "race_id": "2237",
+    "senseinvis": "yes",
+    "actualname": "The Winter Bloom",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "?",
+    "name": "The Winter Bloom",
+    "isboss": "yes",
+    "location": "[[Asura Palace]]",
+    "iceDmgMod": "0%",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "80%"
+}

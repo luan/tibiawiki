@@ -1,0 +1,43 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "necromantic focuses",
+    "hpDrainDmgMod": "100%?",
+    "notes": "None.",
+    "hp": "?",
+    "abilities": "{{Ability List| {{Melee|?}} }}",
+    "pushobjects": "?",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "fireDmgMod": "100%?",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        ""
+    ],
+    "pushable": "no",
+    "implemented": "12.40.9997",
+    "loot": [],
+    "exp": "?",
+    "creatureclass": "Special Creatures",
+    "earthDmgMod": "100%?",
+    "physicalDmgMod": "100%?",
+    "primarytype": "Traps",
+    "spawntype": [
+        "Unblockable"
+    ],
+    "senseinvis": "yes",
+    "article": "a",
+    "actualname": "necromantic focus",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Necromantic Focus",
+    "isboss": "no",
+    "behaviour": "It doesn't move.",
+    "location": "The room of [[Goshnar's Megalomania]].",
+    "iceDmgMod": "100%?",
+    "strategy": "See [[Soul War Quest]].",
+    "energyDmgMod": "100%?",
+    "deathDmgMod": "100%?"
+}

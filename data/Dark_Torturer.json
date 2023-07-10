@@ -1,0 +1,148 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "It is a relative of the [[Diabolic Imp]]. The Dark Torturer's boss is [[Mr. Punish]] located in [[Tafariel]]'s throne room.",
+    "walksthrough": "Fire, Poison",
+    "hp": "7350",
+    "abilities": "{{Ability List\n |{{Melee|0-513}}\n |{{Ability|Throws [[Throwing Knife|Knives]]|500-700|element=physical\n  |scene={{Scene|spell=3sqmstrike|effect=Blood Effect|caster=Dark Torturer|missile=Throwing Knife Missile|missile_direction=south-east|missile_distance=3/3}}}}\n |{{Debuff2|Great Musical wave|shielding=yes|value=60-95%|duration=4~\n  |scene={{Scene|spell=17sqmwave|effect=Purple Notes Effect|caster=Dark Torturer|look_direction=east}}}}\n |{{Healing|slow [[Self Healing]]|range=200-250}} \n }}",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "holyDmgMod": "110%",
+    "maxdmg": "1300",
+    "pushable": "?",
+    "implemented": "7.9",
+    "loot": [
+        {
+            "amount": "2-200",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Ham",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-8",
+            "itemName": "Platinum Coin",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "Flask of Demonic Blood",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Soul Orb",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Great Mana Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Great Health Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Demonic Essence",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Steel Boots",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Saw",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Gold Ingot",
+            "rarity": "semi-rare"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Orichalcum Pearl",
+            "rarity": "semi-rare"
+        },
+        {
+            "amount": "1-5",
+            "itemName": "Assassin Star",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Death Ring",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Cat's Paw",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Jewelled Backpack",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Butcher's Axe",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Vile Axe",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Golden Legs",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Energy",
+    "exp": "4650",
+    "mitigation": "1.74",
+    "attacktype": "Melee",
+    "history": "Its experience was decreased from 4650 to 2651 with the first batch of changes of [[Updates/12.31|Update 12.31]]. It was reverted back to 4650 on the second batch.",
+    "article": "a",
+    "actualname": "dark torturer",
+    "illusionable": "no",
+    "armor": "45",
+    "convince": "--",
+    "name": "Dark Torturer",
+    "isboss": "no",
+    "iceDmgMod": "110%",
+    "energyDmgMod": "70%",
+    "deathDmgMod": "90%",
+    "plural": "dark torturers",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "Dark Torturers are distant relatives of the diabolic imps. Like all members of the imp family, they enjoy pain and havoc they wreak upon other creatures. Their physical abilities exceed by far those of their cousins, the diabolic imps. Since they lack the magical affinity of the latter, those creatures tend to sell their services to more powerful demons or even some malicious mortals. Given their somewhat lazy and cowardly nature, they prefer to take up the roles of jailers and torturers. There they can indulge their malicious instincts without risking too much in open warfare. Those disgusting qualities have earned this race the fitting name Dark Torturer in the vernacular.",
+    "speed": "185",
+    "pushobjects": "?",
+    "fireDmgMod": "0%",
+    "sounds": [
+        "You like it, don't you?",
+        "IahaEhheAie!",
+        "It's party time!",
+        "Harrr, Harrr!",
+        "The torturer is in!"
+    ],
+    "runsat": "500",
+    "bestiaryclass": "Demon",
+    "creatureclass": "Demons",
+    "earthDmgMod": "10%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Imps",
+    "spawntype": [
+        "Regular",
+        "Unblockable"
+    ],
+    "race_id": "285",
+    "bestiarylevel": "Hard",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "darktorturer",
+    "behaviour": "They will try to get in melee contact with you. They run in low health, but be careful even then, as they can deal out 800~ combos while running away from you.",
+    "location": "[[Pits of Inferno]], [[Vengoth]], [[The Inquisition Quest|Blood Halls]], [[Oramond Dungeon]], [[Oramond Fury Dungeon]], [[Roshamuul Prison]], [[Grounds of Damnation]] and [[Halls of Ascension]].",
+    "strategy": "Run from them and try to shoot them before they catch up with you. They can hit quite hard in close combat."
+}

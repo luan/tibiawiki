@@ -1,0 +1,171 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "{{JSpoiler|It's the final boss of the [[Too Hot to Handle Quest]].}}",
+    "walksthrough": "Fire, Poison, Energy",
+    "hp": "?",
+    "abilities": "{{Ability List\n |{{Melee|0-500}}\n |{{Ability|Death Ball|element=life drain|1000-1500|scene={{Scene|spell=2sqmballtarget|effect=Cloud Effect|caster=The Brainstealer|background=eldritch_floor|missile=Death Missile (Large)|missile_direction=south-east|missile_distance=2/2}}}}\n |{{Ability|Blood Ring|element=death|600-800|scene={{Scene|spell=3sqmring|effect=Blood Effect|caster=The Brainstealer|background=eldritch_floor}}}}\n |{{Ability|Spark Beam|element=life drain|1000-1200|scene={{Scene|spell=5sqmbeam|effect=Electrical Spark Effect|caster=The Brainstealer|look_direction=east|background=eldritch_floor}}}}\n |{{Ability|Blue Teleport Chain|element=|?}}\n |{{Ability|Destroys Magic Walls and [[Wild Growth Rune|Rush Wood]]|element=None}}\n |{{Ability|Poisons You|element=earth|}}\n}}",
+    "pushobjects": "yes",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "100%",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "{{Max Damage|physical=500|lifedrain=2700|death=800|total=3200}}",
+    "pushable": "no",
+    "usedelements": "Life Drain, Physical",
+    "runsat": "0",
+    "implemented": "12.70.10953",
+    "cooldown": "20",
+    "loot": [
+        {
+            "itemName": "Berserk Potion"
+        },
+        {
+            "itemName": "Bullseye Potion"
+        },
+        {
+            "itemName": "Crystal Coin"
+        },
+        {
+            "itemName": "Mastermind Potion"
+        },
+        {
+            "itemName": "Moonstone"
+        },
+        {
+            "itemName": "Ultimate Mana Potion"
+        },
+        {
+            "itemName": "Ultimate Spirit Potion"
+        },
+        {
+            "itemName": "Violet Gem"
+        },
+        {
+            "itemName": "White Gem"
+        },
+        {
+            "itemName": "Supreme Health Potion"
+        },
+        {
+            "itemName": "Platinum Coin"
+        },
+        {
+            "itemName": "Ultimate Health Potion"
+        },
+        {
+            "itemName": "Giant Sapphire"
+        },
+        {
+            "itemName": "Diabolic Skull"
+        },
+        {
+            "itemName": "Great Mana Potion"
+        },
+        {
+            "itemName": "Great Health Potion"
+        },
+        {
+            "itemName": "Brainstealer's Tissue"
+        },
+        {
+            "itemName": "Brainstealer's Brain"
+        },
+        {
+            "itemName": "Brainstealer's Brainwave"
+        },
+        {
+            "itemName": "Eldritch Crystal"
+        },
+        {
+            "itemName": "Eldritch Breeches"
+        },
+        {
+            "itemName": "Eldritch Cowl"
+        },
+        {
+            "itemName": "Eldritch Hood"
+        },
+        {
+            "itemName": "Eldritch Bow"
+        },
+        {
+            "itemName": "Eldritch Quiver"
+        },
+        {
+            "itemName": "Eldritch Claymore"
+        },
+        {
+            "itemName": "Eldritch Greataxe"
+        },
+        {
+            "itemName": "Eldritch Warmace"
+        },
+        {
+            "itemName": "Eldritch Shield"
+        },
+        {
+            "itemName": "Eldritch Cuirass"
+        },
+        {
+            "itemName": "Eldritch Folio"
+        },
+        {
+            "itemName": "Eldritch Tome"
+        },
+        {
+            "itemName": "Eldritch Rod"
+        },
+        {
+            "itemName": "Eldritch Wand"
+        },
+        {
+            "itemName": "Gilded Eldritch Claymore"
+        },
+        {
+            "itemName": "Gilded Eldritch Greataxe"
+        },
+        {
+            "itemName": "Gilded Eldritch Warmace"
+        },
+        {
+            "itemName": "Gilded Eldritch Wand"
+        },
+        {
+            "itemName": "Gilded Eldritch Rod"
+        },
+        {
+            "itemName": "Gilded Eldritch Bow"
+        },
+        {
+            "itemName": "Giant Ruby"
+        }
+    ],
+    "walksaround": "None",
+    "exp": "?",
+    "creatureclass": "The Undead",
+    "earthDmgMod": "100%",
+    "physicalDmgMod": "100%?",
+    "bosstiaryclass": "Archfoe",
+    "spawntype": [
+        "Triggered"
+    ],
+    "race_id": "2055",
+    "senseinvis": "yes",
+    "actualname": "the Brainstealer",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "The Brainstealer",
+    "isboss": "yes",
+    "location": "[[Dwelling of the Forgotten]].",
+    "iceDmgMod": "100%?",
+    "strategy": "Avoid staying in front of it because of its strong beam spells. During the fight, players hit by the boss will receive ''Madness'', an effect that deals damager over time. The Madness is contagious so it's suggested that players do not move too much so they don't get/pass Madness. \n\nWhen the Mental Nexus' spawn the boss will become invulnerable. Position one or both Fleeting Thoughts close to the Nexus to kill it, but do not get hit by the Nexus' spell as it will heal it. Repeat this mechanic twice to defeat the Brainstealer.",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "0%"
+}

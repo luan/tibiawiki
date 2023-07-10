@@ -1,0 +1,103 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "Iks chukas",
+    "hpDrainDmgMod": "100%?",
+    "notes": "<gallery captionalign=\"center\" mode=\"nolines\">\nIks Chuka Artwork.jpg|Official [[Creature Artwork]]\n</gallery>",
+    "walksthrough": "Energy, Fire, Poison",
+    "hp": "1240",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "The Iks were an ancient civilization of proud warriors, builders and artists long lost to the world of Tibia. Their origins lie far from the known continents, only fragments of obscure lore and cultural remains tell of their history and legacy. A great catastrophe at the evolutionary height of their society led to exile and the scattering of surviving Iks in various parts of Tibia centuries ago. The Chuka are cursed remnants of the stealthy backbone of Iksian warfare. Their light spears and poisoned arrows would often tip the battle in favour of their leaders. Used with proficiency and wile, they could lure their foes into vulnerable positions to strike swiftly and almost completely silent. Combined with the protection and power provided by their brothers in arms, the Chuka were a powerful asset for the armies of the Iks.",
+    "speed": "120",
+    "abilities": "{{Ability List\n |{{Melee|100~}}\n |{{Ability|Spear|101-117|element=physical\n  |scene={{Scene|spell=plusspelltarget|caster=Iks Chuka|look_direction=south|effect=Dust Effect|damage_effect=Blood Effect|missile=Spear Missile|missile_direction=south-east|missile_distance=2/2}}}}\n |{{Ability|Explosion Bomb|?|element=?\n  |scene={{Scene|spell=2sqmballself|caster=Iks Chuka|look_direction=south|effect=Explosion Effect|effect_on_caster=yes}}}}\n |{{Ability|Death Strike|106-111|element=death\n  |scene={{Scene|spell=2sqmstrike|caster=Iks Chuka|look_direction=south|effect=Death Effect|damage_effect=Cloud Effect}}}}\n |{{Haste\n  |scene={{Scene|spell=buffspell|effect=Green Sparkles Effect|caster=Iks Chuka|look_direction=south|effect_on_caster=yes}}}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "fireDmgMod": "95%",
+    "holyDmgMod": "110%",
+    "sounds": [
+        "Pucataaan!",
+        "Mahrrrca!",
+        "Puccahtaaan!"
+    ],
+    "maxdmg": "0",
+    "implemented": "13.10.12852",
+    "bestiaryclass": "Undead",
+    "loot": [
+        {
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Small Sapphire",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Violet Crystal Shard",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Green Crystal Splinter",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Crystal Ring",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Royal Spear",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Gold Ingot",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Rotten Feather",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Gold-Brocaded Cloth",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Ritual Tooth",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Broken Iks Sandals",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Broken Iks Spear",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "None",
+    "exp": "1050",
+    "creatureclass": "The Undead",
+    "earthDmgMod": "100%",
+    "mitigation": "0.99",
+    "physicalDmgMod": "100%",
+    "primarytype": "Iks",
+    "spawntype": [
+        "Unblockable"
+    ],
+    "attacktype": "distance",
+    "race_id": "2345",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "article": "an",
+    "actualname": "Iks chuka",
+    "illusionable": "no",
+    "armor": "29",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "bestiaryname": "ikschuka",
+    "name": "Iks Chuka",
+    "isboss": "no",
+    "location": "[[Iksupan]]",
+    "iceDmgMod": "100%",
+    "energyDmgMod": "105%",
+    "deathDmgMod": "85%"
+}

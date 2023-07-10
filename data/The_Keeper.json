@@ -1,0 +1,51 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "This creature was added in [[Summer Update 2010]].",
+    "walksthrough": "?",
+    "hp": "40000",
+    "speed": "?",
+    "abilities": "{{Ability List\n |{{Melee|0-250}}\n |{{Ability|[[Paralyze]]|element=paralyze}}\n |{{Haste}}\n |{{Ability|Earth Wave|0-510|element=earth}}\n |{{Ability|[[Musical Notes]] Beam|0-500|element=lifedrain}}\n |{{Ability|[[Poison Hit]]|0-350|element=poison}}\n |{{Ability|Frequent [[Self-Healing]]|250-400|element=healing}}\n |{{Outfit|no|worm}}\n}}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "yes",
+    "fireDmgMod": "110%",
+    "holyDmgMod": "100%",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "1400",
+    "pushable": "?",
+    "implemented": "8.60",
+    "loot": [
+        {
+            "itemName": "The Tail of the Keeper"
+        }
+    ],
+    "walksaround": "Fire",
+    "exp": "3205",
+    "creatureclass": "Reptiles",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Serpents",
+    "spawntype": [
+        "Unique",
+        "Triggered",
+        "Unblockable"
+    ],
+    "race_id": "657",
+    "senseinvis": "yes",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "The Keeper",
+    "isboss": "yes",
+    "behaviour": "Behavior like that of a serpent spawn. Retreats at very low health.",
+    "location": "Northern [[Zao]] in his [[Brimstone Bug Caves|lair]], spawned by using poison on the purple plants.",
+    "iceDmgMod": "80%",
+    "strategy": "Don´t fight it at all. Try to make it moving into the poison field spawning in the cave (causes 8000 damage every time).",
+    "energyDmgMod": "110%",
+    "deathDmgMod": "50%"
+}

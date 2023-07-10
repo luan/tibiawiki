@@ -1,0 +1,84 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "One of the Hive Bosses<br/>\n{{JSpoiler|Part of the [[War Against the Hive Quest]]}}",
+    "walksthrough": "Poison",
+    "hp": "6100",
+    "speed": "?",
+    "abilities": "{{Ability List| {{Melee|0-300+}}|{{Ability|[[Invisibility]]|element=invisible}} }}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "secondarytype": "Myriapods",
+    "fireDmgMod": "100%?",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        "Chrssschrsss!"
+    ],
+    "maxdmg": "300+?",
+    "pushable": "?",
+    "implemented": "9.50",
+    "loot": [
+        {
+            "amount": "0-192",
+            "itemName": "Gold Coin"
+        },
+        {
+            "amount": "0-5",
+            "itemName": "Platinum Coin"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "Dung Ball (Quest)"
+        },
+        {
+            "itemName": "Compound Eye"
+        },
+        {
+            "itemName": "Crawler Head Plating"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "Great Mana Potion"
+        },
+        {
+            "itemName": "Great Health Potion"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "Small Emerald"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "Small Topaz"
+        },
+        {
+            "itemName": "Yellow Gem"
+        },
+        {
+            "itemName": "War Hammer"
+        }
+    ],
+    "walksaround": "Fire, Energy",
+    "exp": "4000",
+    "creatureclass": "Invertebrates",
+    "earthDmgMod": "100%?",
+    "physicalDmgMod": "100%?",
+    "bosstiaryclass": "Bane",
+    "primarytype": "Hive Born",
+    "race_id": "853",
+    "senseinvis": "?",
+    "illusionable": "yes",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Shadowstalker",
+    "isboss": "yes",
+    "behaviour": "Goes invisible a lot.",
+    "location": "Underground [[Hive]], around {{Mapper Coords|130.200|122.1|8|4|text=here}}",
+    "iceDmgMod": "100%?",
+    "strategy": "Separate it from other monsters and simply kill it. It's very weak when it's alone. You can use some [[Field Runes]] or Utori Spells in order to dispose his [[Invisibility]]",
+    "energyDmgMod": "100%?",
+    "deathDmgMod": "100%?"
+}

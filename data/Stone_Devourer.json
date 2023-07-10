@@ -1,0 +1,150 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "isarenaboss": "no",
+    "walksthrough": "Energy, Fire, Poison",
+    "hp": "4200",
+    "abilities": "{{Ability List\n |{{Melee|0-991+}}\n |{{Ability|Earth Missile|?-460|element=earth}}\n |{{Ability|Throws Boulder|600-650|element=physical\n  |scene={{Scene|spell=3sqmstrike|effect=Blood Effect|caster=Stone Devourer|missile=Stone Missile|missile_direction=south-east|missile_distance=3/3}}}}\n |{{Ability|Life Drain Stone Beam|600-1000+|element=life drain\n  |scene={{Scene|spell=7sqmbeam|effect=Stone Shower Effect|caster=Stone Devourer|look_direction=east}}}}\n |{{Ability|Big [[Groundshaker]]|element=?\n  |scene={{Scene|spell=4sqmballself|effect=Dust Effect|caster=Stone Devourer|casting_effect=Dust Effect}}}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "holyDmgMod": "70%",
+    "maxdmg": "Unknown",
+    "pushable": "?",
+    "implemented": "9.60",
+    "loot": [
+        {
+            "amount": "1-100",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-7",
+            "itemName": "Platinum Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Ancient Stone",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Coal",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-10",
+            "itemName": "Crystalline Arrow",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Crystalline Spikes",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Cyan Crystal Fragment",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Great Mana Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Green Crystal Splinter",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Mana Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Stone Nose",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Strong Health Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Strong Mana Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Ultimate Health Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Dwarven Ring",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Glorious Axe",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Stone Skin Amulet",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Sapphire Hammer",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Spiked Squelcher",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Crystal Mace",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "War Axe",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Giant Sword",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "None.",
+    "exp": "2900",
+    "mitigation": "2.31",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "stone devourer",
+    "illusionable": "no",
+    "armor": "75",
+    "convince": "--",
+    "name": "Stone Devourer",
+    "isboss": "no",
+    "iceDmgMod": "70%",
+    "energyDmgMod": "70%",
+    "deathDmgMod": "70%",
+    "plural": "stone devourers",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Uncommon",
+    "bestiarytext": "The Stone Devourer is a creature that the dwarfs thought to be extinct, after they had exterminated all Stone Devourers they encountered in their caves and mines. The Stone Devourers have not been seen for centuries. Only recently have they resurfaced and sadly proven that the creatures the dwarfs encountered in the past were either a lesser variation or merely their juvenile forms. The true Stone Devourers are certainly more dangerous than those of the dwarven chronicles. They are underground dwellers displaying extreme aggressiveness and destructiveness. They often live in packs led by an alpha male. Oddly enough, the alpha seems to accept the submission of certain other races, which are then integrated into their packs. They are also alarmingly not territorial. Their packs wander the depths aimlessly, devouring and destroying everything in their way. The stone devourers are extremely resilient towards environmental conditions and seem not to mind to camp in areas that are extremely hazardous to other creatures. Therefore they often surprise wanderers who are familiar with the surroundings by attacking from unexpected places.",
+    "speed": "150",
+    "pushobjects": "?",
+    "fireDmgMod": "0%",
+    "sounds": [
+        "Rumble!"
+    ],
+    "runsat": "0",
+    "bestiaryclass": "Construct",
+    "creatureclass": "Elementals",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "90%",
+    "primarytype": "Geo-Elementals",
+    "race_id": "879",
+    "bestiarylevel": "Hard",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "stonedevourer",
+    "behaviour": "Stone devourers will fight in close combat.",
+    "location": "[[Warzone 1]].",
+    "strategy": "Stay diagonal at all costs. Their life drain beam hits extremely hard."
+}

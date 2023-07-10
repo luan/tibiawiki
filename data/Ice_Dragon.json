@@ -1,0 +1,126 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "This creature can only be found when [[First Dragon Quest]] is active.",
+    "isarenaboss": "no",
+    "walksthrough": "None",
+    "hp": "2500",
+    "abilities": "{{Ability List| {{Melee|0-300}}|{{Ability|Smoke Wave|150-400|element=?}}|{{Ability|Ice Bomb|100-300; [[Paralysis]]|element=paralyze}}|{{Ability|Ice Wave|strong [[Paralysis]]|element=paralyze}}|{{Healing|range=100-200}} }}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "holyDmgMod": "100%",
+    "maxdmg": "1000",
+    "pushable": "no",
+    "implemented": "11.02.4128",
+    "loot": [
+        {
+            "amount": "1-219",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Dragon Ham",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Dragon Blood",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Dragon Tongue",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-9",
+            "itemName": "Shiver Arrow",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Ice Cube",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Golden Mug",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Hailstorm Rod",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Energy Ring",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Small Sapphire",
+            "rarity": "semi-rare"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Great Mana Potion",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Glacier Mask",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Glacier Amulet",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Life Crystal",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Shard",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Dragon Scale Mail",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Energy, Fire, Poison",
+    "exp": "2300",
+    "mitigation": "1.13",
+    "attacktype": "Melee",
+    "article": "an",
+    "actualname": "ice dragon",
+    "illusionable": "no",
+    "armor": "41",
+    "convince": "--",
+    "name": "Ice Dragon",
+    "isboss": "no",
+    "iceDmgMod": "0%",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "100%",
+    "status": "event",
+    "plural": "ice dragons",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Rare",
+    "speed": "106",
+    "pushobjects": "yes",
+    "fireDmgMod": "130%",
+    "sounds": [
+        ""
+    ],
+    "runsat": "300",
+    "bestiaryclass": "Dragon",
+    "creatureclass": "Reptiles",
+    "earthDmgMod": "50%",
+    "physicalDmgMod": "105%",
+    "primarytype": "Dragons",
+    "spawntype": [
+        "Regular",
+        "Event"
+    ],
+    "race_id": "1380",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "behaviour": "Fights in close combat.",
+    "location": "[[The First Dragon's Lair]].",
+    "strategy": "Treat it like a [[Frost Dragon]] with the key difference that it's very weak to [[Fire Damage]]."
+}

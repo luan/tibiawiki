@@ -1,0 +1,180 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "?",
+    "hpDrainDmgMod": "100%?",
+    "notes": "One of the bosses in the [[Heart of Destruction Quest]].",
+    "walksthrough": "?",
+    "hp": "290000",
+    "speed": "?",
+    "abilities": "{{Ability List| {{Melee|0-783+}}|{{Ability|[[Ripple Effect|Great Drown Beam]]|0-619+|element=drowning}}|{{Ability|[[Energy Damage|Great Energy Wave]]|0-?|element=energy}} }}",
+    "pushobjects": "yes",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "secondarytype": "Electro-Elementals",
+    "fireDmgMod": "100%?",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "1400+",
+    "pushable": "no",
+    "runsat": "0",
+    "cooldown": "20",
+    "implemented": "10.94",
+    "loot": [
+        {
+            "amount": "4",
+            "itemName": "Gold Token",
+            "rarity": "always"
+        },
+        {
+            "itemName": "Mysterious Remains",
+            "rarity": "always"
+        },
+        {
+            "amount": "100",
+            "itemName": "Gold Coin"
+        },
+        {
+            "amount": "30",
+            "itemName": "Platinum Coin"
+        },
+        {
+            "itemName": "Void Boots"
+        },
+        {
+            "itemName": "Giant Shimmering Pearl"
+        },
+        {
+            "amount": "3",
+            "itemName": "Energy Bar"
+        },
+        {
+            "itemName": "Violet Gem"
+        },
+        {
+            "itemName": "Chaos Mace"
+        },
+        {
+            "amount": "10",
+            "itemName": "Small Amethyst"
+        },
+        {
+            "amount": "5",
+            "itemName": "Ultimate Health Potion"
+        },
+        {
+            "amount": "10",
+            "itemName": "Small Topaz"
+        },
+        {
+            "itemName": "Ring of Blue Plasma"
+        },
+        {
+            "amount": "5",
+            "itemName": "Great Spirit Potion"
+        },
+        {
+            "itemName": "Ring of Red Plasma"
+        },
+        {
+            "itemName": "Collar of Green Plasma"
+        },
+        {
+            "itemName": "Odd Organ"
+        },
+        {
+            "itemName": "Crystalline Armor"
+        },
+        {
+            "itemName": "Plasma Pearls"
+        },
+        {
+            "amount": "3",
+            "itemName": "Green Crystal Shard"
+        },
+        {
+            "amount": "3",
+            "itemName": "Violet Crystal Shard"
+        },
+        {
+            "amount": "3",
+            "itemName": "Blue Crystal Shard"
+        },
+        {
+            "itemName": "Tiara of Power"
+        },
+        {
+            "itemName": "Small Sapphire"
+        },
+        {
+            "itemName": "Red Gem"
+        },
+        {
+            "itemName": "Amber Staff"
+        },
+        {
+            "itemName": "Great Mana Potion"
+        },
+        {
+            "itemName": "Ring of Green Plasma"
+        },
+        {
+            "itemName": "Small Diamond"
+        },
+        {
+            "itemName": "Collar of Red Plasma"
+        },
+        {
+            "itemName": "Small Emerald"
+        },
+        {
+            "itemName": "Lightning Headband"
+        },
+        {
+            "itemName": "Green Gem"
+        },
+        {
+            "itemName": "Shadow Sceptre"
+        },
+        {
+            "itemName": "Yellow Gem"
+        },
+        {
+            "itemName": "Lightning Legs"
+        },
+        {
+            "itemName": "Collar of Blue Plasma"
+        },
+        {
+            "itemName": "Blue Gem"
+        },
+        {
+            "itemName": "Ruthless Axe"
+        },
+        {
+            "itemName": "Berserker"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "~112000",
+    "creatureclass": "Invertebrates",
+    "earthDmgMod": "100%?",
+    "physicalDmgMod": "100%?",
+    "bosstiaryclass": "Archfoe",
+    "primarytype": "Cnidarians",
+    "race_id": "1225",
+    "senseinvis": "?",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Rupture",
+    "isboss": "yes",
+    "location": "[[Otherworld]], {{Mapper Coords|126.78|122.18|14|2|text=here}}.",
+    "iceDmgMod": "100%?",
+    "strategy": "Every few minutes during the fight, Rupture will summon a [[Damage Resonance]]. When he does, '''immediately stop attacking him''' and focus on killing the Resonance, since every time he is hit while the [[Damage Resonance]] is spawned will cause him to gain several thousand hitpoints back. For this same reason, '''do not''' use damage over time effects on him (such as [[Inflict Wound]]), since these hits will also cause him to heal.",
+    "energyDmgMod": "100%?",
+    "deathDmgMod": "100%?"
+}

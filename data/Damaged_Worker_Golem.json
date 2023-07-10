@@ -1,0 +1,83 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "damaged worker golems",
+    "hpDrainDmgMod": "100%?",
+    "walksthrough": "Poison",
+    "hp": "260",
+    "usespells": "yes",
+    "lightcolor": "35",
+    "occurrence": "Common",
+    "speed": "75",
+    "abilities": "{{Ability List\n |{{Melee|0-45}}\n |{{Ability|Throws [[Small Stone]]|0-45|element=physical\n  |scene={{Scene|spell=3sqmstrike|effect=Blood Effect|caster=Damaged Worker Golem|missile=Small Stone Missile|missile_direction=south-east|missile_distance=3/3}}}}\n |{{Healing|range=5-11}}\n}}",
+    "healMod": "100%",
+    "pushobjects": "yes",
+    "paraimmune": "yes",
+    "fireDmgMod": "100%",
+    "holyDmgMod": "50%",
+    "sounds": [
+        "Klonk klonk klonk",
+        "Failure! Failure!",
+        "Good morning citizen. How may I serve you?",
+        "Target identified: Rat! Termination initiated!",
+        "Rrrtttarrrttarrrtta",
+        "Danger will...chrrr! Danger!",
+        "Self-diagnosis failed.",
+        "Aw... chhhrrr orders."
+    ],
+    "maxdmg": "{{Max Damage|physical=90}}",
+    "pushable": "no",
+    "lightradius": "3",
+    "runsat": "0",
+    "implemented": "8.40",
+    "bestiaryclass": "Construct",
+    "loot": [
+        {
+            "amount": "0-88",
+            "itemName": "Gold Coin"
+        },
+        {
+            "itemName": "Heavily Rusted Armor"
+        },
+        {
+            "itemName": "Nail",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Sword Ring",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Iron Ore",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Gear Crystal",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Fire, Energy",
+    "exp": "95",
+    "creatureclass": "Misc",
+    "earthDmgMod": "50%",
+    "mitigation": "0.33",
+    "physicalDmgMod": "90%",
+    "primarytype": "Machines",
+    "attacktype": "Melee",
+    "race_id": "524",
+    "bestiarylevel": "Easy",
+    "senseinvis": "yes",
+    "article": "a",
+    "actualname": "damaged worker golem",
+    "illusionable": "no",
+    "armor": "16",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Damaged Worker Golem",
+    "isboss": "no",
+    "location": "[[Factory Quarter]].",
+    "iceDmgMod": "90%",
+    "strategy": "'''Paladins:''' Just run from them and shoot, they are pretty weak and should go down quickly for any paladin with 50+ distance.\n'''Mages:''' Attack with [[energy strike]] and avoid getting surrounded.\n'''Knights:''' Just attack them, they are weak. They are good to train with on higher skills.",
+    "energyDmgMod": "105%",
+    "deathDmgMod": "90%"
+}

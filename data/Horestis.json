@@ -1,0 +1,103 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "In order to spawn Horestis, a team has to break all the [[Ornate Canopic Jar]]s in Horestis' tomb.",
+    "isarenaboss": "no",
+    "walksthrough": "Poison",
+    "hp": "6000",
+    "speed": "170",
+    "abilities": "{{Ability List\n |{{Melee|0-450?}}\n |{{Ability|Death Strike|200-750?|element=death}}\n |{{Ability|Life Drain Beam|400-500?|element=lifedrain}}\n |{{Ability|Poison Ball on itself|causes [[Drunkenness]]|element=drunk}}\n |{{Ability|Poison Wave|causes paralyse|element=paralyze}}\n |{{Ability|Life Drain Strike|?|element=lifedrain}}\n |{{Ability|[[Poisoned|Poison]]|up to 35 [[hp]] per turn|element=poisoned}}\n |{{Summon|Sandstone Scorpion|4}}\n |{{Healing|range=200-400?}}\n}}",
+    "pushobjects": "yes",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "115%",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        "I might be dead but I'm not gone!"
+    ],
+    "maxdmg": "1300?",
+    "pushable": "no",
+    "implemented": "9.10",
+    "loot": [
+        {
+            "amount": "0-243",
+            "itemName": "Gold Coin"
+        },
+        {
+            "amount": "0-5",
+            "itemName": "Platinum Coin"
+        },
+        {
+            "amount": "0-5",
+            "itemName": "Scarab Coin"
+        },
+        {
+            "amount": "0-4",
+            "itemName": "Great Health Potion"
+        },
+        {
+            "amount": "0-3",
+            "itemName": "Great Mana Potion"
+        },
+        {
+            "itemName": "Silver Brooch"
+        },
+        {
+            "itemName": "Pharaoh Banner"
+        },
+        {
+            "itemName": "Hieroglyph Banner"
+        },
+        {
+            "itemName": "Slightly Rusted Legs",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Slightly Rusted Armor",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Golden Armor",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Pharaoh Sword",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Twin Axe",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Mini Mummy",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Scorpion Sceptre",
+            "rarity": "always"
+        }
+    ],
+    "walksaround": "Fire, Energy",
+    "exp": "3500",
+    "creatureclass": "The Undead",
+    "earthDmgMod": "100%",
+    "physicalDmgMod": "100%?",
+    "bosstiaryclass": "Nemesis",
+    "primarytype": "Pharaohs",
+    "race_id": "713",
+    "senseinvis": "yes",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Horestis",
+    "isboss": "yes",
+    "behaviour": "Chases its opponent and summon.",
+    "location": "[[Horestis Tomb]].",
+    "iceDmgMod": "70%",
+    "strategy": "All vocations should wear a [[Dwarven Ring]] to avoid the [[Drunkenness]] he causes. \n\nThere is a spot in the upper left portion of the room where only 2 creatures can attack you at a time.  Like this:  [[https://www.youtube.com/watch?v=adOxyU7397Q&list=PLAO4znVdU3qR8BxHiXX9QMaHLqC2eTEQs&index=7 97 EK Killing Horestis]] \n\nMages: He is weak to fire so you should use [[Great Fireball Rune]]s and [[Flame Strike]]. If you think it's attacks are too much for you, use [[Magic Shield]] and a [[Fire Wall Rune]] to keep your distance.",
+    "energyDmgMod": "95%",
+    "deathDmgMod": "0%",
+    "status": "event"
+}

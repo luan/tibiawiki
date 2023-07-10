@@ -1,0 +1,47 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "Similar to a [[Skunk]]?",
+    "walksthrough": "?",
+    "hp": "20?",
+    "speed": "?",
+    "abilities": "{{Ability List| {{Melee|?}} }}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "100%?",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "?",
+    "pushable": "?",
+    "implemented": "11.40.5409",
+    "loot": [
+        {
+            "itemName": "Bulb of Garlic"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "3?",
+    "creatureclass": "Mammals",
+    "earthDmgMod": "100%?",
+    "physicalDmgMod": "100%?",
+    "primarytype": "Mustelids",
+    "senseinvis": "yes",
+    "article": "an",
+    "actualname": "animated skunk",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "?",
+    "name": "Animated Skunk",
+    "isboss": "?",
+    "behaviour": "?",
+    "location": "[[Museum of Tibian Arts]]",
+    "iceDmgMod": "100%?",
+    "strategy": "Unknown",
+    "energyDmgMod": "100%?",
+    "deathDmgMod": "100%?"
+}

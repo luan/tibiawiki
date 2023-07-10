@@ -1,0 +1,99 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "glooth bombs",
+    "hpDrainDmgMod": "15%?",
+    "notes": "It travels a path north and leaves fire in its wake. It walks over [[Magic Wall]]s and [[Wild Growth]] trees, but does not remove them. It walks on top of enemy monsters, but does not kill them. The Bomb will not pass through players. When it reaches the [[Underground Glooth Factory]] walls to the north, it will explode, hitting everyone for 1000 damage and destroying the southern plant wall allowing the monsters to pass through.\n\n{{JSpoiler|You will obtain the achievement ''[[Robo Chop]]'' when you help to defeat a Glooth Bomb.}}",
+    "walksthrough": "Fire, Energy, Poison",
+    "hp": "250000",
+    "speed": "?",
+    "abilities": "{{Ability List| {{Melee|0-328+|element=physical}}|{{Ability|Purple Thunderstorm|200-300? [[Physical Damage|physical]]}}|{{Ability|[[Berserk]]|50-200+?|element=?}}|{{Ability|Short Beam|200+?; 3sqm|element=?}}|{{Healing}} }}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "15%?",
+    "holyDmgMod": "15%?",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "?",
+    "pushable": "no",
+    "runsat": "0",
+    "implemented": "10.70",
+    "loot": [
+        {
+            "itemName": "Small Ruby"
+        },
+        {
+            "amount": "2",
+            "itemName": "Moohtant Horn"
+        },
+        {
+            "amount": "0-13",
+            "itemName": "Great Health Potion"
+        },
+        {
+            "amount": "0-11",
+            "itemName": "Great Spirit Potion"
+        },
+        {
+            "amount": "0-13",
+            "itemName": "Great Mana Potion"
+        },
+        {
+            "itemName": "Yellow Gem"
+        },
+        {
+            "amount": "0-27",
+            "itemName": "Platinum Coin"
+        },
+        {
+            "amount": "0-5",
+            "itemName": "Small Diamond"
+        },
+        {
+            "amount": "0-3",
+            "itemName": "Small Topaz"
+        },
+        {
+            "itemName": "Red Piece of Cloth"
+        },
+        {
+            "itemName": "Ring of Healing"
+        },
+        {
+            "itemName": "Gearwheel Chain"
+        },
+        {
+            "itemName": "Glooth Glider Gear Wheel"
+        },
+        {
+            "itemName": "Gold Coin"
+        },
+        {
+            "itemName": "Gold Ingot"
+        }
+    ],
+    "walksaround": "None.",
+    "exp": "?",
+    "creatureclass": "Traps",
+    "earthDmgMod": "15%?",
+    "physicalDmgMod": "15%?",
+    "primarytype": "Machines",
+    "senseinvis": "?",
+    "article": "a",
+    "actualname": "glooth bomb",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "15%?",
+    "convince": "no",
+    "name": "Glooth Bomb",
+    "isboss": "yes",
+    "behaviour": "It will attack someone that is in its melee range.",
+    "location": "Second floor of the [[Underground Glooth Factory]], south side.",
+    "iceDmgMod": "15%?",
+    "strategy": "Gather a team of 10 or more players to kill it. It's strong to all damage types, so use your best weapons and spells on it. Be careful with the other creatures around, specially if there's a raid happening. Watch out for the [[Glooth Battery|Glooth Batteries]] as their area spell can cause quite a lot of damage.",
+    "energyDmgMod": "15%?",
+    "deathDmgMod": "15%?",
+    "status": "event"
+}

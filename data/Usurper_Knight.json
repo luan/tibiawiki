@@ -1,0 +1,107 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "walksthrough": "Fire, Energy, Poison",
+    "hp": "8200",
+    "abilities": "{{Ability List| {{Melee|0-500}}|{{Ability|4sqm [[Ice Damage|Ice Beam]]|0-400|element=ice}}|{{Ability|[[Death Damage|Death Berserk]]|0-300|element=death}}|{{Ability|[[Ice Damage|Rage of Skies]]|0-450 4 sqm Diagonal of the Target|element=ice}}|{{Ability|Frequent [[Self-Healing]] |0-550|element=healing}} }}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "holyDmgMod": "85%",
+    "maxdmg": "1350?",
+    "pushable": "no",
+    "implemented": "12.40.9997",
+    "loot": [
+        {
+            "amount": "1-5",
+            "itemName": "Platinum Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Leather Legs",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Knight Legs",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Violet Gem",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Lion Cloak Patch",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Meat",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Lion Crest",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Great Mana Potion",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Gold Ingot",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Blue Gem",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Green Gem",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Magma Legs",
+            "rarity": "semi-rare"
+        }
+    ],
+    "walksaround": "None.",
+    "exp": "6900",
+    "mitigation": "2.40",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "usurper knight",
+    "illusionable": "no",
+    "armor": "83",
+    "convince": "--",
+    "name": "Usurper Knight",
+    "isboss": "no",
+    "iceDmgMod": "80%",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "115%",
+    "plural": "usurper knights",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "The usurpers to the throne of the Lion laid siege to the town of Bounac. Their main goal being the fall of king Kesar, they are trying everything in their might to breach the old walls of the castle. Shamefully disregarding the very life and well-being of its inhabitants.",
+    "speed": "130",
+    "pushobjects": "yes",
+    "fireDmgMod": "90%",
+    "sounds": [
+        "This town is ours now!",
+        "Do you really think you can stand?",
+        "You don't deserve Bounac!"
+    ],
+    "runsat": "0",
+    "bestiaryclass": "Human",
+    "creatureclass": "Humans",
+    "earthDmgMod": "100%",
+    "physicalDmgMod": "65%",
+    "primarytype": "Members of the Order of the Lion",
+    "spawntype": [
+        "Regular"
+    ],
+    "race_id": "1972",
+    "bestiarylevel": "Hard",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "usurperknight",
+    "location": "[[Bounac]], the [[Order of the Lion]] settlement.",
+    "strategy": "Avoid stand in front, strongly advised to wear death resistance, can easily be found in groups of 3 or more."
+}

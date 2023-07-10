@@ -1,0 +1,69 @@
+{
+    "summon": "320",
+    "templateType": "Creature",
+    "notes": "They are similar to [[Bear]]s but stronger.",
+    "walksthrough": "?",
+    "hp": "80",
+    "abilities": "{{Ability List|{{Melee|0-40}}}}",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "holyDmgMod": "80%",
+    "maxdmg": "{{Max Damage|physical=40}}",
+    "pushable": "no",
+    "usedelements": "Physical",
+    "implemented": "5.1",
+    "loot": [
+        {
+            "amount": "1-4",
+            "itemName": "Meat",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Ham",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Lion's Mane",
+            "rarity": "rare"
+        }
+    ],
+    "walksaround": "Fire, Energy, Poison",
+    "exp": "30",
+    "mitigation": "0.33",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "lion",
+    "illusionable": "yes",
+    "armor": "6",
+    "convince": "320",
+    "name": "Lion",
+    "isboss": "no",
+    "iceDmgMod": "115%",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "108%",
+    "plural": "lions",
+    "hpDrainDmgMod": "100%",
+    "usespells": "no",
+    "occurrence": "Common",
+    "bestiarytext": "Lions are beasts of prey that live in the deserts and savannahs of Tibia. They are very quick and try to hunt their victim down to kill it with a single bite. It is recommended to attack them with distance fighting weapons.",
+    "speed": "95",
+    "pushobjects": "no",
+    "fireDmgMod": "100%",
+    "sounds": [
+        "Groarrr!"
+    ],
+    "bestiaryclass": "Mammal",
+    "creatureclass": "Mammals",
+    "earthDmgMod": "80%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Felines",
+    "race_id": "41",
+    "bestiarylevel": "Easy",
+    "senseinvis": "no",
+    "drownDmgMod": "100%",
+    "bestiaryname": "lion",
+    "behaviour": "Lions run away in red [[Health]].",
+    "location": "[[Jakundaf Desert]], [[Darama]], [[Arena Quarter]], [[Amazon Camp (Venore)|Venore Amazon Camp]].",
+    "strategy": "Not a very challenging creature but they attack in groups so be careful."
+}

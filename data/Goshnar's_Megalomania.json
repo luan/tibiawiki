@@ -1,0 +1,132 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "Goshnar's Megalomania has 3 different forms:\n\n[[File:Goshnar's Megalomania.gif]] Immune to all damage<br/>\n[[File:Goshnar's Megalomania (Vulnerable).gif]] Vulnerable to damage<br/>\n[[File:Goshnar's Megalomania (Annihilation).gif]] Charging his Annihilation attack\n\nIt's the final boss of the [[Soul War Quest]].",
+    "walksthrough": "Fire, Energy, Poison",
+    "hp": "?",
+    "speed": "?",
+    "abilities": "{{Ability List\n |{{Melee|117+}}\n |{{Ability|Swarm Beam||element=?\n  |scene={{Scene|spell=7sqmbeam|caster=Goshnar's Megalomania|look_direction=east|effect=Insect Swarm Effect}}}}\n |{{Ability|Death Beam||element=?\n  |scene={{Scene|spell=7sqmbeam|caster=Goshnar's Megalomania|look_direction=east|effect=Death Effect}}}}\n |{{Ability|Ghost Wave||element=?\n  |scene={{Scene|spell=8sqmwave|caster=Goshnar's Megalomania|look_direction=east|effect=Ghost Smoke Effect}}}}\n |{{Ability|Death Ball||element=?\n  |scene={{Scene|spell=1sqmballtarget|caster=Goshnar's Megalomania|look_direction=south|effect=Death Effect|missile=Death Missile (Large)|missile_direction=south-east|missile_distance=2/2}}}}\n}}",
+    "healMod": "100%?",
+    "paraimmune": "yes",
+    "fireDmgMod": "100%?",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "?",
+    "pushable": "no",
+    "runsat": "0",
+    "cooldown": "68",
+    "implemented": "12.40.9997",
+    "loot": [
+        {
+            "itemName": "Ultimate Mana Potion"
+        },
+        {
+            "itemName": "Crystal Coin"
+        },
+        {
+            "itemName": "Mastermind Potion"
+        },
+        {
+            "itemName": "Gold Ingot"
+        },
+        {
+            "itemName": "Giant Emerald"
+        },
+        {
+            "itemName": "Giant Topaz"
+        },
+        {
+            "itemName": "Yellow Gem"
+        },
+        {
+            "itemName": "Supreme Health Potion"
+        },
+        {
+            "itemName": "Giant Shimmering Pearl"
+        },
+        {
+            "itemName": "Ultimate Spirit Potion"
+        },
+        {
+            "itemName": "Berserk Potion"
+        },
+        {
+            "itemName": "Green Gem"
+        },
+        {
+            "itemName": "Bullseye Potion"
+        },
+        {
+            "itemName": "Giant Sapphire"
+        },
+        {
+            "itemName": "Figurine of Spite"
+        },
+        {
+            "itemName": "Figurine of Hatred"
+        },
+        {
+            "itemName": "Figurine of Malice"
+        },
+        {
+            "itemName": "Figurine of Greed"
+        },
+        {
+            "itemName": "Figurine of Cruelty"
+        },
+        {
+            "itemName": "Figurine of Megalomania"
+        },
+        {
+            "itemName": "Megalomania's Essence"
+        },
+        {
+            "itemName": "Megalomania's Skull"
+        },
+        {
+            "itemName": "Violet Gem"
+        },
+        {
+            "itemName": "Giant Amethyst"
+        },
+        {
+            "itemName": "Red Gem"
+        },
+        {
+            "itemName": "Blue Gem"
+        },
+        {
+            "itemName": "Giant Ruby"
+        },
+        {
+            "itemName": "Bag You Desire"
+        }
+    ],
+    "walksaround": "None",
+    "exp": "?",
+    "creatureclass": "The Undead",
+    "earthDmgMod": "100%?",
+    "physicalDmgMod": "100%?",
+    "bosstiaryclass": "Nemesis",
+    "primarytype": "Ghosts",
+    "spawntype": [
+        "Triggered"
+    ],
+    "race_id": "1906",
+    "senseinvis": "yes",
+    "actualname": "Goshnar's Megalomania",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Goshnar's Megalomania",
+    "isboss": "yes",
+    "location": "Accessed through [[Zarganash]].",
+    "iceDmgMod": "100%?",
+    "strategy": "See [[Soul War Quest]].",
+    "energyDmgMod": "100%?",
+    "deathDmgMod": "100%?"
+}

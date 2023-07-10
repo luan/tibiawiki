@@ -1,0 +1,134 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "Werebadgers also drop [[Moonlight Crystals]] during the [[Full Moon]].<br /><noinclude>[[File:Werebadger Promoart.jpg|350px]]</noinclude>",
+    "walksthrough": "Energy, Poison,Fire",
+    "hp": "1700",
+    "abilities": "{{Ability List| {{Melee|0-170}}|{{Ability|[[Mana Drain]]|65-95|element=manadrain}}|{{Ability|[[Life Drain]] Explosion similar to [[Thunderstorm]] area|0-100; also causes [[Paralysis]]|element=lifedrain}}|{{Ability|[[Death]] Cloud Wave|causes [[Curse]]; from 2 to 128+|element=cursed}}|{{Ability|[[Death]] Beam|190-230|element=death}}|{{Ability|Frequent [[Invisibility]]|element=invisible}}|{{Ability|[[Healing]]|50-120; white spark effect on itself|element=healing}}|{{Ability|[[White Notes Effect|White Notes Berserk]] on itself|[[Summon]]s 2 [[Badger]]s at once|element=summon}} }}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "secondarytype": "Mustelids",
+    "holyDmgMod": "105%",
+    "maxdmg": "?",
+    "pushable": "no",
+    "implemented": "10.80",
+    "loot": [
+        {
+            "amount": "1-75",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "Platinum Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Beetroot",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Brown Mushroom",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Werebadger Claws",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Werebadger Skull",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Moonlight Crystals",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Strong Mana Potion",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Great Mana Potion",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Mana Potion",
+            "rarity": "semi-rare"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "Small Enchanted Amethyst",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Troll Green",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Platinum Amulet",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Ring of Healing",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Werewolf Amulet",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Badger Boots",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Underworld Rod",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Wand of Voodoo",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Werebadger Trophy",
+            "rarity": "very rare"
+        }
+    ],
+    "exp": "1600",
+    "mitigation": "0.75",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "werebadger",
+    "illusionable": "no",
+    "armor": "31",
+    "convince": "--",
+    "name": "Werebadger",
+    "isboss": "no",
+    "iceDmgMod": "105%",
+    "energyDmgMod": "90%",
+    "deathDmgMod": "60%",
+    "plural": "werebadgers",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "Werebadgers are humans under a curse - others claim infected with a disease - that causes them to transform into savage beasts. At the beginning, the transformation only takes place at full moon and the victim regains its human appearance the next morning. In the course of time, the transformation lasts longer and the full moon is no longer a necessary condition for the transformation. At a certain point, the beast takes over more and more often.\nWerebadgers aren't very strong and tough but quick and clever in compensation. They are no real predators, but may nonetheless be a danger to the careless. Their appearance is a mix between a badger and a human being. Like badgers, Werebadgers favour caverns as homesteads.\nThe curse of the Full Moon, as it is frequently called, is usually spread by the infectious bite or scratch of other were-creatures. Forbidden books also tell about methods that allow to turn somebody into a were-creature with the help of dark rites. Some twisted individuals even call the curse upon themselves in the hope of using their new powers to avenge an injustice or insult.",
+    "speed": "130",
+    "pushobjects": "yes",
+    "fireDmgMod": "105%",
+    "sounds": [
+        "SNUFFLE",
+        "Sniff Sniff"
+    ],
+    "bestiaryclass": "Lycanthrope",
+    "creatureclass": "Humans",
+    "earthDmgMod": "50%",
+    "physicalDmgMod": "95%",
+    "primarytype": "Lycanthropes",
+    "race_id": "1144",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "werebadger",
+    "behaviour": "Werebadgers fight to the death. They become invisible very often and drain mana pretty quick.",
+    "location": "[[Grimvale]]: -1 floor from ground level, also seen on surface during full moon (12th-14th of every month). Also in the [[Edron Lycanthropes Cave]] (accessed {{Mapper Coords|129.160|124.172|7|4|text=here}}) and in the [[Last Sanctum]].",
+    "strategy": "'''[[Knight]]:''' Try to use your mana as fast as possible when fighting them, as they deplete it pretty quickly. Their melee isn't very strong, but you should be cautious with their waves, especially if you're fighting two at once. If possible, bring [[Koshei's Ancient Amulet]] and be ready to cast spells because they become invisible very, very often. They often come in packs so a [[Fire Wall]] or a [[Fire Bomb]] might come in handy in order to avoid having your shielding broken. '''[[Sorcerer]]s''' should also use death damage protection such as [[Robe of the Underworld]], same with '''[[Paladin]]s''' and [[Divine Plate]]. '''[[Druid]]s''' on the other hand are going to struggle against these and all non-paladin players should watch their HP as the damage caused by [[Cursed]] ramps up quickly."
+}

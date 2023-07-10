@@ -1,0 +1,138 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "walksthrough": "Energy, Poison",
+    "hp": "10000",
+    "occurrence": "Common",
+    "bestiarytext": "The afflicted striders are purposely infected with a rare parasite that significantly alters their physiology and psyche. It mainly seems to make them more aggressive and physically capable, though it also significantly reduces their life span. Those Below always showed little restraint in using such methods in disregard of their minions but such tactics and with them the deployment of afflicted striders have become more common recently. This might hint at a shift of leadership or strategy.<br/>The afflicted striders behave even more violently und unforeseeable under the influence of the parasites, yet they seem strangely more prone to acts of violence aimed purposely to be discarded as the effect of raised aggression. The suggestion that the tiny parasites are raising the striders intelligence or are intelligent themselves and acting on purpose seems a bit farfetched though. A more recent theory suggests that the parasites make the striders more susceptible to the influence of creatures such as the feared brainstealer. This would explain their existence in certain battle forces while they are lacking in others. A further, more daring theory even suggests that the small parasites are part of a hive mind and that there is one or more master parasites hidden in the depths of Those Below territory that mastermind their control. This would still leave unexplained why they are spread amongst forces in such unequal manner and the efficiency of said method would be questionable at best. Even the inflicted striders are obviously only beasts that primarily follow their basic impulses and don't express any higher strategy of some kind. Still they are a dangerous foe and even disjointed from any army are a threat to any area that they are encountered in.<br/>Though the parasites seem only to infest striders, everyone who loots items from such a creature should clean them thoroughly.",
+    "speed": "135",
+    "abilities": "{{Ability List\n |{{Melee|0-600}}\n |{{Ability|Death Groundshaker|650-800|element=death\n  |scene={{Scene|spell=3sqmballself|effect=Dust Effect|caster=Afflicted Strider|effect_on_caster=yes|background=dirt_floor2|edge_size=32}}}}\n |{{Ability|Poison Strike|550-650|element=earth\n  |scene={{Scene|spell=2sqmstrike|caster=Afflicted Strider|missile=Poison Missile|missile_direction=south-east|missile_distance=2/2|effect=Poison Effect 1|background=dirt_floor2}}}}\n}}",
+    "pushobjects": "yes",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "fireDmgMod": "110%",
+    "holyDmgMod": "100%",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "{{Max Damage|physical=600|earth=650|death=800}}",
+    "pushable": "no",
+    "usedelements": "?",
+    "implemented": "12.70.10953",
+    "bestiaryclass": "Vermin",
+    "loot": [
+        {
+            "amount": "1-15",
+            "itemName": "Platinum Coin",
+            "rarity": "always"
+        },
+        {
+            "itemName": "Violet Gem",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Guardian Halberd",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Crystal Sword",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Violet Crystal Shard",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Green Crystal Shard",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Afflicted Strider Worms",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Magma Coat",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Ice Rapier",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Serpent Sword",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Broadsword",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Machete",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Knight Axe",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Knight Armor",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Doublet",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Mercenary Sword",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Haunted Blade",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Titan Axe",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Spirit Cloak",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Focus Cape",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Belted Cape",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Afflicted Strider Head",
+            "rarity": "semi-rare"
+        }
+    ],
+    "walksaround": "Fire",
+    "exp": "5700",
+    "creatureclass": "Invertebrates",
+    "earthDmgMod": "90%",
+    "mitigation": "1.88",
+    "physicalDmgMod": "95%",
+    "primarytype": "Insects",
+    "race_id": "2094",
+    "bestiarylevel": "Hard",
+    "history": "On {{OfficialNewsArchive|6555|February 01, 2022}}, its loot was increased by 17%.",
+    "senseinvis": "yes",
+    "article": "an",
+    "actualname": "afflicted strider",
+    "illusionable": "no",
+    "armor": "68",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "bestiaryname": "afflictedstrider",
+    "name": "Afflicted Strider",
+    "location": "[[Antrum of the Fallen]].",
+    "iceDmgMod": "100%",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "85%"
+}

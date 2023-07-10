@@ -1,0 +1,99 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "walksthrough": "?",
+    "hp": "1350",
+    "abilities": "{{Ability List|{{Melee|0-200?}}}}",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "holyDmgMod": "90%",
+    "maxdmg": "?",
+    "pushable": "no",
+    "usedelements": "Physical",
+    "implemented": "11.40.5409",
+    "loot": [
+        {
+            "amount": "1-217",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Strong Health Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Orc Tusk",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-?",
+            "itemName": "Ham",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Orcish Axe",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Small Topaz",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Green Piece of Cloth",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Cultish Robe",
+            "rarity": "semi-rare"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Brown Crystal Splinter",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Berserk Potion",
+            "rarity": "rare"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "950",
+    "mitigation": "1.26",
+    "attacktype": "Melee",
+    "article": "an",
+    "actualname": "orc cultist",
+    "illusionable": "no",
+    "armor": "30",
+    "convince": "--",
+    "name": "Orc Cultist",
+    "iceDmgMod": "100%",
+    "energyDmgMod": "70%",
+    "deathDmgMod": "110%",
+    "plural": "orc cultists",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "no",
+    "occurrence": "Uncommon",
+    "bestiarytext": "The Orc Cultist is a stronger version of [[Orc Warrior]]s.",
+    "speed": "95",
+    "pushobjects": "yes",
+    "fireDmgMod": "100%",
+    "sounds": [],
+    "runsat": "deep red",
+    "bestiaryclass": "Humanoid",
+    "creatureclass": "Humanoids",
+    "earthDmgMod": "110%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Orcs",
+    "spawntype": [
+        "Regular"
+    ],
+    "race_id": "1503",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "orccultist",
+    "behaviour": "Fights in close combat.",
+    "location": "[[Edron Orc Cave]].",
+    "strategy": "Unknown"
+}

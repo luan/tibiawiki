@@ -1,0 +1,84 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "isarenaboss": "no",
+    "walksthrough": "Fire",
+    "hp": "190",
+    "abilities": "{{Ability List\n |{{Melee|0-100}}\n |{{Ability|Throws [[Spear]]|0-50|element=physical|scene={{Scene|spell=3sqmstrike|effect=Blood Effect|caster=Deepling Worker|missile=Spear Missile|missile_direction=south-east|missile_distance=3/3}}}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "holyDmgMod": "100%",
+    "maxdmg": "{{Max Damage|physical=150}}",
+    "pushable": "no",
+    "implemented": "9.40",
+    "loot": [
+        {
+            "amount": "0-25",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Deepling Scales",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "0-3",
+            "itemName": "Fish",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Heavy Trident",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Eye of a Deepling",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Fish Fin",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Small Emerald",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Energy, Poison",
+    "exp": "130",
+    "mitigation": "0.46",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "deepling worker",
+    "illusionable": "no",
+    "armor": "7",
+    "convince": "--",
+    "name": "Deepling Worker",
+    "isboss": "no",
+    "iceDmgMod": "0%",
+    "energyDmgMod": "110%",
+    "deathDmgMod": "100%",
+    "plural": "deepling workers",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "no",
+    "occurrence": "Common",
+    "bestiarytext": "Once members of the lowest castes, these Deeplings mostly work in the mines of the deep. Forging the weapons of their masters and delving deeper and deeper in the ice-cold stone of the deep, they are the backbone of the arising Deepling war machine. Before the great uprising, the tasks of the Deepling Workers consisted of tending to the spawn, raising the Deepling offspring and maintaining a constant supply of food. Members of the lower castes are suppressed by higher ranked Deeplings and forced to labour. This \"constraint\" is not to be taken literally, however, as each member knows its place in society and usually shows contentment with its fate.",
+    "speed": "65",
+    "pushobjects": "no",
+    "fireDmgMod": "0%",
+    "sounds": [
+        "Qjell afar gou jey!"
+    ],
+    "runsat": "red",
+    "bestiaryclass": "Aquatic",
+    "creatureclass": "Amphibians",
+    "earthDmgMod": "110%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Deeplings",
+    "race_id": "795",
+    "bestiarylevel": "Easy",
+    "senseinvis": "yes",
+    "drownDmgMod": "0%",
+    "bestiaryname": "deeplingworker",
+    "location": "[[Fiehonja]] soul net area ({{Mapper Coords|131.24|121.242|14|4|text=here}}), coral mine ({{Mapper Coords|131.31|121.209|14|4|text=here}}).",
+    "strategy": "Just kill it or ignore it."
+}

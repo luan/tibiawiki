@@ -1,0 +1,124 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "Cloaks of Terror are the creatures from [[Furious Crater]] that can trigger [[Goshnar's Taints]]. \n\nIt only drops a [[Bag You Desire]] for players with at least one of [[Goshnar's Taints]]. The more taints you have, the higher the chance. The Bag is always dropped inside a [[Reward Container]] so there's no risk of leaving it behind in the creature's corpse.",
+    "walksthrough": "Fire, Energy, Poison",
+    "hp": "28000",
+    "abilities": "{{Ability List|{{Melee|0-650}}|{{Ability|Spark Ball on itself|1100-1400|energy}}|{{Ability|Energy Strike|1500-1700|energy}}|{{Ability|Energy Ball on itself|destroys [[Magic Wall (Object)|Magic Walls]] and [[Wild Growth (Object)|Wild Growths]]|}}|{{Ability|Shoots [[Spectral Bolt|spectral bolts]]|600-1300|holy}}|{{Ability|Small Holy Ball|900-1100|holy}}}}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "holyDmgMod": "60%",
+    "maxdmg": "{{Max Damage|physical=650|energy=3100|holy=2400}}",
+    "pushable": "no",
+    "implemented": "12.40.9997",
+    "loot": [
+        {
+            "itemName": "Crystal Coin",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-6",
+            "itemName": "Ultimate Health Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Gold Ingot",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Telescope Eye",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Wand of Starstorm",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Violet Gem",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Lightning Headband",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Green Gem",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Blue Gem",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Wand of Inferno",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Wand of Voodoo",
+            "rarity": "semi-rare"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Wand of Defiance",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Crown (Plant)",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Brooch of Embracement",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Bag You Desire",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "None",
+    "exp": "19700",
+    "mitigation": "3.19",
+    "attacktype": "Melee",
+    "history": "On [[Updates/12.60.10468|December 01, 2020]], its experience was decreased from 31,200 to 24,960, and its loot drop rate was decreased in 15%.\n\nIts experience was reduced from 24,960 to 22,400 with the balancing changes on {{OfficialNewsArchive|6086|April 15, 2021}}. Its experience was further reduced to 19,700 with the [[Updates/12.66.10866|changes]] on {{OfficialNewsArchive|6159|June 01, 2021}}.",
+    "article": "a",
+    "actualname": "cloak of terror",
+    "illusionable": "no",
+    "armor": "107",
+    "convince": "--",
+    "name": "Cloak of Terror",
+    "isboss": "no",
+    "iceDmgMod": "100%",
+    "energyDmgMod": "40%",
+    "deathDmgMod": "120%",
+    "plural": "cloaks of terror",
+    "hpDrainDmgMod": "100%",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "The cloaks of terror are the remnants of demons that entered the realm of Zarganash just to be devoured and ripped to pieces by its inhabitants. Their demonic residue slowly remained trapped in the realm and over time mixed and fused with other soul fragments, ultimately forming a new, vile construct that once again roamed Zarganash as mindless force of hunger and destruction. The cloaks are predatory and mostly instinct driven beings that prey exclusively on the living. When no living being is present they roam wide areas in their mostly futile hunt for prey. Eventually they slow down considerably and fall into dormancy after some time. While dormant they meld into the environment and are almost undetectable. Their overall composition makes them an undesirable prey for other denizens of Zarganash and so they can spent their time in dormancy relatively save. How long it takes to let them slip into such a state is widely different and probably dependent on several factors. Yet it seems common that they gather at some spots before going into dormancy. If a living being, in theory a rare occurrence in Zarganash, enters their presence, they wake up almost simultaneously which is a truly terrifying sight. A mass of silent levitating bodies that floats towards their target is enough to shake even the bravest warrior. Even worse though they emit a sound, that only dogs and certain other animals are seemingly able to hear, but that is nonetheless unsettling and even frightening to most humanoid beings. Their life detection has a fair amount of range and is seemingly shared with other cloaks in an area. Whenever one of them is able to sense life, all others will know and act on it. Their waking up is almost immediately and they waste no time before heading towards their prey. They show a great amount of violence and cruelty in their attacks, yet they seem in no way or form to devour any matter or energy of their targets. So it is even more astonishing what draws them to the living specifically and why they attack them with such ferocity. Why a creature in the land of the dead should so heavily specialise on the living is yet another insidious trick that the realm seems to play on intruders. No cloak of terror has yet been unleashed upon the realm of the living. It can be hoped that it's very nature is so heavily bound to Zarganash, that the cloaks are unable to pass the shroud between realms.",
+    "speed": "250",
+    "pushobjects": "yes",
+    "fireDmgMod": "100%",
+    "sounds": [
+        "Power up!",
+        "Shocked to meet you.",
+        "You should be more positive!"
+    ],
+    "runsat": "10",
+    "bestiaryclass": "Plant",
+    "creatureclass": "Elementals",
+    "earthDmgMod": "105%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Bio-Elementals",
+    "spawntype": [
+        "Regular",
+        "Unblockable"
+    ],
+    "race_id": "1928",
+    "bestiarylevel": "Challenging",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%",
+    "bestiaryname": "cloakofterror",
+    "behaviour": "Attacks from close range and moves very fast.",
+    "location": "[[Furious Crater]].",
+    "strategy": "Use as much [[Energy Damage|Energy]] and [[Holy Damage|Holy]] protection as possible. Be very careful when moving around the spawn as one extra creature can be very hard for the team to deal with. As a shooter, always stay far from it so you aren't hit by its area attacks around itself."
+}

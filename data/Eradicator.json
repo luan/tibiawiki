@@ -1,0 +1,174 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "?",
+    "hpDrainDmgMod": "100%?",
+    "notes": "One of the bosses in the [[Heart of Destruction Quest]].",
+    "walksthrough": "Fire, Energy, Poison",
+    "hp": "290000",
+    "speed": "?",
+    "abilities": "{{Ability List| {{Melee|300-1800}}|{{Ability|[[Great Energy Wave]]|0-?|element=energy}}|{{Ability|[[Great Energy Beam]]|0-?|element=energy}} }}",
+    "pushobjects": "yes",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "secondarytype": "Electro-Elementals",
+    "fireDmgMod": "50%",
+    "holyDmgMod": "50%?",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "?",
+    "pushable": "no",
+    "runsat": "0",
+    "implemented": "10.94",
+    "cooldown": "20",
+    "loot": [
+        {
+            "amount": "100",
+            "itemName": "Gold Coin"
+        },
+        {
+            "itemName": "Yellow Gem"
+        },
+        {
+            "amount": "10",
+            "itemName": "Small Amethyst"
+        },
+        {
+            "itemName": "Crystal Mace"
+        },
+        {
+            "itemName": "Collar of Red Plasma"
+        },
+        {
+            "itemName": "Spark Sphere"
+        },
+        {
+            "itemName": "Plasmatic Lightning"
+        },
+        {
+            "amount": "3",
+            "itemName": "Green Crystal Shard"
+        },
+        {
+            "amount": "3",
+            "itemName": "Violet Crystal Shard"
+        },
+        {
+            "amount": "4",
+            "itemName": "Gold Token",
+            "rarity": "always"
+        },
+        {
+            "itemName": "Mysterious Remains"
+        },
+        {
+            "itemName": "Tiara of Power"
+        },
+        {
+            "itemName": "Void Boots"
+        },
+        {
+            "itemName": "Spellbook of Warding"
+        },
+        {
+            "itemName": "Platinum Coin"
+        },
+        {
+            "itemName": "Blue Crystal Shard"
+        },
+        {
+            "itemName": "Small Ruby"
+        },
+        {
+            "itemName": "Small Emerald"
+        },
+        {
+            "itemName": "Ultimate Health Potion"
+        },
+        {
+            "itemName": "Giant Shimmering Pearl"
+        },
+        {
+            "itemName": "Spellbook of Lost Souls"
+        },
+        {
+            "itemName": "Small Topaz"
+        },
+        {
+            "itemName": "Ring of Blue Plasma"
+        },
+        {
+            "itemName": "Small Diamond"
+        },
+        {
+            "itemName": "Violet Gem"
+        },
+        {
+            "itemName": "Ring of Red Plasma"
+        },
+        {
+            "itemName": "Red Gem"
+        },
+        {
+            "itemName": "Great Mana Potion"
+        },
+        {
+            "itemName": "Collar of Blue Plasma"
+        },
+        {
+            "itemName": "Energy Bar"
+        },
+        {
+            "itemName": "Ring of Green Plasma"
+        },
+        {
+            "itemName": "Great Spirit Potion"
+        },
+        {
+            "itemName": "Blue Gem"
+        },
+        {
+            "itemName": "Green Gem"
+        },
+        {
+            "itemName": "Collar of Green Plasma"
+        },
+        {
+            "itemName": "Amber Staff"
+        },
+        {
+            "itemName": "Steel Boots"
+        },
+        {
+            "itemName": "Crystalline Armor"
+        },
+        {
+            "itemName": "Vile Axe"
+        },
+        {
+            "itemName": "Onyx Flail"
+        }
+    ],
+    "walksaround": "none",
+    "exp": "50000",
+    "creatureclass": "Invertebrates",
+    "earthDmgMod": "50%",
+    "physicalDmgMod": "50%?",
+    "bosstiaryclass": "Archfoe",
+    "primarytype": "Cnidarians",
+    "race_id": "1226",
+    "senseinvis": "yes",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Eradicator",
+    "isboss": "yes",
+    "behaviour": "Transforms into a more vulnerable form after certain period of time (1 minute- 1.5 minutes) along with summoning 4 [[Spark of Destruction]].",
+    "location": "[[Otherworld]], {{Mapper Coords|126.52|122.57|14|2|text=here}}.",
+    "iceDmgMod": "50%?",
+    "strategy": "Just attack the boss using [[Death Damage]] as much as possible since its stronger to all other elements. During the fight it will constantly change forms and 4 [[Spark of Destruction|Sparks of Destruction]] will spawn, requiring the team to retarget the boss and mind the summons. \n\nIf the team decides to trap the boss on the northern part of the room, extra care should be taken when leaving because the Sparks will accumulate and may be very dangerous.",
+    "energyDmgMod": "50%",
+    "deathDmgMod": "100%"
+}

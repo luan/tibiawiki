@@ -1,0 +1,117 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "Unknown.",
+    "walksthrough": "Fire, Energy, Poison",
+    "hp": "26000",
+    "abilities": "{{Ability List|}}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "holyDmgMod": "100%",
+    "maxdmg": "?",
+    "pushable": "no",
+    "implemented": "12.40.9997",
+    "loot": [
+        {
+            "itemName": "Crystal Coin",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-5",
+            "itemName": "Great Spirit Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Violet Gem",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Spellbook of Warding",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Underworld Rod",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Springsprout Rod",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Gold Ingot",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Glacial Rod",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Ring of Blue Plasma",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Ring of Green Plasma",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Ring of Red Plasma",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Distorted Heart",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Distorted Robe",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Bag You Desire",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "None",
+    "exp": "18870",
+    "mitigation": "2.45",
+    "attacktype": "Distance",
+    "history": "Its experience was reduced from 28,600 to 21,450 and its loot in 16% with the balancing changes on {{OfficialNewsArchive|6086|April 15, 2021}}. Its experience was further reduced to 18,870 with the [[Updates/12.66.10866|changes]] on {{OfficialNewsArchive|6159|June 01, 2021}}.",
+    "article": "a",
+    "actualname": "distorted phantom",
+    "illusionable": "no",
+    "armor": "100",
+    "convince": "--",
+    "name": "Distorted Phantom",
+    "isboss": "no",
+    "iceDmgMod": "100%",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "100%",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "Zarganash's hostile environment gave birth to an own breed of phantoms that differs depending on the hazards that help to form them from the tormented souls they once were into a phantom denizen of Zarganash. The most desperate and self-loathing souls eventually emerge as distorted phantoms. Unstable and unhinged even for the standards of Zarganash, the distorted phantom is on a futile quest to end its own existence. By angry attacks it tries to provoke to be killed. The harder the resistance they are met with, the higher are its hopes of destruction and the more furious their attacks become. They drive themselves into a frenzy and ceaselessly continue to attack without any regard for their own protection. In the end, even if destroyed, the distorted phantom is soon reformed at another place of Zarganash, to embark on its endless mission of self-destruction once again. Ironically the inner conflicts are what keeps the distorted phantom in existence and from slipping into oblivion. Only by resolving such conflicts the phantom would have a chance to find inner peace and a final rest. This though is due to its nature and the laws of Zarganash almost and impossible feat. Without any help the phantoms will never be able to overcome the conflict and since they attack anything, seeking only self-destruction such help is beyond their reach. Some of the wiser and enlightened soul that try to heal and mend the scars of Zarganash target the distorted phantoms first in their mission of salvation. But even those would be saviours risk their existence and are attacked without mercy. If unprepared adequately most of them even risk to succumb to their own despair and rather join the ranks of the distorted phantoms. Due to their self-destructive nature the distorted phantom are drawn to all kinds of natural hazards of Zarganash. so a frequent sighting of distorted phantoms is usually a sign that an area is unsafe or a disaster is about to happen.",
+    "speed": "240",
+    "pushobjects": "yes",
+    "fireDmgMod": "100%",
+    "sounds": [
+        "I'm not here. I am there.",
+        "The night is coming for you.",
+        "Too late... No turning back now."
+    ],
+    "runsat": "0",
+    "bestiaryclass": "Undead",
+    "creatureclass": "The Undead",
+    "earthDmgMod": "50%",
+    "physicalDmgMod": "110%",
+    "primarytype": "Ghosts",
+    "spawntype": [
+        "Regular"
+    ],
+    "race_id": "1962",
+    "bestiarylevel": "Challenging",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "distortedphantom",
+    "behaviour": "Attacks from distance.",
+    "location": "[[Mirrored Nightmare]].",
+    "strategy": "Unknown."
+}

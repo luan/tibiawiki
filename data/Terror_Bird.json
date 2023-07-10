@@ -1,0 +1,87 @@
+{
+    "summon": "490",
+    "templateType": "Creature",
+    "notes": "They are faster but a bit weaker than a [[Cyclops]]. These creatures will kill other monsters and move objects to get to you. They can be tamed to a [[mount]] ([[Racing Bird]]) by using a [[Carrot on a Stick|carrot on a stick]].",
+    "walksthrough": "None",
+    "hp": "300",
+    "abilities": "{{Ability List|{{Melee|0-90}}}}",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "holyDmgMod": "100%",
+    "maxdmg": "{{Max Damage|physical=90}}",
+    "pushable": "?",
+    "usedelements": "Physical",
+    "implemented": "7.5",
+    "loot": [
+        {
+            "amount": "0-30",
+            "itemName": "Gold Coin"
+        },
+        {
+            "amount": "0-3",
+            "itemName": "Meat"
+        },
+        {
+            "itemName": "Terrorbird Beak"
+        },
+        {
+            "itemName": "Worm"
+        },
+        {
+            "itemName": "Colourful Feather",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Health Potion",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Seeds",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Feather Headdress",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Fire, Energy, Poison",
+    "exp": "150",
+    "mitigation": "0.54",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "terror bird",
+    "illusionable": "yes",
+    "armor": "13",
+    "convince": "490",
+    "name": "Terror Bird",
+    "isboss": "no",
+    "iceDmgMod": "80%",
+    "energyDmgMod": "80%",
+    "deathDmgMod": "105%",
+    "plural": "terror birds",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "no",
+    "occurrence": "Common",
+    "bestiarytext": "The ferocious Terror Bird is a terrifying hunter that usually lives in less dense areas of the jungle. Unlike other birds, it is a huge carnivorous animal that cannot even fly. Sages have already wondered if such an unusual creature can be natural or if it rather has its source in evil wizardry. On the other hand, nests of Terror Birds have been found, so this theory does not seem to be very likely. Be that as it may, the name of this feared hunter is more than justified. The aggressive bird attacks everything that comes in its sight with rage that does indeed inspire fear and dread. The carnivorous Terror Bird seems to regard everything as its rightful prey and its sharp beak often proves it right. Its inability to fly is made up by strong muscular legs that allow the bird to run at an astonishing speed and that serve also well as additional weapons.",
+    "speed": "106",
+    "pushobjects": "?",
+    "fireDmgMod": "110%",
+    "sounds": [
+        "Carrah! Carrah!",
+        "Gruuuh Gruuuh.",
+        "CRAAAHHH!"
+    ],
+    "bestiaryclass": "Bird",
+    "creatureclass": "Misc",
+    "earthDmgMod": "110%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Birds",
+    "race_id": "218",
+    "bestiarylevel": "Easy",
+    "senseinvis": "no",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "terrorbird",
+    "behaviour": "Terror birds move quickly toward their target and do not flee when wounded.",
+    "location": "Around [[Port Hope]], [[Arena and Zoo Quarter]] in [[Yalahar]], few on [[Zao]] steppes.",
+    "strategy": "A knight with decent skills can melee them.  Other vocations should run and shoot them, avoiding contact."
+}

@@ -1,0 +1,48 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "spawns of the Welter",
+    "hpDrainDmgMod": "0%?",
+    "notes": "They are [[Egg (Creature)|Eggs]] which are not killed quickly enough. They are slightly weaker than a [[Hydra]].",
+    "walksthrough": "?",
+    "hp": "?",
+    "speed": "?",
+    "abilities": "{{Ability List| {{Ability|[[Mass Healing]] on nearby creatures|element=healing}} }}",
+    "pushobjects": "yes",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "100%?",
+    "holyDmgMod": "70%?",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "?",
+    "pushable": "no",
+    "implemented": "10.20",
+    "loot": [
+        {
+            "itemName": "Ham"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "?",
+    "creatureclass": "Reptiles",
+    "earthDmgMod": "0%?",
+    "physicalDmgMod": "105%?",
+    "primarytype": "Hydras",
+    "senseinvis": "?",
+    "article": "a",
+    "actualname": "spawn of the welter",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Spawn of the Welter",
+    "isboss": "no",
+    "behaviour": "Unknown.",
+    "location": "When summoned, in [[Hydra Mountain]] large spawn, {{Mapper Coords|129.2|127.139|5|2|text=here}}.",
+    "iceDmgMod": "50%?",
+    "strategy": "Kill them quickly, or they will heal [[The Welter]].",
+    "energyDmgMod": "110%?",
+    "deathDmgMod": "100%?"
+}

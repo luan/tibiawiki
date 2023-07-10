@@ -1,0 +1,138 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "walksthrough": "?",
+    "hp": "2400",
+    "abilities": "{{Ability List|{{Melee|0-150+}}|{{Ability|Throws [[Glooth Spear|glooth spears]]|0-177+}}|{{Ability|Distance Life Drain|0-185|lifedrain}}|{{Healing|range=0-82+}}|{{Summon|Glooth Blob|2}}}}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "holyDmgMod": "100%",
+    "maxdmg": "{{Max Damage|physical=327+|lifedrain=185|summons=880}}",
+    "pushable": "no",
+    "implemented": "10.50",
+    "loot": [
+        {
+            "amount": "1-175",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "Platinum Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Slimy Leaf Tentacle",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Bowl of Glooth Soup",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-4",
+            "itemName": "Small Topaz",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-4",
+            "itemName": "Small Emerald",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-4",
+            "itemName": "Small Ruby",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Strong Mana Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Strong Health Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Glooth Whip",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Green Mushroom",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Ultimate Health Potion",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Glooth Axe",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Glooth Amulet",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Glooth Club",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Glooth Spear",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Glooth Blade",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Glooth Cape",
+            "rarity": "rare"
+        }
+    ],
+    "walksaround": "Fire",
+    "exp": "1755",
+    "mitigation": "1.02",
+    "attacktype": "Melee",
+    "history": "Its experience was decreased from 1800 to 1404 on the first batch of changes of [[Updates/12.31|Update 12.31]]. It was later increased to 1755 on the fifth batch of changes.",
+    "article": "a",
+    "actualname": "glooth anemone",
+    "illusionable": "no",
+    "armor": "42",
+    "convince": "--",
+    "name": "Glooth Anemone",
+    "isboss": "no",
+    "iceDmgMod": "100%",
+    "energyDmgMod": "90%",
+    "deathDmgMod": "65%",
+    "plural": "glooth anemones",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "The glooth anemone is a strange plant creature that is considered a parasite. The thing is, that this parasite is actually by far bigger then it's hosts. The glooth anemone mimics the harmless plant, also known as glooth anemone. The latter is a major food source and habitat for the gloothworms which are essential for Rathleton's economy. The glooth anemone creature in able to deceive the gloothworms into accepting it as a host and then devours the glooth that their produce. Not does it devour more glooth then the tiny worms can spare without perishing, the glooth anemone also somehow forces the gloothworms to produce excessive amounts of glooth, which often drains them to death even before they can die through glooth starvation. Due to this destructive nature the glooth anemone had to cope with the extermination of it food source that it causes in it's own. The glooth anemone copes with that problem by being mobile. Their mobility has brought up speculations that it's rather a creature, posing as lant then a creature that evolved from the harmless and docile glooth anemone to a predatory parasite. While in the past the glooth anemone was a minor nuisance, the glooth-production and domestication of gloothworms multiplied it's food sources almost over night. This lead to an alarming increase of the glooth anemone population and they became a threat for Rathleton. Several extermination campaigns, more started to protect the glooth then the population, helped to keep the glooth anemone population somewhat at bay, but recently it was discovered that glooth anemones have adapted to other glooth sources like the spoiled glooth that often is flushed into the sewers but they also capable of digesting glooth products over time. This means that the glooth anemone can be encountered almost everywhere which in addition to their mimicry makes dedicated hunts on them extremely difficult. When not posing as a harmless plant the glooth anemone is extremely protective of its food sources. It is known that glooth anemones are able to absorb organic material like flesh too but it's entirely unknown if that could sustain the creature in the absence of glooth.",
+    "speed": "90",
+    "pushobjects": "yes",
+    "fireDmgMod": "105%",
+    "sounds": [
+        "*shglib*"
+    ],
+    "runsat": "0",
+    "bestiaryclass": "Plant",
+    "creatureclass": "Elementals",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Bio-Elementals",
+    "spawntype": [
+        "Regular",
+        "Triggered",
+        "Unblockable"
+    ],
+    "race_id": "1042",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "gloothanemone",
+    "location": "[[Rathleton Sewers]], [[Underground Glooth Factory]], [[Jaccus Maxxen's Dungeon]]",
+    "strategy": "Unknown."
+}

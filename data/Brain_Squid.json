@@ -1,0 +1,172 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "walksthrough": "Energy, Fire, Poison",
+    "hp": "18000",
+    "abilities": "{{Ability List|}}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "holyDmgMod": "0%",
+    "maxdmg": "?",
+    "pushable": "?",
+    "implemented": "11.80.7048",
+    "loot": [
+        {
+            "amount": "1-4",
+            "itemName": "Violet Crystal Shard",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-20",
+            "itemName": "Platinum Coin",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-4",
+            "itemName": "Glowing Rune",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Instable Proto Matter",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Energy Ball",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Energy Bar",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Energy Drink",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Odd Organ",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Frozen Lightning",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Inkwell (Black)",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-6",
+            "itemName": "Small Ruby",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Blue Crystal Splinter",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Ultimate Mana Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Violet Gem",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Cyan Crystal Fragment",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Piece of Dead Brain",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Wand of Defiance",
+            "rarity": "semi-rare"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Lightning Headband",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Lightning Pendant",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Might Ring",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Slime Heart",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Collar of Red Plasma",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Collar of Blue Plasma",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Ring of Red Plasma",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Ring of Blue Plasma",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Ring of Green Plasma",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Collar of Green Plasma",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Spellweaver's Robe",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "17672",
+    "mitigation": "2.16",
+    "attacktype": "Melee",
+    "history": "Its experience was decreased from 21,000 to 17,850 with the first batch of changes of [[Updates/12.31|Update 12.31]]. It was later increased to 19,635 with the seventh batch of changes. Then, it was decreased again to 17,672 with [[Updates/12.50.10135|Update 12.50.10135]].",
+    "article": "a",
+    "actualname": "brain squid",
+    "illusionable": "no",
+    "armor": "78",
+    "convince": "--",
+    "name": "Brain Squid",
+    "isboss": "no",
+    "iceDmgMod": "100%",
+    "energyDmgMod": "0%",
+    "deathDmgMod": "115%",
+    "plural": "brain squids",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "The brain squids are one of the upper castes of the squid race. Since they are also the most often encountered outside of their home territory, the whole telepathic race has often mistakenly been coined as brain squids. Their purpose is to form a telepathic network that processes information and commands for others of their race. The exchange between individuals intensifies due to proximity and if enough brain squids are close enough to each other, they become a collective entity that overrides each individual. The thoughts of other, 'lesser' members of their species in the vicinity are shut down and they only function as mere extensions and tools of the collective. With the help of the luminous squid cast, they are even able to control the minds of weak willed individuals of other species and make them do their bidding. Like others of their race, they follow the teaching of Zathroth in their own, twisted ways and can sometimes be found amongst other followers of their god. Whether they serve as spies, watchmen or advisors is hard to tell. It is them who create the extreme breeding programmes of their species. If the need arises they come up with a new caste to fit into any new position and initiate the breeding processes that might require much time and many generations to come to pass. This makes the race as a whole somewhat inflexible and dependent on allies. Their inbreed disdain for other races that follow no breeding procedures at all makes it hard for them to find any allies. This lead to their sorcerer class to form pacts with demons and heavy reliance on the assistance by the cult of Zathroth. In turn they provide the cult with capable overseers and fighters, when the need arises and it is said that if that is the case, there is secret breed at their disposal which could prove devastating to their opponents or enemies of Zathroth.",
+    "speed": "215",
+    "pushobjects": "?",
+    "fireDmgMod": "100%",
+    "sounds": [
+        "tzzzz tzzzzz tzzzzz",
+        "tzuuuumme tzuuummmmee"
+    ],
+    "runsat": "0",
+    "bestiaryclass": "Magical",
+    "creatureclass": "Invertebrates",
+    "earthDmgMod": "100%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Mollusks",
+    "race_id": "1653",
+    "bestiarylevel": "Hard",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "brainsquid",
+    "location": "[[Secret Library]] energy section.",
+    "strategy": "Unknown."
+}

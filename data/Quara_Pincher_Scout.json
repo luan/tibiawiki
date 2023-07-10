@@ -1,0 +1,88 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "It has very strong defense against physical attacks, but they are very slow. It has half the hit points and yields half the experience of the regular [[Quara Pincher]]. This monster can be seen during [[Liberty Bay]] Quara raids. \n{{JSpoiler|You may hunt 400 [[Quara Constrictor Scout]]s, [[Quara Hydromancer Scout]]s, [[Quara Mantassin Scout]]s, Quara Pincher Scouts and [[Quara Predator Scout]]s combined as a task of the [[Killing in the Name of... Quest]].}}",
+    "walksthrough": "Fire",
+    "hp": "775",
+    "abilities": "{{Ability List|{{Melee|0-240}}|{{Ability|Close Range Paralyze||slowed}}}}",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "holyDmgMod": "100%",
+    "maxdmg": "{{Max Damage|physical=240}}",
+    "pushable": "?",
+    "implemented": "7.8",
+    "loot": [
+        {
+            "amount": "0-143",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Quara Pincers",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "Small Ruby",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Halberd",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Plate Armor",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Life Crystal",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Fish Fin",
+            "rarity": "rare"
+        }
+    ],
+    "walksaround": "Energy, Poison",
+    "exp": "600",
+    "mitigation": "0.91",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "quara pincher scout",
+    "illusionable": "no",
+    "armor": "70",
+    "convince": "--",
+    "name": "Quara Pincher Scout",
+    "isboss": "no",
+    "iceDmgMod": "0%",
+    "energyDmgMod": "110%",
+    "deathDmgMod": "100%",
+    "plural": "quara pincher scouts",
+    "hpDrainDmgMod": "0%",
+    "usespells": "yes",
+    "lightcolor": "35",
+    "occurrence": "Common",
+    "bestiarytext": "The Quara Pincher Scout is a weaker version of [[Quara Pincher]]s.",
+    "speed": "78",
+    "pushobjects": "?",
+    "fireDmgMod": "0%",
+    "sounds": [
+        "Clank! Clank!",
+        "Clap!",
+        "Crrrk! Crrrk!"
+    ],
+    "lightradius": "2",
+    "bestiaryclass": "Aquatic",
+    "creatureclass": "Amphibians",
+    "earthDmgMod": "110%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Quara",
+    "race_id": "246",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "drownDmgMod": "0%",
+    "bestiaryname": "quarapincherscout",
+    "behaviour": "Chases the opponent until death.",
+    "location": "[[Malada]], [[Hrodmir Quara Scout Caves]], [[Quara Grotto]], [[Oramond]].",
+    "strategy": "'''[[Paladin]]s''': Run around and shoot spells or runes to kill them fast.<br />\n'''[[Mage]]s''': Use [[energy strike]] or runes.<br />\n'''[[Knight]]s''': Their armor and defense is high, the highest among all quara scouts. You'll need a good weapon and high skills to even hurt them. They also deal high damage (in relation to other quara scouts)."
+}

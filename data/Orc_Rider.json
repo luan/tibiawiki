@@ -1,0 +1,96 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "These mounted orcs are strong but can be tricked with [[Invisibility]]. They don't drop [[Wolf Paw]]s. [[Orcish Axe]]s can be looted easily and sold for a good price to [[NPCs]].<br />{{JSpoiler|Orc Riders also drop [[Orc Tusk]]s during raids of the [[Machinery of War Quest]].}}",
+    "walksthrough": "None.",
+    "hp": "180",
+    "abilities": "{{Ability List\n |{{Melee|0-130}}\n |{{Haste}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "holyDmgMod": "90%",
+    "maxdmg": "130",
+    "pushable": "No",
+    "implemented": "7.0",
+    "loot": [
+        {
+            "amount": "0-81",
+            "itemName": "Gold Coin"
+        },
+        {
+            "amount": "0-3",
+            "itemName": "Meat"
+        },
+        {
+            "itemName": "Orc Leather"
+        },
+        {
+            "itemName": "Orcish Axe"
+        },
+        {
+            "itemName": "Warwolf Fur"
+        },
+        {
+            "itemName": "Wolf Tooth Chain"
+        },
+        {
+            "itemName": "Orc Tooth",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Battle Shield",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Obsidian Lance",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Scale Armor",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Torch",
+            "rarity": "rare"
+        }
+    ],
+    "walksaround": "Fire, Energy, Poison",
+    "exp": "110",
+    "mitigation": "0.51",
+    "attacktype": "Melee",
+    "history": "Although the sprites for orc rider were implemented on [[Updates/7.0|Update 7.0]], the first known spawns of this creature were probably only implemented with the [[Ulderek's Rock]] revamp on [[Updates/7.2|Update 7.2]].",
+    "article": "an",
+    "actualname": "orc rider",
+    "illusionable": "no",
+    "armor": "9",
+    "convince": "490",
+    "name": "Orc Rider",
+    "isboss": "no",
+    "iceDmgMod": "100%",
+    "energyDmgMod": "80%",
+    "deathDmgMod": "110%",
+    "plural": "orc riders",
+    "hpDrainDmgMod": "100%",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "Orc Riders are orcish elite troops mounted on grim war wolves. Their fearsome steeds make them fast and agile while their heavy lances can deal impressive damage. Orc Rider patrols can mostly be found in the plains of Tibia where the terrain is ideal for mounted combat. It is very difficult to run away from a pack of Orc Riders once you have had the misfortune to meet them.",
+    "speed": "130",
+    "pushobjects": "Yes",
+    "fireDmgMod": "100%",
+    "sounds": [
+        "Orc arga Huummmak!",
+        "Grrrrrrr"
+    ],
+    "bestiaryclass": "Humanoid",
+    "creatureclass": "Humanoids",
+    "earthDmgMod": "110%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Orcs",
+    "race_id": "4",
+    "bestiarylevel": "Easy",
+    "senseinvis": "no",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "orcrider",
+    "behaviour": "Orc Riders fight to the death.",
+    "location": "[[Orc Fort]], [[Orc Peninsula]], near [[Dark Cathedral]], [[Zao Orc Land]].",
+    "strategy": "If you are a [[Mage]], use [[Invisible]] and [[runes]], [[Stoneshower]] or [[GFB]] are useful because Orc Riders are usually found in groups. Premium mages should try to use [[Terra Strike]] to minimise waste."
+}

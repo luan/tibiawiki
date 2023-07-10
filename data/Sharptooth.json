@@ -1,0 +1,55 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "It hits very hard so take care (its melee is stronger than a [[Behemoth]]).",
+    "walksthrough": "Energy, Fire, Poison",
+    "hp": "3100",
+    "lightcolor": "35",
+    "speed": "?",
+    "abilities": "{{Ability List|{{Melee|0-500}}|{{Healing|range=50-100}}|{{Haste}}}}",
+    "pushobjects": "yes",
+    "healMod": "100%?",
+    "paraimmune": "no",
+    "fireDmgMod": "0%",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        "Gnarrr!",
+        "Tcharrr!",
+        "Rrrah!",
+        "Rraaar!"
+    ],
+    "maxdmg": "{{Max Damage|physical=500}}",
+    "pushable": "no",
+    "lightradius": "2",
+    "implemented": "8.40",
+    "loot": [
+        {
+            "amount": "0-13",
+            "itemName": "Gold Coin"
+        },
+        {
+            "itemName": "Fishbone"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "1600",
+    "creatureclass": "Amphibians",
+    "earthDmgMod": "20%?",
+    "physicalDmgMod": "100%?",
+    "primarytype": "Quara",
+    "race_id": "491",
+    "senseinvis": "yes",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "0%",
+    "convince": "--",
+    "name": "Sharptooth",
+    "isboss": "yes",
+    "behaviour": "Acts like a normal [[Quara Predator]]; It also retargets often.",
+    "location": "At [[Yalahar]], [[Sunken Quarter]]. When entering the [[Sunken Quarter]] step down from the underwater hill and head to north-east, there you should find stairs which takes you down to the boss. The boss is behind a sealed door, so make sure you have the access to that room.",
+    "iceDmgMod": "100%?",
+    "strategy": "A strong knight should block, and a 'sioer' to heal the knight (and other questers), and whoever needs to do the quest deal the damage. Party buffs are helpful. All a Sharptooth uses is melee, so it is not required to stay diagonal. For people with no blocker is good to shoot from the door and go out to heal and repeat.",
+    "energyDmgMod": "105%?",
+    "deathDmgMod": "100%?"
+}

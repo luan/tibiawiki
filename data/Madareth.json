@@ -1,0 +1,191 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "'''Madareth''' has dedicated his life to battle. Bred by [[The Ruthless Seven]] as one of their greatest warlords, '''Madareth''' has endured a painful and torturing training. Instead of creating a brilliant leader, though, they gave birth to a savage killing machine that constantly tries to improve his skills by challenging other demonic minions. Even if '''Madareth''' only uses a fraction of his skills, the usual outcome of such fights is a stack of [[Juggernaut]]s and demons hacked to pieces. It is rumoured that he even defeated the mighty [[Orshabaal]]. His only weakness might be the single-mindedness with which he pursues the destruction of his victims. In his lust for battle, he often forgets his surrounding and lives only for the moment of his next strike. Though '''Madareth''' loves playing cat and mouse with his victims, he quickly loses all finesse and fully indulges in his blood lust. It is unknown how such a beast is kept in check by [[The Ruthless Seven]].\n\n{{JSpoiler|It's one of the bosses of [[The Inquisition Quest]].}}",
+    "walksthrough": "?",
+    "hp": "75000",
+    "speed": "165",
+    "abilities": "{{Ability List\n |{{Melee|0-2000}}\n |{{Ability|Energy Ball|180-695|element=energy\n  |scene={{Scene|spell=2sqmballtarget|caster=Madareth|effect=Blue Electricity Effect|damage_effect=None|missile=Energy Ball Missile|missile_direction=south-east|missile_distance=2/2}}}}\n |{{Ability|Death Beam|600-850|element=death\n  |scene={{Scene|spell=8sqmbeam|caster=Madareth|look_direction=east|effect=Death Effect|damage_effect=Unknown}}}}\n |{{Debuff2|Smoke Wave|distance=yes|value=60%-75%|duration=20\n  |scene={{Scene|spell=10sqmwavewide|caster=Madareth|look_direction=east|effect=Poof Effect|damage_effect=None}}}}\n |{{Ability|Small Mana Drain Ball|0-200|element=manadrain\n  |scene={{Scene|spell=2sqmballtarget|caster=Madareth|effect=Red Sparkles Effect|damage_effect=None}}}}\n |{{Ability|Great Mana Drain Ball|0-250 Not often|element=manadrain}}\n |{{Ability|Paralyze|reduces speed by 770 points|slowed\n  |scene={{Scene|spell=3sqmstrike|caster=Madareth|look_direction=south|effect=Green Sparkles Effect}}}}\n |{{Healing|range=253-305\n  |scene={{Scene|spell=buffspell|caster=Madareth|look_direction=south|effect=Blue Sparkles Effect|effect_on_caster=yes}}}}\n}}",
+    "pushobjects": "Yes",
+    "healMod": "100%?",
+    "paraimmune": "yes",
+    "secondarytype": "Archdemons",
+    "fireDmgMod": "101%>?",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        "I am going to play with yourself!",
+        "Feel my wrath!",
+        "No one matches my battle prowess!",
+        "You will all die!"
+    ],
+    "maxdmg": "3000+",
+    "pushable": "No",
+    "runsat": "1000",
+    "implemented": "8.20",
+    "loot": [
+        {
+            "amount": "0-150",
+            "itemName": "Gold Coin"
+        },
+        {
+            "amount": "0-30",
+            "itemName": "Platinum Coin"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "Demon Horn"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "Small Diamond"
+        },
+        {
+            "itemName": "Demonic Essence"
+        },
+        {
+            "itemName": "Slightly Rusted Armor"
+        },
+        {
+            "itemName": "Slightly Rusted Legs"
+        },
+        {
+            "itemName": "Mastermind Potion"
+        },
+        {
+            "itemName": "Berserk Potion"
+        },
+        {
+            "itemName": "Bullseye Potion"
+        },
+        {
+            "itemName": "Axe Ring"
+        },
+        {
+            "itemName": "Death Ring"
+        },
+        {
+            "itemName": "Sword Ring"
+        },
+        {
+            "itemName": "Club Ring"
+        },
+        {
+            "itemName": "Dwarven Ring"
+        },
+        {
+            "itemName": "Life Ring"
+        },
+        {
+            "itemName": "Ring of Healing"
+        },
+        {
+            "itemName": "Ultimate Health Potion"
+        },
+        {
+            "itemName": "Great Mana Potion"
+        },
+        {
+            "itemName": "Great Health Potion"
+        },
+        {
+            "itemName": "Great Spirit Potion"
+        },
+        {
+            "itemName": "Time Ring"
+        },
+        {
+            "itemName": "Wand of Inferno"
+        },
+        {
+            "itemName": "Wand of Starstorm"
+        },
+        {
+            "itemName": "Wand of Voodoo"
+        },
+        {
+            "itemName": "Underworld Rod"
+        },
+        {
+            "itemName": "Hailstorm Rod"
+        },
+        {
+            "itemName": "Springsprout Rod"
+        },
+        {
+            "itemName": "Lyre"
+        },
+        {
+            "itemName": "Magic Light Wand"
+        },
+        {
+            "itemName": "Wooden Flute"
+        },
+        {
+            "itemName": "Lute"
+        },
+        {
+            "itemName": "War Drum"
+        },
+        {
+            "itemName": "War Horn"
+        },
+        {
+            "itemName": "Didgeridoo"
+        },
+        {
+            "itemName": "Bloody Edge"
+        },
+        {
+            "itemName": "Crystal Sword"
+        },
+        {
+            "itemName": "Mercenary Sword"
+        },
+        {
+            "itemName": "Relic Sword"
+        },
+        {
+            "itemName": "Assassin Dagger"
+        },
+        {
+            "itemName": "Nightmare Blade"
+        },
+        {
+            "itemName": "Haunted Blade"
+        },
+        {
+            "itemName": "Two Handed Sword"
+        },
+        {
+            "itemName": "Ice Rapier"
+        },
+        {
+            "itemName": "Boots of Haste"
+        },
+        {
+            "itemName": "Demon Helmet"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "10000",
+    "creatureclass": "Demons",
+    "earthDmgMod": "100%?",
+    "physicalDmgMod": "100%?",
+    "bosstiaryclass": "Bane",
+    "primarytype": "The Ruthless Seven Minions",
+    "attacktype": "Melee",
+    "race_id": "414",
+    "senseinvis": "yes",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Madareth",
+    "isboss": "Yes",
+    "location": "Teleporter after [[The Inquisition Quest|The Foundry]].",
+    "iceDmgMod": "99%<?",
+    "strategy": "[[Image:Madareth.jpg|thumb|an example how to trap '''Madareth''']] You need two blockers with [[Level]] 200 or higher, two healers and more than 5 shooters. '''Madareth''''s Ward contains [[Shredderthrower]]s and a [[Paralyze|Paralyzing]] Pillar in the middle. Trap him in a corner using the geography of the area and the blockers - ready to heal themselves and [[Challenge]], because '''Madareth''' often retargets - while [[Mage]]s [[summon]] [[Fire Devil]]s to attack with [[Fire Damage|Fire-Based Attacks]]. NOTE that it's POSSIBLE to solo this creature with a [[Paladin]] wearing [[Assassin Star]]s and [[Ethereal Spear]], with good skills and around level 250+. Be careful though, if he will get to you, you may take a nice combo so keep distance at all costs.",
+    "energyDmgMod": "1%",
+    "deathDmgMod": "5%?"
+}

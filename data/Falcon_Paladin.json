@@ -1,0 +1,137 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "isarenaboss": "no",
+    "walksthrough": "Fire, Energy, Poison",
+    "hp": "8500",
+    "abilities": "{{Ability List\n |{{Melee|0-250}}\n |{{Ability|[[Royal Spear]]|400-550|element=physical\n  |scene={{Scene|spell=7sqmstrike|background=canvas|caster=Falcon Paladin|look_direction=south|missile=Royal Spear Missile|missile_direction=south-east|missile_distance=7/7|effect=None}}}}\n |{{Ability|[[Bolt]]|200-500|element=physical\n  |scene={{Scene|spell=7sqmstrike|background=canvas|caster=Falcon Paladin|look_direction=south|missile=Bolt Missile|missile_direction=south-east|missile_distance=7/7|effect=None}}}}\n |{{Ability|Energy Burst Power Bolt|350-530|element=energy\n  |scene={{Scene|spell=1sqmballtarget|caster=Falcon Paladin|look_direction=south|effect=Energy Effect|missile=Power Bolt Missile|missile_direction=south-east|missile_distance=2/2}}}}\n |{{Ability|Energy Beam|250-350|element=energy\n  |scene={{Scene|spell=4sqmbeam|effect=Blue Electricity Effect|caster=Falcon Paladin|look_direction=east}}}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "holyDmgMod": "110%",
+    "maxdmg": "1200+",
+    "pushable": "no",
+    "implemented": "11.80.7048",
+    "loot": [
+        {
+            "amount": "1-6",
+            "itemName": "Platinum Coin",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Small Emerald",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Small Amethyst",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Small Diamond",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Great Spirit Potion",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-10",
+            "itemName": "Assassin Star",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "Small Ruby",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "Small Topaz",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-15",
+            "itemName": "Onyx Arrow",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Violet Gem",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Red Gem",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Green Gem",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Giant Shimmering Pearl (Green)",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Damaged Armor Plates",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Falcon Crest",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Golden Armor",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Mastermind Shield",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "6544",
+    "mitigation": "2.31",
+    "attacktype": "Melee",
+    "history": "Its experience was decreased from 8200 to 4920 with the fourth batch of changes of [[Updates/12.31|Update 12.31]]. It was later increased to 6544 with the seventh batch of changes.",
+    "article": "a",
+    "actualname": "falcon paladin",
+    "illusionable": "no",
+    "armor": "82",
+    "convince": "--",
+    "name": "Falcon Paladin",
+    "isboss": "no",
+    "iceDmgMod": "100%",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "50%",
+    "isevent": "no",
+    "plural": "falcon paladins",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "Falcon Paladins are members of the Order of the Falcon. A once honourable and revered order of knights. They fell victim to a curse centuries ago and are now mere shadows of their former, noble self. The powerful paladins are masters of the bow and crossbow. Their arrows rarely miss and whatever still stands where one of them hits, is brought to fall by the other paladin you didn't see. Their will to protect the order is unbroken and they are formidable enemies on almost every account.",
+    "speed": "110",
+    "pushobjects": "yes",
+    "fireDmgMod": "100%",
+    "sounds": [
+        "Uuunngh!"
+    ],
+    "runsat": "0",
+    "bestiaryclass": "Undead",
+    "creatureclass": "Humans",
+    "earthDmgMod": "100%",
+    "physicalDmgMod": "90%",
+    "primarytype": "Members of the Order of the Falcon",
+    "spawntype": [
+        "Unblockable"
+    ],
+    "race_id": "1647",
+    "bestiarylevel": "Hard",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "falconpaladin",
+    "behaviour": "Despite being a Paladin and using distance attacks, the Falcon Paladin stays near its target.",
+    "location": "[[Falcon Bastion]].",
+    "strategy": "The Falcon Paladin uses one of its three distance attacks almost every turn, which means 400-500 certain damage, up to 800 if you are in melee range, and sometimes up to 1200 if you also take the damage from the Energy Beam. [[Energy Damage#Energy Protection|Energy Damage Protection]] will greatly reduce the damage taken from 2 of its attacks, so it's extremely recommended, together with [[Physical Damage#Physical Protection|Physical Damage Protection]]."
+}

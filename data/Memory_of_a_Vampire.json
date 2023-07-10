@@ -1,0 +1,90 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "walksthrough": "?",
+    "hp": "3650",
+    "abilities": "{{Ability List|}}",
+    "pushobjects": "yes",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "100%?",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "?",
+    "pushable": "no",
+    "usedelements": "?",
+    "implemented": "12.85.11485",
+    "loot": [
+        {
+            "itemName": "Bronze Amulet"
+        },
+        {
+            "itemName": "Platinum Coin"
+        },
+        {
+            "itemName": "Grave Flower"
+        },
+        {
+            "itemName": "Black Pearl"
+        },
+        {
+            "itemName": "Candy Floss (Large)"
+        },
+        {
+            "itemName": "Strong Health Potion"
+        },
+        {
+            "itemName": "Strange Helmet"
+        },
+        {
+            "itemName": "Bottle of Champagne"
+        },
+        {
+            "itemName": "Special Fx Box"
+        },
+        {
+            "itemName": "Spike Sword"
+        },
+        {
+            "itemName": "Gold Coin"
+        },
+        {
+            "itemName": "Ice Rapier"
+        },
+        {
+            "itemName": "Skull (Item)"
+        },
+        {
+            "itemName": "Katana"
+        },
+        {
+            "itemName": "Vampire Shield"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "1550",
+    "creatureclass": "The Undead",
+    "earthDmgMod": "100%?",
+    "physicalDmgMod": "100%?",
+    "primarytype": "Vampires",
+    "spawntype": [
+        "Unblockable"
+    ],
+    "race_id": "2168",
+    "senseinvis": "yes",
+    "article": "a",
+    "actualname": "memory of a vampire",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Memory of a Vampire",
+    "isboss": "no",
+    "location": "[[Time Travel Dungeon]]",
+    "iceDmgMod": "100%?",
+    "energyDmgMod": "100%?",
+    "deathDmgMod": "100%?"
+}

@@ -1,0 +1,206 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "?",
+    "hpDrainDmgMod": "100%?",
+    "notes": "This is one of the bosses in the [[Forgotten Knowledge Quest]].",
+    "walksthrough": "?",
+    "hp": "?",
+    "speed": "?",
+    "abilities": "{{Ability List|}}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "0%",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        "What have you done!?"
+    ],
+    "maxdmg": "?",
+    "pushable": "?",
+    "cooldown": "20",
+    "implemented": "11.02.4128",
+    "loot": [
+        {
+            "amount": "0-200",
+            "itemName": "Gold Coin"
+        },
+        {
+            "amount": "0-25",
+            "itemName": "Platinum Coin"
+        },
+        {
+            "amount": "0-3",
+            "itemName": "Blue Crystal Shard"
+        },
+        {
+            "amount": "0-3",
+            "itemName": "Green Crystal Shard"
+        },
+        {
+            "amount": "0-3",
+            "itemName": "Violet Crystal Shard"
+        },
+        {
+            "amount": "0-10",
+            "itemName": "Great Mana Potion"
+        },
+        {
+            "amount": "0-10",
+            "itemName": "Great Spirit Potion"
+        },
+        {
+            "amount": "0-10",
+            "itemName": "Ultimate Health Potion"
+        },
+        {
+            "amount": "0-10",
+            "itemName": "Small Amethyst"
+        },
+        {
+            "amount": "0-10",
+            "itemName": "Small Diamond"
+        },
+        {
+            "amount": "0-10",
+            "itemName": "Small Emerald"
+        },
+        {
+            "amount": "0-10",
+            "itemName": "Small Ruby"
+        },
+        {
+            "amount": "0-10",
+            "itemName": "Small Topaz"
+        },
+        {
+            "itemName": "Yellow Gem"
+        },
+        {
+            "itemName": "Blue Gem"
+        },
+        {
+            "itemName": "Green Gem"
+        },
+        {
+            "itemName": "Red Gem"
+        },
+        {
+            "itemName": "Broken Key Ring"
+        },
+        {
+            "itemName": "Crystal of Power"
+        },
+        {
+            "itemName": "Dragon Crown"
+        },
+        {
+            "itemName": "Dragon Tongue"
+        },
+        {
+            "itemName": "Dragonbone Staff"
+        },
+        {
+            "itemName": "Draken Boots"
+        },
+        {
+            "itemName": "Drakinata"
+        },
+        {
+            "itemName": "Giant Shimmering Pearl"
+        },
+        {
+            "itemName": "Gold Ingot"
+        },
+        {
+            "itemName": "Golden Talon"
+        },
+        {
+            "itemName": "Red Dragon Leather"
+        },
+        {
+            "itemName": "Red Dragon Scale"
+        },
+        {
+            "itemName": "Magic Sulphur"
+        },
+        {
+            "itemName": "Piece of Draconian Steel"
+        },
+        {
+            "itemName": "Piece of Royal Steel"
+        },
+        {
+            "itemName": "Modified Crossbow"
+        },
+        {
+            "itemName": "Spellbook of Mind Control"
+        },
+        {
+            "itemName": "Drachaku",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Shield of Corruption",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Dragon Scale Helmet",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Great Shield",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Snake God's Sceptre",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Silver Token"
+        },
+        {
+            "itemName": "Gold Token"
+        },
+        {
+            "itemName": "Part of a Rune (Two)"
+        },
+        {
+            "itemName": "Dragon Scale Mail"
+        },
+        {
+            "itemName": "Rusted Armor"
+        },
+        {
+            "itemName": "Slightly Rusted Armor"
+        },
+        {
+            "itemName": "Violet Gem"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "?",
+    "creatureclass": "Reptiles",
+    "earthDmgMod": "100%?",
+    "physicalDmgMod": "100%?",
+    "bosstiaryclass": "Archfoe",
+    "primarytype": "Draken",
+    "spawntype": [
+        "Triggered"
+    ],
+    "race_id": "1289",
+    "senseinvis": "yes",
+    "actualname": "Soul of Dragonking Zyrtarch",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Soul of Dragonking Zyrtarch",
+    "isboss": "yes",
+    "behaviour": "This is the mortal form of [[Dragonking Zyrtarch]].",
+    "location": "[[Zao]] [[Temple Complex]], {{Mapper Coords|130.77|121.205|11|2|text=here}}.",
+    "iceDmgMod": "100%?",
+    "strategy": "Unknown",
+    "energyDmgMod": "100%?",
+    "deathDmgMod": "100%?"
+}

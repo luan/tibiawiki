@@ -1,0 +1,144 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "walksthrough": "Poison, Energy",
+    "hp": "16500",
+    "abilities": "{{Ability List\n |{{Melee|0-900}}\n |{{Ability|Ice Strike|600-900|ice|scene={{Scene|spell=2sqmstrike|effect=Ice Explosion Effect|missile=Ice Missile|missile_direction=south-east|missile_distance=2/2|background=slate_floor|caster=Squid Warden}}}}\n |{{Ability|Icicle Berseker|600-900|ice|scene={{Scene|spell=3x3spell|effect=Icicle Effect|effect_on_caste=yes|background=slate_floor|caster=Squid Warden}}}}\n |{{Ability|Smoke Ball|500-700|ice|scene={{Scene|spell=1sqmballtarget|effect=Dust Effect|missile=Snowball Missile|missile_direction=south-east|missile_distance=2/2|background=slate_floor|caster=Squid Warden|edge_size=32}}}}\n |{{Ability|Music Beam|500-700|ice|scene={{Scene|spell=5sqmbeam|effect=Blue Notes Effect|look_direction=east|background=slate_floor|caster=Squid Warden}}}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "holyDmgMod": "100%",
+    "maxdmg": "{{Max Damage|ice=1800|physical=900}}",
+    "pushable": "no",
+    "implemented": "11.80.7048",
+    "loot": [
+        {
+            "amount": "1-50",
+            "itemName": "Platinum Coin",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-6",
+            "itemName": "Glowing Rune",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "Small Sapphire",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Frosty Heart",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Ice Cube",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Inkwell (Black)",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Ultimate Health Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Ultimate Mana Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Ice Rapier",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Glacier Mask",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Crystal Mace",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Piece of Dead Brain",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Crystal Sword",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Glacier Robe",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Glacier Kilt",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Slime Heart",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Diamond Sceptre",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Sapphire Hammer",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Crystalline Armor",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Glacial Rod",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Leviathan's Amulet",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Fire",
+    "exp": "15300",
+    "mitigation": "2.16",
+    "attacktype": "Melee",
+    "history": "Its experience was decreased from 18,000 to 15,300 with the first batch of changes of [[Updates/12.31|Update 12.31]].",
+    "article": "a",
+    "actualname": "squid warden",
+    "illusionable": "no",
+    "armor": "78",
+    "convince": "--",
+    "name": "Squid Warden",
+    "isboss": "no",
+    "iceDmgMod": "0%",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "100%",
+    "plural": "squid wardens",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "The squid warden is a member of a servant race of the god Zathroth that communicates telepathically and has no pronounceable name on their own.<br />\nThey underwent generations after generations of strict breeding programs of their leaders. This lead to an extreme specialised cast-like system in which the squid warden served as a kind of police force. Favouring secret knowledge as source of power, they follow a complex set of rules and laws that are not commonly known. They are often found patrolling extremely important and holy places dedicated to Zathroth and his principles. Bread as enforcers they have a formidable array of offensive powers, can not be bribed and hardly reasoned with. They seamlessly blend magic and their natural telepathy with frightening efficiency and seem impervious to pain thanks to their willpower. Due to their for outsiders incomprehensible behavior patters that follow their own secret rules, they are not well-liked by other Zathroth worshipers.<br />\nThe higher ranks in the cult, however, employ them nonetheless and willingly accept a few casualties in the own ranks when someone breaks the unspoken rules of the wardens. Though able to communicate with others than their own race, they almost never lower themselves to argue with or explain themselves to other creatures, which they see only with contempt. Way more than others of their kind, they see other races not following purposeful breeding cycles, as random abominations that should be eradicated. They have an unexplainable weakness for music though and sometimes can be soothed by it. The kind of music the squid warden fancies however, would be considered cacophonic by other beings, so finding the 'right tune' to please them is rather impossible.",
+    "speed": "215",
+    "pushobjects": "yes",
+    "fireDmgMod": "115%",
+    "sounds": [
+        ""
+    ],
+    "bestiaryclass": "Magical",
+    "creatureclass": "Invertebrates",
+    "earthDmgMod": "100%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Mollusks",
+    "spawntype": [
+        "Regular"
+    ],
+    "race_id": "1669",
+    "bestiarylevel": "Hard",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "squidwarden",
+    "behaviour": "Attacks in close range.",
+    "location": "[[Secret Library]] ice section.",
+    "strategy": "Use as much [[Ice Damage]] protection as you can, because this will be the biggest part of the damage when fighting these creatures."
+}

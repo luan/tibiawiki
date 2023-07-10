@@ -1,0 +1,78 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "Was implemented at the [[Winter Update 2011]].",
+    "isarenaboss": "no",
+    "walksthrough": "Poison",
+    "hp": "950",
+    "abilities": "{{Ability List|{{Melee|0-107+|poison=8}}}}",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "secondarytype": "Hive Born",
+    "holyDmgMod": "100%",
+    "maxdmg": "108?",
+    "pushable": "no",
+    "implemented": "9.40",
+    "loot": [
+        {
+            "amount": "2-90",
+            "itemName": "Gold Coin",
+            "rarity": "always"
+        },
+        {
+            "itemName": "Compound Eye"
+        },
+        {
+            "itemName": "Dung Ball"
+        },
+        {
+            "itemName": "Health Potion",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Small Emerald",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Epee",
+            "rarity": "rare"
+        }
+    ],
+    "walksaround": "Fire, Energy",
+    "exp": "650",
+    "mitigation": "0.91",
+    "attacktype": "Melee",
+    "article": "an",
+    "actualname": "insectoid worker",
+    "illusionable": "no",
+    "armor": "30",
+    "convince": "--",
+    "name": "Insectoid Worker",
+    "isboss": "no",
+    "iceDmgMod": "110%",
+    "energyDmgMod": "105%",
+    "deathDmgMod": "100%",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "no",
+    "occurrence": "Common",
+    "bestiarytext": "Due to their versatility and resilience, the Insectoid Workers are the most commonly encountered of the Hive Born. They seem to be relatively expendable and are used as foragers and scouts in the widest sense. They test the strength of their enemies and sometimes, they are sent in great numbers to bring down a dangerous foe without risking the more valuable warriors. Usually the  Insectoid Workers are chosen to become one with the hive structures to grant them their unnatural life. As expendable creatures they are encountered quite often, but their brethren show little regard for them. It has been observed in battles that they are devoured by wounded hive creatures to regain strength.<br />They seem to depend less on the hive than other Hive Born. Although they lose strength and health when away from the hive, they survive for extended periods and so they are for now the only Hive Born that have been encountered elsewhere in the world. It is assumed that their appearance might serve the creation of new hives but so far no new hive has been established. In the hive area, they are often paired with waspoids in scouting missions and hit and run tactics.<br />In the war of the hive against the Deeplings, the Insectoid Workers are the most basic troops. Although not as numerous as the swarmers, they usually last longer and are used at more critical points of interest. They often attack in concert with the swarmers and seem quite proficient to pick and take down wounded opponents. Like fearless soldiers led by a general, the Insectoid Workers march side by side, knowing no fear and ignoring wounds and casualties. It is their lack of emotion and passion that makes their advances so frightening.",
+    "speed": "120",
+    "pushobjects": "yes",
+    "fireDmgMod": "110%",
+    "sounds": [
+        ""
+    ],
+    "bestiaryclass": "Vermin",
+    "creatureclass": "Invertebrates",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "95%",
+    "primarytype": "Insects",
+    "race_id": "796",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "insectoidworker",
+    "behaviour": "Fights in close combat.",
+    "location": "[[Hive]], [[Hive Outpost]].",
+    "strategy": "Unknown."
+}

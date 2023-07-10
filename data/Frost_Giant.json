@@ -1,0 +1,110 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "Similar to a [[Cyclops Drone]]. They are the male counterpart of [[Frost Giantess]]es.",
+    "walksthrough": "None.",
+    "hp": "270",
+    "abilities": "{{Ability List\n |{{Melee|0-110}}\n |{{Ability|Boulder throw|0-90|element=physical\n  |scene={{Scene|spell=5sqmstrike|background=canvas|caster=Frost Giant|look_direction=south|missile=Stone Missile|missile_direction=south-east|missile_distance=5/5}}}}\n |{{Haste}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "holyDmgMod": "100%",
+    "maxdmg": "{{Max Damage|physical=200}}",
+    "pushable": "No",
+    "usedelements": "Physical",
+    "implemented": "8.00",
+    "loot": [
+        {
+            "amount": "1-40",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Short Sword",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Meat",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Battle Shield",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Ice Cube",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Frost Giant Pelt",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Health Potion",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Halberd",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Norse Shield",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Club Ring",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Dark Helmet",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Shard",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Fire, Energy, Poison",
+    "exp": "150",
+    "mitigation": "0.46",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "frost giant",
+    "illusionable": "no",
+    "armor": "22",
+    "convince": "490",
+    "name": "Frost Giant",
+    "isboss": "no",
+    "iceDmgMod": "0%",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "100%",
+    "plural": "frost giants",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "Frost Giants are an extremely ancient race that inhabits the most northern parts of the world. Far to the north where it is cold enough to freeze even air, this race has its original home. In ancient times, when the gods waged war on each other, the world climate was shifting often. At this time, some tribes of the Frost Giants wandered to the south, following the biting cold and expanding their territory. Entire kingdoms crumbled under their feet.<br />The Frost Giants became the ruler of the frozen waste and their icy kingdom grew every day. One day though, the seemingly eternal winter ended. Temperatures were rising again and most Frost Giants fled to the northern home of their ancestors. However, some of them became trapped on their retreat, cut off by the ocean that once used to be a frozen surface which could easily be crossed. Many of those unlucky Frost Giants perished either by the warm temperatures or by enemies who easily overwhelmed them in their weak condition. Some, however, were able to find refuge at places just cold enough to sustain their existence.<br />Still those places are not well suited as they are much too warm for Frost Giants. Cut off from the northern Frost Giant civilisation and living in an inhospitable environment, the Frost Giants are known for their bad temper. Their sole joy seems to be to make other beings feel even more miserable than they do feel themselves. So they enjoy hunting, torturing or just smashing other creatures. Given this attitude, it's not surprising that the Frost Giants, though considerably intelligent, won't waste much time in parleying. If there is a chance to fight, they are using it. Frost Giants are extremely possessive and they fiercely defend their grounds against all intruders.",
+    "speed": "95",
+    "pushobjects": "Yes",
+    "fireDmgMod": "100%",
+    "sounds": [
+        "Hmm Humansoup!",
+        "Stand still ya tasy snack!",
+        "Joh Thun!",
+        "Hörre Sjan Flan!",
+        "Bröre Smöde!",
+        "Forle Bramma"
+    ],
+    "bestiaryclass": "Giant",
+    "creatureclass": "Humanoids",
+    "earthDmgMod": "100%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Giants",
+    "race_id": "324",
+    "bestiarylevel": "Easy",
+    "senseinvis": "no",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "frostgiant",
+    "behaviour": "Frost Giants fight to the death, they can push objects and can't be pushed.",
+    "location": "[[Tyrsung]] (in the [[Jotunar]] mountain), [[Formorgar Glacier]] (single spawn), [[Mammoth Shearing Factory]], [[Chyllfroest]].",
+    "strategy": "Treat these like a [[Cyclops Drone]]s."
+}

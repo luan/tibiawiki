@@ -1,0 +1,69 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "Groam",
+    "hpDrainDmgMod": "100%?",
+    "notes": "He is [[Dronk]]'s friend, but apparently turned into a [[Deepling Scout]]. He spawns at most once per day (server save) per server.\n{{JSpoiler|The [[achievement]] [[Eye of the Deep]] can be earned by killing him.}}",
+    "isarenaboss": "no",
+    "walksthrough": "?",
+    "hp": "400",
+    "speed": "?",
+    "abilities": "{{Ability List| {{Melee|0-120}}|{{Ability|[[Distance Fighting|Water Spear]]|0-140|element=?}} }}",
+    "pushobjects": "yes",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "0%",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        "I sjaw the eyes of the djeep!",
+        "I mjake sjure yjou wjill njot sjufer the sjame fjate Ij djid!",
+        "Yjou, intrjuder!!"
+    ],
+    "maxdmg": "260",
+    "pushable": "no",
+    "implemented": "9.10",
+    "loot": [
+        {
+            "amount": "1-80",
+            "itemName": "Gold Coin"
+        },
+        {
+            "amount": "1-4",
+            "itemName": "Hunting Spear"
+        },
+        {
+            "itemName": "Rusted Armor"
+        },
+        {
+            "itemName": "Small Emerald"
+        },
+        {
+            "itemName": "Fish Fin"
+        },
+        {
+            "itemName": "Life Ring"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "180",
+    "creatureclass": "Amphibians",
+    "earthDmgMod": "110%?",
+    "physicalDmgMod": "100%?",
+    "bosstiaryclass": "Nemesis",
+    "primarytype": "Deeplings",
+    "race_id": "736",
+    "senseinvis": "yes",
+    "actualname": "Groam",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Groam",
+    "isboss": "yes",
+    "behaviour": "Same as a [[Deepling Scout]]'s.",
+    "location": "{{Mapper Coords|127.116|125.23|10|4|text=East side}} of the [[Sunken Mines]], during the [[Awash World Change]].",
+    "iceDmgMod": "0%",
+    "strategy": "Treat him as a somewhat stronger [[Deepling Scout]].",
+    "energyDmgMod": "110%?",
+    "deathDmgMod": "100%?"
+}

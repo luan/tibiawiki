@@ -1,0 +1,49 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "enraged bookworms",
+    "hpDrainDmgMod": "100%",
+    "notes": "They appear randomly when reading books in the [[Yalahar Library]] during the [[Shadows of Yalahar Quest]]. They turn into a [[Worm]] when they die.<br />[[File:Bookworm Artwork.jpg|Bookworm Artwork by CipSoft|300px]]",
+    "walksthrough": "?",
+    "hp": "145",
+    "speed": "?",
+    "abilities": "{{Ability List|{{Melee|0-30}}}}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "no",
+    "fireDmgMod": "100%",
+    "holyDmgMod": "100%",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "{{Max Damage|physical=30}}",
+    "pushable": "?",
+    "usedelements": "Physical",
+    "implemented": "8.50",
+    "loot": [
+        {
+            "itemName": "Worm"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "55",
+    "creatureclass": "Invertebrates",
+    "earthDmgMod": "100%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Annelids",
+    "senseinvis": "no",
+    "article": "an",
+    "actualname": "enraged bookworm",
+    "illusionable": "yes",
+    "armor": "?",
+    "drownDmgMod": "100%",
+    "convince": "--",
+    "name": "Enraged Bookworm",
+    "isboss": "no",
+    "behaviour": "Fights to death.",
+    "location": "[[Yalahar]].",
+    "iceDmgMod": "100%",
+    "strategy": "They're not strong so just attack them.",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "100%"
+}

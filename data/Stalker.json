@@ -1,0 +1,88 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "Humans that can quickly go [[invisible]]. They sneak up on intruders and try to kill them quickly.",
+    "walksthrough": "None",
+    "hp": "120",
+    "abilities": "{{Ability List|{{Melee|0-70}}|{{Ability|Life Drain|20-30|lifedrain}}|{{Ability|Invisible|30 seconds|invisible}}}}",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "holyDmgMod": "110%",
+    "maxdmg": "{{Max Damage|physical=70|lifedrain=30}}",
+    "pushable": "?",
+    "implemented": "6.4",
+    "loot": [
+        {
+            "amount": "0-8",
+            "itemName": "Gold Coin",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Blank Rune",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Brass Shield",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "Throwing Knife",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Brass Legs",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Miraculum",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Obsidian Lance",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Katana",
+            "rarity": "rare"
+        }
+    ],
+    "walksaround": "Fire, Energy, Poison",
+    "exp": "90",
+    "mitigation": "0.51",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "stalker",
+    "illusionable": "no",
+    "armor": "14",
+    "convince": "--",
+    "name": "Stalker",
+    "isboss": "no",
+    "iceDmgMod": "100%",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "90%",
+    "plural": "stalkers",
+    "hpDrainDmgMod": "0%",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "Stalkers are persons that are permanently invisible. They sneak up to their victim, and attack it suddenly. Some of these assassins have been spotted at Edron. They stab with their daggers and suck life energy out of their opponents, but if the first strike is not deadly, they are weak fighters.",
+    "speed": "130",
+    "pushobjects": "?",
+    "fireDmgMod": "100%",
+    "sounds": [
+        ""
+    ],
+    "runsat": "0",
+    "bestiaryclass": "Human",
+    "creatureclass": "Humans",
+    "earthDmgMod": "100%",
+    "physicalDmgMod": "110%",
+    "primarytype": "Outlaws",
+    "race_id": "72",
+    "bestiarylevel": "Easy",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "stalker",
+    "location": "[[Triangle Tower]], [[Drefia]], [[Edron]] [[Hero Cave]] in the [[Warlock]] room, [[White Flower Temple]], [[Ghostlands]], [[Shadow Tomb]], [[Ancient Ruins Tomb]], [[Tarpit Tomb]], [[Stone Tomb]], [[Mountain Tomb]], [[Peninsula Tomb]], [[Oasis Tomb]], [[Yalahar]] [[Trade Quarter]] and [[Isle of the Kings]].",
+    "strategy": "You can't attack this [[creature]] with [[melee]] while it is [[invisible]]. The only way to defeat them is with [[Magical Damage|Magic]] or by making them visible again by attacking them with area [[rune]]s ('''[[Avalanche]]''', '''[[Explosion]]''', '''[[GFB]]''', '''[[Stone Shower]]''' or '''[[Thunderstorm]]'''), making them walk over a [[trap]], an area spell like [[Berserk]] or using [[Cancel Invisibility]]. Sometimes they don't go [[invisible]] right away or at all and can be meleed. If you can't do anything but melee you can take stalkers by going down/up stairs or a cliff and waiting until they are visible, then attacking them.<br />\n'''[[Knight]]s:''' Make them visible using one of the runes above or use '''[[Berserk]]''', '''[[Groundshaker]]''' or '''[[Fierce Berserk]]''', then attack them with [[melee]]. They are weak in defense, so a [[knight]] can easily kill one. The will also work to kill stalkers, even if they are [[invisible]].<br />\n'''[[Paladin]]s:''' Make them visible using one of the runes above or use '''[[Divine Missile]]''' or '''[[Divine Caldera]]''' and attack with distance.<br />\n'''[[Mage]]s:''' Make them visible using one of the runes above or an [[Attack Spells|attack spell]]. Another good idea, since stalkers always stick by you, is to hotkey one of the runes above and set the target as yourself. Since it doesn't harm you. Keep an eye on your hp bar, as it is hard to tell how many stalkers you are actually facing. If there is a large amount, your hp could go from full to empty without you noticing."
+}

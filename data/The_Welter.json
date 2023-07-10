@@ -1,0 +1,115 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "With him spawn 8? [[Egg (Creature)|eggs]], which hatch to produce [[Spawn of the Welter|Spawns of the Welter]], which do very minor damage but heal every monster around it (including The Welter) for massive amounts.",
+    "walksthrough": "?",
+    "hp": "25000",
+    "speed": "?",
+    "abilities": "{{Ability List| {{Melee|0-600+}}|{{Ability|[[Death Damage|Death beam]]|element=death}}|{{Healing|range=100-750+}}|{{Ability|strong [[Self Healing]]|17000+ only once when on red hp|element=healing}}|{{Ability|[[Avalanche]]|100-250+|element=?}}|{{Ability|long [[Terra Wave]]|100+ |element=earth}}|and more}}",
+    "pushobjects": "yes",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "100%?",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        "FCHHHHH"
+    ],
+    "maxdmg": "950+",
+    "pushable": "no",
+    "implemented": "10.20",
+    "loot": [
+        {
+            "amount": "0-150+",
+            "itemName": "Gold Coin"
+        },
+        {
+            "amount": "0-20+",
+            "itemName": "Platinum Coin"
+        },
+        {
+            "amount": "0-5+",
+            "itemName": "Small Sapphire"
+        },
+        {
+            "amount": "0-3+",
+            "itemName": "Strong Health Potion"
+        },
+        {
+            "amount": "0-3",
+            "itemName": "Strong Mana Potion"
+        },
+        {
+            "itemName": "Medusa Shield"
+        },
+        {
+            "itemName": "Giant Shimmering Pearl"
+        },
+        {
+            "itemName": "Stone Skin Amulet"
+        },
+        {
+            "itemName": "Silver Raid Token"
+        },
+        {
+            "itemName": "Royal Helmet"
+        },
+        {
+            "itemName": "Warrior Helmet"
+        },
+        {
+            "itemName": "Hydra Egg"
+        },
+        {
+            "itemName": "Gold Ingot"
+        },
+        {
+            "itemName": "Knight Armor"
+        },
+        {
+            "itemName": "Ice Rapier"
+        },
+        {
+            "itemName": "Sacred Tree Amulet"
+        },
+        {
+            "itemName": "Spellbook of Mind Control"
+        },
+        {
+            "itemName": "Triple Bolt Crossbow"
+        },
+        {
+            "itemName": "Shrunken Head Necklace"
+        },
+        {
+            "itemName": "Boots of Haste"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "11000",
+    "creatureclass": "Reptiles",
+    "earthDmgMod": "100%?",
+    "physicalDmgMod": "100%?",
+    "bosstiaryclass": "Nemesis",
+    "primarytype": "Hydras",
+    "spawntype": [
+        "Raid",
+        "Unique",
+        "Triggered",
+        "Unblockable"
+    ],
+    "race_id": "964",
+    "senseinvis": "?",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "The Welter",
+    "isboss": "yes",
+    "behaviour": "Fights until death.",
+    "location": "[[Hydra Mountain]], large spawn, {{Mapper Coords|129.2|127.139|5|2|text=here}}.",
+    "iceDmgMod": "50%",
+    "strategy": "[[File:The_welter.jpg|thumb|left|The Welter on Fidera]] When the raid starts, [[Egg (Creature)|eggs]] will spawn in the lair. If you arrive to the lair in time to destroy the eggs, do so (not very likely unless you are hunting there).\n\nWhen the eggs create the [[Spawn of The Welter|spawns]], the blockers should use [[Challenge]] on them and lure them away from the boss. Be careful when luring away because if you get trapped by them the only way out is to have someone come take them off of you - the spawns will heal themselves and all other monsters around them, you cannot reasonably expect to kill your way out of a trap.\n\nMake sure '''all''' [[Spawn of the Welter|spawns]] are lured away from the boss and that they will not roam around. If a spawn roams and finds you killing the boss, they will heal it back to full health very quickly.\n\nOnce the spawns are away from the boss, focus all your firepower on it.\n\nIt is soloable by luring the spawns away from the boss. However, due to the difficulty of that and the chance of spawns roaming to you, it is strongly recommend you bring a group.\n<br>will heal itself once on red hp and a message will appear,while a [[Spawn of the Welter]] will disappear :{{Message|type=sound|<the welter devours his spawn and heals himself>|}}",
+    "energyDmgMod": "100%?",
+    "deathDmgMod": "75%?"
+}

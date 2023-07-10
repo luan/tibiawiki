@@ -1,0 +1,148 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "walksthrough": "Poison",
+    "hp": "2700",
+    "abilities": "{{Ability List\n |{{Melee|0-250}}\n |{{Ability|[[Blood Rage]]|boosts melee 375%+|buff\n   |scene={{Scene|spell=buffspell|effect=Sparks Effect|caster=Glooth Golem|look_direction=south|effect_on_caster=yes}}}}\n |{{Ability|Energy Strike|0-245|element=energy\n  |scene={{Scene|spell=3sqmstrike|effect=Blue Electricity Effect|caster=Glooth Golem|missile=Energy Missile|missile_direction=south-east|missile_distance=3/3}}}}\n |{{Ability|Electrify Strike|element=energy\n  |scene={{Scene|spell=3sqmstrike|effect=Blue Electricity Effect|caster=Glooth Golem|missile=Energy Ball Missile|missile_direction=south-east|missile_distance=3/3}}}}\n |{{Debuff2|Skill Reducer Beam|shielding=yes\n  |scene={{Scene|spell=7sqmbeam|effect=Stars Effect|caster=Glooth Golem|look_direction=east}}}}\n |{{Healing|range=100-250}}\n |{{Haste}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "holyDmgMod": "85%",
+    "maxdmg": "{{Max Damage|physical=931+|energy=245}}",
+    "pushable": "no",
+    "implemented": "10.50",
+    "loot": [
+        {
+            "amount": "2-200",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-4",
+            "itemName": "Platinum Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Glooth Injection Tube",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Great Mana Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Glooth Sandwich",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-4",
+            "itemName": "Small Emerald",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-4",
+            "itemName": "Small Topaz",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Ultimate Health Potion",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Bronze Gear Wheel",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Iron Ore",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Glooth Spear",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Glooth Amulet",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Glooth Axe",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Heat Core",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Gear Wheel",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Glooth Blade",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Gearwheel Chain",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Rubber Cap",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Glooth Club",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Yellow Gem",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Green Gem",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "1606",
+    "mitigation": "1.37",
+    "attacktype": "Melee",
+    "history": "It's experience was decreased from 2,200 to 1,606 on [[Updates/12.31]].",
+    "article": "a",
+    "actualname": "glooth golem",
+    "illusionable": "no",
+    "armor": "43",
+    "convince": "--",
+    "name": "Glooth Golem",
+    "isboss": "no",
+    "iceDmgMod": "100%",
+    "energyDmgMod": "95%",
+    "deathDmgMod": "70%",
+    "plural": "glooth golems",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "The glooth golems that many see as the epitome of Rathletons science are indeed based on cryptic designs that were found in excavations under the city. The odd design patterns were secreted away and studied for years by the best of Rathletons scientists. Not fully understanding the concepts they adapted the few ideas they were able to grasp and integrated them into Rathletons machinery. Only with the discovery of glooth and glooth-based material and power the adaptation of the strange designs advanced dramatically. Still most designs still were rather crude and huge but some daring inventors dared to dream the impossible. Not truly knowing what principles they were applying they begun to rebuild some mechanisms on the excavated designs. This lead to the creation of the first machine men. This machines were first only mocked designs that had to be operated and powered remotely but again it was the glooth that proved to be the saviour. It provided not only a means to supply the automatons with power but also enabled the scientists to give them a fixed set of orders and behaviour patterns. Though not able to handle more complex situations the glooth powered golems provided significant help in hazardous areas and were suitable for heavy work. Problems arouse from the not fully understood principles that made the golem move at all though. Sometimes the golems would no longer follow their simple programs and begun to wander seeming aimlessly. All attempts of repair failed on those golems that had gone astray. Even more disturbingly, those golems begun after a while to display strange behaviour patterns as if they had some kind of will of their own or even rudimentary intelligence. Alarmed scientists dismantled the malfunctioning golems only to face increased malfunctioning in active golems. After a while the failed golems were left alone and the situation somewhat stabilized. The malfunctioning golems seemed to avoid humans anyway and even the risen aggressiveness of golems that were malfunctioning and autonomous for significant time was discarded as a necessary evil. Some inventors were inspired by the displayed aggressiveness of the free roaming golems and added defensive patterns to their order designs so that even common glooth golems are able to fend off intruders into certain territories.",
+    "speed": "130",
+    "pushobjects": "yes",
+    "fireDmgMod": "105%",
+    "sounds": [
+        "*slosh*",
+        "*clank*"
+    ],
+    "bestiaryclass": "Construct",
+    "creatureclass": "Misc",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "95%",
+    "primarytype": "Machines",
+    "spawntype": [
+        "Regular",
+        "Triggered",
+        "Unblockable"
+    ],
+    "race_id": "1038",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "gloothgolem",
+    "behaviour": "Fights until death. In spite of the experience received from this creature, its fighting capabilities can easily match a [[War Golem]]'s or [[Behemoth]]'s.",
+    "location": "[[Glooth Factory]], [[Underground Glooth Factory]], [[Rathleton Sewers]], [[Jaccus Maxxen's Dungeon]], [[Oramond Dungeon]] (depending on Magistrate votes).",
+    "strategy": "'''All Vocations:''' These creatures frequently come in groups with other Glooth Golems, [[Rustheap Golem]]s, [[Glooth Anemone]]s and [[Devourer]]s. Be extremely careful as their very frequent [[Blood Rage]] and [[Skill|Skill Reducer Beam]] can maximize the melee damage output from both themselves and other creatures, overwhelming those who are unprepared. Staying diagonal at all times is recommended if possible."
+}

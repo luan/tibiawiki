@@ -1,0 +1,54 @@
+{
+    "summon": "310",
+    "templateType": "Creature",
+    "plural": "dawn scorpions",
+    "hpDrainDmgMod": "100%?",
+    "notes": "They are a weak [[Scorpion]]. The Dawn Scorpion has considerably weaker poison in comparison, making them a lot more manageable. They can be found with the [[Minotaurs]] in the [[Dawnport Crystal Dungeon]].",
+    "walksthrough": "?",
+    "hp": "65",
+    "speed": "72",
+    "abilities": "{{Ability List| {{Melee|?|poison=2}} }}",
+    "pushobjects": "No",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "95%",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "?",
+    "pushable": "Yes",
+    "implemented": "10.55",
+    "loot": [
+        {
+            "amount": "0-4",
+            "itemName": "Gold Coin"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "45",
+    "creatureclass": "Invertebrates",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "100%?",
+    "primarytype": "Arachnids",
+    "spawntype": [
+        "Regular",
+        "Unblockable"
+    ],
+    "race_id": "1076",
+    "senseinvis": "?",
+    "article": "a",
+    "actualname": "dawn scorpion",
+    "illusionable": "yes",
+    "armor": "11",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Dawn Scorpion",
+    "isboss": "no",
+    "behaviour": "Unknown",
+    "location": "[[Dawnport]] [[Dawnport Crystal Dungeon|Crystal Dungeon]].",
+    "iceDmgMod": "100%?",
+    "strategy": "Unknown",
+    "energyDmgMod": "95%",
+    "deathDmgMod": "100%?"
+}

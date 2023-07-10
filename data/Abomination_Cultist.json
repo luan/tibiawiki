@@ -1,0 +1,41 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "hp": "?",
+    "speed": "?",
+    "abilities": "{{Ability List\n |{{Melee|0-456+}}\n |{{Ability|Poison Wave|386-464+|element=earth\n  |scene={{Scene|spell=3sqmwavewide|caster=Abomination Cultist|look_direction=east|effect=Poison Effect 3|damage_effect=Unknown}}}}\n}}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "100%?",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        "Praise the abomination!",
+        "Devour us oh mighty one!",
+        "DEVOUR ME! AHHHH!"
+    ],
+    "pushable": "?",
+    "implemented": "12.70.10953",
+    "loot": [],
+    "exp": "0",
+    "earthDmgMod": "100%?",
+    "physicalDmgMod": "100%?",
+    "spawntype": [
+        "Raid"
+    ],
+    "race_id": "?",
+    "senseinvis": "?",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Abomination Cultist",
+    "isboss": "no",
+    "behaviour": "[[Abomination Cultist]]s are able to follow and attack [[The Abomination]]. They will yell {{Sound|DEVOUR ME! AHHHH!}} when eaten by [[The Abomination]].",
+    "location": "Spawns with [[The Abomination]] inside his room under the Ice Islands, {{Mapper Coords|text=here|126.176|121.53|15|2|1|0.50.5}}.",
+    "iceDmgMod": "100%?",
+    "strategy": "Keep away from [[The Abomination]] to prevent him from eating them.",
+    "energyDmgMod": "100%?",
+    "deathDmgMod": "100%?"
+}

@@ -1,0 +1,83 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "Spawns in the desert of [[Ankrahmun]] when [[Horestis]] has been slain. It is said that all Honour Guards need to be killed in order for the monsters in [[Horestis Tomb]] to spawn again after [[Horestis]] fall.",
+    "isarenaboss": "no",
+    "walksthrough": "?",
+    "hp": "85",
+    "abilities": "{{Ability List| {{Melee|0-25}}|{{Ability|[[Life Drain]]|5-13|element=lifedrain}} }}",
+    "healMod": "100%",
+    "paraimmune": "?",
+    "holyDmgMod": "110%",
+    "maxdmg": "40",
+    "pushable": "yes",
+    "implemented": "9.10",
+    "loot": [
+        {
+            "amount": "0-15",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "Brown Mushroom",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Pelvis Bone",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Mace",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Scarab Coin",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Scimitar",
+            "rarity": "semi-rare"
+        }
+    ],
+    "walksaround": "Fire, Energy, Poison",
+    "exp": "55",
+    "mitigation": "0.20",
+    "attacktype": "Melee",
+    "article": "an",
+    "actualname": "honour guard",
+    "illusionable": "yes",
+    "armor": "4",
+    "convince": "--",
+    "name": "Honour Guard",
+    "isboss": "no",
+    "iceDmgMod": "100%",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "0%",
+    "status": "event",
+    "plural": "honour guards",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Rare",
+    "speed": "77",
+    "pushobjects": "?",
+    "fireDmgMod": "100%",
+    "sounds": [
+        "Horestis curse upon you!",
+        "Vengeance!",
+        "Thy punishment is at hand!",
+        "For the pharao!"
+    ],
+    "runsat": "0",
+    "bestiaryclass": "Undead",
+    "creatureclass": "The Undead",
+    "earthDmgMod": "100%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Skeletons",
+    "race_id": "712",
+    "bestiarylevel": "Easy",
+    "senseinvis": "?",
+    "drownDmgMod": "100%?",
+    "location": "Desert north of [[Ankrahmun]].",
+    "strategy": "No strategy needed, just attack them."
+}

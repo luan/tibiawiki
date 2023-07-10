@@ -1,0 +1,139 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "These creatures can be skinned with an [[Obsidian Knife]]. See also: [[Minotaur Leather/Skinning]].",
+    "walksthrough": "Energy, Fire, Poison",
+    "hp": "1200",
+    "abilities": "{{Ability List| {{Melee|0-200+}}|{{Ability|[[Energy Damage|Energy Beam]]|0-162+|element=energy}}|{{Ability|[[Berserk]]|element=?}}|{{Ability|Dizzyness thing|0-132?+|element=?}}|{{Healing|range=0-159+}} }}",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "secondarytype": "Oramond Minotaurs",
+    "holyDmgMod": "100%",
+    "maxdmg": "~400",
+    "pushable": "?",
+    "implemented": "10.50",
+    "loot": [
+        {
+            "amount": "0-120",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "amount": "0-3",
+            "itemName": "Platinum Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Mooh'tah Shell",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Strong Mana Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Strong Health Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Minotaur Leather",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Small Ruby",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Small Emerald",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Small Amethyst",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Small Topaz",
+            "rarity": "semi-rare"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "Minotaur Horn",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Cowtana",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Sword Ring",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Mooh'tah Plate",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Guardian Shield",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Knight Legs",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Red Piece of Cloth",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Knight Armor",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Minotaur Trophy",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "900",
+    "mitigation": "1.35",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "Mooh'Tah warrior",
+    "illusionable": "no",
+    "armor": "37",
+    "convince": "--",
+    "name": "Mooh'Tah Warrior",
+    "isboss": "no",
+    "iceDmgMod": "90%",
+    "energyDmgMod": "95%",
+    "deathDmgMod": "85%",
+    "plural": "Mooh'Tah warriors",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "The mooh'tah warriors are elite soldiers that dedicated their life to the philosophical teachings of this ancient minotaur philosophy. While each minotaurs is taught the basic principles of the mooh'tah only a few chosen are able to follow its teachings truly. They basic principles are meant to help the minotaurs to ease their inner rage, which is considered as unclean and offensive. The ultimate goal is to not only master the inner anger but dissolve it into spiritual energy. The ultimate idea is instead of dedicating energy to fight the anger, in the end the anger becomes additional energy and therefore supply of enormous power. Since the true path of mooh'tah requires not only dedication but also time and resources, it's usually the nobility that can afford to indulge the studies. While the first lessons are basic and primary consists of philosophic teachings, soon also the body is honed. Beginning with breathing techniques and continuing with the correct way to move, the training becomes over the years more and more martial. As the first lessons teach the spirit and the body to become one, the higher teachings concern the flow of magic and making a weapon a part of their body. The great goal is the unity with the world. This goal is never truly accomplished though and only a few mooh'tah masters are even attempting the impossible and instead concentrate more on their martial progress. This self centred usage of the mooh'tah is considered sinful and false by a few purists. Those usually live as hermits away from minotaur society that they see as rotten and misguided. Still they are often sought out by students that ask for guidance but more often then not those are brusquely turned away. Though their disapproval of minotaur society is well known the hermits are held in high regard by the populace. <br />The more worldly mooh'tah masters are usually part of the local military hierarchy and sometimes form highly valued elite squads within an army. Extremely efficient and unyielding fighters they serve as inspiration for the common troops and sometimes one mooh'tah master alone is enough to turn the tides of battle. Skilled in the art of war and in possession of secret magic they are the epitome of all that a minotaur could want to be. Towards non minotaurs that are obviously not even aware of the principle of mooh'tah they usually only feel disgust, but it would be of course beneath a true master to show that.",
+    "speed": "110",
+    "pushobjects": "?",
+    "fireDmgMod": "85%",
+    "sounds": [
+        "Feel the power of the Mooh'Tah!",
+        "Ommm!"
+    ],
+    "bestiaryclass": "Humanoid",
+    "creatureclass": "Humanoids",
+    "earthDmgMod": "90%",
+    "physicalDmgMod": "95%",
+    "primarytype": "Minotaurs",
+    "spawntype": [
+        "Regular",
+        "Unblockable"
+    ],
+    "race_id": "1051",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "moohtahwarrior",
+    "behaviour": "Mooh'Tah Warriors never retreat.",
+    "location": "[[Oramond/Southern Plains]], [[Minotaur Hills]], [[Oramond Dungeon]] (depending on Magistrate votes), [[Underground Glooth Factory]]",
+    "strategy": "Fairly slow creatures. However, they should not be underestimated in close combat. Stay diagonal to avoid their beams."
+}

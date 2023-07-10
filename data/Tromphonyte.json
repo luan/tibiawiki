@@ -1,0 +1,82 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "walksthrough": "None",
+    "hp": "3000",
+    "speed": "?",
+    "abilities": "{{Ability List\n |{{Melee|?}}\n |{{Ability|[[Berserk]]|?|element=?}}\n |{{Ability|Throws life draining [[Small Stone]]|?|element=lifedrain}}\n |{{Healing|range=?}}\n |{{Debuff2|Earth Hit|melee=yes|distance=yes}}\n}}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "100%?",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "?",
+    "pushable": "?",
+    "implemented": "9.50",
+    "loot": [
+        {
+            "amount": "1-12+",
+            "itemName": "Platinum Coin"
+        },
+        {
+            "amount": "1-5+",
+            "itemName": "Small Topaz"
+        },
+        {
+            "amount": "1-2+",
+            "itemName": "Strong Health Potion"
+        },
+        {
+            "amount": "1-2+",
+            "itemName": "Strong Mana Potion"
+        },
+        {
+            "itemName": "Hollow Stampor Hoof",
+            "rarity": "always"
+        },
+        {
+            "itemName": "Stampor Horn",
+            "rarity": "always"
+        },
+        {
+            "itemName": "Stampor Talons",
+            "rarity": "always"
+        },
+        {
+            "itemName": "Knight Armor",
+            "rarity": "always"
+        },
+        {
+            "itemName": "Spiked Squelcher"
+        }
+    ],
+    "walksaround": "Fire, Energy, Poison",
+    "exp": "1300",
+    "creatureclass": "Mammals",
+    "earthDmgMod": "100%?",
+    "physicalDmgMod": "100%?",
+    "primarytype": "Ungulates",
+    "spawntype": [
+        "Unique",
+        "Triggered",
+        "Unblockable"
+    ],
+    "race_id": "847",
+    "senseinvis": "?",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Tromphonyte",
+    "isboss": "yes",
+    "behaviour": "[[Stampor]] boss fought during the [[Killing in the Name of... Quest]].",
+    "location": "Cave below the [[Muggy Plains]]. The teleporter is located {{Mapper Coords|129.112|121.210|8|2|text=here}}.",
+    "iceDmgMod": "100%?",
+    "strategy": "Unknown",
+    "energyDmgMod": "100%?",
+    "deathDmgMod": "100%?"
+}

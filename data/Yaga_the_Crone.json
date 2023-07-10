@@ -1,0 +1,94 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "New Boss implemented with the [[Updates/8.2|Summer Update 2008]]. Spawns with one [[Witch]]. Her name is most likely a reference to [[wikipedia:Baba Yaga|Baba Yaga]], a witch that appears in Slavic legends.[[File:Yaga.jpg|thumb]]",
+    "isarenaboss": "no",
+    "walksthrough": "Energy",
+    "hp": "620",
+    "usespells": "yes",
+    "speed": "?",
+    "abilities": "{{Ability List| {{Melee|0-50}}|{{Ability|[[Fireball]]|30-50|element=fire}}|{{Ability|shoots [[Fire Field]]s|element=fire field}}|{{Ability|[[Envenom]]|starting at 10 [[hp]]/turn|element=poisoned}}|{{Ability|[[Invisibility]] for around 5 seconds|element=invisible}}|{{Outfit|yes|Green Frog}} }}",
+    "pushobjects": "yes",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "secondarytype": "Amazons",
+    "fireDmgMod": "100%",
+    "holyDmgMod": "100%",
+    "sounds": [
+        "Where did I park my hut?",
+        "You will taste so sweet!",
+        "Hexipooh, bewitched are you!"
+    ],
+    "maxdmg": "60+",
+    "pushable": "no",
+    "implemented": "8.20",
+    "loot": [
+        {
+            "amount": "1-69",
+            "itemName": "Gold Coin"
+        },
+        {
+            "amount": "1-8",
+            "itemName": "Cookie"
+        },
+        {
+            "itemName": "Broom"
+        },
+        {
+            "itemName": "Coat"
+        },
+        {
+            "itemName": "Cape"
+        },
+        {
+            "itemName": "Star Herb"
+        },
+        {
+            "itemName": "Wolf Tooth Chain"
+        },
+        {
+            "itemName": "Garlic Necklace"
+        },
+        {
+            "itemName": "Silver Dagger"
+        },
+        {
+            "itemName": "Necrotic Rod",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Spellbook of Mind Control",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Bag of Apple Slices"
+        }
+    ],
+    "walksaround": "Fire, Poison",
+    "exp": "375",
+    "creatureclass": "Humans",
+    "earthDmgMod": "99%<?",
+    "physicalDmgMod": "101%>?",
+    "bosstiaryclass": "Nemesis",
+    "primarytype": "Sorcerers",
+    "spawntype": [
+        "Raid",
+        "Unique"
+    ],
+    "attacktype": "distance",
+    "race_id": "427",
+    "senseinvis": "yes",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Yaga the Crone",
+    "isboss": "yes",
+    "behaviour": "She always tries to stay away from the attacker, so she can burn you with her powerful fire missiles and poison you at a distance.",
+    "location": "Four levels underground, on the way to Blood Herb Quest, {{Mapper Coords|127.200|125.11|11|3|text=here}}.",
+    "iceDmgMod": "100%",
+    "strategy": "Try to push her in the corner and stand diagonally, so she won't run away and shoot more [[Fire Field]]s.",
+    "energyDmgMod": "0%",
+    "deathDmgMod": "105%"
+}

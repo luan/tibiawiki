@@ -1,0 +1,60 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "Diseased Bills",
+    "hpDrainDmgMod": "100%?",
+    "notes": "Is an infected human.",
+    "walksthrough": "Fire, Energy, Poison",
+    "hp": "1000",
+    "lightcolor": "30",
+    "speed": "?",
+    "abilities": "{{Ability List|{{Melee|0-240+|poison=3}}|{{Ability|Distance Life Drain|250-276+|element=lifedrain}}|{{Ability|[[Poison Storm]]|220-270|element=poison}}|{{Healing}}|{{Ability|[[Paralyze]]|element=paralyze}} }}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "75%",
+    "holyDmgMod": "75%",
+    "sounds": [
+        "People like you are the plague and I'll be the cure!",
+        "You all will pay for not helping me!",
+        "Cough! Cough!",
+        "Desolate! Everything is so desolate!"
+    ],
+    "maxdmg": "769+",
+    "pushable": "no",
+    "lightradius": "4",
+    "implemented": "8.40",
+    "loot": [
+        {
+            "amount": "0-25",
+            "itemName": "Gold Coin"
+        }
+    ],
+    "walksaround": "None",
+    "exp": "300",
+    "creatureclass": "Elementals",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "90%",
+    "bosstiaryclass": "Bane",
+    "primarytype": "Bio-Elementals",
+    "spawntype": [
+        "Regular",
+        "Unique"
+    ],
+    "race_id": "485",
+    "senseinvis": "yes",
+    "article": "a",
+    "actualname": "Diseased Bill",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Diseased Bill",
+    "isboss": "yes",
+    "behaviour": "Runs away in red [[health]].",
+    "location": "[[Alchemist Quarter]], {{Mapper Coords|127.157|121.149|7|2|text=here}}.",
+    "iceDmgMod": "75%",
+    "strategy": "Shoot from the door or run around a hole. If you are a lower level mage, you can also summon a demon skeleton inside the room with Diseased Bill since it is immune to earth damage and life drain. You can aid it with runes when they move away from the door.",
+    "energyDmgMod": "75%",
+    "deathDmgMod": "25%"
+}

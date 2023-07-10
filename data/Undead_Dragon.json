@@ -1,0 +1,167 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "Incredibly powerful dragon skeleton, capable of destructive attacks deadlier even than those from a [[Demon]]. They appeared in the [[Updates/7.9|Winter Update 2006]]. Its boss is [[Dracola]].\n\n{{JSpoiler|You may hunt 400 of these as a task of the [[Killing in the Name of... Quest]]. Upon completion of the task you will face [[Zanakeph]].}}",
+    "walksthrough": "Fire, Poison",
+    "hp": "8350",
+    "abilities": "{{Ability List\n |{{Melee|0-480}}\n |{{Ability|Life Drain Wave|550-700|life drain|scene={{Scene|spell=8sqmwave|effect=Red Sparkles Effect|caster=Undead Dragon|look_direction=east}}}}\n |{{Ability|Blood Ball|300-400|physical|scene={{Scene|spell=2sqmballtarget|effect=Blood Effect|caster=Undead Dragon|missile_direction=south-east|missile_distance=2/2}}}}\n |{{Ability|Poison Ball|100-390|earth|scene={{Scene|spell=2sqmballtarget|effect=Poison Effect 3|caster=Undead Dragon|missile=Poison Missile|missile_direction=south-east|missile_distance=2/2}}}}\n |{{Ability|Death Strike|25-600|death|scene={{Scene|spell=7sqmstrike|effect=Death Effect|caster=Undead Dragon|missile=Death Missile (Large)|missile_direction=south-east|missile_distance=7/7}}}}\n |{{Ability|Envenom|25-600|poisoned|scene={{Scene|spell=7sqmstrike|effect=Poison Effect 3|caster=Undead Dragon|missile=Poison Missile|missile_direction=south-east|missile_distance=7/7}}}}\n |{{Healing|range=200-250}}\n |{{Ability|Life Drain Exori|100-200|life drain|scene={{Scene|spell=3x3spell|effect=Red Sparkles Effect|caster=Undead Dragon|effect_on_caster=yes}}}}\n |{{Ability|Cursing Wave|element=cursed|scene={{Scene|spell=8sqmwave|effect=Cloud Effect|caster=Undead Dragon|look_direction=east}}}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "secondarytype": "Skeletons",
+    "holyDmgMod": "125%",
+    "maxdmg": "{{Max Damage|physical=880|lifedrain=700|earth=570|death=600}}",
+    "pushable": "?",
+    "implemented": "7.9",
+    "loot": [
+        {
+            "amount": "10-198",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-5",
+            "itemName": "Platinum Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Unholy Bone",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Small Sapphire",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-5",
+            "itemName": "Assassin Star",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "Great Mana Potion",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "Great Health Potion",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Black Pearl",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-15",
+            "itemName": "Power Bolt",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Hardened Bone",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Demonic Essence",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Golden Mug",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Knight Armor",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Dragonbone Staff",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Life Crystal",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "War Axe",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Death Ring",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Gold Ingot",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Royal Helmet",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Dragon Slayer",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Golden Armor",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Spellweaver's Robe",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Blue Gem",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Divine Plate",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Skullcracker Armor",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Energy",
+    "exp": "7200",
+    "mitigation": "1.74",
+    "attacktype": "Melee",
+    "article": "an",
+    "actualname": "undead dragon",
+    "illusionable": "no",
+    "armor": "66",
+    "convince": "--",
+    "name": "Undead Dragon",
+    "isboss": "no",
+    "iceDmgMod": "50%",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "0%",
+    "plural": "undead dragons",
+    "hpDrainDmgMod": "0%",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "Even though the mighty dragons can become 100 years and older, their lives also come to an end at some point. Just like some humans, also some dragons simply cannot let go though. Some of them acquire dark secrets in their long lives. Others forge dark pacts with necromancers and demons to rise again after death.<br />It is said that the first Undead Dragons were created by the malicious bonelords who are known to meddle with undeath and necromancy. Created as a weapon in some ancient war, the first Undead Dragons proved to be so powerful that they could not be controlled by their masters. They broke free of the bonelords' subterranean bone fencings and wreaked havoc on their own. The escaped Undead Dragons served as role models for other dragons who longed for this seeming immortality. Even though only a few dragons walked the shadow path that ultimately led to the embrace of unlife, those who did began to transform into even more powerful and threatening beings which finally developed to Undead Dragons. More similar to the lich than the usual undead, they have kept more of their former personality and knowledge than undeads of other races are able to. Their new powers make easily up for the loss of some of their dragon skills.",
+    "speed": "165",
+    "pushobjects": "?",
+    "fireDmgMod": "0%",
+    "sounds": [
+        "FEEEED MY ETERNAL HUNGER!",
+        "I SENSE LIFE"
+    ],
+    "bestiaryclass": "Undead",
+    "creatureclass": "Reptiles",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "95%",
+    "primarytype": "Dragons",
+    "spawntype": [
+        "Regular"
+    ],
+    "race_id": "282",
+    "bestiarylevel": "Hard",
+    "senseinvis": "yes",
+    "drownDmgMod": "0%",
+    "bestiaryname": "undeaddragon",
+    "behaviour": "Chaotic and destructive, the '''Undead Dragon''' will destroy almost everything in its path with its wave attacks, though it will, similar to all creatures of dragon kind, try to retreat at low health.",
+    "location": "[[Helheim]] (single, isolated spawn), [[Pits of Inferno]] (Ashfalor's throneroom), [[Demon Forge]] ([[The Shadow Nexus]] and [[The Arcanum]]), under [[Razachai]] (including the [[Inner Sanctum]]), [[Chyllfroest]], [[Oramond Fury Dungeon]] and [[Grounds of Undeath]].",
+    "strategy": "Its attacks have the same range as the [[Dragon]]s' [[Fire Wave]] but with other elements. Mages should use [[Energy Damage]], Paladins should use [[Holy Damage]], since they are strong against [[Physical Damage]] and immune against everything else. This is one of the strongest creatures in the [[Pits of Inferno]]. Mages under 335 should have [[Magic Shield]] '''always on''' when facing these. They retarget and can kill you in one combo. Knights will waste on soloing these creatures before roughly level 300, so it is not recommended to choose their task on lower levels."
+}

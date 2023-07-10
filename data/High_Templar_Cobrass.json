@@ -1,0 +1,72 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "New creature in [[Updates/8.2|Summer Update 2008]].",
+    "isarenaboss": "no",
+    "walksthrough": "?",
+    "hp": "410",
+    "speed": "?",
+    "abilities": "{{Ability List|{{Melee|0-80?}}|{{Healing|range=20-30}}}}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "110%?",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "{{Max Damage|physical=80?}}",
+    "pushable": "?",
+    "usedelements": "Physical",
+    "implemented": "8.20",
+    "loot": [
+        {
+            "amount": "0-100",
+            "itemName": "Gold Coin"
+        },
+        {
+            "itemName": "Salamander Shield"
+        },
+        {
+            "itemName": "Plate Armor"
+        },
+        {
+            "itemName": "Steel Helmet"
+        },
+        {
+            "itemName": "Vase",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Lizard Scale",
+            "rarity": "always"
+        },
+        {
+            "itemName": "Lizard Leather",
+            "rarity": "always"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "515",
+    "creatureclass": "Lizards",
+    "earthDmgMod": "0%?",
+    "physicalDmgMod": "100%",
+    "bosstiaryclass": "Nemesis",
+    "primarytype": "Low Class Lizards",
+    "race_id": "429",
+    "senseinvis": "?",
+    "actualname": "High Templar Cobrass",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "High Templar Cobrass",
+    "isboss": "yes",
+    "behaviour": "It attacks using melee. It is a stronger version of a [[Lizard Templar]]. High Templar Cobrass fights until death.",
+    "location": "[[Chor]], below the center temple, near the [[Funeral Urn]] used in [[The Explorer Society Quest]], downstairs {{Mapper Coords|128.188|128.85|7|2|text=here}}.",
+    "iceDmgMod": "99%<?",
+    "strategy": "Kill it like a normal [[Lizard Templar]].",
+    "energyDmgMod": "80%?",
+    "deathDmgMod": "100%?"
+}

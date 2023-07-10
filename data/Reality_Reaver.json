@@ -1,0 +1,165 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "Those that are located outside around the vortexes, do not yield any experience points.",
+    "walksthrough": "energy, fire",
+    "hp": "3900",
+    "abilities": "{{Ability List\n |{{Melee|0-500}}\n |{{Ability|Life Drain Strike|150-400|element=lifedrain\n  |scene={{Scene|spell=1sqmstrike|effect_on_target=Black Smoke Effect|missile=Death Missile|missile_direction=south-east|missile_distance=1/1}}}}\n |{{Ability|Energy Wave|250-500|element=energy\n  |scene={{Scene|spell=7sqmwavenarrow|effect=Blue Electricity Effect|caster=Reality Reaver|look_direction=east}}}}\n |{{Ability|Energy Ball|200-450|element=energy\n  |scene={{Scene|spell=3sqmballtarget|effect=Purple Electricity Effect|missile=Energy Ball Missile|missile_direction=south-east|missile_distance=3/3}}}}\n |{{Ability|Spark Bomb|electrifies|element=electrified\n  |scene={{Scene|spell=3sqmball2self|effect=Stars Effect}}}}\n |{{Ability|[[Invisibility]]|element=invisible}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "holyDmgMod": "100%",
+    "maxdmg": "1500",
+    "pushable": "no",
+    "implemented": "10.94",
+    "loot": [
+        {
+            "amount": "1-100",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-6",
+            "itemName": "Platinum Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Energy Bar",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Energy Drink",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Great Spirit Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Energy Vein",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Blue Crystal Splinter",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Dangerous Proto Matter",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Plasma Pearls",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Plasmatic Lightning",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Great Mana Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Red Crystal Fragment",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Great Health Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Blue Crystal Shard",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Violet Crystal Shard",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Red Gem",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Lightning Headband",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Wand of Starstorm",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Violet Gem",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Collar of Green Plasma",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Collar of Red Plasma",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Ring of Blue Plasma",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Ring of Green Plasma",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Ring of Red Plasma",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Collar of Blue Plasma",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Focus Cape",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "2480",
+    "mitigation": "1.76",
+    "attacktype": "Melee",
+    "history": "Its experience was decreased from 3100 to 2480 with the fourth batch of changes of [[Updates/12.31|Update 12.31]].",
+    "article": "a",
+    "actualname": "reality reaver",
+    "illusionable": "no",
+    "armor": "51",
+    "convince": "--",
+    "name": "Reality Reaver",
+    "isboss": "no",
+    "iceDmgMod": "80%",
+    "energyDmgMod": "15%",
+    "deathDmgMod": "95%",
+    "plural": "reality reaver",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "Unless other creatures from beyond, the Reality Reaver seems to follow regular patterns of behaviour, as it does not cause the random destruction in the same way that others of its kind do. However, just because the Reality Reaver possesses a form that follows predictable patterns to an extend which other beings do not, it is not yet in possession of sentience.\nThis being said, the Reality Reaver is just as malignant as the rest of its ilk. However, it has certain characteristics that are more often found in ordinary creatures, whereas the other \"newly created\" are closer in nature to a tornado or a wildfire. For instance, it has been reported that it creates small flocks of its own kind in order to attack in a pack. Still, even a single Reality Reaver is a force to be reckoned with.\nThe Reality Reaver seems somewhat more stable than the rest of its kind. While the others regularly dissolve and re-form, even in the realm beyond, the Reality Reaver is more anchored in our reality and with that, one step further towards our plane of existence. It cannot be foreseen what this means for our future.\nWhether or not the current crisis can be averted, one thing is certain; an invasion of these creatures can no longer be prevented. The very existence of the Reality Reaver and its ability to manifest in a concrete form is an indication that our reality's laws of probability helps these incursions to evolve into a more stable state of existence, which makes them more dangerous. The Reality Reaver is already very dangerous and destructive, but the aspect that it evolves in our world makes the Reality Reaver even more unnerving. \nScholars have proven themselves inadequate to the task of classifying these new creatures. They have categorised them as \"forces of destruction\". Equally erroneously, they have labelled the Reality Reaver as a \"destruction golem\". This classification is so obviously wrong that it would never stand a close examination.",
+    "speed": "170",
+    "pushobjects": "yes",
+    "fireDmgMod": "90%",
+    "sounds": [
+        "Ssshhh!"
+    ],
+    "runsat": "0",
+    "bestiaryclass": "Extra Dimensional",
+    "creatureclass": "Elementals",
+    "earthDmgMod": "110%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Electro-Elementals",
+    "race_id": "1224",
+    "bestiarylevel": "Hard",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "realityreaver",
+    "behaviour": "Often goes invisible out your visual range, pay attention to your surroundings so it won't sneak on you.",
+    "location": "[[Otherworld]].",
+    "strategy": "It's strongly advised to wear as much [[Energy Damage]] protection as possible, most of the damage dealt by Extra Dimensionals creatures comes from this element. Otherworld monsters also deal a lot of [[Life Drain]] damage, so you should also consider wearing a [[Garlic Necklace]] or [[Necklace of the Deep]] and put a [[Bone Fiddle]] in the extra slot."
+}

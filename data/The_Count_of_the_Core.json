@@ -1,0 +1,184 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "{{JSpoiler|Part of the [[Dangerous Depths Quest]].}}",
+    "walksthrough": "?",
+    "hp": "?",
+    "speed": "?",
+    "abilities": "{{Ability List\n |{{Melee|323+}}\n |and more\n}}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "yes",
+    "fireDmgMod": "-75%",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        "Shluush!",
+        "Sluuurp!"
+    ],
+    "maxdmg": "?",
+    "pushable": "?",
+    "cooldown": "4",
+    "implemented": "11.50.6055",
+    "loot": [
+        {
+            "itemName": "Crystal Coin"
+        },
+        {
+            "amount": "1-53",
+            "itemName": "Platinum Coin"
+        },
+        {
+            "itemName": "Gold Token"
+        },
+        {
+            "itemName": "Yellow Gem"
+        },
+        {
+            "amount": "1-18",
+            "itemName": "Great Spirit Potion"
+        },
+        {
+            "amount": "1-12",
+            "itemName": "Small Topaz"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Mastermind Potion"
+        },
+        {
+            "amount": "1-4",
+            "itemName": "Green Crystal Shard"
+        },
+        {
+            "itemName": "Magic Sulphur"
+        },
+        {
+            "itemName": "Stone Skin Amulet"
+        },
+        {
+            "itemName": "Amber Staff"
+        },
+        {
+            "itemName": "Wand of Inferno"
+        },
+        {
+            "itemName": "Fire Sword"
+        },
+        {
+            "itemName": "Silver Token"
+        },
+        {
+            "itemName": "Harpoon of a Giant Snail"
+        },
+        {
+            "itemName": "Huge Spiky Snail Shell"
+        },
+        {
+            "itemName": "Chitinous Mouth (Count of the Core)"
+        },
+        {
+            "itemName": "Slightly Rusted Helmet"
+        },
+        {
+            "itemName": "Slightly Rusted Shield"
+        },
+        {
+            "itemName": "Violet Gem"
+        },
+        {
+            "itemName": "Small Amethyst"
+        },
+        {
+            "itemName": "Great Mana Potion"
+        },
+        {
+            "itemName": "Huge Chunk of Crude Iron"
+        },
+        {
+            "itemName": "Luminous Orb"
+        },
+        {
+            "itemName": "Blue Gem"
+        },
+        {
+            "itemName": "Green Gem"
+        },
+        {
+            "itemName": "Small Ruby"
+        },
+        {
+            "itemName": "Heavy Crystal Fragment"
+        },
+        {
+            "itemName": "Small Emerald"
+        },
+        {
+            "itemName": "Red Gem"
+        },
+        {
+            "itemName": "Ultimate Health Potion"
+        },
+        {
+            "itemName": "Giant Shimmering Pearl"
+        },
+        {
+            "itemName": "Small Diamond"
+        },
+        {
+            "itemName": "Gnome Sword"
+        },
+        {
+            "itemName": "Gnome Shield"
+        },
+        {
+            "itemName": "Gnome Helmet"
+        },
+        {
+            "itemName": "Candle Stump"
+        },
+        {
+            "itemName": "Tinged Pot"
+        },
+        {
+            "itemName": "Mallet Handle"
+        },
+        {
+            "itemName": "Guardian Axe"
+        },
+        {
+            "itemName": "Giant Sword"
+        },
+        {
+            "itemName": "Twiceslicer"
+        },
+        {
+            "itemName": "Magma Coat"
+        },
+        {
+            "itemName": "Crystalline Armor"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "?",
+    "creatureclass": "Invertebrates",
+    "earthDmgMod": "100%?",
+    "physicalDmgMod": "100%?",
+    "bosstiaryclass": "Bane",
+    "primarytype": "Mollusks",
+    "race_id": "1519",
+    "senseinvis": "yes",
+    "actualname": "The Count Of The Core",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "The Count of the Core",
+    "isboss": "yes",
+    "behaviour": "This monster heals when receive Fire Damage. Every 100 fire damage heals 175 of his HP, including the damage dealt by the monsters of the boss room [[Ember Beast]]s and the fire cannons. It summons a [[Snail Slime]] after taking some damage, so it's better to attack it only when it's trapped in a corner with no spot to summon the slime (Summon range = 3 SQM around the boss).",
+    "location": "[[Warzone 5]].",
+    "iceDmgMod": "100%?",
+    "strategy": "Trap him in a corner of the room with a player on every SQM at the range of 3 SQM of the boss. Don't attack the boss until he is fully trapped or he will Summon a Snail Slime that blows up and deals up to 2000 damage and heals the boss. Druids and sorcerers should avoid his beam because it reduces their magic level.",
+    "energyDmgMod": "100%?",
+    "deathDmgMod": "100%?"
+}

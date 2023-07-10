@@ -1,0 +1,33 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "magma fiends",
+    "hpDrainDmgMod": "100%?",
+    "hp": "1600",
+    "abilities": "{{Ability List|}}",
+    "secondarytype": "Apes",
+    "fireDmgMod": "0%",
+    "holyDmgMod": "100%",
+    "sounds": [
+        ""
+    ],
+    "runsat": "red",
+    "implemented": "12.70.10953",
+    "loot": [],
+    "exp": "0",
+    "creatureclass": "Elementals",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Magma-Elementals",
+    "article": "a",
+    "actualname": "magma fiend",
+    "illusionable": "no",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Magma Fiend",
+    "isboss": "no",
+    "location": "[[Dwelling of the Forgotten]], at the [[Too_Hot_to_Handle_Quest#Lava Fishing|Too Hot to Handle]] Lava Fishing mission.",
+    "iceDmgMod": "105%",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "95%"
+}

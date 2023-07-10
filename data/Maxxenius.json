@@ -1,0 +1,184 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "{{JSpoiler|It's one of the bosses of [[The Dream Courts Quest]].}}",
+    "walksthrough": "?",
+    "hp": "?",
+    "speed": "?",
+    "abilities": "{{Ability List| {{Melee|0-1000}}|{{Ability|Energy Beam|500-1200|element=energy}}|{{Ability|Energy Wave|500-1200|element=energy}} }}",
+    "pushobjects": "yes",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "100%",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "3400",
+    "pushable": "no",
+    "implemented": "12.00.7695",
+    "loot": [
+        {
+            "amount": "5",
+            "itemName": "Platinum Coin"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "Crystal Coin"
+        },
+        {
+            "itemName": "Gold Ingot"
+        },
+        {
+            "amount": "10",
+            "itemName": "Bullseye Potion"
+        },
+        {
+            "amount": "10",
+            "itemName": "Mastermind Potion"
+        },
+        {
+            "amount": "100",
+            "itemName": "Royal Star"
+        },
+        {
+            "amount": "14-20",
+            "itemName": "Supreme Health Potion"
+        },
+        {
+            "amount": "6-14",
+            "itemName": "Ultimate Mana Potion"
+        },
+        {
+            "amount": "6-60",
+            "itemName": "Ultimate Spirit Potion"
+        },
+        {
+            "itemName": "Giant Ruby"
+        },
+        {
+            "itemName": "Ornate Locket"
+        },
+        {
+            "amount": "2",
+            "itemName": "Gold Token"
+        },
+        {
+            "amount": "2-3",
+            "itemName": "Silver Token"
+        },
+        {
+            "itemName": "Giant Shimmering Pearl"
+        },
+        {
+            "itemName": "Pomegranate"
+        },
+        {
+            "itemName": "Energy Bar"
+        },
+        {
+            "itemName": "Chaos Mace"
+        },
+        {
+            "itemName": "Collar of Red Plasma"
+        },
+        {
+            "itemName": "Collar of Green Plasma"
+        },
+        {
+            "itemName": "Giant Shimmering Pearl"
+        },
+        {
+            "itemName": "Green Gem"
+        },
+        {
+            "itemName": "Blue Gem"
+        },
+        {
+            "itemName": "Yellow Gem"
+        },
+        {
+            "itemName": "Violet Gem"
+        },
+        {
+            "itemName": "Huge Chunk of Crude Iron"
+        },
+        {
+            "itemName": "Mysterious Remains"
+        },
+        {
+            "itemName": "Piggy Bank"
+        },
+        {
+            "itemName": "Ring of Blue Plasma"
+        },
+        {
+            "itemName": "Skull Staff"
+        },
+        {
+            "itemName": "Brain in a Jar"
+        },
+        {
+            "itemName": "Energized Limb"
+        },
+        {
+            "itemName": "Maxxenius Head"
+        },
+        {
+            "itemName": "Purple Tendril Lantern"
+        },
+        {
+            "itemName": "Magic Sulphur"
+        },
+        {
+            "itemName": "Soul Stone"
+        },
+        {
+            "itemName": "Ring of the Sky"
+        },
+        {
+            "itemName": "Ring of Red Plasma"
+        },
+        {
+            "itemName": "Red Gem"
+        },
+        {
+            "itemName": "Collar of Blue Plasma"
+        },
+        {
+            "itemName": "Ring of Green Plasma"
+        },
+        {
+            "itemName": "Berserk Potion"
+        },
+        {
+            "itemName": "Abyss Hammer"
+        },
+        {
+            "itemName": "Arcane Staff"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "55000",
+    "creatureclass": "Misc",
+    "earthDmgMod": "100%",
+    "physicalDmgMod": "95%?",
+    "bosstiaryclass": "Nemesis",
+    "primarytype": "Machines",
+    "race_id": "1697",
+    "senseinvis": "?",
+    "actualname": "Maxxenius",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Maxxenius",
+    "isboss": "yes",
+    "behaviour": "It does not retarget very often, but will frequently transform its target on an [[Energy Elemental]]. It uses its Energy Beam and Wave very often, frequently on the same turn, which may result in a high combo.",
+    "location": "The Dream Scar.",
+    "iceDmgMod": "85%",
+    "strategy": "Players should wear energy protection against this boss. There are two key points to be aware of when fighting Maxxenius:\n\n1. Maxxenius is healed by [[Energy Damage]], so this element shouldn't be used by players. Furthermore, there are [[Generator]]s that constantly use an Energy spell around them, and the outer tiles of the room will also pulsate with an energy spell. Thus, Maxxenius must be blocked away from these fields. The north-west area of the room is ideal for that, but i can also be done on the east side of the room. \n\n2. During the fight, Maxxenius will frequently transform its target in an [[Energy Elemental]]. About 10 seconds after the transformation, the player will \"explode\" dealing 1000-1500 energy damage around him (2 fields radius). Thus, in order to avoid healing the boss, this player should move away from it. This can be done easily if there are 2 Knights and the one that isn't transformed [[Challenge]]s Maxxenius so the other one can run away. In case no second Knight is available, the same result can also be achieved but the players will have to force Maxxenius to change target without using [[Challenge]].",
+    "energyDmgMod": "-600%",
+    "deathDmgMod": "80%"
+}

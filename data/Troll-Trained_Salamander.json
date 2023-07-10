@@ -1,0 +1,102 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "troll-trained salamanders",
+    "hpDrainDmgMod": "100%?",
+    "notes": "A weak [[Salamander]].",
+    "isarenaboss": "no",
+    "walksthrough": "None.",
+    "hp": "70",
+    "speed": "56",
+    "abilities": "{{Ability List|{{Melee|0-13}}|{{Ability|Close distance [[poisoned|poisoned]]|1 hp/turn, 5 hp total|poisoned}}|{{Ability|Earth Missile|4-6|earth}}}}",
+    "pushobjects": "No",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "secondarytype": "Salamanders",
+    "fireDmgMod": "85%",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "{{Max Damage|physical=13|earth=7}}",
+    "pushable": "Yes",
+    "runsat": "0",
+    "implemented": "10.55",
+    "loot": [
+        {
+            "amount": "0-11",
+            "itemName": "Gold Coin"
+        },
+        {
+            "amount": "0-5",
+            "itemName": "Insectoid Eggs"
+        },
+        {
+            "amount": "0-5",
+            "itemName": "Simple Arrow"
+        },
+        {
+            "itemName": "Meat"
+        },
+        {
+            "itemName": "Chain Helmet"
+        },
+        {
+            "itemName": "Axe"
+        },
+        {
+            "itemName": "Bone Club",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Short Sword",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Studded Helmet",
+            "rarity": "semi-rare"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "Poison Arrow",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Shovel",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Health Potion",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Insectoid Egg"
+        }
+    ],
+    "walksaround": "Fire, Energy, Poison",
+    "exp": "23",
+    "creatureclass": "Amphibians",
+    "earthDmgMod": "100%?",
+    "physicalDmgMod": "100%?",
+    "primarytype": "Amphibians",
+    "spawntype": [
+        "Regular",
+        "Unblockable"
+    ],
+    "race_id": "1065",
+    "senseinvis": "?",
+    "article": "a",
+    "actualname": "troll-trained salamander",
+    "illusionable": "no",
+    "armor": "1",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Troll-Trained Salamander",
+    "isboss": "no",
+    "behaviour": "Fights in close combat.",
+    "location": "[[Dawnport]].",
+    "iceDmgMod": "100%?",
+    "strategy": "Just kill it. Good source of a [[Shovel]] which is not already given to you, and other minor equipment upgrades.",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "100%?"
+}

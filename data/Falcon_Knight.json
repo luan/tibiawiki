@@ -1,0 +1,177 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "<gallery hideaddbutton=\"true\" spacing=\"small\" position=\"center\" style=\"text-align:center\" captionalign=\"center\" mode=\"nolines\">\nFalcon Knight Artwork.jpg|Official [[Creature Artwork]]\n</gallery>",
+    "isarenaboss": "no",
+    "walksthrough": "Fire, Energy, Poison",
+    "hp": "9000",
+    "abilities": "{{Ability List\n |{{Melee|0-400}}\n |{{Ability|Earth Berserk|400-500|element=earth\n  |scene={{Scene|spell=3x3spell|caster=Falcon Knight|look_direction=south|effect=Dust Effect|effect_on_caster=yes|damage_effect=Poison Effect 1}}}}\n |{{Ability|Holy Beam|290-360|element=holy\n   |scene={{Scene|spell=4sqmbeam|effect=Holy Effect|caster=Falcon Knight|look_direction=east}}}}\n |{{Ability|Flame Dance|unknown maybe buff|element=?\n   |scene={{Scene|spell=buffspell|effect=Flame Effect|caster=Falcon Knight|look_direction=south|effect_on_caster=yes}}}}\n |{{Haste|[[Strong Haste]]}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "holyDmgMod": "110%",
+    "maxdmg": "1260+",
+    "pushable": "no",
+    "usedelements": "Earth > Physical > Holy",
+    "implemented": "11.80.7048",
+    "loot": [
+        {
+            "amount": "1-8",
+            "itemName": "Ham",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Soul Orb",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "Great Mana Potion",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "Great Health Potion",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-10",
+            "itemName": "Assassin Star",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-4",
+            "itemName": "Flask of Demonic Blood",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "Small Amethyst",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-15",
+            "itemName": "Onyx Arrow",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "Small Emerald",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "Small Diamond",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "Small Ruby",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "Small Topaz",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Giant Shimmering Pearl (Green)",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Titan Axe",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Spiked Squelcher",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Knight Armor",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Damaged Armor Plates",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Falcon Crest",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Green Gem",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "War Axe",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Violet Gem",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Golden Armor",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Mastermind Shield",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Demonbone Amulet",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Closed Trap",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Heavy Mace",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "None",
+    "exp": "5985",
+    "mitigation": "2.37",
+    "attacktype": "Melee",
+    "history": "Its experience was decreased from 7500 to 4500 with the fourth batch of changes of [[Updates/12.31|Update 12.31]]. It was later increased to 5985 with the seventh batch of changes.",
+    "article": "a",
+    "actualname": "falcon knight",
+    "illusionable": "no",
+    "armor": "86",
+    "convince": "--",
+    "name": "Falcon Knight",
+    "isboss": "no",
+    "iceDmgMod": "100%",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "50%",
+    "isevent": "no",
+    "plural": "falcon knights",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "Falcon Knights are members of the Order of the Falcon. A once honourable and revered order of knights. They fell victim to a curse centuries ago and are now mere shadows of their former, noble self. The mighty knights are expertly trained and can prove an unsurmountable obstacle in combat. These relentless warriors are still bound to their oaths and will defend the order to the death.",
+    "speed": "110",
+    "pushobjects": "yes",
+    "fireDmgMod": "100%",
+    "sounds": [
+        "Mmmhaarrrgh!"
+    ],
+    "runsat": "0",
+    "bestiaryclass": "Undead",
+    "creatureclass": "Humans",
+    "earthDmgMod": "100%",
+    "physicalDmgMod": "70%",
+    "primarytype": "Members of the Order of the Falcon",
+    "spawntype": [
+        "Unblockable"
+    ],
+    "race_id": "1646",
+    "bestiarylevel": "Hard",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "falconknight",
+    "behaviour": "They move slowly for their strength.",
+    "location": "[[Falcon Bastion]].",
+    "strategy": "The combination of its strong Melee attacks and it's frequently used Earth Berserk can be very dangerous when fighting groups of these creatures. The Falcon Knights do not attack from distance, but the same cannot be said about the [[Falcon Paladin]]s. Thus, try to wear some physical and earth protection against them, but also energy protection for the damage you'll inevitably take from [[Falcon Paladin]]s. \n\nDue to their small moving speed you may not notice how many Falcons are coming your way, so be careful when walking around the Falcon Bastion since you'll notice Falcons slowly coming from all directions. An unprepared team may lure too many Falcon Knights and Paladins and get into serious trouble."
+}

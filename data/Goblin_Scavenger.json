@@ -1,0 +1,104 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "New creature in [[Updates/8.2|Summer Update 2008]].",
+    "walksthrough": "None",
+    "hp": "60",
+    "abilities": "{{Ability List\n |{{Melee|0-15|element=physical}}\n |{{Ability|[[Distance Fighting|Spears]]|0-30}}\n |{{Ability|Distance Life Drain|22-30|element=lifedrain}}\n |{{Healing|range=10-16}}\n |{{Haste}}\n |{{Ability|[[Death Strike]]|1-30|element=death}}\n |{{Ability|[[Energy Strike]] on himself|element=energy}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "holyDmgMod": "80%",
+    "maxdmg": "75",
+    "pushable": "Yes",
+    "implemented": "8.20",
+    "loot": [
+        {
+            "amount": "1-9",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Small Stone",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Bone",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Dagger",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Fish",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Leather Armor",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Leather Helmet",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Mouldy Cheese",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Short Sword",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Small Axe",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Bone Club",
+            "rarity": "semi-rare"
+        }
+    ],
+    "walksaround": "Fire, Energy, Poison",
+    "exp": "37",
+    "mitigation": "0.23",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "goblin scavenger",
+    "illusionable": "yes",
+    "armor": "7",
+    "convince": "310",
+    "name": "Goblin Scavenger",
+    "isboss": "no",
+    "iceDmgMod": "100%",
+    "energyDmgMod": "80%",
+    "deathDmgMod": "110%",
+    "plural": "goblin scavengers",
+    "hpDrainDmgMod": "100%",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "Goblin Scavengers play an important role in the goblin society. They are highly skilled in recycling almost any garbage into useful things. In the camps, older Goblin Scavengers sort out the loot the raiders and warriors get into their hands. The younger Goblin Scavengers are sent out into the wilderness to loot and plunder everything they can get. Usually they form parties that sneak about the lands of their enemies and try to get as much loot as possible. It is said that the loot bag, still very popular among modern adventurers, was an invention of Goblin Scavengers.<br />When surrounded by enemies, they try to keep a distance and to attack from afar. Since Goblin Scavengers are usually seasoned scouts, they also possess some knowledge about the wilderness and plants. This enables them to poison their weapons with a moderate effect.<br />You never know what kind of loot a Goblin Scavenger might dig up from his pockets. It can be everything from a rune to much more valuable items. Goblin Scavengers occur either alone on a mission as a scout, in small groups of two or three, or as a band consisting of up to two dozens.",
+    "speed": "66",
+    "pushobjects": "No",
+    "fireDmgMod": "100%",
+    "sounds": [
+        "Shiny, shiny!",
+        "You mean!",
+        "All mine!",
+        "Uhh!",
+        "Gimme gimme!"
+    ],
+    "bestiaryclass": "Humanoid",
+    "creatureclass": "Humanoids",
+    "earthDmgMod": "110%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Goblins",
+    "race_id": "464",
+    "bestiarylevel": "Easy",
+    "senseinvis": "no",
+    "drownDmgMod": "100%",
+    "bestiaryname": "goblinscavenger",
+    "behaviour": "Runs in red [[health]], but will return if they heal themselves to yellow health. They can be [[push]]ed and don't move objects that are in their way.",
+    "location": "[[Femor Hills]], [[Edron Goblin Cave]], and [[Fenrock]].",
+    "strategy": "They are somewhat easy to kill, their [[Self-Healing]] can be a bit frustrating and lower [[level]]s need to be '''very cautious''' as their [[Life Drain]] attack can be deadly for low levels."
+}

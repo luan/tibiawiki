@@ -1,0 +1,188 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "?",
+    "hpDrainDmgMod": "100%?",
+    "notes": "This is one of the bosses in the [[Forgotten Knowledge Quest]].",
+    "walksthrough": "Fire, Energy, Poison",
+    "hp": "?",
+    "speed": "?",
+    "abilities": "{{Ability List| {{Melee|0-1800+}}|{{Ability|[[Death Damage|Death Beam]]|0-269|element=death}}|{{Ability|[[Death Damage|Death Strike]]|0-337+|element=death}} }}",
+    "pushobjects": "yes",
+    "healMod": "100%?",
+    "paraimmune": "yes",
+    "fireDmgMod": "95%",
+    "holyDmgMod": "99%?",
+    "sounds": [
+        "May the embrace of darkness kill you!",
+        "I'm the one and only mistress of shadows!",
+        "Blackout!"
+    ],
+    "maxdmg": "2315+",
+    "pushable": "no",
+    "runsat": "0",
+    "implemented": "11.02.4128",
+    "cooldown": "20",
+    "loot": [
+        {
+            "amount": "0-200",
+            "itemName": "Gold Coin"
+        },
+        {
+            "amount": "0-25",
+            "itemName": "Platinum Coin"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "Cluster of Solace"
+        },
+        {
+            "amount": "0-10",
+            "itemName": "Small Amethyst"
+        },
+        {
+            "amount": "0-10",
+            "itemName": "Small Diamond"
+        },
+        {
+            "amount": "0-10",
+            "itemName": "Small Ruby"
+        },
+        {
+            "amount": "0-10",
+            "itemName": "Small Topaz"
+        },
+        {
+            "amount": "0-5",
+            "itemName": "Great Mana Potion"
+        },
+        {
+            "amount": "0-10",
+            "itemName": "Great Spirit Potion"
+        },
+        {
+            "amount": "0-3",
+            "itemName": "Blue Crystal Shard"
+        },
+        {
+            "amount": "0-3",
+            "itemName": "Green Crystal Shard"
+        },
+        {
+            "amount": "0-3",
+            "itemName": "Violet Crystal Shard"
+        },
+        {
+            "itemName": "Arcane Staff"
+        },
+        {
+            "itemName": "Giant Shimmering Pearl"
+        },
+        {
+            "itemName": "Green Gem"
+        },
+        {
+            "itemName": "Yellow Gem"
+        },
+        {
+            "itemName": "Red Gem"
+        },
+        {
+            "itemName": "Blue Gem"
+        },
+        {
+            "itemName": "Mastermind Potion"
+        },
+        {
+            "itemName": "Ring of the Sky"
+        },
+        {
+            "itemName": "Ring of Healing"
+        },
+        {
+            "itemName": "Sapphire Amulet"
+        },
+        {
+            "itemName": "Shadow Mask"
+        },
+        {
+            "itemName": "Shadow Paint"
+        },
+        {
+            "itemName": "Shadow Sceptre"
+        },
+        {
+            "itemName": "Spellbook of Warding"
+        },
+        {
+            "itemName": "Skull Staff"
+        },
+        {
+            "itemName": "Wand of Defiance"
+        },
+        {
+            "itemName": "Onyx Pendant"
+        },
+        {
+            "itemName": "Book of Lies"
+        },
+        {
+            "itemName": "Crude Umbral Spellbook"
+        },
+        {
+            "itemName": "Umbral Spellbook"
+        },
+        {
+            "itemName": "Part of a Rune (Four)"
+        },
+        {
+            "itemName": "Silver Token"
+        },
+        {
+            "itemName": "Gold Token"
+        },
+        {
+            "itemName": "Ultimate Health Potion"
+        },
+        {
+            "itemName": "Spellbook of Lost Souls"
+        },
+        {
+            "itemName": "Violet Gem"
+        },
+        {
+            "itemName": "Small Emerald"
+        },
+        {
+            "itemName": "Abyss Hammer"
+        },
+        {
+            "itemName": "Spellweaver's Robe"
+        }
+    ],
+    "walksaround": "None",
+    "exp": "~50000?",
+    "creatureclass": "Mammals",
+    "earthDmgMod": "80%",
+    "physicalDmgMod": "100%?",
+    "bosstiaryclass": "Archfoe",
+    "primarytype": "Humans",
+    "spawntype": [
+        "Triggered"
+    ],
+    "race_id": "1315",
+    "senseinvis": "yes",
+    "actualname": "Lady Tenebris",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Lady Tenebris",
+    "isboss": "yes",
+    "behaviour": "Fights in close combat. Every couple minutes she will teleport players into the middle of the room and after a few seconds she will cast an ultimate explosion around her (7sqm radius) that deals up to 2500 [[Death Damage]].",
+    "location": "A dungeon {{Mapper Coords|128.143|123.111|14|4|text=here}}, accessible through the [[Death Portal]] and the [[Old Masonry]].",
+    "iceDmgMod": "85%",
+    "strategy": "Unknown",
+    "energyDmgMod": "95%",
+    "deathDmgMod": "40%"
+}

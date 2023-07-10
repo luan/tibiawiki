@@ -1,0 +1,82 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "Death Priest Shargon",
+    "hpDrainDmgMod": "100%?",
+    "notes": "He is part of the [[Dark Trails Quest]].",
+    "walksthrough": "?",
+    "hp": "65000",
+    "speed": "?",
+    "abilities": "{{Ability List| {{Melee|0-800}}|{{Healing|range=0-699+}}|{{Ability|Energy Wave|350-1000|element=holy}}|{{Ability|[[Holy Flash]]|element=holy}}|{{Ability|[[Death Damage|Great Death Ball]]|0-660+|element=death}}|{{Summon|Lesser Death Minion|2}} }}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "95%",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "2000?",
+    "pushable": "?",
+    "implemented": "10.50",
+    "loot": [
+        {
+            "amount": "0-100",
+            "itemName": "Gold Coin"
+        },
+        {
+            "amount": "0-15",
+            "itemName": "Platinum Coin"
+        },
+        {
+            "amount": "0-5+",
+            "itemName": "Great Mana Potion"
+        },
+        {
+            "amount": "0-5",
+            "itemName": "Great Health Potion"
+        },
+        {
+            "itemName": "Gold Ingot"
+        },
+        {
+            "itemName": "Black Skull (Item)"
+        },
+        {
+            "itemName": "Necrotic Rod"
+        },
+        {
+            "itemName": "Blood Goblet",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Voodoo Doll",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "~20000",
+    "creatureclass": "Humans",
+    "earthDmgMod": "40%",
+    "physicalDmgMod": "100%?",
+    "bosstiaryclass": "Bane",
+    "primarytype": "Sorcerers",
+    "spawntype": [
+        "Triggered"
+    ],
+    "race_id": "1047",
+    "senseinvis": "?",
+    "actualname": "Death Priest Shargon",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Death Priest Shargon",
+    "isboss": "yes",
+    "behaviour": "Unknown.",
+    "location": "[[Oramond]].",
+    "iceDmgMod": "100%?",
+    "strategy": "It is extremely important to kill the [[Lesser Death Minion]]s first, before they become [[Greater Death Minion|stronger]]. Also, although one would expect items that provide protection from [[Death Damage]] such as [[Koshei's Ancient Amulet]] to be useful against Shargon, extra attention is recommended as such items will increase the holy damage taken from both the [[dazzled]] status and the holy wave. It is strongly recommended to not use [[Wild Growth]] or [[Magic Wall]]s because if you do so, the boss will disappear and summon around 20-30 [[Death Reaper]]s.",
+    "energyDmgMod": "97%",
+    "deathDmgMod": "100%?"
+}

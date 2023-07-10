@@ -1,0 +1,87 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "Apprentice Sheng",
+    "hpDrainDmgMod": "100%?",
+    "notes": "It used to yield 100 experience points, but was changed to 150 experience points in the [[Updates/8.2|Summer Update 2008]].\nIt spawns with 4 [[minotaur]]s so you may fight up to 2 [[hyaena]]s, 9 [[minotaur]]s, and 2 [[wolf|wolves]] in the final room along with Apprentice Sheng.\n\n<gallery mode=\"nolines\">\nShengnotinmunity.gif|It can be seen that the Apprentice Sheng is not immune to poison.\nApprentice Sheng.PNG\nApprentice Sheng 1.png\n</gallery>",
+    "walksthrough": "?",
+    "hp": "95",
+    "usespells": "yes",
+    "speed": "85",
+    "abilities": "{{Ability List\n |{{Melee|0-10}}\n |{{Ability|Summon|1-2 [[Hyaena]]|element=summon\n  |scene={{Scene|spell=2sqmballself|effect=Red Sparkles Effect|caster=Apprentice Sheng|effect_on_caster=yes}}}}\n |{{Healing|Slow [[Self-Healing]]|range=10-14}}\n |{{Ability|Creates energy fields|element=energy field\n  |scene={{Scene|spell=7sqmstrike|caster=Apprentice Sheng|effect=|missile=Energy Missile|missile_direction=south-east|missile_distance=7/7|effect_under_target=Energy_Field_(Field)}}}}\n |{{Ability|Light Magic Missile|10-25|element=energy\n |scene={{Scene|spell=7sqmstrike|caster=Apprentice Sheng|missile=Energy Missile|missile_direction=south-east|missile_distance=7/7|effect=Blue Electricity Effect}}}}\n |{{Ability|Fire Strike|28-45|fire\n  |scene={{Scene|spell=7sqmstrike|caster=Apprentice Sheng|missile=Fire Missile|missile_direction=south-east|missile_distance=7/7|effect=Flame Effect}}}}\n}}",
+    "pushobjects": "Yes",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "100%",
+    "holyDmgMod": "100%",
+    "sounds": [
+        "I will protect the secrets of my master!",
+        "Kaplar!",
+        "This isle will become ours alone",
+        "You already know too much."
+    ],
+    "maxdmg": "80+ (120+ with summons)",
+    "pushable": "No",
+    "runsat": "4",
+    "implemented": "7.9",
+    "loot": [
+        {
+            "amount": "0-10",
+            "itemName": "Gold Coin"
+        },
+        {
+            "itemName": "Meat"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "Torch"
+        },
+        {
+            "amount": "0-6",
+            "itemName": "Carrot"
+        },
+        {
+            "itemName": "Leather Legs"
+        },
+        {
+            "itemName": "Leather Helmet"
+        },
+        {
+            "itemName": "Minotaur Leather",
+            "rarity": "always"
+        },
+        {
+            "itemName": "Magic Light Wand"
+        },
+        {
+            "itemName": "Knife"
+        },
+        {
+            "itemName": "Minotaur Horn"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "150",
+    "creatureclass": "Humanoids",
+    "earthDmgMod": "100%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Minotaurs",
+    "spawntype": [
+        "Raid"
+    ],
+    "attacktype": "distance",
+    "race_id": "309",
+    "senseinvis": "?",
+    "actualname": "Apprentice Sheng",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Apprentice Sheng",
+    "isboss": "yes",
+    "location": "[[Minotaur Hell]] ([[Rookgaard]]).",
+    "iceDmgMod": "100%",
+    "strategy": "Strategy for a team of players: Get 3 players to block it into a corner and heal with [[Small Health Potion|small health potions]], while attacking it on defensive fighting with [[melee]]. Get 1 more person with a high distance skill to shoot [[arrows]] or throw [[spears]] on offensive fighting. To solo the boss a fast player can run to the small north room to lure the boss inside. After that place two [[box]]es or [[Honey Flower|honey flower]]s to keep the [[minotaur]]s out and only fight Apprentice Sheng and 2 [[hyaena]]s (10-20 [[Small Health Potion|small health potions]] is best to keep yourself from dying). Another way is using [[Poison Arrow|poison arrows]] to lower defense, and [[spear]]s to kill the boss.\n\nStrategy for a single player: Stand in the oven room on the tile marked with white square on the screenshot, the Apprentice Sheng will keep the distance from you, but he will keep coming back to the tile marked with red square on the screenshot. Each time he comes back, you will hit him. At the same time you will only be attacked by a maximum of two other monsters, standing to your right. Apprentice Sheng will push one of the monsters away each time he walks onto the tile marked red. \n\n[[File:Apprentice Sheng Killing Method.png|200px|thumb|left]]",
+    "energyDmgMod": "0%",
+    "deathDmgMod": "100%"
+}

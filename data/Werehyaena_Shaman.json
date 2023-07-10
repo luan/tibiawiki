@@ -1,0 +1,124 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "walksthrough": "Fire, Poison",
+    "hp": "2500",
+    "abilities": "{{Ability List| {{Melee|0-260}}|{{Ability|Poison Ball|280-315|element=poison}}|{{Ability|Death Beam|280-325|element=death}}|{{Ability|Death Missile|370-430|element=death}}|{{Ability|Poison Berserk|280-325|element=death}} }}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "secondarytype": "Lycanthropes",
+    "holyDmgMod": "95%",
+    "maxdmg": "?",
+    "pushable": "no",
+    "implemented": "12.40.9997",
+    "loot": [
+        {
+            "itemName": "Platinum Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Great Mana Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Small Amethyst",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Hailstorm Rod",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Wand of Starstorm",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Green Crystal Splinter",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Moonlight Crystals",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Werehyaena Nose",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Small Enchanted Emerald",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Protection Amulet",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Sword Ring",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Doublet",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Black Shield",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Wand of Voodoo",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Brown Crystal Splinter",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Werehyaena Talisman",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Werehyaena Trophy",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Energy",
+    "exp": "2200",
+    "mitigation": "0.91",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "werehyaena shaman",
+    "illusionable": "no",
+    "armor": "38",
+    "convince": "--",
+    "name": "Werehyaena Shaman",
+    "isboss": "no",
+    "iceDmgMod": "120%",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "105%",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "Werehyaenas are humans under a curse - others claim infected with a disease - that causes them to transform into savage beasts. At the beginning, the transformation only takes place at full moon, and the victim regains its human appearance the next morning. In the course of time, the transformation lasts longer and the full moon is no longer a necessary condition for the transformation. At a certain point, the beast takes over more and more often.<br />\nWerehyaenas are sly and tough, yet not too strong or coordinated. They are predators as well as carrion eaters and their appearance is a mix between a hyaena and a human being. Like hyaenas, Werehyaenas favour warm savannas and deserts as homesteads and are aggressive and cunning.<br />\nOther than Edron's and Cormaya's werebeasts, the werehyaena packs of the Darama Desert are known for having shamans in their ranks. They use simple bone talismans to cast spells that could somehow be connected to undead powers.<br />\nThe curse of the Full Moon, as it is frequently called, is usually spread by the infectious bite or scratch of other were-creatures. Forbidden books also tell about methods that allow to turn somebody into a were-creature with the help of dark rites. Some twisted individuals even call the curse upon themselves in the hope of using their new powers to avenge an injustice or insult.",
+    "speed": "110",
+    "pushobjects": "yes",
+    "fireDmgMod": "75%",
+    "sounds": [
+        ""
+    ],
+    "runsat": "0",
+    "bestiaryclass": "Lycanthrope",
+    "creatureclass": "Mammals",
+    "earthDmgMod": "60%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Hyaenids",
+    "spawntype": [
+        "Regular"
+    ],
+    "race_id": "1964",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "werehyaenashaman",
+    "location": "[[Darashia Wyrm Hills]] (only during night), [[Hyaena Lairs]].",
+    "strategy": "Unknown."
+}

@@ -1,0 +1,96 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "Only appear during the [[Nomads Mini World Change]]. They are basically the same as the [[Nomad (Basic)|normal version]]. The respawn can be blocked.",
+    "walksthrough": "None",
+    "hp": "160",
+    "abilities": "{{Ability List|{{Melee|0-80}}}}",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "holyDmgMod": "80%",
+    "maxdmg": "{{Max Damage|physical=80}}",
+    "pushable": "yes",
+    "usedelements": "Physical",
+    "implemented": "9.40",
+    "loot": [
+        {
+            "amount": "0-40",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Rope Belt",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Axe",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Mace",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Brass Armor",
+            "rarity": "semi-rare"
+        },
+        {
+            "amount": "0-3",
+            "itemName": "Potato",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Dirty Turban",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Iron Helmet",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Steel Shield",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Nomad Parchment",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Fire, Energy, Poison",
+    "exp": "60",
+    "mitigation": "0.41",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "nomad",
+    "illusionable": "no",
+    "armor": "6",
+    "convince": "420",
+    "name": "Nomad (Blue)",
+    "isboss": "no",
+    "iceDmgMod": "110%",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "110%",
+    "status": "event",
+    "plural": "nomads",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Uncommon",
+    "speed": "95",
+    "pushobjects": "no",
+    "fireDmgMod": "80%",
+    "sounds": [
+        ""
+    ],
+    "bestiaryclass": "Human",
+    "creatureclass": "Humans",
+    "earthDmgMod": "100%",
+    "physicalDmgMod": "110%",
+    "primarytype": "Outlaws",
+    "race_id": "776",
+    "bestiarylevel": "Easy",
+    "senseinvis": "no",
+    "drownDmgMod": "100%?",
+    "behaviour": "Runs away at 15hp.",
+    "location": "South of the [[Tarpit Tomb]] ({{Mapper Coords|129.207|127.228|7|1|text=here}}), north-east of the [[Ancient Ruins Tomb]] ({{Mapper Coords|129.212|127.58|7|1|text=here}}) and north-east of the [[Shadow Tomb]] ({{Mapper Coords|130.18|128.9|7|1|text=here}})",
+    "strategy": "Similar to [[Wild Warrior]]s and [[Bandit]]s. Easy to kill by players above [[level]] 15. But be careful not to lure more of them, when the Nomad starts to run away."
+}

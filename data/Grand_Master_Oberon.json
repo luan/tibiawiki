@@ -1,0 +1,117 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "He is the [[Order of the Falcon]] leader and brother of [[Scarlett Etzel|Scarlett]] and [[Kesar Etzel]].\n{{JSpoiler|Part of [[The Secret Library Quest]].}}",
+    "walksthrough": "Energy, Poison, Fire",
+    "hp": "30000",
+    "speed": "?",
+    "abilities": "{{Ability List| {{Melee|0-1200+}}|{{Ability|[[Holy|Holy Beam]]|500-650+|element=holy}}|{{Ability|[[Groundshaker]]| 500-850+|element=earth}}|{{Ability|[[Death|Sudden Death]]|400-500+|element=death}} }}",
+    "pushobjects": "yes",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "fireDmgMod": "100%",
+    "holyDmgMod": "120%",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "2500",
+    "pushable": "no",
+    "runsat": "0",
+    "implemented": "11.80.7048",
+    "cooldown": "20",
+    "loot": [
+        {
+            "itemName": "The Spatial Warp Almanac",
+            "rarity": "always"
+        },
+        {
+            "itemName": "Falcon Bow"
+        },
+        {
+            "itemName": "Falcon Shield"
+        },
+        {
+            "itemName": "Falcon Plate"
+        },
+        {
+            "itemName": "Falcon Circlet"
+        },
+        {
+            "itemName": "Falcon Battleaxe"
+        },
+        {
+            "itemName": "Falcon Coif"
+        },
+        {
+            "itemName": "Falcon Mace"
+        },
+        {
+            "itemName": "Falcon Longsword"
+        },
+        {
+            "itemName": "Falcon Greaves"
+        },
+        {
+            "itemName": "Falcon Rod"
+        },
+        {
+            "itemName": "Grant of Arms"
+        },
+        {
+            "itemName": "Brass Shield"
+        },
+        {
+            "itemName": "Torch"
+        },
+        {
+            "itemName": "Pelvis Bone"
+        },
+        {
+            "itemName": "Mace"
+        },
+        {
+            "itemName": "Gold Coin"
+        },
+        {
+            "itemName": "Sword"
+        },
+        {
+            "itemName": "Hatchet"
+        },
+        {
+            "itemName": "Heavy Old Tome"
+        },
+        {
+            "itemName": "Bone"
+        },
+        {
+            "itemName": "Viking Helmet"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "20000",
+    "creatureclass": "Humans",
+    "earthDmgMod": "100%",
+    "physicalDmgMod": "90%",
+    "bosstiaryclass": "Archfoe",
+    "primarytype": "Members of the Order of the Falcon",
+    "spawntype": [
+        "Triggered"
+    ],
+    "race_id": "1576",
+    "senseinvis": "yes",
+    "actualname": "Grand Master Oberon",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Grand Master Oberon",
+    "isboss": "yes",
+    "behaviour": "This boss will heal completely and a [[Falcon Knight]] or a [[Falcon Paladin]] will spawn when it reaches ~3000 hp left and will keep healing every single hit it takes until the player replies to his [[The Grand Master of Verbal Debate|debate]] argument.",
+    "location": "[[Falcon Bastion]].",
+    "iceDmgMod": "100%",
+    "strategy": "{{#lsth:The Secret Library Quest/Spoiler|Grand Master Oberon}}",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "50%"
+}

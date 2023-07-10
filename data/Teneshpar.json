@@ -1,0 +1,52 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "It can't be looted and its corpse cannot be moved. It respawns where its corpse is.<noinclude>{{JSpoiler|All players who sufficiently damage it during the last minute of the fight will receive the [[Slayer of Teneshpar]] [[achievement]].}}</noinclude>",
+    "walksthrough": "None",
+    "hp": "15000",
+    "lightcolor": "119",
+    "speed": "170",
+    "abilities": "{{Ability List| {{Melee|0-550}}|{{Ability|[[Avalanche]]|0-300?|element=?}}|{{Ability|[[Drunkenness]]|element=drunk}}|{{Ability|[[Invisibility]]|element=invisible}}|{{Ability|[[Sudden Death Rune]]|0-400?|element=death}}|{{Ability|[[Drowning]]|45 turns of 20 damage; 900 damage total|element=drowning}}|{{Healing|range=350-450}} }}",
+    "pushobjects": "yes",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "secondarytype": "Dreamhaunters",
+    "fireDmgMod": "110%",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "800",
+    "pushable": "no",
+    "lightradius": "4",
+    "implemented": "8.61",
+    "loot": [
+        {
+            "itemName": "Talon"
+        }
+    ],
+    "walksaround": "Energy, Fire, Poison",
+    "exp": "20000",
+    "creatureclass": "The Undead",
+    "earthDmgMod": "80%",
+    "physicalDmgMod": "0%",
+    "bosstiaryclass": "Nemesis",
+    "primarytype": "Ghosts",
+    "race_id": "649",
+    "senseinvis": "?",
+    "actualname": "Teneshpar",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Teneshpar",
+    "isboss": "yes",
+    "behaviour": "Retargets, retreats at low health.",
+    "location": "[[Folda]], behind the portal {{Mapper Coords|124.221|123.96|7|1|text=here}}, during the [[Rise of Devovorga]] [[World Quest]]. Can be fought on [[Vengoth]] during the [[Devovorga's Essence Mini World Change]].",
+    "iceDmgMod": "100%?",
+    "strategy": "'''Sorcerers and Druids''': [[Glacier Set]] will reduce [[Ice Damage]], but this is not necessary. You will need to heal after each hit as Teneshpar has various strong attacks, and using [[Magic Shield]] is recommendable. Heal the blocker and throw all the fire, ice, energy and earth spells you have at it.<br />\n'''Knights and Paladins''': Since this creature is immune to [[Physical Damage]], you'll have a hard time killing it. It's advised to throw several [[Fire Bomb Rune|Fire Bomb]]s on the floor next to each other and then make Teneshpar chase you back and forth on the middle row. Also bring some [[Great Fireball Rune]]s to deal some extra damage. If the fire fields get weaker, just cover them with some new Fire Bombs. Knights and Paladins of level 130 or above killing Teneshpar during [[Devovorga's Essence Mini World Change]] should wear [[Firewalker Boots]] (PvP) to minimise the damage they take from their fields.",
+    "energyDmgMod": "110%",
+    "deathDmgMod": "0%",
+    "status": "event"
+}

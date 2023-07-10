@@ -1,0 +1,111 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "walksthrough": "?",
+    "hp": "1300",
+    "usespells": "yes",
+    "occurrence": "Uncommon",
+    "bestiarytext": "The Orc Cult Priest is a stronger version of [[Orc Shaman]]s.",
+    "speed": "70",
+    "abilities": "{{Ability List\n |{{Melee|0-250|element=physical}}\n |{{Ability|[[Heavy Magic Missile]]|0-320}}\n |{{Ability|[[Fireball]]|0-250|element=fire}}\n |{{Ability|[[Mass Healing]]|?-288|element=healing}}\n |{{Ability|Shapeshift victim|turns you into a [[Larva]] or one of several [[Orcs]]|element=shapeshifting}}\n}}",
+    "pushobjects": "?",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "fireDmgMod": "100%",
+    "holyDmgMod": "90%",
+    "sounds": [
+        "We will crush all oposition!"
+    ],
+    "maxdmg": "?",
+    "pushable": "?",
+    "implemented": "11.40.5409",
+    "bestiaryclass": "Humanoid",
+    "loot": [
+        {
+            "amount": "1-1816",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Shamanic Hood",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Strong Health Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Cultish Robe",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Green Piece of Cloth",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-6",
+            "itemName": "Small Ruby",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Mysterious Fetish",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Orc Leather",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Broken Shamanic Staff",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Orc Tooth",
+            "rarity": "semi-rare"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Black Pearl",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Heavy Old Tome",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Wand of Decay",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Berserk Potion",
+            "rarity": "rare"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "1000",
+    "creatureclass": "Humanoids",
+    "earthDmgMod": "110%",
+    "mitigation": "1.18",
+    "physicalDmgMod": "100%",
+    "primarytype": "Orcs",
+    "race_id": "1504",
+    "attacktype": "Melee",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "article": "an",
+    "actualname": "orc cult priest",
+    "illusionable": "no",
+    "armor": "27",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "bestiaryname": "orccultpriest",
+    "name": "Orc Cult Priest",
+    "isboss": "no",
+    "behaviour": "Unknown",
+    "location": "[[Edron Orc Cave]].",
+    "iceDmgMod": "100%",
+    "strategy": "Unknown",
+    "energyDmgMod": "50%",
+    "deathDmgMod": "105%"
+}

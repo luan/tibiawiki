@@ -1,0 +1,58 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "Part of the [[Opticording Sphere Quest]].",
+    "walksthrough": "Poison",
+    "hp": "50000",
+    "speed": "?",
+    "abilities": "{{Ability List|}}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "65%?",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "?",
+    "pushable": "?",
+    "cooldown": "164",
+    "implemented": "11.50.6055",
+    "loot": [
+        {
+            "itemName": "The Cube",
+            "rarity": "always"
+        },
+        {
+            "itemName": "Withered Pauldrons"
+        },
+        {
+            "itemName": "Withered Scalp"
+        }
+    ],
+    "walksaround": "Energy",
+    "exp": "10000?",
+    "creatureclass": "The Undead",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "100%?",
+    "primarytype": "Undead Humanoids",
+    "spawntype": [
+        "Triggered"
+    ],
+    "race_id": "1565",
+    "senseinvis": "?",
+    "actualname": "Last Planegazer",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Last Planegazer",
+    "isboss": "yes",
+    "behaviour": "Attacks at close range.",
+    "location": "[[Chamber of Reflections]].",
+    "iceDmgMod": "60%?",
+    "strategy": "Use [[Physical Damage]].",
+    "energyDmgMod": "55%?",
+    "deathDmgMod": "30%<?"
+}

@@ -1,0 +1,111 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "0%?",
+    "notes": "This boss can only be fought when [[First Dragon Quest]] is active.",
+    "isarenaboss": "no",
+    "walksthrough": "Poison",
+    "hp": "10000",
+    "speed": "Unknown",
+    "abilities": "{{Ability List| {{Melee|0-385?}}|{{Ability|[[Death Wave]]|200-520?|element=death}}|{{Ability|[[Blood Wave]]|0-221?|element=?}}|{{Ability|[[Blood Ball]]|0-203?|element=?}}|{{Healing|range=120-360?}} }}",
+    "pushobjects": "Yes",
+    "healMod": "100%?",
+    "paraimmune": "yes",
+    "fireDmgMod": "80%",
+    "holyDmgMod": "135%",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "1150+?",
+    "pushable": "No",
+    "implemented": "11.02.4128",
+    "cooldown": "20",
+    "loot": [
+        {
+            "itemName": "Death Ring"
+        },
+        {
+            "amount": "0-1?",
+            "itemName": "Demonic Essence",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Dragonbone Staff",
+            "rarity": "rare"
+        },
+        {
+            "amount": "0-98?",
+            "itemName": "Gold Coin"
+        },
+        {
+            "itemName": "Gold Ingot",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Hardened Bone"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "Unholy Bone"
+        },
+        {
+            "itemName": "Great Health Potion"
+        },
+        {
+            "itemName": "Great Mana Potion"
+        },
+        {
+            "itemName": "Great Spirit Potion"
+        },
+        {
+            "itemName": "Bones of Zorvorax",
+            "rarity": "always"
+        },
+        {
+            "itemName": "Slightly Rusted Armor",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Skull Helmet",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Maxilla Maximus",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Amulet of Loss",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Soul Orb",
+            "rarity": "rare"
+        },
+        {
+            "amount": "0-3",
+            "itemName": "Platinum Coin"
+        }
+    ],
+    "walksaround": "Energy, Fire",
+    "exp": "9000",
+    "creatureclass": "Reptiles",
+    "earthDmgMod": "0%?",
+    "physicalDmgMod": "90%?",
+    "bosstiaryclass": "Archfoe",
+    "primarytype": "Dragons",
+    "race_id": "1375",
+    "senseinvis": "yes",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Zorvorax",
+    "isboss": "yes",
+    "behaviour": "Unknown",
+    "location": "[[Edron Vampire Crypt]] last floor, {{Mapper Coords|128.235|123.105|11|4|text=here}}.",
+    "iceDmgMod": "50%?",
+    "strategy": "'''Mages''': Since it's very resistant to most elements but holy, mages will have a hard time killing it. Those above level 200 should use their [[Special Summons]] and [[Energy Damage|Energy]] attacks. Since druids do not have Energy spells, [[Explosion Rune]]s are the next best option, specially at lower levels.<br/>\n'''Paladins''': Use an [[Energy Wall Rune]] and run across it to avoid the boss damage.<br/>\n'''Knights''': Stand diagonal and attack boss. Dropping a [[Fire Bomb Rune]] helps keep the boss diagonally since it doesn't walk over fire.",
+    "energyDmgMod": "80%",
+    "deathDmgMod": "0%?",
+    "status": "event"
+}

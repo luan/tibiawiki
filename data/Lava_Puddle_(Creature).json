@@ -1,0 +1,30 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "walksthrough": "None",
+    "hp": "6000",
+    "abilities": "{{Ability List}}",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "105%",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "0",
+    "implemented": "12.90.12182",
+    "exp": "?",
+    "earthDmgMod": "100%",
+    "physicalDmgMod": "100%?",
+    "senseinvis": "?",
+    "actualname": "lava puddle",
+    "illusionable": "no",
+    "drownDmgMod": "100%?",
+    "convince": "?",
+    "name": "Lava Puddle (Creature)",
+    "isboss": "no",
+    "iceDmgMod": "100%?",
+    "energyDmgMod": "95%",
+    "deathDmgMod": "100%?"
+}

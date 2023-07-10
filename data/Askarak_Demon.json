@@ -1,0 +1,113 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "Was introduced in the [[Summer Update 2011]].",
+    "isarenaboss": "no",
+    "walksthrough": "Energy, Poison",
+    "hp": "1500",
+    "abilities": "{{Ability List\n |{{Melee|20-140}}\n |{{Ability|Poison Explosion|25-60|element=earth\n  |scene={{Scene|spell=4sqmball2self|effect=Poison Effect 1|caster=Askarak Demon|effect_on_caster=yes}}}}\n |{{Ability|Poison Wave|130-170|element=earth\n  |scene={{Scene|spell=4sqmtwave|effect=Poison Effect 1|caster=Askarak Demon|look_direction=east}}}}\n |{{Ability|Poison Beam|75-140|element=earth\n  |scene={{Scene|spell=5sqmbeam|effect=Poison Effect 1|caster=Askarak Demon|look_direction=east}}}}\n |{{Ability|Paralyze|element=paralyze\n  |scene={{Scene|spell=3sqmstrike|caster=Askarak Demon|effect=Red Sparkles Effect|missile_direction=south-east|missile_distance=3/3}}}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "holyDmgMod": "100%",
+    "maxdmg": "{{Max Damage|physical=140|earth=370}}",
+    "pushable": "no",
+    "implemented": "9.10",
+    "loot": [
+        {
+            "amount": "1-244",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-4",
+            "itemName": "Small Emerald",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Strong Health Potion",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Strong Mana Potion",
+            "rarity": "semi-rare"
+        },
+        {
+            "amount": "1-5",
+            "itemName": "Assassin Star",
+            "rarity": "semi-rare"
+        },
+        {
+            "amount": "1-5",
+            "itemName": "Brown Mushroom",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Energy Ring",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Piggy Bank",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Springsprout Rod",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Mastermind Potion",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Magic Sulphur",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Terra Legs",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Fire",
+    "exp": "900",
+    "mitigation": "1.04",
+    "attacktype": "Melee",
+    "article": "an",
+    "actualname": "askarak demon",
+    "illusionable": "no",
+    "armor": "35",
+    "convince": "--",
+    "name": "Askarak Demon",
+    "isboss": "no",
+    "iceDmgMod": "40%",
+    "energyDmgMod": "40%",
+    "deathDmgMod": "105%",
+    "plural": "askarak demons",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "speed": "115",
+    "pushobjects": "yes",
+    "fireDmgMod": "125%",
+    "sounds": [
+        "DEATH TO THE SHABURAK!",
+        "GREEN WILL RULE!",
+        "ONLY WE ARE TRUE DEMONS!",
+        "RED IS MAD!",
+        "WE RULE!"
+    ],
+    "runsat": "0",
+    "bestiaryclass": "Demon",
+    "creatureclass": "Arak Demons",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Askarak Demons",
+    "spawntype": [
+        "Regular"
+    ],
+    "race_id": "727",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "behaviour": "Askarak Demon fights to the death in close combat.",
+    "location": "[[Demonwar Crypt]] (teleporter before vampire shield quest).",
+    "strategy": "Avoid their beams and waves and kill them with fire or physical based attacks."
+}

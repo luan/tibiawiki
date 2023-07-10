@@ -1,0 +1,62 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "It's an [[Order of the Cobra]] boss.\n{{JSpoiler|Part of the [[Grave Danger Quest]].}}",
+    "walksthrough": "?",
+    "hp": "47000",
+    "speed": "?",
+    "abilities": "{{Ability List|{{Melee|0-500+}}}}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "80%",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "?",
+    "pushable": "?",
+    "implemented": "12.20.8834",
+    "loot": [
+        {
+            "itemName": "Platinum Coin"
+        },
+        {
+            "itemName": "Club Ring"
+        },
+        {
+            "itemName": "Cobra Club"
+        },
+        {
+            "itemName": "Cobra Crest"
+        },
+        {
+            "itemName": "Small Sapphire"
+        },
+        {
+            "itemName": "Fire Axe"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "27500",
+    "creatureclass": "Humans",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "30%?",
+    "bosstiaryclass": "Bane",
+    "primarytype": "Members of the Order of the Cobra",
+    "race_id": "1770",
+    "senseinvis": "yes",
+    "actualname": "Custodian",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Custodian",
+    "isboss": "yes",
+    "behaviour": "Unknown",
+    "location": "[[Cobra Bastion]].",
+    "iceDmgMod": "100%?",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "100%?"
+}

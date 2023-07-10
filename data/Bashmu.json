@@ -1,0 +1,123 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "walksthrough": "Fire, Energy, Poison",
+    "hp": "8200",
+    "occurrence": "Common",
+    "bestiarytext": "The Bashmu look like horned snakes with two forelegs and feathery wings. Their scales are of vibrant colours that can vary greatly in pattern and even change with age. The impressive creatures are a subspecies of the Anuma, magical beasts that inhabit the continent Kilmaresh and were created by the sun gods Suon and Fafnar.<br/><br/>It is said that the entire continent was once given to them by the gods. But the Anuma conferred the dominance over Kilmaresh to the humans, in an effort to let them take responsibility of their own. However, after the religious war between the worshippers of Suon and Fafnar and the cataclysm that severed the continent, the Anuma took the reign over Kilmaresh back - for the humans' own benefit as they said.<br/><br/>It is told that the bashmu were created when some of Fafnar's tears fell into the sea. At first they lived beneath the waves but as they owe their existence to a goddess of sun and heat, they were soon drawn to the hot and dry steppes of Kilmaresh. Yet they missed the salt they got accustomed to in the waters of the ocean. This is the reason why the bashmu retreated to places where they could find natural deposits of salt, mainly subterranean caves. There, the halophilic creatures subsist on the deposited salt veins and eat them up entirely before moving to other habitats. Rumour has it that the most powerful bashmu have seven tongues, eight arms and four wings. As of yet, nobody has ever seen such kind of bashmu, so it remains unclear whether they really exist.",
+    "speed": "200",
+    "abilities": "{{Ability List\n |{{Melee|0-600}}\n |{{Ability|Energy Beam|400-800|energy}}\n |{{Ability|Energy Berserk|400-500|energy}}\n |{{Ability|Earth Arrow|400-800|earth}}}}",
+    "healMod": "100%",
+    "pushobjects": "yes",
+    "paraimmune": "yes",
+    "fireDmgMod": "100%",
+    "holyDmgMod": "110%",
+    "sounds": [],
+    "maxdmg": "?",
+    "pushable": "no",
+    "usedelements": "?",
+    "implemented": "12.70.10953",
+    "bestiaryclass": "Magical",
+    "loot": [
+        {
+            "amount": "1-19",
+            "itemName": "Platinum Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Guardian Halberd",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Bashmu Feather",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Terra Amulet",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Glacier Amulet",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Small Diamond",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Violet Gem",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Great Spirit Potion",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Sacred Tree Amulet",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Blue Crystal Shard",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Green Crystal Shard",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Rainbow Quartz",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Bashmu Fang",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Bashmu Tongue",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Magma Amulet",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Haunted Blade",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Glorious Axe",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Collar of Blue Plasma",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Collar of Red Plasma",
+            "rarity": "rare"
+        }
+    ],
+    "walksaround": "None",
+    "exp": "5000",
+    "creatureclass": "Reptiles",
+    "earthDmgMod": "80%",
+    "mitigation": "2.16",
+    "physicalDmgMod": "95%",
+    "primarytype": "Serpents",
+    "race_id": "2100",
+    "bestiarylevel": "Hard",
+    "senseinvis": "yes",
+    "article": "a",
+    "actualname": "bashmu",
+    "illusionable": "no",
+    "armor": "72",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "bestiaryname": "bashmu",
+    "name": "Bashmu",
+    "location": "[[Salt Caves]].",
+    "iceDmgMod": "105%",
+    "energyDmgMod": "95%",
+    "deathDmgMod": "110%"
+}

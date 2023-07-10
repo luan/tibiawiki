@@ -1,0 +1,119 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "This creature was added with the [[Updates/8.54|Christmas Update 2009]].\n{{JSpoiler|You may hunt 900 [[Draken Abomination]], [[Draken Elite]], [[Draken Spellweaver]], Draken Warmaster combined, as a task of the [[Killing in the Name of... Quest]]. Upon completion of the task you will face [[Paiz the Pauperizer]].}}",
+    "walksthrough": "Fire, Energy, Poison",
+    "hp": "4150",
+    "abilities": "{{Ability List| {{Melee|0-350}}|{{Ability|[[Fire Wave]]|240-520|element=fire}}|{{Healing|range=150-300}} }}",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "holyDmgMod": "95%",
+    "maxdmg": "870",
+    "pushable": "?",
+    "implemented": "8.54",
+    "loot": [
+        {
+            "amount": "1-200",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-5",
+            "itemName": "Platinum Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Meat",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Bone Shoulderplate",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Warmaster's Wristguards",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Zaoan Halberd",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "Great Health Potion",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Ultimate Health Potion",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Zaoan Shoes",
+            "rarity": "semi-rare"
+        },
+        {
+            "amount": "1-5",
+            "itemName": "Small Ruby",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Tower Shield",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Drakinata",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Zaoan Armor",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Zaoan Legs",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Ring of the Sky",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "None",
+    "exp": "2400",
+    "mitigation": "1.60",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "draken warmaster",
+    "illusionable": "no",
+    "armor": "55",
+    "convince": "--",
+    "name": "Draken Warmaster",
+    "isboss": "no",
+    "iceDmgMod": "105%",
+    "energyDmgMod": "95%",
+    "deathDmgMod": "50%",
+    "plural": "draken warmasters",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "The mighty Draken Warmasters originate from ordinary lizard hatcheries. Still, in many regards Draken have many more similarities to dragons than to their lizard parents. It can only be speculated what has caused their change, but the first Draken were born in the first years of the reign of the dragon kings.<br />In the armies of the lizard people, the strong and cunning Draken Warmasters often serve as leaders or elite units. Due to their immense power, they have little to fear and happily unleash their rage in battle. As revered members of the lizard society, they receive the best equipment the master craftsmen can supply, and they use it with skill and precision obtained in years of sedulous training. This combination of skill, natural prowess and superior equipment makes them the most valued and feared troops in the dragon empire. The raising and training of the Draken takes much time and dedication. There are rumours that Draken neither die nor get weaker when getting older, rather the opposite, they are supposed to become more and more powerful with every day. The most ancient of the Draken are said to form the 'Flame Guard', the personal elite bodyguard of the dragon emperor, as well as the fabled 'Enders', the private executioners and assassins of the dragon kings.",
+    "speed": "162",
+    "pushobjects": "yes",
+    "fireDmgMod": "0%",
+    "sounds": [
+        "Attack aggrezzively! Dezztroy zze intruderzz!",
+        "Hizzzzzz!"
+    ],
+    "bestiaryclass": "Dragon",
+    "creatureclass": "Reptiles",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Draken",
+    "race_id": "617",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "drakenwarmaster",
+    "behaviour": "Chases its target and fights until death. Retargets often to the nearest target it has.",
+    "location": "[[Zao Palace]], [[Chazorai]], [[Razachai]], and [[Zzaion]].",
+    "strategy": "Stay out of the wave, it doesn't do it often but hits hard.\nThe wave is also very short. so staying diagonal to it is the best way to save supplies."
+}

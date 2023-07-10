@@ -1,0 +1,75 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%",
+    "notes": "Jaul, Protektor Profundis, is one of the three depth lords. Reachable in third stage of [[Liquid Black Quest]], he is the strongest [[Deeplings|deepling]] boss.<br />\"KENH!!\" [[Quirefang Library|translates]] to \"Intruder!!\", and \"QJELL AFAR GOU JEY!!\" translates to \"[[Qjell]] watch over us!!\".<br />{{Seealso|Jaul/Treasure Statistics}}",
+    "isarenaboss": "no",
+    "walksthrough": "?",
+    "hp": "90000",
+    "speed": "220",
+    "abilities": "{{Ability List\n |{{Melee|0-2000}}\n |{{Ability|[[Paralyze]]|element=paralyze}}\n |{{Ability|Huge Fireball|0-1000|element=fire}}\n |{{Ability|Death Beam|300-800|element=death}}\n |{{Ability|Life Drain Drowning Wave|500-1000|element=lifedrain}}\n |{{Ability|Fire Beam|500-1000|element=fire}}\n |{{Ability|Ice Beam|1000-2000|element=ice}}\n |{{Ability|Armageddon|200-800|element=manadrain}}\n |{{Ability|Earth Damage Explosion Exori|0-600|element=earth}}\n |{{Ability|Very Frequent [[Self-Healing]]|1000-2000+|element=healing}}\n |{{Ability|Frequent [[Self-Healing]]|14000-20000+|element=healing}}\n}}",
+    "pushobjects": "yes",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "0%",
+    "holyDmgMod": "100%",
+    "sounds": [
+        "DIE!! KENH!!",
+        "QJELL AFAR GOU JEY!!"
+    ],
+    "maxdmg": "4000",
+    "pushable": "no",
+    "implemented": "9.40",
+    "loot": [
+        {
+            "itemName": "Ornate Shield"
+        },
+        {
+            "itemName": "Deepling Axe"
+        },
+        {
+            "itemName": "Depth Galea"
+        },
+        {
+            "itemName": "Depth Lorica",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Ornate Chestplate",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Ornate Mace",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Depth Calcei",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Ornate Legs",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "30000",
+    "creatureclass": "Amphibians",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "100%",
+    "bosstiaryclass": "Bane",
+    "primarytype": "Deeplings",
+    "race_id": "773",
+    "senseinvis": "yes",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%",
+    "convince": "--",
+    "name": "Jaul",
+    "isboss": "yes",
+    "behaviour": "He combos a lot, walks pretty fast and retargets a lot.",
+    "location": "[[Fiehonja]], southern pit of the [[Ancestral Grounds]].",
+    "iceDmgMod": "0%",
+    "strategy": "Get a decent level blocker or two (250+ is enough), one healer for each of the blockers and several damage dealers and just kill it with your strongest attacks. Note that knights are not only meatshields and should also attack as they do high amount of damage too. [[Bronze Amulet]] is recommended because of the manadrain Jaul does.",
+    "energyDmgMod": "99%",
+    "deathDmgMod": "85%?"
+}

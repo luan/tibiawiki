@@ -1,0 +1,102 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "It's a [[Faun]] micro-boss. You may face it if you shipwreck when taking a shortcut route with captain [[Charles]] from [[Port Hope]] to another city.",
+    "walksthrough": "?",
+    "hp": "1100",
+    "speed": "?",
+    "abilities": "{{Ability List| {{Melee|0-350}}|{{Ability|Single-target [[Stone Shower]]|50-100|element=earth}}|{{Ability|Blue Notes Wave|causes [[Drunkenness]]|element=drunk}}|{{Healing|range=50-150}} }}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "no",
+    "fireDmgMod": "105%",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        "This is a nightmare and you won't wake up!",
+        "This was your last chance!",
+        "Blood, fight and rage!"
+    ],
+    "maxdmg": "600",
+    "pushable": "?",
+    "implemented": "11.80.7048",
+    "loot": [
+        {
+            "amount": "4-143",
+            "itemName": "Gold Coin"
+        },
+        {
+            "itemName": "Fairy Wings"
+        },
+        {
+            "amount": "2-6",
+            "itemName": "Leaf Star"
+        },
+        {
+            "itemName": "Dark Mushroom"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Strong Health Potion"
+        },
+        {
+            "itemName": "Goat Grass"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Cave Turnip"
+        },
+        {
+            "amount": "2",
+            "itemName": "Great Health Potion"
+        },
+        {
+            "itemName": "Prismatic Quartz"
+        },
+        {
+            "itemName": "Shimmering Beetles"
+        },
+        {
+            "itemName": "Small Enchanted Sapphire"
+        },
+        {
+            "amount": "2-5",
+            "itemName": "Small Stone"
+        },
+        {
+            "itemName": "Leaf Legs"
+        },
+        {
+            "itemName": "Wood Cape"
+        },
+        {
+            "itemName": "Panpipes"
+        }
+    ],
+    "walksaround": "Energy, Fire, Poison",
+    "exp": "900",
+    "creatureclass": "Humanoids",
+    "earthDmgMod": "40%?",
+    "physicalDmgMod": "100%?",
+    "bosstiaryclass": "Nemesis",
+    "primarytype": "Fae",
+    "spawntype": [
+        "Unique",
+        "Triggered"
+    ],
+    "race_id": "1624",
+    "senseinvis": "yes",
+    "actualname": "Raxias",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "?",
+    "name": "Raxias",
+    "isboss": "Yes",
+    "behaviour": "Attacks in close range.",
+    "location": "On the small island just north of [[Feyrist]].",
+    "iceDmgMod": "100%",
+    "strategy": "Treat it like a slightly stronger [[Faun]]. If you are a low level, stay diagonally and use a [[Dwarven Ring]] to avoid getting [[Drunkenness|Drunk]].",
+    "energyDmgMod": "110%",
+    "deathDmgMod": "100%?"
+}

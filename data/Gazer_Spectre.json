@@ -1,0 +1,127 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "walksthrough": "Fire, Energy, Poison",
+    "hp": "4500",
+    "abilities": "{{Ability List| {{Melee|0-350}}|{{Ability|[[Life Drain|Life Drain Missile]]|300-400|element=lifedrain}}|{{Ability|Fire Ball|200-350|element=fire}} }}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "holyDmgMod": "100%",
+    "maxdmg": "1200",
+    "pushable": "no",
+    "implemented": "12.00.7695",
+    "loot": [
+        {
+            "amount": "1-5",
+            "itemName": "Platinum Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Small Diamond",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Brown Crystal Splinter",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Small Sapphire",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Red Gem",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Red Crystal Fragment",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Small Enchanted Ruby",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Yellow Gem",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Golden Idol of Tukh",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Wand of Draconia",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Wand of Inferno",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Red Ectoplasm",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Magma Coat",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Prismatic Quartz",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Small Enchanted Emerald",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Onyx Chip",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Hexagonal Ruby",
+            "rarity": "rare"
+        }
+    ],
+    "walksaround": "None",
+    "exp": "4200",
+    "mitigation": "2.02",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "gazer spectre",
+    "illusionable": "no",
+    "armor": "68",
+    "convince": "--",
+    "name": "Gazer Spectre",
+    "isboss": "no",
+    "iceDmgMod": "130%",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "100%",
+    "plural": "gazer spectres",
+    "hpDrainDmgMod": "100%",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "The Dire Spectres arrived as phantoms to this world. Born from dark fragments of lost souls, they are not bound to this plane, nor do they have a past. They long for a physical existence and their sole goal is to anchor themselves to our world. They are literally pure evil woven from bad spare parts of souls and feed on the life energy of any living creature. The most powerful dire spectres are the oldest. Those who clung to this plane for long enough, eventually gained adequate power to control and coordinate other spectres. Those are the most dangerous and resourceful and should be treated with the utmost care. Gazer Spectres are also called \"Watchers\" and function as scouts among large groups of their kin. They are versatile distance fighters and their strong 'gaze' is not to be trifled with.",
+    "speed": "195",
+    "pushobjects": "yes",
+    "fireDmgMod": "30%",
+    "sounds": [
+        "Deathhh... is... a.... doooor!!",
+        "Tiiimeee... is... a... windowww!"
+    ],
+    "runsat": "0",
+    "bestiaryclass": "Undead",
+    "creatureclass": "The Undead",
+    "earthDmgMod": "100%",
+    "physicalDmgMod": "15%",
+    "primarytype": "Ghosts",
+    "spawntype": [
+        "Regular"
+    ],
+    "race_id": "1725",
+    "bestiarylevel": "Hard",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%",
+    "bestiaryname": "gazerspectre",
+    "behaviour": "Fights in close combat. Reflects [[Fire Damage]]. Does not change target unless [[Challenge|challenged]] or its way is blocked.",
+    "location": "[[Haunted Temple]], [[Buried Cathedral]]",
+    "strategy": "It's two strong attacks are fired from a distance, so you should be careful even if they aren't at melee range. Avoid using [[Fire Damage]] at all costs since it will [[Damage Reflection|reflect]] it back to you 66% stronger."
+}

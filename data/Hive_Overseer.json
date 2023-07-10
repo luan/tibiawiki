@@ -1,0 +1,119 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "They are extremely slow.",
+    "walksthrough": "Fire, Energy, Poison",
+    "hp": "7500",
+    "abilities": "{{Ability List| {{Melee|0-450}}|{{Ability|earth ball|on itself; 60-80|element=earth}}|{{Ability|[[Self Healing]]|50-100; about once per turn|element=healing}}|{{Ability|[[Self Healing]]|500-700; infrequent|element=healing}}|{{Summon|Spidris Elite|2}} }}",
+    "healMod": "100%",
+    "paraimmune": "?",
+    "secondarytype": "Hive Born",
+    "holyDmgMod": "90%",
+    "maxdmg": "1600+ (With summons)",
+    "pushable": "No",
+    "implemented": "9.40",
+    "loot": [
+        {
+            "amount": "1-198",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-6",
+            "itemName": "Platinum Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Gold Ingot",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Kollos Shell",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Great Mana Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Compound Eye",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Small Ruby",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Gooey Mass",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Ultimate Health Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Giant Shimmering Pearl (Brown)",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Calopteryx Cape",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Hive Scythe",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Carapace Shield",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Hive Bow",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Steel Boots",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "None.",
+    "exp": "5500",
+    "mitigation": "2.40",
+    "attacktype": "Distance",
+    "article": "a",
+    "actualname": "hive overseer",
+    "illusionable": "no",
+    "armor": "57",
+    "convince": "--",
+    "name": "Hive Overseer",
+    "isboss": "no",
+    "iceDmgMod": "95%",
+    "energyDmgMod": "80%",
+    "deathDmgMod": "85%",
+    "plural": "hive overseers",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Rare",
+    "speed": "115",
+    "pushobjects": "Yes",
+    "fireDmgMod": "60%",
+    "sounds": [
+        "Zopp!",
+        "Kropp!"
+    ],
+    "runsat": "0",
+    "bestiaryclass": "Vermin",
+    "creatureclass": "Invertebrates",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "70%",
+    "primarytype": "Insects",
+    "race_id": "801",
+    "bestiarylevel": "Hard",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "behaviour": "Stays away from target while letting the summoned [[Spidris Elite]] do most of the job. They can [[retarget]].",
+    "location": "[[The Hive]] towers: on the highest floor of each tower, and in many of the closed rooms accessed with pheromones; many in the large underground room of the west tower. [[Liberty Bay]] [[Hive Outpost]]: one spawn on the second floor underground.",
+    "strategy": "Approach it from both opposite sites if you are in team, that will make summons confused and unable to properly hit their target. If you are alone, either separate it from other monsters or trap yourself preferably with one or two of his summons and kill the Overseer from distance. Watch your wand hit as its additional damage makes noticeable difference in killing time."
+}

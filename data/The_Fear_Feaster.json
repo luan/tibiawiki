@@ -1,0 +1,131 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "It's part of the [[Feaster of Souls Quest]].",
+    "walksthrough": "Fire, Energy, Poison",
+    "hp": "?",
+    "speed": "?",
+    "abilities": "{{Ability List| {{Melee|?}} }}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "fireDmgMod": "110%",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "?",
+    "pushable": "no",
+    "runsat": "0",
+    "implemented": "12.30.9287",
+    "cooldown": "20",
+    "loot": [
+        {
+            "amount": "2",
+            "itemName": "Crystal Coin"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "White Gem"
+        },
+        {
+            "itemName": "Silver Hand Mirror"
+        },
+        {
+            "amount": "10",
+            "itemName": "Bullseye Potion"
+        },
+        {
+            "amount": "10",
+            "itemName": "Berserk Potion"
+        },
+        {
+            "amount": "10",
+            "itemName": "Mastermind Potion"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Death Toll"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Moonstone"
+        },
+        {
+            "amount": "6",
+            "itemName": "Supreme Health Potion"
+        },
+        {
+            "amount": "6",
+            "itemName": "Ultimate Spirit Potion"
+        },
+        {
+            "amount": "6",
+            "itemName": "Ultimate Mana Potion"
+        },
+        {
+            "itemName": "Angel Figurine"
+        },
+        {
+            "itemName": "Grimace"
+        },
+        {
+            "itemName": "Amber (Item)"
+        },
+        {
+            "itemName": "Amber with a Dragonfly"
+        },
+        {
+            "itemName": "Cursed Bone"
+        },
+        {
+            "itemName": "Ivory Comb"
+        },
+        {
+            "itemName": "Bloody Tears"
+        },
+        {
+            "itemName": "Diamond"
+        },
+        {
+            "itemName": "Soulforged Lantern"
+        },
+        {
+            "itemName": "Ghost Chestplate"
+        },
+        {
+            "itemName": "Spooky Hood"
+        },
+        {
+            "itemName": "Ghost Claw"
+        },
+        {
+            "itemName": "Giant Amethyst"
+        },
+        {
+            "itemName": "Giant Topaz"
+        },
+        {
+            "itemName": "Amber with a Bug"
+        }
+    ],
+    "walksaround": "None",
+    "exp": "?",
+    "creatureclass": "The Undead",
+    "earthDmgMod": "80%?",
+    "physicalDmgMod": "110%?",
+    "bosstiaryclass": "Archfoe",
+    "race_id": "1873",
+    "senseinvis": "yes",
+    "actualname": "The Fear Feaster",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "The Fear Feaster",
+    "isboss": "yes",
+    "location": "[[Zarganash]]",
+    "iceDmgMod": "100%?",
+    "energyDmgMod": "110%",
+    "deathDmgMod": "-100%"
+}

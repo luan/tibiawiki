@@ -1,0 +1,133 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "It's part of the [[Within the Tides Quest]].",
+    "walksthrough": "Fire, Energy, Poison",
+    "hp": "75000",
+    "abilities": "{{Ability List\n |{{Melee|0-230+}}\n |{{Ability|Fire Ring||?\n   |scene={{Scene|spell=5sqmring|effect=Fire Effect|caster=Timira the Many-Headed|look_direction=south|effect_on_caster=no}}}}\n |{{Ability|Fire Ultimate Explosion|560-577|fire\n   |scene={{Scene|spell=6sqmballself|effect=Fire Effect|caster=Timira the Many-Headed|look_direction=south|effect_on_caster=no}}}}\n |{{Ability|Fire Bomb||?\n   |scene={{Scene|spell=2sqmballself|effect=Fire Effect|caster=Timira the Many-Headed|look_direction=south|effect_on_caster=no}}}}\n |{{Ability|Death Chain||?\n   |scene={{Scene|spell=chainspell|effect=Death Effect|caster=Timira the Many-Headed|look_direction=south}}}}\n |{{Ability|Energy Strike|273|element=energy\n  |scene={{Scene|spell=7sqmstrike|caster=Timira the Many-Headed|look_direction=south|effect=Blue Electricity Effect|missile=Energy Missile|missile_direction=south-east|missile_distance=7/7}}}}\n |{{Ability|Purple Chain|150~|manadrain\n   |scene={{Scene|spell=chainspell|effect=Purple Electricity Effect|caster=Timira the Many-Headed|look_direction=south}}}}\n |{{Ability|Explosion Wave||?\n   |scene={{Scene|spell=7sqmwavewide|effect=Explosion Effect|caster=Timira the Many-Headed|look_direction=east}}}}\n |{{Ability|Swarm|maybe healing|element=?\n   |scene={{Scene|spell=buffspell|effect=Insect Swarm Effect|caster=Timira the Many-Headed|look_direction=south|effect_on_caster=yes}}}}\n}}",
+    "pushobjects": "yes",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "secondarytype": "Nagas",
+    "fireDmgMod": "90%",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        "Harmony is just a vain illusion! ",
+        " I'm ashamed of my former self! ",
+        " You won't lead me astray!"
+    ],
+    "maxdmg": "2500~",
+    "pushable": "no",
+    "cooldown": "20",
+    "implemented": "12.90.12182",
+    "loot": [
+        {
+            "itemName": "Naga Basin"
+        },
+        {
+            "amount": "1-5",
+            "itemName": "Crystal Coin"
+        },
+        {
+            "itemName": "Giant Amethyst"
+        },
+        {
+            "itemName": "Giant Sapphire"
+        },
+        {
+            "amount": "1-14",
+            "itemName": "Ultimate Mana Potion"
+        },
+        {
+            "itemName": "Mastermind Potion"
+        },
+        {
+            "itemName": "Bullseye Potion"
+        },
+        {
+            "itemName": "Giant Emerald"
+        },
+        {
+            "itemName": "Ultimate Health Potion"
+        },
+        {
+            "itemName": "Berserk Potion"
+        },
+        {
+            "itemName": "Giant Ruby"
+        },
+        {
+            "itemName": "Piece of Timira's Sensors"
+        },
+        {
+            "itemName": "One of Timira's Many Heads"
+        },
+        {
+            "itemName": "Frostflower Boots"
+        },
+        {
+            "itemName": "Enchanted Turtle Amulet"
+        },
+        {
+            "itemName": "Dawnfire Sherwani"
+        },
+        {
+            "itemName": "Naga Crossbow"
+        },
+        {
+            "itemName": "Feverbloom Boots"
+        },
+        {
+            "itemName": "Naga Club"
+        },
+        {
+            "itemName": "Midnight Tunic"
+        },
+        {
+            "itemName": "Giant Topaz"
+        },
+        {
+            "itemName": "Dawnfire Pantaloons"
+        },
+        {
+            "itemName": "Midnight Sarong"
+        },
+        {
+            "itemName": "Naga Quiver"
+        },
+        {
+            "itemName": "Naga Rod"
+        },
+        {
+            "itemName": "Naga Sword"
+        },
+        {
+            "itemName": "Naga Wand"
+        }
+    ],
+    "walksaround": "None",
+    "exp": "45500",
+    "creatureclass": "Reptiles",
+    "earthDmgMod": "100%",
+    "physicalDmgMod": "100%?",
+    "bosstiaryclass": "Archfoe",
+    "primarytype": "Serpents",
+    "spawntype": [
+        "Triggered"
+    ],
+    "race_id": "2250",
+    "senseinvis": "yes",
+    "actualname": "Timira the Many-Headed",
+    "illusionable": "no",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Timira the Many-Headed",
+    "isboss": "yes",
+    "behaviour": "Timira fights in close range, but her AoE and chain attacks will often affect other players in the room.",
+    "location": "Emerald Gardens, an island of [[Marapur]].",
+    "iceDmgMod": "90%",
+    "strategy": "The final part of the fight against Timira is quite simple. If fighting with a lower level team, the blocker can trap Timira at the north-west corner of the room so it won't switch to the shooters.\n\nMost elements work well on Timira, although Sorcerers should avoid their waves as they'll do more damage by simply using [[Sudden Death Rune]]s. \n\nFor the strategies of the initial stages of the fight, see [[Within the Tides Quest]].",
+    "energyDmgMod": "90%",
+    "deathDmgMod": "90%"
+}

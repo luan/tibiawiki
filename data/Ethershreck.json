@@ -1,0 +1,125 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "[[Ghastly Dragon]]'s boss. A very popular boss to hunt during [[Double Loot Events]] due to being one of the few sources of the [[Golden Can of Oil]]. {{JSpoiler|Part of the [[Killing in the Name of... Quest]].}}",
+    "walksthrough": "?",
+    "hp": "9500",
+    "lightcolor": "119",
+    "speed": "?",
+    "abilities": "{{Ability List| {{Melee|?}}|{{Ability|Poisons|?|element=poisoned}}|{{Ability|Life Drain|?|element=lifedrain}}|{{Ability|Death Water Wave|?|element=death}}|{{Ability|Cursing Death Hit|?|element=cursed}}|{{Ability|Death Ball on itself|?|element=death}} }}",
+    "pushobjects": "yes",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "secondarytype": "The Undead",
+    "fireDmgMod": "90%?",
+    "holyDmgMod": "115%>?",
+    "sounds": [
+        "EMBRACE MY GIFTS!"
+    ],
+    "maxdmg": "?",
+    "pushable": "no",
+    "lightradius": "4",
+    "implemented": "9.20",
+    "loot": [
+        {
+            "amount": "0-230",
+            "itemName": "Gold Coin"
+        },
+        {
+            "amount": "0-15",
+            "itemName": "Platinum Coin"
+        },
+        {
+            "amount": "0-10",
+            "itemName": "Small Topaz"
+        },
+        {
+            "itemName": "Demonic Essence"
+        },
+        {
+            "itemName": "Giant Shimmering Pearl"
+        },
+        {
+            "itemName": "Undead Heart"
+        },
+        {
+            "itemName": "Ultimate Health Potion"
+        },
+        {
+            "amount": "0-3",
+            "itemName": "Great Health Potion"
+        },
+        {
+            "amount": "0-3",
+            "itemName": "Great Spirit Potion"
+        },
+        {
+            "amount": "0-3",
+            "itemName": "Great Mana Potion"
+        },
+        {
+            "itemName": "Ghastly Dragon Head"
+        },
+        {
+            "itemName": "Zaoan Shoes"
+        },
+        {
+            "itemName": "Shiny Stone"
+        },
+        {
+            "itemName": "Drakinata"
+        },
+        {
+            "itemName": "Zaoan Helmet"
+        },
+        {
+            "itemName": "Jade Hat"
+        },
+        {
+            "itemName": "Spellweaver's Robe"
+        },
+        {
+            "itemName": "Zaoan Halberd"
+        },
+        {
+            "itemName": "Sai"
+        },
+        {
+            "itemName": "Zaoan Legs"
+        },
+        {
+            "itemName": "Zaoan Armor"
+        },
+        {
+            "itemName": "Zaoan Sword"
+        },
+        {
+            "itemName": "Guardian Boots"
+        },
+        {
+            "itemName": "Golden Can of Oil"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "5600",
+    "creatureclass": "Reptiles",
+    "earthDmgMod": "0%?",
+    "physicalDmgMod": "110%?",
+    "primarytype": "Dragons",
+    "race_id": "760",
+    "senseinvis": "?",
+    "actualname": "Ethershreck",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Ethershreck",
+    "isboss": "yes",
+    "behaviour": "Unknown.",
+    "location": "[[Zao|Northern Zao]], [[Ghastly Dragon Lair]]. Its teleporter is located {{Mapper Coords|129.91|121.28|8|2|text=here}}.",
+    "iceDmgMod": "50%?",
+    "strategy": "'''Paladins''' should put a [[Fire Wall]] on the floor and run the boss around it. You can expect it to die within 15-25 shots.<br />\n'''Mages''' should put on [[Magic Shield]] and use [[Explosion]]s or [[Energy Strike]]s.<br />\n'''Knights''' should keep him diagonal to avoid unnecessary wave damage and use all of their attack spells to bring him down as fast as possible. [[Blood rage]] and [[Annihilation]] should be a good combo.",
+    "energyDmgMod": "110%?",
+    "deathDmgMod": "0%?"
+}

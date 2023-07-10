@@ -1,0 +1,92 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "Midnight Panthers are a very rare spawn in [[Tiquanda]] (approximately [[TibiaWiki:Bosses_Spawn_Frequency|once every 3 days]]). You can [[Midnight Panther (Mount)|tame]] them using a [[Leather Whip]] or a [[Music Box]]. There is no specific time of the day for it to spawn, like any other boss, it's absolutely random. Interestingly, when slain, the creature name changes: {{Message|type=look|13:37 You see a dead black panther (Vol:16)}}.\n<gallery mode=\"nolines\">\nMidnight_panther.jpg|Midnight Panther on Shanera\nMidnight_Panther_AMBUSH!.jpg|Midnight Panther running at low health\nTaming_a_Panther.jpg|Taming a Midnight Panther\n</gallery>",
+    "walksthrough": "?",
+    "hp": "1200",
+    "abilities": "{{Ability List\n |{{Melee|0-90?}}\n |{{Ability|[[Energy Strike]]|0-215?|element=energy}}\n |{{Ability|[[Invisibility]]|element=invisible}}\n |{{Healing|range=50+}}\n |{{Haste}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "holyDmgMod": "100%",
+    "maxdmg": "315?",
+    "pushable": "no",
+    "implemented": "8.70",
+    "loot": [
+        {
+            "amount": "1-86?",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Meat",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Panther Paw",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Panther Head",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Life Ring",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Sabretooth",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Strong Health Potion",
+            "rarity": "rare"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "900",
+    "mitigation": "0.99",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "midnight panther",
+    "illusionable": "no",
+    "armor": "30",
+    "convince": "--",
+    "name": "Midnight Panther",
+    "isboss": "no",
+    "iceDmgMod": "100%",
+    "energyDmgMod": "0%",
+    "deathDmgMod": "105%",
+    "plural": "midnight panthers",
+    "hpDrainDmgMod": "100%",
+    "usespells": "yes",
+    "occurrence": "Very Rare",
+    "bestiarytext": "For a long time the Midnight Panther was considered a myth like the Unjaga or the Yeti. Seemingly, the old lizard civilisation of Tiquanda has hunted these beasts almost to extinction. That way it made its way into legends and myths. As master of stealth and surprise, it strikes from the shadows, unexpected and deadly. The death of the victims were usually associated with one of the many other dangers of the jungle. Only a daring expedition of the Explorer Society that tried to uncover the myth of the Midnight Panther brought home proof of its existence. Many members of the expedition paid this discovery with their lives. As living myth, the Midnight Panther is attributed with many magic abilities and skills. Given the short and violent confrontation of the expedition with a Midnight Panther, none of those claims could be verified. For this reason, many facts concerning the Midnight Panther are still only speculation. All that can be taken as a fact is that the Midnight Panther is extremely rare, reclusive and dangerous.",
+    "speed": "290",
+    "pushobjects": "yes",
+    "fireDmgMod": "80%",
+    "sounds": [
+        "Groooooooar",
+        "MEOW",
+        "Groarrrrrrrr",
+        "Purrrrrrr"
+    ],
+    "runsat": "red",
+    "bestiaryclass": "Magical",
+    "creatureclass": "Mammals",
+    "earthDmgMod": "100%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Felines",
+    "spawntype": [
+        "Raid",
+        "Unique",
+        "Unblockable"
+    ],
+    "race_id": "698",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%",
+    "bestiaryname": "midnightpanther",
+    "behaviour": "It will hit you with [[melee]] and if you try to tame it, it may dissapear (run away). They will kill weaker creatures to reach you. The panther is a quick creature.",
+    "location": "[[Tiquanda]] around {{Mapper Coords|128.118|127.210|7|1|text=here}}, {{Mapper Coords|128.63|127.195|7|1|text=here}} and {{Mapper Coords|128.86|127.233|7|1|text=here}}.",
+    "strategy": "Unknown."
+}

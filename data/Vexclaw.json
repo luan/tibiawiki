@@ -1,0 +1,191 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "walksthrough": "Fire, Poison",
+    "hp": "8500",
+    "abilities": "{{Ability List\n |{{Melee|0-550+}}\n |{{Ability|Energy Bomb|400-500|energy\n  |scene={{Scene|spell=4sqmball2self|effect=Blue Electricity Effect}}}}\n |{{Ability|[[Burst Arrow]]|350-450|?\n  |scene={{Scene|spell=2sqmballtarget|effect=Fireball Effect|missile=Burst Arrow Missile|missile_direction=south-east|missile_distance=2/2}}}}\n |{{Ability|Physical Ball|150-350\n  |scene={{Scene|spell=4sqmballtarget|effect=Dust Effect|missile=Small Rock Missile|missile_direction=south-east|missile_distance=4/4}}}}\n |{{Ability|Mana Drain Wave|0-150|manadrain}}\n |{{Ability|Ice Beam|400-500+|lifedrain\n  |scene={{Scene|spell=8sqmbeam|effect=Ice Explosion Effect|caster=Vexclaw|look_direction=east}}}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "holyDmgMod": "110%",
+    "maxdmg": "{{Max Damage|physical=1350?|energy=500|manadrain=150|lifedrain=500?}}",
+    "pushable": "no",
+    "implemented": "10.90",
+    "loot": [
+        {
+            "amount": "1-200",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-9",
+            "itemName": "Platinum Coin",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-5",
+            "itemName": "Great Spirit Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-5",
+            "itemName": "Great Mana Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Vexclaw Talon",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Demonic Essence",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-6",
+            "itemName": "Fire Mushroom",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-5",
+            "itemName": "Ultimate Health Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-5",
+            "itemName": "Small Topaz",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-5",
+            "itemName": "Small Emerald",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-5",
+            "itemName": "Small Amethyst",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-5",
+            "itemName": "Small Ruby",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Yellow Gem",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Red Gem",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Ice Rapier",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Fire Axe",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Might Ring",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Energy Ring",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Giant Sword",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Rift Lance",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Ring of Healing",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Devil Helmet",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Platinum Amulet",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Golden Legs",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Demon Shield",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Rift Bow",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Rift Shield",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Mastermind Shield",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Rift Crossbow",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Magic Plate Armor",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Demonrage Sword",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Energy",
+    "exp": "6248",
+    "mitigation": "1.91",
+    "attacktype": "Melee",
+    "history": "Its experience was decreased from 7100 to 2485 with the first batch of changes of [[Updates/12.31|Update 12.31]]. It was later increased to 5680 and to 6248 with the second and sixth batches of changes, respectively.",
+    "article": "a",
+    "actualname": "vexclaw",
+    "illusionable": "no",
+    "armor": "55",
+    "convince": "--",
+    "name": "Vexclaw",
+    "isboss": "no",
+    "iceDmgMod": "105%",
+    "energyDmgMod": "90%",
+    "deathDmgMod": "80%",
+    "plural": "vexclaws",
+    "hpDrainDmgMod": "0%",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "The vexclaw belongs to a race that was once prized as personal bodyguards and strike force of many a demon prince. The size of its vexclaw retinue determined a prince's status and rank. It is said that this fact made the Vexclaws proud and lazy. After several vexclaw troops were bribed and switched sides in one of the many inter-demonic wars, the fame of the vexclaws quickly began to dwindle. In many courts, leaders of the vexclaw guard were challenged, defeated and replaced; and the new leaders of the bodyguards sooner or later replaced most of the vexclaw forces with more capable ones. Since the vexclaws no longer were seen as status objects, their princes didn't care to object. So the vexclaws fell into obscurity for a while, shunned by other demons or even hunted for sport. At their lowest point, the vexclaws were expendable mercenaries of hell which were hired and used as it pleased the demonic warlords in their fights. Then something changed. When the demon prince Drazzak was imprisoned, his own dungeons were opened and his former prisoners released. One of them was Turaxor, whom his fellow vexclaws called the Sleeping Lord. This vexclaw was so ancient that he was rumoured to have witnessed the dawn of time. Immensely cruel and powerful, he was the trainer and mentor of all the most famous vexclaws of all times, those that once laid the foundation for the fame of their kind. He was so old that he frequently retreated and went into hibernation for centuries. In one of these hibernation phases, prince Drazzak seized the opportunity to drag the sleeping Turaxor into his dungeons, to use him as a leverage against the vexclaws as well as to stop a possible competitor for power. With the fall of Drazzak though, the still slumbering Turaxor was freed and hidden by loyal followers. When they managed to wake their lord, he was enraged. The downfall of his kind and the treachery of the prince kindled his anger. He decided to rebuild the glory of the vexclaws, beginning with a campaign of extermination of his own kind to cut off anything too weak to survive. He gathered the remaining vexclaws and led them through a series of fights, tests and hazards that only the best survived. Then he began to train and instruct them in the old ways. Step by step, Turaxor rebuilt the vexclaws that once were. Many still have more of a mercenary mentality than pride, but things are changing. No longer are the vexclaws of no consequence, and again the princes begin to look at them with new found admiration. Some princes have already reintegrated some vexclaws into their bodyguard; and the resurgence of the vexclaws has just begun.",
+    "speed": "135",
+    "pushobjects": "yes",
+    "fireDmgMod": "25%",
+    "sounds": [
+        "Power is miiiiine!",
+        "Weakness must be culled!",
+        "Will Prove my power!"
+    ],
+    "runsat": "0",
+    "bestiaryclass": "Demon",
+    "creatureclass": "Demons",
+    "earthDmgMod": "60%",
+    "physicalDmgMod": "95%",
+    "primarytype": "Demons",
+    "race_id": "1197",
+    "bestiarylevel": "Hard",
+    "senseinvis": "yes",
+    "drownDmgMod": "0%",
+    "bestiaryname": "vexclaw",
+    "behaviour": "They stay in close combat and never retreat. Do not get tricked by the loot similar to those of [[Demons]] as they are much more powerfull in close and range combat. A Knight and Druid team can hunt these as well as [[Grimeleech]]es and [[Hellflayer]]s with ice based attacks. Avoid being hitted by the beams whenever possible.",
+    "location": "[[Grounds of Damnation]], [[Grounds of Deceit]], [[Grounds of Despair]], [[Grounds of Destruction]], [[Grounds of Fire]], [[Grounds of Undeath]], [[Halls of Ascension]] and [[Hell Hub]]",
+    "strategy": "Unknown"
+}

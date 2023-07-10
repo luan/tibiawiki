@@ -1,0 +1,67 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "Spawns during the [[Bewitched]] [[World Quests|event]]. If they are not killed within 10 minutes, they will disappear.\n\n<gallery>\nTibiabane.jpg\n</gallery>",
+    "walksthrough": "?",
+    "hp": "2500",
+    "abilities": "{{Ability List| {{Melee|0-55|poison=9}}|{{Ability|Poison Wave|starts from up to 6 hp per turn|element=poisoned}}|{{Healing|range=100-300}} }}",
+    "healMod": "100%",
+    "paraimmune": "?",
+    "secondarytype": "Event Creatures",
+    "holyDmgMod": "10%",
+    "maxdmg": "55",
+    "pushable": "no",
+    "implemented": "8.70",
+    "loot": [
+        {
+            "itemName": "Dry Piece of Wood",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Wooden Trash",
+            "rarity": "uncommon"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "400",
+    "mitigation": "0.56",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "bane bringer",
+    "illusionable": "no",
+    "armor": "17",
+    "convince": "--",
+    "name": "Bane Bringer",
+    "isboss": "no",
+    "iceDmgMod": "10%",
+    "energyDmgMod": "10%",
+    "deathDmgMod": "10%",
+    "status": "event",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Very Rare",
+    "speed": "115",
+    "pushobjects": "yes",
+    "fireDmgMod": "10%",
+    "sounds": [
+        "You shall not succeed!",
+        "This time we will prevail!"
+    ],
+    "bestiaryclass": "Plant",
+    "creatureclass": "Elementals",
+    "earthDmgMod": "10%",
+    "physicalDmgMod": "110%",
+    "primarytype": "Bio-Elementals",
+    "spawntype": [
+        "Raid",
+        "Event",
+        "Triggered"
+    ],
+    "race_id": "679",
+    "bestiarylevel": "Medium",
+    "senseinvis": "Yes",
+    "drownDmgMod": "100%?",
+    "behaviour": "Not very strong or fast. Will rarely heal for more than 200 hp.",
+    "location": "[[Green Claw Swamp]] underground, near the big witches' cauldron.",
+    "strategy": "[[Sorcerer]]s and [[Druid]]s should use [[Explosion]] runes while Druids can also use [[Physical Strike]] to attack. [[Knight]]s and [[Paladin]]s should attack using their strongest weaponry and [[Physical Damage|Physical Damaging]] spells."
+}

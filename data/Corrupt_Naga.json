@@ -1,0 +1,54 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "corrupt nagas",
+    "hpDrainDmgMod": "100%?",
+    "walksthrough": "Fire, Energy, Poison",
+    "hp": "5990",
+    "abilities": "{{Ability List}}",
+    "pushobjects": "yes",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "secondarytype": "Nagas",
+    "fireDmgMod": "75%",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "{{Max Damage|1000+}}",
+    "pushable": "no",
+    "implemented": "12.90.12182",
+    "loot": [
+        {
+            "amount": "1-8",
+            "itemName": "Platinum Coin"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Violet Crystal Shard"
+        },
+        {
+            "itemName": "Corrupt Naga Scales"
+        }
+    ],
+    "walksaround": "None",
+    "exp": "4380",
+    "creatureclass": "Reptiles",
+    "earthDmgMod": "100%",
+    "physicalDmgMod": "100%?",
+    "primarytype": "Serpents",
+    "spawntype": [
+        "Unblockable"
+    ],
+    "senseinvis": "yes",
+    "article": "a",
+    "actualname": "corrupt naga",
+    "illusionable": "no",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Corrupt Naga",
+    "isboss": "no",
+    "iceDmgMod": "100%?",
+    "energyDmgMod": "90%",
+    "deathDmgMod": "100%?"
+}

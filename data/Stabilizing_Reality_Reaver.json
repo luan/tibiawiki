@@ -1,0 +1,130 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "Those that are located outside around the vortexes, do not yield any experience points.",
+    "walksthrough": "?",
+    "hp": "2500",
+    "abilities": "{{Ability List| {{Melee|0-278+}}|{{Ability|[[Energy Wave]]|0-258+|element=energy}}|{{Ability|[[Invisibility]]|element=invisible}}|{{Healing|range=0-209+}} }}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "holyDmgMod": "100%",
+    "maxdmg": "600+",
+    "pushable": "no",
+    "implemented": "10.94",
+    "loot": [
+        {
+            "amount": "1-100",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-4",
+            "itemName": "Platinum Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Great Mana Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Great Health Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Great Spirit Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Condensed Energy",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Plasma Pearls",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Small Energy Ball",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Energy Bar",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Energy Drink",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Red Gem",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Blue Crystal Shard",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Violet Crystal Shard",
+            "rarity": "semi-rare"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Blue Crystal Splinter",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Red Crystal Fragment",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Wand of Starstorm",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Lightning Headband",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Focus Cape",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "1950",
+    "mitigation": "1.57",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "stabilizing reality reaver",
+    "illusionable": "no",
+    "armor": "46",
+    "convince": "--",
+    "name": "Stabilizing Reality Reaver",
+    "isboss": "no",
+    "iceDmgMod": "80%",
+    "energyDmgMod": "30%",
+    "deathDmgMod": "100%",
+    "plural": "stabilizing reality reavers",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "The Stabilizing Reality Reaver is a weaker version of [[Reality Reaver]]s.",
+    "speed": "155",
+    "pushobjects": "yes",
+    "fireDmgMod": "85%",
+    "sounds": [
+        "Ssshhh!"
+    ],
+    "runsat": "0",
+    "bestiaryclass": "Extra Dimensional",
+    "creatureclass": "Elementals",
+    "earthDmgMod": "110%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Electro-Elementals",
+    "race_id": "1266",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "stabilizingrealityreaver",
+    "behaviour": "They fight in close combat.",
+    "location": "[[Otherworld (Edron)]]",
+    "strategy": "You can solo one at level 100, but if they come with more than 3 even level 110 is not enough."
+}

@@ -1,0 +1,86 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "None.",
+    "isarenaboss": "no",
+    "walksthrough": "Energy, Poison",
+    "hp": "800",
+    "abilities": "{{Ability List| {{Melee|0-80?}}|{{Ability|Death Missile|120-250?|element=death}}|{{Healing|range=80-200}} }}",
+    "healMod": "100%",
+    "paraimmune": "?",
+    "holyDmgMod": "120%",
+    "maxdmg": "330?",
+    "pushable": "?",
+    "implemented": "9.10",
+    "loot": [
+        {
+            "amount": "0-144",
+            "itemName": "Gold Coin"
+        },
+        {
+            "itemName": "Health Potion"
+        },
+        {
+            "itemName": "Hieroglyph Banner"
+        },
+        {
+            "itemName": "Mana Potion"
+        },
+        {
+            "amount": "0-4",
+            "itemName": "Orichalcum Pearl"
+        },
+        {
+            "amount": "0-3",
+            "itemName": "Scarab Coin"
+        },
+        {
+            "itemName": "Spellbook"
+        },
+        {
+            "itemName": "White Pearl",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Ring of Healing",
+            "rarity": "rare"
+        }
+    ],
+    "walksaround": "Fire",
+    "exp": "750",
+    "mitigation": "1.29",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "death priest",
+    "illusionable": "no",
+    "armor": "38",
+    "convince": "--",
+    "name": "Death Priest",
+    "isboss": "no",
+    "iceDmgMod": "100%",
+    "energyDmgMod": "20%",
+    "deathDmgMod": "0%",
+    "status": "event",
+    "plural": "death priests",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Rare",
+    "speed": "102",
+    "pushobjects": "?",
+    "fireDmgMod": "100%",
+    "sounds": [
+        ""
+    ],
+    "bestiaryclass": "Undead",
+    "creatureclass": "The Undead",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Undead Humanoids",
+    "race_id": "710",
+    "bestiarylevel": "Medium",
+    "senseinvis": "?",
+    "drownDmgMod": "100%?",
+    "behaviour": "Fights to death.",
+    "location": "[[Horestis Tomb]].",
+    "strategy": "Unknown."
+}

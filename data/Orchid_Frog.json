@@ -1,0 +1,62 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "orchid frogs",
+    "hpDrainDmgMod": "100%",
+    "notes": "Very fast. The main danger here is when they come with other enemies (and other colored) frogs are fast enough to get to you first and break your shielding and leave you wide open to other monster's attacks.",
+    "walksthrough": "None",
+    "hp": "60",
+    "usespells": "no",
+    "occurrence": "Common",
+    "speed": "160",
+    "abilities": "{{Ability List|{{Melee|0-24}}}}",
+    "pushobjects": "?",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "fireDmgMod": "110%",
+    "holyDmgMod": "100%",
+    "sounds": [
+        "Ribbit!",
+        "Ribbit! Ribbit!"
+    ],
+    "maxdmg": "{{Max Damage|physical=24}}",
+    "pushable": "?",
+    "usedelements": "Physical",
+    "implemented": "7.8",
+    "bestiaryclass": "Amphibic",
+    "loot": [
+        {
+            "amount": "0-10",
+            "itemName": "Gold Coin"
+        },
+        {
+            "itemName": "Worm",
+            "rarity": "uncommon"
+        }
+    ],
+    "walksaround": "Fire, Energy, Poison",
+    "exp": "20",
+    "creatureclass": "Amphibians",
+    "earthDmgMod": "100%",
+    "mitigation": "0.28",
+    "physicalDmgMod": "100%",
+    "primarytype": "Frogs",
+    "race_id": "271",
+    "attacktype": "Melee",
+    "bestiarylevel": "Easy",
+    "senseinvis": "no",
+    "article": "an",
+    "actualname": "orchid frog",
+    "illusionable": "no",
+    "armor": "8",
+    "drownDmgMod": "100%",
+    "convince": "305",
+    "name": "Orchid Frog",
+    "isboss": "No",
+    "behaviour": "Fights to the death. Can't be pushed.",
+    "location": "[[Meriana]], [[Laguna Islands]], and other [[Shattered Isles]].",
+    "iceDmgMod": "90%",
+    "strategy": "On the [[Laguna Islands]], many types of frogs, tortoises, and toads can swarm you. Low level players may want to have [[GFB]]s to clear these swarms.",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "100%"
+}

@@ -1,0 +1,99 @@
+{
+    "summon": "800",
+    "templateType": "Creature",
+    "notes": "They are similar to [[Monk]]s and are summonable. They spawn with [[Hellspawn]]s and [[Necromancer]]s and can hit pretty hard on an inexperienced player. This is one of two monsters that can be [[Summon Creature|summoned]] but not [[Convince Creature|convinced]] (if you exclude summonable poisonous creatures and the [[Juvenile Cyclops]]). The other one is the [[Monk]].",
+    "walksthrough": "None",
+    "hp": "240",
+    "abilities": "{{Ability List\n |{{Melee|0-110}}\n |{{Ability|[[Life Drain]]|32-135|element=life drain\n  |scene={{Scene|spell=3sqmstrike|caster=Gozzler|effect=Red Sparkles Effect|casting_effect=Red Sparkles Effect}}}}\n |{{Healing|range=30-50}}\n |{{Haste}}}}",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "holyDmgMod": "50%",
+    "maxdmg": "{{Max Damage|physical=110|lifedrain=135}}",
+    "pushable": "No",
+    "implemented": "8.40",
+    "loot": [
+        {
+            "amount": "0-70",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Brown Flask",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Sabre",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Plate Shield",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Battle Axe",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Morning Star",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Clerical Mace",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Small Sapphire",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Dwarven Ring",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Serpent Sword",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Fire, Energy, Poison",
+    "exp": "180",
+    "mitigation": "1.37",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "gozzler",
+    "illusionable": "yes",
+    "armor": "25",
+    "convince": "--",
+    "name": "Gozzler",
+    "isboss": "no",
+    "iceDmgMod": "100%",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "50%",
+    "plural": "gozzlers",
+    "hpDrainDmgMod": "100%",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "The so-called hunger demons are often conjured to spread famine in certain areas. Even though they are little, it is known that they can devour whole cows in just a few heartbeats. Their appetite seems endless and their mouths are as elastic as their teeth and claws are sharp. Whoever has seen one of these little monsters devouring something four times bigger than themselves will no longer make fun of their small stature. Even if they are categorised as weaker demons, they do not seem to care much about hierarchy. All they are interested in is eating. When being in our world, they swallow everything that is in some way edible, or can at least be crushed with their teeth. They usually start with grain and livestock or occasionally some peasant who did not get away fast enough. Then they proceed with all other kinds of animals, insects and finally plants. Finally, they stuff themselves with dead wood and other materials. Considering their incredible greed, they rarely appear in bigger packs. If anything, they form small groups.<br />These demons are also quite knowledgeable in the arcane arts, even though they hardly use spells on their own. They are often summoned by aspiring wizards to learn from the Gozzlers. Since the little demons are not overly pleased to be forced into our world, they have to be bribed to share their knowledge. For huge amounts of food, the demons reveal little pieces of their knowledge. Many knowledge seekers have been close to the verge of ruin due to the appetite of their demonic teachers.",
+    "speed": "120",
+    "pushobjects": "Yes",
+    "fireDmgMod": "100%",
+    "sounds": [
+        "Huhuhuhuuu!",
+        "Let the fun begin!",
+        "Yihahaha!",
+        "I'll bite you! Nyehehehe!",
+        "Nyarnyarnyarnyar."
+    ],
+    "bestiaryclass": "Demon",
+    "creatureclass": "Demons",
+    "earthDmgMod": "100%",
+    "physicalDmgMod": "105%",
+    "primarytype": "Demons",
+    "race_id": "523",
+    "bestiarylevel": "Easy",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%",
+    "bestiaryname": "gozzler",
+    "behaviour": "'''Gozzlers''' are hungry imps with two mouths. They fight to the death.",
+    "location": "[[Magician Quarter]], cave in [[Beregar]], [[Farmine Mines]].",
+    "strategy": "Kill it like a [[Monk]]."
+}

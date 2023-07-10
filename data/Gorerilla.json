@@ -1,0 +1,93 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "gorerillas",
+    "hpDrainDmgMod": "100%?",
+    "notes": "<gallery captionalign=\"center\" mode=\"nolines\">\nGorerilla Artwork.jpg|Official [[Creature Artwork]]\n</gallery>",
+    "hp": "16850",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "It's a possible candidate as ancestor for certain more or less mythical creatures such as the elusive Yeti. Yet as such creatures, if they even exist, are rarely sighted, there is little chance to proof or disproof such claims so they tend to be pervasive. Even for other ape creatures it's impossible to pinpoint any form of lineage as there are too many of what scientists call 'missing links' to trace down any ascendency. As tempting as it might be to connect the ape civilisations of Tiquanda and Banuta especially to the primal Gorerilla, there is no actual proof to justify this. Despite heated debates, with little evidence, in the end it became a moot point in the end which species of the known bigger ape species are descendants of this vicious species. The Gorerilla itself is a brutal predator that heavily relies on scare tactics to fend of other predators. Posing and yelling akin to that of ordinary gorillas and their relatives might stop only the most impressable predators in Gnomprona. But their threatening behaviour can be backed up by the raw power, steel-like muscles and a set of nightmarish teeth that puts even those of sharks to shame. Their jaws sport not only one row of teeth but two, allowing it to shred flesh like thin paper. The pointy teeth seem to be built to pierce armor, natural or artificial. Their powerful arms can grapple most opponents with ease and their iron grip is hard to escape from. Of course being in the grip of their arms makes one prone to bites of their murderous teeth. They mostly lack any climbing skill that other apes might display and actually seem rather clumsy, probably because of their sheer mass and muscles. The flesh of the Gorerilla is inedible and seems to mostly consist of tough meat due to their muscles, that is impossible to chew. The Gorerilla in turn, though capable of eating plant matter, relies on flesh and blood as sustenance mostly. They are very diligent when it comes to cleaning bones of even the slightest shred to flesh and leave the skeletons of their victims almost impossible clean. Only their offspring has a diet of fruits, roots and insects mostly. They hide in the thickets where they compete with numerous other cubs of local creatures for a limited supply of food.",
+    "speed": "215",
+    "abilities": "{{Ability List\n |{{Ability|Boulder throw|209-343|element=physical\n  |scene={{Scene|spell=7sqmstrike|caster=Gorerilla|look_direction=south|missile=Stone Missile|missile_direction=south-east|missile_distance=7/7}}}}\n |{{Ability|Big Explosion Bomb||element=?\n  |scene={{Scene|spell=3sqmball2self|caster=Gorerilla|look_direction=south|effect=Explosion Effect|effect_on_caster=yes}}}}\n |{{Ability|Explosion Bomb||element=?\n  |scene={{Scene|spell=2sqmballself|caster=Gorerilla|look_direction=south|effect=Explosion Effect|effect_on_caster=yes}}}}\n |{{Ability|Explosion Ring||element=?\n  |scene={{Scene|spell=2sqmring2|caster=Gorerilla|look_direction=south|effect=Explosion Effect}}}}\n |{{Ability|Fire ball||element=?\n  |scene={{Scene|spell=1sqmballtarget|caster=Gorerilla|look_direction=south|effect=Fire Effect|missile=Fire Missile|missile_direction=south-east|missile_distance=2/2}}}}\n}}",
+    "pushobjects": "yes",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "fireDmgMod": "80%",
+    "holyDmgMod": "105%",
+    "sounds": [
+        "Shwooosh!"
+    ],
+    "pushable": "no",
+    "implemented": "12.90.12182",
+    "bestiaryclass": "Mammal",
+    "loot": [
+        {
+            "amount": "1-2",
+            "itemName": "Crystal Coin",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Doublet",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "Ultimate Mana Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Gorerilla Mane",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Gorerilla Tail",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Magma Coat",
+            "rarity": "semi-rare"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Black Pearl",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Crystal Crossbow",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Ornate Crossbow",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Composite Hornbow",
+            "rarity": "very rare"
+        }
+    ],
+    "exp": "13172",
+    "creatureclass": "Mammals",
+    "earthDmgMod": "100%",
+    "mitigation": "1.99",
+    "physicalDmgMod": "70%",
+    "primarytype": "Apes",
+    "attacktype": "Distance",
+    "race_id": "2277",
+    "bestiarylevel": "Challenging",
+    "history": "Its experience was decreased from 15,280 to 13,172 on {{OfficialNewsArchive|6875|July 28, 2022}}.\n\nOn [[Updates/12.91.12383|September 06, 2022]] its health points were increased from 15,190 to 16,850.",
+    "senseinvis": "yes",
+    "article": "a",
+    "actualname": "gorerilla",
+    "illusionable": "no",
+    "armor": "76",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "bestiaryname": "gorerilla",
+    "name": "Gorerilla",
+    "isboss": "no",
+    "location": "[[Sparkling Pools]]",
+    "iceDmgMod": "105%",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "100%"
+}

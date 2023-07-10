@@ -1,0 +1,64 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "Deep Terror",
+    "hpDrainDmgMod": "100%?",
+    "notes": "It is the first boss you will encounter during the [[Hero of Rathleton Quest]]. It will spawn when you kill the four [[Tentacle of the Deep Terror|Tentacles of the Deep Terror]] on the quest. Like the other bosses, you will not loot anything unless you have first slain [[Professor Maxxen]]. Thus you will not loot anything on the first kill.",
+    "walksthrough": "?",
+    "hp": "100000",
+    "speed": "?",
+    "abilities": "{{Ability List|{{Melee|0-945+}}|{{Healing|range=0-921+}} }}",
+    "pushobjects": "yes",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "100%",
+    "holyDmgMod": "100%",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "?",
+    "pushable": "no",
+    "implemented": "10.70",
+    "loot": [
+        {
+            "itemName": "Glooth Glider Tubes and Wires"
+        },
+        {
+            "itemName": "Platinum Coin"
+        },
+        {
+            "itemName": "Glooth Bag"
+        },
+        {
+            "itemName": "Rusted Armor"
+        },
+        {
+            "itemName": "Rusted Legs"
+        },
+        {
+            "itemName": "Gold Ingot"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "35000",
+    "creatureclass": "Elementals",
+    "earthDmgMod": "100%",
+    "physicalDmgMod": "100%",
+    "bosstiaryclass": "Bane",
+    "primarytype": "Bio-Elementals",
+    "race_id": "1087",
+    "senseinvis": "?",
+    "actualname": "Deep Terror",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Deep Terror",
+    "isboss": "yes",
+    "behaviour": "Retargets to whoever deals the most damage.",
+    "location": "His lair in the [[Underground Glooth Factory]] in [[Maxxen's Dungeon]].",
+    "iceDmgMod": "100%",
+    "strategy": "Trap it with knights and wild growth runes so that it cannot reach the shooters. All shooters should use their strongest spells to bring it down as fast as possible since it heals a lot and you have only 10 minutes in the boss room.",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "90%"
+}

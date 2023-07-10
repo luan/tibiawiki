@@ -1,0 +1,117 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "Be careful as a low level because they can use quite heavy paralyze sometimes. Mummies are worth the trouble though because of their relatively good loot.",
+    "walksthrough": "Poison",
+    "hp": "240",
+    "abilities": "{{Ability List\n |{{Melee|0-85|poison=4}}\n |{{Ability|Death Hit|38-85|death\n  |scene={{Scene|spell=2sqmstrike|caster=Mummy|look_direction=south|effect=Cloud Effect|missile=Death Missile|missile_direction=south-east|missile_distance=2/2}}}}\n |{{Ability|Ranged Paralysis|160-240 speed points for 10 seconds|paralyze\n  |scene={{Scene|spell=7sqmstrike|effect=Red Sparkles Effect|caster=mummy|missile_direction=south-east|missile_distance=7/7}}}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "holyDmgMod": "125%",
+    "maxdmg": "{{Max Damage|physical=85|earth=4|death=40}}",
+    "pushable": "?",
+    "implemented": "6.0",
+    "loot": [
+        {
+            "amount": "0-80",
+            "itemName": "Gold Coin"
+        },
+        {
+            "itemName": "Flask of Embalming Fluid"
+        },
+        {
+            "itemName": "Gauze Bandage"
+        },
+        {
+            "itemName": "Magic Light Wand"
+        },
+        {
+            "amount": "0-3",
+            "itemName": "Worm"
+        },
+        {
+            "itemName": "Strange Talisman",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Silver Brooch",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Crystal Ring",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Black Pearl",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Yellow Piece of Cloth",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Poison Dagger",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Black Shield",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Silver Amulet",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Mini Mummy",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Fire, Energy",
+    "exp": "150",
+    "mitigation": "0.59",
+    "attacktype": "Melee",
+    "history": "Although the sprites for mummy were implemented on [[Updates/6.0|Update 6.0]], the first known spawns of this creature were only implemented with [[Draconia]] on the [[Updates/6.2|Update 6.2]].",
+    "article": "a",
+    "actualname": "mummy",
+    "illusionable": "yes",
+    "armor": "14",
+    "convince": "--",
+    "name": "Mummy",
+    "isboss": "no",
+    "iceDmgMod": "80%",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "0%",
+    "plural": "mummies",
+    "hpDrainDmgMod": "0%",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "Mummies are undead monsters that can be found in the ancient pyramids and ruins in the north of Tibia. No one knows where they come from, but they guard the burial chambers and attack every adventurer trying to get the legendary treasures. Their scaring sight can paralyze the bravest fighters, and they try to drain life energy off their shocked victims. Be aware of their poisonous daggers!",
+    "speed": "75",
+    "pushobjects": "?",
+    "fireDmgMod": "100%",
+    "sounds": [
+        "I will ssswallow your sssoul!",
+        "Mort ulhegh dakh visss.",
+        "Flesssh to dussst!",
+        "I will tassste life again!",
+        "Ahkahra exura belil mort!",
+        "Yohag Sssetham!"
+    ],
+    "bestiaryclass": "Undead",
+    "creatureclass": "The Undead",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Undead Humanoids",
+    "spawntype": [
+        "Regular",
+        "Unblockable"
+    ],
+    "race_id": "65",
+    "bestiarylevel": "Easy",
+    "senseinvis": "yes",
+    "drownDmgMod": "0%",
+    "bestiaryname": "mummy",
+    "behaviour": "Mummies fight until death.",
+    "location": "[[Drefia]], [[Darama]]'s [[Dark Pyramid]], [[Draconia]], [[Mount Sternum Undead Cave]], [[Green Claw Swamp]], [[Amazon Camp (Venore)|Venore Amazon Camp]] underground, [[Helheim]], [[Upper Spike]], all [[Tomb]]s, [[Dark Cathedral]], [[Lion's Rock]].",
+    "strategy": "A good strategy for distance fighters hunting this monster ([[druid]]s, [[sorcerer]]s, or [[paladin]]s) is this: If you are [[paralyze]]d, and can still move about as fast as the mummy, continue running it until either the [[paralyze]] wears off or it [[paralyze]]s you again. One [[exura]] will cancel out all paralysis. However, obstructions or lag can result in the mummy catching up and attacking the player. [[GFB]]s and [[explosion]]s are useful in case of a tight situation."
+}

@@ -1,0 +1,129 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "walksthrough": "Fire",
+    "hp": "3250",
+    "abilities": "{{Ability List|{{Melee|0-465+}}|{{Haste}}|{{Healing|range=50-100}}}}",
+    "healMod": "100%",
+    "paraimmune": "?",
+    "holyDmgMod": "100%",
+    "maxdmg": "{{Max Damage|physical=465}}",
+    "pushable": "no",
+    "implemented": "10.70",
+    "loot": [
+        {
+            "amount": "1-4",
+            "itemName": "Platinum Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Quara Bone",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-7",
+            "itemName": "Royal Spear",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Mind Stone",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Great Health Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-10",
+            "itemName": "Assassin Star",
+            "rarity": "semi-rare"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "Shrimp",
+            "rarity": "semi-rare"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "Small Diamond",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Fish Fin",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Blue Crystal Shard",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Relic Sword",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Glacier Robe",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Abyss Hammer",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Frozen Plate",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Skull Helmet",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Giant Shrimp",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Energy, Poison",
+    "exp": "2700",
+    "mitigation": "1.46",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "renegade quara predator",
+    "illusionable": "yes",
+    "armor": "40",
+    "convince": "--",
+    "name": "Renegade Quara Predator",
+    "isboss": "no",
+    "iceDmgMod": "0%",
+    "energyDmgMod": "125%",
+    "deathDmgMod": "100%",
+    "status": "event",
+    "plural": "renegade quara predators",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "lightcolor": "35",
+    "occurrence": "Rare",
+    "speed": "225",
+    "pushobjects": "yes",
+    "fireDmgMod": "0%",
+    "sounds": [
+        ""
+    ],
+    "lightradius": "2",
+    "bestiaryclass": "Aquatic",
+    "creatureclass": "Amphibians",
+    "earthDmgMod": "110%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Quara",
+    "spawntype": [
+        "Regular",
+        "Event",
+        "Unblockable"
+    ],
+    "race_id": "1101",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "drownDmgMod": "0%",
+    "behaviour": "Unknown",
+    "location": "[[Seacrest Grounds]] when [[Seacrest Serpent]]s are not spawning.",
+    "strategy": "The same used for a regular [[Quara Predator]]."
+}

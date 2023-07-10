@@ -1,0 +1,103 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "loricate orgers",
+    "hpDrainDmgMod": "100%?",
+    "walksthrough": "?",
+    "hp": "750",
+    "usespells": "yes",
+    "occurrence": "Rare",
+    "speed": "115",
+    "abilities": "{{Ability List|}}",
+    "pushobjects": "?",
+    "healMod": "100%",
+    "paraimmune": "?",
+    "fireDmgMod": "100%",
+    "holyDmgMod": "90%",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "?",
+    "pushable": "?",
+    "usedelements": "?",
+    "implemented": "12.20.9066",
+    "bestiaryclass": "Giant",
+    "loot": [
+        {
+            "amount": "1-3",
+            "itemName": "Platinum Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Brass Helmet",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Plate Armor",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Soldier Helmet",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Copper Shield",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Crowbar",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Brass Armor",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Viking Helmet",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Studded Armor",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Studded Shield",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Bone Shield",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Death Ring",
+            "rarity": "semi-rare"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "570",
+    "creatureclass": "Humanoids",
+    "earthDmgMod": "110%",
+    "mitigation": "0.86",
+    "physicalDmgMod": "100%",
+    "primarytype": "Giants",
+    "spawntype": [
+        "Regular"
+    ],
+    "race_id": "1857",
+    "attacktype": "Melee",
+    "bestiarylevel": "Medium",
+    "senseinvis": "?",
+    "article": "a",
+    "actualname": "loricate orger",
+    "illusionable": "no",
+    "armor": "37",
+    "drownDmgMod": "100%?",
+    "convince": "?",
+    "name": "Loricate Orger",
+    "isboss": "no",
+    "location": "[[Orcsoberfest Island]].",
+    "iceDmgMod": "100%",
+    "energyDmgMod": "80%",
+    "deathDmgMod": "110%",
+    "status": "event"
+}

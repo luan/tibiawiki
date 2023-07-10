@@ -1,0 +1,118 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "It only drops a [[Bag You Desire]] for players with at least one of [[Goshnar's Taints]]. The more taints you have, the higher the chance. The Bag is always dropped inside a [[Reward Container]] so there's no risk of leaving it behind in the creature's corpse.",
+    "walksthrough": "Fire, Energy, Poison",
+    "hp": "30000",
+    "abilities": "{{Ability List|}}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "holyDmgMod": "100%",
+    "maxdmg": "?",
+    "pushable": "no",
+    "implemented": "12.40.9997",
+    "loot": [
+        {
+            "itemName": "Crystal Coin",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-?",
+            "itemName": "Great Spirit Potion",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Blue Gem",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Gold Ingot",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Violet Gem",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Wood Cape",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Ring of Blue Plasma",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Capricious Heart",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Capricious Robe",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Ornate Crossbow",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Glacial Rod",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Fur Armor",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Collar of Blue Plasma",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Bag You Desire",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "None",
+    "exp": "19360",
+    "mitigation": "2.45",
+    "attacktype": "Distance",
+    "history": "Its experience was reduced from 29,900 to 20,000 and its loot in 22% with the balancing changes on {{OfficialNewsArchive|6086|April 15, 2021}}. Its experience was further reduced to 17,600 with the [[Updates/12.66.10866|changes]] on {{OfficialNewsArchive|6159|June 01, 2021}}. Its experience was later increased to 19,360 on [[Updates/12.67.10934 (2)|July 06, 2021]]. Its loot was also increased by 10% on the same patch.",
+    "article": "a",
+    "actualname": "capricious phantom",
+    "illusionable": "no",
+    "armor": "100",
+    "convince": "--",
+    "name": "Capricious Phantom",
+    "isboss": "no",
+    "iceDmgMod": "100%",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "100%",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "Zarganashs hostile environment gave birth to an own breed of phantoms that differs by the hazards that help to form them from the tormented souls they once were. The phantoms that gave in to arbitrariness of almost obscene proportions are known as capricious phantoms. Their very existence is a contradiction and their presence is a pain to reality itself. What might be seen as aimed attacks are just manifestations of their unnatural state. Especially the human mind that tries to make sense of the mockery their presence causes, tend to actually see behaviour patterns and actions of the capricious phantom that are not really happening, just to make some sense of the hurtful confrontation. In reality the capricious phantoms are not existent at all. The concept that is hard to grasp for the mortal mind is, that they are kind of a blind spot in reality. An occurrence probably only possible in the twisted realm of Zarganash. These non-entities and their perceived actions are just a trick the mind plays, to cope with that what can't be understood or observed. Of course the results of their presumed actions are very real, even if caused by something entirely different than observed. In the end it makes little difference for a victim of the capricious phantom. Whatever it is or not has to be dealt with or it will cause damage and destruction. Luckily the occurrence is susceptible to normal weaponry and responsive to spells. So for many travellers the nature of the phantom is a moot point, they handle it like any other hazard, since at long as it can be 'killed', it's good enough for most.",
+    "speed": "240",
+    "pushobjects": "yes",
+    "fireDmgMod": "100%",
+    "sounds": [
+        "I hope you can't swim.",
+        "Troubled Water. Troubled you!",
+        "You should shiver!",
+        "You will leak blood."
+    ],
+    "runsat": "0",
+    "bestiaryclass": "Undead",
+    "creatureclass": "The Undead",
+    "earthDmgMod": "50%",
+    "physicalDmgMod": "110%",
+    "primarytype": "Ghosts",
+    "spawntype": [
+        "Regular"
+    ],
+    "race_id": "1932",
+    "bestiarylevel": "Challenging",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "capriciousphantom",
+    "behaviour": "Unknown.",
+    "location": "[[Ebb and Flow]].",
+    "strategy": "Unknown."
+}

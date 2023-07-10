@@ -1,0 +1,186 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "walksthrough": "Fire, Energy, Poison",
+    "hp": "3100",
+    "abilities": "{{Ability List|{{Melee|0-387+}}|{{Healing|range=120-170+}}|{{Ability|Energy Beam|0-110+|manadrain}}|{{Ability|Great Death Beam|0-209+|death}}|{{Ability|Invisibility||invisible}}|{{Ability|Sudden Death|0-209+|death}}|{{Ability|GFB area [[Stars Effect]]||drunk}}|{{Ability|Mana Drain|0-107+|manadrain}}|{{Ability|Energy Strike|0-95+|manadrain}}}}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "holyDmgMod": "70%",
+    "maxdmg": "{{Max Damage|physical=387?|manadrain=312?|death=418?}}",
+    "pushable": "no",
+    "implemented": "10.80",
+    "loot": [
+        {
+            "amount": "1-100",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-6",
+            "itemName": "Platinum Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Flask of Demonic Blood",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Soul Orb",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Golden Lotus Brooch",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Peacock Feather Fan",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Demonic Essence",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Great Health Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-5",
+            "itemName": "Assassin Star",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "White Pearl",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "Small Diamond",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "Small Sapphire",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Silver Brooch",
+            "rarity": "semi-rare"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Black Pearl",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Small Topaz",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Small Ruby",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Small Emerald",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Necrotic Rod",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Tribal Mask",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Silver Amulet",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Yellow Gem",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Underworld Rod",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Blue Robe",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Oriental Shoes",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Assassin Dagger",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Crystal Ring",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Blue Gem",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Skullcracker Armor",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Gold Ingot",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Spellbook of Mind Control",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "None.",
+    "exp": "4100",
+    "mitigation": "1.60",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "midnight asura",
+    "illusionable": "no",
+    "armor": "55",
+    "convince": "--",
+    "name": "Midnight Asura",
+    "isboss": "no",
+    "iceDmgMod": "90%",
+    "energyDmgMod": "110%",
+    "deathDmgMod": "0%",
+    "plural": "midnight asuras",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "Asuri are demonic creatures who usually hide their true face and appear in the form of beautiful women. Though they can take different shapes they favour a seductive appearance, for example in the form of young dancers. These demonesses are driven mainly by greed and envy. They enter the mortal world because they begrudge humans and other peoples their vigour, beauty and happiness. They seek to destroy positive feelings as love, contentment and mirth, because herefrom they gain their energy. An asura especially stalks men she regards as handsome and happy. These victims are lured into gorgeous palaces full of riches and conveniences, inhabited by several asuri. There they ensnare the men with amusements such as wine, music, dance and intoxicating substances that indulge their senses and make them submissive and weak-willed. Then the asuri divest them of vitality and beauty. When an asura gets weary of her victim or if captives unexpectedly oppose the demonesses, these unfortunates come to know the true face of the palace: As the asuri show a beautiful face outwardly and are in truth terrible demons, likewise the palace, behind its marvelous veneer, is full of prison cells, torture chambers and even rooms where sacrificial altars await the asuri's emaciated victims. \n\nThere are several kinds of asuri. The midnight asuri have pale skin and moon-white hair, favouring clothes in the colours black and violet. They are associated with darkness and death and are capable melee fighters.",
+    "speed": "120",
+    "pushobjects": "yes",
+    "fireDmgMod": "90%",
+    "sounds": [
+        "Death and Darkness!",
+        "Embrace the night!",
+        "May night fall upon you!"
+    ],
+    "runsat": "0",
+    "bestiaryclass": "Demon",
+    "creatureclass": "Demons",
+    "earthDmgMod": "110%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Asuri",
+    "spawntype": [
+        "Regular",
+        "Unblockable"
+    ],
+    "race_id": "1135",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "asuranight",
+    "location": "[[Asura Palace]].",
+    "strategy": "Always wear a [[Dwarven Ring]] when fighting them otherwise you'll be heavily affected by [[Drunkenness]]. Watch out for their invisibility as it's very dangerous for distance fighters trying to run away from them. Do not underestimate these creatures as their physical damage is very strong and they come in large groups."
+}

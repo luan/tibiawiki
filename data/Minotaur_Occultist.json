@@ -1,0 +1,80 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "minotaur occultists",
+    "hpDrainDmgMod": "100%?",
+    "notes": "They are a weaker [[Minotaur Mage]], but one of the tougher monsters in [[Dawnport]].",
+    "walksthrough": "?",
+    "hp": "125",
+    "speed": "85",
+    "abilities": "{{Ability List| {{Melee|0-29?}}|{{Ability|[[Heavy Magic Missile]]|16?-27?|element=energy}}|{{Ability|[[Fireball]]|24?-64?|element=fire}}|{{Ability|Energy Field|element=energy field}} }}",
+    "pushobjects": "yes",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "90%",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "?",
+    "pushable": "?",
+    "implemented": "10.55",
+    "loot": [
+        {
+            "amount": "0-21",
+            "itemName": "Gold Coin"
+        },
+        {
+            "amount": "0-4",
+            "itemName": "Carrot"
+        },
+        {
+            "itemName": "Leather Legs"
+        },
+        {
+            "itemName": "Swampling Club"
+        },
+        {
+            "itemName": "Mana Potion",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Torch",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Leather Helmet",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Magic Light Wand",
+            "rarity": "rare"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "100",
+    "creatureclass": "Humanoids",
+    "earthDmgMod": "100%",
+    "physicalDmgMod": "100%?",
+    "primarytype": "Minotaurs",
+    "spawntype": [
+        "Regular",
+        "Unblockable"
+    ],
+    "race_id": "1080",
+    "senseinvis": "?",
+    "article": "a",
+    "actualname": "minotaur occultist",
+    "illusionable": "yes",
+    "armor": "8",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Minotaur Occultist",
+    "isboss": "no",
+    "behaviour": "Unknown",
+    "location": "[[Dawnport Crystal Dungeon]].",
+    "iceDmgMod": "100%?",
+    "strategy": "Unknown",
+    "energyDmgMod": "90%",
+    "deathDmgMod": "100%?"
+}

@@ -1,0 +1,88 @@
+{
+    "summon": "290",
+    "templateType": "Creature",
+    "plural": "muglex clan footmen",
+    "hpDrainDmgMod": "100%?",
+    "notes": "Weaker [[Goblin]]s. [[Mr Morris]] wants you to kill 20 of these; the other goblins do not count.",
+    "walksthrough": "None",
+    "hp": "50",
+    "speed": "60",
+    "abilities": "{{Ability List\n |{{Melee|0-?}}\n |{{Ability|[[Small Stone]] throw|0-?|element=physical\n  |scene={{Scene|spell=5sqmstrike|background=canvas|caster=Muglex Clan Footman|look_direction=south|missile=Small Stone Missile|missile_direction=south-east|missile_distance=5/5}}}}\n}}",
+    "pushobjects": "No",
+    "healMod": "100%?",
+    "paraimmune": "no",
+    "fireDmgMod": "100%?",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "?",
+    "pushable": "Yes",
+    "usedelements": "Physical",
+    "runsat": "15",
+    "implemented": "10.55",
+    "loot": [
+        {
+            "amount": "0-6",
+            "itemName": "Gold Coin"
+        },
+        {
+            "itemName": "Dagger"
+        },
+        {
+            "itemName": "Fish"
+        },
+        {
+            "itemName": "Small Stone"
+        },
+        {
+            "itemName": "Short Sword"
+        },
+        {
+            "itemName": "Bone Club"
+        },
+        {
+            "itemName": "Small Axe"
+        },
+        {
+            "itemName": "Leather Armor"
+        },
+        {
+            "itemName": "Leather Helmet",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Bone",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Mouldy Cheese",
+            "rarity": "rare"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "25",
+    "creatureclass": "Humanoids",
+    "earthDmgMod": "100%?",
+    "physicalDmgMod": "100%?",
+    "primarytype": "Goblins",
+    "spawntype": [
+        "Regular",
+        "Unblockable"
+    ],
+    "race_id": "1067",
+    "senseinvis": "no",
+    "article": "a",
+    "actualname": "muglex clan footman",
+    "illusionable": "yes",
+    "armor": "6",
+    "drownDmgMod": "100%?",
+    "convince": "290",
+    "name": "Muglex Clan Footman",
+    "isboss": "no",
+    "location": "[[Dawnport]] Goblin Dungeon.",
+    "iceDmgMod": "100%?",
+    "strategy": "They are mostly difficult because they spawn with other Muglex Clan goblins. Kill them last because the [[Muglex Clan Assassin]] and [[Muglex Clan Scavenger]] are more threatening. Beware when entering their dungeon as you may be surrounded quickly.",
+    "energyDmgMod": "100%?",
+    "deathDmgMod": "110%?"
+}

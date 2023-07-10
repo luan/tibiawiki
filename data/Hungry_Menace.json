@@ -1,0 +1,29 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "abilities": "{{Ability List|}}",
+    "fireDmgMod": "100%?",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        ""
+    ],
+    "implemented": "12.70.10953",
+    "loot": [],
+    "exp": "0",
+    "creatureclass": "Invertebrates",
+    "earthDmgMod": "100%?",
+    "physicalDmgMod": "100%?",
+    "primarytype": "Insects",
+    "article": "a",
+    "actualname": "hungry menace",
+    "illusionable": "no",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Hungry Menace",
+    "isboss": "no",
+    "location": "[[Grotto of the Lost]], at the [[Too_Hot_to_Handle_Quest#Gnomish Explorer|Too Hot to Handle]] Gnomish Explorer mission.",
+    "iceDmgMod": "100%?",
+    "energyDmgMod": "100%?",
+    "deathDmgMod": "100%?"
+}

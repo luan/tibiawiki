@@ -1,0 +1,140 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "{{JSpoiler|You may hunt 900 Draken Abomination, [[Draken Elite]], [[Draken Spellweaver]], [[Draken Warmaster]] combined, as a task of the [[Killing in the Name of... Quest]]. Upon completion of the task you will face [[Paiz the Pauperizer]].}}",
+    "walksthrough": "Fire, Poison",
+    "hp": "6250",
+    "abilities": "{{Ability List\n |{{Melee|0-420}}\n |{{Summon|Death Blob|2}}\n |{{Ability|[[Cursed|Curses]]||death}}\n |{{Ability|[[Fire Wave]]|310-550+|fire}}\n |{{Ability|Poison Ball that makes you drunk||drunk}}\n |{{Ability|Death Beam that does life drain damage|170-370|lifedrain}}\n |{{Healing|range=0-100}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "holyDmgMod": "105%",
+    "maxdmg": "1200",
+    "pushable": "no",
+    "implemented": "8.60",
+    "loot": [
+        {
+            "amount": "1-199",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-4",
+            "itemName": "Meat",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-8",
+            "itemName": "Platinum Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Eye of Corruption",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Scale of Corruption",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "Ultimate Health Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "Great Mana Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Terra Hood",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Tail of Corruption",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "Great Spirit Potion",
+            "rarity": "semi-rare"
+        },
+        {
+            "amount": "1-4",
+            "itemName": "Small Topaz",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Wand of Voodoo",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Zaoan Legs",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Zaoan Armor",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Zaoan Helmet",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Draken Boots",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Bamboo Leaves",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Shield of Corruption",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Snake God's Wristguard",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Energy",
+    "exp": "3800",
+    "mitigation": "1.60",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "draken abomination",
+    "illusionable": "no",
+    "armor": "45",
+    "convince": "--",
+    "name": "Draken Abomination",
+    "isboss": "no",
+    "iceDmgMod": "95%",
+    "energyDmgMod": "105%",
+    "deathDmgMod": "0%",
+    "plural": "draken abominations",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "Even the mighty Draken are not immune to the taint that spreads through the land of Zao. Some of them succumbed to the harrowing influence of the corruption. They have been disfigured in body and soul and became a disgrace for their own kind. And yet by decree of the emperor, they are still part of the society. That did not save them from the scorn of they brethren, though. Being physically even more powerful than the ordinary Draken but easily influenced by magic, they became slaves and servants of the spellweavers. The remains of their sentience is nearly burnt out by the cruel use of spell power with which they are programmed as loyal and obedient golems without any own ambitions. What is left of their sentience rarely recovers from this process, and so they roam the palaces of the dragon kings and their servants as nearly mindless drones. Their conditioning usually involves to attack anything that does not belong to the place they are bound to. If this command is triggered, the usually slow and passive Draken Abominations display a frightening amount of rage. It is unknown if this berserking is the result of the cruel conditioning process or an inherent state of mind caused by corruption. Either way, the rage amplifies their impressive strength and turns them into raging behemoths of destruction.<br />Only a few Draken Abominations manage to flee into the wilderness, usually due to mistakes in their breaking ceremony which lead to violent escapes. Those individuals are driven by their instincts and hunt in an area until they are brought down by the forces of the local overseer.<br />Draken Abominations that actually possess sentience comparable to that of other lizards are most likely only a product of myths. In those stories they usually serve as physically powerful helpers of those in peril, or are even involved into a tragic love story with an ordinary lizard. Given the persistence of such stories over many decades, it might be possible that there is a grain of truth in them.",
+    "speed": "135",
+    "pushobjects": "yes",
+    "fireDmgMod": "0%",
+    "sounds": [
+        "Uhhhg!",
+        "Gll",
+        "Hmmnn!",
+        "Aaag!"
+    ],
+    "runsat": "0",
+    "bestiaryclass": "Dragon",
+    "creatureclass": "Reptiles",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Draken",
+    "race_id": "673",
+    "bestiarylevel": "Hard",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "drakenabomination",
+    "location": "[[Razachai]] including the [[Inner Sanctum]].",
+    "strategy": "Stay diagonal. If you are running them, you might need a [[Dwarven Ring]].\nHaving a team of a Knight and a Paladin at level 110 is a good choice to hunt this, setting up energy fields you won't even need to move and paladin won't have any risk."
+}

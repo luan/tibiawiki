@@ -1,0 +1,166 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "{{JSpoiler|It's the final boss of [[A Pirate's Tail Quest]].}}",
+    "hp": "?",
+    "abilities": "{{Ability List| {{Melee|?}} }}",
+    "healMod": "100%?",
+    "fireDmgMod": "100%",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        ""
+    ],
+    "cooldown": "20",
+    "implemented": "12.60.10463",
+    "loot": [
+        {
+            "amount": "1-2",
+            "itemName": "Crystal Coin"
+        },
+        {
+            "amount": "1-20",
+            "itemName": "Platinum Coin"
+        },
+        {
+            "amount": "1-10",
+            "itemName": "Mastermind Potion"
+        },
+        {
+            "amount": "1-10",
+            "itemName": "Bullseye Potion"
+        },
+        {
+            "amount": "1-10",
+            "itemName": "Great Mana Potion"
+        },
+        {
+            "amount": "1-10",
+            "itemName": "Great Health Potion"
+        },
+        {
+            "amount": "1-10",
+            "itemName": "Ultimate Mana Potion"
+        },
+        {
+            "amount": "1-10",
+            "itemName": "Great Spirit Potion"
+        },
+        {
+            "amount": "1-10",
+            "itemName": "Ultimate Health Potion"
+        },
+        {
+            "amount": "1-5",
+            "itemName": "Berserk Potion"
+        },
+        {
+            "amount": "1-100",
+            "itemName": "Pirate Coin"
+        },
+        {
+            "amount": "1-5",
+            "itemName": "Golden Skull"
+        },
+        {
+            "itemName": "Ratmiral's Hat",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Cheesy Membership Card",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Golden Cheese Wedge",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Amber (Item)",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Golden Dustbin"
+        },
+        {
+            "itemName": "Tiara"
+        },
+        {
+            "itemName": "Small Treasure Chest",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Soap",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Scrubbing Brush",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Make-Do Boots",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Makeshift Boots",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Exotic Legs",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Bast Legs",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Exotic Amulet",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Throwing Axe",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Jungle Bow",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Jungle Flail",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Jungle Quiver",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Jungle Rod",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Jungle Wand",
+            "rarity": "very rare"
+        }
+    ],
+    "exp": "?",
+    "creatureclass": "Humanoids",
+    "earthDmgMod": "100%",
+    "physicalDmgMod": "100%?",
+    "bosstiaryclass": "Archfoe",
+    "primarytype": "Pirats",
+    "spawntype": [
+        "Triggered"
+    ],
+    "race_id": "2006",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Ratmiral Blackwhiskers",
+    "isboss": "yes",
+    "behaviour": "Attacks in close range.",
+    "location": "[[The Wreckoning]].",
+    "iceDmgMod": "100%?",
+    "strategy": "Try to wear [[Life Drain]] protection to mitigate damage dealt by [[Pirate Artillerist]]s. Single-target attacks work well but you may want to use area attacks to kill the [[Elite Pirat]]s that spawn during the fight, as well as the minibosses that help Ratmiral.",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "100%?"
+}

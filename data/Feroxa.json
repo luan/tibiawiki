@@ -1,0 +1,173 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "Feroxa always spawns on the 13th of each month when the [[Grimvale Mini World Change]] is active.",
+    "walksthrough": "None.",
+    "hp": "?",
+    "speed": "?",
+    "abilities": "{{Ability List\n |{{Melee|0-1500?}}\n |{{Ability|Shoots [[Arrow]]|?|element=?}}\n |and more\n}}",
+    "pushobjects": "yes",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "secondarytype": "Canines",
+    "fireDmgMod": "100%",
+    "holyDmgMod": "110%",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "?",
+    "pushable": "no",
+    "runsat": "0",
+    "implemented": "10.80",
+    "loot": [
+        {
+            "amount": "0-20?",
+            "itemName": "Platinum Coin"
+        },
+        {
+            "itemName": "Great Health Potion"
+        },
+        {
+            "amount": "0-5?",
+            "itemName": "Ultimate Health Potion"
+        },
+        {
+            "amount": "0-2?",
+            "itemName": "Great Mana Potion"
+        },
+        {
+            "amount": "0-1?",
+            "itemName": "Red Crystal Fragment"
+        },
+        {
+            "amount": "0-1?",
+            "itemName": "Blue Crystal Splinter"
+        },
+        {
+            "amount": "0-5?",
+            "itemName": "Small Diamond"
+        },
+        {
+            "amount": "0-1?",
+            "itemName": "Violet Crystal Shard"
+        },
+        {
+            "amount": "0-5?",
+            "itemName": "Blue Crystal Shard"
+        },
+        {
+            "itemName": "Dreaded Cleaver"
+        },
+        {
+            "itemName": "Red Gem"
+        },
+        {
+            "itemName": "Blue Gem"
+        },
+        {
+            "amount": "0-6?",
+            "itemName": "Moonlight Crystals"
+        },
+        {
+            "itemName": "Werewolf Amulet"
+        },
+        {
+            "itemName": "Trophy of Feroxa"
+        },
+        {
+            "itemName": "Wolf Backpack"
+        },
+        {
+            "itemName": "Werewolf Helmet"
+        },
+        {
+            "itemName": "Badger Boots"
+        },
+        {
+            "itemName": "Fur Armor"
+        },
+        {
+            "itemName": "Angelic Axe"
+        },
+        {
+            "itemName": "Skullcracker Armor"
+        },
+        {
+            "itemName": "Small Ruby"
+        },
+        {
+            "itemName": "Boots of Haste"
+        },
+        {
+            "itemName": "Brown Crystal Splinter"
+        },
+        {
+            "itemName": "Green Crystal Shard"
+        },
+        {
+            "itemName": "Moonlight Rod"
+        },
+        {
+            "itemName": "Wereboar Loincloth"
+        },
+        {
+            "itemName": "Underworld Rod"
+        },
+        {
+            "itemName": "Great Spirit Potion"
+        },
+        {
+            "itemName": "Small Sapphire"
+        },
+        {
+            "itemName": "Epee"
+        },
+        {
+            "itemName": "Gold Coin"
+        },
+        {
+            "itemName": "Green Crystal Splinter"
+        },
+        {
+            "itemName": "Small Amethyst"
+        },
+        {
+            "itemName": "Wand of Voodoo"
+        },
+        {
+            "itemName": "Bonebreaker"
+        },
+        {
+            "itemName": "Stone Skin Amulet"
+        },
+        {
+            "itemName": "Small Topaz"
+        },
+        {
+            "itemName": "Glorious Axe"
+        }
+    ],
+    "walksaround": "Energy, Fire, Poison",
+    "exp": "?",
+    "creatureclass": "Humans",
+    "earthDmgMod": "100%",
+    "physicalDmgMod": "100%?",
+    "bosstiaryclass": "Nemesis",
+    "primarytype": "Lycanthropes",
+    "race_id": "1149",
+    "senseinvis": "yes",
+    "actualname": "Feroxa",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Feroxa",
+    "isboss": "yes",
+    "behaviour": "Feroxa stands at a distance shooting arrows and casting spells at her target. When she is wounded, she will transform into [[Feroxa (Werewolf)|her werewolf form]], and behave differently.",
+    "location": "[[Grimvale]] cave, behind the teleport, {{Mapper Coords|130.177|123.42|11|8|text=here}}.",
+    "iceDmgMod": "100%?",
+    "strategy": "At her first human stage you need to fight her with normal attacks, both spell and physical. When you reduce her health to about half, she will transform into [[Feroxa (Werewolf)|her werewolf form]]. In this phase she is immune to almost everything except for [[Silvered Trap]]s and [[Life Drain]] damage. When [[Feroxa (Werewolf)|Feroxa]] walks on these traps, she will be damaged for 1,000 health points and the traps will vanish. The traps can be stacked and she does not heal, so it's a matter of having enough traps to bring the boss to half health. As an alternative, sorcerers and druids can summon either [[Gozzler]]s or [[Ghoul]]s to deal [[Life Drain]] damage, but this process takes a lot longer.\n\nAt half health, she will change into [[Feroxa (Killable Werewolf)|her killable werewolf form]]. Now you must attack her with all your firepower.\n\nWhen she reaches 0 health she will either turn into her weak human form or [[Feroxa (Gloom Wolf)|her gloom wolf form]], both of which are quite weak and must be taken down with sheer firepower.\n\nYou will receive two sets of loot for the whole battle. Only the final form of Feroxa (Gloom Wolf) will grant you a kill count in the [[Bosstiary]].",
+    "energyDmgMod": "105%",
+    "deathDmgMod": "100%?"
+}

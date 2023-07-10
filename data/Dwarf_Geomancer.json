@@ -1,0 +1,111 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "These creatures heal a lot more often than [[Monk]]s.",
+    "walksthrough": "Fire",
+    "hp": "380",
+    "abilities": "{{Ability List|{{Melee|0-100}}|{{Ability|[[Mana Drain]]|25-80|manadrain}}|{{Ability|[[Stalagmite]]|50-110|earth}}|{{Healing|[[Self Healing|Fast Self Healing]]|25-130}}}}",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "holyDmgMod": "90%",
+    "maxdmg": "{{Max Damage|physical=100|manadrain=80|earth=110}}",
+    "pushable": "no",
+    "implemented": "7.0",
+    "loot": [
+        {
+            "amount": "1-45",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Blank Rune",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Pear",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "White Mushroom",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Magic Light Wand",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Geomancer's Robe",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Geomancer's Staff",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Clerical Mace",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Dwarven Ring",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Small Sapphire",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Terra Boots",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Iron Ore",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Spellbook",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Energy, Poison",
+    "exp": "265",
+    "mitigation": "0.91",
+    "attacktype": "Distance",
+    "history": "Although the sprites for dwarf geomancer were implemented on [[Updates/7.0|Update 7.0]], the first spawns of this creature were only added to the game with [[Updates/7.2|Update 7.2]].<br />\nA long time ago, Dwarf Geomancers used to drop [[Boots of Haste]], but as players became stronger and killed them more easily, Cip removed this rare drop.",
+    "article": "a",
+    "actualname": "dwarf geomancer",
+    "illusionable": "yes",
+    "armor": "15",
+    "convince": "--",
+    "name": "Dwarf Geomancer",
+    "isboss": "no",
+    "iceDmgMod": "105%",
+    "energyDmgMod": "90%",
+    "deathDmgMod": "110%",
+    "plural": "dwarf geomancers",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "It is a widespread misconception that dwarfs dislike all kinds of magic. Dwarfs worship the powers of the elements, and the most gifted among them have managed to master the raw forces of earth and fire. Like all others of their race, Dwarf Geomancers are sturdy and strong. Instead of using the axe, they call on the power of earth to smash their enemies, hurling balls of molten rock at whoever is opposing them. Even worse, earth also confers amazing healing powers on Dwarf Geomancers, making them formidable enemies that are difficult to overcome.",
+    "speed": "100",
+    "pushobjects": "yes",
+    "fireDmgMod": "40%",
+    "sounds": [
+        "Hail Durin!",
+        "Earth is the strongest element.",
+        "Dust to dust."
+    ],
+    "runsat": "150",
+    "bestiaryclass": "Humanoid",
+    "creatureclass": "Humanoids",
+    "earthDmgMod": "80%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Dwarves",
+    "race_id": "66",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "dwarfgeomancer",
+    "location": "[[Mount Sternum Undead Cave]], [[Dwarf Mines]], Circle Room in [[Kazordoon]], [[Triangle Tower]], [[Tiquanda Dwarf Cave]], [[Cormaya Dwarven Cave]], [[Beregar Mines]].",
+    "strategy": "It is recommended to kill these creatures in groups, due to the fact that they heal fast. Try to use all of your mana before facing them, as they will quickly drain it away from you.<br>'''Mages:''' Mages of level 45+ should use 1-2 SD shots fast on these creatures since they heal a lot and have a very strong mana drain which would be more expensive than the SD runes.<br>'''Knights:''' With 75/75 skills and level 40+ you can let them run in a spot where they cannot move (like the treasure room entrance in circle room) or a corner then melee them to death, before they run into a bunch of other creatures. Casting [[Blood Rage]] before facing them is a good strategy.<br>'''Paladins:''' Level 40+ paladins should run with bolts and maybe [[Icicle (Rune)|Icicle rune]]s."
+}

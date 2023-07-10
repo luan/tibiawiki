@@ -1,0 +1,147 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "Unknown.",
+    "walksthrough": "Fire, Energy, Poison",
+    "hp": "3000",
+    "abilities": "{{Ability List\n |{{Melee|0-350}}\n |{{Ability|Fire Wave|0-375|element=fire\n  |scene={{Scene|spell=4sqmwavewide|effect=Fireball Effect|look_direction=east}}}}\n |{{Ability|Divine Strike|0-350|element=holy\n  |scene={{Scene|spell=1sqmstrike|effect=Holy Effect|missile=Holy Missile (Appearance)|missile_direction=south-east|missile_distance=1/1}}}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "secondarytype": "Lycanthropes",
+    "holyDmgMod": "105%",
+    "maxdmg": "?",
+    "pushable": "no",
+    "implemented": "12.40.9997",
+    "loot": [
+        {
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Platinum Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Ham",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Small Enchanted Sapphire",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Black Pearl",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Crystal Sword",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Moonlight Crystals",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Lion's Mane",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Rapier",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Soul Orb",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Meat",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Ankh",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Leather Helmet",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Serpent Sword",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Ivory Carving",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "White Pearl",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Steel Helmet",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Lightning Headband",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Magma Legs",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Crown Helmet",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Lion Figurine",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "White Silk Flower",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "None",
+    "exp": "2300",
+    "mitigation": "0.91",
+    "attacktype": "Melee",
+    "history": "On {{OfficialNewsArchive|6555|February 01, 2022}}, its experience was decreased to 2,300 while its loot was decreased by 12%.",
+    "article": "a",
+    "actualname": "werelioness",
+    "illusionable": "no",
+    "armor": "38",
+    "convince": "--",
+    "name": "Werelioness",
+    "isboss": "no",
+    "iceDmgMod": "125%",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "50%",
+    "plural": "werelionesses",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "The werelions are fundamentally different from all other known were creatures: They have learned to control the curse. This means that in their were form they don't turn into wild beasts that mindlessly attack anyone who comes close. Rather, they have the same control over themselves in this form as they have as humans. They can also control their transformation and consciously turn into their werelion form or back into human shape. Gradually, the werelions got so used to the curse that they saw it as a gift rather than a burden. They therefore began to deliberately pass the curse on to others whom they considered worthy - and from then on no longer called it \"the Curse\" but \"the Gift\".",
+    "speed": "110",
+    "pushobjects": "yes",
+    "fireDmgMod": "65%",
+    "sounds": [
+        ""
+    ],
+    "bestiaryclass": "Lycanthrope",
+    "creatureclass": "Mammals",
+    "earthDmgMod": "60%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Felines",
+    "spawntype": [
+        "Regular"
+    ],
+    "race_id": "1966",
+    "bestiarylevel": "Hard",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "werelioness",
+    "behaviour": "Unknown.",
+    "location": "[[Lion Sanctum]].",
+    "strategy": "Unknown."
+}

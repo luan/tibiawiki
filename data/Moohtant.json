@@ -1,0 +1,142 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "These creatures can be skinned with an [[Obsidian Knife]]. See also: [[Minotaur Leather/Skinning]].",
+    "walksthrough": "Poison",
+    "hp": "3200",
+    "abilities": "{{Ability List| {{Melee|0-290}}|{{Ability|[[Berserk]]|0-200|element=?}}|{{Ability|[[Life Drain|Life Drain Bomb]]|100-225|element=lifedrain}}|{{Healing|range=50-145}} }}",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "secondarytype": "Oramond Minotaurs",
+    "holyDmgMod": "100%",
+    "maxdmg": "715",
+    "pushable": "no",
+    "implemented": "10.50",
+    "loot": [
+        {
+            "amount": "0-195",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "Platinum Coin",
+            "rarity": "common"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "Moohtant Horn",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Giant Pacifier",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "0-3",
+            "itemName": "Great Health Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "0-3",
+            "itemName": "Great Mana Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Meat",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "Small Ruby",
+            "rarity": "semi-rare"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "Small Diamond",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Minotaur Leather",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Ring of Healing",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Red Piece of Cloth",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Moohtant Cudgel",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Red Gem",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Spiked Squelcher",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Yellow Gem",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Gold Ingot",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Chaos Mace",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Minotaur Trophy",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Energy\nFire",
+    "exp": "2600",
+    "mitigation": "1.10",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "moohtant",
+    "illusionable": "no",
+    "armor": "42",
+    "convince": "--",
+    "name": "Moohtant",
+    "isboss": "no",
+    "iceDmgMod": "85%",
+    "energyDmgMod": "85%",
+    "deathDmgMod": "90%",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "Minotaurs are born with a great inner rage that constantly threatens to drive them over the edge and turn them into berserkers that know no friend or foe, all the less concern for their own health or even some form of strategy. This state of mind is considered unclean by the minotaurs and their society had come up with several ways to cope with this problem. Yet no minotaur would foolishly deny that this inner rage is a constant companion in a minotaurs life. Sometimes this rage manifests in especially cruel ways. Some tragic minotaurs are born 'into the rage' as the minotaurs say. They never have a chance to battle their inner rage but are born into the world with fierce anger and bloodlust. Those young calves are taken into custody by special trainers, most of the high ranking mooh'tah masters. They train the youngsters to at least control somewhat of their rage and funnel it into certain tiresome and draining tasks. This upbringing with mining, hauling and woodcutting from the earliest age combined with the constant burning energy in them, lets them grow out of the proportions of normal minotaurs. Often easily twice as high as a minotaur this veritable giants are more beast then civilized minotaur. Regardless of the strictness of their upbringing they never grasp concepts of society. They never develop the ability of speech and only communicate through moohing sound to express simple emotions. Yet they understand simple commands and therefore are used as powerful work-machines and dangerous weapons in combat. Despite their strength and arguably usefulness they are shunned and despised by minotaur society. They are the lowest of the low and mistrusted. Oddly enough their handlers and trainers are usually regarded with admiration, because they take it upon them to handle the unclean so that the rest of the society can ignore their existence. Hardly more intelligent then a dog and only able to use the most simple tools and weapons the moohtants, as they are called by humans, are rarely deployed in battle unless times are very desperate. While the rulers of civilized places like Mintwalin tend to tow them away out of sight and use them in remote mines, younger communities can't afford such luxury and use their power with often dangerous frequency.",
+    "speed": "130",
+    "pushobjects": "yes",
+    "fireDmgMod": "95%",
+    "sounds": [
+        ""
+    ],
+    "runsat": "0",
+    "bestiaryclass": "Humanoid",
+    "creatureclass": "Humanoids",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Minotaurs",
+    "spawntype": [
+        "Regular",
+        "Unblockable"
+    ],
+    "race_id": "1044",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "moohtant",
+    "behaviour": "Moohtants fight until death.",
+    "location": "[[Oramond Mountain Hideout]], [[Oramond Minotaur Camp]] (northern camp), [[Underground Glooth Factory]], [[Oramond Dungeon]]",
+    "strategy": "This creature's strength can be compared with a [[Behemoth]] or a [[Destroyer]]. A [[Garlic Necklace]] is affordable and will greatly reduce the power of their [[Life Drain|Life Drain Bomb]].\n\n'''[[Paladin]]s:''' Throw fire walls on the ground and run around them while healing constantly, for their distance attacks are strong. Don't let them touch you, and if that happens, be ready to cast salvation, because their melee attacks may hit a lot. \nUsually they are no problem for a paladin level 120+, due to their slow speed, altough they can be killed by lower levels if there's no more creatures onscreen.\n\n'''[[Knight]]s:''' Not a very recommendable creature for Knights, as they do quite heavy damage and take some time to kill, risking being swarmed by other Minotaurs. If you still wish to do so, try to lure them away so you don't get surrounded by [[Mooh'Tah Warrior]]s, [[Execowtioner]]s or distance fighters, specially [[Worm Priestess]]es, which can deal a lot of damage while you try to kill the Moohtant."
+}

@@ -1,0 +1,62 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "Was implemented in the [[Updates/8.2|Summer Update 2008]]. Part of the [[Demon Hunter Outfits]] quest, you need to kill Ungreez to gain all experience for your first addon. Ungreez is Stronger than a [[Demon]] and its tolerance to attacks are the reason for it. You can use a [[Blessed Wooden Stake]] on Ungreez once slain to get a [[Demon Dust]].",
+    "walksthrough": "?",
+    "hp": "8200",
+    "speed": "120",
+    "abilities": "{{Ability List|{{Melee|0-480}}|{{Healing}}|{{Ability|Great Energy Beam|0-350+|energy}}|{{Ability|Energy Hit|200-400|energy}}|{{Ability|Great Fireball|180-250+|fire}}|{{Ability|Mana Drain|80-140}}}}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "0%",
+    "holyDmgMod": "105%",
+    "sounds": [
+        "I teach you that even heroes can die!",
+        "You will die begging like the others did!"
+    ],
+    "maxdmg": "{{Max Damage|physical=480|energy=750?|fire=250?|manadrain=140}}",
+    "pushable": "?",
+    "implemented": "8.20",
+    "loot": [
+        {
+            "amount": "0-100",
+            "itemName": "Gold Coin"
+        },
+        {
+            "amount": "0-6",
+            "itemName": "Fire Mushroom"
+        },
+        {
+            "itemName": "Great Health Potion"
+        },
+        {
+            "itemName": "Great Mana Potion"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "500",
+    "creatureclass": "Demons",
+    "earthDmgMod": "40%",
+    "physicalDmgMod": "70%",
+    "primarytype": "Demons",
+    "spawntype": [
+        "Regular",
+        "Unique"
+    ],
+    "race_id": "445",
+    "senseinvis": "yes",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Ungreez",
+    "isboss": "yes",
+    "behaviour": "This monster fights until the death, with its strong beam attack you should stay diagonal. ¨He walks through [[Energy Field|Energy]] and [[Poison Field]]s, although it is not immune to them.",
+    "location": "Edron [[Hero Cave]] in the teleport just west of the [[Memory Stone]] for the [[Explorer Society]].",
+    "iceDmgMod": "105%",
+    "strategy": "Just like a normal [[Demon]], however, does not summon [[Fire Elemental]]s.<br>'''[[Knight]]s''' try to use [[Exori Gran]]. It is strongly advised for knights under [[level]] 100 to have a [[blocker]] or a healer, since he heals often.<br>'''[[Mages]]''' can easily solo them from level 45 and up, run from teleport to teleport and using [[Magic Shield]] and [[Sudden Death|Sudden death runes]] to speed up the killing a little. You can also run it in the room, since the room is quite big. Ice spells/runes will also work. If you have blocker you don't need go outside the teleport to charge mana.<br>'''[[Paladin]]s''' should run or kill with a blocker while using [[Assassin Star]]s and [[Exori San]].\nPaladins can kill Ungreez at lower levels with a blocker, using [[Enchanted Spear]] and [[exori san]], be careful with great fireballs.",
+    "energyDmgMod": "45%",
+    "deathDmgMod": "80%"
+}

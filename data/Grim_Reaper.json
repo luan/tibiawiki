@@ -1,0 +1,133 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "Grim reapers have isolated spawns and do not come in massive groups. The best place for grim reapers is the [[Yalahar]] [[Cemetery Quarter]] however [[Paladin]]s may prefer the main [[Drefia]] spawn. Although their name suggests a specialization of [[Death Damage|death damage]], most of the damage usually taken is [[Physical Damage|physical]] (assuming the beam is avoided).",
+    "walksthrough": "Poison",
+    "hp": "3900",
+    "abilities": "{{Ability List\n |{{Melee|0-320 and with [[Blood Rage]] 0-815}}\n |{{Ability|Blood Ball|225-275|element=death\n  |scene={{Scene|spell=2sqmballself|caster=Grim Reaper|effect=Blood Effect|effect_on_caster=yes}}}}\n |{{Ability|Death Beam|350-720|element=death\n  |scene={{Scene|spell=9sqmbeam|caster=Grim Reaper|look_direction=east|effect=Blood Effect}}}}\n |{{Ability|Explosion Wave|0-300|element=physical\n  |scene={{Scene|spell=8sqmwave|caster=Grim Reaper|look_direction=east|effect=Explosion Effect}}}}\n |{{Ability|Physical Sudden Death|0-165|element=physical\n  |scene={{Scene|spell=7sqmstrike|caster=Grim Reaper|effect=Death Effect|missile=Death Missile|missile_direction=south-east|missile_distance=7/7}}}}\n |{{Haste|[[Strong Haste]]}}\n |{{Ability|[[Blood Rage]]|boosts melee 255%|element=Strengthened\n   |scene={{Scene|spell=buffspell|effect=Green Sparkles Effect|caster=Grim Reaper|look_direction=south|effect_on_caster=yes}}}}\n |{{Healing|range=130-205\n   |scene={{Scene|spell=buffspell|effect=Red Sparkles Effect|caster=Grim Reaper|effect_on_caster=yes}}}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "holyDmgMod": "110%",
+    "maxdmg": "{{Max Damage|physical=1600|death=995}}",
+    "pushable": "No",
+    "usedelements": "Physical > Death",
+    "implemented": "8.20",
+    "loot": [
+        {
+            "amount": "1-273",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Flask of Demonic Blood",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Demonic Essence",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Great Mana Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Scythe",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Ultimate Health Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-4",
+            "itemName": "Platinum Coin",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Mystical Hourglass",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Dark Shield",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Magic Light Wand",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Slightly Rusted Armor",
+            "rarity": "semi-rare"
+        },
+        {
+            "amount": "1-4",
+            "itemName": "Orichalcum Pearl",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Nightmare Blade",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Underworld Rod",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Death Ring",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Glacier Kilt",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Skullcracker Armor",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Fire, Energy",
+    "exp": "5500",
+    "mitigation": "0.64",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "grim reaper",
+    "illusionable": "no",
+    "armor": "30",
+    "convince": "--",
+    "name": "Grim Reaper",
+    "isboss": "no",
+    "iceDmgMod": "35%",
+    "energyDmgMod": "110%",
+    "deathDmgMod": "20%",
+    "plural": "grim reapers",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "Grim Reapers are malignant spirits that control undead bodies. They are independent, serving no master but their own malicious goals. As long as they can cause pain and fear to living beings, they are also prepared to ally with other evil entities. The nature of these possessive spirits is currently disputed. The most popular theory implies that the spirits are actually some ancient race that never had any corporeal form other than that of possessed undead beings. They cloak their possessed bodies with rags, and they arm them with a scythe imbued with part of their own mystical energy. These scythes are known to rend horrible wounds that heal only slowly and often become infected. The scythes are nearly indestructible and are able to cut through any armor with ease. The worst thing about the reapers is that they cannot be killed for good. Even if the undead body is hacked into pieces, the possessing spirit escapes unharmed, ready to possess another undead body. Some Grim Reapers haunt their opponents again and again until they finally kill them.<br />Dread and fear are the things the spirits are looking for. It is assumed that the spirits feed on these emotions and also on pain and agony. For this reason, it is no surprise that Grim Reapers prefer places where they can inflict pain or fear.",
+    "speed": "160",
+    "pushobjects": "Yes",
+    "fireDmgMod": "110%",
+    "sounds": [
+        "Death!",
+        "Come a little closer!",
+        "The end is near!"
+    ],
+    "runsat": "0",
+    "bestiaryclass": "Undead",
+    "creatureclass": "The Undead",
+    "earthDmgMod": "60%",
+    "physicalDmgMod": "75%",
+    "primarytype": "Undead Humanoids",
+    "spawntype": [
+        "Regular",
+        "Unblockable"
+    ],
+    "race_id": "465",
+    "bestiarylevel": "Hard",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "grimreaper",
+    "behaviour": "Chases their target to melee range and retargets frequently.",
+    "location": "[[Drefia Grim Reaper Dungeons]], deep in [[Drefia Wyrm Lair]] (after the [[Medusa Shield Quest]]), [[Edron]] ([[Hero Cave]]), [[Yalahar]] ([[Cemetery Quarter]]), [[Oramond Dungeon]], [[Abandoned Sewers]] and optionally in the [[Demon Oak Quest]].",
+    "strategy": "Stand diagonal AT ALL TIMES, its wave and beam are lethal.<br />\n\n'''Knights''': can solo them at level 100 (if you manage to take on only one at a time), but will most likely waste here without a healer and a shooter. Standing diagonal and using [[Wound Cleansing]] often can reduce your waste because they aren't that strong on melee, but take lots of healing potions as they can combo pretty hard with their [[Blood Ball]] and [[Blood Rage]].<br />\n\n'''Mages''': you shouldn't hunt them solo until around level 200 (anything below you will need [[Magic Shield]]). It is a common [[powergaming]] method to have a knight block grim reapers for low level mages. Helpful for this strategy is the fact grim reapers do not walk over fire. Keep in mind, though, that it will walk over a blocking fire if you attack them while they are focused on you.<br />\n\n'''Paladins''': these are much loved by paladins thanks to their exp/hp ratio. A common strategy at [[Drefia]] is to place a fire bomb by the stairs and walk across them during the fight, such that the grims will walk around them and never be in melee range."
+}

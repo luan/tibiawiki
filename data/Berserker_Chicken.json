@@ -1,0 +1,61 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "berserker chickens",
+    "hpDrainDmgMod": "0%",
+    "walksthrough": "None",
+    "hp": "465",
+    "usespells": "yes",
+    "occurrence": "Uncommon",
+    "speed": "83",
+    "abilities": "{{Ability List\n |{{Melee|0-200}}\n |{{Ability|Drown Explosion (on itself)|41-70|element=drown\n  |scene={{Scene|spell=plusspell|effect=Explosion Effect|caster=Berserker Chicken|casting_effect=Explosion Effect}}}}\n |{{Ability|[[Blood Rage]]|increases own melee by 40%?|buff}}\n |{{Haste}}\n}}",
+    "pushobjects": "no",
+    "healMod": "100%",
+    "paraimmune": "?",
+    "fireDmgMod": "90%",
+    "holyDmgMod": "90%",
+    "sounds": [
+        "Gokgoooook",
+        "Cluck Cluck",
+        "I will fill MY cushion with YOUR hair! CLUCK!"
+    ],
+    "maxdmg": "{{Max Damage|physical=280|drown=70}}",
+    "pushable": "yes",
+    "runsat": "0",
+    "implemented": "8.50",
+    "bestiaryclass": "Bird",
+    "loot": [
+        {
+            "amount": "1-75",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        }
+    ],
+    "walksaround": "Fire, Energy, Poison",
+    "exp": "220",
+    "creatureclass": "Misc",
+    "earthDmgMod": "90%",
+    "mitigation": "0.28",
+    "physicalDmgMod": "110%",
+    "primarytype": "Birds",
+    "spawntype": [
+        "Regular"
+    ],
+    "race_id": "561",
+    "attacktype": "Melee",
+    "bestiarylevel": "Medium",
+    "senseinvis": "?",
+    "article": "a",
+    "actualname": "berserker chicken",
+    "illusionable": "no",
+    "armor": "12",
+    "drownDmgMod": "0%",
+    "convince": "--",
+    "name": "Berserker Chicken",
+    "isboss": "no",
+    "location": "[[Isle of Evil]].",
+    "iceDmgMod": "90%",
+    "strategy": "Keep distance and if you can't keep diagonal to avoid the drown damage.",
+    "energyDmgMod": "90%",
+    "deathDmgMod": "90%"
+}

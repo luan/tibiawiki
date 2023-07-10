@@ -1,0 +1,59 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "enraged white deers",
+    "hpDrainDmgMod": "100%?",
+    "notes": "To fight one, you must kill a regular [[White Deer]]. If the deer doesn't become [[Desperate White Deer|desperate]], it will enrage. Good for [[training]] since they aren't too strong and heal themselves regularly. You can find a safe zone and another monster to train your [[shielding]]. Can be [[Kingly Deer|tamed]] by using a [[Golden Fir Cone]] or a [[Music Box]] on it.",
+    "isarenaboss": "No",
+    "walksthrough": "None",
+    "hp": "255",
+    "speed": "?",
+    "abilities": "{{Ability List\n |{{Melee|0-45}}\n |{{Healing|range=1-40}}\n}}",
+    "pushobjects": "No",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "100%",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        "*bell*",
+        "ROOOAAARR!!",
+        "*sniff*",
+        "*wheeze*"
+    ],
+    "maxdmg": "45",
+    "pushable": "yes",
+    "implemented": "9.10",
+    "loot": [
+        {
+            "amount": "0-3",
+            "itemName": "Ham"
+        },
+        {
+            "itemName": "White Deer Antlers"
+        },
+        {
+            "itemName": "White Deer Skin"
+        }
+    ],
+    "walksaround": "Fire, Energy, Poison",
+    "exp": "165",
+    "creatureclass": "Mammals",
+    "earthDmgMod": "100%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Ungulates",
+    "senseinvis": "?",
+    "article": "an",
+    "actualname": "enraged white deer",
+    "illusionable": "Yes",
+    "armor": "1",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Enraged White Deer",
+    "isboss": "No",
+    "behaviour": "Attacks the character that killed it as a normal [[White Deer]].",
+    "location": "Same as [[White Deer]]: around [[Ab'Dendriel]], Carlin (east from [[Lothar]]), [[Femor Hills]] and [[Ferngrims Gate]].",
+    "iceDmgMod": "100%",
+    "strategy": "It is not very strong, just kill it. Be careful though, as two [[Elf Scout]]s might spawn after killing it to avenge its death.",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "100%?"
+}

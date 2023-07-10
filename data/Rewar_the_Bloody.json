@@ -1,0 +1,43 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "It's part of the final battle of the [[Grave Danger Quest]].",
+    "walksthrough": "Fire, Energy, Poison",
+    "hp": "?",
+    "speed": "?",
+    "abilities": "{{Ability List| {{Melee|0-1000?}} }}",
+    "pushobjects": "yes",
+    "healMod": "100%?",
+    "paraimmune": "yes",
+    "fireDmgMod": "100%?",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "?",
+    "pushable": "no",
+    "runsat": "0",
+    "implemented": "12.20.8834",
+    "loot": [],
+    "walksaround": "None.",
+    "exp": "?",
+    "earthDmgMod": "100%?",
+    "physicalDmgMod": "100%?",
+    "spawntype": [
+        "Triggered"
+    ],
+    "senseinvis": "yes",
+    "actualname": "Rewar the Bloody",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Rewar the Bloody",
+    "isboss": "yes",
+    "location": "[[Isle of the Kings]]",
+    "iceDmgMod": "100%?",
+    "strategy": "The challenge during the fight against Rewar is keeping it vulnerable. If one of the [[Fetter]]s is alive, the boss will not take any damage, thus the Fetters must be killed as quickly as possible. The best way to do this is to position the players in a way that the boss never moves when it change forms and also that both Fetters get hit simultaneously when a [[Great Fireball Rune]] is thrown at the center of the room. This way, damage to one of them will always be dealt when the runes are thrown and no attack turns will be wasted.",
+    "energyDmgMod": "100%?",
+    "deathDmgMod": "-100%?"
+}

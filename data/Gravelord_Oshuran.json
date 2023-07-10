@@ -1,0 +1,76 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "walksthrough": "Fire, Energy, Poison",
+    "hp": "3100",
+    "speed": "?",
+    "abilities": "{{Ability List|{{Melee|0-250}}|{{Ability|[[Paralyze]]|very often|element=paralyze}}|{{Ability|[[Life Drain Beam]]|180-300|element=lifedrain}}|{{Summon|Bonebeast|4}}|{{Ability|[[Poison Beam]]|100-350|element=poison}}|{{Ability|[[Life Drain]]|?|element=lifedrain}}|{{Healing}} }}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "yes",
+    "fireDmgMod": "90%",
+    "holyDmgMod": "110%",
+    "sounds": [
+        "Your mortality is disgusting!",
+        "I am master of life and death!",
+        "Fresh Souls!",
+        "Your forlorn struggle is futile!"
+    ],
+    "maxdmg": "750 (without summons)",
+    "pushable": "?",
+    "implemented": "8.20",
+    "loot": [
+        {
+            "amount": "0-115",
+            "itemName": "Gold Coin"
+        },
+        {
+            "itemName": "Strong Mana Potion"
+        },
+        {
+            "itemName": "White Pearl"
+        },
+        {
+            "itemName": "Black Pearl"
+        },
+        {
+            "itemName": "Ring of Healing"
+        },
+        {
+            "itemName": "Blue Robe"
+        },
+        {
+            "itemName": "Lightning Boots"
+        },
+        {
+            "itemName": "Spellscroll of Prophecies",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Spellbook"
+        }
+    ],
+    "walksaround": "None.",
+    "exp": "2400",
+    "creatureclass": "The Undead",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "100%?",
+    "bosstiaryclass": "Nemesis",
+    "primarytype": "Undead Humanoids",
+    "race_id": "426",
+    "senseinvis": "yes",
+    "actualname": "Gravelord Oshuran",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Gravelord Oshuran",
+    "isboss": "yes",
+    "behaviour": "He behaves almost like a regular [[Lich]], paralyzing you very intensely.",
+    "location": "First floor of [[Vampire Crypts]] ({{Mapper Coords|128.211|126.139|12|4|text=here}}), only as a raid boss.",
+    "iceDmgMod": "65%",
+    "strategy": "[[File:Gravelord_Oshuran.jpg|thumb]]'''[[Mages]]:''' Use [[Magic Shield]], shoot [[Fireball]] or [[Exori Flam]] and use [[GFB]] to kill his summons.<br />\n'''[[Paladin]]:''' Use [[Enchanted Spear]] and [[Exevo Mas San]] to kill his summons.<br />\n'''[[Knight]]:''' Try to trap him and use [[Exori Gran]] for kill him and his summons.",
+    "energyDmgMod": "20%",
+    "deathDmgMod": "0%"
+}

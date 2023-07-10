@@ -1,0 +1,66 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "dazed leaf golems",
+    "hpDrainDmgMod": "100%?",
+    "walksthrough": "?",
+    "hp": "10000",
+    "speed": "?",
+    "abilities": "{{Ability List\n |{{Melee|0-146}}\n |{{Ability|Red Sparkles Exori|element=?\n   |scene={{Scene|spell=3x3spell|effect=Red Sparkles Effect|caster=Dazed Leaf Golem|look_direction=south|effect_on_caster=yes}}}}\n |{{Ability|Poisoning Bomb|up to 27+hp/turn|element=poisoned\n   |scene={{Scene|spell=4sqmball2self|effect=Poison Effect 1|caster=Dazed Leaf Golem|look_direction=south|effect_on_caster=yes}}}}\n |{{Ability|Exploding Stone|466-480|element=?\n  |scene={{Scene|spell=7sqmstrike|caster=Dazed Leaf Golem|look_direction=south|effect=Blast Effect|missile=Stone Missile|missile_direction=south-east|missile_distance=7/7}}}}\n |{{Ability|Distance Paralyze|element=paralyze\n  |scene={{Scene|spell=7sqmstrike|effect=Green Sparkles Effect|caster=Dazed Leaf Golem}}}}\n |{{Healing|range=550}}\n}}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "100%?",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "?",
+    "pushable": "?",
+    "implemented": "11.80.7048",
+    "loot": [
+        {
+            "amount": "0-437",
+            "itemName": "Gold Coin"
+        },
+        {
+            "itemName": "Fir Cone"
+        },
+        {
+            "itemName": "Dowser"
+        },
+        {
+            "itemName": "White Mushroom"
+        },
+        {
+            "itemName": "Small Emerald"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "8000",
+    "creatureclass": "Elementals",
+    "earthDmgMod": "50%?",
+    "physicalDmgMod": "100%?",
+    "bosstiaryclass": "Bane",
+    "primarytype": "Bio-Elementals",
+    "spawntype": [
+        "Unique",
+        "Unblockable"
+    ],
+    "race_id": "1578",
+    "senseinvis": "?",
+    "article": "a",
+    "actualname": "dazed leaf golem",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Dazed Leaf Golem",
+    "isboss": "no",
+    "behaviour": "When it spawns, it moves slowly around the room before falling asleep and staying still.",
+    "location": "[[Falcon Bastion]].",
+    "iceDmgMod": "100%?",
+    "strategy": "Unknown",
+    "energyDmgMod": "100%?",
+    "deathDmgMod": "100%?"
+}

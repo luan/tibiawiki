@@ -1,0 +1,51 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "None.",
+    "walksthrough": "?",
+    "hp": "45000",
+    "speed": "?",
+    "abilities": "{{Ability List| {{Melee|0-5000+?}} }}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "secondarytype": "Event Creatures",
+    "fireDmgMod": "0%",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        "Yes, flee from me!",
+        "You can run but you can not hide!"
+    ],
+    "maxdmg": "?",
+    "pushable": "?",
+    "implemented": "8.50",
+    "loot": [
+        {
+            "itemName": "Midnight Shard"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "4650",
+    "creatureclass": "Demons",
+    "earthDmgMod": "100%?",
+    "physicalDmgMod": "100%?",
+    "primarytype": "Imps",
+    "race_id": "573",
+    "senseinvis": "?",
+    "article": "an",
+    "actualname": "eclipse knight",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Eclipse Knight",
+    "isboss": "no",
+    "behaviour": "They chase until death.",
+    "location": "[[Temple of Light]], during certain circumstances in the [[Lightbearer]] event.",
+    "iceDmgMod": "100%?",
+    "strategy": "It is not advised to kill this monster, they are not intended to do so and give bad loot and experience.",
+    "energyDmgMod": "100%?",
+    "deathDmgMod": "100%?",
+    "status": "unavailable"
+}

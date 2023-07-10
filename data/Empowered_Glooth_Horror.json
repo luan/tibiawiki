@@ -1,0 +1,61 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "empowered glooth horrors",
+    "hpDrainDmgMod": "100%?",
+    "notes": "It is the second \"boss\" of the [[Hero of Rathleton Quest]]. It is the final stage of the [[Feeble Glooth Horror]], which bisects into 16 Empowered Glooth Horrors in total.",
+    "walksthrough": "?",
+    "hp": "25000",
+    "speed": "?",
+    "abilities": "{{Ability List|?}}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "100%?",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "{{Max Damage|?}}",
+    "pushable": "?",
+    "runsat": "0",
+    "implemented": "10.70",
+    "loot": [
+        {
+            "itemName": "Glooth Glider Hinge"
+        },
+        {
+            "itemName": "Platinum Coin"
+        },
+        {
+            "itemName": "Slightly Rusted Armor"
+        },
+        {
+            "itemName": "Glooth Bag"
+        },
+        {
+            "itemName": "Rusted Armor"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "2150?",
+    "creatureclass": "Elementals",
+    "earthDmgMod": "100%?",
+    "physicalDmgMod": "100%?",
+    "primarytype": "Bio-Elementals",
+    "senseinvis": "?",
+    "article": "an",
+    "actualname": "empowered glooth horror",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "?",
+    "name": "Empowered Glooth Horror",
+    "isboss": "no",
+    "behaviour": "Fights in close combat.",
+    "location": "[[Jaccus Maxxen's Dungeon]].",
+    "iceDmgMod": "100%?",
+    "strategy": "If your team isn't strong enough, avoid facing all 16 of them at the same time. Other than that, just kill them quickly using area spells like you did with the other creatures in the room.",
+    "energyDmgMod": "100%?",
+    "deathDmgMod": "100%?"
+}

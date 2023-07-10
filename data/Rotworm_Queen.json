@@ -1,0 +1,66 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "rotworm queens",
+    "hpDrainDmgMod": "100%?",
+    "notes": "The strongest version of a [[Rotworm]], it seems to spawn randomly in [[Rotworm]] and [[Carrion Worm]] Caves.<br>[[The Sacred Casket (Book)]] says that the substance inside the [[Jewel Case (Nomad)]] can potentially attract these creatures, as it has already proven to attract regular [[Rotworm]]s and [[Carrion Worm]]s. This is a reference to the [[Wikipedia:Dune|Dune]] series of books wherein desert-dwelling sandworms, on which rotworms are based, are heavily attracted to melange spice.",
+    "isarenaboss": "no",
+    "walksthrough": "?",
+    "hp": "105",
+    "speed": "?",
+    "abilities": "{{Ability List| {{Melee|0-80+}}|{{Summon|Rotworm|3}}|{{Healing|range=8+}} }}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "no",
+    "fireDmgMod": "120%",
+    "holyDmgMod": "100%",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "80+ (+120 with 3 summons)",
+    "pushable": "?",
+    "implemented": "8.20",
+    "loot": [
+        {
+            "amount": "0-86",
+            "itemName": "Gold Coin"
+        },
+        {
+            "amount": "0-50",
+            "itemName": "Worm"
+        },
+        {
+            "itemName": "Legion Helmet"
+        },
+        {
+            "itemName": "Gland"
+        },
+        {
+            "itemName": "Coal"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "75",
+    "creatureclass": "Invertebrates",
+    "earthDmgMod": "60%",
+    "physicalDmgMod": "100%",
+    "bosstiaryclass": "Nemesis",
+    "primarytype": "Annelids",
+    "race_id": "459",
+    "history": "Until the patch [[Updates/13.12.13018|13.12.13018]] Rotworm Queens could be convinced, and were the only boss that could be.",
+    "senseinvis": "no",
+    "article": "a",
+    "actualname": "rotworm queen",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Rotworm Queen",
+    "isboss": "yes",
+    "behaviour": "Acts much like a [[Carrion Worm]]. Appears with 2 [[Carrion Worm]]s and 3 [[Rotworm]]s.",
+    "location": "[[Darashia Rotworm Caves]] around {{Mapper Coords|129.38|126.116|9|4|text=here}}, [[Edron Rotworm Cave]] {{Mapper Coords|129.208|124.104|9|4|text=here}}, [[Vandura Rotworm Cave|Liberty Bay Rotworm Cave]] (around {{Mapper Coords|126.5|127.178|10|4|text=here}}), [[Hellgate]] (around {{Mapper Coords|128.6|123.108|12|2|text=here}}).",
+    "iceDmgMod": "100%",
+    "strategy": "No strategy needed. Treat it like a [[Carrion Worm]]. Recommended to be level 16 before trying to kill one.",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "100%"
+}

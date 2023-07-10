@@ -1,0 +1,56 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "Part of the [[Bank Robbery Mini World Change]]. Elvira is the thief that robs the [[Ab'Dendriel]] [[bank]].",
+    "walksthrough": "no",
+    "hp": "245",
+    "speed": "?",
+    "abilities": "{{Ability List|}}",
+    "pushobjects": "Yes",
+    "healMod": "100%?",
+    "paraimmune": "no",
+    "fireDmgMod": "105%",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        "Didn't think a dwarf girl could be so pretty and strong at the same time, did you?",
+        "Hail no one except for me!",
+        "You won't get this bag, I worked hard for this!",
+        "Keep your hands off!",
+        "How did you find us?!"
+    ],
+    "maxdmg": "?",
+    "pushable": "No",
+    "implemented": "9.40",
+    "loot": [
+        {
+            "amount": "0-100",
+            "itemName": "Platinum Coin"
+        },
+        {
+            "itemName": "Bag with Stolen Gold"
+        }
+    ],
+    "walksaround": "Energy, Fire, Poison",
+    "exp": "165",
+    "creatureclass": "Humanoids",
+    "earthDmgMod": "80%",
+    "physicalDmgMod": "100%?",
+    "bosstiaryclass": "Nemesis",
+    "primarytype": "Dwarves",
+    "race_id": "766",
+    "senseinvis": "yes",
+    "actualname": "Elvira Hammerthrust",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Elvira Hammerthrust",
+    "isboss": "yes",
+    "behaviour": "Unknown.",
+    "location": "[[Dwarf Mines]], around {{Mapper Coords|126.255|124.166|11|2|text=here}}.",
+    "iceDmgMod": "100%?",
+    "strategy": "Treat her like a [[Dwarf Guard]].",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "100%?"
+}

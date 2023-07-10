@@ -1,0 +1,43 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "It's part of the final battle of the [[Grave Danger Quest]].",
+    "walksthrough": "Fire, Energy, Poison",
+    "hp": "?",
+    "speed": "?",
+    "abilities": "{{Ability List| {{Melee|0-1000}}|{{Ability|?|element=?}} }}",
+    "pushobjects": "yes",
+    "healMod": "100%?",
+    "paraimmune": "yes",
+    "fireDmgMod": "100%?",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "?",
+    "pushable": "no",
+    "runsat": "0",
+    "implemented": "12.20.8834",
+    "loot": [],
+    "walksaround": "None.",
+    "exp": "0",
+    "earthDmgMod": "-100%?",
+    "physicalDmgMod": "100%?",
+    "spawntype": [
+        "Triggered"
+    ],
+    "senseinvis": "yes",
+    "actualname": "Magnor Mournbringer",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Magnor Mournbringer",
+    "isboss": "yes",
+    "location": "[[Isle of the Kings]]",
+    "iceDmgMod": "100%?",
+    "strategy": "Defeating Magnor isn't very complicated and the players should just attack it, specially with [[Fire Damage]]. When it dies, 4 [[Shard of Magnor|Shards of Magnor]] will spawn, sharing the same health pool. They die rather quickly, but care must be taken since when dying they explode dealing high [[Life Drain]] damage. To mitigate the damage taken by the blockers, they can split the Shards between then and block them far away from each other. Shooters should also stay far from the boss to avoid this damage",
+    "energyDmgMod": "100%?",
+    "deathDmgMod": "-100%?"
+}

@@ -1,0 +1,78 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "walksthrough": "?",
+    "hp": "2000",
+    "abilities": "{{Ability List\n |{{Melee|0-260}}\n |{{Ability|Shoots [[Arrow]]|0-210|element=physical\n  |scene={{Scene|spell=5sqmstrike|background=canvas|caster=Misguided Bully|look_direction=south|missile=Arrow Missile|missile_direction=south-east|missile_distance=5/5}}}}\n |{{Healing|range=400-480}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "holyDmgMod": "130%",
+    "maxdmg": "{{Max Damage|physical=470}}",
+    "pushable": "no",
+    "usedelements": "Physical",
+    "implemented": "11.40.5409",
+    "loot": [
+        {
+            "amount": "0-173",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-?",
+            "itemName": "Meat",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Rubbish Amulet",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Gold Ingot",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Blue Gem",
+            "rarity": "rare"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "1200",
+    "mitigation": "1.32",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "misguided bully",
+    "illusionable": "no",
+    "armor": "30",
+    "convince": "--",
+    "name": "Misguided Bully",
+    "isboss": "no",
+    "iceDmgMod": "90%",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "100%",
+    "plural": "misguided bullies",
+    "hpDrainDmgMod": "100%",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "The Misguided are members of a cult, worshipping power above all. Bullies, thiefs and all sorts of cutthroats are attracted by it. The true motives of their leader are unknown but none of them is up to any good. Watch your back when dealing with these individuals, the truly deceived are not to be trifled with.",
+    "speed": "90",
+    "pushobjects": "?",
+    "fireDmgMod": "100%",
+    "sounds": [
+        "Found one!",
+        "You shall be guided.",
+        "Fortune brought you here, now let us lead you."
+    ],
+    "bestiaryclass": "Humanoid",
+    "creatureclass": "Humans",
+    "earthDmgMod": "70%",
+    "physicalDmgMod": "80%",
+    "primarytype": "Outlaws",
+    "race_id": "1412",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%",
+    "bestiaryname": "misguidedmelee",
+    "behaviour": "Fights in close combat until death.",
+    "location": "[[Misguided Camp]] accessible via [[Outlaw Camp]]'s portal {{Mapper Coords|127.125|126.10|7|4|text=here}}.",
+    "strategy": "Unknown"
+}

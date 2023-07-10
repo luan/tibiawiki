@@ -1,0 +1,124 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "It's very similar to a [[Guzzlemaw]].",
+    "walksthrough": "Fire, Energy, Poison",
+    "hp": "6400",
+    "speed": "?",
+    "abilities": "{{Ability List| {{Melee|0-450+}}|{{Ability|Earth Explosion on target|0-200; causes bleeding starting from up to 35 hp per turn|element=earth}}|{{Ability|Explosion Life Drain Wave|650-800+|element=lifedrain}}|{{Healing|range=0-400+}} }}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "yes",
+    "fireDmgMod": "100%?",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "1200+",
+    "pushable": "?",
+    "runsat": "0",
+    "implemented": "11.40.5409",
+    "loot": [
+        {
+            "amount": "0-100",
+            "itemName": "Gold Coin"
+        },
+        {
+            "amount": "0-6",
+            "itemName": "Platinum Coin"
+        },
+        {
+            "itemName": "Brown Crystal Splinter"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "Great Mana Potion"
+        },
+        {
+            "itemName": "Fish Tail"
+        },
+        {
+            "itemName": "Fishbone"
+        },
+        {
+            "itemName": "Frazzle Skin"
+        },
+        {
+            "itemName": "Skull (Item)"
+        },
+        {
+            "itemName": "Haunted Blade"
+        },
+        {
+            "itemName": "Ham"
+        },
+        {
+            "itemName": "Frazzle Tongue"
+        },
+        {
+            "itemName": "Fish"
+        },
+        {
+            "itemName": "Remains of a Fish"
+        },
+        {
+            "itemName": "Bone"
+        },
+        {
+            "itemName": "Violet Crystal Shard"
+        },
+        {
+            "itemName": "Red Crystal Fragment"
+        },
+        {
+            "itemName": "Great Health Potion"
+        },
+        {
+            "itemName": "Hardened Bone"
+        },
+        {
+            "itemName": "Piece of Iron"
+        },
+        {
+            "itemName": "Banana Skin"
+        },
+        {
+            "itemName": "Crystal Rubbish"
+        },
+        {
+            "itemName": "Big Bone"
+        },
+        {
+            "itemName": "Iron Ore"
+        },
+        {
+            "itemName": "Fish Fin"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "5500",
+    "creatureclass": "Demons",
+    "earthDmgMod": "100%?",
+    "physicalDmgMod": "100%?",
+    "primarytype": "Dreamhaunters",
+    "spawntype": [
+        "Regular",
+        "Unblockable"
+    ],
+    "senseinvis": "yes",
+    "article": "an",
+    "actualname": "animated guzzlemaw",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Animated Guzzlemaw",
+    "isboss": "?",
+    "behaviour": "Fights in close combat.",
+    "location": "[[Museum of Tibian Arts]]",
+    "iceDmgMod": "100%?",
+    "strategy": "Stay diagonal at all times to avoid its wave. If you don't have at least 1000 HP, it's recommended not to block this creature. Mages under level 200 should use [[Magic Shield]].",
+    "energyDmgMod": "100%?",
+    "deathDmgMod": "100%?"
+}

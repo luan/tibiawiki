@@ -1,0 +1,95 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "There are enraged crystal golems and [[Damaged Crystal Golem|damaged crystal golems]].",
+    "isarenaboss": "no",
+    "walksthrough": "Energy, Fire, Poison",
+    "hp": "700",
+    "abilities": "{{Ability List\n |{{Melee|0-150}}\n |{{Healing|range=2-8}}}}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "holyDmgMod": "100%",
+    "maxdmg": "{{Max Damage|physical=150}}",
+    "pushable": "no",
+    "usedelements": "Physical",
+    "implemented": "9.60",
+    "loot": [
+        {
+            "amount": "1-100",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Strong Health Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Strong Mana Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Crystalline Spikes",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Crystal Sword",
+            "rarity": "semi-rare"
+        },
+        {
+            "amount": "0-5",
+            "itemName": "Crystalline Arrow",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Blue Crystal Splinter",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Cyan Crystal Fragment",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Glorious Axe",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "None.",
+    "exp": "550",
+    "mitigation": "1.04",
+    "attacktype": "Melee",
+    "article": "an",
+    "actualname": "enraged crystal golem",
+    "illusionable": "no",
+    "armor": "38",
+    "convince": "--",
+    "name": "Enraged Crystal Golem",
+    "isboss": "no",
+    "iceDmgMod": "0%",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "100%",
+    "plural": "enraged crystal golems",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "Crystal golems are a marvel of gnomish ingenuity. Though the gnomes claim that no conventional magic is a work, it is hard to believe that only sound resonances and light is involved in controlling and animating the golems. Though intended as guardians and manual labourers that substitute for the tiny gnomes with the muscle power that they might lack, sometimes a malfunction drives them 'insane' as the gnomes claim. Especially seismic activity can disrupt their control melodies and might turn them into a threat for gnomekind or anyone they might encounter. Golems are physically strong and durable. They can easily withstand great punishment and stress and will never tire. The gnomes usually use them for peaceful labour and for carrying great loads. The gnomes claim that the golems are only good for battle if there is dire need for reinforcements, since they still lack the correct battle melody that would enable the golems to use their full potential. In spite of this the golems are not to be underestimated. Even when not using their full potential, they are hardy warriors and great combatants. The gnomes have already created some special battle golems with different shapes and armaments. As long as they lack the correct melody however, the project is on hold and the golems are just gathering dust in some remote caves.",
+    "speed": "120",
+    "pushobjects": "yes",
+    "fireDmgMod": "0%",
+    "sounds": [
+        "Crrrrk! Chhhhr!"
+    ],
+    "runsat": "0",
+    "bestiaryclass": "Construct",
+    "creatureclass": "Elementals",
+    "earthDmgMod": "100%",
+    "physicalDmgMod": "80%",
+    "primarytype": "Geo-Elementals",
+    "race_id": "873",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "crystalgolem",
+    "behaviour": "Enraged crystal golems will fight in close combat.",
+    "location": "[[Golem Workshop]].",
+    "strategy": "Just kill them or ignore them. They are much weaker than monsters you'd have faced before coming here."
+}

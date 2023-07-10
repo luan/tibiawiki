@@ -1,0 +1,99 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "stalking stalks",
+    "hpDrainDmgMod": "100%?",
+    "notes": "<gallery captionalign=\"center\" mode=\"nolines\">\nStalking Stalk Artwork.jpg|Official [[Creature Artwork]]\n</gallery>",
+    "hp": "17100",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "The stalking stalks are more of a carrion exploiter by planting their seeds into fertile corpses. And they don't shun away from creating such corpses by physical force at all.With quite an arsenal of natural weaponry they actively attack when they are 'fertile'. While out of seeds to spread, the stalking stalks become inert and hide in the thickets by perfect mimicry, becoming inanimate and appearing as a perfect copy of a number of other plants common in Gnomprona. This ability has fascinated scientists as the stalking stalk seems not limited to one form to shift into. There are experiments in progress that try to find out how exactly this ability works and how the limits are defined. Specific stalks seem to be limited to a set amount of other plants to mimic, though those might vary from stalk to stalk. To entice the stalks to shift into any plant which is not native to Gnomprona have not yet met any success at all.Their resilient seeds are even more dangerous to the carrion eaters of Gnomprona. The seeds often resist most digestive tracts of the local creatures, but more often than not begin to sprout while still in the stomachs of such creatures. The blooming stalk takes root in the intestines of it's victim and begins to grow util it finally kills it's carrier and a new stalking stalk bursts out. The dependence on such hosts leads to another odd characteristic of its sprout, as it closely resembles that of other, harmless plants, likely to entice other creatures to eat them and become their new host, as they are able to regress their essence back into a new seed to sprout again. It's easy to assume but next to impossible to proof the shared heritage of the stalks with other known animated plants that are way more common on the surface world and it's debatable if such plants lost some of the stalking stalks abilities in more fertile areas or if the stalks evolved separately and developed such features only 'recently' to cope with Gnomprona's hostile environment.",
+    "speed": "190",
+    "abilities": "{{Ability List\n |{{Ability|Fire Missile|1012-1049|element=fire\n  |scene={{Scene|spell=3sqmstrike|caster=Stalking Stalk|look_direction=south|effect=Fire Effect|missile=Fire Missile|missile_direction=south-east|missile_distance=3/3}}}}\n |{{Ability|Blast Ball|654-1030|element=fire\n  |scene={{Scene|spell=2sqmballtarget|caster=Stalking Stalk|look_direction=south|effect=Blast Effect|damage_effect=Fire Effect|missile=Fire Missile|missile_direction=south-east|missile_distance=2/2}}}}\n |{{Ability|Earth Chain|766|element=earth\n  |scene={{Scene|spell=chainspell|caster=Stalking Stalk|look_direction=south|effect=Green Chain Effect|damage_effect=Poison Effect 1}}}}\n}}",
+    "pushobjects": "yes",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "fireDmgMod": "75%",
+    "holyDmgMod": "100%",
+    "sounds": [
+        "Sizzzle..."
+    ],
+    "pushable": "no",
+    "implemented": "12.90.12182",
+    "bestiaryclass": "Plant",
+    "loot": [
+        {
+            "amount": "1-2",
+            "itemName": "Small Diamond",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "Crystal Coin",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Dragon Necklace",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-?",
+            "itemName": "Stalking Seeds",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Magma Coat",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Green Gem",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Bow",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Warrior's Axe",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Muck Rod",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Green Crystal Fragment",
+            "rarity": "semi-rare"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Opal",
+            "rarity": "semi-rare"
+        }
+    ],
+    "exp": "11569",
+    "creatureclass": "Elementals",
+    "earthDmgMod": "75%",
+    "mitigation": "2.11",
+    "physicalDmgMod": "125%",
+    "primarytype": "Bio-Elementals",
+    "attacktype": "Distance",
+    "race_id": "2272",
+    "bestiarylevel": "Challenging",
+    "history": "Its experience was decreased from 13,420 to 11,569 on {{OfficialNewsArchive|6875|July 28, 2022}}.\n\nOn [[Updates/12.91.12383|September 06, 2022]] its health points were increased from 15,600 to 17,100.",
+    "senseinvis": "yes",
+    "article": "a",
+    "actualname": "stalking stalk",
+    "illusionable": "no",
+    "armor": "76",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "bestiaryname": "stalkingstalk",
+    "name": "Stalking Stalk",
+    "isboss": "no",
+    "location": "[[Monster Graveyard]]",
+    "iceDmgMod": "110%",
+    "strategy": "Unknown.",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "90%"
+}

@@ -1,0 +1,106 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "This creature was added with the [[Summer Update 2010]].<br />\n{{JSpoiler|You may hunt 500 of these as a task of the [[Killing in the Name of... Quest]]. Upon completion of the task you will face [[Sulphur Scuttler]].}}",
+    "walksthrough": "Poison",
+    "hp": "1300",
+    "abilities": "{{Ability List\n |{{Melee|0-300?|poison=?}}\n |{{Ability|Paralyze Missile||element=paralyze\n  |scene={{Scene|spell=7sqmstrike|caster=Brimstone Bug|look_direction=south|effect=Death Effect|missile=Death Missile (Large)|missile_direction=south-east|missile_distance=7/7}}}}\n |{{Ability|[[Wrath of Nature]]|180-281|element=?}}\n |{{Ability|Mana Drain Beam|130-200|element=manadrain}}\n |{{Ability|Great Poison Wave|80-120?|element=earth\n   |scene={{Scene|spell=6sqmwave|effect=Yellow Poison Effect|caster=Brimstone Bug|look_direction=east}}}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "holyDmgMod": "110%",
+    "maxdmg": "420+",
+    "pushable": "?",
+    "implemented": "8.60",
+    "loot": [
+        {
+            "amount": "1-200",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Poisonous Slime",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Lump of Earth",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Sulphurous Stone",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Brimstone Shell",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Strong Mana Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Strong Health Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Brimstone Fangs",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-4",
+            "itemName": "Small Emerald",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Magic Sulphur",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Stealth Ring",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Platinum Amulet",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Fire, Energy",
+    "exp": "900",
+    "mitigation": "1.18",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "brimstone bug",
+    "illusionable": "no",
+    "armor": "38",
+    "convince": "--",
+    "name": "Brimstone Bug",
+    "isboss": "no",
+    "iceDmgMod": "110%",
+    "energyDmgMod": "110%",
+    "deathDmgMod": "0%",
+    "plural": "brimstone bugs",
+    "hpDrainDmgMod": "0%",
+    "usespells": "yes",
+    "lightcolor": "66",
+    "occurrence": "Common",
+    "bestiarytext": "Some insects are incredibly resistant to poison, diseases, and extreme climates. The Brimstone Bug seems to be the paragon of such resilience. It is argued whether this bug is the product of corruption or rather drawn to it. As a matter of fact the Brimstone Bug actually feeds on the corrupted essence of the world regardless of its source. They are drawn to places of dark magic or magical devastation. They are also known to devour residues of undead and demonic excrements without hesitation. Like certain flies are drawn to physically rotten things, the Brimstone Bug is attracted by things that are spiritually rotten. Not only does such matter no harm to them, it also seems to fuel several unusual powers of the Brimstone Bug. Only occasionally though, they display their magical powers which are unpredictable but harmful. Even though corruption is their preferred kind of nourishment, the Brimstone Bugs are not above attacking uncorrupted beings. If not starving, the bug will carry its dead or helpless prey to a place of great corruption and wait for the victim to become contaminated by the taint. Then it will finally devour it.<br />Brimstone Bugs live in swarms of different sizes even though they are quite aggressive among each other and fights are common, brutal, and often lethal. The Brimstone Bug is cannibalistic and will devour any fallen swarm member. However, if they can choose, they will devour corrupted prey first, which makes those theories less likely which claim that the Brimstone Bug itself is a result of corruption.<br />Sometimes colonies of Brimstone Bugs form in seemingly uncorrupted areas. The truth is, however, that the bugs only eat the corruption faster than it can grow back. So exterminating a colony might prove even worse than the bugs itself because without the bugs the corruption might spread even further through the land.",
+    "speed": "120",
+    "pushobjects": "?",
+    "fireDmgMod": "110%",
+    "sounds": [
+        "Chrrr!"
+    ],
+    "lightradius": "2",
+    "bestiaryclass": "Vermin",
+    "creatureclass": "Invertebrates",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "110%",
+    "primarytype": "Insects",
+    "race_id": "674",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "brimstonebug",
+    "behaviour": "Fights until death and paralyzes the target very often.",
+    "location": "Beneath [[Razachai]] (enter {{Mapper Coords|129.51|121.212|7|4|text=here}}), [[Northern Zao Plantations]] (all around {{Mapper Coords|129.123|121.132|7|2|text=here}}), [[Brimstone Bug Caves]] (enter {{Mapper Coords|129.196|121.126|7|2|text=here}} or {{Mapper Coords|130.13|121.165|7|2|text=here}}), [[Chyllfroest]], [[Krailos Spider Lair]]",
+    "strategy": "Try to not run between lots of them because they can deal high damage. Try to stand diagonal to avoid the beam and wave. They drop many [[Creature Products]]."
+}

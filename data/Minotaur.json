@@ -1,0 +1,111 @@
+{
+    "summon": "330",
+    "templateType": "Creature",
+    "notes": "A strong half-human, half-bull creature. These creatures can be [[Skinning|skinned]] with an [[Obsidian Knife]]. You have around 5% chance to get a [[Minotaur Leather]] from a dead body. See also: [[Minotaur Leather/Skinning]].",
+    "walksthrough": "?",
+    "hp": "100",
+    "abilities": "{{Ability List|{{Melee|0-45}}}}",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "holyDmgMod": "90%",
+    "maxdmg": "{{Max Damage|physical=45}}",
+    "pushable": "yes",
+    "usedelements": "Physical",
+    "implemented": "Pre-6.0",
+    "loot": [
+        {
+            "amount": "1-25",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Brass Helmet",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Chain Armor",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Mace",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Plate Shield",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Sword",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Axe",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Meat",
+            "rarity": "semi-rare"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Minotaur Horn",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Minotaur Leather",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Bronze Amulet",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Shovel",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Fire, Energy, Poison",
+    "exp": "50",
+    "mitigation": "0.28",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "minotaur",
+    "illusionable": "yes",
+    "armor": "11",
+    "convince": "330",
+    "name": "Minotaur",
+    "isboss": "no",
+    "iceDmgMod": "110%",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "110%",
+    "plural": "minotaurs",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "no",
+    "occurrence": "Common",
+    "bestiarytext": "Minotaurs are cross-breeds of humans and bulls. They live in great caves where they even build proper towns. Furthermore, they arrange troops that repel every intruder from their empire. Minotaurs are average fighters, but organised as a military squad they can be quite dangerous.",
+    "speed": "84",
+    "pushobjects": "no",
+    "fireDmgMod": "80%",
+    "sounds": [
+        "Kaplar!",
+        "Hurr"
+    ],
+    "runsat": "0",
+    "bestiaryclass": "Humanoid",
+    "creatureclass": "Humanoids",
+    "earthDmgMod": "100%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Minotaurs",
+    "spawntype": [
+        "Regular",
+        "Raid",
+        "Unblockable"
+    ],
+    "race_id": "25",
+    "bestiarylevel": "Easy",
+    "senseinvis": "no",
+    "drownDmgMod": "100%",
+    "bestiaryname": "minotaur",
+    "location": "[[Mino Hell]] ([[Rookgaard]]), Two outside [[Bear Room Quest]], ([[Rookgaard]]) and also 2x on the premium side, [[Mintwallin]], [[Folda]], [[Minotaur Pyramid]], [[Outlaw Camp]], [[Kazordoon]] minotaur cave, [[Plains of Havoc]], [[Elven Bane]], Deeper [[Fibula Dungeon]] (level 50+ to open the door), [[Ancient Temple]], [[Maze of Lost Souls]], [[Thais]] [[Minotaur Camp]], [[Foreigner Quarter]].",
+    "strategy": "If you are in [[Rookgaard]], avoid attacking them alone, unless you have [[Small Health Potion]]s. In the mainland, they should not pose a major threat to a prepared adventurer."
+}

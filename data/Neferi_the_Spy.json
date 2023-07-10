@@ -1,0 +1,123 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "{{JSpoiler|It's one of the minibosses of [[Kilmaresh Quest]], Wanted mission.}}",
+    "walksthrough": "Energy, Fire, Poison",
+    "hp": "28000",
+    "speed": "?",
+    "abilities": "{{Ability List|{{Melee|0-600?}}|{{Summon|Skeleton Elite Warrior|1}}}}",
+    "pushobjects": "yes",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "100%",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "{{Max Damage|}}",
+    "pushable": "no",
+    "runsat": "0",
+    "implemented": "12.70.10953",
+    "cooldown": "20",
+    "loot": [
+        {
+            "itemName": "Eye-Embroidered Veil"
+        },
+        {
+            "itemName": "Tagralt-Inlaid Scabbard"
+        },
+        {
+            "itemName": "Terra Boots"
+        },
+        {
+            "itemName": "Violet Gem"
+        },
+        {
+            "itemName": "Ring of Red Plasma"
+        },
+        {
+            "itemName": "Knight Armor"
+        },
+        {
+            "itemName": "Crystal Coin"
+        },
+        {
+            "itemName": "Knight Axe"
+        },
+        {
+            "itemName": "Gold Ingot"
+        },
+        {
+            "itemName": "Sea Horse Figurine"
+        },
+        {
+            "itemName": "Hailstorm Rod"
+        },
+        {
+            "itemName": "Fire Sword"
+        },
+        {
+            "itemName": "Terra Rod"
+        },
+        {
+            "itemName": "Ultimate Health Potion"
+        },
+        {
+            "itemName": "Dagger"
+        },
+        {
+            "itemName": "Great Spirit Potion"
+        },
+        {
+            "itemName": "Lightning Headband"
+        },
+        {
+            "itemName": "Violet Crystal Shard"
+        },
+        {
+            "itemName": "Spellbook of Warding"
+        },
+        {
+            "itemName": "Glacier Shoes"
+        },
+        {
+            "itemName": "Glacier Mask"
+        },
+        {
+            "itemName": "Lightning Legs"
+        },
+        {
+            "itemName": "Golden Mask"
+        },
+        {
+            "itemName": "Stealth Ring"
+        },
+        {
+            "itemName": "Terra Hood"
+        }
+    ],
+    "walksaround": "None",
+    "exp": "19650",
+    "creatureclass": "Humans",
+    "earthDmgMod": "100%",
+    "physicalDmgMod": "100%",
+    "bosstiaryclass": "Archfoe",
+    "primarytype": "Fafnar Cultists",
+    "spawntype": [
+        "Triggered"
+    ],
+    "race_id": "2105",
+    "senseinvis": "yes",
+    "actualname": "Neferi the Spy",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Neferi the Spy",
+    "isboss": "yes",
+    "location": "Through a teleport located near [[Issavi]]'s boat, {{Mapper Coords|text=here|132.94|122.246|6|4|1|0.250.25}}.",
+    "iceDmgMod": "110%",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "80%"
+}

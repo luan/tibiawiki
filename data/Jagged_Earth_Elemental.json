@@ -1,0 +1,83 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "jagged earth elementals",
+    "hpDrainDmgMod": "100%?",
+    "notes": "New creature in [[Updates/8.2|Summer Update 2008]].",
+    "walksthrough": "?",
+    "hp": "1500",
+    "speed": "?",
+    "abilities": "{{Ability List| {{Melee|0-300}}|{{Ability|[[Paralyze]]|element=paralyze}}|{{Ability|Poison Beam|Poisons you from 10-16[[Hp]] per turn|element=poisoned}}|{{Ability|Boulder [[Explosion]]|100-250|element=?}}|{{Ability|Slow [[Self-Healing]] |element=healing}}|{{Ability|[[Stalagmite]]|0-200?|element=earth}} }}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "115%",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        "*STOMP STOMP*"
+    ],
+    "maxdmg": "~750",
+    "pushable": "?",
+    "implemented": "8.20",
+    "loot": [
+        {
+            "amount": "0-180",
+            "itemName": "Gold Coin"
+        },
+        {
+            "itemName": "Lump of Earth"
+        },
+        {
+            "itemName": "Natural Soil"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "Small Emerald"
+        },
+        {
+            "amount": "0-10",
+            "itemName": "Small Stone"
+        },
+        {
+            "itemName": "Twigs"
+        },
+        {
+            "itemName": "Seeds",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Clay Lump",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Coal",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Iron Ore",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "1300",
+    "creatureclass": "Elementals",
+    "earthDmgMod": "0%?",
+    "physicalDmgMod": "100%?",
+    "primarytype": "Geo-Elementals",
+    "race_id": "470",
+    "senseinvis": "?",
+    "article": "a",
+    "actualname": "jagged earth elemental",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Jagged Earth Elemental",
+    "isboss": "no",
+    "behaviour": "Jagged Earth Elementals approach the player in close combat and do not run in low health.",
+    "location": "[[The Elemental Spheres Quest]], [[Druid]]'s part - [[Earth Sphere]].",
+    "iceDmgMod": "80%",
+    "strategy": "Run around and use [[Flame Strike]]. Maybe use [[Great Fireball]] if there are more then two. If you feel like bringing a rod, take a [[Hailstorm Rod|hailstorm rod]] because they are least resistant to ice.",
+    "energyDmgMod": "15%",
+    "deathDmgMod": "55%"
+}

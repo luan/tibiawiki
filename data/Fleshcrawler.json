@@ -1,0 +1,94 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "[[Ancient Scarab]]'s boss. Part of the [[Paw and Fur Society]] tasks of [[Grizzly Adams]].\n<br />\n{{JSpoiler|\nPart of the [[Killing in the Name of... Quest]].\nThe portal which leads to the boss is in the deepest floor of a [[Larva Cave]] near the northwest exit of [[Ankrahmun]]. Its teleporter is located [http://tibia.wikia.com/wiki/Mapper?coords{{=}}129.20-128.26-11-2-1-1 here].\n}}",
+    "walksthrough": "?",
+    "hp": "1450",
+    "speed": "?",
+    "abilities": "{{Ability List| {{Melee|0-330}}|{{Ability|[[Envenom]]|0-150|element=?}}|{{Ability|[[Poison Storm|Poisoning Storm]]|?|element=poison}}|{{Ability|[[Paralysis]]|element=paralyze}} }}",
+    "pushobjects": "yes",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "115%?",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "480",
+    "pushable": "No",
+    "implemented": "9.20",
+    "loot": [
+        {
+            "itemName": "Scarab Pincers",
+            "rarity": "always"
+        },
+        {
+            "amount": "1-15",
+            "itemName": "Platinum Coin"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Scarab Coin"
+        },
+        {
+            "amount": "1-4",
+            "itemName": "Small Amethyst"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "Small Emerald"
+        },
+        {
+            "itemName": "Springsprout Rod"
+        },
+        {
+            "itemName": "Scarab Amulet"
+        },
+        {
+            "itemName": "Ancient Amulet"
+        },
+        {
+            "itemName": "Knight Armor"
+        },
+        {
+            "itemName": "Strong Health Potion"
+        },
+        {
+            "itemName": "Scarab Shield"
+        },
+        {
+            "itemName": "Amber Staff",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Terra Mantle",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Ornamented Brooch",
+            "rarity": "rare"
+        }
+    ],
+    "walksaround": "Fire, Energy",
+    "exp": "1000",
+    "creatureclass": "Invertebrates",
+    "earthDmgMod": "100%?",
+    "physicalDmgMod": "100%?",
+    "primarytype": "Insects",
+    "race_id": "754",
+    "senseinvis": "yes",
+    "actualname": "Fleshcrawler",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Fleshcrawler",
+    "isboss": "yes",
+    "behaviour": "Unknown.",
+    "location": "[[Kha'labal]].",
+    "iceDmgMod": "100%?",
+    "strategy": "Treat it like a slightly stronger [[Ancient Scarab]]. Mages under level 60 are recommended to use [[Mana Shield]], since they could die instantly by an unfortunate combo.\nYou can cast a [[Energy Wall Rune]] on the ground and run him around, that way no damage will be taken. Be sure to cast it straight, otherwise he can make a shortcut.",
+    "energyDmgMod": "100%?",
+    "deathDmgMod": "110%?"
+}

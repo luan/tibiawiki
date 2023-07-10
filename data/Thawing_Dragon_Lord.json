@@ -1,0 +1,68 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "isevent": "no",
+    "plural": "thawing dragon lords",
+    "hpDrainDmgMod": "100%?",
+    "notes": "In order to find this special creature, you must first wake it by using the [[Frozen Dragon]] in its room, after having talked to the [[Crowned Tree]]. Upon spawning the Thawing Dragon Lord, you will have 10 minutes to kill it. After 10 minutes have passed, the creature, if alive will vanish and the room will become frozen once again.",
+    "isarenaboss": "no",
+    "walksthrough": "?",
+    "hp": "25000",
+    "speed": "?",
+    "abilities": "{{Ability List| {{Melee|0-300}}|{{Ability|[[Fire Damage|Fire Wave]]|800-1200|element=fire}}|{{Ability|[[Ice Damage|Ice Crystal Bomb]]|600-700|element=ice}}|{{Ability|[[Firebomb]]|element=fire}} }}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "100%?",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "2200",
+    "pushable": "?",
+    "usedelements": "Fire, Ice",
+    "runsat": "150",
+    "implemented": "11.80.7048",
+    "loot": [
+        {
+            "amount": "0-4",
+            "itemName": "Gold Ingot"
+        },
+        {
+            "itemName": "Ice Cube"
+        },
+        {
+            "itemName": "Ice Cream Cone (Blue-Barian)"
+        },
+        {
+            "itemName": "Bar of Gold",
+            "rarity": "rare"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "2100",
+    "creatureclass": "Reptiles",
+    "earthDmgMod": "100%?",
+    "physicalDmgMod": "100%?",
+    "bosstiaryclass": "Bane",
+    "primarytype": "Dragons",
+    "spawntype": [
+        "Triggered"
+    ],
+    "race_id": "1585",
+    "senseinvis": "?",
+    "article": "a",
+    "actualname": "thawing dragon lord",
+    "illusionable": "yes",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Thawing Dragon Lord",
+    "isboss": "no",
+    "behaviour": "If fights in close combat using both [[Ice Damage|Ice]] and [[Fire Damage|Fire]] attacks. It uses the Ice Crystal Bomb almost every turn, which added to the melee damage means almost 1000 hit every turn, regardless of positioning.",
+    "location": "One spawn in the [[Falcon Bastion]], {{Mapper Coords|130.78|122.82|5|4|text=here}}.",
+    "iceDmgMod": "100%?",
+    "strategy": "Stay diagonal to it as it because its strongest attack is the Fire Wave that deals massive damage.",
+    "energyDmgMod": "100%?",
+    "deathDmgMod": "100%?"
+}

@@ -1,0 +1,81 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "earworms",
+    "hpDrainDmgMod": "100%?",
+    "notes": "They look like [[Rotworm]]s but are much stronger.",
+    "walksthrough": "?",
+    "hp": "4000",
+    "abilities": "{{Ability List| {{Melee|0-350}}|{{Ability|[[Earth Damage|Poison Strike]]|150-750|element=earth}} }}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "100%",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        ""
+    ],
+    "pushable": "?",
+    "implemented": "12.20.8834",
+    "loot": [
+        {
+            "amount": "0-1?",
+            "itemName": "Platinum Coin"
+        },
+        {
+            "amount": "0-47?",
+            "itemName": "Envenomed Arrow"
+        },
+        {
+            "itemName": "Lump of Dirt"
+        },
+        {
+            "itemName": "Green Memory Shard"
+        },
+        {
+            "itemName": "Terra Amulet"
+        },
+        {
+            "itemName": "Terra Hood"
+        },
+        {
+            "itemName": "Blue Memory Shard"
+        },
+        {
+            "itemName": "Sacred Tree Amulet"
+        },
+        {
+            "itemName": "Violet Memory Shard"
+        },
+        {
+            "amount": "0-21?",
+            "itemName": "Earth Arrow"
+        },
+        {
+            "amount": "0-3?",
+            "itemName": "Worm"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "2000",
+    "creatureclass": "Invertebrates",
+    "earthDmgMod": "100%",
+    "physicalDmgMod": "100%?",
+    "primarytype": "Annelids",
+    "spawntype": [
+        "Regular"
+    ],
+    "senseinvis": "?",
+    "article": "an",
+    "actualname": "earworm",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Earworm",
+    "isboss": "no",
+    "location": "The [[Ambassador's Mind]]",
+    "iceDmgMod": "100%?",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "100%?"
+}

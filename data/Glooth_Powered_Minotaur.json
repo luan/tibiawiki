@@ -1,0 +1,53 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "glooth powered minotaurs",
+    "hpDrainDmgMod": "100%?",
+    "notes": "None.",
+    "walksthrough": "?",
+    "hp": "?",
+    "speed": "?",
+    "abilities": "{{Ability List|}}",
+    "pushobjects": "yes",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "secondarytype": "Oramond Minotaurs",
+    "fireDmgMod": "5%",
+    "holyDmgMod": "5%",
+    "sounds": [
+        "POOOWEEER!"
+    ],
+    "maxdmg": "?",
+    "pushable": "no",
+    "implemented": "10.70",
+    "loot": [
+        {
+            "itemName": "Gold Coin"
+        },
+        {
+            "itemName": "Platinum Coin"
+        }
+    ],
+    "walksaround": "Fire, Energy, Poison",
+    "exp": "?",
+    "creatureclass": "Humanoids",
+    "earthDmgMod": "5%",
+    "physicalDmgMod": "5%",
+    "primarytype": "Minotaurs",
+    "senseinvis": "yes",
+    "article": "a",
+    "actualname": "glooth powered minotaur",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Glooth Powered Minotaur",
+    "isboss": "no",
+    "behaviour": "It fights in close combat like a stronger [[Moohtant]].",
+    "location": "Second floor [[Glooth Underground Factory]], east side during a [[Glooth Factory Raids#Minotaur Raid|minotaur raid]].",
+    "iceDmgMod": "5%",
+    "strategy": "This creature cannot be killed in this form, however, it can be weakened into a [[Depowered Minotaur]]. To do so, lure the Glooth Powered Minotaur to one of the many [[Glooth Extractor]]s around the cave. It will become a Depowered Minotaur as soon as it steps on it, and the weak version can be easily killed. \n\nNote that if there are [[Minotaur Totem]]s around, you should deal with them first since they heal all creatures around it.",
+    "energyDmgMod": "5%",
+    "deathDmgMod": "5%",
+    "status": "event"
+}

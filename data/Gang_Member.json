@@ -1,0 +1,87 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "Usually found along with other '''Gang Members''' and [[Outlaws]]. Their melee attack is quite strong.",
+    "walksthrough": "None",
+    "hp": "295",
+    "abilities": "{{Ability List\n |{{Melee|0-70}}\n |{{Ability|Throws [[Throwing Knife|knives]]|0-25|element=physical\n  |scene={{Scene|spell=5sqmstrike|background=canvas|caster=Gang Member|look_direction=south|missile=Throwing Knife Missile|missile_direction=south-east|missile_distance=5/5}}}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "holyDmgMod": "100%",
+    "maxdmg": "{{Max Damage|physical=95}}",
+    "pushable": "yes",
+    "usedelements": "Physical",
+    "implemented": "8.40",
+    "loot": [
+        {
+            "amount": "1-30",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Leather Legs",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Mace",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Studded Legs",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Brown Bread",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Club Ring",
+            "rarity": "rare"
+        }
+    ],
+    "walksaround": "Fire, Energy, Poison",
+    "exp": "70",
+    "mitigation": "0.38",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "gang member",
+    "illusionable": "no",
+    "armor": "8",
+    "convince": "450",
+    "name": "Gang Member",
+    "isboss": "no",
+    "iceDmgMod": "100%",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "105%",
+    "plural": "gang members",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "no",
+    "occurrence": "Common",
+    "bestiarytext": "Even small cities often have gangs roaming its streets, pressing money from travellers and shop owners alike. Some gangs might follow a noble cause or only consist of some youths that banded together for protection, but in the harsh reality of Tibia, most gangs are nothing than urban  bandits. Usually led by one or two powerful and charismatic individuals, they claim parts of the city as their territory. The borders of these territories are often disputed among gangs and are subject of violent and bloody fights. The inhabitants that live in such a territory mostly have arranged themselves with the situation, accepting it as given as the rule of the local king.<br />Gang Members are usually encountered in groups, especially in greater cities with warring gangs. They tend to talk a lot about respect and honour but this is rather to comfort themselves, trying to forget how low they have come and what harm they do to the people around them. When it comes to combat they are all cowards, one way or the other. While some of them might fight to the bitter end, most will flee from it when the going gets rough.",
+    "speed": "95",
+    "pushobjects": "yes",
+    "fireDmgMod": "100%",
+    "sounds": [
+        "This is our territory!",
+        "Help me guys!",
+        "I don't like the way you look!",
+        "You're wearing the wrong colours!",
+        "Don't mess with us!"
+    ],
+    "bestiaryclass": "Human",
+    "creatureclass": "Humans",
+    "earthDmgMod": "100%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Outlaws",
+    "spawntype": [
+        "Regular"
+    ],
+    "race_id": "526",
+    "bestiarylevel": "Easy",
+    "senseinvis": "no",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "gangmember",
+    "behaviour": "Will run with 35 or less [[hp]].",
+    "location": "Throughout the [[Foreigner Quarter|Foreigner]], [[Factory Quarter|Factory]], and [[Trade Quarter]]s in [[Yalahar]].",
+    "strategy": "Similar to [[Nomad (Basic)|Nomad]]s and [[Bandit]]s. Easy to kill by [[players]] above level 20.\nAlso good training [[Creatures]] for [[Knight]]s with [[Skills]] around 60/60."
+}

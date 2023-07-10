@@ -1,0 +1,80 @@
+{
+    "summon": "400",
+    "templateType": "Creature",
+    "notes": "As a curious note, '''Toad'''s give same rare loot ([[War Hammer]]) and also the same experience points as [[Wild Warrior]]s.",
+    "walksthrough": "None",
+    "hp": "135",
+    "abilities": "{{Ability List\n |{{Melee|0-30|poison=1}}\n |{{Ability|Earth Strike|8-17|element=earth\n  |scene={{Scene|spell=3sqmstrike|effect=Poison Effect 1|caster=Toad||missile=Poison Missile|missile_direction=south-east|missile_distance=3/3}}}}\n |{{Haste}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "holyDmgMod": "100%",
+    "maxdmg": "{{Max Damage|physical=30|earth=18}}",
+    "pushable": "?",
+    "implemented": "7.8",
+    "loot": [
+        {
+            "amount": "0-20",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Fish",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Mace",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Poisonous Slime",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "War Hammer",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Fire, Energy, Poison",
+    "exp": "60",
+    "mitigation": "0.36",
+    "attacktype": "Melee",
+    "history": "==== Spawn ====\nBefore [[Updates/8.4]], it was only found in the [[Laguna Islands]]. Later some spawns were added in [[Yalahar]]'s [[Arena and Zoo Quarter]] and [[Zao]], and finally it became a non Premium exclusive creature with the additions of [[Thornfire World Change|the bog temple]] and the [[Tainted Caves]] in the [[Green Claw Swamp]].\n\n==== Convince ====\nAs of November 16, 2011, Toads as well as other poison-causing creatures can no longer be convinced. This was to prevent PvP abuse whereby a player would trick another player into convincing creatures that would later frag low level characters with poison applied earlier. After enough kills the player would obtain a [[Red Skull]] and would lose all items belonging to them upon being killed. More can be read in the news article \"{{OfficialNewsArchive|1894|Content Fixes}}\".",
+    "article": "a",
+    "actualname": "toad",
+    "illusionable": "yes",
+    "armor": "6",
+    "convince": "--",
+    "name": "Toad",
+    "isboss": "no",
+    "iceDmgMod": "80%",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "100%",
+    "plural": "toads",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "Toads have little in common with harmless little frogs. Aggressive and poisonous, they seem to regard everything that is moving as some kind of lunch. They attack without hesitation and use their gluey and poisonous spittle to weaken the opponent before they challenge it in close combat. Ferocious like no other reptile, they develop a berserk rage in every battle. Even without teeth, they can bite with the crushing force of a giant clam or hit the enemy with there long tongues at lightning speed.<br />They use their powerful legs to jump towards their opponents during which they are able to reach astonishing if not frightening speed. Given their ability to slow down opponents and to speed up themselves, it is quite likely that they can cope with almost every opponent in close combat.",
+    "speed": "105",
+    "pushobjects": "?",
+    "fireDmgMod": "110%",
+    "sounds": [
+        "Ribbit! Ribbit!",
+        "Ribbit!"
+    ],
+    "bestiaryclass": "Amphibic",
+    "creatureclass": "Amphibians",
+    "earthDmgMod": "80%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Frogs",
+    "spawntype": [
+        "Regular"
+    ],
+    "race_id": "262",
+    "bestiarylevel": "Easy",
+    "senseinvis": "no",
+    "drownDmgMod": "100%",
+    "bestiaryname": "toad",
+    "behaviour": "They run when they have 10 or less [[health]] left. Due to their haste it is hard to outrun them at lower levels. If you're trying to kill it with non self healing summons (such as a [[Fire Devil]]), watch out because they can retarget very fast.",
+    "location": "The [[Laguna Islands]], [[Arena and Zoo Quarter]], [[Tiquanda/Tarantula Caves]], [[Shadowthorn]] Bog God Temple, [[Northern Zao Plantations]], Northern [[Brimstone Bug Caves|Brimstone Bug Cave]], [[Tainted Caves]].",
+    "strategy": "Try not to let them run away when they are low in [[hp]], as they are fast and can lure you to even more '''Toad'''s. Low [[level]] [[mage]]s should avoid them since they are often found in groups and can spam small amount of damage quite fast while reducing your health significantly. Use [[GFB]] or other area effecting runes to quickly kill larger groups.<br>\nIf you're on ground level of the [[Laguna Islands]], mages can run around for about 20 seconds quickly, lure about 20 toads and some other creatures this way and then use [[GFB]], 2 (or even one) shots can be enough for about 1k exp."
+}

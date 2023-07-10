@@ -1,0 +1,138 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "{{JSpoiler|You may hunt 4000 of these along with [[Necromancer]]s, [[Priestess]]es, [[Blood Hand]]s and [[Shadow Pupil]]s as a [[Killing in the Name of... Quest/Spoiler#Unranked Tasks|task for Lugri]]. Upon completion of the task you will face [[Necropharus]]. The task can be repeated several times but only grants you 40,000 [[Experience|experience points]] from the second time and onwards.}}",
+    "isarenaboss": "no",
+    "walksthrough": "Poison",
+    "hp": "820",
+    "abilities": "{{Ability List| {{Melee|0-80?|poison=5}}|{{Healing}}|{{Ability|[[Sudden Death]]|60-100?|element=death}}|{{Ability|[[Mana Drain]] Beam|80-130?|element=manadrain}}|{{Ability|[[Life Drain]] Ball on self|40-60?|element=lifedrain}} }}",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "holyDmgMod": "108%",
+    "maxdmg": "250?",
+    "pushable": "no",
+    "implemented": "10.10",
+    "loot": [
+        {
+            "amount": "1-180",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Strong Mana Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Book of Necromantic Rituals",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Lancet",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Horoscope",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Blood Tincture in a Vial",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Incantation Notes",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Pieces of Magic Chalk",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Small Ruby",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Mystic Turban",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "White Piece of Cloth",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Red Gem",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Red Piece of Cloth",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Skull Staff",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Noble Axe",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Spellbook of Warding",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Spellbook of Mind Control",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Underworld Rod",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Boots of Haste",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Energy, Fire",
+    "exp": "900",
+    "mitigation": "1.18",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "blood priest",
+    "illusionable": "no",
+    "armor": "55",
+    "convince": "--",
+    "name": "Blood Priest",
+    "isboss": "no",
+    "iceDmgMod": "85%",
+    "energyDmgMod": "85%",
+    "deathDmgMod": "50%",
+    "plural": "blood priests",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "Over time, different groups of dark summoners developed in Drefia who each follow their own path in using and worshipping the dark powers, loosely allying themselves, or feuding viciously, with another group from time to time. <br />The Blood Priests are a more recent order that reveres the fluids of life and death - above all blood, which they amass in horrendous quantities. Blood priests devote their lives to the study of blood and so-called lesser fluids. They attribute the most stupefying qualities to blood, and experiment extensively with it, using strange devices in their blood hall caverns. This requires a constant supply of fresh fluids and bodies and therefore blood priests and their henchmen are avoided even by their fellow Dark Summoners for fear of their lives. Even their names reflect their love for everything associated with blood and it is said they do not exactly dye their robes blood red. <br />Blood Priests love extravaganza in speech and habit, but they also favour symmetrical shapes and figures - nets, crosses, or abstract tree shapes - shapes that favour a flow and distribution of fluids. Their single-minded extravaganza extends to their love for other species as well. Though rats are usually preferred animals of Urgith and abound in Drefia, blood priests dote on bats, ticks and leeches, and it is even rumoured they have some kind of agreement with the vampires - though nobody dares to imagine to what purpose, and certainly will not ask.",
+    "speed": "99",
+    "pushobjects": "?",
+    "fireDmgMod": "108%",
+    "sounds": [
+        "The Blood God is thirsty!",
+        "Give your blood to the Dark God!"
+    ],
+    "runsat": "0",
+    "bestiaryclass": "Human",
+    "creatureclass": "Humans",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "108%",
+    "primarytype": "Necromancers",
+    "spawntype": [
+        "Regular"
+    ],
+    "race_id": "961",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "drownDmgMod": "0%?",
+    "bestiaryname": "bloodpriest",
+    "behaviour": "They fight in close range.",
+    "location": "[[Drefia]] and [[Old Fortress]].",
+    "strategy": "'''[[Knight]]s''': Stay diagonal at all times. Their mana drain wave is very annoying. If you get surrounded by other Priests, [[Shadow Pupil]]s and [[Blood Hand]]s, attack the Priest while casting Exori spells."
+}

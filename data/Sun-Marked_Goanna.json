@@ -1,0 +1,75 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "adult goannas",
+    "hpDrainDmgMod": "100%?",
+    "notes": "It's a blessed [[Adult Goanna]].",
+    "walksthrough": "?",
+    "hp": "7800",
+    "abilities": "{{Ability List| {{Melee|?}} }}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "yes",
+    "fireDmgMod": "100%?",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        ""
+    ],
+    "pushable": "?",
+    "implemented": "12.20.8834",
+    "loot": [
+        {
+            "itemName": "Goanna Hide with Sun Symbol",
+            "rarity": "always"
+        },
+        {
+            "amount": "0-1?",
+            "itemName": "Platinum Coin"
+        },
+        {
+            "itemName": "Envenomed Arrow"
+        },
+        {
+            "itemName": "Scared Frog"
+        },
+        {
+            "itemName": "Poison Dagger"
+        },
+        {
+            "itemName": "Earth Arrow"
+        },
+        {
+            "itemName": "Terra Rod"
+        },
+        {
+            "itemName": "Terra Hood"
+        },
+        {
+            "itemName": "Goanna Claw"
+        },
+        {
+            "itemName": "Terra Amulet"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "7600",
+    "creatureclass": "Reptiles",
+    "earthDmgMod": "99%?<",
+    "physicalDmgMod": "100%?",
+    "primarytype": "Varanidae",
+    "senseinvis": "yes",
+    "article": "a",
+    "actualname": "sun-marked goanna",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Sun-Marked Goanna",
+    "isboss": "no",
+    "behaviour": "Unknown.",
+    "location": "[[Kilmaresh]].",
+    "iceDmgMod": "100%?",
+    "strategy": "Unknown.",
+    "energyDmgMod": "100%?",
+    "deathDmgMod": "100%?"
+}

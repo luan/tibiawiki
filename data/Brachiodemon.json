@@ -1,0 +1,143 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "Brachiodemons are the creatures from [[Claustrophobic Inferno]] that can trigger [[Goshnar's Taints]].\n\nIt only drops a [[Bag You Desire]] for players with at least one of [[Goshnar's Taints]]. The more taints you have, the higher the chance. The Bag is always dropped inside a [[Reward Container]] so there's no risk of leaving it behind in the creature's corpse.",
+    "walksthrough": "Fire, Energy, Poison",
+    "hp": "25000",
+    "abilities": "{{Ability List|}}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "holyDmgMod": "135%",
+    "usedelements": "Fire, Death",
+    "implemented": "12.40.9997",
+    "loot": [
+        {
+            "itemName": "Crystal Coin",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-4",
+            "itemName": "Ultimate Health Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Hand",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Skull Staff",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Epee",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Crystal Mace",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Noble Axe",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Head (Brachiodemon)",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Fire Axe",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Assassin Dagger",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Jade Hammer",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Spellbook of Mind Control",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Ring of Green Plasma",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Royal Helmet",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Mastermind Shield",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Butcher's Axe",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Crystalline Sword",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Alloy Legs",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Metal Bat",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Diabolic Skull",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Bag You Desire",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "None",
+    "exp": "15770",
+    "mitigation": "2.75",
+    "attacktype": "Melee",
+    "history": "[[Updates/12.60.10468|December 01, 2020]]: creature experience decreased from 28,600 to 22,880 and loot drop rate decreased by 15%.\n\n{{OfficialNewsArchive|6086|April 15, 2021}}: creature experience decreased from 22,880 to 20,000 and loot drop rate decreased by 5%.\n\n{{OfficialNewsArchive|6159|June 01, 2021}}: creature experience decreased from 20,000 to 17,600 and loot drop rate decreased by 12% along with [[Updates/12.66.10866|changes]] made to Goshnar's Tribue.\n\n[[Updates/12.67.10934 (2)|July 06, 2021]]: creature experience decreased from 17,600 to 14,080 and loot drop rate decreased by 10%.\n\n{{OfficialNewsArchive|6555|February 01, 2022}}: creature experience increased from 14,080 to 15,770 and loot drop rate increased by 8%.",
+    "article": "a",
+    "actualname": "brachiodemon",
+    "illusionable": "no",
+    "armor": "100",
+    "convince": "--",
+    "name": "Brachiodemon",
+    "isboss": "no",
+    "iceDmgMod": "125%",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "50%",
+    "plural": "brachiodemons",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "Brachiodemons are battle-hardened demons that were chosen by their vile masters to invade Zarganash for their adaptability. After untold time in Zarganash only the most adaptive of these creatures survived, but not unscarred. Zarganash has changed then permanently, trapping them for all eternity and binding their essence to the realm itself. Their self-awareness became bound to the essence of the plane in a twisted way. Should their material form ever be destroyed a gruesome fate of eternal torment awaits their consciousness. Forever will they ride helplessly with the storms and currents of Zarganash to be grinded down and reconstructed constantly. A fact they are aware of all to well, which makes them fight for their lives even more fiercely and desperately. Though the inner torment that is prevalent in Zarganash has already took deep roots in their essence and inherently changed them, some of them might still half-heartedly do the biddings of their demonic masters but they do so only out of an attitude of resignation and habit that grows more and more distant over time. In truth for a long time they have already given in to the despair and atrophy that permeates the realm and unknowingly became agents of the powers behind the curtains of Zarganash. While most of them are unknowingly doing the bidding of the pale worm and spread its taint wherever they go, they still think of themselves as free beings and would actively fight the worm and its minions. The subtle strings that the worm and others use on them usually prevent them from coming anywhere near the true plots that are played out in Zarganash. How much resistance against the will of the pale worm a brachiodemon could muster varies probably highly from individual to individual but the worm will always win in the long run.",
+    "speed": "220",
+    "fireDmgMod": "70%",
+    "sounds": [
+        "Feel the heat!",
+        "Hand over your life.",
+        "I can give you a hand... or two."
+    ],
+    "bestiaryclass": "Demon",
+    "creatureclass": "Demons",
+    "earthDmgMod": "100%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Demons",
+    "spawntype": [
+        "Unblockable"
+    ],
+    "race_id": "1930",
+    "bestiarylevel": "Challenging",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "brachiodemon",
+    "behaviour": "This creature has a spell that destroys player-made [[Magic Wall (Object)|Magic Walls]] and [[Wild Growth (Object)|Wild Growth]]s.",
+    "location": "[[Claustrophobic Inferno]].",
+    "strategy": "As with other Soul War creatures, they hit extremely hard, so maximum Fire and Death Damage Protection should be used. During raids, it's essential that they are killed very quickly otherwise there will be too many creatures to deal with."
+}

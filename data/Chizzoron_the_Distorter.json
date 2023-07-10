@@ -1,0 +1,102 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "Chizzoron the Distorter",
+    "hpDrainDmgMod": "100%?",
+    "notes": "He is a lizard boss which spawns with the 5<sup>th</sup> message of the [[Farmine Raids#Orcs raid on Zzaion|Orcs raid on Zzaion]].\n\nBefore it spawns, five messages are broadcast in white text to all players on that game world:\n{{Raid Message|00:00:00|A massive orc force is gathering at the gates of Zzaion.|00:03:00|Orc reinforcements have arrived at the gates of Zzaion! The gates are under heavy attack!|00:10:00|More orc reinforcements have arrived at the gates of Zzaion! The gates are under heavy attack!|00:20:00|The gates to Zzaion have been breached! Orcs are invading the city!|00:30:00|More orcs have arrived in Zzaion! The city is under attack! Strong lizard leaders have come to defend the city.}}",
+    "isarenaboss": "no",
+    "walksthrough": "Poison",
+    "hp": "16000",
+    "speed": "?",
+    "abilities": "{{Ability List| {{Melee|0-759+}}|{{Ability|[[Earth Damage|Smoke Bomb]]|300-686|element=earth}}|{{Ability|[[Fire Wave]]|0-874|element=fire}}|{{Ability|Stalagmite|0-427+|element=earth}}|{{Ability|[[Life Drain]]|148-?|element=lifedrain}}|{{Summon|Lizard Dragon Priest|2}} }}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "100%",
+    "holyDmgMod": "90%",
+    "sounds": [
+        "Humanzzz! Leave Zzaion at onzzzze!",
+        "I pray to my mazzterzz, the mighty dragonzzz!",
+        "You are not worzzy to touch zzizz zzacred ground!"
+    ],
+    "maxdmg": "2300+ (without summons)",
+    "pushable": "?",
+    "implemented": "8.54",
+    "loot": [
+        {
+            "amount": "0-109",
+            "itemName": "Gold Coin"
+        },
+        {
+            "itemName": "Great Health Potion"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "Gold Ingot"
+        },
+        {
+            "itemName": "Lizard Scale"
+        },
+        {
+            "itemName": "Small Emerald"
+        },
+        {
+            "itemName": "Time Ring"
+        },
+        {
+            "itemName": "Green Gem"
+        },
+        {
+            "itemName": "Blue Gem"
+        },
+        {
+            "itemName": "Dragon Scale Mail",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Swamplair Armor",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Crystal Boots",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Greenwood Coat"
+        },
+        {
+            "itemName": "Platinum Coin"
+        },
+        {
+            "itemName": "Great Mana Potion"
+        },
+        {
+            "itemName": "Small Topaz"
+        },
+        {
+            "itemName": "Small Diamond"
+        }
+    ],
+    "walksaround": "Energy, Fire",
+    "exp": "4000",
+    "creatureclass": "Reptiles",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "100%",
+    "bosstiaryclass": "Nemesis",
+    "primarytype": "Draken",
+    "race_id": "629",
+    "senseinvis": "?",
+    "actualname": "Chizzoron the Distorter",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Chizzoron the Distorter",
+    "isboss": "yes",
+    "behaviour": "Unknown.",
+    "location": "[[Zzaion]], most southern tower, 3rd floor.",
+    "iceDmgMod": "80%",
+    "strategy": "Unknown.",
+    "energyDmgMod": "80%",
+    "deathDmgMod": "70%"
+}

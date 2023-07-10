@@ -1,0 +1,136 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "Black Knights",
+    "hpDrainDmgMod": "100%?",
+    "notes": "He is a member of the [[TBI]] who turned the other way. \"Commander of the [[Royal Army]], assumed dead in the collapse of his unfinished home.\" <!--<--- SOURCE FOR THAT (Isn't he TBI field agent)?--> [[Spawn]] cannot be blocked.",
+    "walksthrough": "Fire, Energy, Poison",
+    "hp": "1800",
+    "bestiarytext": "The Black Knight is a deserted knight of the King's army. He lives deep in the swamps of Tibia and attacks every intruder of his sphere. Well-equipped, he is very strong in close combat and uses his spear for distance fighting.",
+    "speed": "?",
+    "abilities": "{{Ability List\n |{{Melee|0-300}}\n |{{Ability|Throws [[Spears]]|0-200|element=physical\n  |scene={{Scene|spell=5sqmstrike|background=canvas|caster=Black Knight|look_direction=south|missile=Spear Missile|missile_direction=south-east|missile_distance=5/5}}}}\n}}",
+    "pushobjects": "Yes",
+    "healMod": "100%?",
+    "paraimmune": "yes",
+    "fireDmgMod": "5%",
+    "holyDmgMod": "108%>?",
+    "sounds": [
+        "NO PRISONERS!",
+        "By Bolg's blood!",
+        "You're no match for me!",
+        "NO MERCY!",
+        "MINE!"
+    ],
+    "maxdmg": "{{Max Damage|physical=500}}",
+    "pushable": "No",
+    "usedelements": "Physical",
+    "runsat": "0",
+    "implemented": "5.0",
+    "loot": [
+        {
+            "amount": "0-136",
+            "itemName": "Gold Coin"
+        },
+        {
+            "amount": "0-3",
+            "itemName": "Spear"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "Brown Bread"
+        },
+        {
+            "itemName": "Rope"
+        },
+        {
+            "itemName": "Brass Legs"
+        },
+        {
+            "itemName": "Dark Armor"
+        },
+        {
+            "itemName": "Battle Hammer"
+        },
+        {
+            "itemName": "Dark Helmet"
+        },
+        {
+            "itemName": "Halberd"
+        },
+        {
+            "itemName": "Plate Armor"
+        },
+        {
+            "itemName": "Steel Helmet"
+        },
+        {
+            "itemName": "Two Handed Sword"
+        },
+        {
+            "itemName": "Knight Axe",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Warrior Helmet",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Knight Legs",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Ruby Necklace",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Knight Armor",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Dragon Lance",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Lightning Legs",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Piggy Bank",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Boots of Haste",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "None",
+    "exp": "1600",
+    "creatureclass": "Humans",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "90%",
+    "bosstiaryclass": "Bane",
+    "primarytype": "Outlaws",
+    "spawntype": [
+        "Regular",
+        "Unique",
+        "Unblockable"
+    ],
+    "race_id": "46",
+    "history": "Although the sprites for black knight were implemented on [[Updates/5.0|Update 5.0]], its spawn was probably added to the game with [[Updates/6.2|Update 6.2]] when [[Green Claw Swamp]] was revamped.",
+    "senseinvis": "yes",
+    "article": "a",
+    "actualname": "Black Knight",
+    "illusionable": "no",
+    "armor": "42",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "bestiaryname": "blackknight",
+    "name": "Black Knight",
+    "isboss": "yes",
+    "behaviour": "The Black Knight fights with [[Melee]] and throws [[Spear]]s when the enemy tries to escape.",
+    "location": "Only in [[Black Knight's Villa]] beneath the [[Green Claw Swamp]] (north-west of [[Venore]], {{Mapper Coords|128.58|124.214|7|2|text=here}}). You need to be over [[level]] 50 to enter.",
+    "iceDmgMod": "0%",
+    "strategy": "For [[Druid]]s and [[Sorcerers]] this is a very hard creature to hunt, forget your [[Icicle (Rune)|Icicle]] and your [[Stalagmite]] runes here, since he is immune to [[Earth Damage|Earth]] and [[Ice Damage]]. Since he's resistant to all other elements, the best you can do is to use [[Explosion]]s or [[Physical Strike]]s.<br />\n\nA basic strategy consists of the [[Knight]] blocking the '''Black Knight''' and [[Challenge]]s it whenever it retargets, while the [[Druid]]/[[Sorcerer]] uses the above. But the most efficient duo-strategy to kill it faster would be a [[Knight]] blocking while a [[Paladin]] uses [[Divine Missile]]s.\nNot a good creature to do a fast hunt on since he takes quite some time to [[respawn]] (around 10 minutes with regards to the [[Respawn|server state]]).\nIt is possible for a [[Paladin]] to solo this creature at level 50. It is reccomended that you take either [[Royal Spear]]s or [[Enchanted Spear]]s and a good [[Shields|shield]], though you should kill the [[Bonelord]]s first to avoid mana drain. If you can, also kill the [[Scorpion]]s too. This will dramatically increase your chances of succeeding.",
+    "energyDmgMod": "20%",
+    "deathDmgMod": "80%"
+}

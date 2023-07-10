@@ -1,0 +1,109 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "New creature in the [[Summer Update 2007]].",
+    "walksthrough": "None",
+    "hp": "100",
+    "abilities": "{{Ability List\n |{{Melee|0-50}}\n |{{Ability|[[Whirlwind Throw|Axe Throw]]|0-60|element=physical\n  |scene={{Scene|spell=5sqmstrike|background=canvas|caster=Barbarian Headsplitter|look_direction=south|missile=Throwing Axe Missile|missile_direction=south-east|missile_distance=5/5}}}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "holyDmgMod": "80%",
+    "maxdmg": "{{Max Damage|physical=110}}",
+    "pushable": "no",
+    "implemented": "8.00",
+    "loot": [
+        {
+            "amount": "0-30",
+            "itemName": "Gold Coin"
+        },
+        {
+            "itemName": "Torch"
+        },
+        {
+            "itemName": "Knife",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Brass Helmet",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Skull (Item)",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Viking Helmet",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Scale Armor",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Health Potion",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Brown Piece of Cloth",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Life Ring",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Fur Boots",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Krimhorn Helmet",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Fire, Energy, Poison",
+    "exp": "85",
+    "mitigation": "0.36",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "barbarian headsplitter",
+    "illusionable": "no",
+    "armor": "7",
+    "convince": "450",
+    "name": "Barbarian Headsplitter",
+    "isboss": "no",
+    "iceDmgMod": "50%",
+    "energyDmgMod": "80%",
+    "deathDmgMod": "110%",
+    "plural": "barbarian headsplitters",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "no",
+    "occurrence": "Common",
+    "bestiarytext": "The Barbarian Headsplitters are distance fighters that are shunned by the other raiders. They have failed in previous battles due to their cowardice or lack of skill and are therefore deprived the honour to challenge an enemy face to face. The harsh community of the barbarians makes it easy to fall in disgrace with their leaders. Those who are deemed unworthy have to atone for their failure by becoming second line support fighters and engaging an enemy from a distance. Only if their superiors see them fight recklessly, they might return to the ranks of the true warriors. Given the fact that distance fighting is seen as dishonourable, those barbarians have a hard time to get accepted by the tribe again. Seen as dispensable, other tribesmen do little to defend the distance fighters when they become cornered. As they rely on their own and constantly feel to have to prove themselves as worthy, the Barbarian Headsplitters fight twice as hard and fierce which makes them formidable opponents despite their low rank in their society.",
+    "speed": "84",
+    "pushobjects": "yes",
+    "fireDmgMod": "100%",
+    "sounds": [
+        "I will regain my honor with your blood!",
+        "Surrender is not option!",
+        "Its you or me!",
+        "Die! Die! Die!"
+    ],
+    "runsat": "0",
+    "bestiaryclass": "Human",
+    "creatureclass": "Humans",
+    "earthDmgMod": "110%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Barbarians",
+    "spawntype": [
+        "Regular",
+        "Raid"
+    ],
+    "race_id": "333",
+    "bestiarylevel": "Easy",
+    "senseinvis": "no",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "barbarianheadsplitter",
+    "behaviour": "Barbarian Headsplitters fight in close combat.",
+    "location": "[[Krimhorn]], [[Bittermor]], [[Ragnir]], and [[Fenrock]].",
+    "strategy": "Use the same strategy you would use for [[Dwarf Soldier]]s."
+}

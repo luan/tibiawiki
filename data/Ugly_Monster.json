@@ -1,0 +1,67 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "ugly monsters",
+    "hpDrainDmgMod": "100%?",
+    "notes": "These creatures may spawn as you kill one of the Cobra minibosses. some valuable items may appear on the floor as you attack them.",
+    "hp": "10000",
+    "abilities": "{{Ability List|}}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "yes",
+    "fireDmgMod": "80%",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        ""
+    ],
+    "pushable": "?",
+    "implemented": "12.20.8834",
+    "loot": [
+        {
+            "itemName": "Cobra Crossbow"
+        },
+        {
+            "itemName": "Cobra Boots"
+        },
+        {
+            "itemName": "Cobra Hood"
+        },
+        {
+            "itemName": "Cobra Axe"
+        },
+        {
+            "itemName": "Cobra Sword"
+        },
+        {
+            "itemName": "Cobra Wand"
+        },
+        {
+            "itemName": "Cobra Rod"
+        },
+        {
+            "itemName": "Cobra Club"
+        }
+    ],
+    "exp": "1000",
+    "creatureclass": "The Undead",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Undead Humanoids",
+    "spawntype": [
+        "Triggered"
+    ],
+    "senseinvis": "yes",
+    "article": "an",
+    "actualname": "ugly monster",
+    "illusionable": "no",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Ugly Monster",
+    "isboss": "no",
+    "behaviour": "Runs away from players.",
+    "location": "[[Cobra Bastion]]",
+    "iceDmgMod": "80%",
+    "strategy": "Unknown.",
+    "energyDmgMod": "80%",
+    "deathDmgMod": "0%"
+}

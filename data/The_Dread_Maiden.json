@@ -1,0 +1,133 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "The Dread Maiden's is initially strong to all damage types, however, as the battle progresses it will be weakened to the point it takes damage in a normal way. \n\nIt's part of the [[Feaster of Souls Quest]].",
+    "walksthrough": "Fire, Energy, Poison",
+    "hp": "300000",
+    "speed": "?",
+    "abilities": "{{Ability List| {{Melee|?}} }}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "fireDmgMod": "110%",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "?",
+    "pushable": "no",
+    "runsat": "0",
+    "implemented": "12.30.9287",
+    "cooldown": "20",
+    "loot": [
+        {
+            "amount": "2",
+            "itemName": "Crystal Coin"
+        },
+        {
+            "itemName": "White Gem"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Moonstone"
+        },
+        {
+            "amount": "6",
+            "itemName": "Supreme Health Potion"
+        },
+        {
+            "amount": "6",
+            "itemName": "Ultimate Spirit Potion"
+        },
+        {
+            "amount": "6",
+            "itemName": "Ultimate Mana Potion"
+        },
+        {
+            "amount": "10",
+            "itemName": "Berserk Potion"
+        },
+        {
+            "amount": "10",
+            "itemName": "Mastermind Potion"
+        },
+        {
+            "amount": "10",
+            "itemName": "Bullseye Potion"
+        },
+        {
+            "itemName": "Diamond"
+        },
+        {
+            "itemName": "Giant Amethyst"
+        },
+        {
+            "itemName": "Ivory Comb"
+        },
+        {
+            "itemName": "Cursed Bone"
+        },
+        {
+            "itemName": "Angel Figurine"
+        },
+        {
+            "itemName": "Silver Hand Mirror"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Death Toll"
+        },
+        {
+            "itemName": "Jagged Sickle"
+        },
+        {
+            "itemName": "Amber (Item)"
+        },
+        {
+            "itemName": "Amber with a Dragonfly"
+        },
+        {
+            "itemName": "Amber with a Bug"
+        },
+        {
+            "itemName": "Soulforged Lantern"
+        },
+        {
+            "itemName": "Spooky Hood"
+        },
+        {
+            "itemName": "Pair of Nightmare Boots"
+        },
+        {
+            "itemName": "Ghost Claw"
+        },
+        {
+            "itemName": "Dark Bell (Silver)"
+        },
+        {
+            "itemName": "Giant Topaz"
+        }
+    ],
+    "walksaround": "None.",
+    "exp": "72000",
+    "earthDmgMod": "100%",
+    "physicalDmgMod": "100%?",
+    "bosstiaryclass": "Archfoe",
+    "spawntype": [
+        "Triggered"
+    ],
+    "race_id": "1872",
+    "senseinvis": "yes",
+    "actualname": "The Dread Maiden",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "The Dread Maiden",
+    "isboss": "yes",
+    "location": "[[Zarganash]]",
+    "iceDmgMod": "100%?",
+    "strategy": "The blocker should take The Dread Maiden to a corner of the room and keep it there. During the fight, Red, Green and Blue ghosts will spawn in the room. These ghosts must be lured to vortices of their respective color in order to weaken the boss and keep it weakened afterwards. Be careful not to lure the ghosts onto the wrong vortex as this will cause them to heal the boss or deal damage to you. This should be done by the shooters so the blocker can focus on keeping the boss standing still.",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "-100%?"
+}

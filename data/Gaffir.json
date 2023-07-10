@@ -1,0 +1,93 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "It's an [[Order of the Cobra]] boss.\n{{JSpoiler|Part of the [[Grave Danger Quest]].}}",
+    "walksthrough": "?",
+    "hp": "48500",
+    "speed": "?",
+    "abilities": "{{Ability List| {{Melee|0-500+}}|{{Ability|[[Fire Damage|Fire Beam]]|300-600?|element=fire}}|{{Ability|[[Earth Damage|Earth Beam]]|300-600?|element=earth}}|{{Summon|Black Cobra|1}} }}",
+    "pushobjects": "yes",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "70%",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "1500+",
+    "pushable": "no",
+    "implemented": "12.20.8834",
+    "loot": [
+        {
+            "itemName": "Terra Rod"
+        },
+        {
+            "itemName": "Springsprout Rod"
+        },
+        {
+            "amount": "14-17",
+            "itemName": "Platinum Coin"
+        },
+        {
+            "itemName": "Great Spirit Potion"
+        },
+        {
+            "itemName": "Spellbook of Warding"
+        },
+        {
+            "itemName": "Ring of Healing"
+        },
+        {
+            "itemName": "Amulet of Loss"
+        },
+        {
+            "itemName": "Cobra Crest"
+        },
+        {
+            "itemName": "Small Ruby"
+        },
+        {
+            "itemName": "Small Sapphire"
+        },
+        {
+            "itemName": "Small Diamond"
+        },
+        {
+            "itemName": "Small Topaz"
+        },
+        {
+            "itemName": "Cobra Wand"
+        },
+        {
+            "itemName": "Cobra Rod"
+        },
+        {
+            "itemName": "Small Amethyst"
+        },
+        {
+            "itemName": "Small Emerald"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "25000",
+    "creatureclass": "Humans",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "80%",
+    "bosstiaryclass": "Bane",
+    "primarytype": "Members of the Order of the Cobra",
+    "race_id": "1778",
+    "senseinvis": "yes",
+    "actualname": "Gaffir",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Gaffir",
+    "isboss": "yes",
+    "behaviour": "Unknown",
+    "location": "[[Cobra Bastion]].",
+    "iceDmgMod": "100%",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "100%"
+}

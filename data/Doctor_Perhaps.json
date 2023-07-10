@@ -1,0 +1,60 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%",
+    "notes": "It's the first floor boss. Use his body to get a random reward before you use the body of Evil Mastermind, otherwise you may not get any item. Doubtlessly an allusion to \"Doctor No\", the villain in James Bond's first movie.",
+    "walksthrough": "None",
+    "hp": "475",
+    "speed": "?",
+    "abilities": "{{Ability List| {{Melee|0-43}}|{{Ability|[[Drown Damage|Drown Bomb]]|17-55|element=drowning}}|{{Ability|Poisons|up to 2 [[hp]]/turn|element=poisoned}}|{{Ability|[[Exori|Earth Berserk]] summons 2 [[Zombie]]s|element=summon}}|{{Healing}} }}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "90%",
+    "holyDmgMod": "80%",
+    "sounds": [
+        "I might use some parts of you in my next creation!",
+        "You're only a testsubject to me!",
+        "My creations will kill you!",
+        "You can't beat what you can't comprehend!"
+    ],
+    "maxdmg": "100 (506 with 2 summons)",
+    "pushable": "?",
+    "implemented": "8.50",
+    "loot": [
+        {
+            "itemName": "Mighty Helm of Green Sparks"
+        },
+        {
+            "itemName": "Trousers of the Ancients"
+        },
+        {
+            "itemName": "Meat Shield"
+        },
+        {
+            "itemName": "Glutton's Mace"
+        }
+    ],
+    "walksaround": "Fire, Energy, Poison",
+    "exp": "325",
+    "creatureclass": "Humans",
+    "earthDmgMod": "80%",
+    "physicalDmgMod": "105%",
+    "bosstiaryclass": "Bane",
+    "primarytype": "Sorcerers",
+    "race_id": "564",
+    "senseinvis": "yes",
+    "actualname": "Doctor Perhaps",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "0%",
+    "convince": "--",
+    "name": "Doctor Perhaps",
+    "isboss": "yes",
+    "behaviour": "Fights to death in close range.",
+    "location": "[[Isle of Evil]].",
+    "iceDmgMod": "80%",
+    "strategy": "Kill it fast.",
+    "energyDmgMod": "80%",
+    "deathDmgMod": "100%?"
+}

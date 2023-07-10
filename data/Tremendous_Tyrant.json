@@ -1,0 +1,134 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "walksthrough": "Fire, Energy",
+    "hp": "11500",
+    "lightcolor": "106",
+    "occurrence": "Common",
+    "bestiarytext": "The tremendous tyrants show signs of at least basic intelligence and are able to handle simple tools and probably even weaponry. Their primitive cunning combined with their cruelty, makes them packmasters in the ranks of the hordes from below. They seemingly trained the lesser and more primitive creatures to follow simple orders that the tyrants issue by light signals.<br/>To assure their dominance the tremendous tyrants sometimes cull their underlings by spectacular executions, that follow their cruel whims more than any strategic planning.<br/>As they are still vicious and wild they tend to lead from the front, not by plan but rather by attitude. It's not unheard of that a tremendous tyrant in frenzy completely forgets about his underlings and leaves them to their own devices.<br/>If a tremendous tyrant loses it's light organ, his capabilities to communicate are severely hampered. The organ usually grows back in a few weeks, yet some superiors have little patience with such underlings and executions of tyrants wounded that way are quite common.<br/>The tyrants are carnivorous and their behaviour suggests that they prey on the meat of strong opponents, often chasing away lesser minions to get their preferred meal.<br/>These violent taskmasters communicate with each other through their light signals in a fast way and are able to coordinate the attacks of their packs in frightening manners. The meanest and most vicious of them are known as alpha packmasters. Those have usually proven their supremacy over other tremendous tyrants in personal combat and often serve as the direct underlings of the leaders in the subterranean hordes. Such alphas are rare, however, and rarely seen in established territory as they are too useful in advance troops and larger moving armies.",
+    "speed": "115",
+    "abilities": "{{Ability List|}}",
+    "healMod": "100%",
+    "pushobjects": "yes",
+    "paraimmune": "yes",
+    "fireDmgMod": "100%",
+    "holyDmgMod": "100%",
+    "sounds": [],
+    "maxdmg": "?",
+    "pushable": "no",
+    "usedelements": "?",
+    "lightradius": "3",
+    "implemented": "12.70.10953",
+    "bestiaryclass": "Vermin",
+    "loot": [
+        {
+            "amount": "1-?",
+            "itemName": "Platinum Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Red Gem",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Gold Ingot",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Blue Crystal Shard",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Violet Crystal Shard",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Green Crystal Shard",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Tremendous Tyrant Shell",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Lightning Legs",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Glacier Robe",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Yellow Gem",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Hailstorm Rod",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Wand of Cosmic Energy",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Elven Amulet",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Ice Rapier",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Knight Axe",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Dragonbone Staff",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Focus Cape",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Spellbook of Warding",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Wand of Starstorm",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Warrior's Shield",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Tremendous Tyrant Head",
+            "rarity": "semi-rare"
+        }
+    ],
+    "walksaround": "Poison",
+    "exp": "6100",
+    "creatureclass": "Invertebrates",
+    "earthDmgMod": "120%",
+    "mitigation": "1.88",
+    "physicalDmgMod": "100%",
+    "primarytype": "Insects",
+    "race_id": "2089",
+    "bestiarylevel": "Hard",
+    "history": "On {{OfficialNewsArchive|6555|February 01, 2022}}, its loot was increased by 17%.",
+    "senseinvis": "yes",
+    "article": "a",
+    "actualname": "tremendous tyrant",
+    "illusionable": "no",
+    "armor": "71",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "bestiaryname": "tremendoustyrant",
+    "name": "Tremendous Tyrant",
+    "location": "[[Dwelling of the Forgotten]].",
+    "iceDmgMod": "85%",
+    "energyDmgMod": "80%",
+    "deathDmgMod": "100%"
+}

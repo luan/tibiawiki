@@ -1,0 +1,68 @@
+{
+    "summon": "420",
+    "templateType": "Creature",
+    "notes": "They're a bit stronger than a [[bear]]. These creatures will kill other monsters to get to you.",
+    "walksthrough": "None",
+    "hp": "75",
+    "abilities": "{{Ability List\n |{{Melee|0-40}}\n |{{Haste}}}}",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "holyDmgMod": "100%",
+    "maxdmg": "{{Max Damage|physical=40}}",
+    "pushable": "No",
+    "usedelements": "Physical",
+    "implemented": "7.5",
+    "loot": [
+        {
+            "amount": "0-4",
+            "itemName": "Meat",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Striped Fur",
+            "rarity": "uncommon"
+        }
+    ],
+    "walksaround": "Fire, Energy, Poison",
+    "exp": "40",
+    "mitigation": "0.38",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "tiger",
+    "illusionable": "yes",
+    "armor": "5",
+    "convince": "420",
+    "name": "Tiger",
+    "isboss": "no",
+    "iceDmgMod": "110%",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "110%",
+    "plural": "tigers",
+    "hpDrainDmgMod": "100%",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "The Tiger stalks through the jungle of Tiquanda, looking for its prey. It strikes by surprise, quickly and deadly. Fast and lethal, this fighting machine is a hurricane of teeth and claws when it comes to combat. Many hunters in the jungle suddenly became the hunted one when they crossed the path of this striped predator. Tigers are solitary creatures, although small Tiger families are not an uncommon view. Even though they are mostly hunting smaller mammals of the jungle, sometimes they are also after larger prey. They easily feel threatened and like most warlike creatures, they react on threats with violence. Tigers are agile and fast but lack endurance for longer pursuits. Still it is unlikely that a chosen victim manages to escape at all.",
+    "speed": "100",
+    "pushobjects": "yes",
+    "fireDmgMod": "100%",
+    "sounds": [
+        ""
+    ],
+    "bestiaryclass": "Mammal",
+    "creatureclass": "Mammals",
+    "earthDmgMod": "100%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Felines",
+    "spawntype": [
+        "Regular",
+        "Raid"
+    ],
+    "race_id": "125",
+    "bestiarylevel": "Easy",
+    "senseinvis": "no",
+    "drownDmgMod": "100%",
+    "bestiaryname": "tiger",
+    "behaviour": "They don't run when in low health.",
+    "location": "[[Tiquanda]], [[Meriana]], [[Arena and Zoo Quarter]]. Three unreachable ones are found in the [[Rookgaard Academy]], below [[Ankrahmun]] (during the [[Nomads Land Quest]]), and on [[Charles]]'s ship.",
+    "strategy": "Even if your [[melee]] skills are poor, with the proper equipment you will find absolutely no problem in killing these; just attack them."
+}

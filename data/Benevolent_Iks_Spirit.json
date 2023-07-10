@@ -1,0 +1,37 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "hp": "?",
+    "speed": "105",
+    "abilities": "{{Ability List}}",
+    "healMod": "100%?",
+    "fireDmgMod": "100%?",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        ""
+    ],
+    "implemented": "13.10.12852",
+    "loot": [],
+    "exp": "?",
+    "creatureclass": "The Undead",
+    "earthDmgMod": "100%?",
+    "mitigation": "?",
+    "physicalDmgMod": "100%?",
+    "primarytype": "Iks",
+    "spawntype": [
+        "Unblockable"
+    ],
+    "article": "a",
+    "actualname": "benevolent Iks spirit",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Benevolent Iks Spirit",
+    "behaviour": "Follows players while healing them.",
+    "location": "[[Iksupan]]",
+    "iceDmgMod": "100%?",
+    "energyDmgMod": "100%?",
+    "deathDmgMod": "100%?"
+}

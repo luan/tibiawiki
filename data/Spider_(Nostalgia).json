@@ -1,0 +1,55 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "spiders",
+    "hpDrainDmgMod": "100%?",
+    "notes": "This creature can only be seen during the [[Tibia Anniversary]].",
+    "isarenaboss": "no",
+    "walksthrough": "?",
+    "hp": "20",
+    "speed": "?",
+    "abilities": "{{Ability List|{{Melee|0-25}}}}",
+    "pushobjects": "no",
+    "healMod": "100%?",
+    "paraimmune": "no",
+    "fireDmgMod": "101%>?",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "{{Max Damage|physical=25?}}",
+    "pushable": "yes",
+    "usedelements": "Physical",
+    "implemented": "9.44",
+    "loot": [
+        {
+            "amount": "0-5",
+            "itemName": "Gold Coin"
+        },
+        {
+            "itemName": "Spider Fangs"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "10",
+    "creatureclass": "Invertebrates",
+    "earthDmgMod": "100%?",
+    "physicalDmgMod": "100%?",
+    "primarytype": "Arachnids",
+    "senseinvis": "no",
+    "article": "a",
+    "actualname": "spider",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Spider (Nostalgia)",
+    "isboss": "no",
+    "behaviour": "Same as the [[Spider]].",
+    "location": "[[Nostalgia Island]]. Inside [[The Supreme Cube]].",
+    "iceDmgMod": "100%?",
+    "strategy": "Same as the [[Spider]].",
+    "energyDmgMod": "100%?",
+    "deathDmgMod": "100%?",
+    "status": "event"
+}

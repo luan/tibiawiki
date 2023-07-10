@@ -1,0 +1,93 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "walksthrough": "?",
+    "hp": "3570",
+    "abilities": "{{Ability List|}}",
+    "pushobjects": "yes",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "100%?",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "?",
+    "pushable": "no",
+    "usedelements": "?",
+    "implemented": "12.85.11485",
+    "loot": [
+        {
+            "itemName": "White Pearl"
+        },
+        {
+            "itemName": "Cookie"
+        },
+        {
+            "itemName": "Strong Health Potion"
+        },
+        {
+            "itemName": "Small Ruby"
+        },
+        {
+            "itemName": "Opal"
+        },
+        {
+            "itemName": "Meat"
+        },
+        {
+            "itemName": "Small Stone"
+        },
+        {
+            "itemName": "Special Fx Box"
+        },
+        {
+            "itemName": "Gold Coin"
+        },
+        {
+            "itemName": "Onyx Chip"
+        },
+        {
+            "itemName": "Pot"
+        },
+        {
+            "itemName": "Power Ring"
+        },
+        {
+            "itemName": "Club Ring"
+        },
+        {
+            "itemName": "Candy Floss (Large)"
+        },
+        {
+            "itemName": "Bottle of Champagne"
+        },
+        {
+            "itemName": "Rusted Helmet"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "1680",
+    "creatureclass": "Humanoids",
+    "earthDmgMod": "100%?",
+    "physicalDmgMod": "100%?",
+    "primarytype": "Giants",
+    "spawntype": [
+        "Unblockable"
+    ],
+    "race_id": "2180",
+    "senseinvis": "yes",
+    "article": "a",
+    "actualname": "memory of an ogre",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Memory of an Ogre",
+    "isboss": "no",
+    "location": "[[Time Travel Dungeon]]",
+    "iceDmgMod": "100%?",
+    "energyDmgMod": "100%?",
+    "deathDmgMod": "100%?"
+}

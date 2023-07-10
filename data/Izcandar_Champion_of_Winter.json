@@ -1,0 +1,170 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "This is the Winter form of Izcandar, the others being [[Izcandar the Banished]] and [[Izcandar Champion of Summer]].\n\n{{JSpoiler|It's one of the bosses of [[The Dream Courts Quest]].}}",
+    "walksthrough": "Fire, Energy, Poison",
+    "hp": "?",
+    "speed": "?",
+    "abilities": "{{Ability List| {{Melee|0-500?}}|{{Ability|Ice Beam|500-1000?|element=ice}}|{{Ability|Ice Wave|500-1000?|element=ice}} }}",
+    "pushobjects": "yes",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "secondarytype": "Dreamelves",
+    "fireDmgMod": "110%",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "2500+",
+    "pushable": "no",
+    "runsat": "0",
+    "implemented": "12.00.7695",
+    "loot": [
+        {
+            "itemName": "Energy Bar"
+        },
+        {
+            "amount": "2",
+            "itemName": "Gold Token"
+        },
+        {
+            "itemName": "Piggy Bank"
+        },
+        {
+            "amount": "5",
+            "itemName": "Platinum Coin"
+        },
+        {
+            "amount": "2",
+            "itemName": "Silver Token"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Yellow Gem"
+        },
+        {
+            "amount": "6-20",
+            "itemName": "Supreme Health Potion"
+        },
+        {
+            "amount": "6-14",
+            "itemName": "Ultimate Mana Potion"
+        },
+        {
+            "amount": "6-20",
+            "itemName": "Ultimate Spirit Potion"
+        },
+        {
+            "itemName": "Huge Chunk of Crude Iron"
+        },
+        {
+            "itemName": "Red Gem"
+        },
+        {
+            "itemName": "Ring of Blue Plasma"
+        },
+        {
+            "amount": "10",
+            "itemName": "Bullseye Potion"
+        },
+        {
+            "itemName": "Chaos Mace"
+        },
+        {
+            "itemName": "Giant Shimmering Pearl"
+        },
+        {
+            "itemName": "Blue Gem"
+        },
+        {
+            "amount": "10",
+            "itemName": "Mastermind Potion"
+        },
+        {
+            "amount": "100",
+            "itemName": "Royal Star"
+        },
+        {
+            "itemName": "Winterblade"
+        },
+        {
+            "amount": "10",
+            "itemName": "Berserk Potion"
+        },
+        {
+            "itemName": "Collar of Green Plasma"
+        },
+        {
+            "itemName": "Collar of Red Plasma"
+        },
+        {
+            "amount": "2",
+            "itemName": "Crystal Coin"
+        },
+        {
+            "itemName": "Ornate Locket"
+        },
+        {
+            "itemName": "Pomegranate"
+        },
+        {
+            "itemName": "Ring of Red Plasma"
+        },
+        {
+            "itemName": "Ring of the Sky"
+        },
+        {
+            "itemName": "Skull Staff"
+        },
+        {
+            "itemName": "Izcandar's Snow Globe"
+        },
+        {
+            "itemName": "Mysterious Remains"
+        },
+        {
+            "itemName": "Magic Sulphur"
+        },
+        {
+            "itemName": "Green Gem"
+        },
+        {
+            "itemName": "Gold Ingot"
+        },
+        {
+            "itemName": "Ice Shield"
+        },
+        {
+            "itemName": "Violet Gem"
+        },
+        {
+            "itemName": "Ring of Green Plasma"
+        }
+    ],
+    "walksaround": "None",
+    "exp": "55000",
+    "creatureclass": "Humanoids",
+    "earthDmgMod": "100%",
+    "physicalDmgMod": "100%?",
+    "bosstiaryclass": "Nemesis",
+    "primarytype": "Elves",
+    "spawntype": [
+        "Triggered"
+    ],
+    "race_id": "1701",
+    "senseinvis": "yes",
+    "actualname": "Izcandar Champion of Winter",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Izcandar Champion of Winter",
+    "isboss": "yes",
+    "behaviour": "Izcandar retargets very often and the blocker should use [[Challenge]] frequently.",
+    "location": "The Dream Scar.",
+    "iceDmgMod": "-100%",
+    "strategy": "Avoid staying in front of it at all costs, since its Beam and Wave attacks are its most powerful source of damage. There are two ways of killing it: the first is to constantly kill the summons in the room using area attacks, and for this mages should abuse their Earth and Energy waves as well as use [[Thunderstorm Rune]]s. This method is the safest but also take longer. The other method consists in using mostly single target attacks and focusing on the boss, allowing the summons to stay alive with the blocker and some of the shooters. This method is fastest but also more dangerous and only recommended for experienced teams.",
+    "energyDmgMod": "95%",
+    "deathDmgMod": "90%?"
+}

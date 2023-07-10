@@ -1,0 +1,78 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "salamander trainers",
+    "hpDrainDmgMod": "100%?",
+    "notes": "It presumably trains the [[Troll-Trained Salamander|Salamanders]] on [[Dawnport]]. Its name and abilities suggest it has an important role, but it isn't involved in any of the quests.",
+    "walksthrough": "--",
+    "hp": "220",
+    "speed": "145",
+    "abilities": "{{Ability List\n |{{Melee|0-23?}}\n |{{Summon|Troll-Trained Salamander|1}}\n |{{Healing|range=11-25}}\n |{{Ability|Troll Yelp|unknown effect|?\n  |scene={{Scene|spell=plusspell|effect=Red Notes Effect|caster=Salamander Trainer|effect_on_caster=yes}}}}\n}}",
+    "pushobjects": "No",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "85%",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "{{Max Damage|physical=23?|summons=20}}",
+    "pushable": "Yes",
+    "usedelements": "Physical",
+    "runsat": "0",
+    "implemented": "10.55",
+    "loot": [
+        {
+            "amount": "0-18",
+            "itemName": "Gold Coin"
+        },
+        {
+            "amount": "0-4",
+            "itemName": "Meat"
+        },
+        {
+            "amount": "0-3",
+            "itemName": "Spear"
+        },
+        {
+            "itemName": "Rope"
+        },
+        {
+            "itemName": "Axe"
+        },
+        {
+            "itemName": "Short Sword"
+        },
+        {
+            "itemName": "Bone Club"
+        },
+        {
+            "itemName": "Bunch of Troll Hair"
+        }
+    ],
+    "walksaround": "Energy, Fire, Poison",
+    "exp": "70",
+    "creatureclass": "Humanoids",
+    "earthDmgMod": "85%?",
+    "physicalDmgMod": "100%?",
+    "primarytype": "Trolls",
+    "spawntype": [
+        "Regular"
+    ],
+    "race_id": "1071",
+    "senseinvis": "?",
+    "article": "a",
+    "actualname": "salamander trainer",
+    "illusionable": "no",
+    "armor": "7",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Salamander Trainer",
+    "isboss": "no",
+    "behaviour": "Very fast and powerful.",
+    "location": "[[Dawnport]] Troll Cave ({{Mapper Coords|125.4|124.55|10|4|text=here}}).",
+    "iceDmgMod": "100%?",
+    "strategy": "It has massive defense, so knights will struggle to damage it, especially with its fast healing. Mages have an advantage here.\nIt is a good creature to train skills on.",
+    "energyDmgMod": "85%",
+    "deathDmgMod": "100%?"
+}

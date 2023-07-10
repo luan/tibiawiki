@@ -1,0 +1,83 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "There are 2 types of blood crabs - the ones that [[Blood Crab|live on land]] and the ones that live underwater.<br />The ones that live on land usually spawn with other turtles around. The underwater ones also hit slightly harder.",
+    "walksthrough": "Poison",
+    "hp": "320",
+    "abilities": "{{Ability List\n |{{Melee|0-115}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "?",
+    "holyDmgMod": "100%",
+    "maxdmg": "{{Max Damage|physical=115}}",
+    "pushable": "?",
+    "usedelements": "Physical",
+    "implemented": "8.20",
+    "loot": [
+        {
+            "amount": "0-20",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Fish",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Bloody Pincers",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Chain Armor",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Brass Legs",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "White Pearl",
+            "rarity": "rare"
+        }
+    ],
+    "walksaround": "Fire, Energy",
+    "exp": "180",
+    "mitigation": "0.56",
+    "attacktype": "Melee",
+    "history": "These were simply named ''Blood Crabs'' before the [[2016 Winter Update]], which made it hard to differentiate them from the terrestrial [[Blood Crab]]s with the same name.",
+    "article": "a",
+    "actualname": "deepsea blood crab",
+    "illusionable": "yes",
+    "armor": "28",
+    "convince": "--",
+    "name": "Deepsea Blood Crab",
+    "isboss": "no",
+    "iceDmgMod": "0%",
+    "energyDmgMod": "105%",
+    "deathDmgMod": "100%",
+    "plural": "deepsea blood crabs",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "no",
+    "occurrence": "Common",
+    "speed": "190",
+    "pushobjects": "?",
+    "fireDmgMod": "110%",
+    "sounds": [
+        ""
+    ],
+    "bestiaryclass": "Aquatic",
+    "creatureclass": "Invertebrates",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "95%",
+    "primarytype": "Crustaceans",
+    "spawntype": [
+        "Regular",
+        "Unblockable"
+    ],
+    "race_id": "437",
+    "bestiarylevel": "Easy",
+    "senseinvis": "?",
+    "drownDmgMod": "0%",
+    "behaviour": "Rarely retargets.",
+    "location": "[[Svargrond]] ([[Sea Serpent Area]]), [[Drefia]] ({{Mapper Coords|128.200|126.196|8|4|text=here}}). There is also one under [[Rookgaard Academy]], however it is unreachable.",
+    "strategy": "Knights should just melee. Paladins should use a one-handed weapon (such as [[Royal Spear|royal spears]] or [[Enchanted Spear|enchanted spears]]) and a shield. Mages should use a wand/rod that does energy or death damage and [[Energy Strike|exori vis]]. All vocations should avoid getting surrounded."
+}

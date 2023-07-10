@@ -1,0 +1,80 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "Spawns with 0-2 [[Lizard Chosen]]s. Kill it the same way you'd kill a [[Lizard Chosen]].",
+    "isarenaboss": "no",
+    "walksthrough": "?",
+    "hp": "5500",
+    "speed": "?",
+    "abilities": "{{Ability List| {{Melee|0-400+}}|{{Ability|[[Berserk|Poison Berserk]]|0-350|element=poison}}|{{Ability|[[Poison Beam]]|?|element=poison}}|{{Ability|[[Poison Wave]]|poisons you|element=poisoned}}|{{Healing}} }}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "secondarytype": "The Undead",
+    "fireDmgMod": "100%?",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "800+",
+    "pushable": "?",
+    "implemented": "8.54",
+    "loot": [
+        {
+            "amount": "0-95+",
+            "itemName": "Gold Coin"
+        },
+        {
+            "amount": "0-5+",
+            "itemName": "Platinum Coin"
+        },
+        {
+            "itemName": "Spiked Iron Ball"
+        },
+        {
+            "itemName": "Cursed Shoulder Spikes"
+        },
+        {
+            "itemName": "Corrupted Flag"
+        },
+        {
+            "itemName": "Gold Ingot"
+        },
+        {
+            "itemName": "Scale of Corruption"
+        },
+        {
+            "itemName": "Zaoan Shoes"
+        },
+        {
+            "itemName": "Zaoan Helmet"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "3500",
+    "creatureclass": "Lizards",
+    "earthDmgMod": "100%?",
+    "physicalDmgMod": "100%?",
+    "bosstiaryclass": "Nemesis",
+    "primarytype": "High Class Lizards",
+    "spawntype": [
+        "Raid",
+        "Unique",
+        "Unblockable"
+    ],
+    "race_id": "636",
+    "senseinvis": "?",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "The Voice of Ruin",
+    "isboss": "yes",
+    "behaviour": "Unknown.",
+    "location": "[[Corruption Hole]]. One spawn point is near the eye, {{Mapper Coords|130.30|121.154|9|4|text=here}}, and the other spawn point is with the Ghastly Dragons, {{Mapper Coords|130.3|121.111|9|2|text=here}}.",
+    "iceDmgMod": "100%?",
+    "strategy": "Unknown.",
+    "energyDmgMod": "100%?",
+    "deathDmgMod": "100%?"
+}

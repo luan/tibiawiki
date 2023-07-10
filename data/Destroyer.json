@@ -1,0 +1,150 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "It is very similar to a [[Behemoth]]. However, Destroyers are slightly more powerful, and drop loot much more frequently. It is also important to note that [[Behemoth]]s are resistant to [[Holy Damage]], whereas Destroyers are weak to [[Holy Damage]].\n\n{{JSpoiler|You may hunt 650 of these as a task of the [[Killing in the Name of... Quest]]. Upon completion of the task you will face [[Bretzecutioner]].}}",
+    "walksthrough": "Energy",
+    "hp": "3700",
+    "abilities": "{{Ability List\n |{{Melee|0-500}}\n |{{Ability|Throws [[Boulder]]s|0-200|element=physical\n  |scene={{Scene|spell=5sqmstrike|background=dirt_floor|caster=Destroyer|look_direction=south|effect=Blood Effect|missile=Stone Missile|missile_direction=south-east|missile_distance=5/5}}}}\n |{{Haste}}}}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "holyDmgMod": "103%",
+    "maxdmg": "{{Max Damage|physical=700}}",
+    "pushable": "no",
+    "implemented": "7.9",
+    "loot": [
+        {
+            "amount": "1-341",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-6",
+            "itemName": "Meat",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Demonic Essence",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Crowbar",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-12",
+            "itemName": "Burst Arrow",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Dark Armor",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Small Amethyst",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Metal Spike",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Soul Orb",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Pick",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Plate Armor",
+            "rarity": "semi-rare"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "Platinum Coin",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Giant Sword",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Great Health Potion",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Steel Boots",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Chaos Mace",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Dreaded Cleaver",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Mind Stone",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Crystal Necklace",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Death Ring",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Skull Helmet",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Fire, Poison",
+    "exp": "2500",
+    "mitigation": "1.74",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "destroyer",
+    "illusionable": "no",
+    "armor": "35",
+    "convince": "--",
+    "name": "Destroyer",
+    "isboss": "no",
+    "iceDmgMod": "115%",
+    "energyDmgMod": "0%",
+    "deathDmgMod": "80%",
+    "plural": "destroyers",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "The Destroyers, a rather minor demonic race, can be found at many places serving many purposes. By all accounts much stronger than smart, they are particularly effective in close combat. Powerful enough to be noticed by other demons but still too weak to be of any importance, Destroyers love to torment and bully creatures that are lower in the demonic pecking order. This gets them often into fights with the smart but physically weak imps. Since both races feel superior over the other, they do not get along too well.<br />Under a strict leadership the Destroyers prove quite competent in the area they are employed, which is usually to destroy things and to mash people. However, their true strength comes through quantity. Demons of higher ranks like to accumulate a horde of such minions and let them loose on a target. Such an unleashed horde of Destroyers is virtually  unstoppable. Having a seemingly endless supply on Destroyers, only the difficultly to enter the realms of the mortals keeps the demons from using them on a larger scale.",
+    "speed": "150",
+    "pushobjects": "yes",
+    "fireDmgMod": "70%",
+    "sounds": [
+        "COME HERE AND DIE!",
+        "Destructiooooon!",
+        "It's a good day to destroy!"
+    ],
+    "runsat": "0",
+    "bestiaryclass": "Demon",
+    "creatureclass": "Demons",
+    "earthDmgMod": "80%",
+    "physicalDmgMod": "80%",
+    "primarytype": "Demons",
+    "spawntype": [
+        "Regular",
+        "Unblockable"
+    ],
+    "race_id": "287",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "destroyer",
+    "behaviour": "They are extremely fast when hasted but slower than a behemoth if they don't haste.",
+    "location": "[[Pits of Inferno]], [[Formorgar Mines]], [[Alchemist Quarter]], [[Oramond Dungeon]] and [[Grounds of Destruction]].",
+    "strategy": "They are pretty much like a [[Behemoth]] with the same attacks and slightly less hit points. A blocker is recommended to hunt these, a 100+ [[Paladin]] or a 80+ [[Knight]] should be fine, while 1 or more shooter attack it. Mages should attack with [[Ice Strike]] while paladins use [[Divine Missile]] along with their desired distance weapon.\n\nAn effective spot for '''Paladins''' is deep in the Formorgar mines ([https://www.youtube.com/watch?v=Sim9bHqjj_g according to this video]), {{Mapper Coords|text=here|125.27|121.185|11|8|1|0.1250.125}}, where you can throw a fire wall from the south-east corner to where the mineshaft tracks intersect, forcing destroyers to go diagonal at the north-east nook created by the wall. From there, just walk back and forth between the intersection while luring more destroyers from the east and south. Try to avoid the west end of the mine as there is a [[Plaguesmith]] that will walk right through the wall and be an all around nuisance.\n\n'''[[Knight]]s''' can solo hunt Destroyers with ease and profit if they are level 200+ and are using an elemental ice weapon such as [[Winterblade]] or [[Cobra Axe]] and [[Summon Skullfrost]]."
+}

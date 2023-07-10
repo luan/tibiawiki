@@ -1,0 +1,151 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "<p><noinclude>[[File:Ogre Brute Artwork.jpg|350px]]</noinclude></p>",
+    "walksthrough": "Poison",
+    "hp": "1000",
+    "abilities": "{{Ability List| {{Melee|0-385}}|{{Ability|Distance [[Boulder]] [[Explosion]]|0-100?|element=?}}|{{Ability|[[Paralyze]]|element=paralyze}}|{{Ability|Smoke Exori|60-90|element=?}}|{{Ability|small wave of [[Drunkenness]]|element=drunk}}|{{Ability|Dizzyness Ball of 3x3 SQM on target|paralyze|element=paralyze}} }}",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "holyDmgMod": "80%",
+    "maxdmg": "500+",
+    "pushable": "no",
+    "implemented": "10.90",
+    "loot": [
+        {
+            "amount": "1-125",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Meat",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Strong Health Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Ogre Nose Ring",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Ogre Ear Stud",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-5",
+            "itemName": "Cookie",
+            "rarity": "semi-rare"
+        },
+        {
+            "amount": "1-5",
+            "itemName": "Small Stone",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Battle Stone",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Skull Fetish",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Power Ring",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Club Ring",
+            "rarity": "semi-rare"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Onyx Chip",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Small Ruby",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "White Pearl",
+            "rarity": "semi-rare"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Opal",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Ogre Klubba",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Rusted Helmet",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Ancient Stone",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Pot",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Bonebreaker",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Shamanic Mask",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Butcher's Axe",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Energy, Fire",
+    "exp": "800",
+    "mitigation": "1.18",
+    "attacktype": "Melee",
+    "article": "an",
+    "actualname": "ogre brute",
+    "illusionable": "no",
+    "armor": "41",
+    "convince": "--",
+    "name": "Ogre Brute",
+    "isboss": "no",
+    "iceDmgMod": "80%",
+    "energyDmgMod": "110%",
+    "deathDmgMod": "90%",
+    "plural": "ogre brutes",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "Ogres are large, downright monstrous in appearance, considerably dwarfing even tall orcs. They have a plump, corpulent body, chunky hands and feet and a small, seemingly neckless head. An average adult ogre stands over twelve feet tall, and his waist circumference is almost the half of his height. Most ogres are bald and only rarely have facial hair. They use wooden clubs as weapons, banded, studded or spiked with iron; but stone hatchets or fork-like weapons are also common. While missile combat with bows or crossbows is too difficult for them, they are good at throwing heavy things, particularly boulders. They mature more quickly than humans, reaching adulthood at the age of twelve.\n\nOgres live in tribes that inhabit the steppe and grassland of Krailos, for the most part dwelling in big leather tents or stone huts, though some ogre tribes still have nomadic tendencies. Leader of a tribe is usually the strongest male ogre. The chieftain is supported by an ogre-shaman. If the shaman is female, the two are often, but not necessarily, a couple. The chieftain is responsible for all decisions concerning the hunt and martial matters while the shaman is responsible for all affairs spiritual and social. \n\nAlthough the ogres are a warlike, often brutal people, they are mostly interested in good food rather than in anything else. Ogres worship the Great Hunger, a kind of spirit being they believe will eat up the entire world if not fed regularly. Therefore they often perform rites of sacrifice (of food and of living creatures) to feed this entity.\n\nMost male ogres come in two varieties, brutes and savages. Their main task is to fight for the clan or to scout the steppe for something edible. Ogre brutes specialise in hurling boulders and brute force, punching and crushing their enemy with their enormous body weight. Sometimes, however, they may also carry a single large club or heavy axe for emphasis.",
+    "speed": "102",
+    "pushobjects": "yes",
+    "fireDmgMod": "80%",
+    "sounds": [
+        "You so juicy!",
+        "Smash you face in!!!",
+        "You stop! You lunch!"
+    ],
+    "runsat": "0",
+    "bestiaryclass": "Giant",
+    "creatureclass": "Humanoids",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "80%",
+    "primarytype": "Giants",
+    "race_id": "1161",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "ogrebrute",
+    "behaviour": "Fights in close combat.",
+    "location": "[[Krailos Steppe]].",
+    "strategy": "Ogre Brutes are fairly slow but have a very strong melee, and although they dont use the smoke exori or the distance fighting very often, it can combo its abilities dealing very heavy damage.\nBe on guard as it uses its paralyze ball and drunkness wave often.\nIt is suggested to wear a [[dwarven ring]] if you are a low level mage or paladin. \nIt is weak to [[Energy Damage]], if you are a mage you can use energy type attacks."
+}

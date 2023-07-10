@@ -1,0 +1,84 @@
+{
+    "summon": "300",
+    "templateType": "Creature",
+    "plural": "brittle skeletons",
+    "hpDrainDmgMod": "100%?",
+    "notes": "A weaker version of a normal [[Skeleton]].",
+    "walksthrough": "?",
+    "hp": "50",
+    "speed": "73",
+    "abilities": "{{Ability List| {{Melee|?}}|{{Ability|[[Life Drain]]|5-?|element=lifedrain}} }}",
+    "pushobjects": "No",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "100%?",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "?",
+    "pushable": "Yes",
+    "implemented": "10.55",
+    "loot": [
+        {
+            "amount": "0-5",
+            "itemName": "Gold Coin"
+        },
+        {
+            "itemName": "Bone"
+        },
+        {
+            "itemName": "Torch"
+        },
+        {
+            "itemName": "Mace",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Sword",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Hatchet",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Viking Helmet",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Studded Armor",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Brass Shield",
+            "rarity": "rare"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "35",
+    "creatureclass": "The Undead",
+    "earthDmgMod": "100%?",
+    "physicalDmgMod": "100%?",
+    "primarytype": "Skeletons",
+    "spawntype": [
+        "Regular",
+        "Unblockable"
+    ],
+    "race_id": "1074",
+    "senseinvis": "?",
+    "article": "a",
+    "actualname": "brittle skeleton",
+    "illusionable": "yes",
+    "armor": "2",
+    "drownDmgMod": "100%?",
+    "convince": "300",
+    "name": "Brittle Skeleton",
+    "isboss": "no",
+    "behaviour": "Unknown",
+    "location": "[[Dawnport]].",
+    "iceDmgMod": "100%?",
+    "strategy": "Unknown",
+    "energyDmgMod": "100%?",
+    "deathDmgMod": "100%?"
+}

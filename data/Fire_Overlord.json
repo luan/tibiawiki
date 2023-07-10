@@ -1,0 +1,77 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "New creature in [[Updates/8.2|Summer Update 2008]]. Do not be frightened to face it. Just run and shoot [[Sudden Death]] runes, but do not forget to keep your magic shield on.",
+    "isarenaboss": "no",
+    "walksthrough": "?",
+    "hp": "4000",
+    "lightcolor": "212",
+    "speed": "?",
+    "abilities": "{{Ability List| {{Melee|0-450}}|{{Ability|[[Paralyze]]|ultimate explosion size|element=paralyze}}|{{Ability|[[Soulfire|Fire Missile]]|sets you on fire|element=fire}}|{{Ability|invisible [[Flame Beam]]|400-1100|element=fire}} }}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "secondarytype": "Elemental Lords",
+    "fireDmgMod": "0%",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "~1200+",
+    "pushable": "?",
+    "lightradius": "5",
+    "implemented": "8.20",
+    "loot": [
+        {
+            "amount": "0-125?",
+            "itemName": "Gold Coin"
+        },
+        {
+            "amount": "0-3?",
+            "itemName": "Platinum Coin"
+        },
+        {
+            "itemName": "Coal",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Lavos Armor",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Magma Coat",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Eternal Flames",
+            "rarity": "always"
+        },
+        {
+            "itemName": "Fiery Heart",
+            "rarity": "always"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "2800",
+    "creatureclass": "Elementals",
+    "earthDmgMod": "20%<",
+    "physicalDmgMod": "99%<?",
+    "primarytype": "Pyro-Elementals",
+    "race_id": "449",
+    "senseinvis": "?",
+    "article": "a",
+    "actualname": "Fire Overlord",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Fire Overlord",
+    "isboss": "yes",
+    "behaviour": "Behaves similar and looks like a [[Hellfire Fighter]].",
+    "location": "[[The Elemental Spheres Quest]], [[Sorcerer]]'s part - [[Fire Sphere]].",
+    "iceDmgMod": "125%>",
+    "strategy": "Run it and use [[Sudden Death Rune]]s.",
+    "energyDmgMod": "80%<",
+    "deathDmgMod": "80%<"
+}

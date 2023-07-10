@@ -1,0 +1,63 @@
+{
+    "summon": "335",
+    "templateType": "Creature",
+    "notes": "Their difficulty increased during [[Updates/8.2|Summer Update 2008]], when their experience rose from 30 to 34. Before this  update they used to drop [[Poison Dagger]] as a very rare loot.",
+    "walksthrough": "Poison",
+    "hp": "70",
+    "abilities": "{{Ability List|{{Melee|0-45|poison=1}}}}",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "holyDmgMod": "100%",
+    "maxdmg": "46",
+    "pushable": "Yes",
+    "usedelements": "Physical > Earth",
+    "implemented": "7.5",
+    "loot": [
+        {
+            "amount": "0-15",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Centipede Leg",
+            "rarity": "uncommon"
+        }
+    ],
+    "walksaround": "Fire, Energy",
+    "exp": "34",
+    "mitigation": "0.23",
+    "history": "As of November 16, 2011, Centipedes as well as other poison-causing creatures can no longer be convinced. This was to prevent PvP abuse whereby a player would trick another player into convincing creatures that would later frag low level characters with poison applied earlier. After enough kills the player would obtain a [[Red Skull]] and would lose all items belonging to them upon being killed. More can be read in the news article \"{{OfficialNewsArchive|1894|Content Fixes}}\".",
+    "article": "a",
+    "actualname": "centipede",
+    "illusionable": "yes",
+    "armor": "8",
+    "convince": "--",
+    "name": "Centipede",
+    "isboss": "no",
+    "iceDmgMod": "80%",
+    "energyDmgMod": "90%",
+    "deathDmgMod": "100%",
+    "plural": "centipedes",
+    "hpDrainDmgMod": "100%",
+    "occurrence": "Common",
+    "bestiarytext": "The poisonous Centipede is a pest that is native of the Tiquandan jungle. Somehow a few of the creatures managed to sneak on ships and spread all over the world. Being mainly a scavenger, the Centipede rarely hunts actively for prey; but if it runs into a creature, it will attack it nonetheless. Given the fact that it does not have to kill for a living, the Centipede is astonishingly tough and challenging in combat. Being fast and poisonous, the Centipede can be quite dangerous, and its fertility causes its appearance in large numbers. This creature seems ineradicable, several extermination campaigns have already failed. Wherever a carrion is laying, a Centipede is close. However, it prefers to live in caves and narrow tunnels. Mould and decay seem to attract it and not little made their homes in the sewers of the cities.",
+    "speed": "83",
+    "pushobjects": "Yes",
+    "fireDmgMod": "115%",
+    "sounds": [
+        ""
+    ],
+    "runsat": "0",
+    "bestiaryclass": "Vermin",
+    "creatureclass": "Invertebrates",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Myriapods",
+    "race_id": "124",
+    "bestiarylevel": "Easy",
+    "senseinvis": "no",
+    "drownDmgMod": "100%",
+    "bestiaryname": "centipede",
+    "location": "All around [[Port Hope]] and [[Tiquanda]], [[Dark Cathedral]], [[Vandura]], [[Meriana]], [[Razachai]], and [[Slime]] cave east of [[Venore]], [[Arena and Zoo Quarter]], [[Gnarlhound Caves]].",
+    "strategy": "Unless there is a large group of Centipedes, it isn't worth using runes on them. They have fairly low health, but when attacking in groups (or when your [[shielding]] is broken) they can be dangerous for players with low health. Use [[wand]]s/[[rod]]s, [[melee]], or [[Distance Fighting|Distance]] to kill them. If you fear being [[poisoned]], make sure you have enough mana to cast [[Antidote]] or have an [[Antidote Rune]]."
+}

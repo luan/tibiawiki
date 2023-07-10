@@ -1,0 +1,143 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "They say (translated from latin) \"In wine there is truth\".\n<gallery hideaddbutton=\"true\" position=\"center\" style=\"text-align:center\" captionalign=\"center\" mode=\"nolines\">\nFaun Artwork.jpg|Official [[Creature Artwork]]\n</gallery>",
+    "walksthrough": "?",
+    "hp": "900",
+    "abilities": "{{Ability List\n |{{Melee|0-360}}\n |{{Ability|Earth Strike|60-80|element=earth\n   |scene={{Scene|spell=1sqmstrike|effect_on_target=Poison Effect 1|damage_effect=Stone Shower Single Field Effect|missile=Small Stone Missile|missile_direction=south-east|missile_distance=1/1|caster=Faun}}}}\n |{{Ability|throws [[Leaf Star]]s|0-100|element=physical\n   |scene={{Scene|spell=2sqmstrike|effect_on_target=Green Smoke Effect|missile=Leaf Star Missile|missile_direction=south-east|missile_distance=2/2|caster=Faun}}}}\n |{{Ability|Purple Notes Wave|causes [[drunkenness]] for 5 seconds|element=drunk\n   |scene={{Scene|spell=5sqmwavewide3|effect=Purple Notes Effect|caster=Faun|look_direction=east}}}}\n |{{Healing|range=80-90}}\n |{{Haste}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "holyDmgMod": "70%",
+    "maxdmg": "?",
+    "pushable": "no",
+    "implemented": "11.40.5409",
+    "loot": [
+        {
+            "amount": "1-191",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Dandelion Seeds",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Strong Health Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Goat Grass",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Shimmering Beetles",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "Fresh Fruit",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-7",
+            "itemName": "Leaf Star",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-5",
+            "itemName": "Cookie",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Panpipes",
+            "rarity": "semi-rare"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "Rainbow Quartz",
+            "rarity": "semi-rare"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Grapes",
+            "rarity": "semi-rare"
+        },
+        {
+            "amount": "1-5",
+            "itemName": "Small Stone",
+            "rarity": "semi-rare"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Small Enchanted Sapphire",
+            "rarity": "semi-rare"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Great Health Potion",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Wood Cape",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Leaf Legs",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Wooden Spellbook",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Die",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Mandrake",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Energy\nFire\nPoison",
+    "exp": "800",
+    "mitigation": "1.10",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "faun",
+    "illusionable": "no",
+    "armor": "45",
+    "convince": "--",
+    "name": "Faun",
+    "isboss": "no",
+    "iceDmgMod": "100%",
+    "energyDmgMod": "110%",
+    "deathDmgMod": "80%",
+    "plural": "fauns",
+    "hpDrainDmgMod": "100%",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "The fauns are half-human, half-beast nature spirits inhabiting the woods and mountains of Feyrist. They are strongly built with flat noses, large pointed ears, goats' legs and horns on their foreheads. Fauns are a slightly roguish but cheerful folk, lovers of wine and dancing, roaming to the music of panpipes, cymbals, castanets and bagpipes, dancing with the nymphs and swan maidens. Wreaths of vine or ivy often circle their heads. Sometimes they drape themselves with cloth, sometimes also with fawn skins. These children of nature show a youthful and graceful aspect but they are also brave and fearless when it comes to defend themselves. In this case, they display the brutal instincts necessary to survive that every creature of the wild possesses. Fauns emerge from mortals' dreams about celebrations, music and dancing.<br><br>Lately, some fauns on Feyrist are tainted by a mysterious, sinister force that is threatening Feyrist as well as the rest of Tibia. They were transformed into dark fauns who are chasing their brethren and visitors to the fae realm alike.",
+    "speed": "105",
+    "pushobjects": "yes",
+    "fireDmgMod": "115%",
+    "sounds": [
+        "In vino veritas! Hahaha!",
+        "Wine, women and song!",
+        "Are you posing a threat to this realm? I suppose so."
+    ],
+    "runsat": "60",
+    "bestiaryclass": "Fey",
+    "creatureclass": "Humanoids",
+    "earthDmgMod": "30%",
+    "physicalDmgMod": "90%",
+    "primarytype": "Fae",
+    "race_id": "1434",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%",
+    "bestiaryname": "faun",
+    "behaviour": "Fights in melee range. Often combo their regular attack with stalagmites. Can combo well over 400 if they are in melee range.",
+    "location": "[[Feyrist]] (daytime).",
+    "strategy": "Mages: Wear dwarven ring as their drunkness wave could easily prove fatal. Fauns deal more damage than a giant spider in both melee and magic damage.\nFirewalls and Firebombs enable to hunt these on small areas without luring more fae."
+}

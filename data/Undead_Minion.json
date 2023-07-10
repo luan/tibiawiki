@@ -1,0 +1,70 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "Strong [[Demon Skeleton]]. Appeared during [[Darashia Raids#Demonic creature raid on Darashia|raids in Darashia]]. These raids were removed from the game.",
+    "walksthrough": "?",
+    "hp": "850",
+    "usespells": "yes",
+    "speed": "?",
+    "abilities": "{{Ability List\n |{{Melee|0-300+}}\n |{{Ability|Life Drain|0-100+|lifedrain}}\n |{{Ability|Small Life Drain Wave|61-160+|lifedrain\n  |scene={{Scene|spell=5sqmwavenarrow|effect=Death Effect|effect_on_target=Red Sparkles Effect|caster=Undead Minion|look_direction=east}}}}\n |{{Ability|Soulfire Ball|8~ turns|element=burning\n  |scene={{Scene|spell=2sqmballself|caster=Undead Minion|look_direction=south|effect=Fire Effect|effect_on_caster=yes|effect_on_target=Fire Effect}}}}\n}}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "secondarytype": "Skeletons",
+    "fireDmgMod": "100%?",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "560+",
+    "pushable": "?",
+    "implemented": "7.92",
+    "loot": [
+        {
+            "amount": "0-39+",
+            "itemName": "Gold Coin"
+        },
+        {
+            "itemName": "Blank Rune"
+        },
+        {
+            "itemName": "Battle Hammer"
+        },
+        {
+            "itemName": "Battle Shield"
+        },
+        {
+            "itemName": "Surprise Bag (Blue)"
+        },
+        {
+            "itemName": "Guardian Shield",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Surprise Bag (Red)",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "550",
+    "creatureclass": "Special",
+    "earthDmgMod": "100%?",
+    "physicalDmgMod": "100%?",
+    "primarytype": "Event Creatures",
+    "attacktype": "Melee",
+    "senseinvis": "no",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "620",
+    "name": "Undead Minion",
+    "isboss": "no",
+    "behaviour": "They rarely [[retarget]].",
+    "location": "North of [[Darashia]], [[Plains of Havoc]].",
+    "iceDmgMod": "100%?",
+    "strategy": "Stay diagonal to avoid the the wave or use invisibility, they are not immune to it.",
+    "energyDmgMod": "100%?",
+    "deathDmgMod": "100%?",
+    "status": "deprecated"
+}

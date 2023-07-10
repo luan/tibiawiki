@@ -1,0 +1,100 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "[[Hellspawn]]'s boss. Part of the [[Paw and Fur Society]] tasks of [[Grizzly Adams]].\n{{JSpoiler|Part of the [[Killing in the Name of... Quest]]. The portal which leads to the boss is in northwest of Restricted Area of [[Magician Quarter]], [http://tibia.wikia.com/wiki/Mapper?coords{{=}}128.48-121.50-7-2-1-1 here].}}",
+    "walksthrough": "?",
+    "hp": "3500",
+    "speed": "?",
+    "abilities": "{{Ability List|{{Melee|0-350+}}|{{Ability|Fireball|234-293|fire}}|{{Healing}}|{{Ability|Burns you|10 hp/26 turns|burning}}|{{Haste}}}}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "secondarytype": "Felines",
+    "fireDmgMod": "60%?",
+    "holyDmgMod": "70%?",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "{{Max Damage|physical=350?|fire=303}}",
+    "pushable": "?",
+    "runsat": "0",
+    "implemented": "9.20",
+    "loot": [
+        {
+            "amount": "0-14+",
+            "itemName": "Platinum Coin"
+        },
+        {
+            "amount": "0-4?",
+            "itemName": "Small Topaz"
+        },
+        {
+            "amount": "0-5",
+            "itemName": "Assassin Star"
+        },
+        {
+            "itemName": "Demonic Essence"
+        },
+        {
+            "itemName": "Berserk Potion"
+        },
+        {
+            "itemName": "Great Health Potion"
+        },
+        {
+            "itemName": "Black Skull (Item)"
+        },
+        {
+            "itemName": "Knight Legs"
+        },
+        {
+            "itemName": "Warrior Helmet"
+        },
+        {
+            "itemName": "Crown Shield"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "Red Mushroom"
+        },
+        {
+            "itemName": "Ultimate Health Potion"
+        },
+        {
+            "itemName": "Carrot on a Stick"
+        },
+        {
+            "itemName": "Spiked Squelcher"
+        },
+        {
+            "itemName": "Onyx Flail"
+        },
+        {
+            "itemName": "Dracoyle Statue"
+        },
+        {
+            "itemName": "Hellspawn Tail"
+        }
+    ],
+    "walksaround": "Energy, Fire, Poison",
+    "exp": "2550",
+    "creatureclass": "Demons",
+    "earthDmgMod": "20%?",
+    "physicalDmgMod": "80%?",
+    "primarytype": "Demons",
+    "race_id": "757",
+    "senseinvis": "?",
+    "actualname": "Flameborn",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Flameborn",
+    "isboss": "yes",
+    "location": "[[Magician Quarter]], [[Yalahar]].",
+    "iceDmgMod": "110%?",
+    "strategy": "Treat him as a stronger [[Hellspawn]]. You can use [[Energy Wall Rune]]s to easily avoid him as a paladin or mage.",
+    "energyDmgMod": "90%?",
+    "deathDmgMod": "105%?"
+}

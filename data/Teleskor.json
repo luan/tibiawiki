@@ -1,0 +1,74 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%",
+    "notes": "New creature implemented in the [[Updates/8.2|Summer Update 2008]]. His name is clearly an anagram of 'Skeletor'.<br />[[File:Teleskor_Moksha.jpg|300px|thumb|Teleskor in Eternia.]]",
+    "walksthrough": "?",
+    "hp": "80",
+    "speed": "?",
+    "abilities": "{{Ability List\n |{{Melee|0-30}}\n}}",
+    "pushobjects": "Yes",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "100%",
+    "holyDmgMod": "100%",
+    "sounds": [
+        "Who Disturbs my slumber?",
+        "Mourn the dead, do not hunt them!"
+    ],
+    "maxdmg": "{{Max Damage|physical=30}}",
+    "pushable": "No",
+    "usedelements": "Physical",
+    "implemented": "8.20",
+    "loot": [
+        {
+            "amount": "0-77",
+            "itemName": "Gold Coin"
+        },
+        {
+            "itemName": "Bone"
+        },
+        {
+            "itemName": "Torch"
+        },
+        {
+            "itemName": "Sword"
+        },
+        {
+            "itemName": "Mace"
+        },
+        {
+            "itemName": "Hatchet"
+        },
+        {
+            "itemName": "Brass Shield"
+        },
+        {
+            "itemName": "Viking Helmet"
+        },
+        {
+            "itemName": "Pelvis Bone",
+            "rarity": "always"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "70",
+    "creatureclass": "The Undead",
+    "earthDmgMod": "100%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Skeletons",
+    "race_id": "669",
+    "senseinvis": "?",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%",
+    "convince": "--",
+    "name": "Teleskor",
+    "isboss": "Yes",
+    "behaviour": "Does not run in red health, can not be blocked with objects. Will kill other skeletons to get to you",
+    "location": "[[Rookgaard]], in a cave on the south-west side of the premium area, under a tree, {{Mapper Coords|text=here|124.233|125.228|7|2|1|0.50.5}}. The boss spawns on the lowest floor of the cave.",
+    "iceDmgMod": "100%",
+    "strategy": "Just a regular skeleton, only a bit stronger.",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "100%"
+}

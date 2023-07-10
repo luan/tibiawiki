@@ -1,0 +1,110 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "isarenaboss": "no",
+    "walksthrough": "None.",
+    "hp": "450",
+    "abilities": "{{Ability List\n |{{Melee|0-150}}\n |{{Ability|[[Whirlwind Throw]]|0-90+|element=physical\n  |scene={{Scene|spell=5sqmstrike|background=canvas|caster=Corym Skirmisher|look_direction=south|missile=Throwing Club Missile|missile_direction=south-east|missile_distance=5/5}}}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "holyDmgMod": "105%",
+    "maxdmg": "{{Max Damage|physical=240+}}",
+    "pushable": "?",
+    "usedelements": "Physical",
+    "implemented": "9.80",
+    "loot": [
+        {
+            "amount": "1-45",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Cheese",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Rat Cheese",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Soft Cheese",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Cheese Cutter",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Earflap",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Bola",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Life Preserver",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Ratana",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Cheesy Figurine",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Spike Shield",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Leather Harness",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Rat God Doll",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Energy, Fire, Poison",
+    "exp": "260",
+    "mitigation": "0.96",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "corym skirmisher",
+    "illusionable": "yes",
+    "armor": "25",
+    "convince": "695",
+    "name": "Corym Skirmisher",
+    "isboss": "no",
+    "iceDmgMod": "100%",
+    "energyDmgMod": "85%",
+    "deathDmgMod": "80%",
+    "plural": "corym skirmishers",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "no",
+    "occurrence": "Common",
+    "bestiarytext": "The Skirmishers are the leaders, priests and oracles of the Corym. They divine the will of their gods, interpret omen and are responsible for the laws of the Corym civilisation. Oddly enough, the abilities of the Skirmishers are quite similar to that of others, regardless of whether they serve as justice squeakers, priests of their Snake God of Death, or mushroom-eating diviners of future events. They claim to gain knowledge by consuming books of all kind. Consuming here actually means eating the books. It is deemed a fact that a Skirmisher who has eaten a lot of books is more powerful than his brethren; but whether these two circumstances are truly linked to each other is still unknown. Skirmishers employ a lot of tricks that they claim are magic, together with simple forms of alchemy and medicine, and most notably poisons. It is verified that Skirmishers use a lot of alcohol to 'magically' make Corym warriors fearless and 'mighty'. It is the Skirmishers who create the numerous charms and fetishes that are highly prized by their kin; and given the superstition common throughout the Corym society, the superior status of the Skirmishers is absolutely undisputed. Admittedly only the most cunning of the Corym make up the ranks of the Skirmishers. As their attitude is to 'support their brethren from behind the lines' and to let others finish all dirty and dangerous work, while they have the authority over the best Corym resources, they attain great ages for the usually short-lived Corym and acquire a lot of experience and knowledge. This they only impart to their minion who are trained to become Skirmishers; and it gives them an edge over the other, often somewhat reclusive groups in Corym society and ensures their leadership. Another source of the Skirmisher's influence over other Corym is their secret knowledge of cheese production. Given to them by the gods, this sacred knowledge enables the Skirmishers to work the 'wonder of cheese' and supposedly gives them access to special cheese magic. The ritual of divining the future by the smell of the sacred cheese and the devouring of the cheese by the oracle is a spiritual experience for the Corym community... and a free first-class meal for the oracle.",
+    "speed": "100",
+    "pushobjects": "?",
+    "fireDmgMod": "100%",
+    "sounds": [
+        "Squeak! Squeak!",
+        "<sniff> <sniff> <sniff>"
+    ],
+    "runsat": "0",
+    "bestiaryclass": "Humanoid",
+    "creatureclass": "Humanoids",
+    "earthDmgMod": "75%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Corym",
+    "race_id": "917",
+    "bestiarylevel": "Medium",
+    "senseinvis": "no",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "skirmisher",
+    "behaviour": "Nothing special, behaviour similar to cyclops, rushes at you.",
+    "location": "[[Venore Corym Cave]], [[Tiquanda Corym Cave]], [[Corym Black Market]], [[Carlin Corym Cave]]/[[Dwarf Mines]] Diggers Depths Mine, [[Upper Spike]].",
+    "strategy": "They are usually in groups, corym skirmisher alone is weak, but in group they can hit hard with their melee, so be careful."
+}

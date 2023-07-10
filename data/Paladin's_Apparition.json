@@ -1,0 +1,118 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "It only drops a [[Bag You Desire]] for players with at least one of [[Goshnar's Taints]]. The more taints you have, the higher the chance. The Bag is always dropped inside a [[Reward Container]] so there's no risk of leaving it behind in the creature's corpse.",
+    "walksthrough": "Fire, Energy, Poison",
+    "hp": "25000",
+    "abilities": "{{Ability List|}}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "holyDmgMod": "60%",
+    "maxdmg": "?",
+    "pushable": "no",
+    "implemented": "12.40.9997",
+    "loot": [
+        {
+            "itemName": "Crystal Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Warrior Helmet",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Great Spirit Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Violet Gem",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Green Gem",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Blue Gem",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Glacier Mask",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Wood Cape",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Skull Helmet",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Collar of Blue Plasma",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Glacier Amulet",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Ring of Blue Plasma",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Stone Skin Amulet",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Composite Hornbow",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Bag You Desire",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "None",
+    "exp": "18870",
+    "mitigation": "3.04",
+    "attacktype": "Melee",
+    "history": "It didn't walk over Fire Fields until [[Updates/12.64.10672|March 09, 2021]], when this behavior was changed.\n\nIts experience was reduced from 28,600 to 21,450 and its loot in 16% with the balancing changes on {{OfficialNewsArchive|6086|April 15, 2021}}. Its experience was further reduced to 18,870 with the [[Updates/12.66.10866|changes]] on {{OfficialNewsArchive|6159|June 01, 2021}}.",
+    "article": "a",
+    "actualname": "paladin's apparition",
+    "illusionable": "no",
+    "armor": "100",
+    "convince": "--",
+    "name": "Paladin's Apparition",
+    "isboss": "no",
+    "iceDmgMod": "70%",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "120%",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "These paladins belong to a group of (four) apparitions, which [[Mirror Image]]s can turn into.",
+    "speed": "235",
+    "pushobjects": "yes",
+    "fireDmgMod": "111%",
+    "sounds": [
+        "I could be your evil twin!"
+    ],
+    "runsat": "0",
+    "bestiaryclass": "Undead",
+    "creatureclass": "The Undead",
+    "earthDmgMod": "100%",
+    "physicalDmgMod": "80%",
+    "primarytype": "Undead Humanoids",
+    "spawntype": [
+        "Regular"
+    ],
+    "race_id": "1948",
+    "bestiarylevel": "Challenging",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "paladinsapparition",
+    "behaviour": "This creature fights in close range.",
+    "location": "[[The Mirrored Nightmare]], after [[Mirror Image]]s are attacked.",
+    "strategy": "Unknown."
+}

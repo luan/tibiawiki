@@ -1,0 +1,108 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "This creature was removed from the game, It was a part of [[Tibia's 10th Anniversary]], it might come in other holiday events.",
+    "walksthrough": "?",
+    "hp": "6000",
+    "speed": "?",
+    "abilities": "{{Ability List\n |{{Ability|Blue Firework Explosion|226-250+|element=fire\n  |scene={{Scene|spell=plusspelltarget|caster=Minishabaal|look_direction=south|effect=Blue Confetti Effect|effect_on_target=Fire Effect|missile=Fire Missile|missile_direction=south-east|missile_distance=2/2}}}}\n |{{Ability|Red Firework Bomb|182-250+|fire\n  |scene={{Scene|spell=2sqmballtarget|caster=Minishabaal|look_direction=south|effect=Red Confetti Effect|effect_on_target=Fire Effect|missile=Fire Missile|missile_direction=south-east|missile_distance=2/2}}}}\n |{{Summon|Diabolic Imp|3}}\n |{{Ability|[[Invisibility]]|element=invisible|scene={{Scene|spell=buffspell|effect=Teleport Effect|caster=Minishabaal|look_direction=south|effect_on_caster=yes}}}}\n |{{Ability|Paralyze|element=paralyze}}\n |{{Haste|[[Strong Haste]]|scene={{Scene|spell=buffspell|effect=Fire Effect|caster=Minishabaal|look_direction=south|effect_on_caster=yes}}}}\n |{{Healing|range=400|scene={{Scene|spell=buffspell|effect=Red Sparkles Effect|caster=Minishabaal|look_direction=south|effect_on_caster=yes}}}}\n |{{Outfit|yes|chicken|scene={{Scene|spell=5sqmstrike|caster=Minishabaal|look_direction=south|effect_on_target=Energy Effect|missile=Energy Missile|missile_direction=south-east|missile_distance=5/5}}}}\n |{{Ability|Teleport Bomb|unknown|?\n  |scene={{Scene|spell=2sqmballself|caster=Minishabaal|look_direction=south|effect=Teleport Effect|effect_on_caster=yes}}}}\n}}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "secondarytype": "Imps",
+    "fireDmgMod": "100%?",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        "I had Princess Lumelia as breakfast",
+        "Naaa-Nana-Naaa-Naaa!",
+        "My brother will come and get you for this!",
+        "Get them Fluffy!",
+        "He He He",
+        "Pftt, Ferumbras such an upstart.",
+        "My dragon is not that old, it's just second hand.",
+        "My other dragon is a red one.",
+        "When I am big I want to become the ruthless eighth.",
+        "Muahaha!",
+        "WHERE'S FLUFFY?",
+        "COME HERE FLUFFY"
+    ],
+    "maxdmg": "800+",
+    "pushable": "?",
+    "runsat": "yellow",
+    "implemented": "7.92",
+    "loot": [
+        {
+            "amount": "0-150",
+            "itemName": "Gold Coin"
+        },
+        {
+            "itemName": "Pitchfork"
+        },
+        {
+            "itemName": "Fire Axe"
+        },
+        {
+            "itemName": "Soul Orb"
+        },
+        {
+            "itemName": "Demonic Essence"
+        },
+        {
+            "itemName": "Small Amethyst"
+        },
+        {
+            "amount": "0-5",
+            "itemName": "Surprise Bag"
+        },
+        {
+            "itemName": "Crown Legs"
+        },
+        {
+            "itemName": "Demon Shield"
+        },
+        {
+            "itemName": "Guardian Shield"
+        },
+        {
+            "itemName": "Demonbone Amulet",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Golden Legs",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Tempest Shield",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Demon Helmet",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Death Ring",
+            "rarity": "rare"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "4000",
+    "creatureclass": "Special",
+    "earthDmgMod": "100%?",
+    "physicalDmgMod": "100%?",
+    "primarytype": "Event Creatures",
+    "senseinvis": "yes",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Minishabaal",
+    "isboss": "yes",
+    "behaviour": "Can spam his attacks very fast.",
+    "location": "North of [[Darashia]] while Demonic Raid is active.",
+    "iceDmgMod": "100%?",
+    "strategy": "Either try to trap it or try to get many SDers to combo it down at low life before it runs away.",
+    "energyDmgMod": "100%?",
+    "deathDmgMod": "100%?",
+    "status": "deprecated"
+}

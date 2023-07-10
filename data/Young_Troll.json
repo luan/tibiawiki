@@ -1,0 +1,76 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "young trolls",
+    "hpDrainDmgMod": "100%",
+    "notes": "As the name implies, a weaker version of the [[Troll]].",
+    "walksthrough": "?",
+    "hp": "30",
+    "speed": "58",
+    "abilities": "{{Ability List|{{Melee|0-10}}}}",
+    "pushobjects": "no",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "100%",
+    "holyDmgMod": "90%",
+    "sounds": [
+        "Hmmm, dogs",
+        "Gruntz!"
+    ],
+    "maxdmg": "{{Max Damage|physical=10}}",
+    "pushable": "yes",
+    "implemented": "9.62",
+    "loot": [
+        {
+            "amount": "0-5",
+            "itemName": "Gold Coin"
+        },
+        {
+            "itemName": "Meat"
+        },
+        {
+            "itemName": "Rope"
+        },
+        {
+            "itemName": "Spear"
+        },
+        {
+            "itemName": "Bunch of Troll Hair",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Leather Boots",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Leather Helmet",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Wooden Shield",
+            "rarity": "semi-rare"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "12",
+    "creatureclass": "Humanoids",
+    "earthDmgMod": "110%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Trolls",
+    "race_id": "904",
+    "senseinvis": "?",
+    "article": "a",
+    "actualname": "young troll",
+    "illusionable": "no",
+    "armor": "2",
+    "drownDmgMod": "100%",
+    "convince": "--",
+    "name": "Young Troll",
+    "isboss": "no",
+    "behaviour": "Similar to a [[Troll]].",
+    "location": "[[Rookgaard]] Troll Cave.",
+    "iceDmgMod": "100%",
+    "strategy": "Treat it like a [[Spider]].",
+    "energyDmgMod": "80%",
+    "deathDmgMod": "110%"
+}

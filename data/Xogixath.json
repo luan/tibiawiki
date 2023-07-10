@@ -1,0 +1,102 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "{{JSpoiler|It's one of the bosses of [[Kilmaresh Quest]].}}",
+    "walksthrough": "?",
+    "hp": "?",
+    "speed": "?",
+    "abilities": "{{Ability List|}}",
+    "pushobjects": "yes",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "50%",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "?",
+    "pushable": "no",
+    "runsat": "0",
+    "implemented": "12.20.8834",
+    "loot": [
+        {
+            "amount": "1-2",
+            "itemName": "Red Gem"
+        },
+        {
+            "amount": "3",
+            "itemName": "Small Sapphire"
+        },
+        {
+            "amount": "6-9",
+            "itemName": "Platinum Coin"
+        },
+        {
+            "itemName": "Green Crystal Shard"
+        },
+        {
+            "itemName": "Stone Skin Amulet"
+        },
+        {
+            "itemName": "Fire Axe"
+        },
+        {
+            "itemName": "Sea Horse Figurine"
+        },
+        {
+            "itemName": "Golden Mask"
+        },
+        {
+            "itemName": "Enchanted Blister Ring"
+        },
+        {
+            "itemName": "Winged Boots"
+        },
+        {
+            "itemName": "Green Crystal Fragment"
+        },
+        {
+            "itemName": "Wand of Draconia"
+        },
+        {
+            "itemName": "Blue Crystal Splinter"
+        },
+        {
+            "itemName": "Small Enchanted Sapphire"
+        },
+        {
+            "itemName": "Wand of Inferno"
+        },
+        {
+            "itemName": "Death Ring"
+        },
+        {
+            "itemName": "Enchanted Theurgic Amulet"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "22000",
+    "creatureclass": "Demons",
+    "earthDmgMod": "100%",
+    "physicalDmgMod": "100%?",
+    "bosstiaryclass": "Bane",
+    "primarytype": "Demons",
+    "spawntype": [
+        "Regular"
+    ],
+    "race_id": "1827",
+    "senseinvis": "yes",
+    "actualname": "Xogixath",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Xogixath",
+    "isboss": "yes",
+    "location": "Under [[Kilmaresh]] Nykri Delta {{Mapper Coords|text=here|132.4|122.246|8|4|1|0.250.25}}",
+    "iceDmgMod": "115%",
+    "strategy": "Do not use [[Fire Damage]] against this boss since 55% of it will be reflected back to you.",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "50%?"
+}

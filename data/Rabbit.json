@@ -1,0 +1,69 @@
+{
+    "summon": "220",
+    "templateType": "Creature",
+    "notes": "In the days surrounding the [[Wikipedia:Easter|Easter]] holiday, rabbits can also drop \n[[Coloured Egg (Blue)|Blue]], [[Coloured Egg (Green)|Green]], [[Coloured Egg (Purple)|Purple]], [[Coloured Egg (Red)|Red]] and [[Coloured Egg (Yellow)|Yellow Coloured Eggs]]. Before 2006, rabbits dropped regular [[Egg]]s around Easter. They no longer drop these.<br />\nFresh [[Dead Rabbit]]s can be sold to [[Tom]] in [[Rookgaard]] for 2 [[gp]].",
+    "walksthrough": "?",
+    "hp": "15",
+    "abilities": "{{Ability List|None}}",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "holyDmgMod": "100%",
+    "maxdmg": "0",
+    "pushable": "yes",
+    "implemented": "7.1",
+    "loot": [
+        {
+            "amount": "1-2",
+            "itemName": "Meat",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Carrot",
+            "rarity": "uncommon"
+        }
+    ],
+    "walksaround": "Fire, Energy, Poison",
+    "exp": "0",
+    "mitigation": "0.05",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "rabbit",
+    "illusionable": "yes",
+    "armor": "1",
+    "convince": "220",
+    "name": "Rabbit",
+    "isboss": "no",
+    "iceDmgMod": "100%",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "100%",
+    "plural": "rabbits",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "no",
+    "occurrence": "Common",
+    "bestiarytext": "Rabbits live in the meadows and forests of Tibia where they are nourished only by blades of grass. People often hunt these absolutely peaceable and very shy animals for their skins from which tanners can make fine clothes. But you must be very quick in order to catch them.",
+    "speed": "90",
+    "pushobjects": "no",
+    "fireDmgMod": "100%",
+    "sounds": [
+        ""
+    ],
+    "runsat": "0",
+    "bestiaryclass": "Mammal",
+    "creatureclass": "Mammals",
+    "earthDmgMod": "100%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Glires",
+    "spawntype": [
+        "Regular",
+        "Raid",
+        "Triggered",
+        "Unblockable"
+    ],
+    "race_id": "74",
+    "bestiarylevel": "Trivial",
+    "senseinvis": "no",
+    "drownDmgMod": "100%",
+    "bestiaryname": "rabbit",
+    "location": "In most grass areas of [[Tibia]], for example on [[Tutorial Island]].",
+    "strategy": "They are very easy to kill, even for the most inexperienced Tibians. It may help to use the [[chase opponent]] button as they will always try to run away from you.\n\n{{JSpoiler|You can use a [[Kitchen Knife]] or [[Obsidian Knife]] in its corpses during the [[Rottin Wood and the Married Men Quest]] and the daly task '''Lucky Charms''', in order to get 0-2 [[Rabbit's Foot]].\n{{Seealso|Rabbit's Foot/Statistics}}\n}}"
+}

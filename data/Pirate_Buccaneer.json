@@ -1,0 +1,127 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "They appear in pirate [[Raid]]s in small groups of 2 Pirate Buccaneers and 2 [[Pirate Cutthroat]]s.",
+    "walksthrough": "None",
+    "hp": "425",
+    "abilities": "{{Ability List\n |{{Melee|0-160}}\n |{{Ability|Throws Knives|0-100|element=physical\n  |scene={{Scene|spell=5sqmstrike|background=canvas|caster=Pirate Buccaneer|look_direction=south|missile=Throwing Knife Missile|missile_direction=south-east|missile_distance=5/5}}}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "holyDmgMod": "90%",
+    "maxdmg": "{{Max Damage|physical=260}}",
+    "pushable": "no",
+    "usedelements": "Physical",
+    "implemented": "7.8",
+    "loot": [
+        {
+            "amount": "1-60",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Torch",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Worn Leather Boots",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Sabre",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-5",
+            "itemName": "Throwing Knife",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Compass",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Battle Shield",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Strong Health Potion",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Plate Armor",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Treasure Map (Pirate)",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Pirate Backpack",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Pirate Shirt",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Hook",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Eye Patch",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Peg Leg",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Rum Flask",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Die",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Fire, Energy, Poison",
+    "exp": "250",
+    "mitigation": "1.04",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "pirate buccaneer",
+    "illusionable": "yes",
+    "armor": "16",
+    "convince": "595",
+    "name": "Pirate Buccaneer",
+    "isboss": "no",
+    "iceDmgMod": "105%",
+    "energyDmgMod": "105%",
+    "deathDmgMod": "105%",
+    "plural": "pirate buccaneers",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "no",
+    "occurrence": "Common",
+    "bestiarytext": "The Pirate Buccaneer has already proven himself as skilled fighter that often functions as squad leader in raids. He displays an enormous arrogance and loves to bully his underlings. Some Pirate Buccaneers have already gained some fame and they do not feel good at all to stand in the shadow of their captains. They also fear to be outshone by other buccaneers. Usually not loved but feared by their crew members, they often duel each other and always look for an opportunity to exploit any weakness that their captain might show. By getting a good share of the plunder, their equipment is quite good and they usually wield some decent weapons and a good armor. Their daring and skilful manoeuvres impress friend and foe  alike.",
+    "speed": "109",
+    "pushobjects": "yes",
+    "fireDmgMod": "105%",
+    "sounds": [
+        "Give up!",
+        "Hiyaa",
+        "Plundeeeeer!"
+    ],
+    "bestiaryclass": "Human",
+    "creatureclass": "Humans",
+    "earthDmgMod": "90%",
+    "physicalDmgMod": "105%",
+    "primarytype": "Pirates",
+    "race_id": "249",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "piratebuccaneer",
+    "behaviour": "Runs away in deep red health. Retargets often and will always attack the weakest [[Player]] they see and will switch back quickly even if [[Challenge]]d by an [[Elite Knight]].",
+    "location": "[[Nargor]], [[Tyrsung]] (on the ship), [[Yalahar]] (Foreign Quarter), [[Krailos Steppe]] and [[The Cave]].",
+    "strategy": "'''Knights:''' To kill one of those, it is recommended to have at least 65/65 skills and [[level]] 40 or higher.<br>'''Paladins:''' A recommended level to be for hunting this creature is level 40 or above with around 75 distance. Just run this creature like any other pirate and make sure you don't run it into another spawn. A shield and a throwing weapon helps to reduce the damage but bolts or arrows can be used too."
+}

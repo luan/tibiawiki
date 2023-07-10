@@ -1,0 +1,118 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "walksthrough": "Energy, Fire",
+    "hp": "18500",
+    "abilities": "{{Ability List\n |{{Melee|0-500}}\n |{{Ability|Energy Strike|600-750|element=energy|scene={{Scene|spell=3sqmstrike|caster=Energetic Book|effect=Purple Electricity Effect|missile=Energy Missile|missile_direction=south-east|missile_distance=3/3|background=slate_floor}}}}\n |{{Ability|Energy Berserk|800-1000|element=energy|scene={{Scene|spell=3x3spell|caster=Energetic Book|effect_on_caster=yes|effect=Energy Effect|background=slate_floor}}}}\n |{{Ability|Stars Beam|650-800|element=holy|scene={{Scene|spell=6sqmbeam|caster=Energetic Book|effect=Stars Effect|background=slate_floor|look_direction=east}}}} \n}}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "holyDmgMod": "0%",
+    "maxdmg": "{{Max Damage|physical=500|energy=1000|holy=800}}",
+    "pushable": "no",
+    "implemented": "11.80.7048",
+    "loot": [
+        {
+            "amount": "1-35",
+            "itemName": "Platinum Coin",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-8",
+            "itemName": "Book Page",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-6",
+            "itemName": "Glowing Rune",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Ultimate Health Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Ultimate Mana Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Energy Ball",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Silken Bookmark",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Lightning Pendant",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Lightning Boots",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Lightning Legs",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Lightning Headband",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Might Ring",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Wand of Defiance",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Spellweaver's Robe",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Haunted Blade",
+            "rarity": "rare"
+        }
+    ],
+    "walksaround": "Poison",
+    "exp": "12034",
+    "mitigation": "2.16",
+    "attacktype": "Melee",
+    "history": "Its experience was decreased from 14,300 to 12,155 with the first batch of changes of [[Updates/12.31|Update 12.31]]. It was later increased to 13,371 with the seventh batch of changes. Then, it was decreased again to 12,034 with [[Updates/12.50.10135|Update 12.50.10135]].",
+    "article": "an",
+    "actualname": "energetic book",
+    "illusionable": "no",
+    "armor": "82",
+    "convince": "--",
+    "name": "Energetic Book",
+    "isboss": "no",
+    "iceDmgMod": "100%",
+    "energyDmgMod": "0%",
+    "deathDmgMod": "100%",
+    "plural": "energetic books",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "Energetic books were originally a race of shapechanging demons that planned to infiltrate Zathroth's hidden hoard of knowledge to steal enough of it to topple the demon princes and rule on their own. Cunning and knowledgeable they snuck their way through wards and wardens. With trickery and their shapeshifting powers they wormed their way into the heart of secrets. The knowledge they coveted so much was almost at their grasp. Though Zathroth might have seen the effort as admirable, their plot was revealed by his librarians and ultimately thwarted. Before they could finalise their coup, they were cornered, revealed and overpowered. Desperately they made a plea they were doing only Zathroth's work and therefore were not guilty but only zealous, for all they wished for was power through secret knowledge. It is said that the god himself spoke the final verdict on the fiends and forced them into the form of the books they tried to steal. He also bound them to the service of his librarians and to aid them through all eternity. The demons not only retained their original power but indeed were somewhat alleviated by the transformation. So in some way the dark god might have granted them a part of their wish. In the eons since then some aspiring spellwielders managed to summon and bind a few of the energetic books to their will. Most of them are said to be still bound to the holy places of Zathroth, serving as guardians, messengers and even power sources for certain twisted experiments. Little of their ambitious egos remained after all the centuries of servitude. All that's left of them is eagerness to see others suffer too. Their numbers might have declined over the centuries but still there are many of the once proud race around, disgraced, enslaved and with the hatred of centuries to be unleashed on any foolhardy creature they might be sent after.",
+    "speed": "220",
+    "pushobjects": "yes",
+    "fireDmgMod": "100%",
+    "sounds": [
+        "Flood the room with curious energy!",
+        "zup zup zup zuuuuup!"
+    ],
+    "runsat": "0",
+    "bestiaryclass": "Magical",
+    "creatureclass": "Demons",
+    "earthDmgMod": "110%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Possessed Objects",
+    "race_id": "1665",
+    "bestiarylevel": "Hard",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "energeticbook",
+    "location": "[[Secret Library]] energy section.",
+    "strategy": "Energetic Books deal considerable Holy Damage as well, so protection against both Energy and Holy are recommended when hunting them."
+}

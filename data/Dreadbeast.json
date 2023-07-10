@@ -1,0 +1,86 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "dreadbeasts",
+    "hpDrainDmgMod": "0%",
+    "notes": "They are constantly summoned in [[Hellgorak|Hellgorak's]] Room.",
+    "walksthrough": "?",
+    "hp": "800",
+    "speed": "68",
+    "abilities": "{{Ability List\n |{{Melee|0-50|poison=?}}\n |{{Ability|Drown Hit|70-90|element=drowning\n  |scene={{Scene|spell=7sqmstrike|caster=Dreadbeast|look_direction=south|effect=Purple Electricity Effect|damage_effect=Ripple Effect|missile=Death Missile (Large)|missile_direction=south-east|missile_distance=7/7}}}}\n |{{Ability|Life Drain Berserk|0-80|element=lifedrain\n  |scene={{Scene|spell=3x3spell|caster=Dreadbeast|look_direction=south|effect=Red Sparkles Effect|effect_on_caster=yes}}}}\n |{{Ability|Poisoning Berserk|up to 6?hp/turn|element=poisoned\n  |scene={{Scene|spell=3x3spell|caster=Dreadbeast|look_direction=south|effect=Poison Effect 3|effect_on_caster=yes}}}}\n |{{Debuff2|melee=yes|value=20-30%|duration=20secs\n  |scene={{Scene|spell=1sqmstrike|caster=Dreadbeast|look_direction=south|effect=Yellow Electricity Effect}}}}\n |{{Healing|range=35-65\n  |scene={{Scene|spell=buffspell|caster=Dreadbeast|look_direction=south|effect=Poison Effect 2|effect_on_caster=yes}}}}\n}}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "secondarytype": "Ungulates",
+    "fireDmgMod": "45%",
+    "holyDmgMod": "150%",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "140",
+    "pushable": "?",
+    "implemented": "8.20",
+    "loot": [
+        {
+            "amount": "0-88",
+            "itemName": "Gold Coin"
+        },
+        {
+            "itemName": "Bone"
+        },
+        {
+            "itemName": "Plate Armor",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Skull (Item)",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Big Bone",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Bone Club",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Bone Shield",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Green Mushroom",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Hardened Bone",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Health Potion",
+            "rarity": "rare"
+        }
+    ],
+    "walksaround": "Fire, ?",
+    "exp": "250",
+    "creatureclass": "The Undead",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "70%",
+    "primarytype": "Skeletons",
+    "race_id": "404",
+    "senseinvis": "?",
+    "article": "a",
+    "actualname": "dreadbeast",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "25%",
+    "convince": "800",
+    "name": "Dreadbeast",
+    "isboss": "no",
+    "behaviour": "Try to hit you with their [[Drown Damage|Drown Hits]].",
+    "location": "[[The Inquisition Quest]], [[Hellgorak|Hellgorak's]] Room.",
+    "iceDmgMod": "60%",
+    "strategy": "Convince it and use it to kill the boss of the room at [[The Inquisition Quest]].",
+    "energyDmgMod": "85%",
+    "deathDmgMod": "0%"
+}

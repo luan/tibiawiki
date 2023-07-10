@@ -1,0 +1,114 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "It's a leader of the [[Werebadger]]s.\n{{JSpoiler|Part of the {{Spoiler Section|Grimvale Quest|The Curse Spreads}}}}",
+    "walksthrough": "Energy",
+    "hp": "3300",
+    "speed": "?",
+    "abilities": "{{Ability List\n  |{{Melee|0-300}}\n  |{{Summon|Werebadger|1}}\n  |{{Ability|Mana Drain|50-150|element=manadrain}}\n  |{{Ability|[[Invisibility]]|element=invisible}}\n  |{{Debuff2|magic=yes|value=20-30%}}\n}}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "yes",
+    "secondarytype": "Ungulates",
+    "fireDmgMod": "105%",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        "Never underestimate a badger!"
+    ],
+    "maxdmg": "?",
+    "pushable": "?",
+    "implemented": "11.50.6055",
+    "cooldown": "20",
+    "loot": [
+        {
+            "amount": "0-60",
+            "itemName": "Gold Coin"
+        },
+        {
+            "amount": "0-5",
+            "itemName": "Platinum Coin"
+        },
+        {
+            "itemName": "Werebadger Claws"
+        },
+        {
+            "itemName": "Werebadger Skull"
+        },
+        {
+            "amount": "0-3",
+            "itemName": "Onyx Chip"
+        },
+        {
+            "itemName": "Badger Boots"
+        },
+        {
+            "itemName": "Beetroot"
+        },
+        {
+            "itemName": "Underworld Rod"
+        },
+        {
+            "itemName": "Great Mana Potion"
+        },
+        {
+            "amount": "0-3",
+            "itemName": "Small Enchanted Amethyst"
+        },
+        {
+            "itemName": "Wand of Voodoo"
+        },
+        {
+            "itemName": "Troll Green"
+        },
+        {
+            "itemName": "Moonlight Crystals"
+        },
+        {
+            "itemName": "Ultimate Mana Potion"
+        },
+        {
+            "itemName": "Silver Token"
+        },
+        {
+            "itemName": "Wolf Backpack"
+        },
+        {
+            "itemName": "Ring of Healing"
+        },
+        {
+            "itemName": "Platinum Amulet"
+        },
+        {
+            "itemName": "Werebadger Trophy"
+        },
+        {
+            "itemName": "Werewolf Amulet"
+        },
+        {
+            "itemName": "Brown Mushroom"
+        }
+    ],
+    "walksaround": "Poison, Fire",
+    "exp": "3000",
+    "creatureclass": "Humans",
+    "earthDmgMod": "50%?",
+    "physicalDmgMod": "100%?",
+    "bosstiaryclass": "Archfoe",
+    "primarytype": "Lycanthropes",
+    "race_id": "1562",
+    "senseinvis": "yes",
+    "actualname": "Sharpclaw",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Sharpclaw",
+    "isboss": "yes",
+    "behaviour": "Unknown",
+    "location": "After a teleport inside [[Edron]]'s were-beasts cave.",
+    "iceDmgMod": "90%?",
+    "strategy": "Treat it like a stronger [[Werebadger]].",
+    "energyDmgMod": "90%",
+    "deathDmgMod": "80%?"
+}

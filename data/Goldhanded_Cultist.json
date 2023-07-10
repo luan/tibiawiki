@@ -1,0 +1,100 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "goldhanded cultists",
+    "hpDrainDmgMod": "100%?",
+    "isarenaboss": "no",
+    "walksthrough": "Fire, Energy, Earth",
+    "hp": "3000",
+    "usespells": "yes",
+    "occurrence": "Uncommon",
+    "speed": "150",
+    "abilities": "{{Ability List| {{Melee|0-250}}|{{Ability|[[Explosion Bomb]]|100-250|element=?}}|{{Ability|[[Mana Drain|Great Mana Drain Bomb]] on self|100-300|element=manadrain}} }}",
+    "pushobjects": "yes",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "fireDmgMod": "90%",
+    "holyDmgMod": "100%",
+    "sounds": [
+        "Money, money, money!",
+        "You can't ever be rich enough!"
+    ],
+    "maxdmg": "500",
+    "pushable": "no",
+    "runsat": "0",
+    "implemented": "11.40.5409",
+    "bestiaryclass": "Human",
+    "loot": [
+        {
+            "amount": "1-250",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Golden Brush",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Opal",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Tiger Eye",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Golden Bag",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Golden Backpack",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Gold Ingot",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Yellow Gem",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Green Gem",
+            "rarity": "semi-rare"
+        },
+        {
+            "amount": "1-10",
+            "itemName": "Platinum Coin",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Gold Nugget",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "2000",
+    "creatureclass": "Humans",
+    "earthDmgMod": "100%",
+    "mitigation": "0.78",
+    "physicalDmgMod": "100%",
+    "primarytype": "Outlaws",
+    "race_id": "1481",
+    "attacktype": "Melee",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "article": "a",
+    "actualname": "goldhanded cultist",
+    "illusionable": "no",
+    "armor": "30",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Goldhanded Cultist",
+    "isboss": "no",
+    "behaviour": "Fights in close combat.",
+    "location": "[[Museum of Tibian Arts]].",
+    "iceDmgMod": "85%",
+    "strategy": "Unknown",
+    "energyDmgMod": "83%",
+    "deathDmgMod": "85%"
+}

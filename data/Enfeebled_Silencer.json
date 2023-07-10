@@ -1,0 +1,111 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "It's a weaker version of a [[Silencer]].\n{{JSpoiler|You need to kill 200 Enfeebled Silencers and [[Weakened Frazzlemaw]]s as part of the [[Threatened Dreams Quest]].}}",
+    "hp": "1100",
+    "abilities": "{{Ability List|{{Melee|0-150|poison=10}}|{{Ability|[[Thunderstorm]] missile|0-150|element=?}}|{{Ability|[[Mana Drain]]|0-75|element=manadrain}}|{{Healing|range=0-200}}|{{Haste|[[Strong Haste]]}} }}",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "secondarytype": "Dragons",
+    "holyDmgMod": "125%",
+    "maxdmg": "300",
+    "pushable": "no",
+    "implemented": "11.40.5409",
+    "loot": [
+        {
+            "amount": "1-100",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Platinum Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Fairy Wings",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-10",
+            "itemName": "Assassin Star",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Silencer Claws",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Haunted Blade",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Stealth Ring",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Glorious Axe",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Shadow Sceptre",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Terra Boots",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Terra Legs",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Diamond Sceptre",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Boots of Haste",
+            "rarity": "rare"
+        }
+    ],
+    "walksaround": "Energy\nFire\nPoison",
+    "exp": "1100",
+    "mitigation": "1.43",
+    "attacktype": "Melee",
+    "article": "an",
+    "actualname": "enfeebled silencer",
+    "illusionable": "no",
+    "armor": "44",
+    "convince": "--",
+    "name": "Enfeebled Silencer",
+    "isboss": "no",
+    "iceDmgMod": "85%",
+    "energyDmgMod": "85%",
+    "deathDmgMod": "35%",
+    "plural": "enfeebled silencers",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "The Enfeebled Silencer is a weaker version of [[Silencer]]s.",
+    "speed": "165",
+    "pushobjects": "?",
+    "fireDmgMod": "70%",
+    "sounds": [
+        "Prrrroooaaaah!!! PRROAAAH!!",
+        "PRRRROOOOOAAAAAHHHH!!!",
+        "HUUUSSSSSSSSH!!",
+        "Hussssssh!!"
+    ],
+    "runsat": "0",
+    "bestiaryclass": "Magical",
+    "creatureclass": "Demons",
+    "earthDmgMod": "40%",
+    "physicalDmgMod": "95%",
+    "primarytype": "Dreamhaunters",
+    "race_id": "1443",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "enfeebledsilencer",
+    "location": "[[Feyrist]], in a cave located {{Mapper Coords|text=here|131.10|126.11|7|2|1|0.50.5}}.",
+    "strategy": "Their [[Haste]] makes them almost impossible to run away from, so  wear energy protection and try to take them out quickly so that you wont get trapped."
+}

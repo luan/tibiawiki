@@ -1,0 +1,82 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "Carrion Worms were added in [[Updates#Update 7.8 .28Summer 2006.29. August 1.2C 2006|Summer Update 2006]]. They replaced [[Demon Skeleton]]s in west cave of the 'Upper' [[Fibula Dungeon]]. Carrion worms are simply upgraded [[rotworms]]; They are stronger, move faster, have more hitpoints, and give more experience, but drop no [[sword]] nor [[mace]]. They are similar to [[Wild Warrior]]s.",
+    "walksthrough": "None",
+    "hp": "145",
+    "abilities": "{{Ability List|{{Melee|0-45}}}}",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "holyDmgMod": "100%",
+    "maxdmg": "{{Max Damage|physical=45}}",
+    "pushable": "No",
+    "implemented": "7.8",
+    "loot": [
+        {
+            "amount": "0-45",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Carrion Worm Fang",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "Meat",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "Worm",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Coal",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Fire, Energy, Poison",
+    "exp": "70",
+    "mitigation": "0.38",
+    "attacktype": "Melee",
+    "history": "Carrion Worms were introduced in the [[Updates#Update 7.8. August 1.2C 2006|Summer Update 2006]], same update as the [[Rotworm]]s first graphical evolution. After the summer update, they only existed on a few places such as the [[Vandura]] Rotworm cave, but after [[Updates#Update 7.9 December 12.2C 2006|Christmas Update 2006]], they can be found in a large number of caves.",
+    "article": "a",
+    "actualname": "carrion worm",
+    "illusionable": "no",
+    "armor": "8",
+    "convince": "380",
+    "name": "Carrion Worm",
+    "isboss": "no",
+    "iceDmgMod": "105%",
+    "energyDmgMod": "90%",
+    "deathDmgMod": "100%",
+    "plural": "carrion worms",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "no",
+    "occurrence": "Common",
+    "bestiarytext": "It is said that even rotworms cannot survive their disgusting diet forever. Sooner or later a rotworm falls prey to all the rot and decay it consumes. However, people tell that some of them prove extremely resistant to all the poisons they devour in their life. They seem to be immortal and therefore, grow stronger and bigger than the rest of their kind, reaching even the size of an ox or a small barn.<br />Perhaps these stories hold a grain of truth because now and then really huge rotworms are spotted amongst their kind. These so-called Carrion Worms seem to be no species of their own but indeed just older, bigger and meaner rotworms. Their capabilities seem to exceed the ones of the smaller rotworms in all means although they seem to have no special position in the mindless society of worms. Carrion Worms are usually accompanied by a host of smaller worms which makes them even more dangerous. They have some sort of tusks that can easily penetrate a good armor. In fights they are protected by a hide which has grown pretty thick during many decades.",
+    "speed": "65",
+    "pushobjects": "Yes",
+    "fireDmgMod": "105%",
+    "sounds": [
+        ""
+    ],
+    "bestiaryclass": "Vermin",
+    "creatureclass": "Invertebrates",
+    "earthDmgMod": "80%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Annelids",
+    "spawntype": [
+        "Regular",
+        "Unblockable"
+    ],
+    "race_id": "251",
+    "bestiarylevel": "Easy",
+    "senseinvis": "no",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "carrionworm",
+    "behaviour": "Carrion Worms fight to the death. They move items that are in their way.",
+    "location": "[[Edron]], [[Cormaya]], [[Drillworm Caves]], [[Venore]] Swamps, [[Liberty Bay]], [[Vandura]], [[Hellgate]], [[Fibula Dungeon]], [[Stonehome]], [[Kazordoon]], [[Darashia Rotworm Caves]], [[Port Hope]], [[Ancient Temple]], [[Fenrock]], [[Arena and Zoo Quarter]].",
+    "strategy": "[[Knight]]s with standard equipment can kill Carrion Worms easily with 25/25 skills and weapon of attack 20+.<br/>\n[[Paladin]]s should run them, as always. They can become especially dangerous in packs along with [[rotworms]]. As with [[rotworms]], do not get yourself surrounded as Carrion Worms are unpushable.<br/>\nIf possible, [[mage]]s should attempt to keep distance for minimal health-loss."
+}

@@ -1,0 +1,68 @@
+{
+    "summon": "465",
+    "templateType": "Creature",
+    "notes": "It can be [[Rapid Boar|tamed]] with a [[Hunting Horn]].",
+    "walksthrough": "None",
+    "hp": "198",
+    "abilities": "{{Ability List|{{Melee|0-50+?}}}}",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "holyDmgMod": "100%",
+    "maxdmg": "{{Max Damage|physical=50}}",
+    "pushable": "?",
+    "implemented": "8.70",
+    "loot": [
+        {
+            "amount": "1-20",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Haunch of Boar",
+            "rarity": "uncommon"
+        }
+    ],
+    "walksaround": "Fire, Energy, Poison",
+    "exp": "60",
+    "mitigation": "0.25",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "boar",
+    "illusionable": "yes",
+    "armor": "10",
+    "convince": "465",
+    "name": "Boar",
+    "isboss": "no",
+    "iceDmgMod": "100%",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "100%",
+    "plural": "boars",
+    "hpDrainDmgMod": "100%",
+    "usespells": "no",
+    "occurrence": "Common",
+    "bestiarytext": "Once an ordinary beast that was at worst victim of occasional hunts, the rise of heroes in the land signified doom for the Boar species. Hunted almost to extinction, Boars have become a rare sight indeed. As heroes moved on to more powerful foes, the Boars slowly recovered. Only the most resilient specimens had survived the massive hunting and so the new generations of Boars that slowly arose proved to be tougher, meaner and by far more dangerous their ancestors. These Boars are more than capable to defend themselves and now, they are not only retaking their former habitats.<br />Usually found in the deep woods far away from civilisation, their boldness and insatiable hunger drives them more and more to human settlements which mean easy food for them. Their foraging often leaves fields and farms devastated, however, an ordinary farmer knows better than to try fighting the fearsome beasts that usually form small flocks and are rarely encountered alone. So it is once more up to the heroes to strike the Boars down. But this time they are facing much tougher opponents on a more equal ground.",
+    "speed": "205",
+    "pushobjects": "?",
+    "fireDmgMod": "100%",
+    "sounds": [
+        "Grunt! Grunt!",
+        "Grunt"
+    ],
+    "bestiaryclass": "Mammal",
+    "creatureclass": "Mammals",
+    "earthDmgMod": "100%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Ungulates",
+    "spawntype": [
+        "Regular"
+    ],
+    "race_id": "693",
+    "bestiarylevel": "Easy",
+    "senseinvis": "no",
+    "drownDmgMod": "100%",
+    "bestiaryname": "boar",
+    "behaviour": "It is quite fast, runs away on low health.",
+    "location": "Forest around [[Outlaw Camp]].",
+    "strategy": "Just chase and kill it.  \n\n[[Paladin]]: Lower level paladins, should preferably hunt them with throwing weapons and shield. Boars are very fast and can quickly finish off low level+low defense paladins."
+}

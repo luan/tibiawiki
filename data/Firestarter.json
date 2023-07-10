@@ -1,0 +1,97 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "isarenaboss": "no",
+    "walksthrough": "Fire",
+    "hp": "180",
+    "abilities": "{{Ability List| {{Melee|?}}|{{Ability|Arrow|0-5|element=physical}}|{{Ability|[[Fireball]]|0-21|element=fire}}|{{Ability|Shoots Fire Field|element=fire field}}|{{Ability|[[Soulfire]]|element=fire}} }}",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "holyDmgMod": "80%",
+    "maxdmg": "53",
+    "pushable": "yes",
+    "implemented": "9.10",
+    "loot": [
+        {
+            "amount": "0-35",
+            "itemName": "Gold Coin"
+        },
+        {
+            "itemName": "Coal"
+        },
+        {
+            "amount": "0-12",
+            "itemName": "Flaming Arrow"
+        },
+        {
+            "itemName": "Grapes"
+        },
+        {
+            "itemName": "Longsword"
+        },
+        {
+            "itemName": "Elvish Talisman",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Bow",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Heaven Blossom",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Elvish Bow",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Flintstone",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "80",
+    "mitigation": "0.51",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "firestarter",
+    "illusionable": "yes",
+    "armor": "15",
+    "convince": "--",
+    "name": "Firestarter",
+    "isboss": "no",
+    "iceDmgMod": "110%",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "105%",
+    "plural": "firestarters",
+    "hpDrainDmgMod": "100%",
+    "usespells": "yes",
+    "occurrence": "Rare",
+    "bestiarytext": "In a foggy night, witnessed by toads and fishes alone, a sunken temple of the bog god has risen near Shadowthorn. When the elves realised what had happened, the temple was already fully ascended. Within a week after the event, most of the elves started to worship the forgotten god. But not all fell for this influence. A selected few rose against these blinded followers. When the elder god of the bog told the elves of Shadowthorn to capture all rioters, these insurgents started to sow what the lord of the bog hates most - fire. During the very short time this conflict lasted, both parties were about equal in both, strength and fanatism. In the end, the elf followers won the upper hand by an eyelash. The Firestartes were imprisoned in the dungeons beneath Shadowthorn. They are heavily guarded because the elves fear the Firestarters' wrath and the havoc they will surely wreak if ever released.",
+    "speed": "100",
+    "pushobjects": "no",
+    "fireDmgMod": "0%",
+    "sounds": [
+        "FIRE!",
+        "BURN!",
+        "DEATH to the FALSE GOD!!",
+        "You shall burn in the thornfires!!",
+        "DOWN with the followers of the bog!!",
+        "Hey, what's that burnt stench... isn't that... YOU?",
+        "Set everything on fire!!"
+    ],
+    "bestiaryclass": "Humanoid",
+    "creatureclass": "Humanoids",
+    "earthDmgMod": "95%",
+    "physicalDmgMod": "80%",
+    "primarytype": "Elves",
+    "race_id": "737",
+    "bestiarylevel": "Easy",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%",
+    "bestiaryname": "firestarter",
+    "behaviour": "Fights until death.",
+    "location": "[[Shadowthorn]], during the [[Thornfire]] [[World Change]].",
+    "strategy": "Try to get close to them, they are less likely to hit harder. Hide around corners and make them come to you. Consider them [[Elf Scout]]s using [[fire]] attacks.\n[[Sorcerers]] and [[Druids]] can kill them easily with [[ice]] attacks."
+}

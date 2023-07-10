@@ -1,0 +1,122 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "It only drops a [[Bag You Desire]] for players with at least one of [[Goshnar's Taints]]. The more taints you have, the higher the chance. The Bag is always dropped inside a [[Reward Container]] so there's no risk of leaving it behind in the creature's corpse.",
+    "walksthrough": "Fire, Energy, Poison",
+    "hp": "28000",
+    "abilities": "{{Ability List|}}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "holyDmgMod": "100%",
+    "maxdmg": "?",
+    "pushable": "no",
+    "implemented": "12.40.9997",
+    "loot": [
+        {
+            "itemName": "Crystal Coin",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-?",
+            "itemName": "Ultimate Health Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Gold Ingot",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Glacier Amulet",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Glacier Robe",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Violet Gem",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Blue Gem",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Wood Cape",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Northwind Rod",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Springsprout Rod",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Sacred Tree Amulet",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Stone Skin Amulet",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Rubber Cap",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Fur Armor",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Crystalline Armor",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Bag You Desire",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "None",
+    "exp": "19360",
+    "mitigation": "2.72",
+    "attacktype": "Melee",
+    "history": "It didn't walk over Fire Fields until [[Updates/12.64.10672|March 09, 2021]], when this behavior was changed.\n\nIts experience was reduced from 29,900 to 20,000 and its loot in 22% with the balancing changes on {{OfficialNewsArchive|6086|April 15, 2021}}. Its experience was further reduced to 17,600 with the [[Updates/12.66.10866|changes]] on {{OfficialNewsArchive|6159|June 01, 2021}}. Its experience was later increased to 19,360 on [[Updates/12.67.10934 (2)|July 06, 2021]]. Its loot was also increased by 10% on the same patch.",
+    "article": "a",
+    "actualname": "turbulent elemental",
+    "illusionable": "no",
+    "armor": "105",
+    "convince": "--",
+    "name": "Turbulent Elemental",
+    "isboss": "no",
+    "iceDmgMod": "70%",
+    "energyDmgMod": "110%",
+    "deathDmgMod": "100%",
+    "plural": "turbulent elementals",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "The first turbulent elementals were originally sucked into Zarhanash by rifts and breaches in the lands of the living. As everything else they did not remain untouched by the realm, though. Usual drawing their power out of their natural element, they instead of fed on the rotten essence of Zarganash and quickly became more an element of despair than anything else. Through unfettered feeding on the vile energies of the realm, they quickly overcharge more and more and become unstable. At some point the element bursts into a veritable storm that breaches the realms and has the powers to suck in more elementals that might be drawn to the storm that occurs in their realm too. This is a highly dangerous process beyond their control, that more often than not leads to their own destruction and dispersion. Often their remainders are quickly devoured by other denizens of the realm, but sometimes they even manage to survive the process and reform. Given the number of existing turbulent elementals and the rarity of natural rifts that suck in new untainted elementals, it can be assumed, that the chances for a turbulent elemental to overcharge and cause a realm storm are somewhat common. With more active exploration of Zarganash by travellers, newest data might suggest that the number of turbulent elementals in a given area heavily influences to probability of an elemental to overcharge. If the elementals are numerous, the chances seem quite slim. If they are rare a realm storm seems very likely. The storms that they cause are dangerous in the realm of Zarganash as well as in the realm of the living. Only other turbulent elementals can roam then freely and even flourish in them. The passages between corresponding storms are random, short lived and follow the accompanying lightning patterns. So it's rather unlikely for a mortal to pass through, yet elementals that ride wind and lightning or an occasional soul are not uncommon to become unwilling travellers.",
+    "speed": "180",
+    "pushobjects": "yes",
+    "fireDmgMod": "120%",
+    "sounds": [
+        ""
+    ],
+    "bestiaryclass": "Elemental",
+    "creatureclass": "Elementals",
+    "earthDmgMod": "60%",
+    "physicalDmgMod": "90%",
+    "spawntype": [
+        "Unblockable"
+    ],
+    "race_id": "1940",
+    "bestiarylevel": "Challenging",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "turbulentelemental",
+    "behaviour": "Unknown.",
+    "location": "[[Ebb and Flow]].",
+    "strategy": "Unknown."
+}

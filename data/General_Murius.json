@@ -1,0 +1,106 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "General Murius is the leader of [[Markwin]]'s army of [[Minotaurs]]. He can most often be found supporting the minotaur troops in [[Mintwallin]]. You can use an [[Obsidian Knife]] on his corpse in order to get a [[Minotaur Leather]]. <br> He is thought to be an allusion of '''General Marius''', who was a general in Ancient Rome.",
+    "walksthrough": "?",
+    "hp": "550",
+    "speed": "?",
+    "abilities": "{{Ability List| {{Melee|0-170?|element=physical}}|{{Summon|Minotaur Guard|?|Minotaur Archer}}|{{Haste}}|{{Ability|[[Berserk]]|?|element=physical}}|{{Healing}}|{{Ability|[[Distance Fighting]]|2 [[Bolt]]s per turn}} }}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "80%",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        "You will get what you deserve!",
+        "Feel the power of the Mooh'Tah!",
+        "For the king!",
+        "Guards!"
+    ],
+    "maxdmg": "250+",
+    "pushable": "?",
+    "implemented": "7.5",
+    "loot": [
+        {
+            "amount": "80-90",
+            "itemName": "Gold Coin"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "Platinum Coin"
+        },
+        {
+            "itemName": "Minotaur Horn"
+        },
+        {
+            "itemName": "Minotaur Leather"
+        },
+        {
+            "amount": "0-7",
+            "itemName": "Piercing Bolt"
+        },
+        {
+            "itemName": "Meat"
+        },
+        {
+            "itemName": "Battle Shield"
+        },
+        {
+            "itemName": "Steel Shield"
+        },
+        {
+            "itemName": "Chain Legs"
+        },
+        {
+            "itemName": "Chain Armor"
+        },
+        {
+            "itemName": "Brass Armor"
+        },
+        {
+            "itemName": "Scale Armor"
+        },
+        {
+            "itemName": "Double Axe"
+        },
+        {
+            "itemName": "Minotaur Trophy"
+        },
+        {
+            "amount": "0-7",
+            "itemName": "Power Bolt"
+        },
+        {
+            "itemName": "Strong Health Potion"
+        },
+        {
+            "itemName": "Wand of Cosmic Energy"
+        },
+        {
+            "itemName": "Fishing Rod"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "450",
+    "creatureclass": "Humanoids",
+    "earthDmgMod": "100%",
+    "physicalDmgMod": "100%?",
+    "bosstiaryclass": "Nemesis",
+    "primarytype": "Minotaurs",
+    "race_id": "207",
+    "senseinvis": "yes",
+    "actualname": "General Murius",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "General Murius",
+    "isboss": "yes",
+    "behaviour": "General Murius fights until death.",
+    "location": "[[Mintwallin]].",
+    "iceDmgMod": "100%?",
+    "strategy": "[[Image:General_Murius_screeny.JPG|300px|right]] One way to kill it is with a blocker and [[SD]]'s. \nAnother way to kill it is with [[Firebomb]] runes (look at the screenshot).  Stand in the Lvl 30 door in [[Markwin]]'s room, firebomb the fields infront the door, wait for General Murius to come close, go behind the door, wait for General Murius to go few steps away, lure him again by going in the door, and so on~. General Murius will run through the fire all the time and after a while he will die. You only need lvl 30 to enter the door, but other doors would also work.",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "100%?"
+}

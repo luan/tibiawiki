@@ -1,0 +1,143 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "<p><noinclude>[[File:Werebear Promoart.jpg|350px]]</noinclude></p>",
+    "walksthrough": "Energy, Poison",
+    "hp": "2400",
+    "abilities": "{{Ability List| {{Melee|0-400}}|{{Ability|[[Life Drain|Life Drain Wave]]|causes [[Bleeding]] starting from up 18 [[Hit Point|HP]] per turn|element=lifedrain}}|{{Ability|[[Life Drain]] [[Explosion|Explosion Berserk]]|0-250+|element=lifedrain}} }}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "secondarytype": "Bears",
+    "holyDmgMod": "105%",
+    "maxdmg": "650+",
+    "pushable": "no",
+    "implemented": "10.80",
+    "loot": [
+        {
+            "amount": "1-3",
+            "itemName": "Platinum Coin",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-100",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Werebear Fur",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Werebear Skull",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "Ham",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Moonlight Crystals",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Great Health Potion",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Bear Paw",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Honeycomb",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Ultimate Health Potion",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Small Enchanted Sapphire",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Werewolf Amulet",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Furry Club",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Stone Skin Amulet",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Berserk Potion",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Fur Armor",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Time Ring",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Spiked Squelcher",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Relic Sword",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Werebear Trophy",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Dreaded Cleaver",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Fire",
+    "exp": "2100",
+    "mitigation": "0.91",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "werebear",
+    "illusionable": "no",
+    "armor": "38",
+    "convince": "--",
+    "name": "Werebear",
+    "isboss": "no",
+    "iceDmgMod": "90%",
+    "energyDmgMod": "85%",
+    "deathDmgMod": "55%",
+    "plural": "werebears",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "Werebears are humans under a curse - others claim infected with a disease - that causes them to transform into savage beasts. At the beginning, the transformation only takes place at full moon, and the victim regains its human appearance the next morning. In the course of time, the transformation lasts longer and the full moon is no longer a necessary condition for the transformation. At a certain point, the beast takes over more and more often.\nWerebears are strong and tough, yet a bit slow and clumsy. They are predators nonetheless, and their appearance is a mix between a bear and a human being. Like bears, Werebears favour caverns as homesteads and are not delighted with visitors.\nThe curse of the Full Moon, as it is frequently called, is usually spread by the infectious bite or scratch of other were-creatures. Forbidden books also tell about methods that allow to turn somebody into a were-creature with the help of dark rites. Some twisted individuals even call the curse upon themselves in the hope of using their new powers to avenge an injustice or insult.",
+    "speed": "110",
+    "pushobjects": "yes",
+    "fireDmgMod": "105%",
+    "sounds": [
+        "GROOOWL",
+        "GRRR"
+    ],
+    "bestiaryclass": "Lycanthrope",
+    "creatureclass": "Humans",
+    "earthDmgMod": "50%",
+    "physicalDmgMod": "95%",
+    "primarytype": "Lycanthropes",
+    "race_id": "1142",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "werebear",
+    "behaviour": "Fairly slow, but hits hard (almost as hard as a [[Behemoth]]). Werebears rarely retarget, making them quite easy to tank.",
+    "location": "[[Grimvale]] underground, were-beasts cave south-west of [[Edron]] (accessed {{Mapper Coords|129.160|124.172|7|4|text=here}}) and in the [[Last Sanctum]] east of [[Cormaya]], {{Mapper Coords|130.72|125.3|7|4|text=here}}.",
+    "strategy": "Avoid pulling more than two at a time. They don't do amazingly high comboes, but most of the damage they do is unavoidable (at least for a melee class). Ranged classes can simply kite them, making sure that they don't pull other creatures in the vicinity. Alternatively, they can drop a fire wall as Werebears won't cross them. Werebears run at low health.\n\n'''[[Knight]]s:''' Make sure to take Werebears down first, as they inflict the most damage of all the creatures encountered alongside them. Standing diagonal won't help evade its [[Life Drain]] beam, so make sure you use [[Cure Bleeding]] after finishing them to avoid heavy damage from [[Bleeding]]."
+}

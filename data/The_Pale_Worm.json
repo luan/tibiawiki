@@ -1,0 +1,135 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "It's the final boss of the [[Feaster of Souls Quest]].",
+    "walksthrough": "?",
+    "hp": "?",
+    "speed": "?",
+    "abilities": "{{Ability List| {{Melee|0-1500?}}|{{Ability|[[Earth Damage|Poison GFB]]|0-900?|element=earth}}|{{Ability|[[Death Damage|Death Wave]]|?|element=death}}|{{Ability|[[Holy Damage|Holy Beam]]|?|element=holy}}|{{Ability|[[Holy Damage|Holy GFB on self]]|?|element=holy}} }}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "fireDmgMod": "10%?",
+    "holyDmgMod": "10%?",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "?",
+    "pushable": "no",
+    "runsat": "0",
+    "implemented": "12.30.9287",
+    "cooldown": "20",
+    "loot": [
+        {
+            "amount": "6",
+            "itemName": "Ultimate Spirit Potion"
+        },
+        {
+            "amount": "3",
+            "itemName": "Crystal Coin"
+        },
+        {
+            "amount": "2",
+            "itemName": "Diamond"
+        },
+        {
+            "itemName": "Pale Worm's Scalp"
+        },
+        {
+            "itemName": "Ravenous Circlet"
+        },
+        {
+            "itemName": "Ring of Souls"
+        },
+        {
+            "itemName": "Fabulous Legs"
+        },
+        {
+            "itemName": "Soulful Legs"
+        },
+        {
+            "itemName": "Ghost Backpack"
+        },
+        {
+            "itemName": "Ghost Chestplate"
+        },
+        {
+            "itemName": "Spectral Scrap of Cloth"
+        },
+        {
+            "itemName": "Phantasmal Axe"
+        },
+        {
+            "itemName": "Giant Topaz"
+        },
+        {
+            "itemName": "Giant Amethyst"
+        },
+        {
+            "itemName": "Pair of Nightmare Boots"
+        },
+        {
+            "itemName": "Amber (Item)"
+        },
+        {
+            "itemName": "Mastermind Potion"
+        },
+        {
+            "itemName": "Bullseye Potion"
+        },
+        {
+            "itemName": "Supreme Health Potion"
+        },
+        {
+            "itemName": "Ivory Comb"
+        },
+        {
+            "itemName": "Angel Figurine"
+        },
+        {
+            "itemName": "Ultimate Mana Potion"
+        },
+        {
+            "itemName": "White Gem"
+        },
+        {
+            "itemName": "Death Toll"
+        },
+        {
+            "itemName": "Moonstone"
+        },
+        {
+            "itemName": "Cursed Bone"
+        },
+        {
+            "itemName": "Berserk Potion"
+        },
+        {
+            "itemName": "Silver Hand Mirror"
+        },
+        {
+            "itemName": "Amber with a Bug"
+        },
+        {
+            "itemName": "Amber with a Dragonfly"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "?",
+    "earthDmgMod": "10%?",
+    "physicalDmgMod": "10%?",
+    "bosstiaryclass": "Archfoe",
+    "race_id": "1881",
+    "senseinvis": "yes",
+    "actualname": "The Pale Worm",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "The Pale Worm",
+    "isboss": "yes",
+    "location": "[[Zarganash]]",
+    "iceDmgMod": "10%?",
+    "energyDmgMod": "10%?",
+    "deathDmgMod": "10%?"
+}

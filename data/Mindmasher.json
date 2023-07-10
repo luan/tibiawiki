@@ -1,0 +1,103 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "One of the Hive Bosses<br/>\n{{JSpoiler|Part of the [[War Against the Hive Quest]]}}",
+    "walksthrough": "?",
+    "hp": "9500",
+    "speed": "?",
+    "abilities": "{{Ability List| {{Melee|0-100}}|{{Healing|range=5-20}}|{{Ability|[[Mana Drain]]|50-700|element=manadrain}}|{{Ability|causes heavy [[drunkness]]|element=drunk}}|{{Ability|makes you [[Drowning|drown]] for some time|element=drowning}}|{{Ability|summons four [[Mindmasher (Weak)|weak copies]] of himself|element=summon}} }}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "secondarytype": "Insects",
+    "fireDmgMod": "100%?",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        "Chrrr! Chrr!"
+    ],
+    "maxdmg": "?",
+    "pushable": "?",
+    "implemented": "9.50",
+    "loot": [
+        {
+            "amount": "0-199",
+            "itemName": "Gold Coin"
+        },
+        {
+            "amount": "0-4",
+            "itemName": "Platinum Coin"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "Compound Eye"
+        },
+        {
+            "itemName": "Dung Ball"
+        },
+        {
+            "itemName": "Dung Ball (Quest)"
+        },
+        {
+            "itemName": "Dwarven Ring"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "Great Mana Potion"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "Great Health Potion"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "Small Emerald"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "Small Sapphire"
+        },
+        {
+            "itemName": "Twin Hooks"
+        },
+        {
+            "itemName": "Ripper Lance"
+        },
+        {
+            "itemName": "Yellow Gem"
+        },
+        {
+            "itemName": "Epee"
+        },
+        {
+            "itemName": "Spike Sword"
+        },
+        {
+            "itemName": "Giant Shimmering Pearl"
+        },
+        {
+            "itemName": "Carapace Shield"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "6000",
+    "creatureclass": "Invertebrates",
+    "earthDmgMod": "100%?",
+    "physicalDmgMod": "100%?",
+    "bosstiaryclass": "Bane",
+    "primarytype": "Hive Born",
+    "race_id": "855",
+    "senseinvis": "?",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Mindmasher",
+    "isboss": "yes",
+    "behaviour": "Summons copies of himself to attack with. Both him and his summons can go invisible. Its summons are extremely weak to physical damage.",
+    "location": "Underground [[Hive]], around {{Mapper Coords|130.177|121.246|8|4|text=here}}",
+    "iceDmgMod": "100%?",
+    "strategy": "Separate from other monsters and simply take him down, he's not too strong.",
+    "energyDmgMod": "100%?",
+    "deathDmgMod": "100%?"
+}

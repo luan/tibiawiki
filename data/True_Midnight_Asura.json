@@ -1,0 +1,206 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "They are the [[Midnight Asura]] in their true form. \n<gallery hideaddbutton=\"true\" spacing=\"small\" position=\"center\" style=\"text-align:center\" captionalign=\"center\" mode=\"nolines\">\nTrue Midnight Asura Artwork.jpg|Official [[Creature Artwork]]\n</gallery>",
+    "walksthrough": "Energy, Fire, Poison",
+    "hp": "9000",
+    "abilities": "{{Ability List|{{Melee|0-450}}|{{Ability|Death Missile|500-650|death}}|{{Ability|Smoke Beam|500-700}}|{{Ability|Life Drain Beam|100-240|lifedrain}}|{{Ability|Mana Drain Beam|50-280|manadrain}}}}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "secondarytype": "Asuri",
+    "holyDmgMod": "70%",
+    "maxdmg": "{{Max Damage|physical=450|death=1350|lifedrain=240|manadrain=280}}",
+    "pushable": "no",
+    "implemented": "11.80.7048",
+    "loot": [
+        {
+            "amount": "1-8",
+            "itemName": "Platinum Coin",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Great Health Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "Small Enchanted Amethyst",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Silver Brooch",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "White Pearl",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Black Pearl",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "Small Diamond",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "Small Sapphire",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Small Ruby",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Small Emerald",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "Crystal Coin",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Soul Orb",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Demonic Essence",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Flask of Demonic Blood",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-5",
+            "itemName": "Assassin Star",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Small Topaz",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Golden Lotus Brooch",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Peacock Feather Fan",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Violet Gem",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Yellow Gem",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Blue Gem",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Silver Amulet",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Necrotic Rod",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Tribal Mask",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Assassin Dagger",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Underworld Rod",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Gold Ingot",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Oriental Shoes",
+            "rarity": "semi-rare"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "Royal Star",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Crystal Ring",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Blue Robe",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Skullcracker Armor",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Spellbook of Mind Control",
+            "rarity": "rare"
+        }
+    ],
+    "walksaround": "None",
+    "exp": "7313",
+    "mitigation": "2.16",
+    "attacktype": "Melee",
+    "history": "Its experience was decreased from 9000 to 5850 with the third batch of changes of [[Updates/12.31|Update 12.31]] and raised to 7313 with its eighth batch.",
+    "article": "a",
+    "actualname": "true midnight asura",
+    "illusionable": "no",
+    "armor": "75",
+    "convince": "--",
+    "name": "True Midnight Asura",
+    "isboss": "no",
+    "iceDmgMod": "90%",
+    "energyDmgMod": "110%",
+    "deathDmgMod": "0%",
+    "plural": "true midnight asuras",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "Asuri are demonic creatures who can hide their true face and appear in the form of beautiful women. Although they often take on a seductive appearance, they show their true form as soon as there is no need for charade. In this case they appear as tall, beautiful women with four arms, fangs and glowing eyes. These demonesses are driven mainly by greed and envy. They enter the mortal world because they begrudge humans and other peoples their vigour, beauty and happiness. They seek to destroy positive feelings as love, contentment and mirth, because herefrom they gain their energy. An asura especially stalks men she regards as handsome and happy. These victims are lured into gorgeous palaces full of riches and conveniences, inhabited by several asuri. There they ensnare the men with amusements such as wine, music, dance and intoxicating substances that indulge their senses and make them submissive and weak-willed. Then the asuri divest them of vitality and beauty. When an asura gets weary of her victim or if captives unexpectedly oppose the demonesses, these unfortunates come to know the true face of the palace: As the asuri show a beautiful face outwardly and are in truth terrible demons, likewise the palace, behind its marvelous veneer, is full of prison cells, torture chambers and even rooms where sacrificial altars await the asuri's emaciated victims. \n\nThere are several kinds of asuri. The midnight asuri have pale skin and moon-white hair, favouring clothes in the colours black and violet. They are associated with darkness and death and are capable melee fighters.",
+    "speed": "170",
+    "pushobjects": "yes",
+    "fireDmgMod": "90%",
+    "sounds": [
+        ""
+    ],
+    "runsat": "0",
+    "bestiaryclass": "Demon",
+    "creatureclass": "Demons",
+    "earthDmgMod": "110%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Demons",
+    "spawntype": [
+        "Regular",
+        "Unblockable"
+    ],
+    "race_id": "1621",
+    "bestiarylevel": "Hard",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "truemidnight",
+    "behaviour": "Fights in close range.",
+    "location": "[[Asura Palace]], [[Asura Vaults]].",
+    "strategy": "Beware that they are much stronger than regular Asuri and deal considerable damage, some times in area."
+}

@@ -1,0 +1,105 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "They can't be pushed and cannot move objects.",
+    "walksthrough": "None",
+    "hp": "80",
+    "abilities": "{{Ability List\n |{{Melee|0-35}}\n |{{Ability|[[Small Stone|Throw Small Stone]]|0-45|element=physical\n  |scene={{Scene|spell=5sqmstrike|background=canvas|caster=Chakoya Toolshaper|look_direction=south|missile=Small Stone Missile|missile_direction=south-east|missile_distance=5/5}}}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "holyDmgMod": "90%",
+    "maxdmg": "{{Max Damage|physical=80}}",
+    "pushable": "no",
+    "usedelements": "Physical",
+    "implemented": "8.00",
+    "loot": [
+        {
+            "amount": "0-20",
+            "itemName": "Gold Coin"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "Fish"
+        },
+        {
+            "itemName": "Mace",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Fireproof Horn",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Bone Shield",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Ice Cube",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Pick",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Green Perch",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Mammoth Whopper",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Northern Pike",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Rainbow Trout",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Fire, Energy, Poison",
+    "exp": "40",
+    "mitigation": "0.23",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "chakoya toolshaper",
+    "illusionable": "no",
+    "armor": "7",
+    "convince": "305",
+    "name": "Chakoya Toolshaper",
+    "isboss": "no",
+    "iceDmgMod": "0%",
+    "energyDmgMod": "115%",
+    "deathDmgMod": "105%",
+    "plural": "chakoya toolshapers",
+    "hpDrainDmgMod": "100%",
+    "usespells": "no",
+    "occurrence": "Common",
+    "bestiarytext": "Chakoya Toolshapers are more skilled than the tribewardens but less powerful built. Provided with a bit more intelligence than the other chakoyas, they are mainly responsible for handcraft in the tribes. It is them who provide the tribes with all kinds of different weapons and who are able to handle the more complicated distance weapons in fights.<br />Since supplies are hard to gather in the northern waste, Chakoya Toolshapers often accompany the tribewardens on their hunts for food and resources. In battles they function as leaders, at least until the frenzy takes over. As running away is no option for a chakoya that does not want to end as dinner for its clanmates, Chakoya Toolshapers, unlike other distance fighters, charge an enemy with little regard of their own safety.",
+    "speed": "68",
+    "pushobjects": "no",
+    "fireDmgMod": "60%",
+    "sounds": [
+        "Chikuva!",
+        "Jinuma jamjam!",
+        "Suvituka siq chuqua!",
+        "Kiyosa sipaju!"
+    ],
+    "bestiaryclass": "Humanoid",
+    "creatureclass": "Humanoids",
+    "earthDmgMod": "100%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Chakoyas",
+    "spawntype": [
+        "Regular"
+    ],
+    "race_id": "328",
+    "bestiarylevel": "Easy",
+    "senseinvis": "no",
+    "drownDmgMod": "100%",
+    "bestiaryname": "chakoyatoolshaper",
+    "behaviour": "They fight in close combat and throw small stones if you try to escape. They fight to the death.",
+    "location": "[[Inukaya]], [[Chyllfroest]], [[Chakoya Iceberg]].",
+    "strategy": "They can hit quite hard if you are surrounded by other [[Chakoyas]] too, so try to kill them fast. Try to kill these Chakoyas after you kill the [[Chakoya Windcaller|Windcallers]], unless you are taking too much damage and can't reach the others."
+}

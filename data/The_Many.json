@@ -1,0 +1,81 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "It's the [[Hydra]] boss. Has more health and heals slightly faster than a normal [[Hydra]].<br>\n{{JSpoiler|Part of the [[Killing in the Name of... Quest]]}}",
+    "walksthrough": "Poison",
+    "hp": "5000",
+    "speed": "?",
+    "abilities": "{{Ability List| {{Melee|0-268?}}|{{Ability|[[Creature Spells|Earth Wave]]|0-?|element=earth}}|{{Ability|[[Self Healing|Frequent Self Healing]]|element=healing}}|{{Ability|[[Paralysis|Paralyze Bomb]]|on target|element=paralyze}}|{{Ability|[[Ice Damage|Hot Water Wave]]|0-171? |element=ice}}|{{Ability|[[Creature Spells|Ice Missile]]|?|element=ice}} }}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "100%",
+    "holyDmgMod": "70%",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "?",
+    "pushable": "?",
+    "implemented": "8.50",
+    "loot": [
+        {
+            "amount": "0-5",
+            "itemName": "Strong Mana Potion"
+        },
+        {
+            "amount": "0-5",
+            "itemName": "Small Sapphire"
+        },
+        {
+            "amount": "0-3",
+            "itemName": "Gold Ingot"
+        },
+        {
+            "itemName": "Stone Skin Amulet"
+        },
+        {
+            "itemName": "Sacred Tree Amulet"
+        },
+        {
+            "itemName": "Medusa Shield"
+        },
+        {
+            "itemName": "Warrior Helmet"
+        },
+        {
+            "itemName": "Knight Armor"
+        },
+        {
+            "itemName": "Royal Helmet"
+        },
+        {
+            "itemName": "Egg of The Many"
+        }
+    ],
+    "walksaround": "Fire, Energy",
+    "exp": "4000",
+    "creatureclass": "Reptiles",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "100%?",
+    "primarytype": "Hydras",
+    "spawntype": [
+        "Unique",
+        "Triggered",
+        "Unblockable"
+    ],
+    "race_id": "550",
+    "senseinvis": "yes",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "The Many",
+    "isboss": "yes",
+    "behaviour": "Treat it like a regular Hydra",
+    "location": "[[Chor]], through a teleporter located {{Mapper Coords|128.152|128.115|8|2|text=here}}.",
+    "iceDmgMod": "50%",
+    "strategy": "Treat it like a regular Hydra, but, unlike a regular hydra it doesnt walk into fire fields",
+    "energyDmgMod": "110%",
+    "deathDmgMod": "100%?"
+}

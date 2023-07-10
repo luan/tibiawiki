@@ -1,0 +1,125 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "isarenaboss": "no",
+    "walksthrough": "Poison",
+    "hp": "1200",
+    "abilities": "{{Ability List\n |{{Melee|0-200|poison=27}}\n |{{Ability|Poisoning hit|poisons for up to 10 hp/turn|element=poisoned}}\n |{{Ability|Paralyze wave|Trembling Effect|element=paralyze}}\n |{{Ability|Invisible Poison Wave|180-270|element=poison}}\n |{{Healing|range=170+}}\n |{{Haste|[[Strong Haste]]}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "holyDmgMod": "100%",
+    "maxdmg": "420",
+    "pushable": "No",
+    "implemented": "9.60",
+    "loot": [
+        {
+            "amount": "0-100",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Platinum Coin",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "0-5",
+            "itemName": "White Mushroom",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "0-5",
+            "itemName": "Crystalline Arrow",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "0-5",
+            "itemName": "Drill Bolt",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Green Crystal Splinter",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Strong Mana Potion",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Strong Health Potion",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Black Shield",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Blue Piece of Cloth",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Green Crystal Fragment",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Serpent Sword",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Yellow Piece of Cloth",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Terra Rod",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Green Piece of Cloth",
+            "rarity": "rare"
+        }
+    ],
+    "walksaround": "Energy, Fire",
+    "exp": "900",
+    "mitigation": "1.46",
+    "attacktype": "Melee",
+    "history": "The chance of a Wiggler dropping [[Green Piece of Cloth]] was highly increased on [[Updates/12.30.9391|January 21, 2020]]. Previously, it hadn't been looted in dozens of thousands of kills by different fansites. After this update, it became a rare loot.",
+    "article": "a",
+    "actualname": "wiggler",
+    "illusionable": "No",
+    "armor": "52",
+    "convince": "--",
+    "name": "Wiggler",
+    "isboss": "no",
+    "iceDmgMod": "100%",
+    "energyDmgMod": "95%",
+    "deathDmgMod": "90%",
+    "plural": "wigglers",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "The Wiggler is a centipede-like pest that ironically has grown in numbers due to the numerous mushroom farms that the gnomes own. In their natural habitat there is rarely enough food to support more than a handful of Wiggler in any given area. So in the distant past the Wiggler must have been a rare sight. With gnomes cultivating mushroom gardens and sometimes even abandoning them for safety reasons, the Wiggler found enough nourishment to grow significantly in numbers. By the time the gnomes learned about the significance of the rising threat, it was too late to turn the tide. The Wiggler has become a common threat for gnomish holdings and is probably even more threatening to other underground dwellers who are ill prepared. Wigglers are usually found on gnomish mushroom fields. As they are killed, more seem to appear. All the gnomes can do is practise damage reduction by eliminating this threat in the vicinity of their holdings. Still success, if any, is usually short lived. Worse still, with all attempts to exterminate the Wigglers every new generation seems to become a little bit more resilient and more aggressive. Where in tales of old the Wigglers shunned away from light sources, in our days they seem to be drawn to them instead. If the old Wigglers fled when discovered, the new generations fight back fiercely. Though not an enormous threat if on their own, their numbers and sheer limitless reinforcements make them quite dangerous, especially as the newer breeds have shifted their strict mushroom diet to a more omnivorous one that does not shun the flesh of living beings.",
+    "speed": "180",
+    "pushobjects": "Yes",
+    "fireDmgMod": "105%",
+    "sounds": [
+        "Zzzrp",
+        "Crick! Crick!"
+    ],
+    "runsat": "359",
+    "bestiaryclass": "Vermin",
+    "creatureclass": "Invertebrates",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Myriapods",
+    "spawntype": [
+        "Regular",
+        "Unblockable"
+    ],
+    "race_id": "899",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "wiggler",
+    "behaviour": "They pursue their prey very quickly.",
+    "location": "[[Truffels Garden]], [[Mushroom Gardens]] and [[Crystal Gardens]] ([[Nargor]]).",
+    "strategy": "Just kill it as fast as you can since it can make easy combos. If it runs away, be careful as you might chase it into a whole pack of them. Comparable to a [[Young Sea Serpent]]. Be careful as they often target and change target to the most vulnerable player in the area."
+}

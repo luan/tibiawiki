@@ -1,0 +1,82 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "mountain trolls",
+    "hpDrainDmgMod": "100%?",
+    "notes": "A weak [[Troll]].",
+    "walksthrough": "None",
+    "hp": "30",
+    "speed": "55",
+    "abilities": "{{Ability List|{{Melee|0-9}}}}",
+    "pushobjects": "No",
+    "healMod": "100%?",
+    "paraimmune": "no",
+    "secondarytype": "Trolls",
+    "fireDmgMod": "85%",
+    "holyDmgMod": "100%",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "{{Max Damage|physical=9}}",
+    "pushable": "Yes",
+    "usedelements": "Physical",
+    "implemented": "10.55",
+    "loot": [
+        {
+            "amount": "0-8",
+            "itemName": "Gold Coin"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "Meat"
+        },
+        {
+            "itemName": "Rope"
+        },
+        {
+            "itemName": "Spear"
+        },
+        {
+            "itemName": "Leather Armor",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Hand Axe",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Studded Club",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Rapier",
+            "rarity": "semi-rare"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "12",
+    "creatureclass": "Humanoids",
+    "earthDmgMod": "110%",
+    "physicalDmgMod": "115%",
+    "primarytype": "Humanoids",
+    "spawntype": [
+        "Regular",
+        "Unblockable"
+    ],
+    "race_id": "1064",
+    "senseinvis": "no",
+    "article": "a",
+    "actualname": "mountain troll",
+    "illusionable": "no",
+    "armor": "0",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Mountain Troll",
+    "isboss": "no",
+    "behaviour": "?",
+    "location": "[[Dawnport]].",
+    "iceDmgMod": "85%",
+    "strategy": "Kill it as you would kill anything else. Possibly the weakest attacking monster on [[Dawnport]].",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "110%"
+}

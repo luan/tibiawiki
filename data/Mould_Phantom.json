@@ -1,0 +1,121 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "It only drops a [[Bag You Desire]] for players with at least one of [[Goshnar's Taints]]. The more taints you have, the higher the chance. The Bag is always dropped inside a [[Reward Container]] so there's no risk of leaving it behind in the creature's corpse.",
+    "walksthrough": "Fire, Energy, Poison",
+    "hp": "28000",
+    "abilities": "{{Ability List\n |{{Melee|?}}\n |{{Ability|Holy Strike|1000-1250|holy|scene={{Scene|spell=2sqmstrike|caster=Mould Phantom|effect=Holy Cross Effect|missile=Holy Missile (Appearance)|missile_direction=south-east|missile_distance=2/2|background=organic_structure}}}}\n |{{Ability|Holy Ball|1200-1300|holy|scene={{Scene|spell=1sqmballtarget|caster=Mould Phantom|effect=Holy Cross Effect|missile=Poison Missile|missile_direction=south-east|missile_distance=2/2|edge_size=32|background=organic_structure}}}}\n |{{Ability|Poison Explosion|?|earth|scene={{Scene|spell=2sqmballself|caster=Mould Phantom|effect=Poison Effect 1||effect_on_caster=yes|edge_size=32|background=organic_structure}}}}\n |{{Ability|Earth Chain|900-1050|earth|scene={{Scene|spell=chainspell|caster=Mould Phantom|effect=Green Chain Effect|damage_effect=Unknown|background=organic_structure}}}}\n |{{Ability|Holy Chain|600-900|holy|scene={{Scene|spell=chainspell|caster=Mould Phantom|effect=Yellow Chain Effect|damage_effect=Unknown|background=organic_structure}}}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "holyDmgMod": "100%",
+    "maxdmg": "{{Max Damage|holy=1300|earth=1050}}",
+    "pushable": "no",
+    "implemented": "12.40.9997",
+    "loot": [
+        {
+            "itemName": "Crystal Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Gold Ingot",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Violet Gem",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Green Gem",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Blue Gem",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Wand of Starstorm",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Wand of Voodoo",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Ornate Crossbow",
+            "rarity": "semi-rare"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Wand of Defiance",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Mould Heart",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Mould Robe",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Ring of Blue Plasma",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Collar of Blue Plasma",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Crystal Crossbow",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Bag You Desire",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "None.",
+    "exp": "18330",
+    "mitigation": "2.45",
+    "attacktype": "Distance",
+    "history": "Its experience was decreased from 29,900 to 23,920 with [[Updates/12.50.10135|Update 12.50.10135]]. Its loot had the drop chance reduced by 10% on the same update.\n\nIts experience was reduced from 23,920 to 22,200 with the balancing changes on {{OfficialNewsArchive|6086|April 15, 2021}}. Its experience was further reduced to 19,500 with the [[Updates/12.66.10866|changes]] on {{OfficialNewsArchive|6159|June 01, 2021}}.\n\nOn {{OfficialNewsArchive|6352|October 05, 2021}} its chain spell damage has been increased with [[Updates/12.71.11165|Update 12.71.11165]]. This increase includes both the damage dealt to the first target and to target later in the chain.\n\nOn {{OfficialNewsArchive|6555|February 01, 2022}}, its experience was decreased to 18,330 while its loot was decreased by 6%.",
+    "article": "a",
+    "actualname": "mould phantom",
+    "illusionable": "no",
+    "armor": "100",
+    "convince": "--",
+    "name": "Mould Phantom",
+    "isboss": "no",
+    "iceDmgMod": "100%",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "100%",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "Zarganash's hostile environment gave birth to an own breed of phantoms that differ by the hazards that help to form them from the tormented souls they once were. Spirits, soaked with decay and putrefaction, the mould phantoms are the heralds of rot. Wither is what they breathe, decay what accompanies them. They lack any true sentience, though their processing of captured souls through a disgusting version of composting, they sometimes appear to interact with their environment on purpose. This is yet only a random illusion though. The true self of the mould phantom is of a wandering zone of decay. More a natural disaster than an entity. There is some interaction between mould phantoms but this seems to follow more natural laws, shared amongst their kind and not by sentient decisions. Other such interactions are their attraction to living things. Their nature draws them to the living to spread their decay to them and share their rot. Even here they don't hurt the living on some kind of purpose but by inherent attributes of their rotten existence. They are drawn to certain places in Zarganash and though the unschooled eye see little difference in this places to other, they can be considered as Zarganash centres of decay. As such they seem to change over time, which leads to hordes of mould phantoms that migrate to new centres that they seem to sense over great distances. Such tides of mould phantoms are usually avoided by other denizens of Zarganash. Even more so, since the wandering phantoms display an otherwise unseen amount of unity in these times. If one is attacked, the attacker is quickly swarmed and usually overwhelmed by the horde, that stops its voyage until the enemy is utterly annihilated. When they reach their destination the horde quickly disperses. When a mould phantom has settled it's usually extremely territorial and does not wander off too much. That is until a new horde is formed.",
+    "speed": "240",
+    "pushobjects": "yes",
+    "fireDmgMod": "100%",
+    "sounds": [
+        "Everything decomposes.",
+        "I love the smell of rotten flesh.",
+        "The earth will take you back."
+    ],
+    "runsat": "0",
+    "bestiaryclass": "Undead",
+    "creatureclass": "The Undead",
+    "earthDmgMod": "50%",
+    "physicalDmgMod": "110%",
+    "primarytype": "Ghosts",
+    "spawntype": [
+        "Regular"
+    ],
+    "race_id": "1945",
+    "bestiarylevel": "Challenging",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "mouldphantom",
+    "behaviour": "They attack from distance.",
+    "location": "[[Rotten Wasteland]].",
+    "strategy": "The safest strategy to hunt them is to turn them into melee creatures using [[Chivalrous Challenge]] or [[Divine Dazzle]] and have them be blocked by the Knight with the other creatures."
+}

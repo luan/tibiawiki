@@ -1,0 +1,92 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "Spawn cannot be blocked. Part of the [[Spider Nest Mini World Change]]. After having killed it three times, you will not be able to enter the area anymore.{{JSpoiler|Kill it three times for the [[achievement]] [[Nestling]].}}",
+    "walksthrough": "Energy?, Poison",
+    "hp": "1800",
+    "speed": "?",
+    "abilities": "{{Ability List\n |{{Melee|0-400+|poison=16}}\n |{{Ability|Poison Spit|0-225+|element=earth}}\n |{{Ability|poison spit|paralyzes you|element=paralyze}}\n |{{Ability|Earth Wave|poisons for 18 hp/turn|element=poisoned}}\n |{{Ability|[[Poison Bomb]]|element=earth}}\n |{{Healing|range=150-200}}\n}}",
+    "pushobjects": "Yes",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "90%",
+    "holyDmgMod": "100%",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "650?",
+    "pushable": "No",
+    "implemented": "9.60",
+    "loot": [
+        {
+            "amount": "1-100",
+            "itemName": "Gold Coin"
+        },
+        {
+            "amount": "1-10",
+            "itemName": "Platinum Coin"
+        },
+        {
+            "amount": "0-4",
+            "itemName": "Great Health Potion"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "Spider Silk"
+        },
+        {
+            "itemName": "Steel Helmet"
+        },
+        {
+            "itemName": "Knight Legs"
+        },
+        {
+            "itemName": "Knight Armor"
+        },
+        {
+            "itemName": "Platinum Amulet"
+        },
+        {
+            "itemName": "Stealth Ring"
+        },
+        {
+            "itemName": "Energy Ring"
+        },
+        {
+            "itemName": "Time Ring"
+        },
+        {
+            "itemName": "Spool of Yarn"
+        },
+        {
+            "itemName": "Bloody Edge",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Dreaded Cleaver",
+            "rarity": "rare"
+        }
+    ],
+    "walksaround": "Fire",
+    "exp": "2200",
+    "creatureclass": "Invertebrates",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Arachnids",
+    "race_id": "901",
+    "senseinvis": "?",
+    "illusionable": "no",
+    "armor": "58",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Mamma Longlegs",
+    "isboss": "yes",
+    "behaviour": "Similar to a [[Hydra]] but with weaker healing.",
+    "location": "South-west of [[Venore]] ({{Mapper Coords|127.238|125.105|7|4|text=here}}).",
+    "iceDmgMod": "80%",
+    "strategy": "All depends on your level. If you are a high level you can just run around and combo rod/wand with [[exori mort]] or just using [[Sudden Death]]. If you are a lower level the best thing to defeat this boss is using [[Fire Field]] and run around it while attacking. Another alternative is to use [[Fire Wall]] and move across the middle square causing Mamma to run around the top or bottom of the wall, this is the most effective way to kill her at low levels\n[[Paladins]] may want to use a shield, and [[Assassin Stars]] to kill it fast.",
+    "energyDmgMod": "85%",
+    "deathDmgMod": "100%",
+    "status": "event"
+}

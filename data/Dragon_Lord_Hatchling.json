@@ -1,0 +1,77 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "They are basically like dragons.",
+    "walksthrough": "Fire",
+    "hp": "750",
+    "abilities": "{{Ability List\n |{{Melee|0-130}}\n |{{Ability|Fire Wave|90-137|element=fire\n  |scene={{Scene|spell=7sqmwave|effect=Fireball Effect|caster=Dragon Lord Hatchling|look_direction=east|damage_target=Fire Effect}}}}\n |{{Ability|Fireball|55-105|element=fire\n  |scene={{Scene|spell=2sqmballtarget|effect=Fireball Effect|caster=Dragon Lord Hatchling|missile=Fire Missile|missile_direction=south-east|missile_distance=2/2|damage_target=Fire Effect}}}}\n |{{Ability|Creates Fire Fields|element=fire field\n  |scene={{Scene|spell=1sqmballtarget|effect=Fire|caster=Dragon Lord Hatchling|missile=Fire Missile|missile_direction=south-east|missile_distance=2/2}}}}\n |{{Healing|range=40-53\n  |scene={{Scene|spell=buffspell|effect=Blue Sparkles Effect|caster=Dragon Lord Hatchling|look_direction=south|effect_on_caster=yes}}}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "holyDmgMod": "100%",
+    "maxdmg": "335",
+    "pushable": "No",
+    "implemented": "8.10",
+    "loot": [
+        {
+            "amount": "1-165",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Dragon Ham",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Green Mushroom",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Mana Potion",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Magma Boots",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Energy, Poison",
+    "exp": "645",
+    "mitigation": "1.02",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "dragon lord hatchling",
+    "illusionable": "yes",
+    "armor": "29",
+    "convince": "--",
+    "name": "Dragon Lord Hatchling",
+    "isboss": "no",
+    "iceDmgMod": "110%",
+    "energyDmgMod": "105%",
+    "deathDmgMod": "100%",
+    "plural": "dragon lord hatchlings",
+    "hpDrainDmgMod": "100%",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "Usually it takes decades or even centuries until a dragon lord evolves from an ordinary dragon. Sometimes though, when very ancient and powerful dragon lords mate, a child is born with a fraction of its parents immense power. The body of such a Dragon Lord Hatchling is protected by red scales which already hint on its powerful destiny. The powers of a Dragon Lord Hatchling outclass those of any ordinary hatchling. So to speak born into the nobility of dragon kind, the Dragon Lord Hatchlings contain the worst traits any dragon hatchling could have. Although they are able to control their appetite in a better way than other hatchlings, they only use this self-restraint for cruel cat and mouse games they love to play with their soon-to-be food. And food can be almost everything that is or has been alive, even their own kind. Particularly, old and sick dragons, that did not leave early enough for the fabled dragon cemetery, often fall prey to their malicious offspring. As dragons are not willing to teach anything to their hatchlings, the youngsters have to become keen observers to pick up a few tricks and some magic from the older generation.",
+    "speed": "84",
+    "pushobjects": "Yes",
+    "fireDmgMod": "0%",
+    "sounds": [
+        "Fchu?",
+        "Rooawwrr"
+    ],
+    "runsat": "30",
+    "bestiaryclass": "Dragon",
+    "creatureclass": "Reptiles",
+    "earthDmgMod": "25%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Dragons",
+    "race_id": "386",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%",
+    "bestiaryname": "dragonlordhatchling",
+    "behaviour": "Often comes in groups with [[Dragon Lord]]s.",
+    "location": "[[Thais Dragon Lair]], [[Venore Dragon Lair]], [[Edron Dragon Lair]] by the [[Fire Axe Quest]], on the way to [[Pythius the Rotten]], [[Razachai]], [[Dragonblaze Peaks]].",
+    "strategy": "Same as used with [[Dragon]]s, however they have ability to burn you with [[Firebomb]]. Be careful as they usually spawn near dragons and dragon lords, they're more annoying than dangerous, but can give you a free trip to temple if they combo with a dragon, it's better to make them run by lowering their hp to focus on stronger creatures.<br />\n'''Knights''': Try to kill them as fast as you can before they spit fire fields on you, if you get surrounded cast exori or exori gran, as this will make them run and clear space for you to run, not really worth hunting as most will be empty or yield low amount of [[gold]].<br />\n'''Paladins''': Try to kill them as fast as it is possible also avoid their waves.Also, you will need mana to heal if he hits you with the waves.<br />\n'''Mages''': Just use wand and exori frigo/vis to kill them as fast as you can."
+}

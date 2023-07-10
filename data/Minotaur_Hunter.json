@@ -1,0 +1,157 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "These creatures can be skinned with an [[Obsidian Knife]]. See also: [[Minotaur Leather/Skinning]].",
+    "walksthrough": "None",
+    "hp": "1400",
+    "abilities": "{{Ability List \n |{{Ability|[[Royal Spear]] Throw (causes [[Bleeding]])|0-200|element=physical\n  |scene={{Scene|spell=5sqmstrike|background=canvas|caster=Minotaur Hunter|look_direction=south|missile=Royal Spear Missile|missile_direction=south-east|missile_distance=5/5}}}}\n|{{Ability|[[Explosion]]|0-200|fire}}\n|{{Ability|[[Groundshaker]]|0-43+|physical}}\n|{{Ability|[[Throwing Knife]] 3x3 area attack|0-134+|physical}}\n|{{Healing|range=0-250+}}\n|{{Haste}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "secondarytype": "Oramond Minotaurs",
+    "holyDmgMod": "90%",
+    "maxdmg": "245+",
+    "pushable": "?",
+    "implemented": "10.50",
+    "loot": [
+        {
+            "amount": "0-199",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "amount": "0-3",
+            "itemName": "Platinum Coin",
+            "rarity": "common"
+        },
+        {
+            "amount": "0-5",
+            "itemName": "Hunting Spear",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "Blank Rune",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "0-5",
+            "itemName": "Royal Spear",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "Strong Mana Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "Strong Health Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Soul Orb",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "Minotaur Horn",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Minotaur Leather",
+            "rarity": "semi-rare"
+        },
+        {
+            "amount": "0-3",
+            "itemName": "Small Ruby",
+            "rarity": "semi-rare"
+        },
+        {
+            "amount": "0-3",
+            "itemName": "Small Amethyst",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Stealth Ring",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Green Piece of Cloth",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Blue Piece of Cloth",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Red Piece of Cloth",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Mino Shield",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Yellow Gem",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Red Gem",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Minotaur Trophy",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Mooh'tah Plate",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Poison, Fire, Energy",
+    "exp": "1700",
+    "mitigation": "1.71",
+    "attacktype": "Distance",
+    "article": "a",
+    "actualname": "minotaur hunter",
+    "illusionable": "no",
+    "armor": "36",
+    "convince": "--",
+    "name": "Minotaur Hunter",
+    "isboss": "no",
+    "iceDmgMod": "105%",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "100%",
+    "plural": "minotaur hunters",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "The minotaur hunters are not committed to hunt for food but rather to act as scouts and eliminate dangers for the minotaur society. Expert trackers and big game hunters they shun other distance weapons then the spear. They are equally skilled in throwing their spears as in wielding them in battle and as they are trained in some minotaur form of paladin knowledge they are able to conjure them on their own in time of need. A hunter's training begins early in life and requires a certain dedication as the tests of skill and endurance are increasingly challenging from year to year. Each year a number of candidates is rejected and sent to other duties often to the army where their skills are welcome. So many minotaur soldiers possess some grade of schooling in outdoorsmanship. Those who pass all tests are welcomed into the local hunters' lodges. As other societies in minotaur civilization, the hunters are rather secretive about the rituals and secret knowledge of their lodges so little is known beyond the obvious. Only fully accepted hunters are taught the last secrets of the lodges, as certainly several spells to hone their skills. They are also schooled in the anatomy of different species to inflict maximum damage by exploiting weak spots. This is especially handy when fighting larger creatures that are usually only engaged by groups of hunters. Such groups are formed permanently and each hunter belongs to one. The number of members usually differs from five to fifteen with a group size of eight being the standard. A group with fewer than five members is disbanded and the remaining hunters are split between other groups. Still hunters are also sent on solo missions, especially when working for the army. They are the scouts, lookouts and responsible for the choice of camp-sites of a marching army. In Battle they are usually hold back as most minotaur generals yet lack to see their usefulness in open battles. Employed as a group in tandem with an army they are used to harass the enemy, spy on it's move and sabotage their resources. The minotaur hunters really shine though, when it comes to hunt great beasts of the deep such as dragons and behemoths. That is where their training kicks in most and provides groups of hunters with the knowledge and momentum to overcome seemingly overpowered foes. <br />Though formerly seen rarely in combat with other the beasts, some smaller and newer minotaur communities rely less and less on a formalized army and according battle tactics. Their troops see a greater number of hunters employed on the battlefield with their combat style working more then well with the skirmish approach that such communities usually employ.",
+    "speed": "115",
+    "pushobjects": "yes",
+    "fireDmgMod": "90%",
+    "sounds": [
+        "You are marked for death!",
+        "This time the prey is you!",
+        "You are hunted!",
+        "You'll make a fine trophy!",
+        "Bullseye!"
+    ],
+    "runsat": "red",
+    "bestiaryclass": "Humanoid",
+    "creatureclass": "Humanoids",
+    "earthDmgMod": "100%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Minotaurs",
+    "spawntype": [
+        "Regular",
+        "Unblockable"
+    ],
+    "race_id": "1052",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "minotaurhunter",
+    "location": "[[Oramond/Southern Plains]], [[Minotaur Hills]], [[Oramond Dungeon]] (depending on Magistrate votes), [[Underground Glooth Factory]]",
+    "strategy": "Their explosion attack is where you'll probably get most damage from. They are usually not a huge threat when they're alone but in groups they quickly become very dangerous. It is suggested to take out any other creatures present before attempting to kill the Minotaur Hunter as they can flee and lure you into an army of other minotaurs. When they haste they are about as fast as a level 160."
+}

@@ -1,0 +1,110 @@
+{
+    "summon": "490",
+    "templateType": "Creature",
+    "notes": "Usually found with stronger [[Corym]].",
+    "isarenaboss": "no",
+    "walksthrough": "None.",
+    "hp": "250",
+    "abilities": "{{Ability List|{{Melee|0-100+?}}}}",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "holyDmgMod": "105%",
+    "maxdmg": "{{Max Damage|physical=100+?}}",
+    "pushable": "no",
+    "usedelements": "Physical",
+    "implemented": "9.80",
+    "loot": [
+        {
+            "amount": "0-35",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Rat Cheese",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Soft Cheese",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Cheese",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Bola",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Earflap",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Cheese Cutter",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Ratana",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Life Preserver",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Leather Harness",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Cheesy Figurine",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Spike Shield",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Rat God Doll",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Energy, Fire, Poison",
+    "exp": "150",
+    "mitigation": "0.62",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "corym charlatan",
+    "illusionable": "yes",
+    "armor": "17",
+    "convince": "490",
+    "name": "Corym Charlatan",
+    "isboss": "no",
+    "iceDmgMod": "100%",
+    "energyDmgMod": "75%",
+    "deathDmgMod": "85%",
+    "plural": "corym charlatans",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "no",
+    "occurrence": "Common",
+    "bestiarytext": "The Charlatans are the scouts and spies of the Corym. They are formidable diggers and unsurpassed in agility by any other Corym. They are able to crawl through even the smallest and most twisted tunnels, and reach places where other Corym can not go. As opportunity makes thieves, other races consider the Charlatans to be the worst of thieves, but by other Corym, they are held in regard as daring heroes. Their campfire stories are full of the exploits of the Charlatans, and detail how they outsmarted and outran their enemies. In combat, the Charlatans like to fight dirty. What they lack in strength they make up for in agility, and their attacks are often aimed at vulnerable spots and accompanied by feints, to catch their opponents off guard. The more Charlatans are involved in a fight to overpower an enemy, the bolder their attacks. Although they generally tend to be rather cowardly, most Charlatans are so convinced of the superiority of the numerous talismans and fetishes they wear that they will not back away even from a fight with more powerful opponents; and the Corym believe that through their talismans, a kind of supernatural power is bestowed upon them as well. They fervently pose as healers, diviners and magicians, utterly trusting their charms and ignoring all facts that might contradict their conviction.<br />Charlatans are usually the first to be encountered if Corym move into an area, and if a single Corym is encountered, it is usually a Charlatan. On the other hand, as a saying goes, for one Charlatan you see there are always two more in hiding, and indeed Charlatans generally travel in packs. The death rate of the Charlatans is incredibly high and only the immense reproduction rate of the Corym still keeps them in existence. Oddly enough, most Corym that are born are found suitable by the Skirmishers to belong to the Charlatans. This is even more true in times of war. The Corym see this as a sign of their gods' favour.",
+    "speed": "95",
+    "pushobjects": "?",
+    "fireDmgMod": "100%",
+    "sounds": [
+        "Mehehe!",
+        "Beware! Me hexing you!"
+    ],
+    "runsat": "0",
+    "bestiaryclass": "Humanoid",
+    "creatureclass": "Humanoids",
+    "earthDmgMod": "75%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Corym",
+    "race_id": "916",
+    "bestiarylevel": "Easy",
+    "senseinvis": "no",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "charlatan",
+    "location": "[[Venore Corym Cave]], [[Tiquanda Corym Cave]], [[Corym Black Market]], [[Carlin Corym Cave]]/[[Dwarf Mines]] Diggers Depths Mine, [[Upper Spike]].",
+    "strategy": "[[Knight]]s of level 20 with 60/60 skills and decent armor can fight up to 4 at a time using [[Wound Cleansing]] and [[Health Potion]]s. Very similar to a [[Cyclops]]."
+}

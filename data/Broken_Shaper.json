@@ -1,0 +1,169 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "walksthrough": "?",
+    "hp": "2200",
+    "abilities": "{{Ability List| {{Melee|0-200?}}|{{Healing|range=0-327+}}|{{Haste}}|{{Ability|[[Music Notes Wave]]|0-56+|element=?}} }}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "holyDmgMod": "80%",
+    "maxdmg": "250+",
+    "pushable": "no",
+    "implemented": "11.02.4128",
+    "loot": [
+        {
+            "amount": "1-173",
+            "itemName": "Gold Coin",
+            "rarity": "always"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "Platinum Coin",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Cave Turnip",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Ancient Belt Buckle",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Cracked Alabaster Vase",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Rhino Horn Carving",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-?",
+            "itemName": "Meat",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Blank Rune",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Brown Mushroom",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Great Health Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Small Sapphire",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Brown Piece of Cloth",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Onyx Chip",
+            "rarity": "semi-rare"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "Orichalcum Pearl",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Ancient Coin",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Small Ruby",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Ring of Healing",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Yellow Piece of Cloth",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Coral Brooch",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Rusted Armor",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Ice Rapier",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Blue Piece of Cloth",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Magic Light Wand",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Red Piece of Cloth",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "White Piece of Cloth",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Green Piece of Cloth",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Boots of Haste",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Fire, Poison",
+    "exp": "1600",
+    "mitigation": "1.46",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "broken shaper",
+    "illusionable": "no",
+    "armor": "37",
+    "convince": "--",
+    "name": "Broken Shaper",
+    "isboss": "no",
+    "iceDmgMod": "80%",
+    "energyDmgMod": "115%",
+    "deathDmgMod": "100%",
+    "plural": "broken shapers",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "For a long time, the Broken Shapers were only a rare sight. They had been classified as a subspecies of the troglodytes, which are considered to be extinct nowadays. However, a recent breakthrough links the Broken Shapers with the once proud race of the Astral Shapers. It can only be speculated what this noble race had to endure to end like this.\nHaving lived hidden in underground caves for centuries, they have hardly anything in common with their ancestry anymore. They have turned into physically degenerated scavengers - one could even describe them as feral predators. These wretched creatures are primitive at best, very close to losing their mind completely and turning into mere animals. The hostile environment has turned them in a similarly hostile race. They know no mercy and consider intruders either as threat or prey. With hardly any resources at hand, the looting of slain prospectors or adventurers is very important for their kind.\nThe Broken Shapers seem magically attracted by places at which their power used to be strong many centuries ago. They look at the ruins left by their ancestors almost with religious reverence. Sometimes objects of the past replace idols or shrines in their rituals. Those who are slain and plundered by the Broken Shapers may consider themselves as lucky. Less fortunate ones are dragged screaming into the Broken Shapers' lairs to 'participate' in gruesome rites in order to appease some ancient revered artefact.\nEven though the Broken Shapers tend to stick to certain territories if possible, they are also a cowardly race that will leave an encampment when threatened. Then they roam the depths of Tibia until they find another hideout. It is quite common that they keep sending back scouts for several generations to find out if their old territory is safe once more.\nThe Broken Shapers use only the most primitive tools and weapons, however, many of them are augmented with pieces of old Shaper equipment. The many centuries of unforgiving selection have turned the Broken Shapers into fierce fighters with lightning reflexes, surprisingly muscular bodies, paired with a desperate ferocity. Their senses have adapted to the subterranean environment which usually gives them an edge against intruders. However, they seem to avoid daylight and they appear to be afraid of fire and light spells.\nA lonely Broken Shaper will rather flee than fight. Only when they outnumber their opponent, they turn into quite fierce and aggressive fighters. As a whole the race with its few and splintered localised territories poses no big threat. They also seem to lack any ambitions. In these days in which the heritage of the Shapers gains more and more importance though, hostile encounters are increasing rapidly.",
+    "speed": "155",
+    "pushobjects": "yes",
+    "fireDmgMod": "115%",
+    "sounds": [
+        "<grunt>",
+        "Raar!!"
+    ],
+    "runsat": "0",
+    "bestiaryclass": "Humanoid",
+    "creatureclass": "Humanoids",
+    "earthDmgMod": "70%",
+    "physicalDmgMod": "90%",
+    "primarytype": "Astral Shapers",
+    "race_id": "1321",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "degeneratedshaper",
+    "behaviour": "Fights in close combat.",
+    "location": "[[Astral Shaper Dungeon]], [[Astral Shaper Ruins]], [[Old Masonry]]",
+    "strategy": "Unknown."
+}

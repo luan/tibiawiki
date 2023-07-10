@@ -1,0 +1,79 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "abyssal calamaries",
+    "hpDrainDmgMod": "100%?",
+    "isarenaboss": "no",
+    "walksthrough": "Poison, Fire",
+    "hp": "300",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "speed": "140",
+    "abilities": "{{Ability List|}}",
+    "pushobjects": "no",
+    "healMod": "100%",
+    "paraimmune": "?",
+    "fireDmgMod": "0%",
+    "holyDmgMod": "100%",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "?",
+    "pushable": "no",
+    "runsat": "red",
+    "implemented": "10.70",
+    "bestiaryclass": "Aquatic",
+    "loot": [
+        {
+            "itemName": "Shrimp"
+        },
+        {
+            "itemName": "Fish"
+        },
+        {
+            "itemName": "Small Ruby"
+        },
+        {
+            "itemName": "Black Pearl",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "White Pearl",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Small Sapphire",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Small Amethyst"
+        }
+    ],
+    "walksaround": "Energy",
+    "exp": "200",
+    "creatureclass": "Invertebrates",
+    "earthDmgMod": "0%",
+    "mitigation": "0.36",
+    "physicalDmgMod": "105%",
+    "primarytype": "Mollusks",
+    "spawntype": [
+        "Regular"
+    ],
+    "race_id": "1105",
+    "attacktype": "Melee",
+    "bestiarylevel": "Easy",
+    "senseinvis": "?",
+    "article": "an",
+    "actualname": "abyssal calamary",
+    "illusionable": "yes",
+    "armor": "12",
+    "drownDmgMod": "0%",
+    "convince": "?",
+    "name": "Abyssal Calamary",
+    "isboss": "no",
+    "location": "[[Seacrest Grounds]].",
+    "iceDmgMod": "100%",
+    "strategy": "Just kill it. It's weak compared to the creatures it spawns with.",
+    "energyDmgMod": "105%",
+    "deathDmgMod": "100%"
+}

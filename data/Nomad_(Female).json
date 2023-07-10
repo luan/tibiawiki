@@ -1,0 +1,99 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "Only appear during the [[Nomads Mini World Change]]. They are basically the same as the [[Nomad (Basic)|male counterpart]].\n\n<gallery>Female Nomad Camp.png</gallery>",
+    "walksthrough": "None",
+    "hp": "160",
+    "abilities": "{{Ability List|{{Melee|0-80}}}}",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "holyDmgMod": "80%",
+    "maxdmg": "{{Max Damage|physical=80}}",
+    "pushable": "yes",
+    "usedelements": "Physical",
+    "implemented": "9.40",
+    "loot": [
+        {
+            "amount": "1-40",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Rope Belt",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Axe",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Brass Armor",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Dirty Turban",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Mace",
+            "rarity": "semi-rare"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "Potato",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Iron Helmet",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Steel Shield",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Nomad Parchment",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Fire, Energy, Poison",
+    "exp": "60",
+    "mitigation": "0.41",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "nomad",
+    "illusionable": "no",
+    "armor": "6",
+    "convince": "?",
+    "name": "Nomad (Female)",
+    "isboss": "no",
+    "iceDmgMod": "110%",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "110%",
+    "status": "event",
+    "plural": "nomads",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Uncommon",
+    "speed": "95",
+    "pushobjects": "no",
+    "fireDmgMod": "80%",
+    "sounds": [
+        "I will leave your remains to the vultures!",
+        "We are the true daughters of the desert!",
+        "We are the true sons of the desert!",
+        "Your riches will be mine!"
+    ],
+    "bestiaryclass": "Human",
+    "creatureclass": "Humans",
+    "earthDmgMod": "100%",
+    "physicalDmgMod": "110%",
+    "primarytype": "Outlaws",
+    "race_id": "777",
+    "bestiarylevel": "Easy",
+    "senseinvis": "no",
+    "drownDmgMod": "100%?",
+    "behaviour": "Runs away at 15hp.",
+    "location": "South of the [[Ancient Ruins Tomb]], {{Mapper Coords|129.176|127.105|7|1|text=here}}.",
+    "strategy": "Similar to [[Wild Warrior]]s and [[Bandit]]s. Easy to kill by players above [[level]] 15. But be careful not to lure more of them when one starts running away."
+}

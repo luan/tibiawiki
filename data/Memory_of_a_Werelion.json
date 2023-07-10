@@ -1,0 +1,75 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "walksthrough": "?",
+    "hp": "3880",
+    "abilities": "{{Ability List|}}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "100%?",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "?",
+    "pushable": "?",
+    "usedelements": "?",
+    "implemented": "12.85.11485",
+    "loot": [
+        {
+            "itemName": "Rainbow Quartz"
+        },
+        {
+            "itemName": "Meat"
+        },
+        {
+            "itemName": "Coral Brooch"
+        },
+        {
+            "itemName": "Special Fx Box"
+        },
+        {
+            "itemName": "Gold Coin"
+        },
+        {
+            "itemName": "Onyx Chip"
+        },
+        {
+            "itemName": "Small Enchanted Ruby"
+        },
+        {
+            "itemName": "Great Spirit Potion"
+        },
+        {
+            "itemName": "Silver Brooch"
+        },
+        {
+            "itemName": "Small Diamond"
+        },
+        {
+            "itemName": "Candy Floss (Large)"
+        },
+        {
+            "itemName": "Bottle of Champagne"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "1800",
+    "earthDmgMod": "100%?",
+    "physicalDmgMod": "100%?",
+    "race_id": "2185",
+    "senseinvis": "?",
+    "article": "a",
+    "actualname": "memory of a werelion",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "?",
+    "name": "Memory of a Werelion",
+    "isboss": "no",
+    "iceDmgMod": "100%?",
+    "energyDmgMod": "100%?",
+    "deathDmgMod": "100%?"
+}

@@ -1,0 +1,162 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "Magma crawlers position themselves at a distance and use fire-based distance attacks. It can be [[Magma Crawler (Mount)|tamed]] using [[Glow Wine]] or a [[Music Box]].",
+    "isarenaboss": "no",
+    "walksthrough": "Fire, Poison",
+    "hp": "4800",
+    "abilities": "{{Ability List\n |{{Melee|100-500?}}\n |{{Ability|Fire Berserk|0-700|element=fire\n  |scene={{Scene|spell=3x3spell|effect=Fire Effect|caster=Magma Crawler|casting_effect=Fire Effect}}}}\n |{{Ability|Great Death Beam|0-700?|element=death\n  |scene={{Scene|spell=8sqmbeam|effect=Death Effect|caster=Magma Crawler|look_direction=east}}}}\n |{{Ability|Flame Wave|0-850?|element=fire\n  |scene={{Scene|spell=3sqmtwave|effect=Flame Effect|caster=Magma Crawler|look_direction=east}}}}\n |{{Ability|Burning Strike|element=burning\n  |scene={{Scene|spell=3sqmstrike|effect=Fire Effect|caster=Magma Crawler|missile=Fire Missile|missile_direction=south-east|missile_distance=3/3}}}}\n |{{Ability|Burning Fireball on itself|element=burning\n  |scene={{Scene|spell=2sqmballself|effect=Blast Effect|caster=Magma Crawler|casting_effect=Blast Effect}}}}\n |{{Ability|Spark wave|Unknown Effect, probably Paralysis same as [[Infected Weeper]]|element=?|scene={{Scene|spell=3sqmtwave|effect=Sparks Effect|caster=Magma Crawler|look_direction=east}}}}\n |{{Ability|Red Sparkles Explosion on itself|Unknown Effect|element=?\n  |scene={{Scene|spell=plusspell|effect=Red Sparkles Effect|caster=Magma Crawler|casting_effect=Red Sparkles Effect}}}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "holyDmgMod": "100%",
+    "maxdmg": "1600",
+    "pushable": "?",
+    "implemented": "9.60",
+    "loot": [
+        {
+            "amount": "5-199",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-5",
+            "itemName": "Platinum Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Blazing Bone",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Brown Crystal Splinter",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-10",
+            "itemName": "Crystalline Arrow",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Fiery Heart",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Great Health Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Great Mana Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Green Crystal Fragment",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Magma Clump",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "Small Diamond",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Blue Crystal Shard",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Iron Ore",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Magma Amulet",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Wand of Draconia",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "White Piece of Cloth",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Yellow Piece of Cloth",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Black Shield",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Coal",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Energy Ring",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Fire Sword",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Magma Boots",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Yellow Gem",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Red Piece of Cloth",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Wand of Everblazing",
+            "rarity": "rare"
+        }
+    ],
+    "walksaround": "Energy",
+    "exp": "2700",
+    "mitigation": "2.51",
+    "attacktype": "Distance",
+    "article": "a",
+    "actualname": "magma crawler",
+    "illusionable": "no",
+    "armor": "84",
+    "convince": "--",
+    "name": "Magma Crawler",
+    "isboss": "no",
+    "iceDmgMod": "90%",
+    "energyDmgMod": "90%",
+    "deathDmgMod": "75%",
+    "plural": "magma crawlers",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "lightcolor": "200",
+    "occurrence": "Common",
+    "bestiarytext": "The Magma Crawler is probably an artificially bred life form. Its sheer mindless aggressiveness compared to the obvious strategic deployment of the Magma Crawler can lead to no other conclusion than that it is a biological weapon which is very difficult to control. It can safely be assumed that it originated in the breeding pens of what the gnomes call 'those below'.If this is the case, it is bred for war and destruction. It is probably deployed to do maximum damage in underground environments. After a Magma Crawler has been set loose, it is usually abandoned. This explains why wandering specimens can be found almost anywhere underground, usually at the end of a path of destruction. As only male Magma Crawlers have been found, it is assumed that the female creatures are retained for breeding purposes, and to prevent the race from spreading excessively. Given the longevity of the Magma Crawlers, this precautionary measure is not overly effective. Some captured specimens survived for dozens of years without showing significant signs of aging. Considering the threat even a single Magma Crawler poses, it is not unusual for a group of them to cause entire cave systems to collapse. It is not yet known if the Magma Crawlers somehow manage to escape the havoc they wreak or if they perish in it.",
+    "speed": "230",
+    "pushobjects": "?",
+    "fireDmgMod": "0%",
+    "sounds": [
+        "Crrroak!"
+    ],
+    "lightradius": "5",
+    "bestiaryclass": "Construct",
+    "creatureclass": "Elementals",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "95%",
+    "primarytype": "Magma-Elementals",
+    "race_id": "885",
+    "bestiarylevel": "Hard",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "magmacrawler",
+    "behaviour": "This kind of creature keep distance from his target,if target reach him very close he use melee and fire berserk. His great death beam is really dangerous, making damage every turn ~1200 hit points",
+    "location": "[[Warzone 2]].",
+    "strategy": "Unknown."
+}

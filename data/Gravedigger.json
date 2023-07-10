@@ -1,0 +1,113 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "{{JSpoiler|Use a [[Nail Case]] on it to tame a [[Hellgrip]]. You must have completed the [[The Gravedigger of Drefia Quest]] to do this.}}",
+    "isarenaboss": "no",
+    "walksthrough": "Energy",
+    "hp": "1500",
+    "abilities": "{{Ability List| {{Melee|0-320?|poison=7}}|{{Ability|[[Invisibility]]|element=invisible}}|{{Ability|[[Mana Drain]]|40-250; melee range only|element=manadrain}}|{{Ability|strong [[Self-Healing]]|element=healing}}|{{Haste|[[Strong Haste]]}}|{{Ability|large Death Ball on self|[[Drunkenness]]|element=drunk}}|{{Ability|[[Death Damage|Melee Death Hit]]|175-300?|element=death}} }}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "holyDmgMod": "105%",
+    "maxdmg": "630?",
+    "pushable": "no",
+    "implemented": "10.10",
+    "loot": [
+        {
+            "amount": "1-148",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Platinum Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Unholy Bone",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Pile of Grave Earth",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Safety Pin",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-8",
+            "itemName": "Sudden Death Rune",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Wand of Inferno",
+            "rarity": "semi-rare"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Strong Mana Potion",
+            "rarity": "semi-rare"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Strong Health Potion",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Death Ring",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Yellow Gem",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Mysterious Voodoo Skull",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Skull Staff",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Fire, Poison",
+    "exp": "950",
+    "mitigation": "1.68",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "gravedigger",
+    "illusionable": "no",
+    "armor": "58",
+    "convince": "--",
+    "name": "Gravedigger",
+    "isboss": "no",
+    "iceDmgMod": "0%",
+    "energyDmgMod": "0%",
+    "deathDmgMod": "0%",
+    "plural": "gravediggers",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "The gravediggers are, in apparition, akin to the cursed hands of fate, and share some aspects of their character. The gravediggers are undead creatures that have first been sighted near the necromancer sites in Drefia, where they have at first been employed for strenuous handiworks such as digging and building up the underground ruins of Drefia. <br />Some speculate that the hands were chopped off live subjects and then enhanced through hideous rituals and processes to take their actual, ghastly form. However, the beasts proved to have a will of their own and soon broke free from their masters' grip, and some still roam the premises like other undead. They are solitary creatures and quite aggressive, but a few cases have been reported where humans made friends with a gravedigger, which lasted a lifetime.",
+    "speed": "120",
+    "pushobjects": "?",
+    "fireDmgMod": "110%",
+    "sounds": [
+        "High Five!",
+        "scrabble",
+        "Put it there!"
+    ],
+    "bestiaryclass": "Undead",
+    "creatureclass": "Demons",
+    "earthDmgMod": "105%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Hands",
+    "race_id": "975",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "gravedigger",
+    "behaviour": "They fight in close range and run on deep red health.",
+    "location": "Around the higher level areas of [[Drefia]], including the [[Drefia Grim Reaper Dungeons]] and the [[Drefia Vampire Crypt]].",
+    "strategy": "Be prepared to frequently cast spells or area runes as they often go invisible. If it appears with other creatures, it is recommended to focus on the Gravedigger first as the mana drain is quite annoying. Tip for knights, you could use the spell [[Inflict Wound]] on them, this will turn them visible."
+}

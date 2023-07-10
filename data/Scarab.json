@@ -1,0 +1,92 @@
+{
+    "summon": "395",
+    "templateType": "Creature",
+    "notes": "There is a small chance killing a Scarab will spawn a [[Scorpion]] in its place, if [[Horestis]] has been recently killed during [[The Mummy's Curse World Change]]. When this happens, the message \"{{Sound|Horestis' curse spawns a vengeful scorpion from the body!}}\" will appear.\n<noinclude><gallery position=\"center\" style=\"text-align:center\" captionalign=\"center\" widths=\"250\" heights=\"250\" hideaddbutton=\"true\" mode=\"nolines\">HorestisSpawnAgain.png|Scarab spawning after a scorpion is killed during Horestis' curse</gallery></noinclude>",
+    "walksthrough": "Poison",
+    "hp": "320",
+    "abilities": "{{Ability List\n |{{Melee|0-65}}\n |{{Ability|Earth Strike|15-25|earth\n  |scene={{Scene|spell=1sqmstrike|effect=Poison Effect 3|caster=Scarab|missile_direction=south-east|missile_distance=2/2}}}}\n |{{Ability|Creates Poison Fields|element=poison field\n  |scene={{Scene|spell=buffspell|effect=Poison_Gas|caster=Scarab|effect_on_caster=yes}}}}\n |{{Haste|scene={{Scene|spell=buffspell|effect=Red Sparkles Effect|caster=Scarab|effect_on_caster=yes}}}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "holyDmgMod": "100%",
+    "maxdmg": "115",
+    "pushable": "Yes",
+    "implemented": "7.3",
+    "loot": [
+        {
+            "amount": "0-52",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "Meat",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Piece of Scarab Shell",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Scarab Coin",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Small Amethyst",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Daramian Mace",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Small Emerald",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Fire, Energy",
+    "exp": "120",
+    "mitigation": "0.67",
+    "attacktype": "Melee",
+    "history": "As of November 16, 2011, [[Scarab]]s as well as other poison-causing creatures can no longer be convinced. This was to prevent PvP abuse whereby a player would trick another player into convincing creatures that would later frag low level characters with poison applied earlier. After enough kills the player would obtain a [[Red Skull]] and would lose all items belonging to them upon being killed. More can be read in the news article \"{{OfficialNewsArchive|1894|Content Fixes}}\".",
+    "article": "a",
+    "actualname": "scarab",
+    "illusionable": "yes",
+    "armor": "21",
+    "convince": "--",
+    "name": "Scarab",
+    "isboss": "no",
+    "iceDmgMod": "80%",
+    "energyDmgMod": "90%",
+    "deathDmgMod": "100%",
+    "plural": "scarabs",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "The Scarab is in general associated with buried secrets and wisdom, which made this beetle an important religious symbol for the city of Ankrahmun. Typically found in their underground lairs, they also inhabit sacred places such as temples or tombs. Scarabs protect their charge with ferocious intent. They will attack anyone who dares to intrude their area and will not relent until the threat is eliminated. Their shells are immensely hard and sometimes weapons might get caught in their chitinous armor. They are able to concentrate their poison in a deadly cloud of nauseating fumes that especially cover their retreat if overwhelmed.",
+    "speed": "80",
+    "pushobjects": "Yes",
+    "fireDmgMod": "118%",
+    "sounds": [
+        ""
+    ],
+    "runsat": "80<!-- needs confirmation-->",
+    "bestiaryclass": "Vermin",
+    "creatureclass": "Invertebrates",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "95%",
+    "primarytype": "Insects",
+    "spawntype": [
+        "Regular",
+        "Raid",
+        "Triggered",
+        "Unblockable"
+    ],
+    "race_id": "83",
+    "bestiarylevel": "Easy",
+    "senseinvis": "no",
+    "drownDmgMod": "100%",
+    "bestiaryname": "scarab",
+    "behaviour": "Scarabs will push or kill weaker creatures in its path, like [[larva]]s.",
+    "location": "[[Ankrahmun Tombs]], the sand around [[Ankrahmun]] (use a shovel), deep in [[Larva]] caves, the path leading to [[Chor]], beneath [[Fenrock]], [[Lion's Rock]].",
+    "strategy": "'''[[Knights]]''' At around lvl 25 with skills 55/50 with healing when required.<br />\n'''[[Paladins]]''' At around lvl 20 With skills 55/45 these can be quite good exp as long as you're not cornered too often.<br />\n'''[[Mages]]''' might do better to avoid them because of the very poor [[Exp/HP Ratio]], however could be a good and cheap option if mages hunt them with [[Wand of Inferno]] or [[Underworld Rod]]."
+}

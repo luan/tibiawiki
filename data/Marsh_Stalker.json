@@ -1,0 +1,96 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "isarenaboss": "no",
+    "walksthrough": "None.",
+    "hp": "100",
+    "abilities": "{{Ability List\n |{{Melee|0-12}}\n |{{Ability|Poisons you|starting from 1 hp|poisoned}}\n |{{Ability|Water Wave|?}}\n |{{Ability|Explosive Stone|0?\n  |scene={{Scene|spell=3sqmstrike|effect=Explosion Effect|caster=Marsh Stalker|missile=Small Stone Missile|missile_direction=south-east|missile_distance=3/3}}}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "holyDmgMod": "100%",
+    "maxdmg": "{{Max Damage|physical=12|earth=1}}",
+    "pushable": "no",
+    "implemented": "9.80",
+    "loot": [
+        {
+            "amount": "0-23",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Longsword",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "Worm",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "Meat",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "Fish",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Marsh Stalker Beak",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Marsh Stalker Feather",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Rope",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Seeds",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Energy, Fire, Poison",
+    "exp": "50",
+    "mitigation": "0.23",
+    "attacktype": "Melee",
+    "history": "As of [[Updates/11.02]] this creature became more popular to hunt for its [[Marsh Stalker Feather]], needed in the [[Forgotten Knowledge Quest]].",
+    "article": "a",
+    "actualname": "marsh stalker",
+    "illusionable": "no",
+    "armor": "3",
+    "convince": "--",
+    "name": "Marsh Stalker",
+    "isboss": "no",
+    "iceDmgMod": "95%",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "100%",
+    "plural": "marsh stalkers",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "Venorean authorities put a lot of effort into suppressing the voices who claim the Marsh Stalker is a product of magically enforced breeding projects of some trade barons. Even if the Marsh Stalkers were bred on purpose, it is hard to tell now what the original intention behind this project might have been. The Marsh Stalker is very territorial, breeds in great numbers, and has become a bothersome nuisance in the areas where it can be found. Its worst habit is caused by its diet, which consists not only of plants and insects, but also of plant fluids and most notably tree sap, which it obtains by pecking open the bark with its strong beak. As a rule, the trees don't suffer such a treatment and are irreversibly damaged or killed. This poses a threat to all settlements which rely on wood, as Marsh Stalkers are known to ruin the woods of certain areas quite rapidly if unchecked. What is more, the Marsh Stalker is unable to tell a living plant from a wooden construction, and frequently ruins not only the wood supply, but also wooden objects in general. Even worse, the Marsh Stalker considers everything that lives a rival and tries to chase it away using its strong beak and sharp claws. As it is unable to realise that its intimidation tactics do not work, this may lead to a gruesome fight to the bitter end. <br />Still, some people fancy the feathers of the Marsh Stalker as material for tailoring, and Marsh Stalker steak is considered a delicacy in certain areas. Ironically, almost exclusively in areas where the Marsh Stalker is not known as a safety hazard, and quite rare. Some underground arenas raise Marsh Stalkers for cage fights, but raising them is a complicated process that takes a lot of time and effort, and so such fights are very rare. Attempts to train the aggressive birds in some way have not met with any notable success yet. Constant hunts and campaigns have limited the appearance of the Marsh Stalker to rather remote areas, although the beast seems relatively adaptable.",
+    "speed": "75",
+    "pushobjects": "yes",
+    "fireDmgMod": "100%",
+    "sounds": [
+        "Rrrawk! Rrrrawk!"
+    ],
+    "runsat": "10",
+    "bestiaryclass": "Bird",
+    "creatureclass": "Misc",
+    "earthDmgMod": "105%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Birds",
+    "race_id": "914",
+    "bestiarylevel": "Easy",
+    "senseinvis": "no",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "marshstalker",
+    "behaviour": "Chases opponents.",
+    "location": "[[Venore]] swamp surface, [[Venore Salamander Cave]], [[Dryad Gardens]].",
+    "strategy": "Just kill it. Doesn't pose a serious threat but can get in the way."
+}

@@ -1,0 +1,144 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "Ragiazs",
+    "hpDrainDmgMod": "100%?",
+    "notes": "He's the minion of [[Ashfalor]].",
+    "walksthrough": "?",
+    "hp": "280000?",
+    "speed": "?",
+    "abilities": "{{Ability List| {{Melee|?}} }}",
+    "pushobjects": "yes",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "100%?",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "?",
+    "pushable": "no",
+    "cooldown": "44",
+    "implemented": "10.90",
+    "loot": [
+        {
+            "itemName": "Yellow Gem"
+        },
+        {
+            "amount": "5",
+            "itemName": "Small Ruby"
+        },
+        {
+            "itemName": "Amber Staff"
+        },
+        {
+            "amount": "200",
+            "itemName": "Gold Coin"
+        },
+        {
+            "amount": "4",
+            "itemName": "Green Crystal Fragment"
+        },
+        {
+            "amount": "4",
+            "itemName": "Cyan Crystal Fragment"
+        },
+        {
+            "amount": "10",
+            "itemName": "Great Spirit Potion"
+        },
+        {
+            "amount": "25",
+            "itemName": "Platinum Coin"
+        },
+        {
+            "itemName": "Maimer"
+        },
+        {
+            "itemName": "Death Gaze"
+        },
+        {
+            "itemName": "Silver Token",
+            "rarity": "always"
+        },
+        {
+            "itemName": "Rift Bow"
+        },
+        {
+            "itemName": "Small Amethyst"
+        },
+        {
+            "itemName": "Red Crystal Fragment"
+        },
+        {
+            "itemName": "Death Ring"
+        },
+        {
+            "itemName": "Flask of Demonic Blood"
+        },
+        {
+            "itemName": "Ultimate Health Potion"
+        },
+        {
+            "itemName": "Demonic Essence"
+        },
+        {
+            "itemName": "Green Gem"
+        },
+        {
+            "itemName": "Reaper's Axe"
+        },
+        {
+            "itemName": "Ring of Healing"
+        },
+        {
+            "itemName": "Great Mana Potion"
+        },
+        {
+            "itemName": "Giant Shimmering Pearl"
+        },
+        {
+            "itemName": "Rift Lance"
+        },
+        {
+            "itemName": "Skull Staff"
+        },
+        {
+            "itemName": "Small Sapphire"
+        },
+        {
+            "itemName": "Rift Shield"
+        },
+        {
+            "itemName": "Small Topaz"
+        },
+        {
+            "itemName": "Small Emerald"
+        },
+        {
+            "itemName": "Red Gem"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "50000",
+    "creatureclass": "Demons",
+    "earthDmgMod": "10%?",
+    "physicalDmgMod": "100%?",
+    "bosstiaryclass": "Archfoe",
+    "primarytype": "The Ruthless Seven Minions",
+    "race_id": "1180",
+    "senseinvis": "?",
+    "actualname": "Ragiaz",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Ragiaz",
+    "isboss": "yes",
+    "behaviour": "Unknown",
+    "location": "[[Ferumbras' Ascension Quest]] area.",
+    "iceDmgMod": "100%?",
+    "strategy": "After a certain amount of damage, he becomes a [[Bone Capsule]] in order to regenerate (20k-50k? hp), so kill the capsule quickly.",
+    "energyDmgMod": "100%?",
+    "deathDmgMod": "50%<"
+}

@@ -1,0 +1,133 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "It's a leader of the [[Werebear]]s.\n{{JSpoiler|Part of the {{Spoiler Section|Grimvale Quest|The Curse Spreads}}.}}",
+    "walksthrough": "Energy, Poison",
+    "hp": "6000",
+    "speed": "?",
+    "abilities": "{{Ability List| {{Melee|0-300}}|{{Summon|Werebear|1}} }}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "yes",
+    "secondarytype": "Ungulates",
+    "fireDmgMod": "105%",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "?",
+    "pushable": "?",
+    "implemented": "11.50.6055",
+    "cooldown": "20",
+    "loot": [
+        {
+            "amount": "1-82",
+            "itemName": "Gold Coin"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "Platinum Coin"
+        },
+        {
+            "itemName": "Werebear Fur"
+        },
+        {
+            "itemName": "Werebear Skull"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Opal"
+        },
+        {
+            "amount": "1-2?",
+            "itemName": "Tiger Eye"
+        },
+        {
+            "itemName": "Furry Club"
+        },
+        {
+            "itemName": "Ham"
+        },
+        {
+            "itemName": "Giant Shimmering Pearl (Brown)"
+        },
+        {
+            "itemName": "Dreaded Cleaver"
+        },
+        {
+            "itemName": "Honeycomb"
+        },
+        {
+            "itemName": "Ring of Healing"
+        },
+        {
+            "itemName": "Spiked Squelcher"
+        },
+        {
+            "itemName": "Ultimate Health Potion"
+        },
+        {
+            "itemName": "Moonlight Crystals"
+        },
+        {
+            "itemName": "Werewolf Amulet"
+        },
+        {
+            "itemName": "Great Health Potion"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Black Pearl"
+        },
+        {
+            "itemName": "Bear Paw"
+        },
+        {
+            "itemName": "Fur Armor"
+        },
+        {
+            "itemName": "Stone Skin Amulet"
+        },
+        {
+            "itemName": "Werebear Trophy"
+        },
+        {
+            "itemName": "Wolf Backpack"
+        },
+        {
+            "itemName": "Small Enchanted Sapphire"
+        },
+        {
+            "itemName": "Silver Token"
+        },
+        {
+            "itemName": "Relic Sword"
+        },
+        {
+            "itemName": "Berserk Potion"
+        }
+    ],
+    "walksaround": "Fire",
+    "exp": "4600",
+    "creatureclass": "Humans",
+    "earthDmgMod": "60%?",
+    "physicalDmgMod": "100%?",
+    "bosstiaryclass": "Archfoe",
+    "primarytype": "Lycanthropes",
+    "race_id": "1561",
+    "senseinvis": "yes",
+    "actualname": "Shadowpelt",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Shadowpelt",
+    "isboss": "yes",
+    "behaviour": "Unknown",
+    "location": "After an [[Earth Portal]] inside [[Cormaya]]'s were-beasts cave.",
+    "iceDmgMod": "90%",
+    "strategy": "Treat it like a stronger [[Werebear]].",
+    "energyDmgMod": "85%",
+    "deathDmgMod": "100%?"
+}

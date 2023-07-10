@@ -1,0 +1,105 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "<gallery mode=\"nolines\">\nFile:Pooka Artwork.jpg|Official [[Creature Artwork]]\n</gallery>",
+    "walksthrough": "?",
+    "hp": "500",
+    "abilities": "{{Ability List\n |{{Melee|0-120}}\n |{{Ability|throws [[Small Stone]]s|0-100|element=physical\n  |scene={{Scene|spell=1sqmstrike|effect_on_target=Stone Shower Effect|missile=Small Stone Missile|missile_direction=south-east|missile_distance=1/1}}}}\n |{{Ability|Star Wave|?|element=mana drain\n  |scene={{Scene|spell=5sqmwavewide|effect=Stars Effect|caster=pooka}}}}\n |{{Outfit|yes|Skunk|scene={{Scene|spell=2sqmstrike|effect_on_target=Green Smoke Effect|missile=Poison Missile|missile_direction=south-east|missile_distance=2/2|caster=pooka}}}}\n |{{Healing|range=40-60}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "holyDmgMod": "80%",
+    "maxdmg": "?",
+    "pushable": "?",
+    "implemented": "11.40.5409",
+    "loot": [
+        {
+            "amount": "0-131",
+            "itemName": "Gold Coin"
+        },
+        {
+            "amount": "0-3",
+            "itemName": "Carrot"
+        },
+        {
+            "itemName": "Shimmering Beetles"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "Rainbow Quartz"
+        },
+        {
+            "amount": "0-5",
+            "itemName": "Small Stone"
+        },
+        {
+            "itemName": "Orange Mushroom"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "Small Enchanted Ruby"
+        },
+        {
+            "itemName": "Dream Blossom Staff"
+        },
+        {
+            "itemName": "Fern"
+        },
+        {
+            "amount": "0-5",
+            "itemName": "Cookie"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "Opal"
+        },
+        {
+            "itemName": "Strong Health Potion"
+        },
+        {
+            "itemName": "Carrot on a Stick"
+        },
+        {
+            "itemName": "Stealth Ring"
+        }
+    ],
+    "walksaround": "Energy\nFire\nPoison",
+    "exp": "500",
+    "mitigation": "0.99",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "pooka",
+    "illusionable": "no",
+    "armor": "38",
+    "convince": "--",
+    "name": "Pooka",
+    "isboss": "no",
+    "iceDmgMod": "80%",
+    "energyDmgMod": "110%",
+    "deathDmgMod": "90%",
+    "plural": "pookas",
+    "hpDrainDmgMod": "100%",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "Pookas are nature spirits in animal form, looking like big hares with a faintly glittering fur. They are benign but mischievous, for sure with good reason regarded as the tricksters among the fae. Pookas love to play pranks on others, snitching and hiding things or telling made-up stories. If a traveller talks to a pooka, it may steal something from him or transform him into another creature temporarily. Yet, it is as likely that the pooka offers a present or grants an useful spell. Pookas are capricious and fickle creatures. They can also take the form of human children and as such they often try to fool visitors to Feyrist. However, their human shape includes various animal features, such as ears or a tail. The transformed pooka will try to hide these traits, but observant travelers can tell there is something going on. Pookas emerge from mortals' dreams about gems, treasures and gold.<br><br>Lately, some pookas on Feyrist are tainted by a mysterious, sinister force that is threatening Feyrist as well as the rest of Tibia. They were transformed into twisted pookas who are chasing their brethren and playing tricks that are outright wicked rather than just prankful.",
+    "speed": "115",
+    "pushobjects": "?",
+    "fireDmgMod": "80%",
+    "sounds": [
+        "This was the initial trick, but the second follows quick!",
+        "Hoppel-di-hopp!",
+        "Jinx!"
+    ],
+    "runsat": "30",
+    "bestiaryclass": "Fey",
+    "creatureclass": "Humanoids",
+    "earthDmgMod": "30%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Fae",
+    "race_id": "1435",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%",
+    "bestiaryname": "pooka",
+    "location": "[[Feyrist]] (daytime)",
+    "strategy": "Unknown"
+}

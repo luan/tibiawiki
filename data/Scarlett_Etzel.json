@@ -1,0 +1,170 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "She is the leader of the [[Order of the Cobra]] and sister of [[Grand Master Oberon|Oberon]] and [[Kesar Etzel]].",
+    "walksthrough": "Fire, Energy, Poison",
+    "hp": "30000",
+    "speed": "?",
+    "abilities": "{{Ability List\n |{{Melee|0-1150}}\n |{{Ability|Holy Beam|300-600|element=holy\n  |scene={{Scene|spell=7sqmbeam|effect=Holy Cross Effect|caster=Scarlett Etzel|look_direction=east}}}}\n |{{Ability|Death Strike|500-800|element=death\n  |scene={{Scene|spell=7sqmstrike|caster=Scarlett Etzel|look_direction=south|effect=Death Effect|damage_effect=Cloud Effect|missile=Death Missile (Large)|missile_direction=south-east|missile_distance=7/7}}}}\n |{{Ability|Large Dust Ball|434-800+|element=earth\n  |scene={{Scene|spell=4sqmball2self|caster=Scarlett Etzel|look_direction=south|effect=Dust Effect|effect_on_caster=yes|damage_effect=Poison Effect 1}}}}\n |{{Ability|Flame Dance|unknown|element=?\n   |scene={{Scene|spell=buffspell|effect=Flame Effect|caster=Scarlett Etzel|look_direction=south|effect_on_caster=yes}}}}\n |{{Ability|Poison Ultimate Explosion when damaged in the locked state|7500|element=poison\n  |scene={{Scene|spell=2sqmballself|effect=Poison Effect 2|caster=Scarlett Etzel|look_direction=south|effect_on_caster=yes}}}}\n}}",
+    "pushobjects": "yes",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "100%?",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        "Galthen... is that you? ",
+        " Where... have you been all that time? ",
+        " What...? How dare you? Give me that back! ",
+        " Aaaaaaah!!!"
+    ],
+    "maxdmg": "3500 without UE, 10000 with UE",
+    "pushable": "no",
+    "runsat": "0",
+    "implemented": "12.20.8834",
+    "cooldown": "20",
+    "loot": [
+        {
+            "itemName": "Energy Bar"
+        },
+        {
+            "amount": "5",
+            "itemName": "Platinum Coin"
+        },
+        {
+            "amount": "6-14",
+            "itemName": "Supreme Health Potion"
+        },
+        {
+            "amount": "6",
+            "itemName": "Ultimate Spirit Potion"
+        },
+        {
+            "itemName": "Green Gem"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Blue Gem"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Yellow Gem"
+        },
+        {
+            "amount": "6-20",
+            "itemName": "Ultimate Mana Potion"
+        },
+        {
+            "itemName": "Terra Rod"
+        },
+        {
+            "amount": "10",
+            "itemName": "Bullseye Potion"
+        },
+        {
+            "itemName": "Giant Shimmering Pearl"
+        },
+        {
+            "amount": "10",
+            "itemName": "Berserk Potion"
+        },
+        {
+            "itemName": "Red Gem"
+        },
+        {
+            "itemName": "Magma Coat"
+        },
+        {
+            "itemName": "Magma Amulet"
+        },
+        {
+            "amount": "100",
+            "itemName": "Royal Star"
+        },
+        {
+            "amount": "3-6",
+            "itemName": "Silver Token"
+        },
+        {
+            "itemName": "Crystal Coin"
+        },
+        {
+            "itemName": "Gold Ingot"
+        },
+        {
+            "itemName": "Terra Hood"
+        },
+        {
+            "itemName": "Violet Gem"
+        },
+        {
+            "itemName": "Magma Monocle"
+        },
+        {
+            "itemName": "Terra Amulet"
+        },
+        {
+            "itemName": "Terra Legs"
+        },
+        {
+            "itemName": "Giant Sapphire"
+        },
+        {
+            "itemName": "Terra Mantle"
+        },
+        {
+            "itemName": "Cobra Axe"
+        },
+        {
+            "itemName": "Cobra Club"
+        },
+        {
+            "itemName": "Cobra Crossbow"
+        },
+        {
+            "itemName": "Cobra Hood"
+        },
+        {
+            "itemName": "Cobra Rod"
+        },
+        {
+            "itemName": "Cobra Sword"
+        },
+        {
+            "itemName": "Cobra Wand"
+        },
+        {
+            "itemName": "The Cobra Amulet"
+        },
+        {
+            "itemName": "Mastermind Potion"
+        },
+        {
+            "itemName": "Giant Ruby"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "20000",
+    "creatureclass": "Humans",
+    "earthDmgMod": "100%?",
+    "physicalDmgMod": "100%?",
+    "bosstiaryclass": "Archfoe",
+    "primarytype": "Members of the Order of the Cobra",
+    "spawntype": [
+        "Triggered"
+    ],
+    "race_id": "1804",
+    "senseinvis": "yes",
+    "actualname": "Scarlett Etzel",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Scarlett Etzel",
+    "isboss": "yes",
+    "location": "[[Cobra Bastion]]",
+    "iceDmgMod": "100%?",
+    "strategy": "Scarlett is initially immortal. In order to maker her vulnerable, you have to use the [[Galthen's Chestplate]] which appears on a trophy stand near the throne. When you do that, Scarlett will stop moving and become vulnerable for 8 seconds. There is a faster way to dealing damage to her, however:\n\nScarlett will take 7500 damage if she's attacked while the four mirrors around her are facing her. Note that she will also use her Ultimate Poison Explosion at the same time, dealing 7500 [[Earth Damage]] to the players around. Only one player should attack her, however, since she will instantly become invulnerable and attacking [[Scarlett Etzel]] when she is not vulnerable will heal her in 5000 hitpoints. Thus, the recommended step by step for beginners is:\n\n# Lure Scarlett away from the mirrors you will use (preferably to the south) and run back to \"lose\" her.\n# Throw [[Galthen's Chestplate]] to the center of the mirrors.\n# Rotate (use) the four mirrors so they face the center of the square where Scarlett is.\n# Lure Scarlett back to the mirrors and quickly use [[Galthen's Chestplate]]. \n# Wait a couple of seconds to make sure she already stopped moving, then move away and attack her '''once''' so she takes the 7500 damage.\n# Lure Scarlett away from the mirrors again and lose her and wait until the Chestplate reappears (30 seconds).\n# Repeat the steps above, 4 successful turns are enough to kill Scarlett.\n[[File:Scarlett Etzel (TMA 2020)|left|250px]]",
+    "energyDmgMod": "100%?",
+    "deathDmgMod": "100%?"
+}

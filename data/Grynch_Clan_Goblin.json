@@ -1,0 +1,235 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "They invade most Tibian cities once a day on a special [[Raid#Grynch Clan Goblin Invasion|raid]] between the [[Server Save]]s of December 20 and 28.",
+    "walksthrough": "?",
+    "hp": "80",
+    "abilities": "{{Ability List\n |{{Haste|[[Strong Haste]]}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "secondarytype": "Goblins",
+    "holyDmgMod": "100%",
+    "maxdmg": "0",
+    "pushable": "?",
+    "implemented": "7.9",
+    "loot": [
+        {
+            "amount": "1-16",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Christmas Present Bag",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "Snowball",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-5",
+            "itemName": "Cookie",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "Red Apple",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Lump of Cake Dough",
+            "rarity": "semi-rare"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Orange",
+            "rarity": "semi-rare"
+        },
+        {
+            "amount": "1-4",
+            "itemName": "Walnut",
+            "rarity": "semi-rare"
+        },
+        {
+            "amount": "1-5",
+            "itemName": "Peanut",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Bottle",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Scarf",
+            "rarity": "rare"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "Candy Cane",
+            "rarity": "rare"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Egg",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Explorer Brooch",
+            "rarity": "rare"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "Bat Wing",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Snowman Package",
+            "rarity": "rare"
+        },
+        {
+            "amount": "1-4",
+            "itemName": "Cherry",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Cream Cake",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Lute",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Blank Rune",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Magic Light Wand",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Picture (Landscape)",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Gingerbreadman",
+            "rarity": "very rare"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "Chicken Feather",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Honeycomb",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Valentine's Cake",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Watch",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Broom",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Piggy Bank",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Die",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Mirror",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Small White Pillow",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Flower Bowl",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Scarab Coin",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Orichalcum Pearl",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Rope",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "4",
+    "mitigation": "0.25",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "grynch clan goblin",
+    "illusionable": "yes",
+    "armor": "5",
+    "convince": "--",
+    "name": "Grynch Clan Goblin",
+    "isboss": "no",
+    "iceDmgMod": "100%",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "100%",
+    "status": "event",
+    "plural": "grynch clan goblins",
+    "hpDrainDmgMod": "100%",
+    "usespells": "yes",
+    "occurrence": "Very Rare",
+    "speed": "100",
+    "pushobjects": "?",
+    "fireDmgMod": "100%",
+    "sounds": [
+        "T'was not me hand in your pocket!",
+        "Look! Cool stuff in house. Let's get it!",
+        "Uhh! Nobody home! <chuckle>",
+        "Me just borrowed it!",
+        "Me no steal! Me found it!",
+        "Me had it for five minutes. It's family heirloom now!",
+        "Nice human won't hurt little, good goblin?",
+        "Gimmegimme!",
+        "Invite me in you lovely house plx!",
+        "Other Goblin stole it!",
+        "All presents mine!",
+        "Me got ugly ones purse",
+        "Free itans plz!",
+        "Not me! Not me!",
+        "Guys, help me here! Guys? Guys???",
+        "That only much dust in me pocket! Honest!",
+        "Can me have your stuff?",
+        "Halp, Big dumb one is after me!",
+        "Uh, So many shiny things!",
+        "Utani hur hur hur!",
+        "Mee? Stealing? Never!!!",
+        "Oh what fun it is to steal a one-horse open sleigh!",
+        "Must have it! Must have it!",
+        "Where me put me lockpick?",
+        "Catch me if you can!"
+    ],
+    "runsat": "80",
+    "bestiaryclass": "Humanoid",
+    "creatureclass": "Special",
+    "earthDmgMod": "100%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Event Creatures",
+    "race_id": "393",
+    "bestiarylevel": "Trivial",
+    "senseinvis": "no",
+    "drownDmgMod": "100%",
+    "behaviour": "They don't attack even if cornered.",
+    "location": "They do not have a set [[respawn]] spot. They are announced to be stealing presents from a random Tibian city and spawn in the aforetold city. There are two or three messages that appear on each [[Raid#Grynch Clan Goblin Invasion|raid]] and three massive spawns of goblins.",
+    "strategy": "Try to trap them in an area or building where they cannot easily escape, rather than chasing them in the open, because they will run away '''''fast''''' with the spell [[Strong Haste]]. Due to their walkspeed of 870 a distance weapon or area runes are best. [[Invisible]] is very helpful as they won't run away. Kill them and return the stolen presents to [[Ruprecht]] in [[Vega]] for a reward. They do spawn in some areas not immediately obvious to all players (such as the edges of cities). Low levels may want to head for these areas first as there is less competition.\n\nFor those interested in farming as many [[Snowman Package]]s as possible, using a [[Prey System|Loot Prey]] can be very useful. Note that [[Grynch Clan Goblin]]s can only be selected by using 5 Wildcards and won't appear on the random daily list roll."
+}

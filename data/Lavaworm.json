@@ -1,0 +1,114 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "walksthrough": "Fire, Energy, Poison",
+    "hp": "7500",
+    "lightcolor": "205",
+    "occurrence": "Common",
+    "bestiarytext": "The lavawarom is a creature of the deepest depths of Tibia. Not only does this creature survive the deepest and hottest places in Tibia, it thrives in it. Deep probes of the gnomes proved that there are countless lava pools, virtually brimming with lavaworms of all sizes. Though probably a very distant cousin of the rotworm, the lavaworm has little in common with its supposed relative. The lavaworm comes in several sizes but the smaller, juvenile speciems can't survive outside of their lava pools for long and the larger versions seem to loose heath too fast and are prone to become immobile stone structures until they gain enough internal heat and shed their outer stone-shell. Only the adolescent lavaworms leave their pools regularly and are herded into the armies of Those Below. They are as aggressive as many minions of Those Below, but lose interest in a fight easily and sometimes even seem to forget what they are doing. They make only weak additions to the troops as they often wander off, are easily distracted and too dumb to understand the concept of an enemy. They become somewhat more effective when they are settled to a specific area where they might serve as a kind of guard dogs or just bolster occupation forces. Gnomish intelligence suggest that lavaworms often serve as emergency rations for other minions of Those Below and that pools of lavaworms are often raided for food and resources by them. An often overlooked threat is that wandering minion armies of Those Below often leave behind straggling lavaworms in certain areas, where they sometimes settle and reproduce. So in the wake of the underground wars several new pockets of lavaworm colonies were created, that are not periodically grazed by other creatures. While gnomish and dwarfish forces exterminate any nests they stumble upon, countless hidden lava areas are already inhabited by huge numbers of displaced lava worms.",
+    "speed": "120",
+    "abilities": "{{Ability List| {{Melee|0-600}}|{{Ability|Sudden Death|600-760|element=death}}|{{Ability|Fire Burst Arrow|550-700|element=fire}}|{{Ability|Fire [[Groundshaker]]|700-780|element=fire}} }}",
+    "pushobjects": "yes",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "fireDmgMod": "85%",
+    "holyDmgMod": "100%",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "{{Max Damage|physical=600|death=760|fire=1480}}",
+    "pushable": "no",
+    "usedelements": "?",
+    "lightradius": "3",
+    "implemented": "12.70.10953",
+    "bestiaryclass": "Vermin",
+    "loot": [
+        {
+            "amount": "1-18",
+            "itemName": "Platinum Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Gold Ingot",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-?",
+            "itemName": "Violet Crystal Shard",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Lavaworm Spike Roots",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Green Gem",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Lavaworm Spikes",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-?",
+            "itemName": "Violet Gem",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Warrior Helmet",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Underworld Rod",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Wand of Voodoo",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Blue Crystal Shard",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Butterfly Ring",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Lavaworm Jaws",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Crusader Helmet",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Strange Helmet",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "None",
+    "exp": "6500",
+    "creatureclass": "Invertebrates",
+    "earthDmgMod": "100%",
+    "mitigation": "1.60",
+    "physicalDmgMod": "100%",
+    "primarytype": "Annelids",
+    "race_id": "2088",
+    "bestiarylevel": "Hard",
+    "history": "On {{OfficialNewsArchive|6555|February 01, 2022}}, its loot was increased by 17%.",
+    "senseinvis": "yes",
+    "article": "a",
+    "actualname": "lavaworm",
+    "illusionable": "no",
+    "armor": "60",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "bestiaryname": "lavaworm",
+    "name": "Lavaworm",
+    "location": "[[Grotto of the Lost]].",
+    "iceDmgMod": "115%",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "90%"
+}

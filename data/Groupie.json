@@ -1,0 +1,62 @@
+{
+    "summon": "420",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "isarenaboss": "no",
+    "walksthrough": "?",
+    "hp": "2000",
+    "speed": "?",
+    "abilities": "{{Ability List\n |{{Ability|Love Hit|0-30|?}}\n}}",
+    "pushobjects": "Yes",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "secondarytype": "Outlaws",
+    "fireDmgMod": "100%",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        "Oh, Mercutio, where are you?",
+        "Hug me! Hug me!",
+        "EEEEEEEEEEEEEEEEEEEEEEEEK!",
+        "I love it! I love it!"
+    ],
+    "maxdmg": "?",
+    "pushable": "No",
+    "implemented": "9.44",
+    "loot": [
+        {
+            "itemName": "Chameleon Rune"
+        },
+        {
+            "itemName": "Lute"
+        },
+        {
+            "itemName": "Lyre"
+        },
+        {
+            "itemName": "Simple Fanfare"
+        },
+        {
+            "itemName": "Wooden Flute"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "60",
+    "creatureclass": "Special",
+    "earthDmgMod": "100%?",
+    "physicalDmgMod": "100%",
+    "primarytype": "Event Creatures",
+    "senseinvis": "?",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Groupie",
+    "isboss": "no",
+    "behaviour": "Keeps a distance",
+    "location": "[[Greenshore]]",
+    "iceDmgMod": "100%",
+    "strategy": "Say 'fun' to [[Mercutios Piano]], [[Mercutios Drum|Drum]] or [[Mercutios Harp|Harp]] to summon it. Use UEs, if you can.\n[[File:Tibia's  15th Anniversary! Mercutio and Solkrin!|thumb|300px|right|Mercutio and Groupies at 0:10 and Solkrin at 1:17.]]",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "100%?",
+    "status": "deprecated"
+}

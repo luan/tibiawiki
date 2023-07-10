@@ -1,0 +1,127 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "Those that are located outside around the vortexes, do not yield any experience points.",
+    "walksthrough": "?",
+    "hp": "2800",
+    "abilities": "{{Ability List| {{Melee|?}}|{{Ability|[[Energy Damage|Energy Attack]]|0-200+|element=energy}} }}",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "holyDmgMod": "105%",
+    "maxdmg": "?",
+    "pushable": "no",
+    "implemented": "10.94",
+    "loot": [
+        {
+            "amount": "1-100",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-5",
+            "itemName": "Platinum Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Great Mana Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Great Spirit Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Ultimate Health Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Cyan Crystal Fragment",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Strange Proto Matter",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Solid Rage",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Glistening Bone",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Energy Bar",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Energy Drink",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Small Sapphire",
+            "rarity": "semi-rare"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Small Ruby",
+            "rarity": "semi-rare"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Small Amethyst",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Violet Crystal Shard",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Blue Crystal Splinter",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Violet Gem",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "1900",
+    "mitigation": "1.37",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "stabilizing dread intruder",
+    "illusionable": "no",
+    "armor": "46",
+    "convince": "--",
+    "name": "Stabilizing Dread Intruder",
+    "isboss": "no",
+    "iceDmgMod": "95%",
+    "energyDmgMod": "20%",
+    "deathDmgMod": "30%",
+    "plural": "stabilizing dread intruders",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "The Stabilizing Dread Intruder is a weaker version of [[Dread Intruder]]s.",
+    "speed": "145",
+    "pushobjects": "yes",
+    "fireDmgMod": "80%",
+    "sounds": [
+        "Whirr!"
+    ],
+    "bestiaryclass": "Extra Dimensional",
+    "creatureclass": "Elementals",
+    "earthDmgMod": "100%",
+    "physicalDmgMod": "105%",
+    "primarytype": "Electro-Elementals",
+    "race_id": "1267",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "stabilizingdreadintruder",
+    "behaviour": "They fight in close combat.",
+    "location": "[[Otherworld (Edron)]]",
+    "strategy": "Be careful, they can easily combo a level 110 knight if they are with 3 or more."
+}

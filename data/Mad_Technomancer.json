@@ -1,0 +1,57 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "mad technomancers",
+    "hpDrainDmgMod": "100%?",
+    "notes": "This villainous dwarf is the last target of the [[Secret Service Quest]] chain. He is assisted by 2 [[Dwarf Dispenser]]s which spawn a constant supply of [[Dwarf Henchman|Dwarf Henchmen]].",
+    "isarenaboss": "no",
+    "walksthrough": "Fire, Poison",
+    "hp": "1800",
+    "speed": "?",
+    "abilities": "{{Ability List| {{Melee|0-50}}|{{Ability|[[Mana Drain]]|50-80|element=manadrain}}|{{Ability|[[Energy Strike]]|0-200|element=energy}}|{{Ability|[[Death Strike]]|0-100|element=death}}|{{Haste}}|{{Ability|[[Self Healing]]|100-200 hp; uses it very often|element=healing}} }}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "0%",
+    "holyDmgMod": "100%",
+    "sounds": [
+        "I'm going to make them an offer they can't refuse.",
+        "My masterplan cannot fail!",
+        "Gentlemen, you can't fight here! This is the War Room!",
+        "I love the smell of firebombs in the morning."
+    ],
+    "maxdmg": "350",
+    "pushable": "?",
+    "implemented": "8.10",
+    "loot": [
+        {
+            "itemName": "Technomancer Beard",
+            "rarity": "always"
+        },
+        {
+            "itemName": "Iron Ore"
+        }
+    ],
+    "walksaround": "Energy",
+    "exp": "55",
+    "creatureclass": "Humanoids",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Dwarves",
+    "race_id": "380",
+    "senseinvis": "yes",
+    "article": "a",
+    "actualname": "mad technomancer",
+    "illusionable": "yes",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Mad Technomancer",
+    "isboss": "yes",
+    "behaviour": "Like a dwarf geomancer, keeps distance, but unlike geomancers they run in red hp. Beware of his speed, he runs fast when fleeing.",
+    "location": "Mad Technomancer's Laboratory.<br>{{JSpoiler|'''How to get there:'''<br> \n[[File:Mad way.jpg]]<br>\nFollow the purple lines to get to the white dots. On step 6 pull the lever to make it respawn.\n}}",
+    "iceDmgMod": "101%>?",
+    "strategy": "[[Image:Mad_mage.jpg|225px|right]]Lure it to the stairs, block it in a corner and spam it with hits.",
+    "energyDmgMod": "105%",
+    "deathDmgMod": "100%"
+}

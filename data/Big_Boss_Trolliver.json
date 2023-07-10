@@ -1,0 +1,81 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "Big Boss Trolliver",
+    "hpDrainDmgMod": "100%?",
+    "walksthrough": "?",
+    "hp": "150",
+    "speed": "?",
+    "abilities": "{{Ability List\n |{{Melee|0-40?}}\n |{{Summon|Troll Champion|5}}\n |{{Summon|Troll|2}}\n}}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "100%?",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        "Me big nauti! Hehehe!",
+        "Frind or day?!"
+    ],
+    "maxdmg": "{{Max Damage|physical=40?|summons=175}}",
+    "pushable": "?",
+    "usedelements": "Physical",
+    "implemented": "8.20",
+    "loot": [
+        {
+            "amount": "1-64",
+            "itemName": "Gold Coin"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "Meat"
+        },
+        {
+            "itemName": "Spear"
+        },
+        {
+            "itemName": "Studded Club"
+        },
+        {
+            "itemName": "Leather Boots"
+        },
+        {
+            "itemName": "Silver Amulet"
+        },
+        {
+            "itemName": "Bunch of Troll Hair"
+        },
+        {
+            "itemName": "Hand Axe"
+        },
+        {
+            "itemName": "Wooden Shield"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "105",
+    "creatureclass": "Humanoids",
+    "earthDmgMod": "100%?",
+    "physicalDmgMod": "100%?",
+    "bosstiaryclass": "Nemesis",
+    "primarytype": "Trolls",
+    "spawntype": [
+        "Raid",
+        "Unique",
+        "Unblockable"
+    ],
+    "race_id": "432",
+    "senseinvis": "yes",
+    "actualname": "Big Boss Trolliver",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Big Boss Trolliver",
+    "isboss": "yes",
+    "behaviour": "Acts the same as a normal [[Troll Champion]].",
+    "location": "[[Edron Troll Cave]], around {{Mapper Coords|129.109,123.226,10|text=here}}",
+    "iceDmgMod": "100%?",
+    "strategy": "Just kill it as it not much harder than an average [[Troll Champion]].",
+    "energyDmgMod": "100%?",
+    "deathDmgMod": "100%?"
+}

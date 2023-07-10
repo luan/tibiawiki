@@ -1,0 +1,96 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "mantosauri",
+    "hpDrainDmgMod": "100%?",
+    "notes": "<gallery captionalign=\"center\" mode=\"nolines\">\nMantosaurus Artwork.jpg|Official [[Creature Artwork]]\n</gallery>",
+    "hp": "19400",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "The Mantosaurus is a curious creature that has no known relative on the above world - or the underworld for that matter. Given its viciousness and prowess it seems strange that such a creature would have died out elsewhere but given their brutal mating habits it's less surprising. The Mantosaurus has no gender per se. Their mating is a brutal fight in which the winner injects his genetic material into the looser, which physically, though temporally transforms said creature in being able to gestate an offspring. Births are also rather brutal and bloody too and often leaves the dying 'mother' as the first meal of its offspring. If the 'mother' survives the birth though, chances are that it in turn feeds on the offspring. Given such a reproduction it rather wonders how such a creature couldn't have died out already but perhaps it hardened the survivors that much, that they stand a better chance in such an hostile environment. Even in a vicious and brutal land like Gnomprona, the Mantosaurus raises the bar of viciousness and brutality quite a bit. Their attacks and eating habits are wild and bloody. This creature leaves little to subtlety by rather attacks head on, seemingly eager to burrow its claws and mandibles into flesh and rip it apart. The only thing that keeps them from tearing apart even each other, is the presence of a local alpha Mantosaurus. Usually the most ferocious of the bunch it maintains its status by shredding any competitor into pieces. Now and then it's challenged by another Mantosaurus for its position. It is yet unknown what entices one of the creatures to try their luck in such a fight but it occurs occasionally. For the loser it means certain death, the winner holds a special position of respect amongst its brutal peers. An alpha Mantosaurus is the first to feast and every other Mantosaurus meekly abandons its prey if an alpha shows up. The alphas usually stop any infights of Mantosauri they become aware of, possibly to prevent any competitor to arise from such infights. If an alpha is killed by other predators Mantosauri fight over its corpse as any competitor that eats most of said corpse becomes the next alpha. If no corpse is available it leads to a massacre amongst the Mantosauri and the local alpha that arises is often left with little to rule over or might die soon on his grievous wounds.",
+    "speed": "205",
+    "abilities": "{{Ability List}}",
+    "pushobjects": "yes",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "fireDmgMod": "100%",
+    "holyDmgMod": "115%",
+    "sounds": [
+        "Klkkk... Klkkk..."
+    ],
+    "pushable": "no",
+    "implemented": "12.90.12182",
+    "bestiaryclass": "Reptile",
+    "loot": [
+        {
+            "amount": "1-2",
+            "itemName": "Crystal Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Cyan Crystal Fragment",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Mantosaurus Jaw",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Silver Brooch",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Crystal Ring",
+            "rarity": "semi-rare"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "Ultimate Mana Potion",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Green Crystal Shard",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Red Crystal Fragment",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Coral Brooch",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Gold Ring",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Amulet of Loss",
+            "rarity": "very rare"
+        }
+    ],
+    "exp": "11569",
+    "creatureclass": "Reptiles",
+    "earthDmgMod": "95%",
+    "mitigation": "1.79",
+    "physicalDmgMod": "110%",
+    "primarytype": "Lizards",
+    "attacktype": "Melee",
+    "race_id": "2274",
+    "bestiarylevel": "Challenging",
+    "history": "Its experience was decreased from 13,420 to 11,569 on {{OfficialNewsArchive|6875|July 28, 2022}}.",
+    "senseinvis": "yes",
+    "article": "a",
+    "actualname": "mantosaurus",
+    "illusionable": "no",
+    "armor": "65",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "bestiaryname": "mantosaurus",
+    "name": "Mantosaurus",
+    "isboss": "no",
+    "location": "[[Crystal Enigma]]",
+    "iceDmgMod": "115%",
+    "energyDmgMod": "90%",
+    "deathDmgMod": "95%"
+}

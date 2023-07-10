@@ -1,0 +1,84 @@
+{
+    "summon": "320",
+    "templateType": "Creature",
+    "plural": "crazed dwarfs",
+    "hpDrainDmgMod": "100%?",
+    "notes": "A weak [[Dwarf]]. Spawns around [[Muglex Clan]] [[Goblins]], [[Lesser Fire Devil]]s, [[Wasp]]s, [[Spider]]s, [[Dwarf Miner]]s and others. Unlike regular [[Dwarf|Dwarves]] they don't seem to drop [[Copper Shield]]s. They do, however, drop [[Plate Shield]]s.",
+    "walksthrough": "?",
+    "hp": "105",
+    "speed": "78",
+    "abilities": "{{Ability List|{{Melee|0-15+?}}}}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "100%?",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "{{Max Damage|physical=15+?}}",
+    "pushable": "?",
+    "usedelements": "Physical",
+    "implemented": "10.55",
+    "loot": [
+        {
+            "amount": "0-4",
+            "itemName": "Gold Coin"
+        },
+        {
+            "itemName": "White Mushroom"
+        },
+        {
+            "itemName": "Hatchet"
+        },
+        {
+            "itemName": "Plate Shield"
+        },
+        {
+            "itemName": "Axe"
+        },
+        {
+            "itemName": "Leather Legs"
+        },
+        {
+            "itemName": "Pick"
+        },
+        {
+            "itemName": "Studded Armor"
+        },
+        {
+            "itemName": "Letter",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Dwarven Ring",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "50",
+    "creatureclass": "Humanoids",
+    "earthDmgMod": "100%?",
+    "physicalDmgMod": "100%?",
+    "primarytype": "Dwarves",
+    "spawntype": [
+        "Regular",
+        "Unblockable"
+    ],
+    "race_id": "1081",
+    "senseinvis": "?",
+    "article": "a",
+    "actualname": "crazed dwarf",
+    "illusionable": "yes",
+    "armor": "9",
+    "drownDmgMod": "100%?",
+    "convince": "320",
+    "name": "Crazed Dwarf",
+    "isboss": "no",
+    "behaviour": "Unknown",
+    "location": "[[Dawnport]].",
+    "iceDmgMod": "100%?",
+    "strategy": "Just kill it. They have high defense so make sure the area is clear and avoid running into monsters; especially watch out for [[Lesser Fire Devil]]s.",
+    "energyDmgMod": "100%?",
+    "deathDmgMod": "100%?"
+}

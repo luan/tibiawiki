@@ -1,0 +1,113 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "Be careful. They often appear in groups or with other creatures so you may find yourself surrounded quickly. A level 96 knight or level 38 paladin will have enough mana to [[convince]] these to train with on [[Open PvP]] worlds.",
+    "walksthrough": "None.",
+    "hp": "190",
+    "abilities": "{{Ability List|{{Melee|0-100}}|{{Ability|Life Drain|0-50|lifedrain}}|{{Healing}}|{{Haste}}}}",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "holyDmgMod": "110%",
+    "maxdmg": "{{Max Damage|physical=100|lifedrain=50}}",
+    "pushable": "?",
+    "implemented": "7.5",
+    "loot": [
+        {
+            "amount": "0-18",
+            "itemName": "Gold Coin",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Bread",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Dark Rosary",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Rope Belt",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Scroll",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Book of Prayers",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Mana Potion",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Lamp",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Life Crystal",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Ankh",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Sandals",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Safety Pin",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Brown Flask",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Power Ring",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Fire, Energy, Poison",
+    "exp": "145",
+    "mitigation": "1.13",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "dark monk",
+    "illusionable": "yes",
+    "armor": "22",
+    "convince": "480",
+    "name": "Dark Monk",
+    "isboss": "no",
+    "iceDmgMod": "100%",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "60%",
+    "plural": "dark monks",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "There are several monks that lost faith or were lured to the dark side, but the Dark Monks form an own secret order whose goals lie in the shadow. Not much is known about their agenda or where they have come from. The official brotherhoods of monks deny any knowledge about this special order. It is commonly assumed that Dark Monks serve some evil power since they react hostile to most people and attack them on sight. Their fighting style clearly indicates a training in martial arts and they even use a small array of spells of which some, like draining of life-force, point to a darker purpose of their order.",
+    "speed": "115",
+    "pushobjects": "?",
+    "fireDmgMod": "100%",
+    "sounds": [
+        "You are no match to us!",
+        "Your end has come!",
+        "This is where your path will end!"
+    ],
+    "bestiaryclass": "Human",
+    "creatureclass": "Humans",
+    "earthDmgMod": "100%",
+    "physicalDmgMod": "110%",
+    "primarytype": "Monks",
+    "race_id": "225",
+    "bestiarylevel": "Easy",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "darkmonk",
+    "behaviour": "Dark Monks will fight to the death.",
+    "location": "[[Dark Cathedral]], [[Vandura]] ([[Cult Cave]]), [[Foreigner Quarter]].",
+    "strategy": "Practice caution. Running into a spawn can get you easily surrounded. Move slowly and lure monsters out at a time to keep things easy. When you're comfortable with the spawn you can use a [[Great Fireball]] rune a couple times. [[GFB]] is also a good way to free yourself from a swarm. They heal like regular [[Monk]]s so act quickly or you will end up wasting a lot of runes or [[mana]]."
+}

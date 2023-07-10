@@ -1,0 +1,110 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "Barbarian Brutetamers are reknowingly the barbarians with widest knowledge in the nature magics, and the only females that survives into the bitter atmosphere of the [[Norsir]] tribes.",
+    "walksthrough": "None",
+    "hp": "145",
+    "abilities": "{{Ability List\n |{{Melee|0-20|element=physical}}\n |{{Summon|War Wolf|2}}\n |{{Debuff2|Throws [[Snowball]]|melee=yes|distance=yes|shielding=yes|value=1-6 points}}\n |{{Ability|Throws [[Snowball|Cold Snowball]]|0-34|element=?}}\n |{{Ability|[[Self-Healing]]|Often; heals 30% of her entire [[health]]|element=healing}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "holyDmgMod": "90%",
+    "maxdmg": "54 (154 with summons)",
+    "pushable": "?",
+    "implemented": "8.00",
+    "loot": [
+        {
+            "amount": "0-15",
+            "itemName": "Gold Coin"
+        },
+        {
+            "itemName": "Staff",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Chain Armor",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "Corncob",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Fur Bag",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Book (Grey)",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Hunting Spear",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Mana Potion",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Brutetamer's Staff",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Fur Boots",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Mammoth Fur Cape",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Mammoth Fur Shorts",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Fire, Energy, Poison",
+    "exp": "90",
+    "mitigation": "0.36",
+    "attacktype": "Distance",
+    "article": "a",
+    "actualname": "barbarian brutetamer",
+    "illusionable": "no",
+    "armor": "8",
+    "convince": "--",
+    "name": "Barbarian Brutetamer",
+    "isboss": "no",
+    "iceDmgMod": "50%",
+    "energyDmgMod": "80%",
+    "deathDmgMod": "105%",
+    "plural": "barbarian brutetamers",
+    "hpDrainDmgMod": "0%",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "The Barbarian Brutetamers are women who have failed the tests to become a fully-fledged shaman. Unlike the male raiders, who either are quite gifted in magic or lack this talent completely, some women show some kind of inherent magic. Their talent is not strong enough to call the more powerful spirits, but they have a special knack to handle animals and to heal wounds which can only be explained with magic. With some training they are able to conjure some animal spirits and lead them into battle. Even though their magical abilities are quite limited, they can also use their powers in several destructive ways to defend themselves. Under the shaman queen, it has become more and more common that only shamans utterly loyal to her receive a formal and extensive training. For this reason the ranks of the Barbarian Brutetamers have been boosted with some truly gifted women who will probably never be able to use the full power of their potential. Still the Barbarian Brutetamers are absolutely loyal to their clans and tribes and they will use everything at their disposal to strike down the enemies of their cold-hearted queen.",
+    "speed": "89",
+    "pushobjects": "?",
+    "fireDmgMod": "100%",
+    "sounds": [
+        "To me, creatures of the wild!",
+        "My instincts tell me about your cowardice.",
+        "Feel the power of the beast!"
+    ],
+    "runsat": "red",
+    "bestiaryclass": "Human",
+    "creatureclass": "Humans",
+    "earthDmgMod": "100%",
+    "physicalDmgMod": "110%",
+    "primarytype": "Barbarians",
+    "spawntype": [
+        "Regular",
+        "Raid"
+    ],
+    "race_id": "332",
+    "bestiarylevel": "Easy",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "barbarianbrutetamer",
+    "behaviour": "Brutetamers will do their best to keep distance from their opponent.",
+    "location": "[[Krimhorn]], [[Bittermor]], [[Ragnir]], and [[Fenrock]]",
+    "strategy": "[[Mages]] of [[level]] around 25 and [[magic level]] around 30 can hunt these with [[Stoneshower]] runes: 1-2 runes should be enough if you're quick. [[Stalagmite]] runes can also be used, but due to their summons and the fact that they're mostly accompanied by other [[Barbarians]], [[Stoneshower]] is recommended.<br>[[Paladins]]: must ignore the war wolves, and just hit the brutetamer since they have low defense and die in 1 or 2 hits. Try not to be surrounded by the [[War Wolf|War Wolves]] or other barbarians if you miss some attacks and always carry some potions if you life goes low.<br>[[Knights]]: should try to charge straight at these creatures, before they get a chance to summon, also try not to follow them too far, as you will meet more [[Barbarians]] and you can get trapped. If there are more than one, try luring one away then charging with full attack."
+}

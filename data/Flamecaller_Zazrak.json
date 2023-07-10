@@ -1,0 +1,76 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "[[Lizard Dragon Priest]]'s boss, spawns with 0-2 [[Lizard Legionnaire]]s and 0-2 [[Lizard High Guard]]s.\n<gallery>\nFlamecaller_Zazrak_on_Unitera.jpg|Player killing the Flamecaller Zazrak\n</gallery>",
+    "walksthrough": "?",
+    "hp": "2690",
+    "speed": "?",
+    "abilities": "{{Ability List| {{Melee|0-100+}}|{{Ability|[[Stalagmite]]|poisons you|element=poisoned}}|{{Ability|[[Fireball]]|0-500?|element=fire}}|{{Ability|Very Frequent [[Self-Healing]]|very strong|element=healing}}|{{Ability|[[Invisibility]]|element=invisible}}|{{Ability|Summons 2 [[Dragon Hatchling]]s|at once|element=summon}}|{{Ability|Summons 2-3 [[Fire Elemental]]s|element=summon}} }}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "45%",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        "I ssssmell warm blood!",
+        "Shhhhhhhh."
+    ],
+    "maxdmg": "560+ (without summons)",
+    "pushable": "?",
+    "implemented": "8.54",
+    "loot": [
+        {
+            "amount": "0-34+",
+            "itemName": "Gold Coin"
+        },
+        {
+            "itemName": "Bunch of Ripe Rice"
+        },
+        {
+            "itemName": "Great Mana Potion"
+        },
+        {
+            "itemName": "Lizard Scale"
+        },
+        {
+            "itemName": "Life Ring"
+        },
+        {
+            "itemName": "Zaoan Robe"
+        },
+        {
+            "itemName": "Zaoan Shoes"
+        },
+        {
+            "itemName": "Dragon Priest's Wandtip",
+            "rarity": "always"
+        },
+        {
+            "itemName": "Yellow Gem",
+            "rarity": "rare"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "3031",
+    "creatureclass": "Lizards",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "100%?",
+    "bosstiaryclass": "Nemesis",
+    "primarytype": "High Class Lizards",
+    "race_id": "637",
+    "senseinvis": "yes",
+    "actualname": "Flamecaller Zazrak",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Flamecaller Zazrak",
+    "isboss": "yes",
+    "behaviour": "Fights in distance.",
+    "location": "[[Muggy Plains]], south of the [[Temple of Equilibrium]] ([[Zao]]), {{Mapper Coords|129.161|121.249|7|2|text=here}}, and on the mountain north of [[Chaochai]], {{Mapper Coords|129.227|121.177|6|2|text=here}}.",
+    "iceDmgMod": "100%",
+    "strategy": "Kill it quickly, since it can be annoying with its strong attacks, invisibility and fast self-healing. Area runes and spells are useful to use against this creature to cancel its commonly used invisibility. <br />\nPaladins should be 80+ with assassin stars before trying to solo, but it's better to kill with a partner if you're under level 100.<br />\nKnights should use chase opponent option and use [[Fierce Berserk]] and [[Great Health Potion]] when needed. \nLower leveled mages should kill using [[Sudden Death Rune]]s and [[Avalanche]] as well as [[Mana Shield]].",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "100%?"
+}

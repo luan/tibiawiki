@@ -1,0 +1,211 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "0%",
+    "notes": "Hellgorak is the last survivor of a demonic cabal which succumbed to the [[Ruthless Seven]] aeons ago. And Hellgorak is a survivor to the core. As the victory of the Ruthless Seven became more and more evident, he betrayed his allies and switched sides. Hellgorak decided it was better to serve under the Ruthless Seven than to die as a leader. Becoming a [[The Ruthless Seven Minions|minion of the Ruthless Seven]] did not stop him from developing his evil plans. Slowly but steadily he climbed up in the ranks and used his new power and influence to improve himself. He called in favours, and killed those who possessed wisdom he needed.\n\nOver time, his demonic plans yielded fruits. With the help of stolen secrets and enchantments, his dark body is covered with glowing ancient runes that protect him from most harm. He boasts about his invulnerability which actually was proven a lie by the agents of the inquisition. Still, he shakes off most damage with ease, and it would for sure take an insane amount of attackers to bring him down. It was prophesied that no man will beat him - right before he killed the oracle. Still, he fears the Ruthless Seven who defeated him and his allies in the past. Therefore, it is safe to say that, even though he is nearly invulnerable, Hellgorak is all but immortal.\n\n{{JSpoiler|It's one of the bosses of [[The Inquisition Quest]].}}",
+    "walksthrough": "?",
+    "hp": "25850",
+    "speed": "165",
+    "abilities": "{{Ability List\n |{{Melee|0-800}}\n |{{Ability|[[Great Energy Beam]]|323-850|element=energy}}\n |{{Ability|Fire bomb|0-600|element=fire\n  |scene={{Scene|spell=2sqmballtarget|caster=Hellgorak|look_direction=south|effect=Blast Effect|damage_effect=Fire Effect|missile=Fire Missile|missile_direction=south-east|missile_distance=2/2}}}}\n |{{Debuff2|Smoke UE|distance=yes|value=50-70%|duration=18secs\n  |scene={{Scene|spell=6sqmballself|caster=Hellgorak|look_direction=south|effect=Poof Effect|effect_on_caster=yes}}}}\n |{{Ability|Energy Strike|200-401|element=energy\n  |scene={{Scene|spell=1sqmstrike|caster=Hellgorak|look_direction=south|effect=Blue Electricity Effect|missile=Energy Missile|missile_direction=south-east|missile_distance=1/1}}}}\n |{{Ability|Mana Drain Strike|297-401|element=manadrain\n  |scene={{Scene|spell=1sqmstrike|caster=Hellgorak|look_direction=south|effect=Teleport Effect|damage_effect=Red Sparkles Effect|missile=Energy Ball Missile|missile_direction=south-east|missile_distance=1/1}}}}\n |{{Ability|Mana Drain Bomb|196-400|element=manadrain\n  |scene={{Scene|spell=3sqmball2self|caster=Hellgorak|look_direction=south|effect=Stars Effect|effect_on_caster=yes|damage_effect=Red Sparkles Effect}}}}\n |{{Healing|weak Self-Healing|range=400}}\n |{{Healing|strong Self-Healing|range=1700}}\n}}",
+    "pushobjects": "Yes",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "secondarytype": "Archdemons",
+    "fireDmgMod": "2%<",
+    "holyDmgMod": "5%<",
+    "sounds": [
+        "I'll sacrifice yours souls to seven!",
+        "I'm bad news for you mortals!",
+        "No man can defeat me!",
+        "Your puny skills are no match for me.",
+        "I smell your fear.",
+        "Delicious!"
+    ],
+    "maxdmg": "1800",
+    "pushable": "No",
+    "implemented": "8.20",
+    "loot": [
+        {
+            "amount": "0-283",
+            "itemName": "Gold Coin"
+        },
+        {
+            "amount": "0-29",
+            "itemName": "Platinum Coin"
+        },
+        {
+            "itemName": "Demonic Essence",
+            "rarity": "always"
+        },
+        {
+            "amount": "0-25",
+            "itemName": "Small Ruby"
+        },
+        {
+            "amount": "0-22",
+            "itemName": "Small Amethyst"
+        },
+        {
+            "amount": "0-21",
+            "itemName": "Small Diamond"
+        },
+        {
+            "amount": "0-25",
+            "itemName": "Small Emerald"
+        },
+        {
+            "amount": "0-21",
+            "itemName": "Small Sapphire"
+        },
+        {
+            "amount": "0-25",
+            "itemName": "Small Topaz"
+        },
+        {
+            "amount": "0-22",
+            "itemName": "Black Pearl"
+        },
+        {
+            "amount": "0-25",
+            "itemName": "White Pearl"
+        },
+        {
+            "itemName": "Great Spirit Potion"
+        },
+        {
+            "itemName": "Great Health Potion"
+        },
+        {
+            "itemName": "Great Mana Potion"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "Ultimate Health Potion"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "Demon Horn"
+        },
+        {
+            "itemName": "Crystal Necklace"
+        },
+        {
+            "itemName": "Stone Skin Amulet"
+        },
+        {
+            "itemName": "Golden Amulet"
+        },
+        {
+            "itemName": "Ruby Necklace"
+        },
+        {
+            "itemName": "Slightly Rusted Armor"
+        },
+        {
+            "itemName": "Slightly Rusted Legs"
+        },
+        {
+            "itemName": "Beastslayer Axe"
+        },
+        {
+            "itemName": "Noble Axe"
+        },
+        {
+            "itemName": "Butcher's Axe"
+        },
+        {
+            "itemName": "Spirit Cloak"
+        },
+        {
+            "itemName": "Focus Cape"
+        },
+        {
+            "itemName": "Blue Robe"
+        },
+        {
+            "itemName": "Crown Armor"
+        },
+        {
+            "itemName": "Knight Legs"
+        },
+        {
+            "itemName": "Crown Legs"
+        },
+        {
+            "itemName": "Magma Legs"
+        },
+        {
+            "itemName": "Steel Boots"
+        },
+        {
+            "itemName": "Boots of Haste"
+        },
+        {
+            "itemName": "Spellbook of Warding"
+        },
+        {
+            "itemName": "Spellbook of Mind Control"
+        },
+        {
+            "itemName": "Golden Armor"
+        },
+        {
+            "itemName": "Golden Legs"
+        },
+        {
+            "itemName": "Spellbook of Lost Souls"
+        },
+        {
+            "itemName": "Vile Axe"
+        },
+        {
+            "itemName": "Demonbone Amulet",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Executioner",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Spellscroll of Prophecies",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Voltage Armor",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Demonwing Axe",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Great Axe",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Spellbook of Dark Mysteries",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "10000",
+    "creatureclass": "Demons",
+    "earthDmgMod": "2%<",
+    "physicalDmgMod": "2%<",
+    "bosstiaryclass": "Bane",
+    "primarytype": "The Ruthless Seven Minions",
+    "race_id": "403",
+    "senseinvis": "?",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "305%",
+    "convince": "--",
+    "name": "Hellgorak",
+    "isboss": "Yes",
+    "behaviour": "Fights to the death, retargets rapidly.",
+    "location": "Through the teleport in the Hives in the Inquisition Quest. He is the seventh and final boss.",
+    "iceDmgMod": "2%<",
+    "strategy": "He is extremely resistant to all elements players can use. The only way to effectively damage him is to convince the [[Dreadbeast]]s which are summoned by the towers around the room. trap Hellgorak with the blocker + 7 dreadbeasts. Druids should use [[Mass Healing]] to heal the blocker and the dreadbeasts.\n<gallery mode=\"nolines\">\nHellgorak.jpg\nUntitledHG.jpg|Example on killing tactic\n</gallery>",
+    "energyDmgMod": "2%<",
+    "deathDmgMod": "2%<"
+}

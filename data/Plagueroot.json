@@ -1,0 +1,189 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "{{JSpoiler|It's one of the bosses of [[The Dream Courts Quest]].}}",
+    "walksthrough": "?",
+    "hp": "?",
+    "speed": "?",
+    "abilities": "{{Ability List|}}",
+    "pushobjects": "yes",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "110%",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "?",
+    "pushable": "no",
+    "implemented": "12.00.7695",
+    "loot": [
+        {
+            "amount": "5",
+            "itemName": "Platinum Coin",
+            "rarity": "always"
+        },
+        {
+            "itemName": "Piggy Bank",
+            "rarity": "always"
+        },
+        {
+            "itemName": "Mysterious Remains",
+            "rarity": "always"
+        },
+        {
+            "itemName": "Energy Bar",
+            "rarity": "always"
+        },
+        {
+            "amount": "2-3",
+            "itemName": "Silver Token",
+            "rarity": "always"
+        },
+        {
+            "amount": "2",
+            "itemName": "Gold Token"
+        },
+        {
+            "amount": "6-20",
+            "itemName": "Supreme Health Potion"
+        },
+        {
+            "amount": "6-14",
+            "itemName": "Ultimate Mana Potion"
+        },
+        {
+            "itemName": "Huge Chunk of Crude Iron"
+        },
+        {
+            "amount": "6-20",
+            "itemName": "Ultimate Spirit Potion"
+        },
+        {
+            "amount": "100",
+            "itemName": "Royal Star"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Green Gem"
+        },
+        {
+            "itemName": "Pomegranate"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Red Gem"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Yellow Gem"
+        },
+        {
+            "amount": "10",
+            "itemName": "Bullseye Potion"
+        },
+        {
+            "itemName": "Gold Ingot"
+        },
+        {
+            "itemName": "Chaos Mace"
+        },
+        {
+            "itemName": "Collar of Green Plasma"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Crystal Coin"
+        },
+        {
+            "itemName": "Giant Shimmering Pearl"
+        },
+        {
+            "itemName": "Living Armor"
+        },
+        {
+            "itemName": "Magic Sulphur"
+        },
+        {
+            "itemName": "Skull Staff"
+        },
+        {
+            "itemName": "Abyss Hammer"
+        },
+        {
+            "itemName": "Blue Gem"
+        },
+        {
+            "itemName": "Violet Gem"
+        },
+        {
+            "amount": "10",
+            "itemName": "Mastermind Potion"
+        },
+        {
+            "itemName": "Ring of Blue Plasma"
+        },
+        {
+            "itemName": "Ring of Green Plasma"
+        },
+        {
+            "itemName": "Ring of the Sky"
+        },
+        {
+            "itemName": "Plagueroot Offshoot"
+        },
+        {
+            "itemName": "Living Vine Bow"
+        },
+        {
+            "itemName": "Turquoise Tendril Lantern"
+        },
+        {
+            "itemName": "Collar of Red Plasma"
+        },
+        {
+            "itemName": "Soul Stone"
+        },
+        {
+            "itemName": "Crunor Idol"
+        },
+        {
+            "itemName": "Ring of Red Plasma"
+        },
+        {
+            "itemName": "Giant Emerald"
+        },
+        {
+            "itemName": "Collar of Blue Plasma"
+        },
+        {
+            "itemName": "Berserk Potion"
+        },
+        {
+            "itemName": "Arcane Staff"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "55000",
+    "creatureclass": "Elementals",
+    "earthDmgMod": "-120%?",
+    "physicalDmgMod": "100%?",
+    "bosstiaryclass": "Nemesis",
+    "primarytype": "Bio-Elementals",
+    "race_id": "1695",
+    "senseinvis": "?",
+    "actualname": "Plagueroot",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Plagueroot",
+    "isboss": "yes",
+    "behaviour": "From time to time it will teleport itself to a different place in the room.",
+    "location": "The Dream Scar.",
+    "iceDmgMod": "100%?",
+    "strategy": "Avoid standing right in front of it. To make the battle easier, do not allow the [[Plant Attendant]]s to become [[Plant Abomination]]s. [[Earth Damage]] heals the boss, so shouldn't be used against it.",
+    "energyDmgMod": "99%?",
+    "deathDmgMod": "100%?"
+}

@@ -1,0 +1,141 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "A really dangerous [[creature]], it's extremely powerful and heals itself. Once, it was the most powerful creature in all of [[Tibia]]. These creatures can be skinned with an [[Obsidian Knife]]. See also: [[Red Dragon Leather/Skinning]].",
+    "walksthrough": "Fire, Energy, Poison",
+    "hp": "1900",
+    "abilities": "{{Ability List\n |{{Melee|0-230}}\n |{{Ability|Great Fireball|100-200|fire\n  |scene={{Scene|spell=2sqmballtarget|effect=Fireball Effect|caster=Dragon Lord|missile=Fire Missile|missile_direction=south-east|missile_distance=2/2}}}}\n |{{Ability|Creates Fire Fields|element=fire field\n  |scene={{Scene|spell=2sqmballtarget|effect=Fire|caster=Dragon Lord|missile=Fire Missile|missile_direction=south-east|missile_distance=2/2}}}}\n |{{Ability|Fire Wave|150-230|fire\n  |scene={{Scene|spell=8sqmwave|effect=Fireball Effect|caster=Dragon Lord|look_direction=east}}}}\n |{{Healing|range=57-93}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "holyDmgMod": "100%",
+    "maxdmg": "{{Max Damage|physical=230|fire=440}}",
+    "pushable": "No",
+    "implemented": "5.1",
+    "loot": [
+        {
+            "amount": "1-245",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-5",
+            "itemName": "Dragon Ham",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Green Mushroom",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Book (Gemmed)",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "Royal Spear",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-7",
+            "itemName": "Power Bolt",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Energy Ring",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Small Sapphire",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Golden Mug",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Red Dragon Scale",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Red Dragon Leather",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Strong Health Potion",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Life Crystal",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Strange Helmet",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Fire Sword",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Royal Helmet",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Tower Shield",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Dragon Scale Mail",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Dragon Lord Trophy",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Dragon Slayer",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "None",
+    "exp": "2100",
+    "mitigation": "1.29",
+    "attacktype": "Melee",
+    "history": "Dragon Lords were once the strongest creature in Tibia, and there were only 3 spawns. They used to drop [[Great Shield]] very rarely back then. They used to look like this during [[Updates/Pre-6.0]]:<br />\n[[File:Dragon_Lord_(1.0).gif]]      ",
+    "article": "a",
+    "actualname": "dragon lord",
+    "illusionable": "yes",
+    "armor": "34",
+    "convince": "--",
+    "name": "Dragon Lord",
+    "isboss": "no",
+    "iceDmgMod": "110%",
+    "energyDmgMod": "80%",
+    "deathDmgMod": "100%",
+    "plural": "dragon lords",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "Dragon Lords are the leaders of the dragons. They are even more powerful than normal dragons that can usually be found in their company. Like normal dragons, they can throw fireballs, spit fire, and heal themselves, but they can also throw great fire bombs.",
+    "speed": "100",
+    "pushobjects": "Yes",
+    "fireDmgMod": "0%",
+    "sounds": [
+        "YOU WILL BURN!",
+        "ZCHHHHHHH"
+    ],
+    "runsat": "300",
+    "bestiaryclass": "Dragon",
+    "creatureclass": "Reptiles",
+    "earthDmgMod": "20%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Dragons",
+    "race_id": "39",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "dragonlord",
+    "behaviour": "Dragon Lords attack their opponents viciously with deadly [[Fire Damage|Fire-Based Attacks]].",
+    "location": "[[Ankrahmun Dragon Lairs]], [[Banshee Quest]] final room (level 60+ to open the door), Deeper [[Cyclopolis]] past the Dragon Spawn (level 30+ to open the door), [[Draconia]], [[Edron Dragon Lair]], [[Fibula Dungeon]] (level 50+ to open the door), [[Maze of Lost Souls]] (level 30+ to open the door), [[Pits of Inferno]] Dragon Lair, Dragon Lord hole in [[Plains of Havoc]], [[Carlin Dragon Lair]], [[Thais Dragon Lair]], [[Goroma Dragon Lairs]], [[Hot Spot]], [[Venore Dragon Lair]], [[Arena and Zoo Quarter]] ([[Yalahar]]), beneath [[Fenrock]], [[Darashia Dragon Lair]], [[Razachai]], [[Dragonblaze Peaks]], [[Ferumbras Citadel]], [[Fury Dungeon]], [[Lower Spike]], [[Krailos Steppe]].",
+    "strategy": "A common strategy involves a [[knight]] blocking while several [[Paladin]]s and/or [[Mage]]s stay as far away as possible from the creature while shooting bolts and or runes. [[Mage]]s can also summon [[Demon Skeleton|demon skeletons]] to block the creature as they are not affected by fire. Knights when blocking are advised to stand diagonally to the dragon lord to avoid the fire wave attack; a practice often called ''dancing with the dragon''; although it is no display of affection.\n<br>\nIf you are on a non-pvp world, a [[Knight]] and a [[Druid]] can hunt like this in big spawns (such as Pits of Inferno Dragon Lair):\n<br>\nThe knight lures a few DLs, and keeps standing at one spot. The [[Druid]] has to stand a certain number of squares away from him, and, using [[Ice Wave]] or [[Strong Ice Wave]], hit all the DLs that are attacking the knight, also healing the knight with [[exura sio]]. LOTS of experience can be obtained like this in a short time.\n<br><br>\nHigher level players can solo dragon lords in different ways as set out below.\n<br><br>\n'''[[Knight]]s''' 60+ can use melee and [[Exori]]-spells, healing as required. But it is hard to profit since a great number of [[Mana Potion]]s would be used.\n<br><br>\n'''[[Mage]]s''' (recommended [[Level]] 45+) can use attacks like [[Ice Strike]] or [[Icicle (Rune)|Icicles]] to kill dragon lords, supported by some [[Avalanche (Rune)|Avalanches]] when they are trying to run away, since they're weak against this element. Alternatively they can summon [[Demon Skeleton]]s to keep the dragon lord at a distance and shoot runes. Keep in mind that the dragon lord will kill the [[Demon Skeleton]]s quite fast, so you should be bringing a few healing runes, alternatively summon a new one. For mages below [[Level]] 60, it is recommended to use [[Magic Shield]] and always stand diagonal. <br><br>\n'''[[Paladin]]s''' (recommended [[level]] 55+) can shoot bolts or [[Ethereal Spear]]s while running to avoid the fire waves and melee attacks. Depending on your level and skill level, it is recommended to bring a decent amount of pots whether you're going to just kill one or hunt them. <br>\n\nA good spot to '''solo your first Dragon Lord''' is in a [https://tibia.fandom.com/wiki/Mapper?coords=127.207-122.1-7-4-1-1 hill] of the [[Arena and Zoo Quarter|Yalahar Zoo]], there is only one. <br>"
+}

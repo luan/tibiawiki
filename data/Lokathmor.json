@@ -1,0 +1,170 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "{{JSpoiler|Part of [[The Secret Library Quest]].}}",
+    "walksthrough": "?",
+    "hp": "?",
+    "speed": "?",
+    "abilities": "{{Ability List|}}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "70%",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "?",
+    "pushable": "?",
+    "cooldown": "20",
+    "implemented": "11.80.7048",
+    "loot": [
+        {
+            "itemName": "Sturdy Book"
+        },
+        {
+            "itemName": "Giant Emerald"
+        },
+        {
+            "itemName": "Green Gem"
+        },
+        {
+            "itemName": "Yellow Gem"
+        },
+        {
+            "itemName": "Magic Sulphur"
+        },
+        {
+            "itemName": "Ominous Book"
+        },
+        {
+            "itemName": "Knowledgeable Book"
+        },
+        {
+            "amount": "4",
+            "itemName": "Great Spirit Potion"
+        },
+        {
+            "amount": "4",
+            "itemName": "Ultimate Spirit Potion"
+        },
+        {
+            "amount": "4",
+            "itemName": "Ultimate Health Potion"
+        },
+        {
+            "amount": "8",
+            "itemName": "Ultimate Mana Potion"
+        },
+        {
+            "amount": "2",
+            "itemName": "Berserk Potion"
+        },
+        {
+            "itemName": "Wand of Cosmic Energy"
+        },
+        {
+            "itemName": "Wand of Inferno"
+        },
+        {
+            "itemName": "Dreaded Cleaver"
+        },
+        {
+            "itemName": "Stone Skin Amulet"
+        },
+        {
+            "amount": "37-58",
+            "itemName": "Platinum Coin"
+        },
+        {
+            "amount": "4",
+            "itemName": "Crystal Coin"
+        },
+        {
+            "amount": "12",
+            "itemName": "Onyx Chip"
+        },
+        {
+            "amount": "12",
+            "itemName": "Small Amethyst"
+        },
+        {
+            "amount": "12",
+            "itemName": "Small Emerald"
+        },
+        {
+            "amount": "12",
+            "itemName": "Small Diamond"
+        },
+        {
+            "itemName": "Boots of Haste"
+        },
+        {
+            "amount": "6",
+            "itemName": "Silver Token"
+        },
+        {
+            "amount": "5",
+            "itemName": "Gold Token"
+        },
+        {
+            "itemName": "Demon Horn"
+        },
+        {
+            "amount": "2",
+            "itemName": "Mastermind Potion"
+        },
+        {
+            "itemName": "Slightly Rusted Helmet"
+        },
+        {
+            "itemName": "Giant Shimmering Pearl"
+        },
+        {
+            "itemName": "Spellweaver's Robe"
+        },
+        {
+            "itemName": "Haunted Blade"
+        },
+        {
+            "itemName": "Bullseye Potion"
+        },
+        {
+            "itemName": "Slightly Rusted Shield"
+        },
+        {
+            "itemName": "Demonic Essence"
+        },
+        {
+            "itemName": "Small Topaz"
+        },
+        {
+            "itemName": "Crystallized Anger"
+        },
+        {
+            "itemName": "Blue Gem"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "?",
+    "creatureclass": "Demons",
+    "earthDmgMod": "115%?",
+    "physicalDmgMod": "100%?",
+    "bosstiaryclass": "Archfoe",
+    "primarytype": "Demons",
+    "race_id": "1574",
+    "senseinvis": "?",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Lokathmor",
+    "isboss": "yes",
+    "behaviour": "Unknown",
+    "location": "[[The Secret Library]].",
+    "iceDmgMod": "90%",
+    "strategy": "{{#lsth:The Secret Library Quest/Spoiler|Lokathmor}}",
+    "energyDmgMod": "105%",
+    "deathDmgMod": "100%?"
+}

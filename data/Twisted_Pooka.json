@@ -1,0 +1,116 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "twisted pookas",
+    "hpDrainDmgMod": "100%?",
+    "walksthrough": "None",
+    "hp": "700",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "Twisted Pookas are stronger and more aggressive than [[Pooka]]s.",
+    "speed": "115",
+    "abilities": "{{Ability List\n |{{Melee|0-180|poison=8}}\n |{{Ability|throws [[Small Stone]]s|0-100|element=physical\n  |scene={{Scene|spell=1sqmstrike|effect_on_target=Stone Shower Effect|missile=Small Stone Missile|missile_direction=south-east|missile_distance=1/1}}}}\n |{{Ability|Star Wave|causes [[drunkenness]] for 5 seconds|element=drunk\n  |scene={{Scene|spell=5sqmwavewide|effect=Stars Effect}}}}\n |{{Healing|range=40-60}}\n}}",
+    "healMod": "100%",
+    "pushobjects": "?",
+    "paraimmune": "no",
+    "fireDmgMod": "80%",
+    "holyDmgMod": "120%",
+    "sounds": [
+        "*sniff sniff* Mhmmm ... mortal flesh.",
+        "Hoppel-di-hopp!",
+        "I'll gnaw away your toes!"
+    ],
+    "maxdmg": "?",
+    "pushable": "?",
+    "runsat": "0",
+    "implemented": "11.40.5409",
+    "bestiaryclass": "Fey",
+    "loot": [
+        {
+            "amount": "1-125",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Strong Health Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Carrot",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Stone Herb",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Shimmering Beetles",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Fairy Wings",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Small Enchanted Ruby",
+            "rarity": "semi-rare"
+        },
+        {
+            "amount": "1-5",
+            "itemName": "Small Stone",
+            "rarity": "semi-rare"
+        },
+        {
+            "amount": "1-5",
+            "itemName": "Cookie",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Orange Mushroom",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Prismatic Quartz",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Stealth Ring",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Carrot on a Stick",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Crystal of Focus",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Energy, Fire, Poison",
+    "exp": "600",
+    "creatureclass": "Humanoids",
+    "earthDmgMod": "60%",
+    "mitigation": "1.04",
+    "physicalDmgMod": "80%",
+    "primarytype": "Fae",
+    "attacktype": "Melee",
+    "race_id": "1436",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "article": "a",
+    "actualname": "twisted pooka",
+    "illusionable": "no",
+    "armor": "41",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "bestiaryname": "twistedpooka",
+    "name": "Twisted Pooka",
+    "isboss": "no",
+    "location": "[[Feyrist]] (nighttime) and its underground (all day).",
+    "iceDmgMod": "80%",
+    "strategy": "Unknown",
+    "energyDmgMod": "110%",
+    "deathDmgMod": "70%"
+}

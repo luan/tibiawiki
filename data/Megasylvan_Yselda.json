@@ -1,0 +1,117 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "She's a metamorphing form of [[Yselda]], betrothed of [[Kesar the Younger]] and future Queen of [[Bounac]].\n{{JSpoiler|Part of the [[Adventures of Galthen Quest]].}}",
+    "hp": "?",
+    "abilities": "{{Ability List|{{Melee|0-?}}}}",
+    "pushobjects": "no",
+    "healMod": "100%?",
+    "fireDmgMod": "40%",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        "What are you... doing!"
+    ],
+    "maxdmg": "{{Max Damage|}}",
+    "pushable": "no",
+    "runsat": "0",
+    "implemented": "12.70.10953",
+    "cooldown": "20",
+    "loot": [
+        {
+            "itemName": "Megasylvan Sapling"
+        },
+        {
+            "itemName": "Curl of Hair"
+        },
+        {
+            "itemName": "Old Royal Diary"
+        },
+        {
+            "itemName": "Bar of Gold"
+        },
+        {
+            "itemName": "Platinum Coin"
+        },
+        {
+            "itemName": "Crystal Coin"
+        },
+        {
+            "itemName": "Mastermind Potion"
+        },
+        {
+            "itemName": "Bullseye Potion"
+        },
+        {
+            "itemName": "Yellow Gem"
+        },
+        {
+            "itemName": "Giant Topaz"
+        },
+        {
+            "itemName": "Potato"
+        },
+        {
+            "itemName": "Supreme Health Potion"
+        },
+        {
+            "itemName": "Terra Mantle"
+        },
+        {
+            "itemName": "Ultimate Spirit Potion"
+        },
+        {
+            "itemName": "Ultimate Mana Potion"
+        },
+        {
+            "itemName": "Violet Gem"
+        },
+        {
+            "itemName": "Terra Legs"
+        },
+        {
+            "itemName": "Red Gem"
+        },
+        {
+            "itemName": "Giant Emerald"
+        },
+        {
+            "itemName": "Terra Amulet"
+        },
+        {
+            "itemName": "Terra Rod"
+        },
+        {
+            "itemName": "Berserk Potion"
+        },
+        {
+            "itemName": "Blue Gem"
+        },
+        {
+            "itemName": "Green Gem"
+        },
+        {
+            "itemName": "Terra Hood"
+        }
+    ],
+    "exp": "?",
+    "creatureclass": "The Undead",
+    "earthDmgMod": "10%?",
+    "physicalDmgMod": "15%?",
+    "bosstiaryclass": "Archfoe",
+    "race_id": "2114",
+    "senseinvis": "yes",
+    "actualname": "Megasylvan Yselda",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Megasylvan Yselda",
+    "isboss": "yes",
+    "behaviour": "She does not move.",
+    "location": "[[Forest of Life]]",
+    "iceDmgMod": "10%?",
+    "strategy": "Say the words \"{{Message|type=chat|DEMIHBOULDR SOMMBHA WITHER}}\" to make her vulnerable and then start attacking. You'll also need to heal her [[Megasylvan Sapling (Creature)|Megasylvan Saplings]] using [[Ultimate Healing Rune]]s if you want the addition of the quest.",
+    "energyDmgMod": "20%",
+    "deathDmgMod": "30%?"
+}

@@ -1,0 +1,97 @@
+{
+    "summon": "390",
+    "templateType": "Creature",
+    "notes": "Amazons are strong warriors that collect the heads of their victims. An amazon that collects 13 [[Skull (Item)|skulls]] is promoted to a [[valkyrie]]. They are wild women that battle for their liberty and hate it when somebody invades their camp.<br>Note that all female [[characters]] can dress like an Amazon. On worlds where [[Player Killing]] is allowed, this could be a problem, because someone might attack you thinking you were an Amazon.",
+    "walksthrough": "None",
+    "hp": "110",
+    "abilities": "{{Ability List\n |{{Melee|0-45}}\n |{{Ability|Throws [[Distance Fighting|Knives]]|0-40|element=physical\n  |scene={{Scene|spell=5sqmstrike|background=canvas|caster=Amazon|look_direction=south|missile=Throwing Knife Missile|missile_direction=south-east|missile_distance=5/5}}}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "holyDmgMod": "100%",
+    "maxdmg": "{{Max Damage|physical=85}}",
+    "pushable": "Yes",
+    "implemented": "7.1",
+    "loot": [
+        {
+            "amount": "0-20",
+            "itemName": "Gold Coin"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "Skull (Item)"
+        },
+        {
+            "itemName": "Dagger"
+        },
+        {
+            "itemName": "Brown Bread"
+        },
+        {
+            "itemName": "Sabre",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Girlish Hair Decoration",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Protective Charm",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Torch",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Crystal Necklace",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Small Ruby",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Fire, Energy, Poison",
+    "exp": "60",
+    "mitigation": "0.28",
+    "attacktype": "Distance",
+    "article": "an",
+    "actualname": "amazon",
+    "illusionable": "yes",
+    "armor": "10",
+    "convince": "390",
+    "name": "Amazon",
+    "isboss": "no",
+    "iceDmgMod": "100%",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "105%",
+    "plural": "amazons",
+    "hpDrainDmgMod": "100%",
+    "usespells": "no",
+    "occurrence": "Common",
+    "bestiarytext": "Amazons are communities of martial women who have erected some hideouts in the swamps in the east of Tibia. They attack every intruder of their sphere vigorously and cut off the heads of their victims in order to keep them as some kind of trophies. They are not only quite strong in close combat but are also able to throw knives with deadly precision.",
+    "speed": "86",
+    "pushobjects": "Yes",
+    "fireDmgMod": "100%",
+    "sounds": [
+        "Your head shall be mine!",
+        "Your head will be mine!",
+        "Yeeee ha!"
+    ],
+    "bestiaryclass": "Human",
+    "creatureclass": "Humans",
+    "earthDmgMod": "100%",
+    "physicalDmgMod": "105%",
+    "primarytype": "Amazons",
+    "spawntype": [
+        "Regular"
+    ],
+    "race_id": "77",
+    "bestiarylevel": "Easy",
+    "senseinvis": "no",
+    "drownDmgMod": "100%",
+    "bestiaryname": "amazon",
+    "behaviour": "Amazons will always try to keep a distance from any attacker. They will try to lure you into bigger packs of amazons!",
+    "location": "[[Venore Amazon Camp]], [[Carlin Amazon Camp]], [[Amazon Tower]], east of [[Carlin]], underneath the [[Fields of Glory]], west of [[Venore]] {{Mapper Coords|127.248|125.70|7|4|text=here}}, [[Oasis Tomb]], on the smallest of the [[Laguna Islands]], [[Foreigner Quarter]] and [[Trade Quarter]].",
+    "strategy": "Be careful. Sometimes they are accompanied by [[Valkyrie]]s. They have moderately weak defense and they die fast. They are good for mages using wands as with full defense and basic equipment they practically don't damage you. They also stand at an ideal range (4 squares away) to be hit by wave attacks like [[Ice Wave|Ice]] and [[Fire Wave]]. This can be a mana-conservative way to kill multiple Amazons at once. Knights should just charge and slay using melee but beware of luring large amounts."
+}

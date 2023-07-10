@@ -1,0 +1,82 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "It's a [[Deathlings]] boss. \n\n{{JSpoiler|Part of [[The Secret Library Quest]].}}",
+    "walksthrough": "?",
+    "hp": "50000",
+    "lightcolor": "215",
+    "speed": "?",
+    "abilities": "{{Ability List\n |{{Melee|0-500?}}\n |{{Ability|Death Beam|300-500+|element=death\n   |scene={{Scene|spell=8sqmbeam|effect=Death Effect|caster=Brokul|look_direction=east}}}}\n |{{Ability|Fire Beam|300-500+|element=fire\n   |scene={{Scene|spell=8sqmbeam|effect=Fire Effect|caster=Brokul|look_direction=east}}}}\n |{{Ability|Holy Beam|300-500+|element=holy\n   |scene={{Scene|spell=8sqmbeam|effect=Holy Cross Effect|caster=Brokul|look_direction=east}}}}\n |{{Ability|Fireball|157-608|element=fire\n  |scene={{Scene|spell=2sqmballtarget|caster=Brokul|look_direction=south|effect=Fireball Effect|missile=Fire Missile|missile_direction=south-east|missile_distance=2/2}}}}\n |{{Ability|Explosion Bomb on self|650+|element=?\n  |scene={{Scene|spell=2sqmballself|caster=Brokul|look_direction=south|effect=Explosion Effect|effect_on_caster=yes}}}}\n |{{Healing|range=300-700}}\n |{{Ability|Distance Paralyze|element=paralyze\n  |scene={{Scene|spell=7sqmstrike|effect=Green Sparkles Effect|caster=Brokul}}}}\n}}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "0%",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "3000+",
+    "pushable": "?",
+    "lightradius": "4",
+    "runsat": "2000",
+    "cooldown": "20",
+    "implemented": "11.80.7048",
+    "loot": [
+        {
+            "itemName": "The True Book of Death",
+            "rarity": "always"
+        },
+        {
+            "itemName": "Broccoli"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Gold Ingot"
+        },
+        {
+            "itemName": "Small Diamond"
+        },
+        {
+            "itemName": "Deepling Ceremonial Dagger"
+        },
+        {
+            "itemName": "Deepling Fork"
+        },
+        {
+            "itemName": "Platinum Coin"
+        },
+        {
+            "itemName": "Black Pearl"
+        },
+        {
+            "itemName": "Red Gem"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "23000",
+    "creatureclass": "Amphibians",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "100%?",
+    "bosstiaryclass": "Archfoe",
+    "primarytype": "Deathlings",
+    "spawntype": [
+        "Unique",
+        "Triggered"
+    ],
+    "race_id": "1645",
+    "senseinvis": "yes",
+    "actualname": "Brokul",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Brokul",
+    "isboss": "yes",
+    "behaviour": "It fights in close combat.",
+    "location": "[[Deepling Ancestorial Grounds]]",
+    "iceDmgMod": "0%",
+    "strategy": "Never stay in front of it, as it has 3 very strong beam spells. Shooters should also keep their distance to avoid the two bomb spells it uses.",
+    "energyDmgMod": "115%",
+    "deathDmgMod": "100%?"
+}

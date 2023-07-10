@@ -1,0 +1,69 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "cave spiders",
+    "hpDrainDmgMod": "100%?",
+    "notes": "{{JSpoiler|Part of the [[Hidden Threats Quest]].}}",
+    "walksthrough": "Energy?, Poison",
+    "hp": "1800",
+    "speed": "?",
+    "abilities": "{{Ability List\n |{{Melee|0-400+?|poison=16}}\n |{{Ability|Poison Spit|0-225+|element=earth}}\n |{{Ability|poison spit|paralyzes you|element=paralyze}}\n |{{Ability|Earth Wave|poisons for 18 hp/turn|element=poisoned}}\n |{{Ability|[[Poison Bomb]]|element=earth}}\n |{{Healing|range=150-200}}\n}}",
+    "pushobjects": "yes",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "130%?",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "650?",
+    "pushable": "no",
+    "implemented": "11.50.6055",
+    "loot": [
+        {
+            "amount": "0-76",
+            "itemName": "Gold Coin"
+        },
+        {
+            "itemName": "Strong Health Potion"
+        },
+        {
+            "itemName": "Black Pearl"
+        },
+        {
+            "amount": "0-3",
+            "itemName": "Small Diamond"
+        },
+        {
+            "itemName": "Spider Silk"
+        },
+        {
+            "itemName": "Platinum Coin"
+        }
+    ],
+    "walksaround": "Fire",
+    "exp": "2000",
+    "creatureclass": "Invertebrates",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "100%?",
+    "primarytype": "Arachnids",
+    "spawntype": [
+        "Triggered"
+    ],
+    "race_id": "1526",
+    "senseinvis": "yes",
+    "article": "a",
+    "actualname": "cave spider",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Cave Spider",
+    "isboss": "yes",
+    "behaviour": "It behaves like [[Mamma Longlegs]] (a [[Giant Spider]]).",
+    "location": "[[Corym Mines]].",
+    "iceDmgMod": "100%?",
+    "strategy": "Treat it like [[Mamma Longlegs]] (a [[Giant Spider]]).",
+    "energyDmgMod": "100%?",
+    "deathDmgMod": "100%?"
+}

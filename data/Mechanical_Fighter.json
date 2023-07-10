@@ -1,0 +1,49 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "mechanical fighters",
+    "hpDrainDmgMod": "100%?",
+    "notes": "Unlike most other traps, you '''can kill''' this creature.",
+    "walksthrough": "Poison",
+    "hp": "420",
+    "speed": "?",
+    "abilities": "{{Ability List\n |{{Melee|0-200}}\n |{{Haste}}}}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "100%",
+    "holyDmgMod": "0%",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "{{Max Damage|physical=200}}",
+    "pushable": "?",
+    "usedelements": "Physical",
+    "implemented": "8.10",
+    "loot": [
+        {
+            "itemName": "Wooden Trash"
+        }
+    ],
+    "walksaround": "Fire, Energy",
+    "exp": "255",
+    "creatureclass": "Misc",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Machines",
+    "senseinvis": "yes",
+    "article": "a",
+    "actualname": "mechanical fighter",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Mechanical Fighter",
+    "isboss": "no",
+    "behaviour": "Follows the victim without mercy but still runs in low health.",
+    "location": "[[Mad Technomancer]]'s laboratory in [[Kazordoon]] and [[Beregar]], also summoned by [[Furious Troll]]s.",
+    "iceDmgMod": "100%",
+    "strategy": "Kill it as fast as possible.",
+    "energyDmgMod": "50%",
+    "deathDmgMod": "100%"
+}

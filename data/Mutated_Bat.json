@@ -1,0 +1,115 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "A stronger mutated form of a [[bat]]. They have powerful attacks so low [[level]] [[players]] are advised to avoid them. After [[Updates/8.5|Summer Update 2009]] they have slightly weaker poison shot, poison at melee and can no longer make you drunk.\n\n{{JSpoiler|You may hunt 400 of these as a task of the [[Killing in the Name of... Quest]]. Upon completion of the task you will face [[Bruise Payne]].}}",
+    "walksthrough": "Poison",
+    "hp": "900",
+    "abilities": "{{Ability List\n |{{Melee|0-169|poison=6}}\n |{{Ability|Poison Shot|70-180|element=earth}}\n |{{Ability|White Musical Bomb|30-90|element=drowning\n   |scene={{Scene|spell=5sqmballself|effect=White Notes Effect|caster=Mutated Bat|look_direction=south|effect_on_caster=yes}}}}\n |{{Ability|Cursing Purple Musical Wave|up to 13 per turn|element=cursed\n   |scene={{Scene|spell=7sqmwave|effect=Purple Notes Effect|caster=Mutated Bat|look_direction=east}}}}\n |{{Ability|Poison Wave poisons you 12 [[hp]]/turn|element=poisoned\n   |scene={{Scene|spell=4sqmtwave|effect=Poison Effect 3|caster=Mutated Bat|look_direction=east}}}}\n |{{Healing}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "secondarytype": "Mutated Mammals",
+    "holyDmgMod": "100%",
+    "maxdmg": "462+",
+    "pushable": "?",
+    "implemented": "8.40",
+    "loot": [
+        {
+            "amount": "1-130",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Battle Shield",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Obsidian Lance",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Heavily Rusted Armor",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Star Herb",
+            "rarity": "semi-rare"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Bat Wing",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Mutated Bat Ear",
+            "rarity": "semi-rare"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "Black Pearl",
+            "rarity": "rare"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Small Amethyst",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Energy Ring",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Rusted Armor",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Batwing Hat",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Black Shield",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Mercenary Sword",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Fire, Energy",
+    "exp": "615",
+    "mitigation": "1.74",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "mutated bat",
+    "illusionable": "no",
+    "armor": "19",
+    "convince": "--",
+    "name": "Mutated Bat",
+    "isboss": "no",
+    "iceDmgMod": "100%",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "0%",
+    "plural": "mutated bats",
+    "hpDrainDmgMod": "100%",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "Modern scientists found out that the common bat has the inherent power of transformation. For this reason, bat blood is high-priced among alchemists and probably also explains the bats connection to vampires in some way. Due to certain influences by contaminated food or magical radiation, some bats transformed into horrible beasts. These beasts are well-known as Mutated Bats. Unlike intended mutations that origin from experiments, the mutation of bats seem to happen rather spontaneous.<br />Mutated Bats seem to lack the fertility of other mutated species as it is was never heard that they brought up offspring. The transformation into a giant-sized mutated bat seems to put some strain on the bats, turning them incredibly aggressive. Only the company of other Mutated Bats seems to calm them a little. Lonely Mutated Bats can become so aggressive that they attack their own shadow until they die of exhaustion.<br />In certain areas with a high magical contamination, the Mutated Bat has become a dangerous plague. Swarms of those bats have killed whole small villages in a single night. Moving only in the darkness, they devastate the land like a swarm of locusts until they are stopped by military or brave heroes.<br />As it is rather easy to create Mutated Bats on purpose, scholars of magic or alchemy often use them as watchdogs or tools of vengeance. Their aggressive and destructive nature makes such  endeavours dangerous at best, and not few lost control of their vicious pet in a rather inconvenient moment.",
+    "speed": "93",
+    "pushobjects": "?",
+    "fireDmgMod": "100%",
+    "sounds": [
+        "Shriiiiiek"
+    ],
+    "bestiaryclass": "Mammal",
+    "creatureclass": "Mammals",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Bats",
+    "race_id": "509",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "drownDmgMod": "0%",
+    "bestiaryname": "mutatedbat",
+    "behaviour": "Runs away in deep yellow [[health]].",
+    "location": "[[Cemetery Quarter]] (around 10 underground on the west side along with [[banshee]]s, and 4 bats on the church roof), [[Alchemist Quarter]] (4 found on top of roofs), [[Arena and Zoo Quarter]] (2 under the arena with other mutated creatures), [[Razachai]], [[Northern Zao Plantations]], [[Souleater Mountains]], [[Middle Spike]], [[Vengoth]] and [[Vengoth Castle]], entrance of the [[Temple Complex]].",
+    "strategy": "[[Knights]]: try to stay diagonal to avoid poison wave, better hit them in full attack since most damage you'll take will come from poison. Make sure to trigger chase enemy as soon as it starts running away, so you kill them faster. Also have exana pox ready to cast as soon as you kill to avoid heavy damage from poison."
+}

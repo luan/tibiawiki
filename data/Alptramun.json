@@ -1,0 +1,185 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "{{JSpoiler|It's one of the bosses of [[The Dream Courts Quest]].}}",
+    "walksthrough": "Fire, Poison, Energy",
+    "hp": "?",
+    "speed": "?",
+    "abilities": "{{Ability List| {{Melee|0-1000}}|{{Ability|[[Death Damage|Death Beam]]|700-2000|element=death}}|{{Ability|Smoke Bomb|400-700|element=?}}|{{Ability|[[Lifesteal]]|300-700; 150%; hits all players near target and propagates as as a chain|element=?}}|{{Ability|[[Invisibility]]|element=invisible}} }}",
+    "pushobjects": "yes",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "100%",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "4000+",
+    "pushable": "no",
+    "runsat": "0",
+    "implemented": "12.00.7695",
+    "loot": [
+        {
+            "amount": "5",
+            "itemName": "Platinum Coin"
+        },
+        {
+            "amount": "2",
+            "itemName": "Crystal Coin"
+        },
+        {
+            "amount": "3-4",
+            "itemName": "Silver Token"
+        },
+        {
+            "amount": "2",
+            "itemName": "Gold Token"
+        },
+        {
+            "itemName": "Energy Bar"
+        },
+        {
+            "itemName": "Mysterious Remains"
+        },
+        {
+            "itemName": "Piggy Bank"
+        },
+        {
+            "amount": "6-20",
+            "itemName": "Supreme Health Potion"
+        },
+        {
+            "amount": "6-14",
+            "itemName": "Ultimate Mana Potion"
+        },
+        {
+            "amount": "6-20",
+            "itemName": "Ultimate Spirit Potion"
+        },
+        {
+            "amount": "10",
+            "itemName": "Mastermind Potion"
+        },
+        {
+            "amount": "10",
+            "itemName": "Bullseye Potion"
+        },
+        {
+            "itemName": "Magic Sulphur"
+        },
+        {
+            "itemName": "Red Gem"
+        },
+        {
+            "itemName": "Violet Gem"
+        },
+        {
+            "itemName": "Yellow Gem"
+        },
+        {
+            "itemName": "Green Gem"
+        },
+        {
+            "itemName": "Blue Gem"
+        },
+        {
+            "itemName": "Gold Ingot"
+        },
+        {
+            "itemName": "Huge Chunk of Crude Iron"
+        },
+        {
+            "itemName": "Ring of Red Plasma"
+        },
+        {
+            "itemName": "Ring of Blue Plasma"
+        },
+        {
+            "amount": "100",
+            "itemName": "Royal Star"
+        },
+        {
+            "itemName": "Soul Stone"
+        },
+        {
+            "itemName": "Giant Shimmering Pearl"
+        },
+        {
+            "itemName": "Skull Staff"
+        },
+        {
+            "itemName": "Purple Tendril Lantern"
+        },
+        {
+            "itemName": "Pomegranate"
+        },
+        {
+            "itemName": "Alptramun's Toothbrush"
+        },
+        {
+            "itemName": "Dream Shroud"
+        },
+        {
+            "itemName": "Pair of Dreamwalkers"
+        },
+        {
+            "itemName": "Collar of Green Plasma"
+        },
+        {
+            "itemName": "Arcane Staff"
+        },
+        {
+            "itemName": "Chaos Mace"
+        },
+        {
+            "itemName": "Collar of Red Plasma"
+        },
+        {
+            "itemName": "Ring of the Sky"
+        },
+        {
+            "itemName": "Giant Ruby"
+        },
+        {
+            "itemName": "Collar of Blue Plasma"
+        },
+        {
+            "itemName": "Ring of Green Plasma"
+        },
+        {
+            "itemName": "Berserk Potion"
+        },
+        {
+            "itemName": "Crunor Idol"
+        },
+        {
+            "itemName": "Abyss Hammer"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "55000",
+    "creatureclass": "Elementals",
+    "earthDmgMod": "100%",
+    "physicalDmgMod": "100%?",
+    "bosstiaryclass": "Nemesis",
+    "primarytype": "Bio-Elementals",
+    "spawntype": [
+        "Triggered"
+    ],
+    "race_id": "1698",
+    "senseinvis": "yes",
+    "actualname": "Alptramun",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Alptramun",
+    "isboss": "yes",
+    "behaviour": "It retargets often, so the blocker should use [[Challenge]] very often.",
+    "location": "The Dream Scar.",
+    "iceDmgMod": "80%",
+    "strategy": "Have the blocker stay at the center of the room, then throw some [[Fire Bomb Rune]]s around this area to help cancel Alptramun's invisibility. All players should avoid staying in front of it since it uses a very strong death beam. Use area attacks during the fight and never allow the summons to stay alive for very long since they heal the boss. Mage's should '''not''' use [[Sudden Death Rune]]s since they will heal the boss for a huge amount of health.",
+    "energyDmgMod": "95%",
+    "deathDmgMod": "-100%"
+}

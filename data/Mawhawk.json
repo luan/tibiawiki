@@ -1,0 +1,110 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "When summoning [[Guzzlemaw]]s, Mawhawk says \"{{Sound|Watch my maws!}}\". When it says \"{{Sound|Better flee now!}}\", it will cast his [[Ultimate Explosion]] in 5 seconds. You can find the loot of this creature in a [[Reward Container]]. After killing Mawhawk, he respawns between 10 minutes to 2 hours later.",
+    "walksthrough": "?",
+    "hp": "45000",
+    "speed": "?",
+    "abilities": "{{Ability List\n |{{Melee}}\n |{{Summon|Guzzlemaw|4}}\n |{{Ability|explosion wave|element=?}}\n |{{Ability|[[Ultimate Explosion]] (announced when in very low health)|1500-1700|element=?}}\n |{{Healing}}\n}}",
+    "pushobjects": "no",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "80%",
+    "holyDmgMod": "105%",
+    "sounds": [
+        "Better flee now!",
+        "Watch my maws!"
+    ],
+    "maxdmg": "?",
+    "pushable": "no",
+    "implemented": "10.30",
+    "loot": [
+        {
+            "amount": "0-101",
+            "itemName": "Gold Coin"
+        },
+        {
+            "amount": "25",
+            "itemName": "Platinum Coin"
+        },
+        {
+            "amount": "5",
+            "itemName": "Blue Crystal Splinter"
+        },
+        {
+            "amount": "5",
+            "itemName": "Brown Crystal Splinter"
+        },
+        {
+            "itemName": "Fish Fin"
+        },
+        {
+            "itemName": "Frazzle Tongue"
+        },
+        {
+            "amount": "5",
+            "itemName": "Green Crystal Splinter"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Cluster of Solace"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Unrealized Dream"
+        },
+        {
+            "amount": "3",
+            "itemName": "Violet Crystal Shard"
+        },
+        {
+            "itemName": "Fire Sword"
+        },
+        {
+            "itemName": "Red Piece of Cloth"
+        },
+        {
+            "itemName": "Haunted Blade"
+        },
+        {
+            "itemName": "Nightmare Blade"
+        },
+        {
+            "itemName": "Assassin Dagger"
+        },
+        {
+            "itemName": "Blue Crystal Shard"
+        },
+        {
+            "itemName": "Iron Ore"
+        },
+        {
+            "itemName": "Green Crystal Shard"
+        },
+        {
+            "itemName": "Hardened Bone"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "14000",
+    "creatureclass": "Demons",
+    "earthDmgMod": "80%",
+    "physicalDmgMod": "100%?",
+    "bosstiaryclass": "Archfoe",
+    "primarytype": "Dreamhaunters",
+    "race_id": "1028",
+    "senseinvis": "yes",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Mawhawk",
+    "isboss": "yes",
+    "behaviour": "Unknown.",
+    "location": "[[Mawhawk's Lair]], east part of the [[Guzzlemaw Valley]], ramp to his lair appears as a world change.",
+    "iceDmgMod": "85%",
+    "strategy": "Unknown.",
+    "energyDmgMod": "100%?",
+    "deathDmgMod": "100%?"
+}

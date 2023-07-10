@@ -1,0 +1,87 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "jungle moas",
+    "hpDrainDmgMod": "100%?",
+    "notes": "<gallery captionalign=\"center\" mode=\"nolines\">\nJungle Moa Artwork.jpg|Official [[Creature Artwork]]\n</gallery>",
+    "hp": "1300",
+    "usespells": "Yes",
+    "occurrence": "Common",
+    "bestiarytext": "Jungle moas are large birds with striking, colourful plumage that live on the jungle-covered island of Marapur. Because of their strong legs, with which they can move quickly on land, one might think that moas are incapable of flight. In fact, however, they are good flyers and prefer to build their nests in the high mountainous areas of the island. Moas are herbivores and feed mainly on buds, leaves and the fruits of jungle plants. Unusual for birds of this size, many moas have a preference for shiny or glittering objects. If they spot these and can snatch them without major risk, the birds will often steal such items and hide them in their nests. Moa eggs are of an intense red colour, which is why the shells are popularly used by the nagas of Marapur for jewellery and decorations. Both, moa eggs and meat, are also a popular source of food for the mountain nagas.",
+    "speed": "105",
+    "abilities": "{{Ability List\n |{{Melee|0-216}}\n |{{Ability|Poison Bomb|80-100|element=earth\n  |scene={{Scene|spell=2sqmballself|effect=Poison Effect 3|caster=Jungle Moa|effect_on_caster=yes}}}}\n |{{Ability|Explosion Wave|130~|element=physical\n  |scene={{Scene|spell=6sqmtwave|effect=Explosion Effect|caster=Jungle Moa|look_direction=east}}}}\n |{{Ability|Energy Strike|108-119|element=energy\n  |scene={{Scene|spell=3sqmstrike|effect=Energy Effect|caster=Jungle Moa}}}}\n |{{Ability|Sparkles|unknown maybe buff|element=?\n  |scene={{Scene|spell=buffspell|effect=Red Sparkles Effect|caster=Jungle Moa|effect_on_caster=yes}}}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "fireDmgMod": "100%",
+    "holyDmgMod": "100%",
+    "sounds": [
+        "Kreeee. Kreeeee."
+    ],
+    "maxdmg": "0",
+    "implemented": "12.90.12182",
+    "bestiaryclass": "Bird",
+    "loot": [
+        {
+            "amount": "1-227",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Meat",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Jungle Moa Claw",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Cyan Crystal Fragment",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Jungle Moa Feather",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Strong Mana Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Jungle Moa Egg",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Doublet",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Spellbook of Enlightenment",
+            "rarity": "semi-rare"
+        }
+    ],
+    "exp": "1200",
+    "creatureclass": "Misc",
+    "earthDmgMod": "105%",
+    "mitigation": "1.04",
+    "physicalDmgMod": "90%",
+    "primarytype": "Birds",
+    "attacktype": "Melee",
+    "race_id": "2257",
+    "bestiarylevel": "Medium",
+    "senseinvis": "no",
+    "article": "a",
+    "actualname": "jungle moa",
+    "illusionable": "no",
+    "armor": "30",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "bestiaryname": "junglemoa",
+    "name": "Jungle Moa",
+    "isboss": "no",
+    "location": "All around [[Marapur]].",
+    "iceDmgMod": "90%",
+    "energyDmgMod": "90%",
+    "deathDmgMod": "110%"
+}

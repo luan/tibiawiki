@@ -1,0 +1,133 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "Shulgraxs",
+    "hpDrainDmgMod": "100%?",
+    "notes": "He's the minion of [[Tafariel]]. Inside the \"Dark Torturer Seal\".",
+    "walksthrough": "?",
+    "hp": "290000",
+    "speed": "?",
+    "abilities": "{{Ability List| {{Melee|0-1500}}|{{Ability|Fire Explosion|150-350|element=death}}|{{Ability|Fire Wave|700-900|element=fire}}|{{Ability|Fire Beam|element=fire}}|{{Healing|range=100-600?}} }}",
+    "pushobjects": "yes",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "110%",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        "YOUR SOULS WILL BE MINE!"
+    ],
+    "maxdmg": "2400?",
+    "pushable": "no",
+    "cooldown": "44",
+    "implemented": "10.90",
+    "loot": [
+        {
+            "itemName": "Silver Token",
+            "rarity": "always"
+        },
+        {
+            "amount": "0-200",
+            "itemName": "Gold Coin"
+        },
+        {
+            "amount": "0-25",
+            "itemName": "Platinum Coin"
+        },
+        {
+            "amount": "0-5",
+            "itemName": "Small Topaz"
+        },
+        {
+            "amount": "0-5",
+            "itemName": "Great Mana Potion"
+        },
+        {
+            "amount": "0-5",
+            "itemName": "Great Spirit Potion"
+        },
+        {
+            "amount": "0-1",
+            "itemName": "Demonic Essence"
+        },
+        {
+            "itemName": "Green Gem"
+        },
+        {
+            "itemName": "Underworld Rod"
+        },
+        {
+            "itemName": "Rift Crossbow"
+        },
+        {
+            "itemName": "Maimer"
+        },
+        {
+            "itemName": "Opal"
+        },
+        {
+            "itemName": "Small Emerald"
+        },
+        {
+            "itemName": "Onyx Chip"
+        },
+        {
+            "itemName": "Flask of Demonic Blood"
+        },
+        {
+            "itemName": "Ultimate Health Potion"
+        },
+        {
+            "itemName": "Small Ruby"
+        },
+        {
+            "itemName": "Lightning Pendant"
+        },
+        {
+            "itemName": "Death Ring"
+        },
+        {
+            "itemName": "Blue Gem"
+        },
+        {
+            "itemName": "Treader of Torment",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Pair of Iron Fists"
+        },
+        {
+            "itemName": "Giant Shimmering Pearl"
+        },
+        {
+            "itemName": "Rift Lance"
+        },
+        {
+            "itemName": "Small Amethyst"
+        },
+        {
+            "itemName": "Red Gem"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "50000",
+    "creatureclass": "Demons",
+    "earthDmgMod": "100%?",
+    "physicalDmgMod": "100%?",
+    "bosstiaryclass": "Archfoe",
+    "primarytype": "The Ruthless Seven Minions",
+    "race_id": "1191",
+    "senseinvis": "?",
+    "actualname": "Shulgrax",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Shulgrax",
+    "isboss": "yes",
+    "behaviour": "This boss reduces melee skills very frequently and this reduction is strong, so the blocker can't perform significant damage most of the time.",
+    "location": "[[Ferumbras' Ascension Quest]] area.",
+    "iceDmgMod": "90%",
+    "strategy": "Trap it in the corner.",
+    "energyDmgMod": "110%",
+    "deathDmgMod": "100%?"
+}

@@ -1,0 +1,145 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "It's an [[Order of the Falcon]] boss.\n{{JSpoiler|Part of [[The Secret Library Quest]].}}",
+    "walksthrough": "?",
+    "hp": "18000",
+    "speed": "?",
+    "abilities": "{{Ability List\n |{{Melee|0-500+}}\n |{{Ability|Holy Beam|0-850+|element=holy\n  |scene={{Scene|spell=7sqmbeam|caster=Grand Chaplain Gaunder|look_direction=east|effect=Holy Effect}}}}\n |{{Ability|Earth Groundshaker|0-800+|element=earth\n  |scene={{Scene|spell=4sqmball2self|caster=Grand Chaplain Gaunder|look_direction=south|effect=Dust Effect|effect_on_caster=yes|damage_effect=Poison Effect 1}}}}\n |{{Ability|Holy Sword|780-845|element=holy\n  |scene={{Scene|spell=2sqmstrike|caster=Grand Chaplain Gaunder|look_direction=south|effect=Holy Effect|missile=Throwing Sword Missile|missile_direction=south-east|missile_distance=2/2}}}}\n |{{Ability|Flame Dance|unknown|element=?\n  |scene={{Scene|spell=buffspell|effect=Flame Effect|caster=Grand Chaplain Gaunder|look_direction=south|effect_on_caster=yes}}}}\n |{{Ability|Sparkles|unknown|element=?\n  |scene={{Scene|spell=buffspell|effect=Red Sparkles Effect|caster=Grand Chaplain Gaunder|look_direction=south|effect_on_caster=yes}}}}\n |{{Ability|Paralyze|element=paralyze}}\n}}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "50%",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        "Witness the might of The Order of the Falcon!",
+        "Suffer, for you are disobedient!"
+    ],
+    "maxdmg": "?",
+    "pushable": "?",
+    "implemented": "11.80.7048",
+    "loot": [
+        {
+            "itemName": "Ham"
+        },
+        {
+            "itemName": "Great Mana Potion"
+        },
+        {
+            "itemName": "Small Enchanted Amethyst"
+        },
+        {
+            "itemName": "Soul Orb"
+        },
+        {
+            "itemName": "Great Health Potion"
+        },
+        {
+            "itemName": "Onyx Arrow"
+        },
+        {
+            "itemName": "Assassin Star"
+        },
+        {
+            "itemName": "Spiked Squelcher"
+        },
+        {
+            "itemName": "Damaged Armor Plates"
+        },
+        {
+            "itemName": "Giant Shimmering Pearl"
+        },
+        {
+            "itemName": "Small Diamond"
+        },
+        {
+            "itemName": "Small Emerald"
+        },
+        {
+            "itemName": "Falcon Longsword"
+        },
+        {
+            "itemName": "Falcon Plate"
+        },
+        {
+            "itemName": "Falcon Battleaxe"
+        },
+        {
+            "itemName": "Falcon Mace"
+        },
+        {
+            "itemName": "Falcon Shield"
+        },
+        {
+            "itemName": "Small Amethyst"
+        },
+        {
+            "itemName": "Violet Gem"
+        },
+        {
+            "itemName": "Knight Armor"
+        },
+        {
+            "itemName": "Small Ruby"
+        },
+        {
+            "itemName": "Closed Trap"
+        },
+        {
+            "itemName": "Heavy Mace"
+        },
+        {
+            "itemName": "Flask of Demonic Blood"
+        },
+        {
+            "itemName": "Titan Axe"
+        },
+        {
+            "itemName": "Small Topaz"
+        },
+        {
+            "itemName": "Patch of Fine Cloth"
+        },
+        {
+            "itemName": "Golden Armor"
+        },
+        {
+            "itemName": "War Axe"
+        },
+        {
+            "itemName": "Falcon Crest"
+        },
+        {
+            "itemName": "Green Gem"
+        },
+        {
+            "itemName": "Demonbone Amulet"
+        },
+        {
+            "itemName": "Mastermind Shield"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "14000",
+    "creatureclass": "Humans",
+    "earthDmgMod": "50%",
+    "physicalDmgMod": "20%?",
+    "bosstiaryclass": "Bane",
+    "primarytype": "Members of the Order of the Falcon",
+    "race_id": "1579",
+    "senseinvis": "yes",
+    "actualname": "Grand Chaplain Gaunder",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Grand Chaplain Gaunder",
+    "isboss": "yes",
+    "behaviour": "Unknown",
+    "location": "[[Falcon Bastion]].",
+    "iceDmgMod": "50%?",
+    "strategy": "You can attack it from a distance if you stand behind the table in the room where he can't get you (this might be fixed in an upcoming patch). It's better to use elemental and holy attacks since his physical resistance and armor are quite high.",
+    "energyDmgMod": "50%",
+    "deathDmgMod": "50%?"
+}

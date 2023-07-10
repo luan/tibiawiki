@@ -1,0 +1,85 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "{{JSpoiler|Part of [[The Secret Library Quest]].}}",
+    "walksthrough": "?",
+    "hp": "19000",
+    "speed": "?",
+    "abilities": "{{Ability List|}}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "secondarytype": "Asuri",
+    "fireDmgMod": "100%?",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "?",
+    "pushable": "?",
+    "cooldown": "20",
+    "implemented": "11.80.7048",
+    "loot": [
+        {
+            "itemName": "Small Amethyst"
+        },
+        {
+            "itemName": "Platinum Coin"
+        },
+        {
+            "itemName": "Red Gem"
+        },
+        {
+            "itemName": "Moonlight Rod"
+        },
+        {
+            "itemName": "Gold Coin"
+        },
+        {
+            "itemName": "Peacock Feather Fan"
+        },
+        {
+            "itemName": "Flask of Demonic Blood"
+        },
+        {
+            "itemName": "Assassin Star"
+        },
+        {
+            "itemName": "Demonic Essence"
+        },
+        {
+            "itemName": "Great Spirit Potion"
+        },
+        {
+            "itemName": "Golden Lotus Brooch"
+        },
+        {
+            "itemName": "Necrotic Rod"
+        },
+        {
+            "itemName": "Soul Orb"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "10000",
+    "creatureclass": "Demons",
+    "earthDmgMod": "100%?",
+    "physicalDmgMod": "100%?",
+    "bosstiaryclass": "Archfoe",
+    "primarytype": "Demons",
+    "race_id": "1602",
+    "senseinvis": "?",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "The Lily of Night",
+    "isboss": "yes",
+    "behaviour": "Unknown",
+    "location": "[[Asura Palace]].",
+    "iceDmgMod": "100%?",
+    "strategy": "Unknown",
+    "energyDmgMod": "100%?",
+    "deathDmgMod": "0%"
+}

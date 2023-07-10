@@ -1,0 +1,79 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "meadow striders",
+    "hpDrainDmgMod": "100%?",
+    "notes": "They are a weaker [[Marsh Stalker]]. They are one of the weaker creatures of [[Dawnport]], but still strong for a new character.",
+    "walksthrough": "?",
+    "hp": "100",
+    "speed": "68",
+    "abilities": "{{Ability List\n |{{Melee|0-16?}}\n |{{Ability|[[Small Stone]] throw|8-19?|element=physical\n  |scene={{Scene|spell=5sqmstrike|background=canvas|caster=Meadow Strider|look_direction=south|missile=Small Stone Missile|missile_direction=south-east|missile_distance=5/5}}}}\n}}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "100%?",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "{{Max Damage|physical=35?}}",
+    "pushable": "no",
+    "usedelements": "Physical",
+    "implemented": "10.55",
+    "loot": [
+        {
+            "amount": "0-10",
+            "itemName": "Gold Coin"
+        },
+        {
+            "itemName": "Meat"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "Fish"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "Worm"
+        },
+        {
+            "itemName": "Mace"
+        },
+        {
+            "itemName": "Longsword"
+        },
+        {
+            "itemName": "Hatchet"
+        },
+        {
+            "itemName": "Rope",
+            "rarity": "semi-rare"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "50",
+    "creatureclass": "Misc",
+    "earthDmgMod": "100%?",
+    "physicalDmgMod": "100%?",
+    "primarytype": "Birds",
+    "spawntype": [
+        "Regular",
+        "Unblockable"
+    ],
+    "race_id": "1069",
+    "senseinvis": "?",
+    "article": "a",
+    "actualname": "meadow strider",
+    "illusionable": "no",
+    "armor": "1",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Meadow Strider",
+    "isboss": "no",
+    "behaviour": "Unknown",
+    "location": "[[Dawnport]].",
+    "iceDmgMod": "100%?",
+    "strategy": "Watch out because they can hit a lot to the bare-equipped player. Run them on attack to avoid being hit by more monsters. Consider killing the weaker [[Mountain Troll]]s and [[Troll-Trained Salamander]]s first because they add to the damage taken for this comparatively long fight.",
+    "energyDmgMod": "100%?",
+    "deathDmgMod": "100%?"
+}

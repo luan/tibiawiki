@@ -1,0 +1,110 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "Is the [[Necromancer]]'s Boss, looks the same as [[Necromancer]]. <br />\n{{JSpoiler|To gain access to the [[Halls of Sacrifice]] you must complete the 4000 [[Necromancer]]s task of [[Killing in the Name of... Quest]]}}",
+    "walksthrough": "?",
+    "hp": "750",
+    "speed": "180",
+    "abilities": "{{Ability List\n |{{Melee|0-102|poison=5}}\n |{{Ability|[[Distance Fighting]]|0-217|element=?}}\n |{{Ability|Life Drain|element=lifedrain}}\n |{{Ability|Energy Missile|element=energy}}\n |{{Ability|Fire Missile|element=fire}}\n |{{Healing|range=60-90|scene={{Scene|spell=buffspell|effect=Blue Sparkles Effect|caster=Necropharus|effect_on_caster=yes}}}}\n |{{Summon|ghoul|2}}\n |{{Summon|ghost|1}}\n |{{Summon|mummy|1}}\n}}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "100%?",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        "You will rise as my servant!",
+        "Praise to my master Urgith!"
+    ],
+    "maxdmg": "300",
+    "pushable": "?",
+    "implemented": "7.5",
+    "loot": [
+        {
+            "amount": "0-99",
+            "itemName": "Gold Coin"
+        },
+        {
+            "itemName": "Book of Necromantic Rituals"
+        },
+        {
+            "itemName": "Necromantic Robe"
+        },
+        {
+            "itemName": "Bone Club"
+        },
+        {
+            "itemName": "Bone Shield"
+        },
+        {
+            "itemName": "Short Sword"
+        },
+        {
+            "itemName": "Scale Armor"
+        },
+        {
+            "itemName": "Skull (Item)"
+        },
+        {
+            "itemName": "Big Bone"
+        },
+        {
+            "itemName": "Green Mushroom"
+        },
+        {
+            "itemName": "Clerical Mace"
+        },
+        {
+            "itemName": "Mystic Turban"
+        },
+        {
+            "itemName": "Snakebite Rod"
+        },
+        {
+            "itemName": "Moonlight Rod"
+        },
+        {
+            "itemName": "Bowl"
+        },
+        {
+            "itemName": "Grave Flower"
+        },
+        {
+            "itemName": "Skull Staff",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Boots of Haste",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Strong Mana Potion",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Soul Stone",
+            "rarity": "always"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "1050",
+    "creatureclass": "Humans",
+    "earthDmgMod": "100%?",
+    "physicalDmgMod": "100%?",
+    "primarytype": "Necromancers",
+    "attacktype": "Distance",
+    "race_id": "209",
+    "senseinvis": "?",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Necropharus",
+    "isboss": "yes",
+    "behaviour": "Necropharus fights until death.",
+    "location": "[[Halls of Sacrifice]] ([[Killing in the Name of... Quest|task boss]], teleporter located {{Mapper Coords|129.22|126.183|11|2|text=here}}), [[Lich Hell]] (room with [[Vampire]]s), [[Medusa Shield Quest]] room, [[Edron Grim Reaper]]s.",
+    "iceDmgMod": "100%?",
+    "strategy": "'''[[Mage]]s:''' recommend 50+ they can easly kill it with just [[Flame Strike]] .<br />\n'''[[Knight]]s:''' Can kill it at level 60+ aswell since it doesn't spawn with other creatures since the [[Killing in the Name of... Quest]] so just hit them with your weapon and do [[Whirlwind Throw]] or [[Berserk]]. <br />\n'''[[Paladin]]s:''' Easy for lvl 55+ paladins to kill with some [[Royal Spear]]s or with some [[Enchanted Spear]]s\n<br>\n[[File:Necropharus.png|thumb]]\n<br>",
+    "energyDmgMod": "100%?",
+    "deathDmgMod": "100%?"
+}

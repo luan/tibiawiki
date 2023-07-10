@@ -1,0 +1,77 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "{{JSpoiler|Part of the [[Ferumbras' Ascendant Quest]].}}",
+    "walksthrough": "?",
+    "hp": "?",
+    "speed": "?",
+    "abilities": "{{Ability List|}}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "100%?",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        "STOMP! SHAKE! SHATTER!!",
+        "FIRE! BURN! BREAK!",
+        "YOU WILL TREMBLE! YOU WILL BREAK! YOU WILL SHATTER INTO PIECES!"
+    ],
+    "maxdmg": "?",
+    "pushable": "?",
+    "implemented": "10.90",
+    "loot": [
+        {
+            "itemName": "Gold Coin"
+        },
+        {
+            "itemName": "Platinum Coin"
+        },
+        {
+            "itemName": "Small Ruby"
+        },
+        {
+            "itemName": "Ultimate Health Potion"
+        },
+        {
+            "itemName": "Great Spirit Potion"
+        },
+        {
+            "itemName": "Great Mana Potion"
+        },
+        {
+            "itemName": "Small Diamond"
+        },
+        {
+            "itemName": "Hammer of Wrath"
+        },
+        {
+            "itemName": "Abyss Hammer"
+        },
+        {
+            "itemName": "Shiny Stone"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "?",
+    "creatureclass": "Demons",
+    "earthDmgMod": "100%?",
+    "physicalDmgMod": "100%?",
+    "bosstiaryclass": "Bane",
+    "primarytype": "The Ruthless Seven Minions",
+    "race_id": "1165",
+    "senseinvis": "?",
+    "actualname": "The Shatterer",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "The Shatterer",
+    "isboss": "yes",
+    "behaviour": "Unknown.",
+    "location": "[[Grounds of Destruction]].",
+    "iceDmgMod": "100%?",
+    "strategy": "Unknown.",
+    "energyDmgMod": "100%?",
+    "deathDmgMod": "100%?"
+}

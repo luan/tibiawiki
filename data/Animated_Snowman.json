@@ -1,0 +1,97 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "animated snowmans",
+    "hpDrainDmgMod": "100%",
+    "walksthrough": "Energy, Poison",
+    "hp": "450",
+    "usespells": "yes",
+    "occurrence": "Rare",
+    "speed": "115",
+    "abilities": "{{Ability List\n |{{Melee|?}}\n |{{Ability|Throws [[Snowball]]|0-30?|element=ice\n  |scene={{Scene|spell=3sqmstrike|effect=Ice Explosion Effect|caster=Animated Snowman|missile=Snowball Missile|missile_direction=south-east|missile_distance=3/3}}}}\n |{{Ability|Ice Bomb|0-120?|element=ice\n  |scene={{Scene|spell=2sqmballself|effect=Ice Tornado Effect|caster=Animated Snowman|effect_on_caster=yes}}}} }}",
+    "pushobjects": "yes",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "fireDmgMod": "120%",
+    "holyDmgMod": "100%",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "38+",
+    "pushable": "no",
+    "implemented": "12.02.7746",
+    "bestiaryclass": "Construct",
+    "loot": [
+        {
+            "amount": "0-50",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Twig Arms",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-5",
+            "itemName": "Shiver Arrow",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-5",
+            "itemName": "Snowball",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Ice Rapier",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Glacier Mask",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Hailstorm Rod",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Glacier Amulet",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Moonlight Rod",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Glacier Kilt",
+            "rarity": "rare"
+        }
+    ],
+    "walksaround": "Fire",
+    "exp": "400",
+    "creatureclass": "Special",
+    "earthDmgMod": "100%",
+    "mitigation": "0.78",
+    "physicalDmgMod": "100%",
+    "primarytype": "Event Creatures",
+    "spawntype": [
+        "Triggered"
+    ],
+    "attacktype": "Distance",
+    "race_id": "1751",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "article": "an",
+    "actualname": "animated snowman",
+    "illusionable": "no",
+    "armor": "25",
+    "drownDmgMod": "100%",
+    "convince": "?",
+    "name": "Animated Snowman",
+    "isboss": "?",
+    "location": "[[Percht Island]].",
+    "iceDmgMod": "80%",
+    "strategy": "To complete the bestiary entry as quickly as possible, gather snowballs, carrots, and a team of people. Then, have each person repeatedly summon snowmen whenever they can, attacking the snowmen with poison field runes to minimize the damage to just 5 hp per hit. This way, up to 90 people can in theory group up, and complete the bestiary entry in less than 56 minutes.",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "100%",
+    "status": "event"
+}

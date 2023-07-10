@@ -1,0 +1,74 @@
+{
+    "summon": "500",
+    "templateType": "Creature",
+    "notes": "[[Knight]]s, should fight them with an one-handed weapon and shield. These creatures will kill monsters and move objects in their way to get to you. They can also [[Retarget]].",
+    "walksthrough": "None",
+    "hp": "320",
+    "abilities": "{{Ability List|{{Melee|0-100}}}}",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "holyDmgMod": "100%",
+    "maxdmg": "{{Max Damage|physical=100}}",
+    "pushable": "?",
+    "implemented": "7.5",
+    "loot": [
+        {
+            "amount": "0-4",
+            "itemName": "Meat"
+        },
+        {
+            "amount": "0-3",
+            "itemName": "Ham"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "Tusk",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Tusk Shield",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Fire, Energy, Poison",
+    "exp": "160",
+    "mitigation": "0.41",
+    "attacktype": "Melee",
+    "article": "an",
+    "actualname": "elephant",
+    "illusionable": "yes",
+    "armor": "20",
+    "convince": "500",
+    "name": "Elephant",
+    "isboss": "no",
+    "iceDmgMod": "80%",
+    "energyDmgMod": "110%",
+    "deathDmgMod": "100%",
+    "plural": "elephants",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "no",
+    "occurrence": "Common",
+    "bestiarytext": "For a long time, tales about such creatures have been discarded as unbelievable stories of people who went mad or had feverish dreams. The Elephant has two enormous, if not absurdly long, teeth that could hint at a vampiric nature. The tentacle that it owns instead of a nose probably functions like a leech. However, the life-draining abilities of the Elephant must still be confirmed yet. Even without those rumoured powers, these beasts are aggressive against any intruders and their sheer size and strength is enough to crush any humanoid with ease. There are reports that the creature is becoming even more dangerous if it is enraged. The large teeth are valuable to craftsmen and alchemists but they are hard to obtain since those creatures' strength makes it very difficult to kill them. Also those teeth break easily in combat and become that way useless.",
+    "speed": "95",
+    "pushobjects": "?",
+    "fireDmgMod": "100%",
+    "sounds": [
+        "Hooooot-Toooooot!",
+        "Tooooot!",
+        "Trooooot!"
+    ],
+    "runsat": "0",
+    "bestiaryclass": "Mammal",
+    "creatureclass": "Mammals",
+    "earthDmgMod": "100%",
+    "physicalDmgMod": "75%",
+    "primarytype": "Ungulates",
+    "race_id": "211",
+    "bestiarylevel": "Easy",
+    "senseinvis": "no",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "elephant",
+    "behaviour": "Elephants are fast for their size. They will push or kill weaker [[creature]]s in their path to reach you.",
+    "location": "East of [[Port Hope]] close to [[Grizzly Adams]] and also in this area ({{Mapper Coords|128.208|127.192|7|3|text=here}}), deep in the jungle, [[Arena and Zoo Quarter]], [[Mammoth Shearing Factory]].",
+    "strategy": "Elephants are similar to [[Dwarf Guard]]s, but have less defence and a weaker attack. A knight/paladin can kill it with 60/60, while mages can simple use [[Energy Strike]]. They usually come in groups, so be prepared to use some runes."
+}

@@ -1,0 +1,67 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "Jailer",
+    "hpDrainDmgMod": "100%?",
+    "notes": "During the [[Test Server]] when this creature was released, its creator [[Lionet]] [http://forum.test.tibia.com/forum/?action=thread&postid=17641#post17641 explained] what's behind its story:\n\n:''He basically not only oversaw but \"tortured\" a lot of poor souls in his time in Edron, too and (probably, not much is known) also later in the bastion. As was his duty, as was custom at the time and thought appropriate. However, he is clearly one of the actually evil characters in the whole Order. Not a very high rank, not very high standards, he was not really a valued member of the Order but more of a necessity at that time. As you know, most other members of the Order have been fallen to a kind of curse (the Zao corruption they brought from that then unknown continent). He has as met a different fate (as you can also judge by his looks). He basically is now a weak (as is fitting to his former role and in comparison to the strong knights) hollow husk of a man that is doomed to die \"easily\" at the hands of all the heroes conquering the bastion (the players). By now he probably has already died as many deaths as he has taken lives when he was still among the living and this will never stop, it is his personal curse. He has nothing special and is not even a formidable adversary''\n\nIt looks like a [[Skeleton Warrior]].",
+    "walksthrough": "?",
+    "hp": "65",
+    "speed": "?",
+    "abilities": "{{Ability List|}}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "100%?",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "?",
+    "pushable": "?",
+    "implemented": "11.80.7048",
+    "loot": [
+        {
+            "itemName": "Bone"
+        },
+        {
+            "itemName": "White Mushroom"
+        },
+        {
+            "itemName": "Pelvis Bone"
+        },
+        {
+            "itemName": "Mace"
+        },
+        {
+            "itemName": "Gold Coin"
+        },
+        {
+            "itemName": "Sword"
+        },
+        {
+            "itemName": "Brown Mushroom"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "45",
+    "creatureclass": "The Undead",
+    "earthDmgMod": "100%?",
+    "physicalDmgMod": "100%?",
+    "bosstiaryclass": "Bane",
+    "primarytype": "Skeletons",
+    "race_id": "1577",
+    "senseinvis": "?",
+    "actualname": "Jailer",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Jailer",
+    "isboss": "yes",
+    "behaviour": "Unknown",
+    "location": "[[Falcon Bastion]].",
+    "iceDmgMod": "100%?",
+    "strategy": "Unknown",
+    "energyDmgMod": "100%?",
+    "deathDmgMod": "100%?"
+}

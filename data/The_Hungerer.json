@@ -1,0 +1,108 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "Rare [[Spitter]] boss found on the bottom of the [[Hive Outpost]] in [[Liberty Bay]], in a ~20-minute [[Varying Monster Spawn]] in which the common creatures are a [[Hive Overseer]] and a [[Spidris Elite]], and the possible rare bosses are [[The Hungerer]], [[The Manhunter]], and [[The Mean Masher]]. This respawn point can be blocked if you stay too close. The safest way is to leave the Hive Outpost while waiting for the spawn.",
+    "isarenaboss": "no",
+    "walksthrough": "Poison",
+    "hp": "2000",
+    "speed": "?",
+    "abilities": "{{Ability List|}}",
+    "pushobjects": "yes",
+    "healMod": "100%",
+    "paraimmune": "?",
+    "secondarytype": "Hive Born",
+    "fireDmgMod": "80%",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "?",
+    "pushable": "no",
+    "implemented": "10.80",
+    "loot": [
+        {
+            "amount": "1-190",
+            "itemName": "Gold Coin"
+        },
+        {
+            "itemName": "Platinum Coin"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "Brown Mushroom"
+        },
+        {
+            "itemName": "Compound Eye"
+        },
+        {
+            "itemName": "Great Health Potion"
+        },
+        {
+            "itemName": "Great Mana Potion"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Small Amethyst"
+        },
+        {
+            "itemName": "Spitter Nose"
+        },
+        {
+            "itemName": "Time Ring",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Crystal Sword",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Calopteryx Cape",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Crusader Helmet",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Grasshopper Legs",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Green Gem",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Mastermind Potion",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Platinum Amulet",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Fire, Energy",
+    "exp": "1700",
+    "creatureclass": "Invertebrates",
+    "earthDmgMod": "0%?",
+    "physicalDmgMod": "100%?",
+    "bosstiaryclass": "Nemesis",
+    "primarytype": "Myriapods",
+    "spawntype": [
+        "Unique",
+        "Triggered"
+    ],
+    "race_id": "1125",
+    "senseinvis": "yes",
+    "actualname": "The Hungerer",
+    "illusionable": "yes",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "The Hungerer",
+    "isboss": "yes",
+    "location": "[[The Hive]], [[Hive Outpost]].",
+    "iceDmgMod": "105%?",
+    "energyDmgMod": "111%?",
+    "deathDmgMod": "85%?"
+}

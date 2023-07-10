@@ -1,0 +1,130 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "walksthrough": "Fire, Energy, Poison",
+    "hp": "620",
+    "abilities": "{{Ability List\n |{{Melee|0-69+}}\n |{{Ability|Fire Beam|0-90+|element=fire\n  |scene={{Scene|spell=4sqmbeam|effect=Flame Effect|caster=Percht|look_direction=east}}}}\n |{{Ability|Explosive ball around itself|0-130+|element=fire\n  |scene={{Scene|spell=2sqmballself|effect=Blast Effect|caster=Percht|effect_on_caster=yes}}}}\n |{{Ability|Fireball on target|0-193+|element=fire\n  |scene={{Scene|spell=1sqmballtarget|effect=Fireball Effect|caster=Percht|missile=Fire Missile|missile_direction=south-east|missile_distance=2/2|edge_size=32}}}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "?",
+    "holyDmgMod": "90%",
+    "maxdmg": "193+",
+    "pushable": "no",
+    "usedelements": "Fire > Ice > Physical",
+    "implemented": "12.02.7746",
+    "loot": [
+        {
+            "amount": "0-60",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Fireworks Capsule",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Percht Horns",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Grainy Fireworks Powder",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Versicolour Fireworks Powder",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Broken Bell",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Dark Bell",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Blue Fireworks Powder",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Green Fireworks Powder",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Orange Fireworks Powder",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Yellow Fireworks Powder",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Purple Fireworks Powder",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Turquoise Fireworks Powder",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Red Fireworks Powder",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Magma Monocle",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Magma Amulet",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Magma Coat",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Magma Legs",
+            "rarity": "rare"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "600",
+    "mitigation": "0.83",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "percht",
+    "illusionable": "no",
+    "armor": "40",
+    "convince": "?",
+    "name": "Percht",
+    "isboss": "?",
+    "iceDmgMod": "120%",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "100%",
+    "status": "event",
+    "plural": "perchts",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Rare",
+    "speed": "135",
+    "pushobjects": "?",
+    "fireDmgMod": "90%",
+    "sounds": [
+        "Krikik krikik!",
+        "Shzzzp shzzzp shzzp!"
+    ],
+    "runsat": "deep red",
+    "bestiaryclass": "Fey",
+    "creatureclass": "The Undead",
+    "earthDmgMod": "100%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Undead Humanoids",
+    "spawntype": [
+        "Event"
+    ],
+    "race_id": "1740",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "location": "[[Percht Island]]",
+    "strategy": "You can try to stay diagonal of them to prevent their beam attacks, but their GFB attack is the strongest and can't be avoided this way."
+}

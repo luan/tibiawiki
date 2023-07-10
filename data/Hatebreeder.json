@@ -1,0 +1,115 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "0%",
+    "notes": "Boss of [[Ghastly Dragon]]s.",
+    "walksthrough": "Fire, Poison",
+    "hp": "18000",
+    "lightcolor": "119",
+    "abilities": "{{Ability List| {{Melee|0-850}}|{{Ability|Poisons|up to 110hp/turn|element=poisoned}}|{{Ability|[[Life Drain]]|200-315|element=lifedrain}}|{{Ability|Death Water Wave|220-450|element=death}}|{{Ability|Cursing Death Hit|same as normal ghastly dragon|element=cursed}}|{{Ability|Death Ball on itself|350-505|element=death}}|{{Ability|[[Paralysis|Paralyze]]|element=paralyze}}|{{Ability|Frequent [[Self-Healing]]|2450-2535|element=healing}} }}",
+    "pushobjects": "yes",
+    "healMod": "100%?",
+    "paraimmune": "yes",
+    "secondarytype": "The Undead",
+    "fireDmgMod": "70%",
+    "holyDmgMod": "100%",
+    "sounds": [
+        "YOU ARE NOT WELCOME HERE!"
+    ],
+    "maxdmg": "1800+",
+    "pushable": "no",
+    "lightradius": "4",
+    "runsat": "red",
+    "implemented": "8.60",
+    "loot": [
+        {
+            "amount": "1-262",
+            "itemName": "Gold Coin"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Platinum Coin"
+        },
+        {
+            "amount": "1-5",
+            "itemName": "Great Spirit Potion"
+        },
+        {
+            "amount": "1-5",
+            "itemName": "Ultimate Health Potion"
+        },
+        {
+            "amount": "1-5",
+            "itemName": "Great Health Potion"
+        },
+        {
+            "itemName": "Demonic Essence"
+        },
+        {
+            "itemName": "Undead Heart"
+        },
+        {
+            "itemName": "Ghastly Dragon Head"
+        },
+        {
+            "itemName": "Zaoan Shoes"
+        },
+        {
+            "itemName": "Zaoan Legs"
+        },
+        {
+            "itemName": "Jade Hat"
+        },
+        {
+            "itemName": "Spellweaver's Robe"
+        },
+        {
+            "itemName": "Guardian Boots"
+        },
+        {
+            "itemName": "Zaoan Helmet"
+        },
+        {
+            "itemName": "Zaoan Armor"
+        },
+        {
+            "itemName": "Zaoan Halberd"
+        },
+        {
+            "itemName": "Twin Hooks"
+        },
+        {
+            "itemName": "Drakinata"
+        },
+        {
+            "itemName": "Zaoan Sword"
+        },
+        {
+            "itemName": "Cobra Crown"
+        },
+        {
+            "itemName": "Snake God's Sceptre"
+        }
+    ],
+    "walksaround": "Energy",
+    "exp": "10000",
+    "creatureclass": "Reptiles",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "90%",
+    "bosstiaryclass": "Nemesis",
+    "primarytype": "Dragons",
+    "race_id": "678",
+    "senseinvis": "yes",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Hatebreeder",
+    "isboss": "yes",
+    "behaviour": "Similar to a [[Ghastly Dragon]].",
+    "location": "[[Razachai/Inner Sanctum|Razachai Inner Sanctum]].",
+    "iceDmgMod": "0%",
+    "strategy": "The death attacks should be less effective if you wear a [[Death Ring]] or [[Koshei's Ancient Amulet]]. Depending on your vocation, you can use one of the following: [[Skullcracker Armor]], [[Robe of the Underworld]], [[Divine Plate]]. It's better to use energy-based attacks like [[Energy Wave]]. It heals very fast so it's a tough monster to solo. Also it spawns with more ghastly dragons.",
+    "energyDmgMod": "90%",
+    "deathDmgMod": "0%"
+}

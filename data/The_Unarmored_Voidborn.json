@@ -1,0 +1,163 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "The Unarmored Voidborn",
+    "hpDrainDmgMod": "100%?",
+    "notes": "This boss is probably Tibia's creature with higher elemental weakness, but since it has a lot of hitpoints it still takes a while to kill it. When fighting it you'll easily see hits of 2000, 3000 and even up to 8000 when dealing [[Critical Hits]].\n{{JSpoiler|Part of the [[Cults of Tibia Quest]].}}",
+    "walksthrough": "?",
+    "hp": "250000",
+    "speed": "?",
+    "abilities": "{{Ability List|{{Melee|0-500+}}|{{Ability|Death Wave|?|death}}|{{Ability|Energy Chain Attack|300-450?|energy}}}}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "355%",
+    "holyDmgMod": "400%?",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "{{Max Damage|physical=500+|death=?|energy=450?}}",
+    "pushable": "?",
+    "cooldown": "20",
+    "implemented": "11.40.5409",
+    "loot": [
+        {
+            "amount": "200",
+            "itemName": "Gold Coin"
+        },
+        {
+            "amount": "15-30",
+            "itemName": "Platinum Coin"
+        },
+        {
+            "amount": "5",
+            "itemName": "Energy Bar"
+        },
+        {
+            "amount": "5",
+            "itemName": "Great Mana Potion"
+        },
+        {
+            "amount": "5",
+            "itemName": "Great Spirit Potion"
+        },
+        {
+            "amount": "5",
+            "itemName": "Ultimate Health Potion"
+        },
+        {
+            "amount": "10",
+            "itemName": "Small Sapphire"
+        },
+        {
+            "amount": "10",
+            "itemName": "Small Amethyst"
+        },
+        {
+            "itemName": "Green Gem"
+        },
+        {
+            "itemName": "Yellow Gem"
+        },
+        {
+            "itemName": "Red Gem"
+        },
+        {
+            "itemName": "Gold Ingot"
+        },
+        {
+            "itemName": "Ring of Blue Plasma"
+        },
+        {
+            "itemName": "Collar of Green Plasma"
+        },
+        {
+            "itemName": "Skull Fetish"
+        },
+        {
+            "itemName": "Orc Tusk"
+        },
+        {
+            "itemName": "Mysterious Remains"
+        },
+        {
+            "itemName": "Terra Hood"
+        },
+        {
+            "itemName": "Piece of Royal Steel"
+        },
+        {
+            "itemName": "Silver Token"
+        },
+        {
+            "itemName": "Gold Token"
+        },
+        {
+            "itemName": "Magic Sulphur"
+        },
+        {
+            "itemName": "Collar of Red Plasma"
+        },
+        {
+            "itemName": "Small Emerald"
+        },
+        {
+            "itemName": "Giant Shimmering Pearl"
+        },
+        {
+            "itemName": "Terra Legs"
+        },
+        {
+            "itemName": "Metal Bat"
+        },
+        {
+            "itemName": "Bonebreaker"
+        },
+        {
+            "itemName": "Vile Axe"
+        },
+        {
+            "itemName": "Collar of Blue Plasma"
+        },
+        {
+            "itemName": "Blue Gem"
+        },
+        {
+            "itemName": "Small Topaz"
+        },
+        {
+            "itemName": "Heart of the Mountain (Item)"
+        },
+        {
+            "itemName": "Small Diamond"
+        },
+        {
+            "itemName": "Ring of Red Plasma"
+        },
+        {
+            "itemName": "Ring of Green Plasma"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "15000",
+    "creatureclass": "Elementals",
+    "earthDmgMod": "355%",
+    "physicalDmgMod": "400%?",
+    "bosstiaryclass": "Archfoe",
+    "primarytype": "Bio-Elementals",
+    "race_id": "1406",
+    "senseinvis": "?",
+    "actualname": "The Unarmored Voidborn",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "The Unarmored Voidborn",
+    "isboss": "yes",
+    "behaviour": "Fights in close combat.",
+    "location": "The Orc Cult hideout in the [[Edron Orc Cave]].",
+    "iceDmgMod": "400%?",
+    "strategy": "It spawns once [[The Armored Voidborn]] is killed. It's weak to all damage types so use your best attacks on him.",
+    "energyDmgMod": "355%",
+    "deathDmgMod": "400%?"
+}

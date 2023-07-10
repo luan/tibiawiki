@@ -1,0 +1,120 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "Looks the same as [[Glooth Anemone]]. Implemented in the [[Summer Update 2014]].",
+    "walksthrough": "Poison",
+    "hp": "55000",
+    "usespells": "yes",
+    "speed": "?",
+    "abilities": "{{Ability List| {{Melee|0-1200+}}|{{Ability|Earth Ball|element=earth}}|{{Ability|Terra Ball|element=earth}}|{{Ability|[[Self-Healing]]|17000-23000; few seconds after reaching deep red hp|element=healing}}|{{Summon|Glooth Anemone|4}} }}",
+    "pushobjects": "yes",
+    "healMod": "100%?",
+    "paraimmune": "yes",
+    "fireDmgMod": "105%",
+    "holyDmgMod": "100%?",
+    "sounds": [],
+    "maxdmg": "?",
+    "pushable": "no",
+    "cooldown": "0.28",
+    "implemented": "10.50",
+    "loot": [
+        {
+            "itemName": "Gold Coin"
+        },
+        {
+            "amount": "1-5",
+            "itemName": "Small Ruby"
+        },
+        {
+            "amount": "1-5",
+            "itemName": "Small Amethyst"
+        },
+        {
+            "amount": "1-5",
+            "itemName": "Small Topaz"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "Slimy Leaf Tentacle"
+        },
+        {
+            "amount": "1-5",
+            "itemName": "Glooth Sandwich"
+        },
+        {
+            "amount": "1-5",
+            "itemName": "Glooth Steak"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "Bowl of Glooth Soup"
+        },
+        {
+            "amount": "1-5",
+            "itemName": "Great Mana Potion"
+        },
+        {
+            "amount": "1-5",
+            "itemName": "Great Health Potion"
+        },
+        {
+            "amount": "1-5",
+            "itemName": "Great Spirit Potion"
+        },
+        {
+            "itemName": "Glooth Club"
+        },
+        {
+            "itemName": "Glooth Axe"
+        },
+        {
+            "itemName": "Glooth Blade"
+        },
+        {
+            "itemName": "Lisa's Doll"
+        },
+        {
+            "itemName": "Glooth Whip"
+        },
+        {
+            "itemName": "Small Emerald"
+        },
+        {
+            "itemName": "Small Sapphire"
+        },
+        {
+            "itemName": "Small Diamond"
+        },
+        {
+            "itemName": "Glooth Cape"
+        },
+        {
+            "itemName": "Red Gem"
+        }
+    ],
+    "walksaround": "Fire, Energy",
+    "exp": "18000",
+    "creatureclass": "Elementals",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "100%?",
+    "bosstiaryclass": "Bane",
+    "primarytype": "Bio-Elementals",
+    "spawntype": [
+        "Triggered"
+    ],
+    "attacktype": "melee",
+    "race_id": "1059",
+    "senseinvis": "yes",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Lisa",
+    "isboss": "yes",
+    "location": "[[Oramond]], after teleporting by [[Flora]] to waiting room, you will be moved to boss room 1 minute after pushing the lever.",
+    "iceDmgMod": "80%",
+    "strategy": "When in deep red hp, she will announce that she will heal herself immediately. After around 6-8 seconds she will heal 17k-23k hp getting back to yellow. Team needs to focus on their strongest attacks to bring her down before she heals, or they will have to repeat the process again.\n\nThere is a time limit of 15 minutes to kill her.",
+    "energyDmgMod": "90%",
+    "deathDmgMod": "50%"
+}

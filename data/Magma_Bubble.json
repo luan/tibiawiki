@@ -1,0 +1,126 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "{{JSpoiler|It's the final boss of the [[Primal Ordeal Quest]].}}",
+    "walksthrough": "None",
+    "hp": "?",
+    "speed": "40",
+    "abilities": "{{Ability List\n |{{Melee}}\n |{{Ability|Death Ball|?|?\n  |scene={{Scene|spell=3sqmball2self|caster=Magma Bubble|look_direction=south|effect=Death Effect|effect_on_caster=yes}}}}\n |{{Ability|Dust Ball|?|?\n  |scene={{Scene|spell=3sqmball2self|caster=Magma Bubble|look_direction=south|effect=Dust Effect|effect_on_caster=yes}}}}\n |{{Ability|Sparkles Bomb|?|?\n  |scene={{Scene|spell=6sqmballself|caster=Magma Bubble|look_direction=south|effect=Red Sparkles Effect|effect_on_caster=yes|damage_effect=Fire Effect}}}}\n {{Ability|Fire Ball|407-556|fire\n  |scene={{Scene|spell=1sqmballtarget|caster=Magma Bubble|look_direction=south|effect=Fire Effect|missile=Fire Missile|missile_direction=south-east|missile_distance=2/2}}}}\n |{{Ability|Giant Red Sparkle Wave|?|?}}\n}}",
+    "pushobjects": "yes",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "100%?",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        ""
+    ],
+    "pushable": "no",
+    "cooldown": "20",
+    "implemented": "12.90.12182",
+    "loot": [
+        {
+            "itemName": "Firefighting Axe"
+        },
+        {
+            "itemName": "Ultimate Mana Potion"
+        },
+        {
+            "itemName": "Crystal Coin"
+        },
+        {
+            "itemName": "Mastermind Potion"
+        },
+        {
+            "itemName": "Bullseye Potion"
+        },
+        {
+            "itemName": "Giant Emerald"
+        },
+        {
+            "itemName": "Giant Topaz"
+        },
+        {
+            "itemName": "Ultimate Health Potion"
+        },
+        {
+            "itemName": "Berserk Potion"
+        },
+        {
+            "itemName": "Ultimate Spirit Potion"
+        },
+        {
+            "itemName": "Giant Sapphire"
+        },
+        {
+            "itemName": "Alicorn Headguard"
+        },
+        {
+            "itemName": "Alicorn Quiver"
+        },
+        {
+            "itemName": "Alicorn Ring"
+        },
+        {
+            "itemName": "Arboreal Crown"
+        },
+        {
+            "itemName": "Arboreal Ring"
+        },
+        {
+            "itemName": "Arboreal Tome"
+        },
+        {
+            "itemName": "Arcanomancer Folio"
+        },
+        {
+            "itemName": "Arcanomancer Regalia"
+        },
+        {
+            "itemName": "Arcanomancer Sigil"
+        },
+        {
+            "itemName": "Fiery Tear"
+        },
+        {
+            "itemName": "Smoldering Eye"
+        },
+        {
+            "itemName": "Spiritthorn Armor"
+        },
+        {
+            "itemName": "Spiritthorn Helmet"
+        },
+        {
+            "itemName": "Spiritthorn Ring"
+        },
+        {
+            "itemName": "Portable Flame"
+        },
+        {
+            "itemName": "Giant Amethyst"
+        }
+    ],
+    "walksaround": "None",
+    "exp": "80000",
+    "creatureclass": "Elementals",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "100%?",
+    "bosstiaryclass": "Archfoe",
+    "primarytype": "Magma-Elementals",
+    "race_id": "2242",
+    "senseinvis": "yes",
+    "article": "a",
+    "actualname": "magma bubble",
+    "illusionable": "no",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Magma Bubble",
+    "isboss": "yes",
+    "behaviour": "It does not move.",
+    "location": "[[Sparkling Pools]].",
+    "iceDmgMod": "100%?",
+    "strategy": "See [[Primal Ordeal Quest]].",
+    "energyDmgMod": "100%?",
+    "deathDmgMod": "100%?"
+}

@@ -1,0 +1,119 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "Bloodthirsty [[Quara]]s that even fight other [[Quara]]s after a battle. They look like a shark.\n\n{{JSpoiler|You may hunt 600 [[Quara Constrictor]], [[Quara Hydromancer]], [[Quara Mantassin]], [[Quara Pincher]], Quara Predator combined, as a task of the [[Killing in the Name of... Quest]]. Upon completion of the task you will face [[Thul]].}}",
+    "walksthrough": "Fire",
+    "hp": "2200",
+    "abilities": "{{Ability List|{{Melee|0-470}}|{{Healing|range=25-75}}|{{Haste}}}}",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "holyDmgMod": "100%",
+    "maxdmg": "{{Max Damage|physical=470}}",
+    "pushable": "?",
+    "implemented": "7.8",
+    "loot": [
+        {
+            "amount": "1-154",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Quara Bone",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-7",
+            "itemName": "Royal Spear",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Small Diamond",
+            "rarity": "semi-rare"
+        },
+        {
+            "amount": "1-5",
+            "itemName": "Shrimp",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Double Axe",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Fish Fin",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Great Health Potion",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Relic Sword",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Assassin Star",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Glacier Robe",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Skull Helmet",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Giant Shrimp",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Energy, Poison",
+    "exp": "1600",
+    "mitigation": "1.46",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "quara predator",
+    "illusionable": "yes",
+    "armor": "40",
+    "convince": "--",
+    "name": "Quara Predator",
+    "isboss": "no",
+    "iceDmgMod": "0%",
+    "energyDmgMod": "125%",
+    "deathDmgMod": "100%",
+    "plural": "quara predators",
+    "hpDrainDmgMod": "0%?",
+    "usespells": "yes",
+    "lightcolor": "35",
+    "occurrence": "Common",
+    "bestiarytext": "Even more bloodthirsty than the other quara and even feared by their own kind for their murderous frenzy, Quara Predators are usually found in the first lines of a battlefield whenever the quara decide to fight their sworn enemies (which basically means all non-quara). Obviously a mixture of quara and sharks, they share the most disgusting and most lethal attributes of both. Ruthless and vicious they know no mercy and no surrender. Quara Predators are known to fight until the last spark of life leaves their bodies. Sometimes they even fight against each other after slaying all enemies in sight.On shore they are somewhat weaker, losing their speed and agility, but their huge jaws are still fatal.",
+    "speed": "225",
+    "pushobjects": "?",
+    "fireDmgMod": "0%",
+    "sounds": [
+        "Gnarrr!",
+        "Tcharrr!",
+        "Rrrah!",
+        "Rraaar!"
+    ],
+    "lightradius": "2",
+    "bestiaryclass": "Aquatic",
+    "creatureclass": "Amphibians",
+    "earthDmgMod": "110%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Quara",
+    "spawntype": [
+        "Regular",
+        "Unblockable"
+    ],
+    "race_id": "237",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "drownDmgMod": "0%",
+    "bestiaryname": "quarapredator",
+    "behaviour": "Malicious. Fights until death.",
+    "location": "[[Calassa]], [[Frozen Trench]], [[Sunken Quarter]], [[Alchemist Quarter]] (unreachable), [[The Inquisition Quest]], [[Seacrest Grounds]].",
+    "strategy": "This creature's melee damage is equivalent to that of a [[Behemoth]]. Be careful if you are running them because they are very fast when they haste.<br />\n'''[[Paladin]]s''': can solo them at level 70 using [[Poison Wall]]s or at 120 by running around objects. <br />\n'''[[Mage]]s''': can kill them using [[Energy Strike]] while a knight blocks, or solo at level 80 using poison walls.<br />\n'''[[Knight]]s''':not a very good creature for knights to solo. Use [[Challenge]] frequently if you are blocking as it [[retarget]]s often. Casting [[Inflict Wound]] early helps a lot. Cycle between using [[Brutal Strike]] and [[Whirlwind Throw]] to get the creature down as cheap as possible. Also watch out for other quaras that might break your shielding!\nNowadays Quara Predators are very easy to kill because of the introduction of energy imbuements and elemental melee weapons."
+}

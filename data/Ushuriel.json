@@ -1,0 +1,256 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "{{Demon Forge Navigation|Ushuriel}}\n[[File:Ushuriel Trapped.jpg|thumb|An example how to trap Ushuriel]]He is a [[Ruthless Seven]] Servant, you must defeat him in order to proceed [[The Inquisition Quest]]. Ushuriel is merciless and cruel even by demon standards. Like many other powerful demons, he worked his way up the demonic hierarchy through murder and slaughter. Unlike some of his more reckless brethren, he was thoughtful enough to win powerful allies and to ensure that his enemies had no chance for revenge before his next move for more power. Where other demons perished because they underestimated their enemies and overestimated themselves, Ushuriel was prepared for the confrontation and let others do the dirty work. After investing much time to examine his opponents' powers, his strikes were swift and precise. Early in his career, he became a follower of the [[Ruthless Seven]] and gained prestige and might in their shadow.\n\nLoving it to kill and slaughter, he serves the [[Ruthless Seven]] as an executioner. Gifted with immense powers, Ushuriel usually just ignores any attacks and then starts to torment his target. His executions are lengthy procedures as he enjoys the fear and death struggle of his victims. As he is mostly confronted with helpless victims, it might confuse him if an opponent is actually fighting back. Still, it is very unlikely that someone will face the chief executioner of the Ruthless Seven and lives to tell the tale.\n\nThough perfectly capable to handle almost any opponent, he likes to strip his victims of their powers and enjoys their weakness and fear. If you allow him to rob you of your powers, your small chance to survive this encounter is gone and you are as good as dead.\n\n{{JSpoiler|It's one of the bosses of [[The Inquisition Quest]].}}",
+    "walksthrough": "?",
+    "hp": "31500",
+    "speed": "220",
+    "abilities": "{{Ability List\n |{{Melee|0-1200|element=physical}}\n |{{Ability|Death Beam|0-500\n  |scene={{Scene|spell=10sqmbeam|caster=Ushuriel|look_direction=east|effect=Death Effect|damage_effect=Unknown}}}}\n |{{Ability|Wide Ice Wave|0-400|element=ice}}\n |{{Ability|Death Ball|Curses you up to 800 total|element=cursed\n  |scene={{Scene|spell=3sqmball2self|caster=Ushuriel|effect=Cloud Effect|effect_on_caster=yes|damage_effect=None}}}}\n |{{Ability|Energy Ball|Electrifies you|element=Electrified\n  |scene={{Scene|spell=3sqmball2self|caster=Ushuriel|effect=Blue Electricity Effect|effect_on_caster=yes|damage_effect=Unknown}}}}\n |{{Ability|Purple Note UE|makes you [[Drunk]]|element=drunk\n  |scene={{Scene|spell=6sqmballself|caster=Ushuriel|effect=Purple Notes Effect|effect_on_caster=yes|damage_effect=Unknown}}}}\n |{{Ability|Poison Wave|0-600|element=poison\n  |scene={{Scene|spell=10sqmwave|caster=Ushuriel|look_direction=east|effect=Poison Effect 3|damage_effect=Poison Effect 1}}}}\n |{{Healing|range=455-524\n  |scene={{Scene|spell=buffspell|effect=Blue Sparkles Effect|caster=Ushuriel|look_direction=south|effect_on_caster=yes}}}}\n}}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "yes",
+    "secondarytype": "Archdemons",
+    "fireDmgMod": "70%",
+    "holyDmgMod": "75%",
+    "sounds": [
+        "You can't run or hide forever!",
+        "I'm the executioner of the Seven!",
+        "The final punishment awaits you!",
+        "The judgement is guilty! The sentence is death!"
+    ],
+    "maxdmg": "2600",
+    "pushable": "?",
+    "runsat": "deep red",
+    "implemented": "8.20",
+    "loot": [
+        {
+            "amount": "0-102+",
+            "itemName": "Gold Coin"
+        },
+        {
+            "amount": "0-30",
+            "itemName": "Platinum Coin"
+        },
+        {
+            "amount": "0-3",
+            "itemName": "Small Diamond"
+        },
+        {
+            "amount": "0-8",
+            "itemName": "Small Sapphire"
+        },
+        {
+            "amount": "0-14",
+            "itemName": "Black Pearl"
+        },
+        {
+            "amount": "0-6",
+            "itemName": "Small Emerald"
+        },
+        {
+            "amount": "0-14",
+            "itemName": "White Pearl"
+        },
+        {
+            "amount": "0-17",
+            "itemName": "Small Amethyst"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "Great Health Potion"
+        },
+        {
+            "itemName": "Great Mana Potion"
+        },
+        {
+            "itemName": "Great Spirit Potion"
+        },
+        {
+            "itemName": "Ultimate Health Potion"
+        },
+        {
+            "amount": "0-8",
+            "itemName": "Onyx Arrow"
+        },
+        {
+            "amount": "0-30",
+            "itemName": "Brown Mushroom"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "Demon Horn"
+        },
+        {
+            "itemName": "Crimson Sword"
+        },
+        {
+            "amount": "0-10",
+            "itemName": "Iron Ore"
+        },
+        {
+            "amount": "0-20",
+            "itemName": "Hardened Bone"
+        },
+        {
+            "itemName": "Orb"
+        },
+        {
+            "itemName": "Necrotic Rod"
+        },
+        {
+            "itemName": "Snakebite Rod"
+        },
+        {
+            "itemName": "Double Axe"
+        },
+        {
+            "itemName": "Scimitar"
+        },
+        {
+            "itemName": "Mind Stone"
+        },
+        {
+            "itemName": "Magic Light Wand"
+        },
+        {
+            "itemName": "Death Ring"
+        },
+        {
+            "itemName": "Energy Ring"
+        },
+        {
+            "itemName": "Stealth Ring"
+        },
+        {
+            "itemName": "Gold Ring"
+        },
+        {
+            "itemName": "Gold Ingot"
+        },
+        {
+            "itemName": "Silver Dagger"
+        },
+        {
+            "itemName": "Life Crystal"
+        },
+        {
+            "itemName": "Silver Amulet"
+        },
+        {
+            "itemName": "Protection Amulet"
+        },
+        {
+            "itemName": "Devil Helmet"
+        },
+        {
+            "itemName": "Strange Helmet"
+        },
+        {
+            "itemName": "Might Ring"
+        },
+        {
+            "itemName": "Stone Skin Amulet"
+        },
+        {
+            "itemName": "Ring of Healing"
+        },
+        {
+            "itemName": "Demonic Essence"
+        },
+        {
+            "itemName": "Wand of Decay"
+        },
+        {
+            "itemName": "Moonlight Rod"
+        },
+        {
+            "itemName": "Giant Sword"
+        },
+        {
+            "itemName": "Boots of Haste"
+        },
+        {
+            "itemName": "Enchanted Chicken Wing"
+        },
+        {
+            "itemName": "Mysterious Voodoo Skull"
+        },
+        {
+            "itemName": "Green Gem"
+        },
+        {
+            "itemName": "Blue Gem"
+        },
+        {
+            "itemName": "Royal Helmet"
+        },
+        {
+            "itemName": "Skull Helmet"
+        },
+        {
+            "itemName": "Crown Helmet"
+        },
+        {
+            "itemName": "Warrior Helmet"
+        },
+        {
+            "itemName": "Thaian Sword"
+        },
+        {
+            "itemName": "Huge Chunk of Crude Iron"
+        },
+        {
+            "itemName": "Spirit Container"
+        },
+        {
+            "itemName": "Flask of Warrior's Sweat"
+        },
+        {
+            "itemName": "Spike Sword"
+        },
+        {
+            "itemName": "Fire Sword"
+        },
+        {
+            "itemName": "Slightly Rusted Armor"
+        },
+        {
+            "itemName": "Dragon Slayer"
+        },
+        {
+            "itemName": "Unholy Book",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Runed Sword",
+            "rarity": "rare"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "10000",
+    "creatureclass": "Demons",
+    "earthDmgMod": "70%",
+    "physicalDmgMod": "50%",
+    "bosstiaryclass": "Bane",
+    "primarytype": "The Ruthless Seven Minions",
+    "spawntype": [
+        "Regular",
+        "Unique",
+        "Unblockable"
+    ],
+    "race_id": "415",
+    "senseinvis": "yes",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Ushuriel",
+    "isboss": "Yes",
+    "behaviour": "'''Ushuriel''' is fast and dangerous.",
+    "location": "In the [[Demon Forge]] following the [[Hall of the Colossi]]. He is the first Demon Forge boss of [[The Inquisition Quest]].",
+    "iceDmgMod": "70%",
+    "strategy": "[[File:In.jpg|thumb|Using invisible before entering Ushuriel Seal (Antica)]]It's very powerful, so bring a high level blocker (150+) and a couple of paladins and/or mages to shoot it. Druids are highly advised to heal the blocker. All players should wear [[Stealth Ring]]s or use [[Utana Vid]] considering this boss is guarded by multiple [[Eye Of The Seven|Eyes Of The Seven]] which can deal up to 500 damage per turn, these are not immune to invisibility.\nPlayers who attempt to kill Ushuriel solo, should create energy fields with [[Energy Wall Rune]] on the ground and make him walk over them. Knights are advised to bring the strongest elemental melee weapon, for example [[Tagralt Blade]], to hit him with [[Blood Rage]] and some exori attacks while running. Soloing Ushuriel will take some time though.",
+    "energyDmgMod": "70%",
+    "deathDmgMod": "0%"
+}

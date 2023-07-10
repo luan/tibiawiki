@@ -1,0 +1,39 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "strange rats",
+    "hpDrainDmgMod": "100%?",
+    "notes": "They sometimes spawn on characters while inside the [[Cobra Bastion]] if you have the Cobra's curse. To remove the curse you have to go to the +3 floor and toss some [[Gold Coin|gold]] on the floor there.",
+    "hp": "?",
+    "abilities": "{{Ability List| {{Melee|?}} }}",
+    "healMod": "100%?",
+    "fireDmgMod": "100%?",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        ""
+    ],
+    "implemented": "12.20.8834",
+    "loot": [],
+    "exp": "?",
+    "creatureclass": "Mammals",
+    "earthDmgMod": "100%?",
+    "physicalDmgMod": "100%?",
+    "primarytype": "Glires",
+    "spawntype": [
+        "Unblockable"
+    ],
+    "article": "a",
+    "actualname": "strange rat",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Strange Rat",
+    "isboss": "no",
+    "behaviour": "Unknown.",
+    "location": "[[Cobra Bastion]].",
+    "iceDmgMod": "100%?",
+    "strategy": "Just kill them with any attack.",
+    "energyDmgMod": "100%?",
+    "deathDmgMod": "100%?"
+}

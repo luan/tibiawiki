@@ -1,0 +1,109 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "Its [[Self-Healing]] is constantly used. Goes invisible often. These creatures can be skinned with an [[Obsidian Knife]]. See also: [[Lizard Leather/Skinning]].",
+    "walksthrough": "Poison",
+    "hp": "325",
+    "abilities": "{{Ability List\n |{{Melee|0-35}}\n |{{Ability|Poisoning Strike|up to 10 hp/turn|poisoned\n  |scene={{Scene|spell=7sqmstrike|effect=Poison Effect 3|caster=lizard snakecharmer|missile=Poison Missile|missile_direction=south-east|missile_distance=7/7}}}}\n |{{Ability|Earth Strike|50-100|earth\n  |scene={{Scene|spell=7sqmstrike|effect=Poison Effect 1|caster=lizard snakecharmer|missile=Poison Missile|missile_direction=south-east|missile_distance=7/7}}}}\n |{{Summon|cobra|6}}\n |{{Healing|range=50-100|scene={{Scene|spell=buffspell|effect=Blue Sparkles Effect|caster=lizard snakecharmer|effect_on_caster=yes}}}}\n |{{Ability|[[Invisibility]]|element=invisible}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "holyDmgMod": "100%",
+    "maxdmg": "150 (with [[summon]]s)",
+    "pushable": "Yes",
+    "implemented": "7.5",
+    "loot": [
+        {
+            "amount": "0-55",
+            "itemName": "Gold Coin"
+        },
+        {
+            "itemName": "Dead Snake (Item)"
+        },
+        {
+            "itemName": "Cape"
+        },
+        {
+            "itemName": "Life Crystal",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Lizard Leather",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Mana Potion",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Terra Rod",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Lizard Scale",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Small Amethyst",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Life Ring",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Charmer's Tiara",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Snakebite Rod",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Yellow Gem",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Fire, Energy",
+    "exp": "210",
+    "mitigation": "0.38",
+    "attacktype": "Distance",
+    "article": "a",
+    "actualname": "lizard snakecharmer",
+    "illusionable": "yes",
+    "armor": "22",
+    "convince": "--",
+    "name": "Lizard Snakecharmer",
+    "isboss": "no",
+    "iceDmgMod": "80%",
+    "energyDmgMod": "80%",
+    "deathDmgMod": "100%",
+    "plural": "lizard snakecharmers",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "Half priest and half wizard, Lizard Snakecharmers seem to be the spiritual leaders of the lizard people. They are skilled in casting several spells and show a strong affinity to snakes and poison. Like snakes, which they are assumed to worship, they like to wait until their victim shows a weakness that allows them to strike. Keeping their enemies at distance, their sudden attacks often take the victims by surprise which gives the Lizard Snakecharmers an edge in combat. Recently, they have settled their quarrels with the warriors of their race to form a formidable team to fight against their common enemy and to fend off any intruders in their territory.",
+    "speed": "172",
+    "pushobjects": "Yes",
+    "fireDmgMod": "110%",
+    "sounds": [
+        "I smeeeel warm blood!",
+        "Shhhhhhh"
+    ],
+    "runsat": "15",
+    "bestiaryclass": "Reptile",
+    "creatureclass": "Reptiles",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "110%",
+    "primarytype": "Low Class Lizards",
+    "spawntype": [
+        "Regular"
+    ],
+    "race_id": "115",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "lizardsnakecharmer",
+    "behaviour": "'''Lizard Snakecharmers''' fight until death, [[Self Healing|heal]] themselves and [[summon]] lots of [[Cobra]]s. The [[Cobra]]s don't hit you with [[Physical Damage]] but [[Poisoned|poisons]] you. They keep blocking your way and you sometimes can't retreat.",
+    "location": "[[Chor]], [[Forbidden Temple]].",
+    "strategy": "Due their fast [[healing]], use powerful attacks to quickly wipe them out.<br>'''[[Knight]]s''': When killing Lizard Snakecharmers, you should have a good two-handed weapon and charge right on the Snakecharmer, ignoring any [[summon]]ed [[Cobra]]s. They have a very weak defense, but heal almost constanty, so try to kill it as quickly as possible to avoid larger amounts of damage. It is also very smart to carry some [[Great Fireball|Great Fireball Runes]] when killing these creatures, because [[summon]]ed [[Cobra]]s can trap you easily.<br>'''Other vocations''': Kill them from distance to avoid being trapped or luring more [[Creatures]] while chasing them."
+}

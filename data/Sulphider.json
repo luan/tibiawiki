@@ -1,0 +1,92 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "sulphiders",
+    "hpDrainDmgMod": "100%?",
+    "notes": "<gallery captionalign=\"center\" mode=\"nolines\">\nSulphider Artwork.jpg|Official [[Creature Artwork]]\n</gallery>",
+    "hp": "21000",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "The peculiar flora and fauna of Gnomprona hosts a tremendous amount of unique life forms. The discovery of the land in the depths of Tibia sparked a debate, if it rather preserves or created the special creatures encountered there. The current consensus seems to be something in-between. It seems likely that many of the gnompronean life forms are primordial ancestors of creatures encountered elsewhere in the world. Yet it seems likely that centuries of generations, tempered by the harsh primeval land have left their mark and changed the creatures over the course of time. The sulphur spider seems to belong to one of the latter cases. At first classified by some to be an elemental and less an actually creature, closer inspections of slain spiders have disproven this by far and wide. In fact these spiders are probably the progenitors of many of the gigantic spiders that can be found all over the world. Despite their visual familiarity to creatures like the crystal spiders they share more in arrangement of their organs with the well-known giant spider. This turned former scientific theories upside down and now scientists lean towards the theory that the sulphider is the evolution of a progenitor spider as the shared ancestor for sulphider, giant and crystal spiders and probably many else. Yet the special dependency their offspring developed towards sulphur seems to hint that they took quite a different branch of development. Still the sulphider is assumed to be the most closely related offspring of the bunch, when compared towards that progenitor spider. They build their lairs in sulphuric areas and their hairy body is usually covered with a layer of sulphur powder. Yet their skin tone has taken a yellowish hue, probably over many generations. Oddly enough their choice of lairs in rather uninviting areas of sulphuric caves, cracks and fields makes it necessary for them to venture into the gnomorean jungle to find prey. There they stand with their hue and are easily spotted. They make up for that by being very quick and agile, catching up to their victims with terrifying speed. As their whole bodies seem highly satiated with sulphur and derived, concentrated toxins, their yellow colouring also serves as a warning towards other predators to stay away. Indeed the flesh of the sulphider is highly poisonous and even a bite seems to cause any attacker discomfort and harm.",
+    "speed": "215",
+    "abilities": "{{Ability List\n |{{Melee|497}}\n |{{Ability|Fire Ball|636-730|element=fire\n  |scene={{Scene|spell=2sqmballtarget|caster=Sulphider|look_direction=south|effect=Fire Effect|missile=Fire Missile|missile_direction=south-east|missile_distance=2/2}}}}\n |{{Ability|Blast Ring|849|element=fire\n  |scene={{Scene|spell=4sqmring2|caster=Sulphider|look_direction=south|effect=Blast Effect|damage_effect=Fire Effect}}}}\n}}",
+    "pushobjects": "yes",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "fireDmgMod": "80%",
+    "holyDmgMod": "110%",
+    "sounds": [
+        "Tikkee...Takka..."
+    ],
+    "pushable": "no",
+    "implemented": "12.90.12182",
+    "bestiaryclass": "Vermin",
+    "loot": [
+        {
+            "itemName": "Sulphider Shell",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Sulphur Powder",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "Crystal Coin",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Ultimate Mana Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Magma Boots",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "White Pearl",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Fire Axe",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Crown Shield",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Amber Staff",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Amulet of Loss",
+            "rarity": "rare"
+        }
+    ],
+    "exp": "13328",
+    "creatureclass": "Invertebrates",
+    "earthDmgMod": "100%",
+    "mitigation": "2.11",
+    "physicalDmgMod": "100%",
+    "primarytype": "Arachnids",
+    "attacktype": "Melee",
+    "race_id": "2264",
+    "bestiarylevel": "Challenging",
+    "history": "Its experience was decreased from 15,460 to 13,328 on {{OfficialNewsArchive|6875|July 28, 2022}}.\n\nOn [[Updates/12.91.12383|September 06, 2022]] its health points were increased from 18,900 to 21,000.",
+    "senseinvis": "yes",
+    "article": "a",
+    "actualname": "sulphider",
+    "illusionable": "no",
+    "armor": "83",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "bestiaryname": "sulphider",
+    "name": "Sulphider",
+    "isboss": "no",
+    "location": "[[Monster Graveyard]]",
+    "iceDmgMod": "120%",
+    "strategy": "Unknown.",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "80%"
+}

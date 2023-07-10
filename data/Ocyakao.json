@@ -1,0 +1,91 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "One of the bosses with new AI.",
+    "walksthrough": "?",
+    "hp": "700",
+    "speed": "?",
+    "abilities": "{{Ability List| {{Melee|0-165+}}|{{Healing|range=0 60+}}|{{Ability|Blood Ball|Causes [[Bleeding]]|element=bleed}}|{{Ability|large [[Ice Wave]]|0-20+|element=ice}}|{{Ability|small [[Armageddon]]|0-100+|element=lifedrain}} }}",
+    "pushobjects": "yes",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "90%?",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        "Chikuva!",
+        "Jinuma jamjam!",
+        "Grrrr! Kisavuta!",
+        "Suvituka siq chuqua!",
+        "Kiyosa sipaju!",
+        "Aiiee!"
+    ],
+    "maxdmg": "200+",
+    "pushable": "no",
+    "implemented": "10.20",
+    "loot": [
+        {
+            "amount": "65",
+            "itemName": "Gold Coin",
+            "rarity": "always"
+        },
+        {
+            "amount": "5",
+            "itemName": "Fish",
+            "rarity": "always"
+        },
+        {
+            "itemName": "White Pearl",
+            "rarity": "always"
+        },
+        {
+            "itemName": "Silver Raid Token",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Ice Cube"
+        },
+        {
+            "itemName": "Mammoth Whopper"
+        },
+        {
+            "itemName": "Mace"
+        },
+        {
+            "itemName": "Bone Shield"
+        },
+        {
+            "itemName": "Northern Pike"
+        },
+        {
+            "itemName": "Green Perch"
+        },
+        {
+            "itemName": "White Piece of Cloth"
+        },
+        {
+            "itemName": "Eye of the Storm"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "490",
+    "creatureclass": "Humanoids",
+    "earthDmgMod": "100%?",
+    "physicalDmgMod": "100%?",
+    "bosstiaryclass": "Nemesis",
+    "primarytype": "Chakoyas",
+    "race_id": "970",
+    "senseinvis": "?",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Ocyakao",
+    "isboss": "yes",
+    "behaviour": "Fights until death, follows you. Damaging him makes him say \"Grrrr! Kisavuta!\" and triggers his AoE life drain attack.",
+    "location": "[[Nibelor]].",
+    "iceDmgMod": "0%",
+    "strategy": "Spawns together with large group of other [[Chakoyas]]. There are 5 waves in total, each 5 seconds apart. The first 4 waves contain Chakoyas, and on the 5th wave Ocyakao spawns (20 seconds after the first wave). It is advisable to use [[Thunderstorm Rune]]s to get rid of his minions, or invisibility to hide from them. Comparable to an [[Orc Leader]].",
+    "energyDmgMod": "110%?",
+    "deathDmgMod": "50%?"
+}

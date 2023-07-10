@@ -1,0 +1,111 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "Related to [[Stone Golem]]s.\n{{JSpoiler|You may hunt 300 of these as a task of the [[Killing in the Name of... Quest]]. Upon completion of the task you will face [[Shardhead]].}}",
+    "walksthrough": "Fire",
+    "hp": "385",
+    "abilities": "{{Ability List\n |{{Melee|0-220}}\n |{{Ability|Icicle|50-85|ice\n  |scene={{Scene|spell=3sqmstrike|missile=Ice Missile|missile_direction=south-east|missile_distance=3/3|effect=Ice Explosion Effect|caster=Ice Golem}}}}\n |{{Ability|Paralyzing Ice Beam||slowed\n  |scene={{Scene|spell=8sqmbeam|caster=Ice Golem|effect=Icicle Effect|look_direction=east}}}}\n |{{Debuff2|Berserk|melee=yes|shielding=yes|value=15-20%\n  |scene={{Scene|spell=3x3spell|caster=Ice Golem|effect=Trembling Effect}}}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "holyDmgMod": "0%",
+    "maxdmg": "{{Max Damage|physical=220|ice=85}}",
+    "pushable": "no",
+    "usedelements": "Physical > Ice",
+    "implemented": "8.00",
+    "loot": [
+        {
+            "amount": "0-111",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Frosty Heart",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Ice Cube",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Strong Mana Potion",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Strong Health Potion",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Black Pearl",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Small Diamond",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Crystal Sword",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Small Sapphire",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Strange Helmet",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Ice Rapier",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Shard",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Glacier Mask",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Energy, Poison",
+    "exp": "295",
+    "mitigation": "0.70",
+    "attacktype": "Melee",
+    "article": "an",
+    "actualname": "ice golem",
+    "illusionable": "no",
+    "armor": "47",
+    "convince": "--",
+    "name": "Ice Golem",
+    "isboss": "no",
+    "iceDmgMod": "0%",
+    "energyDmgMod": "120%",
+    "deathDmgMod": "0%",
+    "plural": "ice golems",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "Ice Golems are constructs raised by powerful sorcery. The creation of Ice Golems dates back to times no mortal can remember. Golems follow simple tasks, given to them by their masters. Often, they are ordered to protect some place or item and they are still bound to this duty even when their masters are already dead for a long time. This is only one of the reasons why most encountered Ice Golems are hostile. Another less known fact is that the structure of the Ice Golem's feeble mind makes it easy for all kinds of spirits to possess these creatures and to take over control. Thus the Ice Golems are easy to be 'ridden' by such entities and especially malignant spirits have little qualms to do so.<br />The strength and resilience of Ice Golems is quite similar to other golems. They tend to be a bit faster and more agile compared to stone golems but are not that heavily armoured. They are only able to survive in cold climate as Ice Golems will melt in warmer regions unless some kind of magic is applied to prevent this. In cooler areas it is much easier to raise Ice Golems than their stone cousins. As a rule of thumb, Ice Golems are usually encountered in greater numbers than  stone golems.",
+    "speed": "95",
+    "pushobjects": "?",
+    "fireDmgMod": "0%",
+    "sounds": [
+        "Chrrr.",
+        "Crrrrk.",
+        "Gnarr."
+    ],
+    "runsat": "0",
+    "bestiaryclass": "Construct",
+    "creatureclass": "Elementals",
+    "earthDmgMod": "100%",
+    "physicalDmgMod": "80%",
+    "primarytype": "Cryo-Elementals",
+    "race_id": "326",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "icegolem",
+    "behaviour": "They move slowly and are easy to outrun, but will deal a lot of damage if they catch you.",
+    "location": "[[Formorgar Glacier]], [[Formorgar Mines]], [[Nibelor Ice Cave]], [[Ice Witch Temple]], [[Deeper Banuta]], [[Crystal Caves]], [[Chyllfroest]].",
+    "strategy": "Thanks to their focus on [[Energy Damage|energy]] spells, '''[[Sorcerers]]''' will find ice golems rather enjoyable to hunt. Because mages do not need [[Frosty Heart]]s for [[imbuing]], they can sell them all for a significant profit. Most of the time sorcerers should just use an energy wand and cast [[Energy Strike]]. If you find yourself in a tight spot, [[Great Energy Beam]] and [[Energy Wave]] are extremely effective for fast kills.<br>\n\n'''[[Druid]]s''' are slightly less effective against ice golems, since they have access to only one [[Energy Damage|energy]] spell. However, [[Earth Damage|earth]] spells still deal full damage, so you will not have any problems. Use an earth rod and cast [[Energy Strike]]. [[Terra Wave]] will be helpful for emergencies.<br>\n\nAll mages would do well to bring some [[Thunderstorm Rune]]s in case they run into two or three ice golems at once.\n<br>\n\nIce golems are not very '''[[Knight]]'''-friendly monsters. Even though they do not have a lot of health, their defence alone is very strong, they possess some [[Physical Damage|physical damage]] resistance on top of that, they hit very hard in close range and reduce melee and shield skills quite often. In general, it is not advised to hunt ice golems as a knight. However, if you are level 60+, have a [[Barbarian Arena Quest/Spoiler#Scrapper|Scrapper-level]] weapon and good skills (at least 80/80), the tasks are doable and profitable. Try to fight one at a time and be extremely careful when facing two or three at once, as they can send you back to the temple in the blink of an eye.<br>\n\nDue to their focus on [[Physical Damage|physical damage]], '''[[Paladin]]s''' face similar issues as knights, as the task is usually completed at around level 50-60 and it is not until a higher level that a paladin's damage output will far exceed that of a knight. Still, as long-range fighters, in most situations paladins should only take damage from the icicle attacks. [[Holy Damage|Holy]] spells are completely useless against ice golems, so use [[Ethereal Spear]] to kill them faster. You should use at least [[Onyx Arrow|onyx arrows]] or [[Power Bolt|power bolts]] for a reasonable kill speed, but you can wait until level 70 for a significant damage boost from [[Envenomed Arrow|envenomed arrows]] or [[Drill Bolt|drill bolts]]. Remember to stay diagonal while running, in order to avoid the paralyzing beam."
+}

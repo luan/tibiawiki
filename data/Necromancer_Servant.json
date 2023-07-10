@@ -1,0 +1,68 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "necromancer servants",
+    "hpDrainDmgMod": "100%?",
+    "notes": "Part of the Gravedigger of Drefia quest. Acts very similar to a regular [[Necromancer]], with which they share their appearance.",
+    "walksthrough": "Poison",
+    "hp": "600",
+    "speed": "?",
+    "abilities": "{{Ability List| {{Melee|?}}|{{Ability|Stalagmite|0-105?|element=earth}}|{{Healing|range=0-70?}}|{{Summon|Ghoul|2|Ghost|Mummies}} }}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "105%?",
+    "holyDmgMod": "105%?",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "105?",
+    "pushable": "?",
+    "implemented": "10.10",
+    "loot": [
+        {
+            "amount": "0-70",
+            "itemName": "Gold Coin"
+        },
+        {
+            "amount": "0-5",
+            "itemName": "Poison Arrow"
+        },
+        {
+            "itemName": "Book of Necromantic Rituals"
+        },
+        {
+            "itemName": "Necromantic Robe"
+        },
+        {
+            "itemName": "Skull Staff"
+        },
+        {
+            "itemName": "Incantation Fragment",
+            "rarity": "always"
+        }
+    ],
+    "walksaround": "Fire, Energy",
+    "exp": "590",
+    "creatureclass": "Humans",
+    "earthDmgMod": "0%?",
+    "physicalDmgMod": "105%?",
+    "primarytype": "Necromancers",
+    "race_id": "988",
+    "history": "This creature was meant to be added to the [[Bestiary]] with the [[Updates/11.80|Summer Update 2018]]. Due to negative player feedback during the Test Server, this didn't come to pass.",
+    "senseinvis": "yes",
+    "article": "a",
+    "actualname": "necromancer servant",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "0%?",
+    "convince": "--",
+    "name": "Necromancer Servant",
+    "isboss": "no",
+    "behaviour": "Stays away from you and runs at low health.",
+    "location": "[[Drefia]].",
+    "iceDmgMod": "100%?",
+    "strategy": "Just treat it like a regular [[Necromancer]].",
+    "energyDmgMod": "80%?",
+    "deathDmgMod": "50%?"
+}

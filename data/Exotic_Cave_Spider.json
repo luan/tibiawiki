@@ -1,0 +1,84 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "walksthrough": "Energy, Poison",
+    "hp": "1900",
+    "abilities": "{{Ability List\n |{{Melee|0-300?|poison=9}}\n |{{Ability|Earth Bomb on target|90-120?|element=earth}}\n |{{Ability|throws [[Poison Field]]s|element=poison field}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "holyDmgMod": "100%",
+    "implemented": "12.60.10463",
+    "loot": [
+        {
+            "itemName": "Platinum Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Great Health Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Poison Arrow",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Terra Boots",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Silver Amulet",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Spider Silk",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Terra Mantle",
+            "rarity": "rare"
+        }
+    ],
+    "walksaround": "Fire",
+    "exp": "1400",
+    "mitigation": "1.60",
+    "attacktype": "Melee",
+    "history": "On the first days of the external test server, this creature used to be called ''caribbean cave spider''.",
+    "article": "an",
+    "actualname": "exotic cave spider",
+    "illusionable": "no",
+    "armor": "40",
+    "convince": "--",
+    "name": "Exotic Cave Spider",
+    "isboss": "no",
+    "iceDmgMod": "80%",
+    "energyDmgMod": "80%",
+    "deathDmgMod": "100%",
+    "plural": "exotic cave spiders",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "lightcolor": "68",
+    "occurrence": "Common",
+    "bestiarytext": "Exotic cave spiders are stronger and more aggressive than [[Giant Spider]]s.",
+    "speed": "132",
+    "fireDmgMod": "110%",
+    "sounds": [
+        ""
+    ],
+    "lightradius": "3",
+    "bestiaryclass": "Vermin",
+    "creatureclass": "Invertebrates",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Arachnids",
+    "spawntype": [
+        "Regular"
+    ],
+    "race_id": "2024",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "caribbeancavespider",
+    "behaviour": "It behaves like a [[Giant Spider]].",
+    "location": "[[Exotic Cave Spider Cave]]",
+    "strategy": "Treat it like a [[Giant Spider]]."
+}

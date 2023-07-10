@@ -1,0 +1,57 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "This boss, just like [[Ayana the Crimson Curse]] and [[Owin (Creature)|Owin]], only spawn during [[Full Moon]].",
+    "walksthrough": "Energy, Fire, Poison",
+    "hp": "15500",
+    "abilities": "{{Ability List}}",
+    "pushobjects": "yes",
+    "healMod": "100%?",
+    "paraimmune": "yes",
+    "secondarytype": "Lycanthropes",
+    "fireDmgMod": "100%",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        "WOOOSH!"
+    ],
+    "maxdmg": "0",
+    "pushable": "no",
+    "implemented": "13.20",
+    "loot": [
+        {
+            "itemName": "Lightning Pendant",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Silver Moon Coin"
+        },
+        {
+            "amount": "1-14",
+            "itemName": "Platinum Coin",
+            "rarity": "common"
+        }
+    ],
+    "walksaround": "None",
+    "exp": "11200",
+    "creatureclass": "Mammals",
+    "earthDmgMod": "80%?",
+    "physicalDmgMod": "100%?",
+    "bosstiaryclass": "Archfoe",
+    "primarytype": "Felines",
+    "spawntype": [
+        "Regular"
+    ],
+    "race_id": "2405",
+    "senseinvis": "yes",
+    "actualname": "Tamru the Black",
+    "illusionable": "no",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Tamru the Black",
+    "isboss": "yes",
+    "location": "[[Oskayaat]], around {{Mapper Coords|129.21|128.160|7|4|text=here}}.",
+    "iceDmgMod": "50%?",
+    "energyDmgMod": "0%",
+    "deathDmgMod": "100%"
+}

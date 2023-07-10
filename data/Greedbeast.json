@@ -1,0 +1,33 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "{{JSpoiler|Part of {{Spoiler Section|Soul War Quest|Goshnar's Greed}}.}}",
+    "abilities": "{{Ability List|}}",
+    "healMod": "100%",
+    "secondarytype": "Ungulates",
+    "fireDmgMod": "100%?",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        ""
+    ],
+    "implemented": "12.40.9997",
+    "loot": [],
+    "creatureclass": "The Undead",
+    "earthDmgMod": "100%?",
+    "physicalDmgMod": "100%?",
+    "primarytype": "Skeletons",
+    "article": "a",
+    "actualname": "greedbeast",
+    "illusionable": "no",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Greedbeast",
+    "isboss": "no",
+    "behaviour": "Unknown.",
+    "location": "Unknown.",
+    "iceDmgMod": "100%?",
+    "strategy": "Unknown.",
+    "energyDmgMod": "100%?",
+    "deathDmgMod": "100%?"
+}

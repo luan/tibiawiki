@@ -1,0 +1,130 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "{{JSpoiler|You may hunt 4000 of these along with [[Necromancer]]s, [[Priestess]]es, [[Blood Priest]]s and [[Shadow Pupil]]s as a [[Killing in the Name of... Quest/Spoiler#Unranked Tasks|task for Lugri]]. Upon completion of the task you will face [[Necropharus]]. The task can be repeated several times but only grants you 40,000 [[Experience|experience points]] from the second time and onwards.}}",
+    "isarenaboss": "no",
+    "walksthrough": "Poison",
+    "hp": "700",
+    "abilities": "{{Ability List| {{Melee|0-100?|poison=4}}|{{Ability|Frequent [[Self-Healing]]|0-70+|element=healing}}|{{Ability|[[Paralyze]] Ball|close range only|element=paralyze}}|{{Ability|[[Life Drain]] Ball on self|20-60? |element=lifedrain}} }}",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "holyDmgMod": "110%",
+    "maxdmg": "160?",
+    "pushable": "no",
+    "implemented": "10.10",
+    "loot": [
+        {
+            "amount": "1-135",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Book of Necromantic Rituals",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Lancet",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Horoscope",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Blood Tincture in a Vial",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Incantation Notes",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Pieces of Magic Chalk",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Strong Mana Potion",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Necrotic Rod",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "White Piece of Cloth",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Red Gem",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Mystic Turban",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Red Piece of Cloth",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Spellbook of Enlightenment",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Boots of Haste",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Skull Staff",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Noble Axe",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Energy, Fire",
+    "exp": "750",
+    "mitigation": "1.10",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "blood hand",
+    "illusionable": "no",
+    "armor": "48",
+    "convince": "--",
+    "name": "Blood Hand",
+    "isboss": "no",
+    "iceDmgMod": "90%",
+    "energyDmgMod": "80%",
+    "deathDmgMod": "50%",
+    "plural": "blood hands",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "Nobody is quite sure how the blood priest cult recruits its pupils, the blood hands, and if they join of their own free will. Rumours have it that blood hands have artificially enhanced blood in their veins, making them ruthless tools that do the bidding of their masters. <br />Blood hands are named after the red gloves they wear, but the name is not merely a metaphor: blood hands have to pass several years of training and killing in the field to prove worthy of ascending into the ranks of the priests. Though the initiation takes place behind securely closed doors, there are hints of blood rage visions, brain washing, grotesque rituals and blood transfusions during the final trial, and only those who live through these ordeals are entitled to call themselves blood priests, and receive a new name. Blood hands are often sent abroad to fulfil a mission of their master's or assisting him, and may return with strange devices, samples and stains. On the upside, blood hands are also skilled surgeons, and many an unhappy necromancer has relied on their skill to prolong his life or sew a limb back on, even if he had to pledge his services to theirs in return.<br />In combat, blood hands use what their masters have taught them, and summon minions they managed to pressure into a blood bond, which usually means fellow necromancers who owed them a favour or two.",
+    "speed": "96",
+    "pushobjects": "yes",
+    "fireDmgMod": "110%",
+    "sounds": [
+        "Blood for the dark god!",
+        "Die, filth!",
+        "For the Blood God!"
+    ],
+    "runsat": "0",
+    "bestiaryclass": "Human",
+    "creatureclass": "Humans",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Necromancers",
+    "spawntype": [
+        "Regular"
+    ],
+    "race_id": "974",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "drownDmgMod": "0%?",
+    "bestiaryname": "bloodhand",
+    "behaviour": "They fight in close range.",
+    "location": "[[Drefia]].",
+    "strategy": "'''[[Knight]]s:''' Alternate between [[Brutal Strike]] and [[Whirlwind Throw]], as they heal quite fast. If surrounded, use [[Berserk]]."
+}

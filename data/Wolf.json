@@ -1,0 +1,69 @@
+{
+    "summon": "255",
+    "templateType": "Creature",
+    "notes": "Mid-weak animals, useful to level in [[Rookgaard]].<br>\nCorpses can be sold to [[Tom]] in [[Rookgaard]] for '''5 [[gp]]'''.",
+    "walksthrough": "None",
+    "hp": "25",
+    "abilities": "{{Ability List|{{Melee|0-17}}}}",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "holyDmgMod": "70%",
+    "maxdmg": "{{Max Damage|physical=17}}",
+    "pushable": "yes",
+    "implemented": "Pre-6.0",
+    "loot": [
+        {
+            "amount": "1-2",
+            "itemName": "Meat",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Wolf Paw",
+            "rarity": "rare"
+        }
+    ],
+    "walksaround": "Fire, Energy, Poison",
+    "exp": "18",
+    "mitigation": "0.10",
+    "attacktype": "Melee",
+    "history": "Before [[Updates/8.40|Update 8.40]], Wolves looked like this: [[File:Wolf(old).gif]]",
+    "article": "a",
+    "actualname": "wolf",
+    "illusionable": "yes",
+    "armor": "1",
+    "convince": "255",
+    "name": "Wolf",
+    "isboss": "no",
+    "iceDmgMod": "110%",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "105%",
+    "plural": "wolves",
+    "hpDrainDmgMod": "100%",
+    "usespells": "no",
+    "occurrence": "Common",
+    "bestiarytext": "Wolves are beasts of prey that live in the forests and mountains of Tibia. Combined in prides they hunt other animals. In grim winters, they even come closer to towns to attack herds or humans. A single Wolf is a weak and shy opponent but as a pride they can be quite dangerous.",
+    "speed": "82",
+    "pushobjects": "no",
+    "fireDmgMod": "100%",
+    "sounds": [
+        "Yoooohhuuuu!",
+        "Grrrrrrr"
+    ],
+    "runsat": "8",
+    "bestiaryclass": "Mammal",
+    "creatureclass": "Mammals",
+    "earthDmgMod": "100%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Canines",
+    "spawntype": [
+        "Regular",
+        "Unblockable"
+    ],
+    "race_id": "27",
+    "bestiarylevel": "Trivial",
+    "senseinvis": "no",
+    "drownDmgMod": "100%",
+    "bestiaryname": "wolf",
+    "location": "In almost all grass areas in [[Tibia]], also found in [[Rookgaard]] and [[Dawnport]].",
+    "strategy": "'''Any Vocation''' Just attack them, they are slow.<br>\n'''No Vocation''' Be careful with the Wolf Cave, don't go there unless you have [[level]] 4+ or good [[equipment]]."
+}

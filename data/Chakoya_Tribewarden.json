@@ -1,0 +1,98 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "They can't be pushed and cannot move objects.",
+    "walksthrough": "None",
+    "hp": "68",
+    "abilities": "{{Ability List|{{Melee|0-30}}}}",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "holyDmgMod": "90%",
+    "maxdmg": "{{Max Damage|physical=30}}",
+    "pushable": "no",
+    "usedelements": "Physical",
+    "implemented": "8.00",
+    "loot": [
+        {
+            "amount": "0-20",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Fish",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Short Sword",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Fireproof Horn",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Bone Shield",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Green Perch",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Mammoth Whopper",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Rainbow Trout",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Northern Pike",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Fire, Energy, Poison",
+    "exp": "40",
+    "mitigation": "0.33",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "chakoya tribewarden",
+    "illusionable": "no",
+    "armor": "9",
+    "convince": "305",
+    "name": "Chakoya Tribewarden",
+    "isboss": "no",
+    "iceDmgMod": "0%",
+    "energyDmgMod": "115%",
+    "deathDmgMod": "105%",
+    "plural": "chakoya tribewardens",
+    "hpDrainDmgMod": "100%",
+    "usespells": "no",
+    "occurrence": "Common",
+    "bestiarytext": "The bulk of the chakoya tribes are the Chakoya Tribewardens. They are the hunters and gatherers of their species and it's their responsibility to protect the tribe. Chakoya Tribewardens are the most animal and wild of those little furry creatures. Everything that is not a chakoya is seen as prey. Not even other chakoyas are always safe from the ravenous bloodlust of their brethren. Survival of the fittest seems to be the principle of the Chakoya Tribewardens. When a chakoya shows some weakness, its fellows are after him to 'adjust' him to its new place in the food chain ...<br />The harsh environment has made the Chakoya Tribewardens as unforgiving as the icy land itself. They never run if they get cornered, rather their bloodthirstiness and their wrath increases and they attack their opponents with weapons, claws and fangs until either their opponents or themselves are defeated.",
+    "speed": "62",
+    "pushobjects": "no",
+    "fireDmgMod": "75%",
+    "sounds": [
+        "Quisavu tukavi!",
+        "Si siyoqua jamjam!",
+        "Achuq! jinuma!",
+        "Si ji jusipa!"
+    ],
+    "bestiaryclass": "Humanoid",
+    "creatureclass": "Humanoids",
+    "earthDmgMod": "100%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Chakoyas",
+    "spawntype": [
+        "Regular"
+    ],
+    "race_id": "319",
+    "bestiarylevel": "Easy",
+    "senseinvis": "no",
+    "drownDmgMod": "100%",
+    "bestiaryname": "chakoyatribewarden",
+    "behaviour": "They attack only with melee and fight to the death.",
+    "location": "[[Inukaya]], [[Chyllfroest]], [[Chakoya Iceberg]], [[Nibelor]] (during a [[The Ice Islands Quest|quest]]).",
+    "strategy": "They usually appear in large groups. This should be the last type you kill out of the Chakoyas. Treat them like [[Rotworm]]s."
+}

@@ -1,0 +1,110 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "venerable foam stalkers",
+    "hpDrainDmgMod": "100%?",
+    "notes": "It's a special [[Foam Stalker]] but with very similar characteristics.",
+    "walksthrough": "Energy",
+    "hp": "?",
+    "usespells": "yes",
+    "abilities": "{{Ability List\n |{{Melee|0-346}}\n |{{Ability|Ripple Wave|236-362|element=ice\n  |scene={{Scene|spell=4sqmwave|effect=Ripple Effect|caster=Venerable Foam Stalker|look_direction=east}}}}\n |{{Ability|Ripple Beam|349|element=ice\n  |scene={{Scene|spell=5sqmbeam|effect=Ripple Effect|caster=Venerable Foam Stalker|look_direction=east|damage_effect=Ice Explosion Effect}}}}\n |{{Ability|Ice Strike|297-455|element=ice\n  |scene={{Scene|spell=1sqmstrike|effect=Ice Explosion Effect|caster=Venerable Foam Stalker}}}}\n |{{Ability|Icicle Bomb|250|element=ice\n  |scene={{Scene|spell=2sqmballself|effect=Icicle Effect|caster=Venerable Foam Stalker|effect_on_caster=yes}}}}\n |{{Ability|Mana drain|174-257|element=mana drain}}\n |{{Ability|Splash ring|367; 3 rounds increasingly bigger ring up to 5sqm|element=ice?}}\n |{{Healing|range=80-113}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "?",
+    "fireDmgMod": "20%",
+    "holyDmgMod": "100%",
+    "sounds": [
+        "splash",
+        "gurgle",
+        "dribble"
+    ],
+    "maxdmg": "0",
+    "implemented": "12.90.12182",
+    "loot": [
+        {
+            "itemName": "Terra Boots"
+        },
+        {
+            "itemName": "Platinum Coin"
+        },
+        {
+            "itemName": "Twigs"
+        },
+        {
+            "itemName": "Staff"
+        },
+        {
+            "itemName": "Strong Mana Potion"
+        },
+        {
+            "itemName": "Combat Knife"
+        },
+        {
+            "itemName": "Halberd"
+        },
+        {
+            "itemName": "Orichalcum Pearl"
+        },
+        {
+            "itemName": "Soul Orb"
+        },
+        {
+            "itemName": "Small Emerald"
+        },
+        {
+            "itemName": "Spike Sword"
+        },
+        {
+            "itemName": "Glacier Shoes"
+        },
+        {
+            "itemName": "Coral Branch"
+        },
+        {
+            "itemName": "Giant Shimmering Pearl"
+        },
+        {
+            "itemName": "Remains of a Fish"
+        },
+        {
+            "itemName": "Foam Stalker Spume"
+        },
+        {
+            "itemName": "Tusk Shield"
+        },
+        {
+            "itemName": "Black Pearl"
+        },
+        {
+            "itemName": "White Pearl"
+        },
+        {
+            "itemName": "Flotsam"
+        },
+        {
+            "itemName": "Mercenary Sword"
+        }
+    ],
+    "exp": "?",
+    "creatureclass": "Elementals",
+    "earthDmgMod": "100%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Hydro-Elementals",
+    "spawntype": [
+        "Unblockable"
+    ],
+    "attacktype": "Distance",
+    "senseinvis": "yes",
+    "article": "a",
+    "actualname": "venerable foam stalker",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Venerable Foam Stalker",
+    "isboss": "no",
+    "location": "A single spawn at the [[Great Pearl Fan Reef]] second floor, {{Mapper Coords|131.227|128.8|9|2|text=here}}.",
+    "iceDmgMod": "80%",
+    "strategy": "Treat it as a regular [[Foam Stalker]].",
+    "energyDmgMod": "130%",
+    "deathDmgMod": "100%"
+}

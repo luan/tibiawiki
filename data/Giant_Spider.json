@@ -1,0 +1,115 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "Giant Spiders used to be one of the most feared monsters, mainly because of the locations they could be found in. Some years ago, they were often being lured to [[Venore]], [[Dwarf Bridge]], and the roads near it. They were commonly found in places one would never expect to find such a beast. Giant Spiders used to be immune to fire but now they are weak to it.\n\n{{JSpoiler|You may hunt 500 of these as a task of the [[Killing in the Name of... Quest]]. Upon completion of the task you will face [[The Old Widow]].}}",
+    "walksthrough": "Energy, Poison",
+    "hp": "1300",
+    "abilities": "{{Ability List\n |{{Melee|0-300|poison=8}}\n |{{Ability|Earth Strike|40-70|element=earth\n  |scene={{Scene|spell=7sqmstrike|effect=Unknown|caster=Giant Spider|missile=Poison Missile|missile_direction=south-east|missile_distance=7/7}}}} \n |{{Ability|Poison Field on target|element=poison field\n  |scene={{Scene|spell=7sqmstrike|effect=Poison Gas|caster=Giant Spider|missile=Poison Missile|missile_direction=south-east|missile_distance=7/7}}}} \n |{{Summon|Poison Spider|2}}\n |{{Haste|scene={{Scene|spell=buffspell|effect=Red Sparkles Effect|caster=Giant Spider|effect_on_caster=yes}}}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "holyDmgMod": "100%",
+    "maxdmg": "{{Max Damage|physical=300|earth=78|summons=44}}",
+    "pushable": "no",
+    "implemented": "5.0",
+    "loot": [
+        {
+            "amount": "1-195",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-12",
+            "itemName": "Poison Arrow",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Plate Armor",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Plate Legs",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Two Handed Sword",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Spider Silk",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Steel Helmet",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Strong Health Potion",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Knight Armor",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Knight Legs",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Time Ring",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Lightning Headband",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Platinum Amulet",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Fire",
+    "exp": "900",
+    "mitigation": "1.04",
+    "attacktype": "Melee",
+    "history": "A long time ago Giant Spiders used to look like this:<br />\n[[File:Giantspider.gif]]",
+    "article": "a",
+    "actualname": "giant spider",
+    "illusionable": "no",
+    "armor": "30",
+    "convince": "--",
+    "name": "Giant Spider",
+    "isboss": "no",
+    "iceDmgMod": "80%",
+    "energyDmgMod": "80%",
+    "deathDmgMod": "100%",
+    "plural": "giant spiders",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "Giant Spiders live in holes in the mountains of Tibia. They are among the most powerful monsters and are so fast that it is nearly impossible to flee. They can summon poison spiders and throw poison fields.",
+    "speed": "120",
+    "pushobjects": "yes",
+    "fireDmgMod": "110%",
+    "sounds": [
+        ""
+    ],
+    "bestiaryclass": "Vermin",
+    "creatureclass": "Invertebrates",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Arachnids",
+    "spawntype": [
+        "Regular",
+        "Raid",
+        "Triggered",
+        "Unblockable"
+    ],
+    "race_id": "38",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "giantspider",
+    "behaviour": "When using haste, Giant Spiders have similar speed to that of a level 80 [[character]]. They chase their prey relentlessly, spit poison fields around and summon [[Poison Spider]]s. Be careful, as the summoned spiders will sometimes appear in front of you, blocking your path. Giant Spiders will push or kill the Poison Spiders they summon in order to reach you and attack you with melee. Be sure to kill these spiders off first as they will break your shielding. Giant Spiders have a terrifyingly low attention span, switching targets often. Common [[Luring|lure]] in the [[Plains of Havoc]].",
+    "location": "[[Plains of Havoc]], Point of no Return in [[Outlaw Camp]], [[Ghostlands]], [[Hellgate]], [[Mintwallin]] Secret Laboratory, [[Mad Mage Room]] deep below [[Ancient Temple]], [[Mount Sternum Undead Cave]], [[Green Claw Swamp]], [[Maze of Lost Souls]], [[Crusader Helmet Quest]] in the [[Dwarf Mines]], [[Mushroom Gardens]], west [[Drillworm Caves|drillworm cave]], [[Edron]] [[Hero Cave]], [[Edron Orc Cave]], on a hill near [[Drefia]] ({{Mapper Coords|129.7|126.104|7|3|text=here}}), on a hill north-west of [[Ankrahmun]] (inaccessible), [[Forbidden Lands]], [[Deeper Banuta]] (2 small spawns, {{Mapper Coords|128.113|127.81|11|2|text=here}} and {{Mapper Coords|128.21|127.117|12|2|text=here}}), [[Malada]], [[Ramoa]], [[Arena and Zoo Quarter]], second floor up of [[Cemetery Quarter]], beneath [[Fenrock]], [[Vengoth/Castle|Vengoth Castle]], [[Vandura Mountain]], in a cave in [[Robson Isle]], [[Chyllfroest]], [[Spider Caves]], Second floor of [[Krailos Spider Lair]] , [[Caverna Exanima]].",
+    "strategy": "Giant Spiders seem to enjoy changing targets, the [[Blocking|blocker]] should use [[Challenge]] if they have [[Premium Account]] and should stand between the Giant Spider and the shooters. This makes retargetting less likely. While blocking you should also kill the Poison Spiders so they don't break your shield. Note also that they have the ability to destroy [[Fire Field]]s with their own [[Poison Field]]s if you're planning on hunting them with [[Fire Bomb]]s or [[Fire Wall]]s. There are two very good places for a first solo kill, one in the {{Mapper Coords|text=Darashia Hill|129.7|126.104|7|3|1|0.33333333333333330.3333333333333333}}, use [[Levitate]] or [[Parcel]]s, it has low space to run (recommended for [[Knight]]s); keep in mind than other player can move the parcels or you could be caught without mana and be unable to escape with Levitate. The second (for all vocations) is on a small island in the [https://tibia.fandom.com/wiki/Mapper?coords=127.255-124.230-7-4-1-1&mark1=127.242-124.230-7-20&mark2=127.253-124.230-7-6&mark3=127.215-124.234-7-12 Green Claw Swamp], with a fairly decent space to run and stairs to escape in case of an emergency. The entrance is near [[Wyda|Wyda's]] house (the skull in the map), on the way you will find creatures like [[Rotworm]]s, [[Witch]]es, [[Wasp]]s, etc<br />\n'''[[Knight]]s''' can kill them with a good weapon and high skills. A weapon imbued with fire and 80/80 skills are recommended.<br />\n'''[[Paladin]]s''' with level around 50 and [[Boots of Haste]] can just run and shoot [[Bolt]]s or [[Enchanted Spear]]s. Just remember that a [[Crossbow]] has a range of 5, while enchanted spears only have a range of 4. If you have [[Haste]], you can start hunting at level 35, but if the Giant Spider uses haste too, you might get caught. Distance Fighting at 70+ is recommended.<br />\n'''[[Mage]]s''' can use [[Strong Haste]] and shoot them with runes or [[Flame Strike]]. It is recommended to reach at least level 40-50 before trying this. [[Mage]]s should try their first solo at a single spawn (see above). At level 45+ you shouldn't need magic shield, unless there is more than one Giant Spider. If you need extra firepower you could summon [[Fire Devil]]s or [[Fire Elemental]]s."
+}

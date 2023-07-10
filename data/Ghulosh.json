@@ -1,0 +1,175 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "{{JSpoiler|Part of [[The Secret Library Quest]].}}",
+    "walksthrough": "Fire, Energy, Poison",
+    "hp": "?",
+    "speed": "?",
+    "abilities": "{{Ability List|{{Melee|0-1000}}|{{Ability|Death Beam|500-600|death}}|{{Ability|Death Wave|600-800|death}}|{{Ability|Poison Explosion on itself|200-450|earth}}}}",
+    "pushobjects": "yes",
+    "healMod": "100%?",
+    "paraimmune": "yes",
+    "fireDmgMod": "-100%",
+    "holyDmgMod": "105%",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "{{Max Damage|physical=1000|death=1400|earth=450}}",
+    "pushable": "no",
+    "cooldown": "20",
+    "implemented": "11.80.7048",
+    "loot": [
+        {
+            "itemName": "Blue Gem"
+        },
+        {
+            "amount": "0-12",
+            "itemName": "Small Topaz"
+        },
+        {
+            "itemName": "Butcher's Axe"
+        },
+        {
+            "amount": "0-5",
+            "itemName": "Crystal Coin"
+        },
+        {
+            "itemName": "Demon Horn"
+        },
+        {
+            "amount": "0-4",
+            "itemName": "Ultimate Spirit Potion"
+        },
+        {
+            "amount": "0-8",
+            "itemName": "Supreme Health Potion"
+        },
+        {
+            "amount": "0-39",
+            "itemName": "Platinum Coin"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "Mastermind Potion"
+        },
+        {
+            "itemName": "Stone Skin Amulet"
+        },
+        {
+            "itemName": "Solid Rage"
+        },
+        {
+            "itemName": "Bullseye Potion"
+        },
+        {
+            "itemName": "Berserk Potion"
+        },
+        {
+            "amount": "0-6",
+            "itemName": "Silver Token"
+        },
+        {
+            "itemName": "Ornate Tome"
+        },
+        {
+            "itemName": "Knowledgeable Book"
+        },
+        {
+            "itemName": "Unliving Demonbone"
+        },
+        {
+            "itemName": "Epaulette"
+        },
+        {
+            "itemName": "Spellbook of Lost Souls"
+        },
+        {
+            "itemName": "Gold Token"
+        },
+        {
+            "itemName": "Small Diamond"
+        },
+        {
+            "itemName": "Ultimate Mana Potion"
+        },
+        {
+            "itemName": "Small Amethyst"
+        },
+        {
+            "itemName": "Red Gem"
+        },
+        {
+            "itemName": "Mercenary Sword"
+        },
+        {
+            "itemName": "Giant Emerald"
+        },
+        {
+            "itemName": "Dreaded Cleaver"
+        },
+        {
+            "itemName": "Onyx Chip"
+        },
+        {
+            "itemName": "Slightly Rusted Helmet"
+        },
+        {
+            "itemName": "Green Gem"
+        },
+        {
+            "itemName": "Magic Sulphur"
+        },
+        {
+            "itemName": "Sinister Book"
+        },
+        {
+            "itemName": "Small Ruby"
+        },
+        {
+            "itemName": "Slightly Rusted Shield"
+        },
+        {
+            "itemName": "Yellow Gem"
+        },
+        {
+            "itemName": "Small Emerald"
+        },
+        {
+            "itemName": "Giant Shimmering Pearl"
+        },
+        {
+            "itemName": "Demonic Essence"
+        },
+        {
+            "itemName": "Violet Gem"
+        },
+        {
+            "itemName": "Ominous Book"
+        },
+        {
+            "itemName": "Wand of Voodoo"
+        }
+    ],
+    "walksaround": "None",
+    "exp": "45000",
+    "creatureclass": "Demons",
+    "earthDmgMod": "105%",
+    "physicalDmgMod": "100%?",
+    "bosstiaryclass": "Archfoe",
+    "primarytype": "Demons",
+    "race_id": "1608",
+    "senseinvis": "yes",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Ghulosh",
+    "isboss": "yes",
+    "behaviour": "It will become [[Ghulosh' Deathgaze]] after being hit for a while.",
+    "location": "The [[Secret Library]]'s Fire Section.",
+    "iceDmgMod": "80%",
+    "strategy": "{{#lsth:The Secret Library Quest/Spoiler|Ghulosh}}",
+    "energyDmgMod": "95%",
+    "deathDmgMod": "90%"
+}

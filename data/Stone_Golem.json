@@ -1,0 +1,100 @@
+{
+    "summon": "590",
+    "templateType": "Creature",
+    "notes": "Big and Resistant [[creatures]], their stone skin protects them from almost every element.\n{{JSpoiler|You may hunt 200 of these as a task of the [[Killing in the Name of... Quest]].}}",
+    "walksthrough": "Poison",
+    "hp": "270",
+    "abilities": "{{Ability List|{{Melee|0-110}}}}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "holyDmgMod": "100%",
+    "maxdmg": "{{Max Damage|physical=110}}",
+    "pushable": "no",
+    "implemented": "6.4",
+    "loot": [
+        {
+            "amount": "0-40",
+            "itemName": "Gold Coin"
+        },
+        {
+            "amount": "0-4",
+            "itemName": "Small Stone"
+        },
+        {
+            "itemName": "Sulphurous Stone"
+        },
+        {
+            "itemName": "Power Ring"
+        },
+        {
+            "itemName": "Carlin Sword",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Iron Ore",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Ancient Stone",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Shiny Stone",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Coal",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Piece of Marble Rock",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Crystal Ring",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Red Gem",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Fire, Energy",
+    "exp": "160",
+    "mitigation": "0.64",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "stone golem",
+    "illusionable": "yes",
+    "armor": "30",
+    "convince": "590",
+    "name": "Stone Golem",
+    "isboss": "no",
+    "iceDmgMod": "110%",
+    "energyDmgMod": "85%",
+    "deathDmgMod": "80%",
+    "plural": "stone golems",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "no",
+    "occurrence": "Common",
+    "bestiarytext": "Stone Golems are kind of living rocks. All their limbs are out of stone, and they live on stones. They live in the dungeons of Edron, where they find their favourite food, granite with quartz. Normally, they are peaceful, but they can get very angry about adventurers trampling on their food and try to slay the intruder using their incredible power.",
+    "speed": "90",
+    "pushobjects": "yes",
+    "fireDmgMod": "80%",
+    "sounds": [
+        ""
+    ],
+    "bestiaryclass": "Construct",
+    "creatureclass": "Elementals",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "90%",
+    "primarytype": "Geo-Elementals",
+    "race_id": "67",
+    "bestiarylevel": "Easy",
+    "senseinvis": "no",
+    "drownDmgMod": "0%",
+    "bestiaryname": "stonegolem",
+    "behaviour": "Stone Golems chase their opponents, and will not run from a fight.",
+    "location": "[[Maze of Lost Souls]], in and around [[Ashta'daramai]], [[Formorgar Mines]], [[Mad Technomancer]] room, [[Dark Cathedral]], [[Demona]], [[Goroma]], [[Tarpit Tomb]], [[Peninsula Tomb]], [[Deeper Banuta]], [[Forbidden Lands]], [[Beregar Mines]], [[Farmine Mines]], [[Drillworm Caves]], 2 caves on [[Hrodmir]] ({{Mapper Coords|125.61|121.223|7|1|text=here}} and {{Mapper Coords|125.69|122.151|8|1|text=here}}), [[Orc Fortress]] (single spawn, {{Mapper Coords|128.169|124.24|9|4|text=here}}) and [[Medusa Tower]].",
+    "strategy": "They don't take off high damage, a medium leveled [[knight]] should be able to block them easily. [[Paladin]]s should run and shoot. [[Mages]] should just run around and use [[Ice Strike]] along with their strongest ice wand/rod. Treat it like a strong [[cyclops]]."
+}

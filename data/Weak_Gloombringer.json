@@ -1,0 +1,75 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "None.",
+    "walksthrough": "?",
+    "hp": "6000",
+    "speed": "?",
+    "abilities": "{{Ability List|{{Melee|0-350}}}}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "secondarytype": "Event Creatures",
+    "fireDmgMod": "100%?",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "?",
+    "pushable": "?",
+    "implemented": "8.50",
+    "loot": [
+        {
+            "amount": "0-137",
+            "itemName": "Gold Coin"
+        },
+        {
+            "itemName": "Midnight Shard"
+        },
+        {
+            "amount": "0-3?",
+            "itemName": "Small Sapphire"
+        },
+        {
+            "amount": "0-4?",
+            "itemName": "Small Ruby"
+        },
+        {
+            "amount": "0-5",
+            "itemName": "Small Emerald"
+        },
+        {
+            "amount": "0-22",
+            "itemName": "Platinum Coin"
+        },
+        {
+            "itemName": "Gold Ingot"
+        },
+        {
+            "itemName": "Rusty Armor"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "6000",
+    "creatureclass": "Demons",
+    "earthDmgMod": "100%?",
+    "physicalDmgMod": "100%?",
+    "primarytype": "Demons",
+    "senseinvis": "?",
+    "article": "a",
+    "actualname": "weak gloombringer",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Weak Gloombringer",
+    "isboss": "no",
+    "behaviour": "They chase until death.",
+    "location": "[[Temple of Light]], during certain circumstances in the [[Lightbearer]] event.",
+    "iceDmgMod": "100%?",
+    "strategy": "Unknown.",
+    "energyDmgMod": "100%?",
+    "deathDmgMod": "100%?",
+    "status": "deprecated"
+}

@@ -1,0 +1,98 @@
+{
+    "summon": "420",
+    "templateType": "Creature",
+    "notes": "They are [[Royal Army]] traitors. A certain Wild Warrior in the [[Ghostlands]] is a master of disguise.",
+    "walksthrough": "None",
+    "hp": "135",
+    "abilities": "{{Ability List\n |{{Melee|0-70}}\n |{{Haste}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "holyDmgMod": "90%",
+    "maxdmg": "{{Max Damage|physical=70}}",
+    "pushable": "Yes",
+    "usedelements": "Physical",
+    "implemented": "5.0",
+    "loot": [
+        {
+            "amount": "0-30",
+            "itemName": "Gold Coin"
+        },
+        {
+            "itemName": "Axe",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Mace",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Brass Shield",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "Egg",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Chain Helmet",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Brass Armor",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Doll",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Iron Helmet",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Steel Shield",
+            "rarity": "rare"
+        }
+    ],
+    "walksaround": "Fire, Energy, Poison",
+    "exp": "60",
+    "mitigation": "0.46",
+    "attacktype": "Melee",
+    "history": "Wild Warriors used to drop [[War Hammer]]s, but this loot drop has been removed at some point in time.",
+    "article": "a",
+    "actualname": "wild warrior",
+    "illusionable": "yes",
+    "armor": "8",
+    "convince": "420",
+    "name": "Wild Warrior",
+    "isboss": "no",
+    "iceDmgMod": "100%",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "105%",
+    "plural": "wild warriors",
+    "hpDrainDmgMod": "100%",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "Wild Warriors are deserters of the Royal Army. Together with other criminals they have erected the so-called \"Outlaw Camp\". The king's power is too weak to reach this place, and so they feel quite safe from prosecution there. To keep up this state of lawlessness, they will attack every intruder vigorously. Equipped with heavy weapons and, due to their former training as soldiers well organised, they are quite powerful opponents.",
+    "speed": "95",
+    "pushobjects": "No",
+    "fireDmgMod": "100%",
+    "sounds": [
+        "Gimme your money!",
+        "An enemy!"
+    ],
+    "bestiaryclass": "Human",
+    "creatureclass": "Humans",
+    "earthDmgMod": "100%",
+    "physicalDmgMod": "105%",
+    "primarytype": "Outlaws",
+    "race_id": "47",
+    "bestiarylevel": "Easy",
+    "senseinvis": "no",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "wildwarrior",
+    "behaviour": "Wild Warriors run in low health.",
+    "location": "[[Dark Cathedral]], [[Outlaw Camp]], North of [[Thais]], [[Cyclopolis]], in [[Edron]] [[Hero Cave]] and around it, the small camp near [[Femor Hills]], in [[Ghostlands]] disguised as a statue.",
+    "strategy": "Wild Warriors are not very strong; if you are a '''[[Knight]]''' they are useful to train your skills.<br>For '''[[Paladin]]s''', Wild Warriors are fairly easy. If you have good enough skills, they will be dead before they reach you.<br>For '''[[Mage]]s''', using [[Rod]]s or [[Wand]]s is recommended. Low levels should run and fire. Using [[Rune]]s on these creatures is a waste of money. <br>Can be found along with other human-like monsters, just watch out for the [[Hunter]]s that are often near, as they can kill low levels and even higher levels that are not expecting them."
+}

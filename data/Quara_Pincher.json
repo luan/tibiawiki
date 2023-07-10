@@ -1,0 +1,113 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "Hard to get down because of its heavy armor. It is the slowest of the [[quaras]], equal to the speed of a lvl 95-100 (without [[Boots of Haste]]).\n\n{{JSpoiler|You may hunt 600 [[Quara Constrictor]], [[Quara Hydromancer]], [[Quara Mantassin]], Quara Pincher, [[Quara Predator]] combined, as a task of the [[Killing in the Name of... Quest]]. Upon completion of the task you will face [[Thul]].}}",
+    "walksthrough": "Fire",
+    "hp": "1800",
+    "abilities": "{{Ability List|{{Melee|0-340}}|{{Ability|Close Range Paralyze|1-3 seconds|paralyze}}}}",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "holyDmgMod": "100%",
+    "maxdmg": "{{Max Damage|physical=340}}",
+    "pushable": "?",
+    "implemented": "7.8",
+    "loot": [
+        {
+            "amount": "1-150",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Platinum Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Great Health Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Halberd",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Quara Pincers",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Small Ruby",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-5",
+            "itemName": "Shrimp",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Fish Fin",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Warrior Helmet",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Crown Armor",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Glacier Robe",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Giant Shrimp",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Energy, Poison",
+    "exp": "1200",
+    "mitigation": "0.99",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "quara pincher",
+    "illusionable": "no",
+    "armor": "85",
+    "convince": "--",
+    "name": "Quara Pincher",
+    "isboss": "no",
+    "iceDmgMod": "0%",
+    "energyDmgMod": "125%",
+    "deathDmgMod": "100%",
+    "plural": "quara pinchers",
+    "hpDrainDmgMod": "0%",
+    "usespells": "yes",
+    "lightcolor": "35",
+    "occurrence": "Common",
+    "bestiarytext": "Transformed into a living and walking fortress, there is little a Quara Pincher has to fear. Seemingly unstoppable, they attack stoically without remorse or hesitation. It is rumoured that the grip of their pincers can break a good sword into pieces. Being aware of the facts that they are somewhat clumsy and rather simpleminded, gives one an advantage whenever fighting a Quara Pincher. Another chance to win a fight against them is to duel them ashore where they are much weaker than in water, their natural habitat. Quara Pinchers  are usually encountered along with other quara who probably serve as their superiors and leaders. In larger battles the Quara Pinchers fortify the positions of the troops and provide cover for the other quara while they move forward.",
+    "speed": "198",
+    "pushobjects": "?",
+    "fireDmgMod": "0%",
+    "sounds": [
+        "Clank! Clank!",
+        "Clap!",
+        "Crrrk! Crrrk!"
+    ],
+    "lightradius": "2",
+    "bestiaryclass": "Aquatic",
+    "creatureclass": "Amphibians",
+    "earthDmgMod": "110%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Quara",
+    "spawntype": [
+        "Regular",
+        "Unblockable"
+    ],
+    "race_id": "245",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "drownDmgMod": "0%",
+    "bestiaryname": "quarapincher",
+    "behaviour": "Fights until death.",
+    "location": "[[Calassa]], [[Frozen Trench]], [[Yalahar]] ([[Sunken Quarter]]).",
+    "strategy": "'''[[Paladin]]s''': Run while firing [[Heavy Magic Missile|HMMs]] or [[Divine Missile]]s.<br>'''[[Mage]]s''': A level 75+ can kill it without [[Mana Shield]], using [[Energy Strike]] or [[Terra Strike]] and healing spells. This is risky though, especially if you face more than just the single pincher.<br>'''[[Knight]]s''': Use your best spells to kill them fast since they can hurt a lot."
+}

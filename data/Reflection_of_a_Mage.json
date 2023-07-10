@@ -1,0 +1,89 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "reflections of a Mage",
+    "hpDrainDmgMod": "100%?",
+    "notes": "It's somehow related to the [[Raging Mage]] and very similar to it in power. \n\n{{JSpoiler|Part of the [[Opticording Sphere Quest]].}}",
+    "walksthrough": "?",
+    "hp": "3500",
+    "speed": "?",
+    "abilities": "{{Ability List| {{Melee|0-30+}}|{{Ability|[[Fire Missile (Spell)|Fire Missile]]|0-200+|element=fire}}|{{Ability|[[Mana Drain]]|0-100+|element=manadrain}}|{{Ability|Shoots [[Fire Bomb]]|element=fire field}}|{{Summon|Golden Servant|1}}|{{Ability|[[Rage of the Skies]]|0-?|element=?}} }}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "100%?",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "?",
+    "pushable": "?",
+    "implemented": "11.50.6055",
+    "loot": [
+        {
+            "amount": "0-250",
+            "itemName": "Gold Coin"
+        },
+        {
+            "amount": "0-12",
+            "itemName": "Platinum Coin"
+        },
+        {
+            "amount": "0-10",
+            "itemName": "Assassin Star"
+        },
+        {
+            "amount": "0-5",
+            "itemName": "Great Mana Potion"
+        },
+        {
+            "amount": "0-5",
+            "itemName": "Small Sapphire"
+        },
+        {
+            "itemName": "Luminous Orb"
+        },
+        {
+            "itemName": "Stealth Ring"
+        },
+        {
+            "itemName": "Piggy Bank"
+        },
+        {
+            "itemName": "Mind Stone"
+        },
+        {
+            "itemName": "Great Health Potion"
+        },
+        {
+            "itemName": "Bullseye Potion"
+        },
+        {
+            "itemName": "Crystal of Power"
+        },
+        {
+            "itemName": "Dark Mushroom"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "3250",
+    "creatureclass": "Humans",
+    "earthDmgMod": "100%?",
+    "physicalDmgMod": "100%?",
+    "primarytype": "Sorcerers",
+    "senseinvis": "?",
+    "article": "a",
+    "actualname": "reflection of a Mage",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Reflection of a Mage",
+    "isboss": "no",
+    "behaviour": "Attacks at close range and runs at very low HP.",
+    "location": "[[Chamber of Reflections]]",
+    "iceDmgMod": "100%?",
+    "strategy": "It's very weak and shouldn't pose any threat if you are planing on killing the other bosses that spawn in the same room.",
+    "energyDmgMod": "100%?",
+    "deathDmgMod": "100%?"
+}

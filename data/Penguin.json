@@ -1,0 +1,68 @@
+{
+    "summon": "290",
+    "templateType": "Creature",
+    "walksthrough": "None",
+    "hp": "33",
+    "abilities": "{{Ability List|{{Melee|0-3}}}}",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "holyDmgMod": "100%",
+    "maxdmg": "{{Max Damage|physical=3}}",
+    "pushable": "?",
+    "usedelements": "Physical",
+    "implemented": "8.00",
+    "loot": [
+        {
+            "amount": "1-2",
+            "itemName": "Fish",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Green Perch",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Rainbow Trout",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Fire, Energy, Poison",
+    "exp": "1",
+    "mitigation": "0.07",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "penguin",
+    "illusionable": "yes",
+    "armor": "2",
+    "convince": "290",
+    "name": "Penguin",
+    "isboss": "no",
+    "iceDmgMod": "80%",
+    "energyDmgMod": "110%",
+    "deathDmgMod": "100%",
+    "plural": "penguins",
+    "hpDrainDmgMod": "100%",
+    "usespells": "no",
+    "occurrence": "Common",
+    "bestiarytext": "The Penguin is an evil bird species that sacrificed its ability to fly to some dark Penguin god in exchange for unknown but doubtlessly sinister rewards. The scheming Penguins gather in large groups to plot their vile plans which likely involve the sinking of ships and the downfall of man in general. The dark nature of the Penguin probably lead to its salty, oily and almost inedible taste. Still the northmen insist that Penguins provide valuable resources which only proves their backward and barbaric character. Considering their cruel and cunning disposition, one can only guess what the Penguins are really up to. Perhaps it was them who have been responsible for the years of the serpents or maybe they are even the driving force behind the maritime quara. Though usually physically weak, the power of their dark god sometimes manifests in the form of a so-called Dire Penguin - a dreadful beast that is known to cut of a grown man's arm with one bite of its beak. Driven by the desire to conquer and to destroy and gifted with incredible strength, it roams the ice in search of prey. This luckily rare monster is an immense threat to all unwary adventurers who approach a Penguin colony unsuspectingly.",
+    "speed": "58",
+    "pushobjects": "?",
+    "fireDmgMod": "100%",
+    "sounds": [
+        ""
+    ],
+    "runsat": "32",
+    "bestiaryclass": "Bird",
+    "creatureclass": "Misc",
+    "earthDmgMod": "100%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Birds",
+    "race_id": "318",
+    "bestiarylevel": "Trivial",
+    "senseinvis": "no",
+    "drownDmgMod": "100%",
+    "bestiaryname": "penguin",
+    "behaviour": "They like to fight in close combat.",
+    "location": "In and north of [[Formorgar Glacier]], [[Nibelor]], [[Helheim]], [[Grimlund]], south of [[Svargrond]], [[Chyllfroest]].",
+    "strategy": "Just attack them. To save time, you might want to gather tons of them and kill with an AoE spell/rune."
+}

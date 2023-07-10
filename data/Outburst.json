@@ -1,0 +1,181 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "?",
+    "hpDrainDmgMod": "100%?",
+    "notes": "A boss in the [[Heart of Destruction Quest]].",
+    "walksthrough": "?",
+    "hp": "290000",
+    "speed": "?",
+    "abilities": "{{Ability List|}}",
+    "pushobjects": "yes",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "secondarytype": "Electro-Elementals",
+    "fireDmgMod": "110%",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "?",
+    "pushable": "no",
+    "runsat": "0",
+    "implemented": "10.94",
+    "cooldown": "20",
+    "loot": [
+        {
+            "amount": "100",
+            "itemName": "Gold Coin"
+        },
+        {
+            "amount": "10",
+            "itemName": "Small Sapphire"
+        },
+        {
+            "amount": "10",
+            "itemName": "Small Amethyst"
+        },
+        {
+            "amount": "5",
+            "itemName": "Great Mana Potion"
+        },
+        {
+            "amount": "5",
+            "itemName": "Great Spirit Potion"
+        },
+        {
+            "amount": "3",
+            "itemName": "Green Crystal Shard"
+        },
+        {
+            "amount": "3",
+            "itemName": "Violet Crystal Shard"
+        },
+        {
+            "amount": "3",
+            "itemName": "Blue Crystal Shard"
+        },
+        {
+            "itemName": "Red Gem"
+        },
+        {
+            "itemName": "Green Gem"
+        },
+        {
+            "itemName": "Ring of Blue Plasma"
+        },
+        {
+            "itemName": "Collar of Red Plasma"
+        },
+        {
+            "itemName": "Lightning Headband"
+        },
+        {
+            "itemName": "Instable Proto Matter"
+        },
+        {
+            "itemName": "Energy Ball"
+        },
+        {
+            "amount": "4",
+            "itemName": "Gold Token",
+            "rarity": "always"
+        },
+        {
+            "itemName": "Mysterious Remains"
+        },
+        {
+            "itemName": "Tiara of Power"
+        },
+        {
+            "itemName": "Void Boots"
+        },
+        {
+            "itemName": "Collar of Green Plasma"
+        },
+        {
+            "itemName": "Platinum Coin"
+        },
+        {
+            "itemName": "Chaos Mace"
+        },
+        {
+            "itemName": "Small Ruby"
+        },
+        {
+            "itemName": "Yellow Gem"
+        },
+        {
+            "itemName": "Small Emerald"
+        },
+        {
+            "itemName": "Energy Drink"
+        },
+        {
+            "itemName": "Ultimate Health Potion"
+        },
+        {
+            "itemName": "Giant Shimmering Pearl"
+        },
+        {
+            "itemName": "Small Topaz"
+        },
+        {
+            "itemName": "Ring of Red Plasma"
+        },
+        {
+            "itemName": "Composite Hornbow"
+        },
+        {
+            "itemName": "Blue Gem"
+        },
+        {
+            "itemName": "Collar of Blue Plasma"
+        },
+        {
+            "itemName": "Violet Gem"
+        },
+        {
+            "itemName": "Amber Staff"
+        },
+        {
+            "itemName": "Ring of Green Plasma"
+        },
+        {
+            "itemName": "Bonebreaker"
+        },
+        {
+            "itemName": "Lightning Robe"
+        },
+        {
+            "itemName": "War Axe"
+        },
+        {
+            "itemName": "Lightning Legs"
+        },
+        {
+            "itemName": "Crystalline Sword"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "50000",
+    "creatureclass": "Invertebrates",
+    "earthDmgMod": "100%",
+    "physicalDmgMod": "100%?",
+    "bosstiaryclass": "Archfoe",
+    "primarytype": "Cnidarians",
+    "race_id": "1227",
+    "senseinvis": "?",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Outburst",
+    "isboss": "yes",
+    "behaviour": "He will transform into [[Charging Outburst]] after taking some damage. This will occur a few times.",
+    "location": "[[Otherworld]], {{Mapper Coords|125.210|122.52|14|2|text=here}}.",
+    "iceDmgMod": "100%?",
+    "strategy": "Trap him and kill him.",
+    "energyDmgMod": "110%",
+    "deathDmgMod": "50%?"
+}

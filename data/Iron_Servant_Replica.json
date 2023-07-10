@@ -1,0 +1,83 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "It is a replica of an [[Iron Servant]], with some changes.",
+    "isarenaboss": "no",
+    "walksthrough": "None",
+    "hp": "1000",
+    "abilities": "{{Ability List| {{Melee|0-154+}}|{{Ability|[[Explosion]]|0-162+|element=?}}|{{Ability|Shoots [[Dazzled]]|1 second [[Drunkenness]]|element=drunk}} }}",
+    "healMod": "100%",
+    "paraimmune": "?",
+    "holyDmgMod": "80%",
+    "maxdmg": "316+",
+    "pushable": "no",
+    "implemented": "11.02.4128",
+    "loot": [
+        {
+            "amount": "0-40",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Health Potion",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Gear Wheel",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Halberd",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Heavily Rusted Armor",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Slime Mould",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Poison, Fire, Energy",
+    "exp": "210",
+    "mitigation": "0.62",
+    "attacktype": "Melee",
+    "article": "an",
+    "actualname": "iron servant replica",
+    "illusionable": "yes",
+    "armor": "17",
+    "convince": "--",
+    "name": "Iron Servant Replica",
+    "isboss": "no",
+    "iceDmgMod": "100%",
+    "energyDmgMod": "75%",
+    "deathDmgMod": "110%",
+    "plural": "iron servant replicas",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "speed": "95",
+    "pushobjects": "yes",
+    "fireDmgMod": "75%",
+    "sounds": [
+        ""
+    ],
+    "runsat": "0",
+    "bestiaryclass": "Construct",
+    "creatureclass": "Misc",
+    "earthDmgMod": "110%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Machines",
+    "spawntype": [
+        "Regular",
+        "Triggered"
+    ],
+    "race_id": "1325",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "behaviour": "Fights in close combat.",
+    "location": "[[Replica Dungeon]]",
+    "strategy": "Simply kill it."
+}

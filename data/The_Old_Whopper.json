@@ -1,0 +1,73 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "New creature in [[Updates/8.2|Summer Update 2008]]. He spawns with several cyclopes smiths.",
+    "isarenaboss": "no",
+    "walksthrough": "?",
+    "hp": "785",
+    "speed": "?",
+    "abilities": "{{Ability List| {{Melee|0-175+}}|{{Ability|Drunkwave|3 sqm in front of himself; makes you ''very'' drunk|element=drunk}} }}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "100%?",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        "Han oydar hot auden oydar",
+        "Other humy, other taste"
+    ],
+    "maxdmg": "175",
+    "pushable": "?",
+    "implemented": "8.20",
+    "loot": [
+        {
+            "amount": "0-106",
+            "itemName": "Gold Coin"
+        },
+        {
+            "itemName": "Meat"
+        },
+        {
+            "itemName": "Ham"
+        },
+        {
+            "itemName": "Cyclops Toe"
+        },
+        {
+            "itemName": "Cyclops Trophy"
+        },
+        {
+            "itemName": "Spiked Squelcher"
+        },
+        {
+            "itemName": "Plate Shield"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "750",
+    "creatureclass": "Humanoids",
+    "earthDmgMod": "100%?",
+    "physicalDmgMod": "100%?",
+    "bosstiaryclass": "Nemesis",
+    "primarytype": "Giants",
+    "spawntype": [
+        "Raid",
+        "Unique",
+        "Unblockable"
+    ],
+    "race_id": "422",
+    "senseinvis": "yes",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "The Old Whopper",
+    "isboss": "yes",
+    "behaviour": "Fights until death.",
+    "location": "The Old Whopper spawns before the level 30 door leading to the [[Behemoth Quest]] at floor -4 of [[Cyclopolis]], ({{Mapper Coords|130.34|123.179|11|4|text=here}}).",
+    "iceDmgMod": "100%?",
+    "strategy": "It's a very easy creature, just kill it.",
+    "energyDmgMod": "100%?",
+    "deathDmgMod": "100%?"
+}

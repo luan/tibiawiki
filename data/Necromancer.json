@@ -1,0 +1,109 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "Necromancers have really valuable [[item]]s in their loot: [[Boots of Haste]], [[Noble Axe]]s and [[Skull Staff]]s. They have a weak defense so even knights are able to kill them with a litte limitation: their [[Death Hit]] works only if you stand next to them. \n {{JSpoiler|You may hunt 4000 of these along with [[Priestess]]es, [[Blood Hand]]s, [[Blood Priest]]s and [[Shadow Pupil]]s as a [[Killing in the Name of... Quest/Spoiler#Unranked Tasks|task for Lugri]]. Upon completion of the task you will face [[Necropharus]]. The task can be repeated several times but only grants you 40,000 [[Experience|experience points]] from the second time and onwards.}}",
+    "walksthrough": "Poison",
+    "hp": "580",
+    "abilities": "{{Ability List\n |{{Melee|0-80|poison=8}}\n |{{Ability|[[Death Hit]]|10-120|element=death}}\n |{{Ability|Earth Missile|35-95|earth\n  |scene={{Scene|spell=7sqmstrike|effect=Poison Effect 3|caster=necromancer|missile=Poison Missile|missile_direction=south-east|missile_distance=7/7}}}}\n |{{Healing|range=42-68|scene={{Scene|spell=buffspell|effect=Blue Sparkles Effect|caster=necromancer|effect_on_caster=yes}}}}\n |{{Summon|Ghoul|2}}\n |{{Summon|Ghost|1}}\n |{{Summon|Mummy|1}}\n }}",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "holyDmgMod": "105%",
+    "maxdmg": "{{Max Damage|physical=80|death=120|earth=128|summons=258}}",
+    "pushable": "?",
+    "implemented": "5.1",
+    "loot": [
+        {
+            "amount": "0-90",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "amount": "0-5",
+            "itemName": "Poison Arrow",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Book of Necromantic Rituals",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Green Mushroom",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Necromantic Robe",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Mystic Turban",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Clerical Mace",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Strong Mana Potion",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Boots of Haste",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Skull Staff",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Spellbook of Warding",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Noble Axe",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Fire, Energy",
+    "exp": "580",
+    "mitigation": "1.04",
+    "attacktype": "Distance",
+    "history": "Although the sprites for necromancers were implemented on [[Updates/5.1|Update 5.1]], the first known spawns of this creature were only implemented with [[Drefia]] on the [[Updates/6.61-6.97|Darashia Update]].",
+    "article": "a",
+    "actualname": "necromancer",
+    "illusionable": "no",
+    "armor": "50",
+    "convince": "--",
+    "name": "Necromancer",
+    "isboss": "no",
+    "iceDmgMod": "90%",
+    "energyDmgMod": "80%",
+    "deathDmgMod": "50%",
+    "plural": "necromancers",
+    "hpDrainDmgMod": "100%",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "Necromancers are powerful magicians who pursue studies on undead creatures in the haunted ruins of Drefia on Darama.Nobody knows what they intend to use their perilous knowledge for and which dreadful secrets they already have discovered, but adventurers, who have managed to escape from their realm, report that they are able to summon several kinds of undead creatures like skeletons, ghouls, and mummies. They can heal themselves and they know how to drain life energy off their opponents. Although they are quite strong fighters, they prefer distance fighting, namely shooting magic missiles and letting their summoned servants fight for them.",
+    "speed": "94",
+    "pushobjects": "?",
+    "fireDmgMod": "105%",
+    "sounds": [
+        "Taste the sweetness of death!",
+        "Your corpse will be mine."
+    ],
+    "bestiaryclass": "Human",
+    "creatureclass": "Humans",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "105%",
+    "primarytype": "Necromancers",
+    "spawntype": [
+        "Regular"
+    ],
+    "race_id": "9",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "drownDmgMod": "0%",
+    "bestiaryname": "necromancer",
+    "behaviour": "Necromancers [[distance]] themselves from their opponent, shoot a [[distance]] [[Earth|poison]] attack and [[summon]] [[undead|undead creatures]]. They shoot less on you if you stand on distance than if you stand close.",
+    "location": "All the [[Tomb]]s, [[Lich Hell]], [[Drefia]], [[Medusa Shield Quest]] room, [[Old Fortress]], [[Old Masonry]], beneath [[Fenrock]], [[Cemetery Quarter]], [[Magician Quarter]], [[Mother of Scarabs Lair]].",
+    "strategy": "The most cost-effective way to hunt Necromancers by soloing is for [[knight]]s  and [[paladin]]s to be of level 60+, for [[mage]]s it is of level 40+.<br />\n'''[[Mage]]s''': The best way to attack them using fire or ice spells, perhaps using runes like [[GFB]] and [[avalanche]] to help kill their summons. Lower level mages can summon [[demon skeleton]]s, as it is much safer to make the Necromancer target them. While killing a few Necromancers at once, you should be careful, as they can surround fairly quickly with summons and while hitting you from distance. <br />\nHigher level [[Mage]]s need only hunt these by using [[Strong Mana Potion]]s, as you'll only need to use [[Flame Strike]] and [[exura]]. But be careful, if you run into a spawn with 2-3 necros they can still easily trap you with their summons and that could result in a lot of mana being wasted. Try to stand still and use [[Fire Wave]] since they will keep exactly 4 sqm distance from you which makes it easy to defeat up to 5 necros with a few waves.<br />\n\n'''[[Knights]]''' of approximately level 70+ can easily hunt these creatures after the [[Summer Update 2007]]. Just run up to them and melee them using [[exura ico]] and [[Soft Boots]], you will need very little [[Strong Health Potion]]s or [[Great Health Potion]]s like this.<br />\n\n'''[[Paladins]]''' can also use this strategy to kill Necromancers, except that they have to stay at a distance and maybe run around to avoid being hit by it's summons."
+}

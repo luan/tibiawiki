@@ -1,0 +1,78 @@
+{
+    "summon": "505",
+    "templateType": "Creature",
+    "notes": "{{JSpoiler|You may hunt 300 of these as a task of the [[Killing in the Name of... Quest]].}}",
+    "walksthrough": "None",
+    "hp": "365",
+    "abilities": "{{Ability List|{{Melee|0-100}}|{{Ability|Poison Hit|5-16|poison}}}}",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "holyDmgMod": "100%",
+    "maxdmg": "{{Max Damage|physical=100|earth=16}}",
+    "pushable": "yes",
+    "implemented": "8.54",
+    "loot": [
+        {
+            "amount": "1-45",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Terramite Legs",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Terramite Shell",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "Terramite Eggs",
+            "rarity": "semi-rare"
+        }
+    ],
+    "walksaround": "Fire, Energy, Poison",
+    "exp": "160",
+    "mitigation": "0.56",
+    "attacktype": "Melee",
+    "history": "The loot was improved in [[Updates/9.86|9.86]]. They now drop more creature products and gold.",
+    "article": "a",
+    "actualname": "terramite",
+    "illusionable": "yes",
+    "armor": "15",
+    "convince": "505",
+    "name": "Terramite",
+    "isboss": "no",
+    "iceDmgMod": "100%",
+    "energyDmgMod": "105%",
+    "deathDmgMod": "100%",
+    "plural": "terramites",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "no",
+    "occurrence": "Common",
+    "bestiarytext": "The Terramites share the same fondness for wood like their smaller cousins, the termites. Sadly their appetite extends to all other kind of organic substances, including livestock and sentient beings. Given the insatiable appetite of a Terramite colony, the potential for destruction caused by an unhindered population is extreme. Both, the orcs and the lizard people, consider the Terramites as delicacies.<br />Usually the Terramites are content with the things they find in the underground but if the colony is starving, some scouts are sent out to look for more fertile areas. They consider each and everything they find in the earth as potential food, and the unlucky fellow that curiously explores one of their mounds, learns soon enough about their warlike welcome for any intruder.<br />Unlike other insects, Terramites are generalists and lack the distinction between workers, warriors and queens. This makes it rather difficult to extinguish a colony. It is unknown what - instead of a queen - holds a colony together, but a Terramite colony seems to run effectively even without a leader.",
+    "speed": "111",
+    "pushobjects": "no",
+    "fireDmgMod": "110%",
+    "sounds": [
+        "Zrp zrp!"
+    ],
+    "bestiaryclass": "Vermin",
+    "creatureclass": "Invertebrates",
+    "earthDmgMod": "80%",
+    "physicalDmgMod": "95%",
+    "primarytype": "Insects",
+    "spawntype": [
+        "Regular",
+        "Raid",
+        "Unblockable"
+    ],
+    "race_id": "631",
+    "bestiarylevel": "Easy",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "terramite",
+    "behaviour": "Fights until death.",
+    "location": "Steppe of [[Zao]], [[Lion's Rock]], [[Zao Terramite Caves]], [[Darama Terramite Cave]], [[Terramite Breeding Tunnels]]. Also [[Ankrahmun Raids|raids]] desert north of [[Ankrahmun]].",
+    "strategy": "Similar to [[Tarantula]]s or [[Cyclops]]es."
+}

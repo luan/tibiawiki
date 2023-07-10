@@ -1,0 +1,203 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "It's the true form of the [[Frost Flower Asura]].",
+    "walksthrough": "Fire, Energy, Poison",
+    "hp": "4000",
+    "abilities": "{{Ability List|}}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "secondarytype": "Asuri",
+    "holyDmgMod": "70%",
+    "maxdmg": "?",
+    "pushable": "no",
+    "implemented": "11.80.7048",
+    "loot": [
+        {
+            "amount": "0-7",
+            "itemName": "Platinum Coin",
+            "rarity": "common"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "Great Health Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "0-3",
+            "itemName": "Small Enchanted Sapphire",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Silver Brooch",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "White Pearl",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "Black Pearl",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "0-3",
+            "itemName": "Small Diamond",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "0-3",
+            "itemName": "Small Sapphire",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "Small Ruby",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "0-5",
+            "itemName": "Small Emerald",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Crystal Coin",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Soul Orb",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "0-3",
+            "itemName": "Demonic Essence",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Flask of Demonic Blood",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "0-4",
+            "itemName": "Assassin Star",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "Small Topaz",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Golden Lotus Brooch",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Peacock Feather Fan",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Crystal Ring",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Yellow Gem",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Blue Gem",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Silver Amulet",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Hailstorm Rod",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Tribal Mask",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Blue Robe",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Spellbook of Mind Control",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Northwind Rod",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Gold Ingot",
+            "rarity": "semi-rare"
+        },
+        {
+            "amount": "0-3",
+            "itemName": "Royal Star",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Assassin Dagger",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Skullcracker Armor",
+            "rarity": "rare"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "Oriental Shoes",
+            "rarity": "rare"
+        }
+    ],
+    "walksaround": "None",
+    "exp": "7069",
+    "mitigation": "2.11",
+    "attacktype": "Distance",
+    "history": "Its experience was decreased from 8700 to 5655 with the third batch of changes of [[Updates/12.31|Update 12.31]] and raised to 7069 with its eighth batch.",
+    "article": "a",
+    "actualname": "true frost flower asura",
+    "illusionable": "no",
+    "armor": "72",
+    "convince": "--",
+    "name": "True Frost Flower Asura",
+    "isboss": "no",
+    "iceDmgMod": "0%",
+    "energyDmgMod": "110%",
+    "deathDmgMod": "80%",
+    "plural": "true frost flower asuras",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "Asuri are demonic creatures who can hide their true face and appear in the form of beautiful women. Although they often take on a seductive appearance, they show their true form as soon as there is no need for charade. In this case they appear as tall, beautiful women with four arms, fangs and glowing eyes. These demonesses are driven mainly by greed and envy. They enter the mortal world because they begrudge humans and other peoples their vigour, beauty and happiness. They seek to destroy positive feelings as love, contentment and mirth, because herefrom they gain their energy. An asura especially stalks men she regards as handsome and happy. These victims are lured into gorgeous palaces full of riches and conveniences, inhabited by several asuri. There they ensnare the men with amusements such as wine, music, dance and intoxicating substances that indulge their senses and make them submissive and weak-willed. Then the asuri divest them of vitality and beauty. When an asura gets weary of her victim or if captives unexpectedly oppose the demonesses, these unfortunates come to know the true face of the palace: As the asuri show a beautiful face outwardly and are in truth terrible demons, likewise the palace, behind its marvelous veneer, is full of prison cells, torture chambers and even rooms where sacrificial altars await the asuri's emaciated victims. \n\nThere are several kinds of asuri. The frost flower asuri have pale skin and white hair, favouring clothes in the colours white and light blue. They are associated with ice and snow and prefer to use magic rather than weapons.",
+    "speed": "150",
+    "pushobjects": "yes",
+    "fireDmgMod": "110%",
+    "sounds": [
+        ""
+    ],
+    "runsat": "0",
+    "bestiaryclass": "Demon",
+    "creatureclass": "Demons",
+    "earthDmgMod": "110%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Demons",
+    "spawntype": [
+        "Regular",
+        "Unblockable"
+    ],
+    "race_id": "1622",
+    "bestiarylevel": "Hard",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "truefrostflower",
+    "behaviour": "The true frost flower asuri attack from a distance.",
+    "location": "[[Asura Palace]], [[Asura Vaults]]",
+    "strategy": "These Asuri are more annoying than their [[True Midnight Asura|Midnight]] and [[True Dawnfire Asura|Dawnfire]] companions but deal slightly less damage. They will usually remain alive after killing a large group of Asuri, and it's recommended to finish them off using runes, distance spells and attacks or by trapping them against a corner. Chasing the True Frost Flower Asuri may be very dangerous since you might encounter many other True Asuri and [[Hellhound]]s."
+}

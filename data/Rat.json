@@ -1,0 +1,70 @@
+{
+    "summon": "200",
+    "templateType": "Creature",
+    "notes": "You can also sell [[dead rat]]s to NPCs [[Seymour]], [[Billy]] and [[Tom]] on [[Rookgaard]] for additional [[gold coin|cash]]. Also [[Baxter]] in thais buy rats for 1[[gp]].<br />\nIt is said that rats are Servants of [[Urgith]].<br />\nLooks the same as a [[Ghost Rat]].",
+    "walksthrough": "?",
+    "hp": "20",
+    "abilities": "{{Ability List|{{Melee|0-8}}}}",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "holyDmgMod": "80%",
+    "maxdmg": "{{Max Damage|physical=8}}",
+    "pushable": "yes",
+    "usedelements": "Physical",
+    "implemented": "Pre-6.0",
+    "loot": [
+        {
+            "amount": "1-4",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Cheese",
+            "rarity": "common"
+        }
+    ],
+    "walksaround": "Fire, Energy, Poison",
+    "exp": "5",
+    "mitigation": "0.07",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "rat",
+    "illusionable": "yes",
+    "armor": "1",
+    "convince": "200",
+    "name": "Rat",
+    "isboss": "no",
+    "iceDmgMod": "110%",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "110%",
+    "plural": "rats",
+    "hpDrainDmgMod": "100%",
+    "usespells": "no",
+    "occurrence": "Common",
+    "bestiarytext": "Rats live in the sewers of each town, in holes, and in dungeons. Cropping up in masses they are a real plague, and the governments pay head money for dead Rats. They are quite weak, but in packs they can be dangerous for badly equipped adventurers.",
+    "speed": "67",
+    "pushobjects": "no",
+    "fireDmgMod": "100%",
+    "sounds": [
+        "Meep!"
+    ],
+    "runsat": "5",
+    "bestiaryclass": "Mammal",
+    "creatureclass": "Mammals",
+    "earthDmgMod": "80%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Glires",
+    "spawntype": [
+        "Regular",
+        "Raid",
+        "Unblockable"
+    ],
+    "race_id": "21",
+    "bestiarylevel": "Trivial",
+    "senseinvis": "no",
+    "drownDmgMod": "100%",
+    "bestiaryname": "rat",
+    "behaviour": "Rats attack at a close range using [[Melee]].",
+    "location": "[[Rookgaard]] and [[Mainland]], in most sewers and caves near towns. They can be found almost everywhere in Tibia.",
+    "strategy": "'''Any Vocation:''' Just attack them, they shouldn't be a problem to a level 8+ (if it isn't a raid).<br />\n'''No Vocation:''' Be careful with them, if many rats come to you, try to stand in a place where only 1 or 2 rats can attack you and try to avoid getting trapped by them."
+}

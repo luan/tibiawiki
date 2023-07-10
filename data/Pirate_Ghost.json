@@ -1,0 +1,85 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "0%",
+    "notes": "These chilling phantoms haunt the underground chambers on [[Nargor]] and can also be found on [[Goroma]] and [[Treasure Island]]. Like their weaker counterparts, [[Ghost]]s, they are immune to all physical damage. They offer good experience for [[Mage]]s, because they are easier to kill in comparison to [[Undead]]s like [[Demon Skeleton]]s. They also give decent loot for the expense.",
+    "walksthrough": "Poison",
+    "hp": "275",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "Considering the lifestyle of a pirate, it is no real surprise that several of them end up as cursed souls - never able to acquire some sort of afterlife. Bound to the world of the living, they continue their evil lifework of spreading fear and of murder. Almost impossible to be hurt, they pursue their victims with reckless malice that is frightful on its own. They posses several powers that are common to ghosts, but they seem to be slightly more accustomed and adapted to murder than others of their kind. While other ghosts seem more concerned about themselves and their dire fate, the Pirate Ghost actually seems to enjoy to inflict pain on the living ones. Some say, making others suffer lets them better bear their own misery.",
+    "speed": "105",
+    "abilities": "{{Ability List| {{Melee|0-95|poison=2}}|{{Ability|[[Life Drain]]|30-80|element=lifedrain}}|{{Ability|[[Creature Spells#Musical Explosion|Musical Explosion]]|0-65 on itself|element=death}}|{{Healing}} }}",
+    "pushobjects": "?",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "secondarytype": "Ghosts",
+    "fireDmgMod": "100%",
+    "holyDmgMod": "125%",
+    "sounds": [
+        "Yooh Ho Hooh Ho!",
+        "Hell is waiting for You!",
+        "It's alive!",
+        "The curse! Aww the curse!",
+        "You will not get my treasure."
+    ],
+    "maxdmg": "240",
+    "pushable": "?",
+    "implemented": "7.8",
+    "bestiaryclass": "Undead",
+    "loot": [
+        {
+            "amount": "1-67",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Tattered Piece of Robe",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Parchment (Rewritable)",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Stealth Ring",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Red Robe",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Spike Sword",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Fire, Energy",
+    "exp": "250",
+    "creatureclass": "The Undead",
+    "earthDmgMod": "0%",
+    "mitigation": "0.78",
+    "physicalDmgMod": "0%",
+    "primarytype": "Pirates",
+    "spawntype": [
+        "Regular",
+        "Unblockable"
+    ],
+    "race_id": "257",
+    "attacktype": "Melee",
+    "bestiarylevel": "Easy",
+    "senseinvis": "no",
+    "illusionable": "yes",
+    "armor": "30",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "bestiaryname": "pirateghost",
+    "name": "Pirate Ghost",
+    "isboss": "no",
+    "behaviour": "Pirate Ghosts will attack relentlessly until they die.",
+    "location": "[[Drefia]], [[Goroma]], [[Nargor Undead Cave]], hidden caves under [[Treasure Island]], [[Liberty Bay]] ruins (single spawn), [[The Cave]] (single spawn) and [[Chyllfroest]] (unreachable).",
+    "iceDmgMod": "100%",
+    "strategy": "They aren't very fast so you can use runes from a distance (preferably [[HMM]]s), while larger groups should be disposed of with well-aimed [[GFB]]. Mages will do best with [[Energy Strike]], as this will give better profit than [[HMM]]s. Also field spells won't be as effective as on regular [[Ghost]]s since they heal quite a lot.",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "0%"
+}

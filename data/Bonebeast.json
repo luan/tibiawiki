@@ -1,0 +1,107 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "Skeletal creatures, they are summoned by [[Lich]]es. After a patch, '''Bonebeasts''' started using the [[Poison Beam]]. Can be skinned to get [[Hardened Bone]]s. See also: [[Hardened Bone/Skinning]].\n{{JSpoiler|You may hunt 300 of these as a task of the [[Killing in the Name of... Quest]]. Upon completion of the task you will face [[Ribstride]].}}",
+    "walksthrough": "Poison",
+    "hp": "515",
+    "abilities": "{{Ability List\n |{{Melee|0-200|poison=6}}\n |{{Ability|Life Drain Berserk|25-47+|lifedrain\n  |scene={{Scene|spell=3x3spell|effect=Red Sparkles Effect|caster=Bonebeast|effect_on_caster=yes}}}}\n |{{Ability|Envenom|50-90|earth\n  |scene={{Scene|spell=5sqmstrike|background=canvas|effect=Poison Effect 3|caster=Bonebeast|look_direction=south|missile=Poison Missile|missile_direction=south-east|missile_distance=5/5}}}}\n |{{Ability|Poison Berserk|3 hp/turn|poisoned\n  |scene={{Scene|spell=3x3spell|effect=Poison Effect 3|caster=Bonebeast|effect_on_caster=yes}}}}\n |{{Ability|Poison Beam|4 hp/turn|poisoned\n  |scene={{Scene|spell=5sqmbeam|effect=Poison Effect 3|caster=Bonebeast|look_direction=east}}}}\n |{{Ability|Paralyze||slowed}}\n |{{Healing|range=30-60\n  |scene={{Scene|spell=buffspell|effect=Poison Effect 2|caster=bonebeast|effect_on_caster=yes}}}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "secondarytype": "Ungulates",
+    "holyDmgMod": "125%",
+    "maxdmg": "{{Max Damage|physical=200|lifedrain=47+|earth=95}}",
+    "pushable": "no",
+    "usedelements": "Physical > Life Drain > Earth",
+    "implemented": "7.4",
+    "loot": [
+        {
+            "amount": "0-90",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Bone",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Skull (Item)",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Plate Armor",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Bony Tail",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Bone Club",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Bone Shield",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Green Mushroom",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Health Potion",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Hardened Bone",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Bonebeast Trophy",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Fire, Energy",
+    "exp": "580",
+    "mitigation": "1.15",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "bonebeast",
+    "illusionable": "no",
+    "armor": "40",
+    "convince": "--",
+    "name": "Bonebeast",
+    "isboss": "no",
+    "iceDmgMod": "100%",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "0%",
+    "plural": "bonebeasts",
+    "hpDrainDmgMod": "0%",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "The result of an unspeakable ritual that mocks the holy secrets of creation, the Bonebeast is a harbinger of doom and pestilence. It is best described as a hideous conglomerate of bones and rotten flesh vaguely resembling a bull. Bonebeasts are often created by some unscrupulous lich, and they mindlessly obey their master's orders no matter what they are. More often than not, these orders include impaling one or more hapless victims on one of the Bonebeast's massive horns.",
+    "speed": "109",
+    "pushobjects": "yes",
+    "fireDmgMod": "110%",
+    "sounds": [
+        "Knooorrrrr!",
+        "Cccchhhhhhhhh!"
+    ],
+    "bestiaryclass": "Undead",
+    "creatureclass": "The Undead",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Skeletons",
+    "spawntype": [
+        "Regular",
+        "Raid",
+        "Unblockable"
+    ],
+    "race_id": "101",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "drownDmgMod": "0%",
+    "bestiaryname": "bonebeast",
+    "behaviour": "Bonebeasts fight until death.",
+    "location": "[[Old Fortress]], [[Ankrahmun Tombs]], [[Helheim]], [[Ramoa]], [[Lich Hell]], beneath [[Fenrock]], [[Deeper Banuta]], [[Vengoth|Vengoth Castle]], [[Vandura Mountain]], [[Robson's Isle]], [[Middle Spike]], [[Lion's Rock]], [[Mother of Scarabs Lair]], [[Caverna Exanima]].",
+    "strategy": "Use blockers to lure it, but avoid contact, while distance fighters shoot at it. A level 40 mage can survive healing with [[Intense Healing]] spell when soloing it. It's not recommended for knights to attempt soloing a '''bonebeast''' until level 50+. They yield good experience, especially for paladins considering it's not hard to kill them at a distance. Mages should run and use [[Flame Strike]] and [[Wand of Inferno]] or [[Hailstorm Rod]] for [[Druid]]. Running from them can result in running into bigger spawns, especially on [[Ramoa]]. For [[Paladin]] the best thing to do is to run with [[Royal Spear]] or [[Enchanted Spear]] and use [[Divine Missile]] and use [[Divine Caldera]] when surrounded. If your hp gets below 300, use [[Light Healing]] or [[Intense Healing]]."
+}

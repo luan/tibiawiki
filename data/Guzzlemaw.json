@@ -1,0 +1,177 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "walksthrough": "Energy, Fire, Poison",
+    "hp": "6400",
+    "abilities": "{{Ability List\n |{{Melee|0-550+}}\n |{{Ability|Bleeding Stone Explosion|starting from up to 35 hp per turn|Bleed}}\n |{{Ability|Large Red Shimmer Ball|[[Paralyze]]s you|paralyze}}\n |{{Ability|Explosion Wave|650-800+|lifedrain\n   |scene={{Scene|spell=8sqmwave|effect=Explosion Effect|caster=Guzzlemaw|look_direction=east}}}}\n |{{Ability|Blood Berserk|400-500+|Physical\n   |scene={{Scene|spell=3x3spell|effect=Blood Effect|caster=Guzzlemaw|look_direction=south|effect_on_caster=yes}}}}\n |{{Healing|range=0-400+}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "holyDmgMod": "105%",
+    "maxdmg": "2000",
+    "pushable": "no",
+    "implemented": "10.30",
+    "loot": [
+        {
+            "amount": "2-100",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-7",
+            "itemName": "Platinum Coin",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Great Health Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Brown Crystal Splinter",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "Great Mana Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Frazzle Tongue",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Crystal Rubbish",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Remains of a Fish",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Ham",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Fish Tail",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Piece of Iron",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Red Crystal Fragment",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Banana Skin",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Bone",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Frazzle Skin",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Skull (Item)",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Fishbone",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "Fish",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Fish Fin",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Hardened Bone",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Iron Ore",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Violet Crystal Shard",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Big Bone",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Two Handed Sword",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Haunted Blade",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Sai",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Nightmare Blade",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Assassin Dagger",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Cluster of Solace",
+            "rarity": "rare"
+        }
+    ],
+    "walksaround": "None.",
+    "exp": "6050",
+    "mitigation": "2.31",
+    "attacktype": "Melee",
+    "history": "Its experience was increased from 5500 to 6050 on the fifth batch of changes of [[Updates/12.31|Update 12.31]].",
+    "article": "a",
+    "actualname": "guzzlemaw",
+    "illusionable": "no",
+    "armor": "74",
+    "convince": "--",
+    "name": "Guzzlemaw",
+    "isboss": "no",
+    "iceDmgMod": "95%",
+    "energyDmgMod": "85%",
+    "deathDmgMod": "90%",
+    "plural": "guzzlemaws",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "The guzzlemaw is a larger variation of the frazzlemaw. Not only will they bite even heftier, they can actually swallow a person up in one nibble. They almost know no fear and seem to follow strange patterns and routines. Somehow these big maws have erected shrines for a probably non-existent god they worship as the \"Overmaw\". It is better to make short work of them as they are often surrounded by a pack of smaller guzzlemaws and wouldn't hesitate to call even more of them to join their fray.",
+    "speed": "200",
+    "pushobjects": "yes",
+    "fireDmgMod": "90%",
+    "sounds": [
+        ""
+    ],
+    "runsat": "0",
+    "bestiaryclass": "Magical",
+    "creatureclass": "Demons",
+    "earthDmgMod": "80%",
+    "physicalDmgMod": "95%",
+    "primarytype": "Dreamhaunters",
+    "race_id": "1013",
+    "bestiarylevel": "Hard",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "guzzlemaw",
+    "behaviour": "Follows you until death.",
+    "location": "[[Guzzlemaw Valley]], and a single spawn in a tower in [[Upper Roshamuul]] (south of the [[Depot]] and west of the entrance to [[Roshamuul Prison]]).",
+    "strategy": "Stay diagonal, this wave hits high. If you can't, consider wearing a [[Garlic Necklace]] or [[Necklace of the Deep]] to reduce damage. When faced together with the lesser monsters, make sure to take the big guys out first. Most of their attacks are through physical damage."
+}

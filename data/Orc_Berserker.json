@@ -1,0 +1,95 @@
+{
+    "summon": "590",
+    "templateType": "Creature",
+    "notes": "These are dangerous [[creatures]], their attack is very strong, but their defense skill is poor and it is better to fight one than trying to escape because they can run really fast.<br/>\n'''Warning!''' Most [[player]]s under [[level]] 20 will die if they meet one.<br />\n{{JSpoiler|Orc Berserkers can also drop [[Orc Tusk]]s during raids of the [[Machinery of War Quest]].}}",
+    "walksthrough": "None",
+    "hp": "210",
+    "abilities": "{{Ability List|{{Melee|0-200}}|{{Haste}}}}",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "holyDmgMod": "90%",
+    "maxdmg": "{{Max Damage|physical=200}}",
+    "pushable": "no",
+    "implemented": "5.1",
+    "loot": [
+        {
+            "amount": "0-12",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Battle Axe",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Halberd",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Ham",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Orcish Gear",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Hunting Spear",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Orc Leather",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Orc Tooth",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Chain Armor",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Lamp",
+            "rarity": "rare"
+        }
+    ],
+    "walksaround": "Fire, Energy, Poison",
+    "exp": "195",
+    "mitigation": "0.30",
+    "attacktype": "Melee",
+    "article": "an",
+    "actualname": "orc berserker",
+    "illusionable": "yes",
+    "armor": "12",
+    "convince": "590",
+    "name": "Orc Berserker",
+    "isboss": "no",
+    "iceDmgMod": "100%",
+    "energyDmgMod": "85%",
+    "deathDmgMod": "110%",
+    "plural": "orc berserkers",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "Orc Berserkers are very strong fighters. Their favourite tactic is the assault, where they can use their velocity and their halberds to kill their victim with a single stroke. Having survived their attack, watch out for other types of orcs that are usually in their company.",
+    "speed": "125",
+    "pushobjects": "yes",
+    "fireDmgMod": "100%",
+    "sounds": [
+        "KRAK ORRRRRRK!"
+    ],
+    "bestiaryclass": "Humanoid",
+    "creatureclass": "Humanoids",
+    "earthDmgMod": "110%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Orcs",
+    "race_id": "8",
+    "bestiarylevel": "Medium",
+    "senseinvis": "no",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "orcberserker",
+    "behaviour": "Orc Berserkers fight to the death and use close combat to kill their enemies, they will also push/kill other [[creatures]] to get to you.",
+    "location": "[[Orc Fort]], [[Dwacatra]], [[Orc Peninsula]], [[Elvenbane]], [[Edron Orc Cave]], [[Plains of Havoc]], below Point of No Return in [[Outlaw Camp]], [[Maze of Lost Souls]], [[Cyclopolis]], [[Desert Dungeon]], [[Ancient Temple]], [[Foreigner Quarter]], [[Zao Orc Land]].",
+    "strategy": "[[Stealth Ring]]s can be life savers when coming across these creatures at low levels. With all [[vocations]] these can be handled easily with care. The [[Halberd]]s they drop allow for good profit for all [[vocation]]s.<br/>\n'''[[Knight]]s''', recommended skills: at least 60/60 with decent equipment and should be prepared to use [[Health Potion]]s. Knights can also use spells like [[Whirlwind Throw]], [[Front Sweep]] and [[Berserk]] to kill Berserkers faster and/or deal with more than one of them at a time. Remember: the longer a Berserker lives, the more damage you take.<br/>\n'''[[Mage]]s''' should consider using [[Magic Shield]] or [[Invisible]]. However, at level 25+ with a decent [[magic level]] it is not hard to just use [[earth]] attacks and [[Intense Healing]] for this creature, but if they do an exceptionally big hit you can always use [[Health Potion|health]]/[[mana potion]]s, [[Halberd]]s make it easy to profit. But be careful with [[Invisibility]], as [[Orc Leader]]s, [[Orc Warlord]]s and [[Orc Shaman]]s can still see you. If you find them together with Orc Shamans, kill the Shamans first so that the summoned [[Snake]]s don't break your [[shielding]] or get in your way. Also a good [[summon]] for Mages, however healing runes may be recommended, since they lose health easily.<br/>\n'''[[Paladin]]s''' Should use a one handed weapon and a shield to hunt them and should consider using [[Energy Ring|Energy]] and [[Stealth Ring]]s for the same reason why Mages should use Magic Shield or Invisible. While [[Bows]] and [[Crossbows]] can give Paladins extra range to deal with Berserkers before they get close it leaves them very vulnerable to the Berserker's powerful melee attack, should one live long enough to traverse the distance between you and him. Always have your best healing spell or potion ready in case of a big hit."
+}

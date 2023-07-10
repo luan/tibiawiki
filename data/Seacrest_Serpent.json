@@ -1,0 +1,150 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "These creatures can be compared with [[Medusa]]e without the paralyze, but with much higher average damage. They almost always follow their Melee with a Sudden Death, making their average damage each turn really high.",
+    "walksthrough": "Energy, Fire, Poison",
+    "hp": "3000",
+    "abilities": "{{Ability List| {{Melee|0-530+|element=physical}}|{{Ability|[[Sudden Death]]|200-260+|element=death}}|{{Ability|Water Wave|0-284+|element=?}}|{{Ability|[[Life Drain|Blue Sparkles Beam]]|150-250|element=lifedrain}}|{{Ability|[[Physical Damage|Red Sparkles Berserk]]|200-300}}|{{Healing|range=0-200+}} }}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "holyDmgMod": "100%",
+    "maxdmg": "1200",
+    "pushable": "?",
+    "implemented": "10.70",
+    "loot": [
+        {
+            "amount": "1-5",
+            "itemName": "Platinum Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Dragon Ham",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Strong Mana Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Strong Health Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-19",
+            "itemName": "Shiver Arrow",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Seacrest Hair",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Seacrest Scale",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Seacrest Pearl",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Giant Shimmering Pearl (Green)",
+            "rarity": "semi-rare"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "Small Diamond",
+            "rarity": "semi-rare"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "Black Pearl",
+            "rarity": "semi-rare"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "White Pearl",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Glacier Kilt",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Soul Orb",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Glacier Shoes",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Glacier Mask",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Wand of Draconia",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Glacier Amulet",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Crest of the Deep Seas",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Wand of Defiance",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "None",
+    "exp": "2600",
+    "mitigation": "1.21",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "seacrest serpent",
+    "illusionable": "no",
+    "armor": "51",
+    "convince": "--",
+    "name": "Seacrest Serpent",
+    "isboss": "no",
+    "iceDmgMod": "0%",
+    "energyDmgMod": "90%",
+    "deathDmgMod": "90%",
+    "status": "event",
+    "plural": "seacrest serpents",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "lightcolor": "212",
+    "occurrence": "Rare",
+    "bestiarytext": "Few have seen the mighty Seacrest Serpents and lived to tell the tale. Sailors whispered of strange lights at the bottom of the sea, and of horrible maned sea serpents guarding sunken treasures, roaming the bottom of the ocean amidst long-lost shipwrecks and the ruins of an ancient city.<br />In truth, the Seacrest Serpents much prefer to stay deep below the waves most of the time, but sometimes, Oramond sailors have reported sightings of the seacrest serpents breaking through the waves in a horrible storm, dancing to the lightning light and destroying any ship unfortunate enough to be caught up between them.<br />Fiercely territorial and aggressive, Seacrest Serpents attack anything that looks edible or threatening. They only tolerate some of their smaller brethren and critters like jellyfish or sharks who live off their waste and pick their teeth clean for them.<br />Not unlike dragons, seacrest serpents love things that glitter, and preferably build a nest in sunken ships or amidst a hoard of gold, in which to hatch their young. Sailors surmise that in the mating season, these giant serpents take down fully laden ships on purpose in order to attract a partner.",
+    "speed": "250",
+    "pushobjects": "?",
+    "fireDmgMod": "80%",
+    "sounds": [
+        "LEAVE THESE GROUNDS...",
+        "THE DARK TIDE WILL SWALLOW YOU..."
+    ],
+    "lightradius": "3",
+    "bestiaryclass": "Reptile",
+    "creatureclass": "Reptiles",
+    "earthDmgMod": "90%",
+    "physicalDmgMod": "90%",
+    "primarytype": "Serpents",
+    "spawntype": [
+        "Regular",
+        "Event",
+        "Unblockable"
+    ],
+    "race_id": "1096",
+    "bestiarylevel": "Hard",
+    "senseinvis": "yes",
+    "drownDmgMod": "0%",
+    "bestiaryname": "seacrest",
+    "behaviour": "Fights until death.",
+    "location": "[[Seacrest Grounds]] when [[Quara#Quara Renegades|Quara Renegades]] are not spawning.",
+    "strategy": "Use death-reduction items to decrease incoming damage, and stay diagonal to avoid their waves. Their beams aren't avoidable if you are adjacent to the creature.\n\n'''[[Knight]]s:''' This creature's melee tends to be very high on top of dealing heavy [[Death Damage]]. A combination of [[Koshei's Ancient Amulet]], [[Moon Mirror]], [[Butterfly Ring]] and maybe a [[Skullcracker Armor]]/[[Yalahari Armor]] can be used to reduce incoming damage from them. Avoid fighting more than two at time because their damage really adds up, specially if accompanied by [[Sea Serpent]]s. Standing diagonal may be useful as well."
+}

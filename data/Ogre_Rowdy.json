@@ -1,0 +1,128 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "walksthrough": "?",
+    "hp": "4500",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "The Ogre Rowdy is a stronger version of [[Ogre Savage]]s.",
+    "speed": "210",
+    "abilities": "{{Ability List| {{Melee|?}} }}",
+    "pushobjects": "yes",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "fireDmgMod": "70%",
+    "holyDmgMod": "100%",
+    "sounds": [
+        ""
+    ],
+    "pushable": "no",
+    "runsat": "0",
+    "implemented": "12.20.8834",
+    "bestiaryclass": "Giant",
+    "loot": [
+        {
+            "itemName": "Platinum Coin",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-9",
+            "itemName": "Flaming Arrow",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Small Emerald",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Wand of Inferno",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Wand of Draconia",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Ogre Nose Ring",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Skull Fetish",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Ogre Ear Stud",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Giant Shimmering Pearl (Brown)",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Blue Gem",
+            "rarity": "semi-rare"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Jalapeno Pepper",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Violet Crystal Shard",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Blue Crystal Shard",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Wand of Everblazing",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Onyx Chip",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Opal",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Prismatic Quartz",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Ogre Choppa",
+            "rarity": "rare"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "4200",
+    "creatureclass": "Humanoids",
+    "earthDmgMod": "0%",
+    "mitigation": "2.63",
+    "physicalDmgMod": "100%",
+    "primarytype": "Giants",
+    "spawntype": [
+        "Regular"
+    ],
+    "race_id": "1821",
+    "attacktype": "Melee",
+    "bestiarylevel": "Hard",
+    "senseinvis": "yes",
+    "article": "an",
+    "actualname": "ogre rowdy",
+    "illusionable": "no",
+    "armor": "98",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "bestiaryname": "ogrerowdy",
+    "name": "Ogre Rowdy",
+    "isboss": "no",
+    "location": "[[Kilmaresh Central Steppe]], [[Kilmaresh Southern Steppe]], [[Green Belt]], [[Kilmaresh Mountains]] (underground).",
+    "iceDmgMod": "130%",
+    "strategy": "Unknown.",
+    "energyDmgMod": "110%",
+    "deathDmgMod": "100%"
+}

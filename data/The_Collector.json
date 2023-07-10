@@ -1,0 +1,46 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "The Collector \"''lives solely to collect all kinds of rare gems, crystals and minerals. Offering an item it does not already own, reportedly allows passage into its lair.''\" ([[Spectulus]]).",
+    "walksthrough": "?",
+    "hp": "340",
+    "speed": "?",
+    "abilities": "{{Ability List| {{Melee|0-46+}} }}",
+    "pushobjects": "yes",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "100%",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        "Leave as long as you can."
+    ],
+    "maxdmg": "46+",
+    "pushable": "no",
+    "implemented": "8.54",
+    "loot": [
+        {
+            "itemName": "Carrying Device"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "100",
+    "creatureclass": "Elementals",
+    "earthDmgMod": "100%",
+    "physicalDmgMod": "100%?",
+    "primarytype": "Cryo-Elementals",
+    "race_id": "593",
+    "senseinvis": "yes",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "The Collector",
+    "isboss": "yes",
+    "behaviour": "Runs away in deep red hps.",
+    "location": "[[Vega]], in a cave below the stony pond.",
+    "iceDmgMod": "0%",
+    "strategy": "[[Knights]] with 50/50 with the equipment given to you on [[Island of Destiny]] will be able to kill it. - [[Sorcerers]], [[Druids]] and [[Paladins]] should get distance from it and kill it while running. Try to always keep walking on the ice, so it won't hurt you.\nBe careful Low-Level players, his attacks really hurt.",
+    "energyDmgMod": "120%?",
+    "deathDmgMod": "100%"
+}

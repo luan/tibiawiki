@@ -1,0 +1,98 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "Try to stay away unless you want to be surrounded by his summons.<br /> {{JSpoiler|Part of the [[Killing in the Name of... Quest]]. \n'''Note:''' The mission rewards are given before facing this boss, but he must be fought before you can re-take the task.}}",
+    "walksthrough": "?",
+    "hp": "2000",
+    "speed": "?",
+    "abilities": "{{Ability List\n |{{Melee|0-304+}}\n |{{Ability|[[Fireball]]|110-230|element=fire}}\n |{{Ability|[[Heavy Magic Missile]]|84-220|element=energy}}\n |{{Ability|[[Sudden Death]]|0-103+|element=death}}\n |{{Ability|[[Energy Berserk]]|element=energy}}\n |{{Ability|[[Electrified|Electrifies]]|25 hp/3 turns; 75 damage total|element=energy}}\n |{{Healing|range=50-100}}\n |{{Summon|Green Djinn|2}}\n}}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "99%?",
+    "holyDmgMod": "101%?",
+    "sounds": [
+        "Your death will be slow and painful."
+    ],
+    "maxdmg": "700+",
+    "pushable": "?",
+    "runsat": "0",
+    "implemented": "8.50",
+    "loot": [
+        {
+            "amount": "0-120",
+            "itemName": "Gold Coin"
+        },
+        {
+            "amount": "1-4",
+            "itemName": "Green Piece of Cloth"
+        },
+        {
+            "amount": "0-3",
+            "itemName": "Royal Spear"
+        },
+        {
+            "itemName": "Seeds"
+        },
+        {
+            "itemName": "Heavy Machete"
+        },
+        {
+            "itemName": "Small Oil Lamp"
+        },
+        {
+            "amount": "0-3",
+            "itemName": "Strong Mana Potion"
+        },
+        {
+            "amount": "0-8",
+            "itemName": "Pear"
+        },
+        {
+            "itemName": "Shiny Stone"
+        },
+        {
+            "itemName": "Mystic Turban"
+        },
+        {
+            "itemName": "Jewelled Belt"
+        },
+        {
+            "itemName": "Noble Turban"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "Small Emerald"
+        },
+        {
+            "itemName": "Magma Monocle"
+        },
+        {
+            "itemName": "Green Gem"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "1500",
+    "creatureclass": "Humanoids",
+    "earthDmgMod": "100%?",
+    "physicalDmgMod": "100%?",
+    "primarytype": "Djinn",
+    "spawntype": [
+        "Triggered"
+    ],
+    "race_id": "553",
+    "senseinvis": "yes",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Merikh the Slaughterer",
+    "isboss": "yes",
+    "behaviour": "Fights in close combat.",
+    "location": "[[Magician Quarter]] ([[Yalahar]]), past the teleport on the top floor, which is located {{Mapper Coords|128.102|121.136|4|4|text=here}}.",
+    "iceDmgMod": "101%?",
+    "strategy": "The biggest problem to fight this boss is reaching his location, as the upper floor of the djinn tower is FULL of efreets, with their summons, they can bring down a level 80 knight in a strong combo if all are lured to the stairs, bring the best potions you can drink and heal whenever your hp gets lower than 800, [[Elven Amulet]] is STRONGLY recommended to go up this last floor (although the efreets will deplete it within 5 seconds average), might ring can be useful for lower level vocations, it's not recommended to go up the last floor for levels below 80. You can consider this boss as a stronger [[Efreet]] with a lot of hitpoints. Any vocation should kill him quickly before his summons increase total damage. \n\n'''[[Paladin]]s''' should run and use [[Assassin Star]]s. \n\n'''[[Mages]]''' should simply attack him with SD's and/or [[Ice Strike]].<br>\n\n'''[[Knights]]:''' Since moving is not necessary while fighting him, you bring a strong two handed weapon and wear a [[Sword Ring|Sword]], [[Axe Ring|Axe]], or [[Club Ring]] while fighting him and wear your [[Dwarven Ring]] later. Also, bring along some mana potions to attack him with [[berserk]], heal if your hp gets below 500, and 800 if he has both summons.",
+    "energyDmgMod": "100%?",
+    "deathDmgMod": "99%?"
+}

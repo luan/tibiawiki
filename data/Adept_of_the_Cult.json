@@ -1,0 +1,124 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "Make sure to have [[Dwarven Ring]] when facing adepts. Usually they spawn in groups amongst other monsters like [[Witch]]es, [[Bonelord]]s, [[Elder Bonelord]]s and all other cult members.",
+    "walksthrough": "None",
+    "hp": "430",
+    "abilities": "{{Ability List\n |{{Melee|0-90|poison=2}}\n |{{Ability|Distance Life Drain|70-150|element=lifedrain\n  |scene={{Scene|spell=4sqmstrike|caster=Adept of the Cult|effect=Poison Effect 3|missile=Poison Missile|missile_direction=south-east|missile_distance=4/4|damage_effect=Red Sparkles Effect}}}}\n |{{Summon|Ghoul|2}}\n |{{Ability|Invisible|2 seconds|element=invisible\n  |scene={{Scene|spell=buffspell|effect=Yellow Poison Effect|caster=Adept of the Cult|look_direction=south|effect_on_caster=yes}}}}\n |{{Ability|Drunkenness|2 seconds|element=drunk\n  |scene={{Scene|spell=4sqmstrike|caster=Adept of the Cult|effect=Holy Effect|missile=Holy Missile (Small)|missile_direction=south-east|missile_distance=4/4|damage_effect=None}}}}\n |{{Healing|range=50\n  |scene={{Scene|spell=buffspell|effect=Blue Sparkles Effect|caster=Adept of the Cult|look_direction=south|effect_on_caster=yes}}}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "holyDmgMod": "70%",
+    "maxdmg": "242 (350+ with summons)",
+    "pushable": "?",
+    "implemented": "7.8",
+    "loot": [
+        {
+            "amount": "1-60",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Cultish Robe",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Rope Belt",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Pirate Voodoo Doll",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Amber Staff",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Clerical Mace",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Music Sheet (Third Verse)",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Book (Orange)",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Silver Amulet",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Time Ring",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Broken Key Ring",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Cultish Symbol",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Hailstorm Rod",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Small Ruby",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Lunar Staff",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Red Robe",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Fire, Energy, Poison",
+    "exp": "400",
+    "mitigation": "1.13",
+    "attacktype": "Distance",
+    "article": "an",
+    "actualname": "adept of the cult",
+    "illusionable": "no",
+    "armor": "33",
+    "convince": "--",
+    "name": "Adept of the Cult",
+    "isboss": "no",
+    "iceDmgMod": "80%",
+    "energyDmgMod": "105%",
+    "deathDmgMod": "105%",
+    "plural": "adepts of the cult",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "Adept of the Cult is the highest rank that a normal cultist can dream to acquire. Strong-willed and loyal, they use the secrets of the cult to amplify their magic to a threatening degree. Ruthless and cunning, they pose a threat to every opponent. They see themselves as too valuable to the cult to be lost. For this reason, they are always accompanied by some members of lower ranks who support and protect them. Their esteem of other cultists is not very high though and they sacrifice them at their whim whenever a threat occurs. They hold important knowledge about the cult and they are so  fanatic that they would rather die than to get caught alive.",
+    "speed": "95",
+    "pushobjects": "?",
+    "fireDmgMod": "100%",
+    "sounds": [
+        "Feel the power of the cult!",
+        "Praise the voodoo!",
+        "Power to the cult!"
+    ],
+    "runsat": "0",
+    "bestiaryclass": "Human",
+    "creatureclass": "Humans",
+    "earthDmgMod": "60%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Voodoo Cultists",
+    "spawntype": [
+        "Regular"
+    ],
+    "race_id": "254",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "cultadept",
+    "location": "[[Goroma]], [[Liberty Bay]]'s deeper cult dungeon, [[Formorgar Mines]], [[Magician Quarter]], [[Forbidden Temple]].",
+    "strategy": "Since adepts keep a distance (usually about 4 tiles), as a [[knight]] try to trap them in a corner and kill using [[Heavy Magic Missile]] or [[Explosion]] runes when they turn invisible. Be careful while trapping him, because you might lure more cult members on yourself (they rarely appear alone). As a [[paladin]] you should lure single adept (for easier and safer killing) and kill shooting [[bolts]] with help of [[HMM]] runes whenever they go invisible. Easiest way to hunt them with mages is to summon [[Demon Skeleton]] as a blocker. All adepts' ranged attacks are life drain type, which won't affect [[Demon Skeleton]]. Just lure adept on your summon, and kill him using any runes. Keep in mind that if you start attacking with wand, summon will follow adept which may lead to luring more monsters - try to make your summon stand still. Watch your [[hp]] carefully, and try to heal whenever it drops lower than 350 - adepts can deal some nasty combos with some additional damage from summons. Don't kill [[ghoul]]s he summons, rather focus all your firepower on adept. Don't forget about [[Dwarven Ring]]s, being drunk is something you want to avoid if you need to run. Having a few area attack runes might be good idea if you'll have to face more cult members. Also, bringing one or two [[Garlic Necklace]] might be a good idea since their [[Life Drain]] can reduce your HP rather fast."
+}

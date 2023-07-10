@@ -1,0 +1,102 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "control towers",
+    "hpDrainDmgMod": "100%?",
+    "notes": "He is stationary.",
+    "isarenaboss": "no",
+    "walksthrough": "None.",
+    "hp": "7500",
+    "speed": "?",
+    "abilities": "{{Ability List|}}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "45%",
+    "holyDmgMod": "45%",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "?",
+    "pushable": "?",
+    "implemented": "10.70",
+    "loot": [
+        {
+            "amount": "0-5+",
+            "itemName": "Platinum Coin"
+        },
+        {
+            "itemName": "Alloy Legs"
+        },
+        {
+            "itemName": "Flask of Rust Remover"
+        },
+        {
+            "itemName": "Gearwheel Chain"
+        },
+        {
+            "itemName": "Steel Boots"
+        },
+        {
+            "itemName": "Heat Core"
+        },
+        {
+            "itemName": "War Crystal"
+        },
+        {
+            "itemName": "Crystal Pedestal"
+        },
+        {
+            "itemName": "Great Mana Potion"
+        },
+        {
+            "itemName": "Great Health Potion"
+        },
+        {
+            "itemName": "Gear Wheel"
+        },
+        {
+            "itemName": "Iron Ore"
+        },
+        {
+            "itemName": "Mastermind Potion"
+        },
+        {
+            "itemName": "Crystal Pedestal (Red)"
+        },
+        {
+            "itemName": "Metal Spats"
+        },
+        {
+            "itemName": "Metal Bat"
+        },
+        {
+            "itemName": "Bonebreaker"
+        }
+    ],
+    "walksaround": "Energy, Fire, Poison",
+    "exp": "3000",
+    "creatureclass": "Elementals",
+    "earthDmgMod": "45%",
+    "physicalDmgMod": "100%?",
+    "primarytype": "Electro-Elementals",
+    "spawntype": [
+        "Raid",
+        "Unblockable"
+    ],
+    "senseinvis": "?",
+    "article": "a",
+    "actualname": "control tower",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Control Tower",
+    "isboss": "no",
+    "behaviour": "Unknown",
+    "location": "[[Glooth Plant]], during a raid.",
+    "iceDmgMod": "100%?",
+    "strategy": "Unknown",
+    "energyDmgMod": "45%",
+    "deathDmgMod": "100%?"
+}

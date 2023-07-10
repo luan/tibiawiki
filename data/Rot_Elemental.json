@@ -1,0 +1,116 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "walksthrough": "Poison",
+    "hp": "850",
+    "abilities": "{{Ability List\n |{{Melee|0-120|poison=14}}\n |{{Ability|Poison Beam|0-230|earth\n  |scene={{Scene|spell=6sqmbeam|caster=Rot Elemental|look_direction=east|effect=Poison Effect 3}}}}\n |{{Ability|Poison Ball|0-200|earth\n  |scene={{Scene|spell=1sqmballtarget|caster=Rot Elemental|look_direction=south|effect=Poison Effect 2|missile=Glooth Spear Missile|missile_direction=south-east|missile_distance=2/2}}}}\n |{{Ability|Musical Bomb||slowed\n  |scene={{Scene|spell=2sqmballself|caster=Rot Elemental|look_direction=south|effect=Green Notes Effect|effect_on_caster=yes|effect=Poison Effect 1}}}}\n |{{Ability|Puff Up|unknown maybe buff|?\n   |scene={{Scene|spell=buffspell|effect=Steam Effect|caster=Rot Elemental|look_direction=south|effect_on_caster=yes}}}}\n |{{Ability|Poison Spit|up to 28hp/turn|poisoned\n  |scene={{Scene|spell=7sqmstrike|caster=Rot Elemental|look_direction=south|effect=Poison Effect 3|missile=Poison Missile|missile_direction=south-east|missile_distance=7/7}}}}\n |{{Ability|Paralyze|element=paralyze}}\n |{{Healing|range=0-58+}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "holyDmgMod": "80%",
+    "maxdmg": "{{Max Damage|physical=120|earth=444}}",
+    "pushable": "?",
+    "implemented": "10.50",
+    "loot": [
+        {
+            "amount": "1-80",
+            "itemName": "Gold Coin",
+            "rarity": "always"
+        },
+        {
+            "itemName": "Platinum Coin",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Glob of Glooth",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Strong Health Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Strong Mana Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Small Emerald",
+            "rarity": "semi-rare"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Small Topaz",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Glooth Spear",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Small Sapphire",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Life Ring",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Glooth Amulet",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Glooth Axe",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Green Gem",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Energy\nFire",
+    "exp": "750",
+    "mitigation": "1.07",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "rot elemental",
+    "illusionable": "no",
+    "armor": "41",
+    "convince": "--",
+    "name": "Rot Elemental",
+    "isboss": "no",
+    "iceDmgMod": "70%",
+    "energyDmgMod": "105%",
+    "deathDmgMod": "80%",
+    "plural": "rot elementals",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "lightcolor": "143",
+    "occurrence": "Common",
+    "bestiarytext": "The so called rot elemental is of course out of the scale of normal elemental classification. Though it shares several attributes with other elementals, it lacks other distinctive features and instead has in those areas more in common with spirits or even the undead. As a matter of fact, the existence of rot elementals is another phenomenon, connected to the necromantic smog of the Rathleton area but it could be encountered at other sites that were soaked with necromantic energy at one time. Actually the ghostlands and the plains of havoc are places that have seen at least manifestations of such creatures although up to today none of them endured for a longer time. So there are obviously other facts at work in the creation and stabilization of rot elementals. As far as modern science knows, the elementals are created at sites with a considerably number of waste and carrion. This fact is disputed by the theory that the manifestation just seeks out the greatest concentration of such matter rather than needing a certain amount of it. Be it as it may, some kind of spirit is drawn to such places and makes itself felt by and overwhelming presence of decay. Mould grows extremely fast and matter decomposes in exceedingly fast rates. It's like the spirits presence would dissolve suitable matter to use it for the creation of a host body. Several tests indicate that the spirit does not really inhabit this body but rather 'rides' it, in some way using it like a puppet. The controlling spirit seems quite primordial and not a specific spirit of a person or entity. It is more a certain instinctive consciousness that seems to inhabit certain necromantic fields and that is sometimes bound by necromants to inhabit and animate dead bodies. In the case of the rot elemental this consciousness is acting on its own. This it why it's called a rot elemental at all, it manifests spontaneously, has a certain consciousness on its own and is built of a specific 'element'. As the elemental classification, despite certain efforts, does not count necromancy or rot as elemental power and the purity of rot can't be measured as well as the presence of at least some considerable part of fluid, that would be counted as another element, is present, it seemingly defies too many rules to be scientifically counted as elemental. Of course the provisionally nomenclature as spontaneous necromantic physical manifestation was never popular enough so that the name rot elemental stuck to the creature anyway. As for its behaviour, it's considered as mindlessly malignant as its only driving motive seems to be to spread death and pain without any greater plan. <br />Sometimes rot elementals are controlled via variants of spells that are meant to control the undead, but even such altered spells are of high risk and the elementals are known to break free in a frenzy.",
+    "speed": "115",
+    "pushobjects": "?",
+    "fireDmgMod": "100%",
+    "sounds": [
+        "*splib*",
+        "*glibb*"
+    ],
+    "lightradius": "3",
+    "runsat": "0",
+    "bestiaryclass": "Undead",
+    "creatureclass": "Elementals",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "90%",
+    "primarytype": "Bio-Elementals",
+    "spawntype": [
+        "Regular",
+        "Triggered",
+        "Unblockable"
+    ],
+    "race_id": "1055",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "rotelemental",
+    "location": "[[Rathleton Sewers]], [[Glooth Factory]], [[Lower Rathleton]], [[Oramond/Western Plains]], [[Jaccus Maxxen's Dungeon]]",
+    "strategy": "Treat them like somewhat stronger [[Water Elemental]]s."
+}

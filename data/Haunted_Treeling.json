@@ -1,0 +1,102 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "Looks like a little [[Demon Oak]].",
+    "walksthrough": "Poison",
+    "hp": "450",
+    "abilities": "{{Ability List|{{Melee|0-150}}|{{Ability|Terra Strike|0-100|physical}}|{{Ability|Stone Shower|55-100|earth}}|{{Ability|Close distance Mana Drain Bomb|9-100|manadrain}}|{{Ability|Paralyze Beam||slowed}}}}",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "holyDmgMod": "80%",
+    "maxdmg": "{{Max Damage|physical=250|earth=100|manadrain=100}}",
+    "pushable": "no",
+    "implemented": "8.40",
+    "loot": [
+        {
+            "amount": "1-95",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Wooden Trash",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Red Mushroom",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Health Potion",
+            "rarity": "semi-rare"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "White Mushroom",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Haunted Piece of Wood",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Orange Mushroom",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Dwarven Ring",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Small Emerald",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Strong Health Potion",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Bullseye Potion",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Fire, Energy",
+    "exp": "310",
+    "mitigation": "0.91",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "haunted treeling",
+    "illusionable": "no",
+    "armor": "20",
+    "convince": "--",
+    "name": "Haunted Treeling",
+    "isboss": "no",
+    "iceDmgMod": "90%",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "90%",
+    "plural": "haunted treelings",
+    "hpDrainDmgMod": "100%",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "There are two known breeds of Haunted Treelings. On the one hand, there are nature spirits that seek revenge for the contamination of nature. On the other hand, you find demonic entities that want to spread havoc in the world of the living. Both forms are actually spirits that have entered dead or living trees.<br />Haunted treelings attack every living creature on sight, either out of spite or to seek revenge. It is likely that a man and a minotaur look alike for Haunted Treeling and that so one race has to suffer for the mistakes of the other. In rare cases it is possible to calm the nature spirits if showing respect for nature, the demonic form, however, can at best be bribed to stop attacking. Some woodland communities  have developed some form of coexistence with both forms. Other villages live in fear of these malicious creatures.<br />Haunted Treelings can easily be mistaken for normal trees which makes it easy for them to ambush their enemies. Slaying their tree form will only result in chasing the spirit out of its wooden host, but actually does not harm it at all. They are exceptionally strong and know neither pain nor fear.",
+    "speed": "115",
+    "pushobjects": "yes",
+    "fireDmgMod": "105%",
+    "sounds": [
+        "Knarrrz",
+        "Huuhuuhuuuhuuaarrr",
+        "Knorrrrrr"
+    ],
+    "bestiaryclass": "Plant",
+    "creatureclass": "Elementals",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Bio-Elementals",
+    "race_id": "511",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "hauntedtreeling",
+    "behaviour": "It tries to engage in close combat, and fights to the death. It is very aggressive, uses its magical abilities often. It can shoot at its target even when it is off sight.",
+    "location": "[[Vengoth]] surface, [[Vengoth Castle]] (Boreth's tower), [[Northern Zao Plantations]], [[Tiquanda Laboratory]], [[Dryad Gardens]].",
+    "strategy": "As of 6/8/2009 you can no longer use  [[Stealth Ring]] or the [[Invisible|Invisible Spell]] to hunt these creatures.<br>\n'''[[Knight]]''': This is a very good hunt for mid-hi level knights if you don't let them surround you. Try to fight them 1-2 at a time and you'll only need mana potions and [[Wound Cleansing|Exura Ico]] to heal. When there's 3+ on you be prepared to heal very fast as they will deplete your hp with ease, specially if there's a [[Demon skeleton]] nearby. Break out with [[Berserk|Exori]] if you're surrounded.<br>\n'''[[Mage]]''': Their melee attack is weak and they hardly use mana drain. As the Vengoth surface is densily populated, if you are fighting against only one or two, it is better to fight them in close combat, instead of running around."
+}

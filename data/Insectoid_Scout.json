@@ -1,0 +1,75 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "Insectoid Scouts are [[Insectoid Worker]]s weakened due to a large distance from the [[Hive]]. They appear during the [[Insectoid Invasion World Change]].",
+    "isarenaboss": "no",
+    "walksthrough": "?",
+    "hp": "230",
+    "abilities": "{{Ability List|{{Melee|0-73?|poison=3}}}}",
+    "healMod": "100%",
+    "paraimmune": "No",
+    "secondarytype": "Hive Born",
+    "holyDmgMod": "100%",
+    "maxdmg": "73?",
+    "pushable": "No",
+    "implemented": "9.10",
+    "loot": [
+        {
+            "amount": "1-80",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Ripper Lance",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Health Potion",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Club Ring",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "150",
+    "mitigation": "0.56",
+    "attacktype": "Melee",
+    "article": "an",
+    "actualname": "insectoid scout",
+    "illusionable": "no",
+    "armor": "27",
+    "convince": "--",
+    "name": "Insectoid Scout",
+    "isboss": "no",
+    "iceDmgMod": "110%",
+    "energyDmgMod": "105%",
+    "deathDmgMod": "100%",
+    "status": "event",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "no",
+    "occurrence": "Rare",
+    "bestiarytext": "Sightings of Insectoid Scouts are a relatively new phenomenon. After several skirmishes of the creatures with Tibian natives, a few things about them can be considered as verified facts. The Insectoid Scouts are not aggressive in the sense that they are attacking towns or settlements, instead, they are usually found in rather remote areas. When encountered though, they are rather violent and attack everyone relentlessly. Despite their build, they are rather tough and extremely strong. Their behaviour suggests that they are looking for something or spying on someone. This behaviour earned them the nickname 'scouts', and military officials of the major powers are all concerned that they might be indeed forerunners for something bigger and more sinister.",
+    "speed": "101",
+    "pushobjects": "Yes",
+    "fireDmgMod": "110%",
+    "sounds": [
+        "Klk! Klk!",
+        "Chrrr! Chrr!"
+    ],
+    "runsat": "0",
+    "bestiaryclass": "Vermin",
+    "creatureclass": "Invertebrates",
+    "earthDmgMod": "80%",
+    "physicalDmgMod": "95%",
+    "primarytype": "Insects",
+    "race_id": "732",
+    "bestiarylevel": "Easy",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "insectoidscout",
+    "behaviour": "Fights in close combat.",
+    "location": "West and [http://tibia.wikia.com/wiki/Mapper?coords=126.4,125.102,7 south] of [[Greenshore]].",
+    "strategy": "Distance fighting [[vocation]]s can lure it back to the [[Sheep]] pen near [[Tokel]] and kill them from behind the gate."
+}

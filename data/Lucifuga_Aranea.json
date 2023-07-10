@@ -1,0 +1,95 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "It looks like a [[Crystal Spider]].<br />\n{{JSpoiler|This creature can only be found during a mission of [[The Dream Courts Quest]].}}",
+    "walksthrough": "?",
+    "hp": "12000",
+    "lightcolor": "107",
+    "speed": "?",
+    "abilities": "{{Ability List| {{Melee|0-300+}} }}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "100%?",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "?",
+    "pushable": "?",
+    "lightradius": "5",
+    "runsat": "0",
+    "implemented": "12.00.7695",
+    "loot": [
+        {
+            "itemName": "Poison Gland"
+        },
+        {
+            "itemName": "Guardian Halberd"
+        },
+        {
+            "itemName": "Platinum Coin"
+        },
+        {
+            "itemName": "Crystal Sword"
+        },
+        {
+            "itemName": "Blue Crystal Shard"
+        },
+        {
+            "itemName": "Gold Ingot"
+        },
+        {
+            "itemName": "Great Mana Potion"
+        },
+        {
+            "itemName": "Halberd"
+        },
+        {
+            "itemName": "Plate Armor"
+        },
+        {
+            "itemName": "Cyan Crystal Fragment"
+        },
+        {
+            "itemName": "Giant Shimmering Pearl"
+        },
+        {
+            "itemName": "Time Ring"
+        },
+        {
+            "itemName": "Crystal Necklace"
+        },
+        {
+            "itemName": "Obsidian Lance"
+        },
+        {
+            "itemName": "Ice Cube"
+        }
+    ],
+    "walksaround": "Fire",
+    "exp": "10000",
+    "creatureclass": "Invertebrates",
+    "earthDmgMod": "100%?",
+    "physicalDmgMod": "100%?",
+    "primarytype": "Arachnids",
+    "spawntype": [
+        "Triggered"
+    ],
+    "senseinvis": "?",
+    "article": "a",
+    "actualname": "lucifuga aranea",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Lucifuga Aranea",
+    "isboss": "?",
+    "behaviour": "Fights in close combat.",
+    "location": "The Haunted Temple under Tiquanda, but only if a player carrying a bait lured it out of hiding.",
+    "iceDmgMod": "100%?",
+    "strategy": "The Lucifuga can be as challenging as the Carnivors it spawns with, so it's recommended to clear the spawn or isolate an area with fields when looking for it.",
+    "energyDmgMod": "100%?",
+    "deathDmgMod": "100%?"
+}

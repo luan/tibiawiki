@@ -1,0 +1,84 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "They will only ever make two melee hits.",
+    "plural": "pirat scoundrels",
+    "hpDrainDmgMod": "100%?",
+    "walksthrough": "Energy, Fire",
+    "hp": "2200",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "The pirat scoundrels prefer others to make their paws dirty and rely on distant combat tactics to wear an enemy down. They are usually chosen from the more intelligent and skilled recruits although some pirate captains tend to pick them on a whim. Their usual functions on board of the pirat ships are diverse and a bit more challenging then that of ordinary sailors. As 'specialists' they enjoy a certain amount of status amongst the crews that allows them to fight in the second row. By skill and training they become over time mildly accomplished distance fighters, although their ability is somewhat hampered by their nervous and cowardly behaviour, that invalidates any even slightly more complicated tactics. Without the backup of a hefty amount of cutthroats, the scoundrels quickly become nervous and confused. always eyeing and opportunity for a tactical retreat. Even with the support of fighters their constant shifting and moving has them miss more than one good shot. Their greater survivability is paid by a lower share of the loot. Though in theory they are the same crew rank as the common cutthroats, the latter look with disdain on the scoundrels that in their eyes survive on their expense. So in loot distribution they often violently claim a bigger share - which is still only little, due to the packing order on pirat ships. In return it's not uncommon that some of the most aggressive loot takers amongst the cutthroats are hit by 'friendly fire' in the heat of battle.",
+    "speed": "190",
+    "abilities": "{{Ability List\n |{{Melee|0-350? at most 2 hits}}\n |{{Ability|Energy Missile|110-160?|element=energy\n  |scene={{Scene|spell=3sqmstrike|effect=Energy Effect|caster=Pirat Scoundrel|missile=Energy Ball Missile|missile_direction=south-east|missile_distance=3/3}}}}\n |{{Ability|Energy Bomb on Target|100-130?|element=energy\n  |scene={{Scene|spell=1sqmballtarget|effect=Blue Electricity Effect|caster=Pirat Scoundrel|missile=Ethereal Spear Missile|missile_direction=south-east|missile_distance=2/2|edge_size=32}}}}\n |{{Ability|Energy Exori|90-110?|element=energy\n  |scene={{Scene|spell=3x3spell|effect=Blue Electricity Effect|caster=Pirat Scoundrel|effect_on_caster=yes}}}}\n |{{Ability|Energy Beam|?|element=energy\n  |scene={{Scene|spell=4sqmbeam|effect=Blue Electricity Effect|caster=Pirat Scoundrel|look_direction=east}}}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "fireDmgMod": "100%",
+    "holyDmgMod": "100%",
+    "sounds": [
+        ""
+    ],
+    "implemented": "12.60.10463",
+    "bestiaryclass": "Humanoid",
+    "loot": [
+        {
+            "itemName": "Great Mana Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Wand of Inferno",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-10",
+            "itemName": "Pirate Coin",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Grappling Hook",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Pirat's Tail",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Springsprout Rod",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Wand of Starstorm",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Wand of Voodoo",
+            "rarity": "semi-rare"
+        }
+    ],
+    "walksaround": "Poison",
+    "exp": "1600",
+    "creatureclass": "Humanoids",
+    "earthDmgMod": "130%",
+    "mitigation": "1.74",
+    "physicalDmgMod": "80%",
+    "primarytype": "Pirats",
+    "attacktype": "Distance",
+    "race_id": "2037",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "article": "a",
+    "actualname": "pirat scoundrel",
+    "illusionable": "no",
+    "armor": "60",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "bestiaryname": "piratscoundrel",
+    "name": "Pirat Scoundrel",
+    "isboss": "no",
+    "behaviour": "Attacks from a distance. If you get into melee range, they use a strong physical attack, but their weapon breaks after two hits. After that, they only use [[Energy Damage]].",
+    "location": "[[Pirat Mine]], [[The Wreckoning]]",
+    "iceDmgMod": "100%",
+    "strategy": "Be careful of their strong melee attack at the start of the fight. Use [[Earth Damage]] against them, and consider using items with [[Energy Resistant|Energy Resistance]].",
+    "energyDmgMod": "74%",
+    "deathDmgMod": "100%"
+}

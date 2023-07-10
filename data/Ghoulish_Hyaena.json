@@ -1,0 +1,80 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "None.",
+    "isarenaboss": "no",
+    "walksthrough": "Poison",
+    "hp": "400",
+    "abilities": "{{Ability List\n |{{Melee|0-115 + [[Poisoned|Poisons]] 1 [[hp]] for 5 turns|element=physical}}\n |{{Ability|Small Poisoning Wave|[[Poisoned|Poison]] starts at 3 hp/turn|element=poisoned}}\n |{{Ability|[[Charge]]|lasts for 2 seconds|element=haste}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "?",
+    "secondarytype": "The Undead",
+    "holyDmgMod": "110%",
+    "maxdmg": "115",
+    "pushable": "yes",
+    "implemented": "9.10",
+    "loot": [
+        {
+            "amount": "1-40",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "Meat",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-7",
+            "itemName": "Worm",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Health Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Small Ruby",
+            "rarity": "semi-rare"
+        }
+    ],
+    "walksaround": "Fire, Energy",
+    "exp": "195",
+    "mitigation": "0.80",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "ghoulish hyaena",
+    "illusionable": "no",
+    "armor": "21",
+    "convince": "--",
+    "name": "Ghoulish Hyaena",
+    "isboss": "no",
+    "iceDmgMod": "100%",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "0%",
+    "status": "event",
+    "plural": "ghoulish hyaenas",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Rare",
+    "speed": "102",
+    "pushobjects": "?",
+    "fireDmgMod": "115%",
+    "sounds": [
+        "Grawrrr!!",
+        "Hoouu!"
+    ],
+    "bestiaryclass": "Undead",
+    "creatureclass": "Mammals",
+    "earthDmgMod": "40%",
+    "physicalDmgMod": "105%",
+    "primarytype": "Hyaenids",
+    "race_id": "704",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "behaviour": "Runs away in low health (about 30 or less). May sprint really fast for a short time.",
+    "location": "[[Horestis Tomb]].",
+    "strategy": "Despite their weak appearance Ghoulish Hyenas can be very dangerous to lower levels."
+}

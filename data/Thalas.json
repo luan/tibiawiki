@@ -1,0 +1,87 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "Thalas, the royal alchemist, was sentenced to be locked away, after his part in the conspiracies against the pharaoh. You can camp this monster by summoning DS to absorb the towers shots and staying in the south of the room.\n\n{{JSpoiler|One of the Pharaohs of [[The Ancient Tombs Quest]].}}",
+    "walksthrough": "Poison",
+    "hp": "4100",
+    "speed": "210",
+    "abilities": "{{Ability List\n |{{Melee|0-991|poison=35}}\n |{{Ability|Poison Hit|300-650|earth\n  |scene={{Scene|spell=7sqmstrike|effect=Poison Effect 3|caster=Thalas|missile=Poison Missile|missile_direction=south-east|missile_distance=7/7}}}}\n |{{Ability|Earth Wave|250-550|earth\n  |scene={{Scene|spell=8sqmwave|effect=Poison Effect 3|caster=Thalas|look_direction=east}}}}\n |{{Ability|Poisoning Bomb|starting up to 35 hp/turn|poisoned\n  |scene={{Scene|spell=3sqmball2self|effect=Poison Effect 3|caster=Thalas|effect_on_caster=yes}}}}\n |{{Ability|Life Drain Strike|400-900|life drain\n  |scene={{Scene|spell=1sqmstrike|caster=Thalas|missile_direction=south-east|missile_distance=2/2}}}}\n |{{Ability|[[Summon]]s 8 [[Slime]]s at once|element=summon}}\n |{{Ability|Paralyze Strike|210-230 points for 50 seconds|paralyze\n  |scene={{Scene|spell=7sqmstrike|effect=Red Sparkles Effect|caster=Thalas|missile_direction=south-east|missile_distance=7/7}}}}\n |{{Ability|Paralyze Bomb|180-220 points for 12 seconds|paralyze\n  |scene={{Scene|spell=3sqmball2self|effect=Poison Effect 3|caster=Thalas|effect_on_caster=yes}}}}\n |{{Healing|self-healing|150-450|scene={{Scene|spell=buffspell|effect=Blue Sparkles Effect|caster=Thalas|effect_on_caster=yes}}}}\n}}",
+    "pushobjects": "yes",
+    "healMod": "100%?",
+    "paraimmune": "yes",
+    "fireDmgMod": "110%",
+    "holyDmgMod": "120%",
+    "sounds": [
+        "You will become a feast for my maggots!"
+    ],
+    "maxdmg": "1400",
+    "pushable": "no",
+    "runsat": "0",
+    "implemented": "7.3",
+    "loot": [
+        {
+            "amount": "0-236",
+            "itemName": "Gold Coin"
+        },
+        {
+            "itemName": "Cobrafang Dagger",
+            "rarity": "always"
+        },
+        {
+            "itemName": "Great Health Potion"
+        },
+        {
+            "itemName": "Poison Dagger"
+        },
+        {
+            "amount": "0-3",
+            "itemName": "Small Emerald"
+        },
+        {
+            "itemName": "Serpent Sword",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Time Ring",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Djinn Blade",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Green Gem",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Mini Mummy",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Stealth Ring",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Fire, Energy",
+    "exp": "2950",
+    "creatureclass": "The Undead",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "100%",
+    "bosstiaryclass": "Bane",
+    "primarytype": "Pharaohs",
+    "race_id": "89",
+    "senseinvis": "yes",
+    "illusionable": "no",
+    "armor": "40",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Thalas",
+    "isboss": "no",
+    "behaviour": "Malicious, will make all efforts to destroy intruders.",
+    "location": "[[Stone Tomb]].",
+    "iceDmgMod": "110%",
+    "strategy": "He will attack with distance magic attacks, so use blockers to corner him and distance fighters to fire on him. He is guarded by 4 [[Necromancer]]s and 12 [[Plaguethrower]]s (6 around Thalas and 6 more near the teleport).",
+    "energyDmgMod": "80%",
+    "deathDmgMod": "0%"
+}

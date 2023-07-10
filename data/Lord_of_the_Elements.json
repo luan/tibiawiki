@@ -1,0 +1,90 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "Lord of the Elements",
+    "hpDrainDmgMod": "100%?",
+    "notes": "Lord of the Elements is a boss that only can be seen in [[The Elemental Spheres Quest]]. Curiously, despite being the supposed \"master\" of all elements, it does not dare walk over [[Fire Field]]s unless provoked. You can skin a slain Lord of the Elements using an [[Obsidian Knife]] to obtain [[Neutral Matter]], with no chance of failure.",
+    "isarenaboss": "no",
+    "walksthrough": "Energy?, Poison?",
+    "hp": "8000",
+    "lightcolor": "212",
+    "speed": "?",
+    "abilities": "{{Ability List|{{Melee|0-350+}}|{{Summon|Massive Earth Elemental|2|Massive Fire Elemental|Massive Water Elemental|Massive Energy Elemental}}|{{Ability|Paralyzing [[Stone Shower]]||slowed}}|{{Outfit|no|Massive Earth Elemental||Massive Fire Elemental|Massive Water Elemental|Massive Energy Elemental}}}}",
+    "pushobjects": "yes",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "secondarytype": "Shapeshifters",
+    "fireDmgMod": "70%?",
+    "holyDmgMod": "0%",
+    "sounds": [
+        "WHO DARES CALLING ME?",
+        "I'LL FREEZE YOU THEN I CRUSH YOU!"
+    ],
+    "maxdmg": "{{Max Damage|physical=350|summons=2600}}",
+    "pushable": "no",
+    "lightradius": "5",
+    "implemented": "8.20",
+    "cooldown": "0.167",
+    "loot": [
+        {
+            "amount": "0-10",
+            "itemName": "Platinum Coin"
+        },
+        {
+            "itemName": "Gold Ingot"
+        },
+        {
+            "amount": "0-4",
+            "itemName": "Small Sapphire"
+        },
+        {
+            "amount": "0-4",
+            "itemName": "Small Emerald"
+        },
+        {
+            "amount": "0-4",
+            "itemName": "Small Ruby"
+        },
+        {
+            "amount": "0-4",
+            "itemName": "Small Amethyst"
+        },
+        {
+            "itemName": "Fireborn Giant Armor",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Earthborn Titan Armor",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Oceanborn Leviathan Armor",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Neutral Matter"
+        }
+    ],
+    "walksaround": "Fire",
+    "exp": "8000",
+    "creatureclass": "Elementals",
+    "earthDmgMod": "55%?",
+    "physicalDmgMod": "50%",
+    "bosstiaryclass": "Archfoe",
+    "primarytype": "Elemental Lords",
+    "race_id": "454",
+    "senseinvis": "yes",
+    "actualname": "Lord of the Elements",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "0%",
+    "convince": "--",
+    "name": "Lord of the Elements",
+    "isboss": "yes",
+    "behaviour": "This creature retargets all the time and can easily kill the mages. Also, it's very fast.",
+    "location": "[[The Elemental Spheres Quest]].",
+    "iceDmgMod": "70%",
+    "strategy": "Since you need one character of each vocation for this monster you will have to work as a team.<br />\nMake sure that the [[knight]] blocks him. The mages should focus on doing spell damage while the [[paladin]] shoots at him with his ammunition. make sure that the druid heals the knight since the boss can do quite some damage from time to time.",
+    "energyDmgMod": "70%",
+    "deathDmgMod": "0%"
+}

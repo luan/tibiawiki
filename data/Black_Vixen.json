@@ -1,0 +1,141 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "It's a leader of the [[Werefox]]es.\n{{JSpoiler|Part of the {{Spoiler Section|Grimvale Quest|The Curse Spreads}}}}",
+    "hp": "3200",
+    "usespells": "yes",
+    "speed": "?",
+    "abilities": "{{Ability List| {{Ability|Stalagmite|100-200+ paralyzes you|element=paralyze}}|{{Ability|Death Beam|150-300|element=death}}|{{Healing|range=0-300}}|{{Summon|Werefox|1}}|{{Ability|[[Invisibility]]|element=invisible}} }}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "yes",
+    "secondarytype": "Ungulates",
+    "fireDmgMod": "105%",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        "You are not clever enough to defeat me!"
+    ],
+    "maxdmg": "?",
+    "pushable": "?",
+    "implemented": "11.50.6055",
+    "cooldown": "20",
+    "loot": [
+        {
+            "itemName": "Fox Paw",
+            "rarity": "always"
+        },
+        {
+            "amount": "1-10",
+            "itemName": "Platinum Coin",
+            "rarity": "always"
+        },
+        {
+            "itemName": "Werefox Tail",
+            "rarity": "always"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Black Pearl"
+        },
+        {
+            "amount": "1-10",
+            "itemName": "Assassin Star"
+        },
+        {
+            "amount": "1-70",
+            "itemName": "Gold Coin"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Great Mana Potion"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Great Spirit Potion"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Ultimate Spirit Potion"
+        },
+        {
+            "itemName": "Stealth Ring"
+        },
+        {
+            "itemName": "Sai"
+        },
+        {
+            "itemName": "Green Gem"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "Small Enchanted Emerald"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Ultimate Mana Potion"
+        },
+        {
+            "itemName": "Werefox Trophy"
+        },
+        {
+            "itemName": "Moonlight Rod"
+        },
+        {
+            "itemName": "Moonlight Crystals",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Troll Green",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Werewolf Amulet",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Composite Hornbow",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Silver Token",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Foxtail",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Wolf Backpack",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Platinum Amulet"
+        }
+    ],
+    "walksaround": "Energy, Poison, Fire",
+    "exp": "3200",
+    "creatureclass": "Humans",
+    "earthDmgMod": "40%?",
+    "physicalDmgMod": "100%?",
+    "bosstiaryclass": "Archfoe",
+    "primarytype": "Lycanthropes",
+    "spawntype": [
+        "Triggered"
+    ],
+    "attacktype": "distance",
+    "race_id": "1559",
+    "senseinvis": "yes",
+    "actualname": "Black Vixen",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Black Vixen",
+    "isboss": "yes",
+    "location": "After an [[Earth Portal]] inside [[Cormaya]]'s were-beasts cave.",
+    "iceDmgMod": "90%?",
+    "strategy": "Treat it like a stronger [[Werefox]].",
+    "energyDmgMod": "80%",
+    "deathDmgMod": "50%?"
+}

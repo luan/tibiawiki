@@ -1,0 +1,82 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "demons",
+    "hpDrainDmgMod": "100%",
+    "notes": "It's a [[Goblin]] with demon outfit and name. They turn to dead goblins when they die.",
+    "walksthrough": "?",
+    "hp": "50",
+    "speed": "?",
+    "abilities": "{{Ability List| {{Melee|0-10}}|{{Ability|[[Energy Beam]]|0|element=energy}}|{{Ability|[[Fire Damage|Explosion]]|0|element=fire}} }}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "no",
+    "fireDmgMod": "100%",
+    "holyDmgMod": "100%",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "{{Max Damage|physical=10}}",
+    "pushable": "?",
+    "usedelements": "Physical",
+    "implemented": "7.4",
+    "loot": [
+        {
+            "amount": "0-9",
+            "itemName": "Gold Coin"
+        },
+        {
+            "amount": "0-4",
+            "itemName": "Small Stone"
+        },
+        {
+            "itemName": "Bone"
+        },
+        {
+            "itemName": "Mouldy Cheese"
+        },
+        {
+            "itemName": "Leather Armor"
+        },
+        {
+            "itemName": "Bone Club"
+        },
+        {
+            "itemName": "Dagger"
+        },
+        {
+            "itemName": "Fish"
+        },
+        {
+            "itemName": "Leather Helmet"
+        },
+        {
+            "itemName": "Short Sword"
+        },
+        {
+            "itemName": "Small Axe"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "25",
+    "creatureclass": "Special",
+    "earthDmgMod": "100%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Shapeshifters",
+    "race_id": "107",
+    "senseinvis": "no",
+    "article": "a",
+    "actualname": "demon",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%",
+    "convince": "--",
+    "name": "Demon (Goblin)",
+    "isboss": "no",
+    "behaviour": "They run away when they are in red health.",
+    "location": "[[Pits of Inferno]] ([[Bazir]]'s throneroom), [[Oasis Tomb]].",
+    "iceDmgMod": "100%",
+    "strategy": "The same as a normal [[Goblin]]",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "100%"
+}

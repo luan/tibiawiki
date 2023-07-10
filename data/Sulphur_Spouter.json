@@ -1,0 +1,100 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "sulphur spouters",
+    "hpDrainDmgMod": "100%?",
+    "notes": "<gallery captionalign=\"center\" mode=\"nolines\">\nSulphur Spouter Artwork.jpg|Official [[Creature Artwork]]\n</gallery>",
+    "hp": "19000",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "The sulphur spouter seems to be an elemental and less an actually creature by classification. While other fringe theories suggest that the spouters are just heaps of sulphur possessed and animated by some kind of nature spirit and more related to fairies and pixies there is no proof to support such claims. Whatever their true origin might be, they are on the intelligence level of an animal and able to act on purpose and with an agenda in a limited way. Why this agenda usually seems to involve violence and destruction is not known though. The spouter seems not to rely on any form of sustenance but it seems somewhat to 'recharge' in proximity to naturally occurring sulphur. Therefore the spouter are usually found close to natural occurrences of sulphur like volcanic cracks. There are some vague hints that the sulphur spouters are not native to Gnomprona but migrated there from somewhere else. They seem to be relatively 'new' to the area, though new in the case of such primordial place still means an enormous amount of time to mortal creatures. As their corpses leave distinctive marks on earth, e4xcacvations revealed that such marks are missing in the deepest layers where still bones and other remains were found. The fact that the spouters seem keen to attack explorers and destroy artificial structures not native to the subterranean realm at times lead some to believe that they are somehow remotely controlled or following certain orders imprinted on them. While some think they might have been some kind of pets or servants of an extinct intelligent race that once dwelt in Gomprona, more paranoid Gnomes suggest that they might actually be agents of those below. Serving them as eyes and ears somehow and to link the activity of those below in the area to the recognition of gnomish presence by those creatures. Both theories have little evidence to prove their point of view though. As of now these peculiar creatures remain largely an enigma to science. The fact that captured sulphur spouters die within a few days for no discernible reason, makes any research in that matter complicated at best.",
+    "speed": "180",
+    "abilities": "{{Ability List}}",
+    "pushobjects": "yes",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "fireDmgMod": "0%",
+    "holyDmgMod": "120%",
+    "sounds": [
+        "Gruugl..."
+    ],
+    "pushable": "no",
+    "implemented": "12.90.12182",
+    "bestiaryclass": "Elemental",
+    "loot": [
+        {
+            "itemName": "Sulphur Powder",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Crystal Coin",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Ultimate Mana Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Giant Shimmering Pearl (Green)",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Yellow Gem",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Red Gem",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Knight Legs",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Slightly Rusted Legs",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Warrior's Shield",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Fire Sword",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Crystal Crossbow",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Ring of Red Plasma",
+            "rarity": "rare"
+        }
+    ],
+    "exp": "11517",
+    "creatureclass": "Elementals",
+    "earthDmgMod": "100%",
+    "mitigation": "2.05",
+    "physicalDmgMod": "100%",
+    "primarytype": "Blobs",
+    "attacktype": "Distance",
+    "race_id": "2265",
+    "bestiarylevel": "Challenging",
+    "history": "Its experience was decreased from 13,360 to 11,517 on {{OfficialNewsArchive|6875|July 28, 2022}}.\n\nOn [[Updates/12.91.12383|September 06, 2022]] its health points were increased from 17,100 to 19,000.",
+    "senseinvis": "yes",
+    "article": "a",
+    "actualname": "sulphur spouter",
+    "illusionable": "no",
+    "armor": "84",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "bestiaryname": "sulphurspouter",
+    "name": "Sulphur Spouter",
+    "isboss": "no",
+    "location": "[[Monster Graveyard]]",
+    "iceDmgMod": "100%",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "100%"
+}

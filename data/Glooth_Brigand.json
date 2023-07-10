@@ -1,0 +1,141 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "The Glooth Bandits are a criminal gang. Their main operation is to steal valuable resources for their mastermind's research into mutated glooth. They are oblivious to their mastermind's activities and goals.",
+    "isarenaboss": "no",
+    "walksthrough": "Poison",
+    "hp": "2400",
+    "abilities": "{{Ability List\n |{{Melee|0-300+}}\n |{{Ability|Shoots [[Arrow]]s|40-200?|element=physical\n  |scene={{Scene|spell=5sqmstrike|background=canvas|caster=Glooth Brigand|look_direction=south|missile=Arrow Missile|missile_direction=south-east|missile_distance=5/5}}}}\n |{{Healing|range=200-245+}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "holyDmgMod": "105%",
+    "maxdmg": "{{Max Damage|physical=~500}}",
+    "pushable": "no",
+    "usedelements": "Physical",
+    "implemented": "10.70",
+    "loot": [
+        {
+            "amount": "0-100+",
+            "itemName": "Gold Coin"
+        },
+        {
+            "amount": "0-3+",
+            "itemName": "Platinum Coin"
+        },
+        {
+            "itemName": "Great Mana Potion"
+        },
+        {
+            "itemName": "Ultimate Health Potion"
+        },
+        {
+            "itemName": "Great Spirit Potion"
+        },
+        {
+            "itemName": "Glooth Steak"
+        },
+        {
+            "itemName": "Tainted Glooth Capsule"
+        },
+        {
+            "itemName": "Glooth Capsule"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "Glooth Bag"
+        },
+        {
+            "itemName": "Glooth Blade"
+        },
+        {
+            "itemName": "Rubber Cap"
+        },
+        {
+            "itemName": "Terra Boots"
+        },
+        {
+            "itemName": "Glooth Sandwich"
+        },
+        {
+            "itemName": "Giant Shimmering Pearl (Green)"
+        },
+        {
+            "itemName": "Green Gem"
+        },
+        {
+            "itemName": "Terra Hood"
+        },
+        {
+            "itemName": "Terra Mantle"
+        },
+        {
+            "itemName": "Terra Amulet"
+        },
+        {
+            "itemName": "Mercenary Sword"
+        },
+        {
+            "itemName": "Terra Legs"
+        },
+        {
+            "itemName": "Glooth Amulet"
+        },
+        {
+            "itemName": "Glooth Axe"
+        },
+        {
+            "itemName": "Glooth Club"
+        },
+        {
+            "itemName": "Glooth Spear"
+        },
+        {
+            "itemName": "Heat Core"
+        },
+        {
+            "itemName": "Butcher's Axe"
+        },
+        {
+            "itemName": "Dreaded Cleaver"
+        }
+    ],
+    "walksaround": "Energy, Fire",
+    "exp": "1900",
+    "mitigation": "1.74",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "glooth brigand",
+    "illusionable": "no",
+    "armor": "51",
+    "convince": "--",
+    "name": "Glooth Brigand",
+    "isboss": "no",
+    "iceDmgMod": "90%",
+    "energyDmgMod": "75%",
+    "deathDmgMod": "85%",
+    "plural": "glooth brigands",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "Glooth Brigands, as they also call themselves, hang out at the more or less  abandoned tunnels and sewers under Rathleton. As usual bandits they try to gain something of value for themselves, but they are also highly interested in new glooth-based inventions and weapons. Glooth Brigands are often in the possession of a wide variety of weapons, their armour has usually at least one glooth-based component. They set up their hideouts in secluded and often dangerous caves, tunnels and sewers. Involved in many illegal activities, they can be found in the service of all kind of persons that want some dirty work performed. Mostly though, the theft of new glooth weapons is their main purpose.",
+    "speed": "160",
+    "pushobjects": "yes",
+    "fireDmgMod": "100%",
+    "sounds": [
+        ""
+    ],
+    "runsat": "0",
+    "bestiaryclass": "Human",
+    "creatureclass": "Humans",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "90%",
+    "primarytype": "Outlaws",
+    "race_id": "1120",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "gloothbrigand",
+    "behaviour": "The glooth brigand will chase down its foes, firing arrows if they try to escape.",
+    "location": "[[Underground Glooth Factory]].",
+    "strategy": "'''[[Knights]]:''' Try to not get surrounded by a lot of them, as they tend to take a while to kill between their good amount of [[Hit Points]], physical resistance and [[Self-Healing]] on top of dealing high, constant damage. They can be hunted with good profit around level 150 if care is taken."
+}

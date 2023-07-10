@@ -1,0 +1,71 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "furious trolls",
+    "hpDrainDmgMod": "100%?",
+    "notes": "They can be found in an area accessible during the [[Royal Rescue Quest]].",
+    "walksthrough": "?",
+    "hp": "245",
+    "usespells": "yes",
+    "occurrence": "Uncommon",
+    "speed": "90",
+    "abilities": "{{Ability List\n |{{Melee|0-100}}\n |{{Summon|Mechanical Fighter|2}}\n}}",
+    "pushobjects": "?",
+    "healMod": "100%",
+    "paraimmune": "?",
+    "fireDmgMod": "100%",
+    "holyDmgMod": "100%",
+    "sounds": [
+        "Slice! Slice!",
+        "DIE!!!"
+    ],
+    "maxdmg": "{{Max Damage|physical=100|summons=400}}",
+    "pushable": "No",
+    "usedelements": "Physical",
+    "implemented": "8.50",
+    "bestiaryclass": "Humanoid",
+    "loot": [
+        {
+            "amount": "1-149",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Platinum Coin",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Bunch of Troll Hair",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "War Hammer",
+            "rarity": "rare"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "185",
+    "creatureclass": "Humanoids",
+    "earthDmgMod": "100%",
+    "mitigation": "1.02",
+    "physicalDmgMod": "100%",
+    "primarytype": "Trolls",
+    "race_id": "540",
+    "attacktype": "Melee",
+    "bestiarylevel": "Easy",
+    "senseinvis": "yes",
+    "article": "a",
+    "actualname": "furious troll",
+    "illusionable": "no",
+    "armor": "15",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Furious Troll",
+    "isboss": "no",
+    "behaviour": "Fights to the death in close combat, often summoning [[Mechanical Fighter]]s.",
+    "location": "Old [[Beregar]] mines.",
+    "iceDmgMod": "100%",
+    "strategy": "Kill Furious Trolls first and fast, don't waste time on [[Mechanical Fighter|mechanical fighters]] (unless you are trapped) because trolls will [[Summon Creature|summon]] new ones nearly instantly.",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "100%"
+}

@@ -1,0 +1,154 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "This is a version of [[The Time Guardian]], one of the bosses in the [[Forgotten Knowledge Quest]].",
+    "walksthrough": "?",
+    "hp": "?",
+    "lightcolor": "107",
+    "speed": "?",
+    "abilities": "{{Ability List| {{Melee|?}} }}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "101%>?",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "?",
+    "pushable": "?",
+    "lightradius": "5",
+    "implemented": "11.02.4128",
+    "loot": [
+        {
+            "itemName": "Platinum Coin"
+        },
+        {
+            "itemName": "Blue Crystal Shard"
+        },
+        {
+            "itemName": "Cluster of Solace"
+        },
+        {
+            "itemName": "Mastermind Potion"
+        },
+        {
+            "itemName": "Stone Skin Amulet"
+        },
+        {
+            "itemName": "Gold Coin"
+        },
+        {
+            "itemName": "Phoenix Shield"
+        },
+        {
+            "itemName": "Ultimate Health Potion"
+        },
+        {
+            "itemName": "Small Diamond"
+        },
+        {
+            "itemName": "Gold Token"
+        },
+        {
+            "itemName": "Silver Token"
+        },
+        {
+            "itemName": "Violet Crystal Shard"
+        },
+        {
+            "itemName": "Small Amethyst"
+        },
+        {
+            "itemName": "Violet Gem"
+        },
+        {
+            "itemName": "Ring of Healing"
+        },
+        {
+            "itemName": "Runed Sword"
+        },
+        {
+            "itemName": "Red Gem"
+        },
+        {
+            "itemName": "Great Mana Potion"
+        },
+        {
+            "itemName": "Green Crystal Shard"
+        },
+        {
+            "itemName": "Luminous Orb"
+        },
+        {
+            "itemName": "Skull Staff"
+        },
+        {
+            "itemName": "Blue Gem"
+        },
+        {
+            "itemName": "Yellow Gem"
+        },
+        {
+            "itemName": "Small Emerald"
+        },
+        {
+            "itemName": "Diamond Sceptre"
+        },
+        {
+            "itemName": "Soul Stone"
+        },
+        {
+            "itemName": "Great Spirit Potion"
+        },
+        {
+            "itemName": "Giant Shimmering Pearl"
+        },
+        {
+            "itemName": "Huge Chunk of Crude Iron"
+        },
+        {
+            "itemName": "Small Topaz"
+        },
+        {
+            "itemName": "Magma Coat"
+        },
+        {
+            "itemName": "Small Ruby"
+        },
+        {
+            "itemName": "Glacier Kilt"
+        },
+        {
+            "itemName": "Green Gem"
+        },
+        {
+            "itemName": "Leather Whip"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "50000",
+    "creatureclass": "Special",
+    "earthDmgMod": "100%?",
+    "physicalDmgMod": "100%?",
+    "primarytype": "Machines",
+    "spawntype": [
+        "Triggered"
+    ],
+    "race_id": "1294",
+    "senseinvis": "?",
+    "actualname": "The Freezing Time Guardian",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "The Freezing Time Guardian",
+    "isboss": "yes",
+    "behaviour": "Unknown",
+    "location": "Deep below north-west of [[Edron]], {{Mapper Coords|128.209|123.175|14|2|text=here}} (accessible through the [[Astral Shaper Dungeon]] behind the [[Holy Portal]]).",
+    "iceDmgMod": "-200%?",
+    "strategy": "Unknown, it gets healed with [[Ice Damage]], avoid it.",
+    "energyDmgMod": "100%?",
+    "deathDmgMod": "100%?"
+}

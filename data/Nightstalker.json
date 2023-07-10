@@ -1,0 +1,102 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "The Nightstalker is about as strong as a [[Wyvern]].",
+    "walksthrough": "None",
+    "hp": "700",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "Nightstalkers have haunted the dreams and stories of children since the dawn of mankind and  probably even before that. Like some other demonic creatures, they seem to feed, at least partially, on the fear of their victims. Divination magic revealed that they are no native denizens of our realm, however, the question where Nightstalkers actually come from is still unanswered. They are cunning and intelligent creatures that are even able to talk our language. They prefer lairs in dark and abandoned places like ruins and caves. Sometimes, Nightstalkers form small colonies, but most of them are notorious loners.<br />Sages speculate that the Nightstalkers' wish for loneliness results from their life cycle. At certain stages in their life, they leave the company of their kin to become lonely prowlers that secretly stalk the settlements of civilised creatures to haunt particularly their children. During these stages, Nightstalkers seem to dematerialise, almost like ghosts. They feed on the fears of those around them and adopt features derived from these subconscious fears. Luckily, Nightstalkers also gain a certain vulnerability in this state. After some while, Nightstalkers gradually retransform to their original state. Once they have reached it, they seem to hibernate for a while, which surely explains why they  tend to leave civilised places in advance of the transformation. Thereafter, they live for a longer period in their natural state in which they might be encountered at remote places. During this phase, they do not actively prey on creatures but are more than ready to rip anyone in pieces who gets close to their lairs.",
+    "speed": "130",
+    "abilities": "{{Ability List|{{Melee|0-90|poison=4}}|{{Ability|Holy Life Drain|60-170|lifedrain}}|{{Ability|Invisible||invisible}}|{{Haste}}|{{Ability|Paralyze|sleep effect|slowed}}|{{Healing|range=70-130}}|{{Ability|Creature Illusion|[[Werewolf]], [[Vampire Lord]], [[Grim Reaper]] or [[Ferumbras]] [rare]|shapeshifting}}}}",
+    "pushobjects": "yes",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "secondarytype": "Shapeshifters",
+    "fireDmgMod": "100%",
+    "holyDmgMod": "80%",
+    "sounds": [
+        "The sunlight is so depressing.",
+        "Come with me, my child.",
+        "I've been in the shadow under your bed last night.",
+        "You never know what hides in the night.",
+        "I remember your face - and I know where you sleep.",
+        "Only the sweetest and cruelest dreams for you, my love."
+    ],
+    "maxdmg": "{{Max Damage|physical=90|earth=4|lifedrain=170}}",
+    "pushable": "no",
+    "implemented": "8.40",
+    "bestiaryclass": "Magical",
+    "loot": [
+        {
+            "amount": "0-110",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Strong Mana Potion",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Shadow Herb",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Crystal Ring",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Protection Amulet",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Spirit Cloak",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Platinum Amulet",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Boots of Haste",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Haunted Blade",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Chaos Mace",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Crystal of Balance",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Fire, Energy, Poison",
+    "exp": "500",
+    "creatureclass": "Demons",
+    "earthDmgMod": "100%",
+    "mitigation": "1.18",
+    "physicalDmgMod": "105%",
+    "primarytype": "Dreamhaunters",
+    "race_id": "520",
+    "attacktype": "Melee",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "illusionable": "no",
+    "armor": "40",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "bestiaryname": "nightstalker",
+    "name": "Nightstalker",
+    "isboss": "no",
+    "behaviour": "Never flees. Always fights in close range.",
+    "location": "[[Cemetery Quarter]], [[Vengoth/Castle|Vengoth Castle]], [[Vandura Mountain]], [[Robson Isle]].",
+    "iceDmgMod": "80%",
+    "strategy": "'''All vocations:''' Remember to bring a [[garlic necklace]] when hunting these, as it blocks a considerable amount of damage from their strongest attack and it is also inexpensive. If you plan to hunt for long bring about one necklace per each hour you plan hunting (they last longer than one would think). Don't let him get closer or he will use his strong life drain attack on you.<br>\n'''Knights''' should  use full attack and kill them as fast as possible. Killing them before they get the chance to use their life drain attack can save you any means of healing at all, as their melee will often be weak. The many chances of getting rare items and high gold drop mean this monster can be hunted without a huge waste at lvl 60+.",
+    "energyDmgMod": "105%",
+    "deathDmgMod": "105%"
+}

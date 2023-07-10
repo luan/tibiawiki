@@ -1,0 +1,57 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "Dreadmaw is the [[Killer Caiman]]s' boss.",
+    "walksthrough": "?",
+    "hp": "2000?",
+    "speed": "?",
+    "abilities": "{{Ability List| {{Melee|0-200?}} }}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "100%",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "Unknown",
+    "pushable": "?",
+    "implemented": "8.54",
+    "loot": [
+        {
+            "itemName": "Gold Coin"
+        },
+        {
+            "itemName": "Ham"
+        },
+        {
+            "itemName": "Gold Ingot"
+        },
+        {
+            "itemName": "Piece of Crocodile Leather"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "1500?",
+    "creatureclass": "Reptiles",
+    "earthDmgMod": "80%?",
+    "physicalDmgMod": "100%?",
+    "bosstiaryclass": "Nemesis",
+    "primarytype": "Crocodilians",
+    "race_id": "639",
+    "senseinvis": "yes",
+    "actualname": "Dreadmaw",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Dreadmaw",
+    "isboss": "yes",
+    "behaviour": "Similar to [[Killer Caiman]]s.",
+    "location": "Northen part of [[Muggy Plains]], near the rice fields {{Mapper Coords|130.0|121.181|7|4|text=here}} and{{Mapper Coords|130.17|121.173|7|4|text=here}}.",
+    "iceDmgMod": "100%?",
+    "strategy": "Kill it like an ordinary [[Killer Caiman]].",
+    "energyDmgMod": "105%?",
+    "deathDmgMod": "100%?"
+}

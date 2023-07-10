@@ -1,0 +1,82 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "One of the [[Liberty Bay Raids#Pirate Boss Raid on Liberty Bay|Pirate Raid]] leaders, he's the responsible for invading the fortress located east from [[Liberty Bay]].\n<p>{{JSpoiler|You get a chance to kill him in the [[Killing in the Name of... Quest]] after killing '''3000 pirates''' for [[Raymond Striker]]. The teleporter is located [http://tibia.wikia.com/wiki/Mapper?coords{{=}}124.233-128.85-1-4-1-1 here].<br />[[File:Ron_the_Ripper_-_Killing_in_the_Name_of.._Quest.png|thumb|left|Ron the Ripper]]<br /><br /><br /><br /><br /><br /><br /><br /><br />}}</p>",
+    "walksthrough": "?",
+    "hp": "1500",
+    "speed": "?",
+    "abilities": "{{Ability List| {{Melee|0-250|element=physical}}|{{Ability|[[Throwing Knife|Throwing Knives]]|0-160}}|{{Healing}}|{{Ability|[[Life Drain|Musical Strike]]|element=lifedrain}} }}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "100%?",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        "Muahaha!"
+    ],
+    "maxdmg": "410",
+    "pushable": "?",
+    "implemented": "7.8",
+    "loot": [
+        {
+            "amount": "0-77+",
+            "itemName": "Gold Coin"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "Skull (Item)"
+        },
+        {
+            "itemName": "Great Health Potion"
+        },
+        {
+            "itemName": "Meat"
+        },
+        {
+            "itemName": "Dagger"
+        },
+        {
+            "itemName": "Plate Armor"
+        },
+        {
+            "itemName": "Knight Armor"
+        },
+        {
+            "itemName": "Double Axe"
+        },
+        {
+            "itemName": "Small Diamond"
+        },
+        {
+            "itemName": "Very Old Piece of Paper"
+        },
+        {
+            "itemName": "Pirate Backpack"
+        },
+        {
+            "itemName": "Ron the Ripper's Sabre",
+            "rarity": "always"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "500",
+    "creatureclass": "Humans",
+    "earthDmgMod": "100%?",
+    "physicalDmgMod": "100%?",
+    "primarytype": "Pirates",
+    "race_id": "273",
+    "senseinvis": "?",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Ron the Ripper",
+    "isboss": "yes",
+    "behaviour": "'''Ron the Ripper''' retreats in [[Health|red health]].",
+    "location": "[[Liberty Bay Raids#Pirate Boss Raid on Liberty Bay|Pirate Raids]], spawning in the eastern fortress.",
+    "iceDmgMod": "100%?",
+    "strategy": "'''[[Knight]]s''' should use [[Berserk]] or [[Fierce Berserk]]. If you see there are too many players fighting to kill the boss, focus '''all''' your attacks on him and try to get the most [[Experience]] to loot the [[Ron the Ripper's Sabre]].",
+    "energyDmgMod": "100%?",
+    "deathDmgMod": "100%?"
+}

@@ -1,0 +1,196 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "angry demons",
+    "hpDrainDmgMod": "0%",
+    "notes": "These are practically equal to [[Demon]]s, but Angry Demons only spawn as the result of the trigger that initiates [[The Annihilator Quest]].",
+    "walksthrough": "Fire, Energy, Poison",
+    "hp": "8200",
+    "speed": "128",
+    "abilities": "{{Ability List\n |{{Melee|0-500}}\n |{{Ability|Great Fireball|150-250|fire\n  |scene={{Scene|spell=5sqmballtarget|effect=Fireball Effect|caster=Angry Demon|damage_effect=Fire Effect|missile=Fire Missile|missile_direction=south-east|missile_distance=5/5|edge_size=32}}}}\n |{{Ability|Great Energy Beam|300-480|lifedrain\n  |scene={{Scene|spell=8sqmbeam|effect=Purple Electricity Effect|caster=Angry Demon|look_direction=east}}}}\n |{{Ability|Close-range Energy Strike|210-300|element=energy\n  |scene={{Scene|spell=1sqmstrike|effect=Blue Electricity Effect|caster=Angry Demon|missile=Energy Missile|missile_direction=south-east|missile_distance=1/1}}}}\n |{{Ability|Mana Drain|30-120|element=mana drain\n  |scene={{Scene|spell=3sqmstrike|effect=Cloud Effect|caster=Angry Demon|missile=Death Missile (Large)|missile_direction=south-east|missile_distance=3/3|damage_effect=Unknown}}}}\n |{{Healing|range=80-250}}\n |{{Ability|Shoots Fire Field|element=fire field\n  |scene={{Scene|spell=3sqmstrike|caster=Angry Demon|effect=Fire|missile=Fire Missile|missile_direction=south-east|missile_distance=3/3}}}}\n |{{Ability|Distance Paralyze|element=paralyze\n  |scene={{Scene|spell=3sqmstrike|effect=Cloud Effect|caster=Angry Demon|missile=Death Missile (Large)|missile_direction=south-east|missile_distance=3/3}}}}\n |{{Summon|Fire Elemental|1}}\n}}",
+    "pushobjects": "Yes",
+    "healMod": "100%?",
+    "paraimmune": "yes",
+    "fireDmgMod": "0%",
+    "holyDmgMod": "112%",
+    "sounds": [
+        "Your soul will be mine!",
+        "CHAMEK ATH UTHUL ARAK!",
+        "I SMELL FEEEEAAAAAR!",
+        "Your resistance is futile!",
+        "MUHAHAHA"
+    ],
+    "maxdmg": "{{Max Damage|physical=500|fire=250|lifedrain=480|energy=300|manadrain=120|summons=250}}",
+    "pushable": "No",
+    "implemented": "11.02.4128",
+    "loot": [
+        {
+            "amount": "0-100",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "amount": "3-6",
+            "itemName": "Platinum Coin",
+            "rarity": "common"
+        },
+        {
+            "amount": "0-3",
+            "itemName": "Great Mana Potion",
+            "rarity": "common"
+        },
+        {
+            "amount": "0-3",
+            "itemName": "Great Spirit Potion",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Demonic Essence",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "0-3",
+            "itemName": "Ultimate Health Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Demon Horn",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "0-6",
+            "itemName": "Fire Mushroom",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "0-10",
+            "itemName": "Assassin Star",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "0-5",
+            "itemName": "Small Topaz",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "0-5",
+            "itemName": "Small Ruby",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "0-5",
+            "itemName": "Small Amethyst",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "0-5",
+            "itemName": "Small Emerald",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Talon",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Orb",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Fire Axe",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Stealth Ring",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Red Gem",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Ring of Healing",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Might Ring",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Giant Sword",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Ice Rapier",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Golden Sickle",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Purple Tome",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Devil Helmet",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Gold Ring",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Demon Shield",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Platinum Amulet",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Mastermind Shield",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Golden Legs",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Magic Plate Armor",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Demon Trophy",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Demonrage Sword",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "None",
+    "exp": "6000",
+    "creatureclass": "Demons",
+    "earthDmgMod": "60%",
+    "physicalDmgMod": "75%",
+    "primarytype": "Demons",
+    "spawntype": [
+        "Triggered",
+        "Unblockable"
+    ],
+    "senseinvis": "yes",
+    "article": "an",
+    "actualname": "angry demon",
+    "illusionable": "no",
+    "armor": "40",
+    "drownDmgMod": "0%",
+    "convince": "--",
+    "name": "Angry Demon",
+    "isboss": "no",
+    "behaviour": "Same as for [[Demon]]s.",
+    "location": "The room of [[The Annihilator Quest]].",
+    "iceDmgMod": "112%",
+    "strategy": "Treat them like regular [[Demon]]s.",
+    "energyDmgMod": "50%",
+    "deathDmgMod": "80%"
+}

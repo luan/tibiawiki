@@ -1,0 +1,101 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "Appeared the first time with [[Updates/8.2|Summer Update 2008]]. He is a random spawn with no announcement.\n\n<gallery captionalign=\"left\" widths=\"199\" heights=\"199\" mode=\"nolines\">\nFile:Boss Behemoth.jpg|Stonecracker on [[Unitera]]\nStonecrackers Lair.jpg|Stonecrackers Lair for Grizzly Adams Behemoth Task\n</gallery>\n\n{{JSpoiler|Part of the [[Killing in the Name of... Quest]]. The portal which leads to the boss is upstairs in west tunnel of the deepest floor of [[Cyclopolis]] ({{Mapper Coords|129.227|123.231|14|text=here}}).}}",
+    "walksthrough": "Fire, Poison",
+    "hp": "6500",
+    "speed": "?",
+    "abilities": "{{Ability List| {{Melee|0-564?}}|{{Ability|[[Distance Fighting|Earth Boulder]]|200-280|element=earth}}|{{Haste|[[Strong Haste]]}}|{{Healing}} }}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "yes",
+    "fireDmgMod": "60%",
+    "holyDmgMod": "99%<?",
+    "sounds": [
+        "HUAHAHA!"
+    ],
+    "maxdmg": "840+",
+    "pushable": "?",
+    "implemented": "8.20",
+    "loot": [
+        {
+            "amount": "0-78",
+            "itemName": "Gold Coin"
+        },
+        {
+            "amount": "0-3",
+            "itemName": "Meat"
+        },
+        {
+            "itemName": "Big Bone"
+        },
+        {
+            "itemName": "Crowbar"
+        },
+        {
+            "itemName": "Double Axe"
+        },
+        {
+            "itemName": "Two Handed Sword"
+        },
+        {
+            "amount": "0-100",
+            "itemName": "Assassin Star"
+        },
+        {
+            "itemName": "War Axe"
+        },
+        {
+            "amount": "0-3",
+            "itemName": "Small Amethyst"
+        },
+        {
+            "itemName": "Strange Symbol"
+        },
+        {
+            "itemName": "Dark Armor"
+        },
+        {
+            "itemName": "Steel Boots"
+        },
+        {
+            "itemName": "Giant Sword"
+        },
+        {
+            "itemName": "Shiny Stone"
+        },
+        {
+            "itemName": "Perfect Behemoth Fang"
+        },
+        {
+            "itemName": "Behemoth Claw"
+        },
+        {
+            "itemName": "Great Health Potion"
+        },
+        {
+            "itemName": "Behemoth Trophy"
+        }
+    ],
+    "walksaround": "Energy",
+    "exp": "3500",
+    "creatureclass": "Humanoids",
+    "earthDmgMod": "25%",
+    "physicalDmgMod": "99%<?",
+    "primarytype": "Giants",
+    "race_id": "441",
+    "senseinvis": "yes",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Stonecracker",
+    "isboss": "yes",
+    "behaviour": "This boss behaves similar to a [[Behemoth]], only with stronger attacks and the ability to heal itself.",
+    "location": "Stonecracker spawns near the stairs which lead to the [[Behemoth Quest]] room. It's also possible that it spawns after the level 30 door (as shown in the image) with 3 Behemoths. There were rumours at one time that it dropped [[Earthborn Titan Armor]] which appear to be false.",
+    "iceDmgMod": "100%?",
+    "strategy": "Fairly easy for a level 80 knight to block.",
+    "energyDmgMod": "70%",
+    "deathDmgMod": "100%?"
+}

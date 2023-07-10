@@ -1,0 +1,111 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "New creature in the Summer update 2007. Found underneath [[Helheim]], in small areas locked inside buldings similar to [[Hellgate]]. Commonly found along with monsters such as, [[Bonelord]]s, [[Elder Bonelord]]s, [[Undead Dragon]]s, [[Betrayed Wraith]]s and other [[PoI]] monsters. After the spring update 2012 you can no longer use [[Blessed Wooden Stake]] on the summoned [[Vampire]]s corpses in order to get [[Vampire Dust]]: the vampires poof after the braindeath has been killed.",
+    "walksthrough": "Fire, Energy, Poison",
+    "hp": "1225",
+    "abilities": "{{Ability List\n |{{Melee|0-70?}}\n |{{Summon|Vampire|2}}\n |{{Ability|Death Missile|154-170|element=death\n  |scene={{Scene|spell=7sqmstrike|caster=Braindeath|look_direction=south|effect=Cloud Effect|missile=Death Missile|missile_direction=south-east|missile_distance=7/7}}}}\n |{{Ability|Fire Missile|123-155|element=fire\n  |scene={{Scene|spell=7sqmstrike|caster=Braindeath|look_direction=south|effect=Fireball Effect|damage_effect=Fire Effect|missile=Fire Missile|missile_direction=south-east|missile_distance=7/7}}}}\n |{{Ability|Distance Life Drain|150-159|element=life drain\n  |scene={{Scene|spell=7sqmstrike|caster=Braindeath|look_direction=south|effect=Cloud Effect|damage_effect=Red Sparkles Effect|missile=Death Missile|missile_direction=south-east|missile_distance=7/7}}}}\n |{{Ability|Mana Drain|146-156|element=manadrain\n  |scene={{Scene|spell=7sqmstrike|caster=Braindeath|look_direction=south|effect=Red Sparkles Effect|missile=Energy Missile|missile_direction=south-east|missile_distance=7/7}}}}\n |{{Ability|Earth Missile|47-125|element=earth\n  |scene={{Scene|spell=7sqmstrike|caster=Braindeath|look_direction=south|effect=Poison Effect 1|missile=Poison Missile|missile_direction=south-east|missile_distance=7/7}}}}\n |{{Ability|Energy Missile|93-170|element=energy\n  |scene={{Scene|spell=7sqmstrike|caster=Braindeath|look_direction=south|effect=Blue Electricity Effect|missile=Energy Missile|missile_direction=south-east|missile_distance=7/7}}}}\n |{{Ability|Ranged Paralysis|Reduces 385-400 speed levels|paralyze\n  |scene={{Scene|spell=7sqmstrike|caster=Braindeath|look_direction=south|effect=Cloud Effect|missile=Death Missile|missile_direction=south-east|missile_distance=7/7}}}}\n |{{Healing|range=152-188\n   |scene={{Scene|spell=buffspell|effect=Blue Electricity Effect|caster=Braindeath|look_direction=south|effect_on_caster=yes}}}}\n |{{Haste}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "secondarytype": "The Undead",
+    "holyDmgMod": "120%",
+    "maxdmg": "155 [[Mana Drain|mana drain]] and 690 (with 2 summons: 1390)",
+    "pushable": "no",
+    "implemented": "8.00",
+    "loot": [
+        {
+            "amount": "1-90",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Bone Sword",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-4",
+            "itemName": "Sniper Arrow",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Steel Shield",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Bonelord Eye",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Clerical Mace",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Piece of Dead Brain",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Haunted Blade",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Spellbook",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Bonelord Helmet",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Bonelord Shield",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Spiked Squelcher",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "None",
+    "exp": "985",
+    "mitigation": "0.67",
+    "attacktype": "Distance",
+    "history": "The Braindeath was added in the Summer Update 2007. Since teaser pictures showed one with a [[Nightmare]] people started to think they summoned nightmares. Initially, '''Braindeaths''' summoned up to four [[Vampire]]s at once. This was reduced to two in a later update.",
+    "article": "a",
+    "actualname": "braindeath",
+    "illusionable": "no",
+    "armor": "12",
+    "convince": "--",
+    "name": "Braindeath",
+    "isboss": "no",
+    "iceDmgMod": "80%",
+    "energyDmgMod": "90%",
+    "deathDmgMod": "0%",
+    "plural": "braindeaths",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "lightcolor": "180",
+    "occurrence": "Common",
+    "bestiarytext": "Some of the most ancient bonelords have gained so much power over undeath that they cross the margin between life and death. What might be considered the transformation of a living being into one of the dreaded liches, turns into something very sinister. Neither alive nor truly dead, they dwell on the border of two realms. Having mastered unspeakable techniques and twisted their own minds in ways unfathomable for other beings, they 'broke' something in their minds or rather in their souls. The part that connects each and everything to the living world is not working right in these creatures. At this step other creatures would just turn mad or wither, but some of the ancient bonelords face another fate. Through sheer will and unthinkable understanding of the thin lines between life and death, they grasp to the concept of existence. Just like they once animated their undead minions, they now keep their decaying but not really dead bodies in motion. Parts of their twisted minds are forever trapped in the realm of the dead though, captured in a constant nightmare that slowly tries to erode their sanity. To prevent the drifting off in this dream of death, they have removed parts of their skull. This way they are able to constantly stimulate their own brains with jolts of energy from their eye stalks. In a magical surgery, they have added an eye-stalklike appendage and attached a stinger to their body. It is used to leech brain fluids from helpless victims to sustain their own existence. Their central eye is sealed shut to prevent any unnecessary distraction from their inward struggle. As the central eye is normally used for bonelord communication, the Braindeath has no way to communicate with other bonelords. It relies on verbal communication which makes it disgusting even for its own kind.<br />Their mastery of death makes them formidable opponents. Luckily, they do not often meddle with the affairs of the living. Those who for some reason cross the path of a Braindeath should be prepared for a tough fight. With little regard for its own life or that of any other being, the Braindeath will attack with an array of devastating powers that outshines every other bonelord. Commanding powerful minions from beyond the grave and possessing the resilience of undeath, a Braindeath is a nearly unstoppable force if not countered with the correct tactics.",
+    "speed": "109",
+    "pushobjects": "yes",
+    "fireDmgMod": "115%",
+    "sounds": [
+        "You have disturbed my thoughts!",
+        "I will turn you into something more useful!",
+        "Let me taste your brain!",
+        "You will be punished!"
+    ],
+    "lightradius": "3",
+    "bestiaryclass": "Undead",
+    "creatureclass": "Invertebrates",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "85%",
+    "primarytype": "Bonelords",
+    "race_id": "321",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "braindeath",
+    "behaviour": "Keeps distance.",
+    "location": "[[Helheim]], [[Demon Forge]] ([[The Arcanum]]), beneath [[Fenrock]], [[Vandura Bonelord Cave]], [[Alchemist Quarter]] and [[Cemetery Quarter]].",
+    "strategy": "For [[knight]]s, try to chase it to a corner to trap it because of its speed and use [[Fierce Berserk]] if you have too many summons hitting you. It's easier to team kill with a [[knight]] trapping with while [[paladin]]s or [[mage]]s shoot from a safe distance.<br />A lvl 70 [[paladin]] can solo this monster with few strong mana potions and strong health potions. 80+ [[distance]] recommended. <br /> Solo [[mage]]'s should not attempt one of these before level 60 and should use strategy to try and kill them. Try to trap it in a corner and kill it with [[Flame Strike]] or use walls or other obstacles to try and get it to come closer to you. In places such as [[Cemetery Quarter]] be careful not to run them into other groups of creatures!"
+}

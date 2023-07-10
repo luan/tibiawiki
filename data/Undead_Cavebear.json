@@ -1,0 +1,75 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%",
+    "notes": "Undead Cavebears are a semi-rare spawn in [[Lich Hell]] ([[Ramoa]]). You can [[Undead Cavebear (Mount)|tame]] them using a [[Maxilla Maximus]]. They spawn once every 3-4 days, in three \"waves\":\n* One Undead Cavebear spawns on the eastern spot between 0 and 14 hours after the server save.\n* One or two Cavebears spawn on the middle spot 5 hours after the first one spawned.\n* Two or three Cavebears spawn on the western spot 5 hours after the second wave spawned.\nTheir spawn cannot be blocked by standing in the screen.\n<gallery captionsize=\"medium\" mode=\"nolines\">\nUndead Cavebears on Nova.png|3 Undead Cavebears on [[Nova]]\nUndeadcavebear.png|Undead Cavebear on [[Ocera]]\nUndead Cavebear Spawn.jpg|Undead Cavebear on [[Calmera]]\nUndead Cavebear on Rubera.jpg|Undead Cavebear on [[Rubera]]\nUndead cavebear.png|Undead Cavebear on [[Garnera]]\nCavebears Spawning cropped.png|If you track the first waves you can know exactly when the next one will appear.\n</gallery>",
+    "walksthrough": "Poison",
+    "hp": "450",
+    "occurrence": "Very Rare",
+    "bestiarytext": "When the long forgotten ancestors of modern necromancers in dark caves sang their ritual chants, those ancient priests of death often rose one of the most fearsome beasts their race had to handle. They focused their powers to raise the mighty Undead Cavebear to unlife. This vicious beast was one of the masters that used to rule the mountains of old.<br />In unlife it is bent to the will of their summoners and spreads fear and death in the ranks of their enemies. An Undead Cavebear used to be not only a tool and minion, it was a symbol of status and leadership, not unlike a sceptre. Once an integral part of necromancy, the primal powers that aroused the Undead Cavebears from death have been forgotten and discarded in favour of more subtle magic that allowed more complicated creations.<br />In modern times the questionable honour of rediscovering the incantations belongs to ambitious researchers of the past. The bones they unburied and that belonged to powerful ancient necromantic priests were stolen and served as paraphernalia to summon ancient spirits and teach modern necromancers their arts. The raw and archaic enchantments quickly spread through the ranks of modern necromancers and so more and more Undead Cavebears are seen again as minions of death. As rumours go, the 'modern' Undead Cavebears are joined with some ancient constructs that somewhere withstood the ravages of time thanks to their robust nature and powerful enchantments.",
+    "speed": "109",
+    "abilities": "{{Ability List|{{Melee|0-150?}}|{{Ability|[[Sudden Death]]|70-130|death}}|{{Ability|[[Sudden Death]] [[Berserk]]|50+|death}}|{{Ability|[[Life Drain]] Bomb|?|lifedrain}}|{{Ability|Poison Beam|?|earth}}}}",
+    "pushobjects": "?",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "secondarytype": "Bears",
+    "fireDmgMod": "100%",
+    "holyDmgMod": "125%",
+    "sounds": [
+        "Grrrrrrrrrrrr",
+        "Groooowl"
+    ],
+    "maxdmg": "{{Max Damage|physical=150?|death=180|lifedrain=?|earth=?}}",
+    "pushable": "no",
+    "implemented": "8.70",
+    "bestiaryclass": "Undead",
+    "loot": [
+        {
+            "amount": "1-89",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Maxilla",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Health Potion",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Cavebear Skull",
+            "rarity": "rare"
+        }
+    ],
+    "walksaround": "Fire, Energy",
+    "exp": "600",
+    "creatureclass": "The Undead",
+    "earthDmgMod": "0%",
+    "mitigation": "0.72",
+    "physicalDmgMod": "100%",
+    "primarytype": "Skeletons",
+    "spawntype": [
+        "Raid",
+        "Unique",
+        "Unblockable"
+    ],
+    "race_id": "696",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "article": "an",
+    "actualname": "undead cavebear",
+    "illusionable": "no",
+    "armor": "28",
+    "drownDmgMod": "100%",
+    "convince": "--",
+    "bestiaryname": "undeadcavebear",
+    "name": "Undead Cavebear",
+    "isboss": "no",
+    "behaviour": "Undead Cavebears fight to the death.",
+    "location": "[[Lich Hell]], [https://tibia.fandom.com/wiki/Mapper?coords=124.204-127.66-10-4-1-1&mark1=124.169-127.48-10-9&mark2=124.221-127.81-10-9&mark3=124.236-127.48-10-9 spots are marked here].\n<noinclude><br />{{Minimap|x=124.205|y=127.65|z=10|zoom=2|zoomm=1|width=0.4|height=0.3|centermark=no|mark1=124.169,127.48,9,|mark2=124.221,127.81,9,|mark3=124.236,127.48,9,}}</noinclude>",
+    "iceDmgMod": "100%",
+    "strategy": "Just attack it, it has low armor.",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "0%"
+}

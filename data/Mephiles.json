@@ -1,0 +1,60 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "0%",
+    "notes": "It's the third floor boss. Use his body to get a random reward before you use the body of Evil Mastermind, otherwise you may not get any item. Is an [[Allusions|allusion]] to the demon Mephistopheles that appears in literature as a stock character version of the Devil.",
+    "walksthrough": "Fire",
+    "hp": "415",
+    "speed": "?",
+    "abilities": "{{Ability List| {{Melee|0-35}}|{{Ability|[[Fire|Fire Explosion]]|15-45|element=fire}}|{{Haste|[[Strong Haste]]}}|{{Ability|[[invisibility]]|element=invisible}}|{{Ability|[[Summon|Fire Bomb]] summon 2 [[Fire Devil]]s|element=summon}} }}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "0%",
+    "holyDmgMod": "105%",
+    "sounds": [
+        "I have a contract here which you should sign!",
+        "I sence so much potential in you. It's almost a shame I have to kill you.",
+        "Yes, slay me for the loot I might have. Give in to your greed.",
+        "Wealth, Power, it is all at your fingertips. All you have to do is a bit blackmailing and bullying.",
+        "Come on. being a bit evil won't hurt you."
+    ],
+    "maxdmg": "80 (400 with 2 summons)",
+    "pushable": "?",
+    "implemented": "8.50",
+    "loot": [
+        {
+            "itemName": "Stale Bread of Ancientness"
+        },
+        {
+            "itemName": "Poet's Fencing Quill"
+        },
+        {
+            "itemName": "The Rain Coat"
+        },
+        {
+            "itemName": "Shield of the White Knight"
+        }
+    ],
+    "walksaround": "Energy, Poison",
+    "exp": "415",
+    "creatureclass": "Demons",
+    "earthDmgMod": "50%",
+    "physicalDmgMod": "110%",
+    "bosstiaryclass": "Bane",
+    "primarytype": "Imps",
+    "race_id": "566",
+    "senseinvis": "yes",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Mephiles",
+    "isboss": "yes",
+    "behaviour": "He will attack at a certain distance. Therefore, if you approach him, he will run away.",
+    "location": "[[Isle of Evil]].",
+    "iceDmgMod": "110%",
+    "strategy": "Corner him and kill it fast.",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "100%?"
+}

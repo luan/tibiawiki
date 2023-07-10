@@ -1,0 +1,83 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "It spawns every 4 hours starting immediately after [[Server Save]] on [[Halloween]] (between the [[Server Save]]s of October 31 and November 3). When it spawns, the following message is broadcast to all players:\n:{{Server Message|Oh noes! It's a mutated pumpkin!}}\n\nOnce the Mutated Pumpkin has been slain, a portal east of [[Darashia]] opens for 30 minutes ({{Mapper Coords|130.37|126.159|7|4|text=here}}), where all fighters can [[Skinning|skin]] the [[Slain Mutated Pumpkin|corpse]] for the achievement [[Mutated Presents]], and one of the following:\n* {{Ilink|Spiderwebs}} [[Spiderwebs]]\n* {{Ilink|Toy Spider}} [[Toy Spider]]\n* {{Ilink|Bat Decoration}} [[Bat Decoration]]\n* {{Ilink|Skeleton Decoration}} [[Skeleton Decoration]]\n* {{Ilink|Yummy Gummy Worm}} 20 [[Yummy Gummy Worm]]s\n* {{Ilink|Surprise Bag (Red)}} [[Surprise Bag (Red)]]\n* {{Ilink|Surprise Bag (Blue)}} [[Surprise Bag (Blue)]]\n* {{Ilink|Bar of Chocolate}} [[Bar of Chocolate]]\n* {{Ilink|Pumpkinhead}} [[Pumpkinhead]]\n* {{Ilink|Pumpkin}} [[Pumpkin]]\n* {{Ilink|Candy Cane}} 50 [[Candy Cane]]s\n* {{Ilink|Candy}} 50 [[Candy|Candies]]\n* {{Ilink|Bar of Chocolate}} 50 [[Bar of Chocolate|Bars of Chocolate]]\nThe exiting portal will take the player to [[Darashia]] [[Temple]]. You will be automatically kicked out of the reward room after 5 minutes with the message \"You can't bear staying in this room any longer.\"\n\n<noinclude><gallery captionalign=\"center\"  mode=\"nolines\">\nElysiapumpk.jpg|The Mutated Pumpkin on Elysia\nMutpam.png|Reward room\n</gallery></noinclude>",
+    "walksthrough": "?",
+    "hp": "500000",
+    "lightcolor": "198",
+    "speed": "?",
+    "abilities": "{{Ability List\n |{{Melee|0-288+}}\n |{{Ability|Mana Drain Wave|8-12|manadrain\n  |scene={{Scene|spell=7sqmwave|caster=The Mutated Pumpkin|look_direction=east|effect=Blue Confetti Effect}}}}\n |{{Ability|Giant Star Bomb|makes you heavily [[Drunkenness|drunk]]|drunk\n  |scene={{Scene|spell=6sqmballself|caster=The Mutated Pumpkin|look_direction=south|effect=Stars Effect|effect_on_caster=yes}}}}\n |{{Outfit|no|Druid Outfit}}\n |{{Outfit|yes|The Mutated Pumpkin}}\n |{{Ability|Linear Terra Wave|turns you into a [[pumpkin]]|shapeshifting}}\n |{{Ability|Confetti Wave|gives you [[haste]]|haste\n  |scene={{Scene|spell=7sqmwave|caster=The Mutated Pumpkin|look_direction=east|effect=Confetti Effect}}}}\n |{{Ability|Poison Wave|13-15|death\n  |scene={{Scene|spell=6sqmwavewide2|caster=The Mutated Pumpkin|look_direction=east|effect=Poison Effect 3}}}}\n |{{Ability|Music Wave||None\n  |scene={{Scene|spell=5sqmwavewide2|caster=The Mutated Pumpkin|look_direction=east|effect=Red Notes Effect}}}}\n |{{Ability|Mana Drain|0-125+|manadrain}}\n |{{Ability|Invisible||invisible\n  |scene={{Scene|spell=buffspell|effect=Poof Effect|caster=The Mutated Pumpkin|look_direction=south|effect_on_caster=yes}}}}\n |{{Ability|Taunt|unknown effect|?\n  |scene={{Scene|spell=buffspell|effect=Snoring Effect|caster=The Mutated Pumpkin|look_direction=south|effect_on_caster=yes}}}}\n |{{Healing|range=2000-2900}}\n}}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "yes",
+    "secondarytype": "Shapeshifters",
+    "fireDmgMod": "100%",
+    "holyDmgMod": "100%",
+    "sounds": [
+        "I had the Halloween Hare for breakfast!",
+        "Your soul will be mine...wait, wrong line",
+        "Trick or treat? I saw death!",
+        "No wait! Don't kill me! It's me, your friend!",
+        "Bunnies, bah! I'm the real thing!",
+        "Muahahahaha!",
+        "I've come to avenge all those mutilated pumpkins!",
+        "Wait until I get you!",
+        "Fear the spirit of Halloween!",
+        "You, my little mouse, are doomed."
+    ],
+    "maxdmg": "{{Max Damage|physical=288+|manadrain=137+|death=15}}",
+    "pushable": "no",
+    "lightradius": "6",
+    "runsat": "0",
+    "implemented": "8.30",
+    "loot": [
+        {
+            "amount": "10",
+            "itemName": "Yummy Gummy Worm"
+        },
+        {
+            "amount": "5",
+            "itemName": "Pumpkin"
+        },
+        {
+            "itemName": "Spiderwebs"
+        },
+        {
+            "itemName": "Toy Spider"
+        },
+        {
+            "itemName": "Skeleton Decoration"
+        },
+        {
+            "itemName": "Bat Decoration"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "30000",
+    "creatureclass": "Special",
+    "earthDmgMod": "100%",
+    "physicalDmgMod": "100%?",
+    "bosstiaryclass": "Nemesis",
+    "primarytype": "Event Creatures",
+    "spawntype": [
+        "Unique",
+        "Unblockable"
+    ],
+    "race_id": "466",
+    "history": "[[The Mutated Pumpkin]] was introduced during [[Halloween]] 2008. The possible rewards for defeating it were [[Spiderwebs]], [[Pumpkin]], [[Candy Cane]]s, [[Surprise Bag (Red)]], [[Bat Decoration]], [[Bar of Chocolate]], [[Skeleton Decoration]], [[Pumpkinhead]] or [[Yummy Gummy Worm]]s.\n\nSince 2009, its body couldn't be moved or walked over as to receive the rewards, one had to use an [[Obsidian Knife]]. After using the knife, players would be teleported to [[Darashia]] [[Depot]] to prevent blocking the rewards for others. Also, [[Toy Spider]] and [[Surprise Bag (Blue)]] where added to the rewards. \n\nIn 2013 its loot was changed to the [[Cooperative Loot System]]; every participant since then receives 5 [[Pumpkin]]s and 10 [[Yummy Gummy Worm]]s, while the rare items are awarded to players with high participation points among the fighters.\n\nOn Halloween 2011, some more {{Thread|31430650|changes}} were made to The Mutated Pumpkin invasion. Only the last twenty players who dealt damage to it were able to receive a reward (this was fixed in 2012). 50 [[Candy|Candies]] were also added to the list of possible rewards.",
+    "senseinvis": "yes",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "The Mutated Pumpkin",
+    "isboss": "yes",
+    "behaviour": "Fights in close combat.",
+    "location": "Spawns west of [[Darashia]] around {{Mapper Coords|129.91|126.142|7|2|text=here}} or {{Mapper Coords|129.71|126.125|7|2|text=here}} or {{Mapper Coords|129.68|126.162|7|2|text=here}} during [[Halloween]].",
+    "iceDmgMod": "100%?",
+    "strategy": "Try to trap it since it retargets a lot and it's very fast. Then just attack it until it's dead.",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "100%?",
+    "status": "event"
+}

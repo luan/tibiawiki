@@ -1,0 +1,82 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "Iks churrascans",
+    "hpDrainDmgMod": "100%",
+    "notes": "When an [[Iks Chuka]], [[Iks Aucar]] or [[Iks Pututu]] dies near one of the Crossed Spears in [[Iksupan]], there's a chance that 5 Iks Churrascan spawn. Once all 5 Churrascan are killed, one [[Iks Ahpututu]] will spawn. Note that the Churrascan only last for some seconds before disappearing if not killed.",
+    "walksthrough": "Energy, Fire, Poison",
+    "hp": "1520",
+    "usespells": "yes",
+    "occurrence": "Rare",
+    "speed": "105",
+    "abilities": "{{Ability List\n |{{Melee|?}}\n |{{Ability|Dust Beam|?|element=physical\n  |scene={{Scene|spell=4sqmbeam|caster= Iks Churrascan|look_direction=east|effect=Dust Effect|damage_effect=Blood Effect}}}}\n |{{Ability|Explosion Strike|100~|element=physical\n  |scene={{Scene|spell=1sqmstrike|caster= Iks Churrascan|look_direction=south|effect=Explosion Effect|damage_effect=Blood Effect}}}}\n |{{Ability|Dust Up|unknown|element=?\n  |scene={{Scene|spell=buffspell|effect=Dust Effect|caster= Iks Churrascan|look_direction=south|effect_on_caster=yes}}}}\n |{{Ability|Spark|unknown|element=?\n  |scene={{Scene|spell=buffspell|effect=Yellow Electricity Effect|caster= Iks Churrascan|look_direction=south|effect_on_caster=yes}}}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "?",
+    "fireDmgMod": "95%",
+    "holyDmgMod": "100%",
+    "sounds": [
+        "Gnahrgh!"
+    ],
+    "maxdmg": "0",
+    "implemented": "13.10.12852",
+    "bestiaryclass": "Undead",
+    "loot": [
+        {
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Small Enchanted Sapphire",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Green Crystal Splinter",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Brown Crystal Splinter",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Small Ruby",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Small Emerald",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Onyx Chip",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Opal",
+            "rarity": "semi-rare"
+        }
+    ],
+    "walksaround": "None",
+    "exp": "0",
+    "creatureclass": "The Undead",
+    "earthDmgMod": "100%",
+    "mitigation": "1.32",
+    "physicalDmgMod": "95%",
+    "primarytype": "Iks",
+    "attacktype": "Melee",
+    "race_id": "2350",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "article": "an",
+    "actualname": "Iks churrascan",
+    "illusionable": "no",
+    "armor": "36",
+    "drownDmgMod": "100%",
+    "convince": "--",
+    "name": "Iks Churrascan",
+    "isboss": "no",
+    "behaviour": "Disappears after 15 seconds.",
+    "location": "[[Iksupan]]",
+    "iceDmgMod": "105%",
+    "strategy": "Kill it fast before it disappears.",
+    "energyDmgMod": "105%",
+    "deathDmgMod": "110%"
+}

@@ -1,0 +1,75 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "reflections of Mawhawk",
+    "hpDrainDmgMod": "100%?",
+    "notes": "It's somehow related to the [[Mawhawk]] and very similar to it in power. Part of the [[Opticording Sphere Quest]].",
+    "walksthrough": "?",
+    "hp": "45000",
+    "speed": "?",
+    "abilities": "{{Ability List| {{Melee|0-1000+}}|{{Ability|explosion wave|0-500+|element=?}}|{{Healing}} }}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "100%?",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "?",
+    "pushable": "?",
+    "runsat": "0",
+    "implemented": "11.50.6055",
+    "loot": [
+        {
+            "amount": "0-200",
+            "itemName": "Gold Coin"
+        },
+        {
+            "amount": "0-25",
+            "itemName": "Platinum Coin"
+        },
+        {
+            "itemName": "Cluster of Solace"
+        },
+        {
+            "amount": "0-5",
+            "itemName": "Green Crystal Splinter"
+        },
+        {
+            "amount": "0-5",
+            "itemName": "Blue Crystal Splinter"
+        },
+        {
+            "itemName": "Frazzle Tongue"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "Unrealized Dream"
+        },
+        {
+            "itemName": "Brown Crystal Splinter"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "14000",
+    "creatureclass": "Demons",
+    "earthDmgMod": "100%?",
+    "physicalDmgMod": "100%?",
+    "primarytype": "Dreamhaunters",
+    "senseinvis": "?",
+    "article": "a",
+    "actualname": "reflection of Mawhawk",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Reflection of Mawhawk",
+    "isboss": "no",
+    "behaviour": "Attacks at close range.",
+    "location": "[[Chamber of Reflections]]",
+    "iceDmgMod": "100%?",
+    "strategy": "Treat it like a regular [[Mawhawk]], though the fight should be easier without the summons and other [[Guzzlemaw]]s.",
+    "energyDmgMod": "100%?",
+    "deathDmgMod": "100%?"
+}

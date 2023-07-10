@@ -1,0 +1,150 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "walksthrough": "Fire, Energy, Poison",
+    "hp": "3500",
+    "abilities": "{{Ability List| {{Melee|0-400+|element=physical}}|{{Ability|[[Damage Reflection]] of [[Physical Damage]]|? %}} }}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "holyDmgMod": "100%",
+    "maxdmg": "900+",
+    "pushable": "no",
+    "implemented": "12.00.7695",
+    "loot": [
+        {
+            "amount": "1-8",
+            "itemName": "Platinum Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Morning Star",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Ultimate Mana Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Violet Glass Plate",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Small Ruby",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Terra Rod",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Crystal Sword",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Small Enchanted Ruby",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Terra Legs",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Serpent Sword",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Machete",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Heavy Machete",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Knight Legs",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Wand of Starstorm",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Wand of Voodoo",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Green Crystal Fragment",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Onyx Chip",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Tiger Eye",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Iron Helmet",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Opal",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Wand of Dragonbreath",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Wand of Decay",
+            "rarity": "rare"
+        }
+    ],
+    "walksaround": "None",
+    "exp": "2112",
+    "mitigation": "1.88",
+    "attacktype": "Melee",
+    "history": "Its experience was decreased from 3200 to 1600 with the first batch of changes of [[Updates/12.31|Update 12.31]]. It was later increased to 1920 and 2112 with the fourth and seventh batches of changes, respectively.",
+    "article": "a",
+    "actualname": "menacing carnivor",
+    "illusionable": "no",
+    "armor": "68",
+    "convince": "--",
+    "name": "Menacing Carnivor",
+    "isboss": "no",
+    "iceDmgMod": "120%",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "100%",
+    "plural": "menacing carnivors",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "lightcolor": "184",
+    "occurrence": "Common",
+    "bestiarytext": "This species as the name already says exclusively feeds on raw meat. The very special way of digesting its prey leads to very unique products a hunter can obtain. The items of interest are little glass plates that arise in the so called process of glassification. They are coveted materials for craftsmanship.\nDuring their development, they go through various stages which ultimately manifest in specific habits and appearance.",
+    "speed": "170",
+    "pushobjects": "yes",
+    "fireDmgMod": "100%",
+    "sounds": [
+        ""
+    ],
+    "lightradius": "5",
+    "runsat": "0",
+    "bestiaryclass": "Magical",
+    "creatureclass": "Mammals",
+    "earthDmgMod": "100%",
+    "physicalDmgMod": "50%",
+    "primarytype": "Hyaenids",
+    "spawntype": [
+        "Regular",
+        "Unblockable"
+    ],
+    "race_id": "1723",
+    "bestiarylevel": "Hard",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "menacingcarnivor",
+    "behaviour": "Fights in close combat.",
+    "location": "[[Carnivora's Rocks]].",
+    "strategy": "Be careful when fighting them as they usually come in large packs and followed by the other Carnivora."
+}

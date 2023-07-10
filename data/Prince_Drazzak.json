@@ -1,0 +1,181 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "Five people are required to even enter his room in the first place. Apparently, there is a connection between Prince Drazzak and [[Variphor]].\n\n{{JSpoiler|You will receive the achievement [[Noblesse Obliterated]] after killing this boss.}}",
+    "walksthrough": "?",
+    "hp": "330000",
+    "speed": "?",
+    "abilities": "{{Ability List|{{Melee|0-1500+}}|{{Ability|Death Beam|900-3000?|death}}|{{Ability|Death Wave|1000-3000?}}|{{Ability|Ultimate Explosion|3000-14000, only affects druids|earth}}|{{Ability|Ultimate Explosion|3000-14000, only affects sorcerers|death}}|{{Ability|Ultimate Explosion|3000-5000, only affects paladins|energy}}|{{Ability|Ultimate Explosion (smaller area)|3000-6000, only affects knights|fire}}|{{Healing|range=4000-4500}}|{{Ability|Teleports everyone in the room to him||teleport}}|{{Summon|Demon|3}}}}",
+    "pushobjects": "yes",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "secondarytype": "Demon Lords",
+    "fireDmgMod": "65%",
+    "holyDmgMod": "65%",
+    "sounds": [
+        "DIE!",
+        "All &lt;VOCATION&gt;S must DIE!",
+        "GET OVER HERE!",
+        "CRUSH THEM ALL!",
+        "VARIPHOR WILL RULE!",
+        "They used you fools to escape and they left ME behind!!??",
+        "NOT EVEN AEONS OF IMPRISONMENT WILL STOP ME!",
+        "EVEN WITH ALL THAT TIME IN THE PRISON THAT WEAKENED ME, YOU ARE NO MATCH TO ME!",
+        "THEY WILL ALL PAY!"
+    ],
+    "maxdmg": "{{Max Damage|physical=1500?|death=6000?|summons=4590}} + UE",
+    "pushable": "no",
+    "implemented": "10.30",
+    "loot": [
+        {
+            "amount": "100",
+            "itemName": "Gold Coin"
+        },
+        {
+            "amount": "10-20",
+            "itemName": "Platinum Coin"
+        },
+        {
+            "amount": "5",
+            "itemName": "Violet Crystal Shard"
+        },
+        {
+            "amount": "5",
+            "itemName": "Green Crystal Shard"
+        },
+        {
+            "amount": "5",
+            "itemName": "Blue Crystal Shard"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Cluster of Solace"
+        },
+        {
+            "amount": "2-3",
+            "itemName": "Unrealized Dream"
+        },
+        {
+            "itemName": "Demonic Essence"
+        },
+        {
+            "itemName": "Demon Horn"
+        },
+        {
+            "amount": "8",
+            "itemName": "Great Mana Potion"
+        },
+        {
+            "amount": "8",
+            "itemName": "Ultimate Health Potion"
+        },
+        {
+            "itemName": "Green Gem"
+        },
+        {
+            "itemName": "Giant Shimmering Pearl (Brown)"
+        },
+        {
+            "itemName": "Psychedelic Tapestry"
+        },
+        {
+            "itemName": "Dream Warden Mask"
+        },
+        {
+            "itemName": "Nightmare Hook"
+        },
+        {
+            "itemName": "Steel Boots"
+        },
+        {
+            "itemName": "Noble Axe"
+        },
+        {
+            "itemName": "Eye Pod"
+        },
+        {
+            "itemName": "Crystalline Armor"
+        },
+        {
+            "itemName": "Runed Sword"
+        },
+        {
+            "itemName": "Lightning Boots"
+        },
+        {
+            "itemName": "Lightning Robe"
+        },
+        {
+            "itemName": "Skull Helmet"
+        },
+        {
+            "itemName": "Nightmare Blade"
+        },
+        {
+            "itemName": "Spellbook of Dark Mysteries"
+        },
+        {
+            "itemName": "Executioner"
+        },
+        {
+            "itemName": "Nightmare Horn"
+        },
+        {
+            "itemName": "Dream Matter"
+        },
+        {
+            "itemName": "Crown Armor"
+        },
+        {
+            "itemName": "Demonwing Axe"
+        },
+        {
+            "itemName": "Abyss Hammer"
+        },
+        {
+            "itemName": "Demonbone Amulet"
+        },
+        {
+            "itemName": "Giant Shimmering Pearl"
+        },
+        {
+            "itemName": "Red Crystal Fragment"
+        },
+        {
+            "itemName": "Ring of Healing"
+        },
+        {
+            "itemName": "Green Crystal Fragment"
+        },
+        {
+            "itemName": "Demonic Tapestry"
+        },
+        {
+            "itemName": "Cyan Crystal Fragment"
+        },
+        {
+            "itemName": "Great Spirit Potion"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "210000",
+    "creatureclass": "Demons",
+    "earthDmgMod": "65%?",
+    "physicalDmgMod": "65%?",
+    "primarytype": "Dreamhaunters",
+    "race_id": "1029",
+    "senseinvis": "yes",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Prince Drazzak",
+    "isboss": "yes",
+    "behaviour": "[[File:Prince Drazzak Druid Damage.png|thumb|Druid taking 9760 [[Earth Damage]] while wearing 30% Earth Protection.]]\nVery erratic. At completely random times he will shout \"{{Sound|All &lt;VOCATION&gt;S must DIE!}}\" and 5 seconds after that he will cast a large AoE ability dealing massive damage to said vocation(s) and shouts {{Sound|DIE!}}. When he shouts \"GET OVER HERE!\", all players in the room are teleported next to him. His retargeting is also rather frequent.",
+    "location": "Boss pit of [[Roshamuul Prison]] ({{Mapper Coords|130.248|126.78|12|2|text=here}}), a team of 5 players can enter his room with a [[Golden Prison Key]] (north switchplates, {{Mapper Coords|131.73|126.107|11|4|text=here}}).",
+    "iceDmgMod": "65%",
+    "strategy": "[[File:Prince Drazzak|thumb]]\nAll vocations should wear as much protection against [[Death Damage]] as possible (remember that many items can be imbued with [[Powerful Lich Shroud]]), followed by protection against the vocation's element (see abilities). The boss is resistant to damage, has a lot of hitpoints and heals a lot; prepare for a long battle (15-25 minutes). The most dangerous parts of the fight are the moments and Prince Drazzak teleports everyone to him, since he usually uses his Death spells immediately after that. Because of this, the whole team should be able to take and/or reduce about 6000 Death Damage. When the [[Demon]]s spawn (they are not actually summons but regular Demons), quickly pass them to the blocker (but keep an eye on the UE warnings) and kill them, they can be quite a hassle if still alive when the boss teleports the team. \n\nPaladins, Sorcerers and Druids should bring the mana recovering [[Blessed Steak|dish]] and [[Blueberry Cupcake|cupcake]] for emergencies, which can happen if the boss teleports the team twice in a short time.\n\n'''Knights''': In order to safely block this boss, the should be able to take the Fire UE damage (level 450+ recommended). Even though it can hit quite a lot, with the proper protection it will be safer for the team as a whole if the Knight takes this damage and quickly heal afterwards, which shouldn't be very hard since the spell is announced beforehand.\n\n'''Paladins''': The vocation with a greater chance of dying due to the high Death Damage from the boss teleport and the slow mana recovering. Wearing [[Energy Ring]]s as well as [[Stone Skin Amulet]]s (40 should be enough) are strongly recommended. Always keep an eye on your Ring duration and Amulet charges and replace them before they run out. When the Demons are summoned they will quickly use up the SSA charges, get rid of them as fast as possible to equip a new one. \n\n'''Mages''': [[Might Ring]]s will greatly reduce the damage taken, 20 should be more than enough for the fight (remember to replace them). Always keep the boss and the blocker on the limit of your game window to make sure you're outside the UE range, which is quite large. [[Druid]]s should wear [[Earth Damage]] protection where Death protection isn't possible in case they take the damage. Bring at least 500 SDs and 500 UMPs - this fight takes a while.",
+    "energyDmgMod": "65%",
+    "deathDmgMod": "65%?"
+}

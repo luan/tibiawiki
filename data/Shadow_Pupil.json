@@ -1,0 +1,104 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "{{JSpoiler|You may hunt 4000 of these along with [[Necromancer]]s, [[Priestess]]es, [[Blood Hand]]s and [[Blood Priest]]s as a [[Killing in the Name of... Quest/Spoiler#Unranked Tasks|task for Lugri]]. Upon completion of the task you will face [[Necropharus]]. The task can be repeated several times but only grants you 40,000 [[Experience|experience points]] from the second time and onwards.}}",
+    "isarenaboss": "no",
+    "walksthrough": "Poison",
+    "hp": "450",
+    "abilities": "{{Ability List| {{Melee|0-70?|poison=3}}|{{Summon|Skeleton|4|Ghosts}}|{{Ability|[[Sudden Death]]|60-80|element=death}}|{{Ability|Sudden Death Bomb|30-60|element=death}} }}",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "holyDmgMod": "105%",
+    "maxdmg": "210? (710? with summons)",
+    "pushable": "no",
+    "implemented": "10.10",
+    "loot": [
+        {
+            "amount": "1-65",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Book of Necromantic Rituals",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Horoscope",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Incantation Notes",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Brown Mushroom",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Pieces of Magic Chalk",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Mystic Turban",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Strong Mana Potion",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Clerical Mace",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Spellbook of Enlightenment",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Boots of Haste",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Energy, Fire",
+    "exp": "410",
+    "mitigation": "1.04",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "shadow pupil",
+    "illusionable": "no",
+    "armor": "32",
+    "convince": "--",
+    "name": "Shadow Pupil",
+    "isboss": "no",
+    "iceDmgMod": "80%",
+    "energyDmgMod": "90%",
+    "deathDmgMod": "50%",
+    "plural": "shadow pupils",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "The Shadow Masters worship the more ephemeral aspect of the Dark Powers, and are extremely secretive to the point of never being seen. Only the Shadow Pupils, their apprentices, mingle with other students of the Dark Arts, and it is rumoured that they use the shadows of things and beings as a means of travel and transport, and can heal themselves by feeding off them. <br />Rumours are indeed all that there is to know for sure about the shadow pupils. The shadow pupils themselves are uncommunicative to the point of being cryptic, and when addressed either reply very monosyllabically or ambiguously, as if answering something, or someone, else. They can be found where light and darkness intermingle, and seem to be monitoring things as well as building some strange shades, shrines or artificially interlaced bone piles of yet unknown use. Often, they are seen to draw strange faces or gruesome, half animal half demon-like shapes on the floors, that none dare step on. The other dark summoners suspect those to be portals to a shadow realm, and that the shadow order plots for total dominion and seeks to cloak the world in some strange unlight. Some even say that the shadow pupils are in fact not men, but several shadows inhabiting a body together, trying to prepare the way for some demonic shadow being or planning to shroud the world, consuming all living beings therein, until nothing but shadows remain. As those words savour strongly of paranoia, other necromancers do not like to dwell upon these reflections, and just try not to mention or catch the eye of a shadow pupil.",
+    "speed": "85",
+    "pushobjects": "yes",
+    "fireDmgMod": "105%",
+    "sounds": [
+        "When I'm finished with you, you'll be a shadow of your former self.",
+        "Come forth from the shadows, my minions...",
+        "The shadows follow your every step...",
+        "The shadows will swallow you..."
+    ],
+    "runsat": "0",
+    "bestiaryclass": "Human",
+    "creatureclass": "Humans",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "105%",
+    "primarytype": "Necromancers",
+    "race_id": "960",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "drownDmgMod": "0%?",
+    "bestiaryname": "shadowpupil",
+    "behaviour": "They fight in close range.",
+    "location": "[[Drefia]].",
+    "strategy": "'''[[Knights]]:''' Just attack them, they are not very strong. However, beware of other [[Necromancers]] that will attack you while spamming summons. Using [[Berserk]] is often a good idea."
+}

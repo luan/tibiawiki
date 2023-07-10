@@ -1,0 +1,43 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "It's part of the final battle of the [[Grave Danger Quest]].",
+    "walksthrough": "Fire, Energy, Poison",
+    "hp": "?",
+    "speed": "?",
+    "abilities": "{{Ability List| {{Melee|0-1000?}} }}",
+    "pushobjects": "yes",
+    "healMod": "100%?",
+    "paraimmune": "yes",
+    "fireDmgMod": "100%?",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "?",
+    "pushable": "no",
+    "runsat": "0",
+    "implemented": "12.20.8834",
+    "loot": [],
+    "walksaround": "None.",
+    "exp": "0",
+    "earthDmgMod": "100%?",
+    "physicalDmgMod": "100%?",
+    "spawntype": [
+        "Triggered"
+    ],
+    "senseinvis": "yes",
+    "actualname": "Nargol the Impaler",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Nargol the Impaler",
+    "isboss": "yes",
+    "location": "[[Isle of the Kings]]",
+    "iceDmgMod": "100%?",
+    "strategy": "Trap it at the center of the room and attack it. When it dies, use as much firepower as possible to quickly kill its [[Regenerating Mass]] before Nargol recovers himself.",
+    "energyDmgMod": "100%?",
+    "deathDmgMod": "-100%?"
+}

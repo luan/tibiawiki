@@ -1,0 +1,94 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "crypt warriors",
+    "hpDrainDmgMod": "100%?",
+    "walksthrough": "Poison",
+    "hp": "7800",
+    "occurrence": "Common",
+    "speed": "155",
+    "abilities": "{{Ability List|{{Melee|?}}|{{Ability|Distance Life Drain|?|element=lifedrain}}|{{Ability|Death Missile|?|element=death}} }}",
+    "pushobjects": "?",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "fireDmgMod": "105%",
+    "holyDmgMod": "125%",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "?",
+    "pushable": "no",
+    "implemented": "12.40.9997",
+    "bestiaryclass": "Undead",
+    "loot": [
+        {
+            "amount": "1-25",
+            "itemName": "Platinum Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Bone",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Soul Orb",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "White Mushroom",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Unholy Bone",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Pelvis Bone",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Sword",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Mace",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Brown Mushroom",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Mammoth Whopper",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Ruthless Axe",
+            "rarity": "rare"
+        }
+    ],
+    "walksaround": "Energy, Fire",
+    "exp": "4200",
+    "creatureclass": "The Undead",
+    "earthDmgMod": "95%",
+    "mitigation": "2.02",
+    "physicalDmgMod": "100%",
+    "primarytype": "Skeletons",
+    "bestiarylevel": "Hard",
+    "senseinvis": "yes",
+    "article": "a",
+    "actualname": "crypt warrior",
+    "illusionable": "no",
+    "armor": "70",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Crypt Warrior",
+    "isboss": "?",
+    "behaviour": "Fights in close combat until death.",
+    "location": "[[Bounac]].",
+    "iceDmgMod": "100%",
+    "strategy": "Treat it as a weaker [[Skeleton Elite Warrior]].",
+    "energyDmgMod": "105%",
+    "deathDmgMod": "0%"
+}

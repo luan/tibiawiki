@@ -1,0 +1,94 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "crypt wardens",
+    "hpDrainDmgMod": "100%?",
+    "walksthrough": "Fire, Energy, Poison",
+    "hp": "8300",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "Crypt Wardens are more aggressive than common [[Lamassu]]s.",
+    "speed": "145",
+    "abilities": "{{Ability List\n |{{Melee|0-570}}\n |{{Ability|Holy Beam|300-500|element=holy\n  |scene={{Scene|spell=5sqmbeam|effect=Holy Cross Effect|damage_effect=Holy Effect|look_direction=east}}}}\n |{{Ability|Earth Explosion on itself|200-350|element=earth\n  |scene={{Scene|spell=plusspell|effect=Dust Effect|damage_effect=Poison Effect 1}}}}\n |{{Ability|Earth X on itself|200-350|element=earth\n  |scene={{Scene|spell=xspell|effect=Dust Effect|damage_effect=Poison Effect 1}}}}\n |{{Ability|Earth Ring|element=earth\n  |scene={{Scene|spell=2sqmring|effect=Dust Effect|damage_effect=Poison Effect 1}}}}\n}}",
+    "healMod": "100%",
+    "pushobjects": "yes",
+    "paraimmune": "no",
+    "fireDmgMod": "100%",
+    "holyDmgMod": "75%",
+    "sounds": [
+        "You set foot on forbidden ground? Outrageous!",
+        "Let the deceased rest in peace!",
+        "Sacrilege!"
+    ],
+    "pushable": "no",
+    "runsat": "0",
+    "implemented": "12.20.8834",
+    "bestiaryclass": "Magical",
+    "loot": [
+        {
+            "amount": "1-3",
+            "itemName": "Platinum Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Lamassu Horn",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Cyan Crystal Fragment",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Lamassu Hoof",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Small Amethyst",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Gold Ingot",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Green Crystal Fragment",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Green Gem",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Elven Amulet",
+            "rarity": "rare"
+        }
+    ],
+    "walksaround": "None",
+    "exp": "8400",
+    "creatureclass": "Misc",
+    "earthDmgMod": "80%",
+    "mitigation": "2.31",
+    "physicalDmgMod": "100%",
+    "primarytype": "Anuma",
+    "spawntype": [
+        "Regular"
+    ],
+    "attacktype": "Melee",
+    "race_id": "1805",
+    "bestiarylevel": "Hard",
+    "senseinvis": "yes",
+    "article": "a",
+    "actualname": "crypt warden",
+    "illusionable": "no",
+    "armor": "84",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "bestiaryname": "cryptwarden",
+    "name": "Crypt Warden",
+    "isboss": "no",
+    "location": "[[Kilmaresh Catacombs]]",
+    "iceDmgMod": "100%",
+    "strategy": "Unknown.",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "135%"
+}

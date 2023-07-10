@@ -1,0 +1,156 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%",
+    "notes": "You can fight this boss if you have a [[Copper Prison Key]], obtainable from an [[Unrealized Dream]]. To use it, go to [[Roshamuul Prison]] and use it while standing on the respective platform. You can only fight this boss alone.",
+    "walksthrough": "?",
+    "hp": "30000",
+    "speed": "?",
+    "abilities": "{{Ability List|{{Melee|0-600}}|{{Ability|Poison Berserk|100-250|earth}}|{{Ability|Another kind of Poison Berserk||earth}}|{{Ability|Poison Beam|500-900|earth}}|{{Ability|Envenom|?|earth}}|{{Healing|range=400-700, slow}}|{{Ability|Poison Wave|500-900|earth}}|{{Summon|Defiler|2}}}}",
+    "pushobjects": "no",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "secondarytype": "Demon Lords",
+    "fireDmgMod": "70%",
+    "holyDmgMod": "140%",
+    "sounds": [
+        "Even I fear the wrath of the princes. And the cold touch of those whom they serve! You are not prepared!",
+        "You foolish mortals with you medding you brought the end upon your world!",
+        "After all those aeons I smell freedom at last!"
+    ],
+    "maxdmg": "{{Max Damage|physical=600|earth=2050?|summons=1424}}",
+    "pushable": "no",
+    "implemented": "10.30",
+    "loot": [
+        {
+            "amount": "1-200",
+            "itemName": "Gold Coin"
+        },
+        {
+            "amount": "1-50",
+            "itemName": "Platinum Coin"
+        },
+        {
+            "amount": "0-24",
+            "itemName": "Small Ruby"
+        },
+        {
+            "itemName": "Cluster of Solace"
+        },
+        {
+            "itemName": "Demon Horn"
+        },
+        {
+            "itemName": "Demonic Essence"
+        },
+        {
+            "itemName": "Unrealized Dream"
+        },
+        {
+            "itemName": "Dream Matter"
+        },
+        {
+            "itemName": "Spellbook of Warding"
+        },
+        {
+            "itemName": "Beastslayer Axe"
+        },
+        {
+            "amount": "0-23",
+            "itemName": "Small Sapphire"
+        },
+        {
+            "itemName": "Crown Armor"
+        },
+        {
+            "itemName": "Crown Legs"
+        },
+        {
+            "itemName": "Lightning Legs"
+        },
+        {
+            "itemName": "Knight Legs"
+        },
+        {
+            "amount": "0-25",
+            "itemName": "Small Diamond"
+        },
+        {
+            "itemName": "Dream Warden Mask"
+        },
+        {
+            "amount": "0-22",
+            "itemName": "Small Topaz"
+        },
+        {
+            "itemName": "Steel Boots"
+        },
+        {
+            "itemName": "Blue Robe"
+        },
+        {
+            "itemName": "Golden Armor"
+        },
+        {
+            "itemName": "Noble Axe"
+        },
+        {
+            "amount": "0-24",
+            "itemName": "Small Emerald"
+        },
+        {
+            "itemName": "Spellbook of Mind Control"
+        },
+        {
+            "amount": "0-23",
+            "itemName": "Small Amethyst"
+        },
+        {
+            "itemName": "Golden Legs"
+        },
+        {
+            "itemName": "Vile Axe"
+        },
+        {
+            "itemName": "Executioner"
+        },
+        {
+            "itemName": "Butcher's Axe"
+        },
+        {
+            "itemName": "Spellscroll of Prophecies"
+        },
+        {
+            "itemName": "Spellbook of Lost Souls"
+        },
+        {
+            "itemName": "Great Axe"
+        },
+        {
+            "itemName": "Demonwing Axe"
+        },
+        {
+            "itemName": "Spellbook of Dark Mysteries"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "18000",
+    "creatureclass": "Demons",
+    "earthDmgMod": "70%",
+    "physicalDmgMod": "90%",
+    "primarytype": "Dreamhaunters",
+    "race_id": "1023",
+    "senseinvis": "yes",
+    "illusionable": "no",
+    "armor": "72",
+    "drownDmgMod": "100%",
+    "convince": "--",
+    "name": "Horadron",
+    "isboss": "yes",
+    "behaviour": "Unknown.",
+    "location": "[[Roshamuul Prison]]",
+    "iceDmgMod": "70%",
+    "strategy": "Unknown.",
+    "energyDmgMod": "70%",
+    "deathDmgMod": "100%"
+}

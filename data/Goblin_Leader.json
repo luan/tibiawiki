@@ -1,0 +1,95 @@
+{
+    "summon": "290",
+    "templateType": "Creature",
+    "plural": "goblin leaders",
+    "hpDrainDmgMod": "100%",
+    "notes": "Leaders of the goblin race. One of them seems to have an obsession with the colour green.",
+    "walksthrough": "None",
+    "hp": "50",
+    "usespells": "no",
+    "occurrence": "Very Rare",
+    "speed": "60",
+    "abilities": "{{Ability List| {{Melee|0-50}}|{{Ability|Throws [[Small Stone]]s|0-45|element=physical}} }}",
+    "pushobjects": "?",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "fireDmgMod": "100%",
+    "holyDmgMod": "100%",
+    "sounds": [
+        "Go go, Gobo attack!!",
+        "Me the greenest and the meanest!",
+        "Me have power to crush you!",
+        "Goblinkiller! Catch him !!"
+    ],
+    "maxdmg": "{{Max Damage|physical=95}}",
+    "pushable": "?",
+    "implemented": "8.10",
+    "bestiaryclass": "Humanoid",
+    "loot": [
+        {
+            "amount": "0-10",
+            "itemName": "Gold Coin"
+        },
+        {
+            "itemName": "Leather Helmet",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Dagger",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Fish",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Bone",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Mouldy Cheese",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Small Axe",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Short Sword",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Leather Armor",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Bone Club",
+            "rarity": "semi-rare"
+        }
+    ],
+    "walksaround": "Fire, Energy, Poison",
+    "exp": "75",
+    "creatureclass": "Humanoids",
+    "earthDmgMod": "100%",
+    "mitigation": "0.33",
+    "physicalDmgMod": "100%",
+    "primarytype": "Goblins",
+    "race_id": "377",
+    "attacktype": "Melee",
+    "bestiarylevel": "Easy",
+    "senseinvis": "no",
+    "article": "a",
+    "actualname": "goblin leader",
+    "illusionable": "yes",
+    "armor": "7",
+    "drownDmgMod": "100%",
+    "convince": "?",
+    "name": "Goblin Leader",
+    "isboss": "no",
+    "behaviour": "'''Goblin Leaders''' retreat in [[Health|low health]]. They can't move objects but can be pushed.",
+    "location": "Way to [[Beregar]] (around {{Mapper Coords|127.94|122.228|11|2|text=here}}), below [[Femor Hills]] ([[Tower Defence Quest]]), near [[Femor Hills]] during [https://tibia.fandom.com/wiki/Kazordoon_Raids#Goblin_Raid_from_Femor_Hills Goblin raid]",
+    "iceDmgMod": "100%",
+    "strategy": "Treat them as [[Goblin]]s but stronger. Kill them at [[Level]] 10 with decent equipment. But be fast: they only have 50 [[Hitpoints]] but they can damage hard.",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "100%"
+}

@@ -1,0 +1,129 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "walksthrough": "Fire, Energy, Poison",
+    "hp": "8000",
+    "occurrence": "Common",
+    "bestiarytext": "Carnisylvans were once humans, exposed to a dark ritual at birth they unwillingly abandoned their former lives to morph into tree-like shadow beings. Some time after coming of age they wander away to fall into a neverending slumber deep underground. Standing in pitch-black darkness, sleeping still, dreaming quaint dreams of death they await the time of joint uprising. Some are born to be chosen custodians of their siblings, awake and sentient. Poisonous carnisylvans will spit their venomous guile upon all intruders. Like acid, their demonic saliva is not only toxic but also burns the skin and flesh to the bone.",
+    "speed": "105",
+    "abilities": "{{Ability List\n |{{Ability|Poison Strike|400-700+|element=earth}}\n |{{Summon|Carnisylvan Sapling|1}}\n |more?\n}}",
+    "pushobjects": "yes",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "fireDmgMod": "115%",
+    "holyDmgMod": "100%",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "?",
+    "pushable": "?",
+    "usedelements": "?",
+    "implemented": "12.70.10953",
+    "bestiaryclass": "Human",
+    "loot": [
+        {
+            "amount": "1-17",
+            "itemName": "Platinum Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Emerald Bangle",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Wooden Trash",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Guardian Halberd",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Great Spirit Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Mushroom Pie",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-?",
+            "itemName": "Carnisylvan Finger",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-?",
+            "itemName": "Carnisylvan Bark",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Giant Shimmering Pearl (Green)",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Terra Rod",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Knight Axe",
+            "rarity": "semi-rare"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "Fire Mushroom",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Diamond Sceptre",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Underworld Rod",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Wand of Starstorm",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Sacred Tree Amulet",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Collar of Blue Plasma",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Gemmed Figurine",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Human Teeth",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "None",
+    "exp": "4400",
+    "creatureclass": "Elementals",
+    "earthDmgMod": "75%",
+    "mitigation": "1.13",
+    "physicalDmgMod": "100%",
+    "primarytype": "Bio-Elementals",
+    "race_id": "2108",
+    "bestiarylevel": "Hard",
+    "history": "On {{OfficialNewsArchive|6555|February 01, 2022}}, its experience was increased to 4400 while its loot was increased by 18%.",
+    "senseinvis": "yes",
+    "article": "a",
+    "actualname": "poisonous carnisylvan",
+    "illusionable": "no",
+    "armor": "37",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "bestiaryname": "carnisylvanpoisonous",
+    "name": "Poisonous Carnisylvan",
+    "location": "[[Forest of Life]].",
+    "iceDmgMod": "105%",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "95%"
+}

@@ -1,0 +1,105 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "walksthrough": "Poison",
+    "hp": "1500",
+    "abilities": "{{Ability List| {{Melee|0-300}}|{{Ability|[[Earth Damage|Earth Missile]]|100-150|element=earth}}|{{Ability|[[Earth Damage|Poisons]] you|element=earth}}|{{Ability|[[Paralysis|Paralyzes]] you|element=paralyze}}|{{Healing|range=150-200}} }}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "holyDmgMod": "125%",
+    "maxdmg": "450",
+    "pushable": "no",
+    "usedelements": "Earth",
+    "implemented": "11.40.5409",
+    "loot": [
+        {
+            "amount": "1-64",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Broken Flask",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "Scarab Coin",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Green Bandage",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Little Bowl of Myrrh",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Single Human Eye",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Green Gem",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Pharaoh Banner",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Black Pearl",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Poison Dagger",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Mini Mummy",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Fire, Energy",
+    "exp": "900",
+    "mitigation": "0.91",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "putrid mummy",
+    "illusionable": "no",
+    "armor": "40",
+    "convince": "--",
+    "name": "Putrid Mummy",
+    "isboss": "no",
+    "iceDmgMod": "80%",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "0%",
+    "plural": "putrid mummies",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "The Putrid Mummy is a stronger and poisonous version of [[Mummy|Mummies]].",
+    "speed": "85",
+    "pushobjects": "yes",
+    "fireDmgMod": "120%",
+    "sounds": [
+        "We will make you one of us!",
+        "Come to mummy!"
+    ],
+    "runsat": "0",
+    "bestiaryclass": "Undead",
+    "creatureclass": "The Undead",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Undead Humanoids",
+    "spawntype": [
+        "Regular"
+    ],
+    "race_id": "1415",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "putridmummy",
+    "behaviour": "They fight in close combat but move very slowly.",
+    "location": "[[Caverna Exanima]].",
+    "strategy": "It's stronger than a regular [[Mummy]]. Its high [[Fire Damage]] and [[Holy Damage]] weaknesses make these elements ideal to use on these creatures. Mages and Paladins under level 200 should watch out for their paralysis since a group of them can be dangerous at this level range."
+}

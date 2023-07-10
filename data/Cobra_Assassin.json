@@ -1,0 +1,125 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "walksthrough": "Fire, Energy, Poison",
+    "hp": "8200",
+    "abilities": "{{Ability List| {{Melee|0-500|element=physical}}|{{Ability|[[Physical Damage|Groundshaker]]|300-510|element=physical}}|{{Ability|[[Earth Damage|Earth Wave]]|300-360|element=earth}}|{{Ability|[[Physical Damage|Beam]]|300-500}} }}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "holyDmgMod": "100%",
+    "pushable": "no",
+    "implemented": "12.20.8834",
+    "loot": [
+        {
+            "amount": "1-9",
+            "itemName": "Platinum Coin",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-5",
+            "itemName": "Opal",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "Small Emerald",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Knife",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Machete",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Protection Amulet",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Cobra Crest",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Heavy Machete",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Bone Sword",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Scimitar",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Green Crystal Shard",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Gold Ingot",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Carlin Sword",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Green Crystal Fragment",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Soul Orb",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Red Crystal Fragment",
+            "rarity": "rare"
+        }
+    ],
+    "walksaround": "None",
+    "exp": "6980",
+    "mitigation": "2.22",
+    "attacktype": "Melee",
+    "history": "Its experience was increased from 6300 to 7560 with the fourth batch of changes of [[Updates/12.31|Update 12.31]]. It was later increased to 8316 with the sixth batch of changes. Its loot was decreased in 25% with the ninth batch of changes of the Hunting Grounds Rebalancing.\n\nIts experience was decreased from 8316 to 6980 and its loot reduced in 4% with the balancing changes on {{OfficialNewsArchive|6086|April 15, 2021}}.",
+    "article": "a",
+    "actualname": "cobra assassin",
+    "illusionable": "no",
+    "armor": "81",
+    "convince": "--",
+    "name": "Cobra Assassin",
+    "isboss": "no",
+    "iceDmgMod": "100%",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "100%",
+    "plural": "cobra assassins",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "When Scarlett Etzel turned towards the shadows, her loyal followers turned away from her. Her change in tactics and the more covert approach has led to the hiring of shady characters to reinforce the order. Cobra Assassins are tough and stealthy, their resilience most likely only matched by their cunning. They attack swiftly, hide in dark corners and could very well end a life before the victim would even realise its imminent fate. Through training and small dosages of snake poison, they are immune to numerous toxic substances.",
+    "speed": "140",
+    "pushobjects": "yes",
+    "fireDmgMod": "100%",
+    "sounds": [
+        "Hey, maybe you want to strike a deal... no?",
+        "Stand and deliver! Your money... AND your life actually!",
+        "You will not leave this place breathing!"
+    ],
+    "runsat": "0",
+    "bestiaryclass": "Human",
+    "creatureclass": "Humans",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "80%",
+    "primarytype": "Members of the Order of the Cobra",
+    "spawntype": [
+        "Regular"
+    ],
+    "race_id": "1775",
+    "bestiarylevel": "Hard",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "cobraassassin",
+    "location": "[[Cobra Bastion]].",
+    "strategy": "They are the most common creatures in the [[Cobra Bastion]]. Mages and paladins should avoid blocking them due to their high close-range damage."
+}

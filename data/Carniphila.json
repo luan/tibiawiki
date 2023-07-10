@@ -1,0 +1,88 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "These creatures will kill other monsters to get to you.\n\n{{JSpoiler|You may hunt 150 of these as a task of the [[Killing in the Name of... Quest]]. Upon completion of the task you will face [[Deathbine]].}}",
+    "walksthrough": "Poison",
+    "hp": "255",
+    "abilities": "{{Ability List\n |{{Melee|0-100|poison=5}}\n |{{Ability|Paralyze|230-280 points for 30 seconds|paralyze\n  |scene={{Scene|spell=7sqmstrike|effect=Poison Effect 2|caster=Carniphila|missile=Poison Missile|missile_direction=south-east|missile_distance=7/7}}}}\n |{{Ability|Earth Strike|60-90|earth\n  |scene={{Scene|spell=7sqmstrike|effect=Poison Effect 2|caster=Carniphila|missile=Poison Missile|missile_direction=south-east|missile_distance=7/7}}}}\n |{{Ability|Terra Berserk|40-130|earth\n  |scene={{Scene|spell=3x3spell|effect=Poison Effect 3|caster=Carniphila|effect_on_caster=yes}}}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "holyDmgMod": "100%",
+    "maxdmg": "{{Max Damage|physical=100|earth=230}}",
+    "pushable": "?",
+    "implemented": "7.5",
+    "loot": [
+        {
+            "amount": "1-40",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Dark Mushroom",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Carniphila Seeds",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Corncob",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Shadow Herb",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Seeds",
+            "rarity": "rare"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Sling Herb",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Carrot on a Stick",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Fire, Energy",
+    "exp": "150",
+    "mitigation": "0.51",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "carniphila",
+    "illusionable": "no",
+    "armor": "22",
+    "convince": "--",
+    "name": "Carniphila",
+    "isboss": "no",
+    "iceDmgMod": "80%",
+    "energyDmgMod": "90%",
+    "deathDmgMod": "100%",
+    "plural": "carniphilas",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "This creature is neither a plant nor a beast, it is rather a mixture of both and another oddity that the Tiquandan jungle holds in store for explorers and settlers. Although plant-like in its looks and structure, it seems to be able to control its movements. It is carnivorous by nature and follows almost mindlessly its greedy appetite. Its poisonous attacks decelerate its victims and so the slow giant plant can catch up and attack with its thorny tentacles and a maw-like blossom. The dead bodies of their victims do not only serve as food but also as fertiliser for the plants seeds. Therefore it is advised to burn bodies who died by an attack of a Carniphila.",
+    "speed": "55",
+    "pushobjects": "?",
+    "fireDmgMod": "120%",
+    "sounds": [
+        ""
+    ],
+    "bestiaryclass": "Plant",
+    "creatureclass": "Elementals",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Bio-Elementals",
+    "race_id": "120",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "carniphila",
+    "behaviour": "The Carniphila moves slowly but can catch up to you if you are paralyzed. It is a dangerous monster for inexperienced characters.",
+    "location": "Deep inside the [[Tiquanda]] Jungle including [[Tiquanda Laboratory]] and a small cave {{Mapper Coords|128.139|127.222|7|1|text=here}}, [[Forbidden Lands]], [[Deeper Banuta]], Arena and Zoo quarter in [[Yalahar]].",
+    "strategy": "Similar to [[Hunter]]s, they can hit you despite them being off screen. Always be ready to use [[Light Healing]] to remove [[Paralysis]].<br />'''[[Knight]]s''' should rush in to attack them (preferably with a fire [[Enchanting|enchanted]] weapon (like a [[Fire Sword]])).<br />'''[[Mage]]s''' are better against a Carniphila, because they use runes to attack them from a distance. Use [[Fire Damage]]-based attacks/runes.  [[Magic Shield]] is useful for low level [[Mage]]s to absorb the large amount of damage received.<br />'''[[Paladin]]s''' should shoot them or use runes."
+}

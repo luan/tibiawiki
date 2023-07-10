@@ -1,0 +1,56 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "Part of the [[Bank Robbery Mini World Change]]. Mornenion is the thief that robs the [[Venore]] [[bank]].",
+    "walksthrough": "?",
+    "hp": "190",
+    "speed": "?",
+    "abilities": "{{Ability List| {{Ability|Distance Arrows (similar to an [[Elf Scout]])|0-40|element=physical}}|{{Healing|range=25-35}} }}",
+    "pushobjects": "Yes",
+    "healMod": "100%?",
+    "paraimmune": "no",
+    "fireDmgMod": "100%",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        "Come on, you don't really need this. Just let me go.",
+        "Let us leave safely and maybe we'll give you a few coins.",
+        "That cowardish dwarven bank keeper ran when he saw the three of us.",
+        "You humans have enough to spare. We live in poverty."
+    ],
+    "maxdmg": "40",
+    "pushable": "No",
+    "implemented": "9.40",
+    "loot": [
+        {
+            "itemName": "Bag with Stolen Gold",
+            "rarity": "always"
+        },
+        {
+            "amount": "0-100",
+            "itemName": "Platinum Coin"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "115",
+    "creatureclass": "Humanoids",
+    "earthDmgMod": "100%",
+    "physicalDmgMod": "100%?",
+    "bosstiaryclass": "Nemesis",
+    "primarytype": "Elves",
+    "race_id": "765",
+    "senseinvis": "yes",
+    "actualname": "Mornenion",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Mornenion",
+    "isboss": "yes",
+    "behaviour": "Behaves like an [[Elf Scout]].",
+    "location": "[[Shadowthorn]], around {{Mapper Coords|129.63|125.157|7|2|text=here}}.",
+    "iceDmgMod": "100%?",
+    "strategy": "Same as with an Elf Scout.",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "100%?"
+}

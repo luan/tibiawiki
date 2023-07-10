@@ -1,0 +1,117 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "Use a [[Blessed Wooden Stake]] to collect [[Vampire Dust]] by [[Dusting]]. See also [[Vampire Dust/Dusting]].",
+    "isarenaboss": "no",
+    "walksthrough": "Poison",
+    "hp": "1200",
+    "abilities": "{{Ability List|{{Melee|0-150?}}|{{Outfit|no|Vicious Manbat}}|{{Ability|Huge Bat Ball|causes [[Bleeding]], starting from up to 17|bleeding}}|{{Haste}}|{{Ability|Physical Strike|50-100?}}}}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "secondarytype": "Shapeshifters",
+    "holyDmgMod": "125%",
+    "maxdmg": "{{Max Damage|physical=258?}}",
+    "pushable": "?",
+    "implemented": "10.10",
+    "loot": [
+        {
+            "amount": "1-50",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Strong Health Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Strong Mana Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Vampire Teeth",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Tooth File",
+            "rarity": "semi-rare"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Small Ruby",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Vampire's Cape Chain",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Blood Preservation",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Black Pearl",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Ice Rapier",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Red Gem",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Vampire Shield",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Red Piece of Cloth",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Fire, Energy",
+    "exp": "800",
+    "mitigation": "1.18",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "vampire viscount",
+    "illusionable": "no",
+    "armor": "42",
+    "convince": "--",
+    "name": "Vampire Viscount",
+    "isboss": "no",
+    "iceDmgMod": "90%",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "0%",
+    "plural": "vampire viscounts",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "Always with an air of style, insouciant and sniggering, the Viscount ambles through undeath looking for the next blood drink, entertaining fight or other pleasure to while away eternity. Viscounts can be charming in a casual way, but only to distract their prey until the final bite - they say it sours the flavour when their meal is scared or distressed. Masters of the rapier, they love to see their enemy bleed, heightening the pleasant anticipation of the kill while simultaneously letting their victim believe it could still win the fight. When hurt or when trying to impress his foe, the Viscount will eventually change form to scare his opponent away, and take on the shape of a vicious manbat.",
+    "speed": "110",
+    "pushobjects": "?",
+    "fireDmgMod": "105%",
+    "sounds": [
+        "Prepare to BLEED!",
+        "Don't struggle. We don't want to waste a drop of blood now, do we?",
+        "Ah, refreshments have arrived!",
+        "Bloody good thing you came!"
+    ],
+    "runsat": "0",
+    "bestiaryclass": "Undead",
+    "creatureclass": "The Undead",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "90%",
+    "primarytype": "Vampires",
+    "spawntype": [
+        "Regular"
+    ],
+    "race_id": "958",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "vampireviscount",
+    "behaviour": "They fight in close range.",
+    "location": "[[Drefia]], [[Edron Vampire Crypt]].",
+    "strategy": "They are practically just normal vampires with more health and can be treated as one. Paladins and Sorcerers should make sure to watch their HP though as their [[Bleeding]] effect can cause quite heavy damage. They're pretty much always found alongside regular [[Vampire]]s and [[Vampire Bride]]s, so wearing [[Garlic Necklace]] is recommended even if they don't cause any [[Life Drain]] damage on their own."
+}

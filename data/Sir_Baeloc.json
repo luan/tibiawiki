@@ -1,0 +1,167 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "{{JSpoiler|It's one of the bosses of [[Grave Danger Quest]].}}",
+    "walksthrough": "Fire, Energy, Poison",
+    "hp": "?",
+    "speed": "?",
+    "abilities": "{{Ability List|}}",
+    "pushobjects": "yes",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "110%?",
+    "holyDmgMod": "110%?",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "?",
+    "pushable": "no",
+    "runsat": "0",
+    "cooldown": "20",
+    "implemented": "12.20.8834",
+    "loot": [
+        {
+            "amount": "2",
+            "itemName": "Silver Token",
+            "rarity": "always"
+        },
+        {
+            "amount": "5",
+            "itemName": "Platinum Coin"
+        },
+        {
+            "amount": "6-20",
+            "itemName": "Ultimate Spirit Potion"
+        },
+        {
+            "itemName": "Green Gem"
+        },
+        {
+            "itemName": "Gold Ingot"
+        },
+        {
+            "amount": "4",
+            "itemName": "Piece of Hell Steel"
+        },
+        {
+            "amount": "6-20",
+            "itemName": "Supreme Health Potion"
+        },
+        {
+            "amount": "6-20",
+            "itemName": "Ultimate Mana Potion"
+        },
+        {
+            "itemName": "Blue Gem"
+        },
+        {
+            "amount": "10",
+            "itemName": "Bullseye Potion"
+        },
+        {
+            "itemName": "Collar of Blue Plasma"
+        },
+        {
+            "itemName": "Knight Legs"
+        },
+        {
+            "itemName": "Magma Monocle"
+        },
+        {
+            "itemName": "Ancient Liche Bone"
+        },
+        {
+            "amount": "10",
+            "itemName": "Berserk Potion"
+        },
+        {
+            "itemName": "Piece of Royal Steel"
+        },
+        {
+            "itemName": "Red Gem"
+        },
+        {
+            "itemName": "Ring of Red Plasma"
+        },
+        {
+            "itemName": "Skull Staff"
+        },
+        {
+            "itemName": "Yellow Gem"
+        },
+        {
+            "itemName": "Young Lich Worm"
+        },
+        {
+            "itemName": "Collar of Green Plasma"
+        },
+        {
+            "itemName": "Collar of Red Plasma"
+        },
+        {
+            "itemName": "Crystal Coin"
+        },
+        {
+            "amount": "10",
+            "itemName": "Mastermind Potion"
+        },
+        {
+            "itemName": "Ring of Blue Plasma"
+        },
+        {
+            "itemName": "Violet Gem"
+        },
+        {
+            "itemName": "Final Judgement"
+        },
+        {
+            "itemName": "Terra Helmet"
+        },
+        {
+            "itemName": "Signet Ring"
+        },
+        {
+            "itemName": "Ring of Green Plasma"
+        },
+        {
+            "itemName": "Bear Skin"
+        },
+        {
+            "itemName": "Rotten Heart"
+        },
+        {
+            "itemName": "Giant Emerald"
+        },
+        {
+            "itemName": "Giant Sapphire"
+        },
+        {
+            "itemName": "Giant Ruby"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "55000",
+    "creatureclass": "The Undead",
+    "earthDmgMod": "30%?",
+    "physicalDmgMod": "100%?",
+    "bosstiaryclass": "Archfoe",
+    "primarytype": "Undead Humanoids",
+    "spawntype": [
+        "Triggered"
+    ],
+    "race_id": "1755",
+    "senseinvis": "yes",
+    "actualname": "Sir Baeloc",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Sir Baeloc",
+    "isboss": "yes",
+    "location": "[[Darashia]] cemetery.",
+    "iceDmgMod": "65%?",
+    "strategy": "Do not use [[Death Damage]] since it heals the boss. It's recommended that you keep killing the summons since they are quite strong. In order to kill it, you'll have to kill its brother [[Sir Nictros]] at the same time, otherwise they will heal each other.\n\n[[File:Grave Danger Quest - Sir Baeloc and Sir Nictros|left|300px]]",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "-100%"
+}

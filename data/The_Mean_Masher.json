@@ -1,0 +1,77 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "A rare [[Hive Overseer]] boss found on the bottom of the [[Hive Outpost]] in [[Liberty Bay]], in a ~20-minute [[Varying Monster Spawn]] in which the common creatures are a [[Hive Overseer]] and a [[Spidris Elite]], and the possible rare bosses are [[The Hungerer]], [[The Manhunter]], and [[The Mean Masher]].",
+    "walksthrough": "?",
+    "hp": "8000",
+    "speed": "?",
+    "abilities": "{{Ability List| {{Ability|Same as a [[Hive Overseer]]?|element=?}}|{{Summon|Spidris Elite|2}}}}",
+    "pushobjects": "yes",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "secondarytype": "Hive Born",
+    "fireDmgMod": "50%",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "?",
+    "pushable": "no",
+    "implemented": "10.80",
+    "loot": [
+        {
+            "amount": "0-69",
+            "itemName": "Gold Coin"
+        },
+        {
+            "amount": "0-6",
+            "itemName": "Platinum Coin"
+        },
+        {
+            "amount": "0-1",
+            "itemName": "Gold Ingot"
+        },
+        {
+            "amount": "0-1",
+            "itemName": "Gooey Mass"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "Kollos Shell"
+        },
+        {
+            "itemName": "Great Mana Potion"
+        },
+        {
+            "itemName": "Compound Eye"
+        },
+        {
+            "itemName": "Small Ruby"
+        },
+        {
+            "itemName": "Hive Scythe"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "6000",
+    "creatureclass": "Invertebrates",
+    "earthDmgMod": "100%?",
+    "physicalDmgMod": "100%?",
+    "bosstiaryclass": "Nemesis",
+    "primarytype": "Insects",
+    "race_id": "1127",
+    "senseinvis": "yes",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "The Mean Masher",
+    "isboss": "yes",
+    "behaviour": "Very similar to a [[Hive Overseer]], it attacks from distance while using its summons to do melee damage.",
+    "location": "Bottom floor of the [[Hive Outpost]].",
+    "iceDmgMod": "100%?",
+    "strategy": "Treat it like a slightly stronger [[Hive Overseer]].",
+    "energyDmgMod": "70%",
+    "deathDmgMod": "90%?"
+}

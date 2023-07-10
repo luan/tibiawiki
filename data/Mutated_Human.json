@@ -1,0 +1,110 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "walksthrough": "Poison",
+    "hp": "240",
+    "abilities": "{{Ability List\n |{{Melee|0-90|poison=3}}\n |{{Ability|Poisoning Strike|up to 14hp per turn|poisoned}}\n |{{Ability|Death Wave|50-60|death\n  |scene={{Scene|spell=3sqmwavewide|effect=Poison Effect 3|caster=Mutated Human|look_direction=east}}}}\n |{{Ability|Paralyze|element=Paralyze}}\n |{{Haste}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "secondarytype": "Outlaws",
+    "holyDmgMod": "125%",
+    "maxdmg": "{{Max Damage|physical=90|earth=14|death=60}}",
+    "pushable": "No",
+    "usedelements": "Physical > Death > Earth",
+    "implemented": "8.40",
+    "loot": [
+        {
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Fishbone",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Scale Armor",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "Worm",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Mutated Flesh",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Cheese",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Strange Talisman",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Sword",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Heavily Rusted Armor",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Peanut",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Silver Amulet",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Fern",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Fire, Energy",
+    "exp": "150",
+    "mitigation": "0.59",
+    "attacktype": "Melee",
+    "history": "With the [[Updates/8.5]] the loot of Mutated Humans changed drastically. Especially the gold drop was increased significantly, see [[Loot Statistics:Mutated Human]] for more information.",
+    "article": "a",
+    "actualname": "mutated human",
+    "illusionable": "yes",
+    "armor": "14",
+    "convince": "--",
+    "name": "Mutated Human",
+    "isboss": "no",
+    "iceDmgMod": "80%",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "0%",
+    "plural": "mutated humans",
+    "hpDrainDmgMod": "0%",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "Mind and body of these poor creatures have been twisted in an agonising and horrible way. Once humans, there is nothing left than pain and hatred. Their blurred minds rarely allow them planned actions. Their mutations were caused by contaminated material or magical radiation. In most cases, this has led to more or less slow and painful deaths, but in some cases the subjects managed to survive. If they retained some degree of sentience, they would rather wish to be dead, though. Due to the mutation, hardly anything of the original physiology is still intact, and sometime during the mutation process, the mind collapses in an act of self-defence. Having endured unimaginable conditions, the mutated bodies are highly resilient and extremely strong. Packs of Mutated Humans can easily dismantle whole neighbourhoods within a single night.<br />Driven by animal-like instincts, the mutants often form packs in which the alpha mutant leads his brethren on hunts and raids. Mutated Humans usually hunt for food rather than for plunder. Still,  driven by old instincts, they tend to carry away everything they come across, only to drop it again a few minutes later, not even remembering what they had taken. Mutated Humans hardly ever use any weapons or tools, and only seldom they still wear the armor they were dressed in before their mutation took place.",
+    "speed": "77",
+    "pushobjects": "yes",
+    "fireDmgMod": "100%",
+    "sounds": [
+        "Take that creature off my back!! I can feel it!",
+        "You will regret interrupting my studies!",
+        "You will be the next infected one... CRAAAHHH!",
+        "Science... is a curse.",
+        "Run as fast as you can.",
+        "Oh by the gods! What is this... aaaaaargh!"
+    ],
+    "bestiaryclass": "Human",
+    "creatureclass": "Mammals",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Mutated Mammals",
+    "race_id": "521",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "drownDmgMod": "0%",
+    "bestiaryname": "mutatedhuman",
+    "behaviour": "'''Mutated Humans''' fight until death and can not be pushed.",
+    "location": "[[Alchemist Quarter]] and [[Factory Quarter]] ([[Yalahar]]), [[Robson's Isle]], [[Tiquanda Laboratory]].",
+    "strategy": "Standing diagonal won't help you avoid their wave because it's very wide (counting from the caster it's 3, 5 and 7 sqm). However diagonal position is useful to not get hit by their Earth Strike which poisons you heavily. You can only get hit by it if you stand directly in front of the creature, they will not target you with it like sorcerers and druids can with their strike spells.\n\n'''Paladins:''' Run and shoot, they do not have very high defense and can be killed quickly by any paladin with distance fighting of 65+. They are similar to [[Cyclops]] with the addition of poison damage and death wave attacks. [[Divine Caldera]] is useful when facing a large pack of them.\n\n'''Knights:''' Just close in on them and attack with melee. If you are hunting them, expect getting poisoned many times, therefore using [[Antidote|exana pox]] is a waste of mana. Avoid packs of 5 or more. They can bring your hitpoints down quickly.\n\n'''Mages:''' Sorcerers can use a fire or energy wand and Flame/Energy Strike. Druids can use the same spells, but their ice rods will deal slightly less damage than a sorcerer's wands. GFB and Thunderstorms are helpful when facing several Mutated Humans at once. They drop a lot of gold, so it is unlikely that you will waste."
+}

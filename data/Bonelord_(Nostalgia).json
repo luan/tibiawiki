@@ -1,0 +1,68 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "0%?",
+    "notes": "This is the old [[Beholder]], but had the name changed due to [[Bonelord#History|copyright problems]]. This can only be seen during the [[Tibia Anniversary]].",
+    "isarenaboss": "no",
+    "walksthrough": "?",
+    "hp": "260",
+    "speed": "?",
+    "abilities": "{{Ability List|{{Melee|?}}|{{Ability|Fire Missile|0-45|element=fire}}|{{Ability|Energy Missile|0-45|element=energy}}|{{Ability|Stalagmite|0-45|element=earth}}|{{Ability|Death Missile|0-50|element=death}}|{{Ability|Distance Life Drain|0-45|element=lifedrain}}|{{Ability|Distance Mana Drain|0-35|element=manadrain}}|{{Summon|Skeleton|4}} }}",
+    "pushobjects": "yes",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "secondarytype": "Event Creatures",
+    "fireDmgMod": "110%?",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        "You've got the look!",
+        "Eye for eye!",
+        "Here's looking at you!"
+    ],
+    "maxdmg": "235?",
+    "pushable": "no",
+    "implemented": "9.44",
+    "loot": [
+        {
+            "amount": "0-82?",
+            "itemName": "Gold Coin"
+        },
+        {
+            "itemName": "Longsword"
+        },
+        {
+            "itemName": "Two Handed Sword"
+        },
+        {
+            "itemName": "Morning Star"
+        },
+        {
+            "itemName": "Steel Shield"
+        },
+        {
+            "itemName": "Spellbook"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "157",
+    "creatureclass": "Invertebrates",
+    "earthDmgMod": "0%?",
+    "physicalDmgMod": "100%?",
+    "primarytype": "Bonelords",
+    "senseinvis": "?",
+    "article": "a",
+    "actualname": "bonelord",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Bonelord (Nostalgia)",
+    "isboss": "no",
+    "behaviour": "It will back away from its opponent, trying to keep a distance from the target while using a variety of [[spells]].",
+    "location": "[[Nostalgia Island]] dungeon.",
+    "iceDmgMod": "80%?",
+    "strategy": "Same as a [[Bonelord]].",
+    "energyDmgMod": "100%?",
+    "deathDmgMod": "100%?",
+    "status": "event"
+}

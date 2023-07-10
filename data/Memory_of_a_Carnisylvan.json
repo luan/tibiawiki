@@ -1,0 +1,72 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "walksthrough": "?",
+    "hp": "3800",
+    "abilities": "{{Ability List|}}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "100%?",
+    "holyDmgMod": "100%?",
+    "sounds": [],
+    "maxdmg": "?",
+    "pushable": "?",
+    "usedelements": "?",
+    "implemented": "12.85.11485",
+    "loot": [
+        {
+            "itemName": "Gold Coin"
+        },
+        {
+            "itemName": "Mushroom Pie"
+        },
+        {
+            "itemName": "Great Spirit Potion"
+        },
+        {
+            "itemName": "Fire Mushroom"
+        },
+        {
+            "itemName": "Small Topaz"
+        },
+        {
+            "itemName": "Wooden Trash"
+        },
+        {
+            "itemName": "Gemmed Figurine"
+        },
+        {
+            "itemName": "Candy Floss (Large)"
+        },
+        {
+            "itemName": "Bottle of Champagne"
+        },
+        {
+            "itemName": "Emerald Bangle"
+        },
+        {
+            "itemName": "Giant Shimmering Pearl"
+        },
+        {
+            "itemName": "Special Fx Box"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "1850",
+    "earthDmgMod": "100%?",
+    "physicalDmgMod": "100%?",
+    "senseinvis": "?",
+    "article": "a",
+    "actualname": "memory of a carnisylvan",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "?",
+    "name": "Memory of a Carnisylvan",
+    "isboss": "no",
+    "iceDmgMod": "100%?",
+    "energyDmgMod": "100%?",
+    "deathDmgMod": "100%?"
+}

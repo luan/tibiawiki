@@ -1,0 +1,109 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "It is the [[Serpent Spawn]] boss.<p>\n{{JSpoiler|Part of the [[Killing in the Name of... Quest]].}}</p>",
+    "walksthrough": "Poison",
+    "hp": "9500",
+    "speed": "?",
+    "abilities": "{{Ability List| {{Melee|0-250+}}|{{Ability|Poison like wave|0-550?|element=poison}}|{{Ability|Musical wave|0-550?|element=?}}|{{Ability|[[Paralyze|Paralyze Ball]]|element=paralyze}}|{{Healing}}|{{Outfit|no|Worm}} }}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "110%",
+    "holyDmgMod": "100%",
+    "sounds": [
+        "I bring you deathhhh, mortalssss"
+    ],
+    "maxdmg": "1350+",
+    "pushable": "?",
+    "implemented": "8.50",
+    "loot": [
+        {
+            "amount": "0-4",
+            "itemName": "Great Mana Potion"
+        },
+        {
+            "amount": "0-5",
+            "itemName": "Platinum Coin"
+        },
+        {
+            "amount": "0-100",
+            "itemName": "Assassin Star"
+        },
+        {
+            "amount": "0-5",
+            "itemName": "Small Emerald"
+        },
+        {
+            "itemName": "Green Mushroom"
+        },
+        {
+            "itemName": "Golden Mug"
+        },
+        {
+            "itemName": "Medusa Shield"
+        },
+        {
+            "itemName": "Noble Axe"
+        },
+        {
+            "itemName": "Life Ring"
+        },
+        {
+            "itemName": "Tower Shield"
+        },
+        {
+            "itemName": "Spellbook of Mind Control"
+        },
+        {
+            "itemName": "Mercenary Sword"
+        },
+        {
+            "itemName": "Royal Helmet"
+        },
+        {
+            "itemName": "Crown Armor"
+        },
+        {
+            "itemName": "Swamplair Armor"
+        },
+        {
+            "itemName": "Claw of 'The Noxious Spawn'",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Winged Tail",
+            "rarity": "always"
+        },
+        {
+            "itemName": "Snake Skin",
+            "rarity": "always"
+        }
+    ],
+    "walksaround": "Fire, Energy",
+    "exp": "6000",
+    "creatureclass": "Reptiles",
+    "earthDmgMod": "100%?",
+    "physicalDmgMod": "100%?",
+    "primarytype": "Serpents",
+    "spawntype": [
+        "Unique",
+        "Triggered",
+        "Unblockable"
+    ],
+    "race_id": "552",
+    "senseinvis": "yes",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "The Noxious Spawn",
+    "isboss": "yes",
+    "behaviour": "Runs away in low health",
+    "location": "In a room in [[Deeper Banuta]] through a [[Magic Forcefield|teleporter]] ({{Mapper Coords|128.73|127.148|11|2|text=here}}).",
+    "iceDmgMod": "100%?",
+    "strategy": "This boss heals alot more than the normal serpent spawn. Also his waves and his beams are stronger than the normal ones, so you should stay diagonal to it. '''Knights''' should use [[Fierce Berserk]] and [[Blood Rage]] while avoiding waves and beams. '''Paladins''' should use [[Assassin Star]]s and [[Holy Missile]] while running around in the room. '''Druids''' and '''Sorcerers''' should use mana shield and [[Sudden Death Rune]]s while running around in the room, from level 130 on you don't have to use mana shield.",
+    "energyDmgMod": "110%",
+    "deathDmgMod": "100%?"
+}

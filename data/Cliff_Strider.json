@@ -1,0 +1,195 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "isarenaboss": "no",
+    "walksthrough": "Energy",
+    "hp": "9400",
+    "abilities": "{{Ability List\n |{{Melee|0-500+}}\n |{{Ability|[[Stoneshower]]|300-800+|element=?}}\n |{{Debuff2|Red Sparkle Bomb on itself|distance=yes}}\n |{{Ability|Mana Drain Energy Ball|100-300|element=manadrain}}\n |{{Ability|Spark Berserk|?|element=?}}\n |{{Ability|[[Electrify]]|element=electrified}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "holyDmgMod": "100%",
+    "maxdmg": "2000+",
+    "pushable": "no",
+    "implemented": "9.60",
+    "loot": [
+        {
+            "amount": "5-195",
+            "itemName": "Gold Coin",
+            "rarity": "always"
+        },
+        {
+            "amount": "1-10",
+            "itemName": "Platinum Coin",
+            "rarity": "always"
+        },
+        {
+            "amount": "1-4",
+            "itemName": "Great Mana Potion",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Ultimate Health Potion",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "White Pearl",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Black Pearl",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Iron Ore",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Soul Orb",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Shiny Stone",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Blue Crystal Shard",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Blue Crystal Splinter",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Cyan Crystal Fragment",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Pulverized Ore",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Cliff Strider Claw",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Vein of Ore",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-8",
+            "itemName": "Prismatic Bolt",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Red Gem",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Magic Sulphur",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Sapphire Hammer",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Spiked Squelcher",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Crystal of Balance",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Crystal of Power",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Wand of Defiance",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Glacial Rod",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Blue Gem",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Giant Sword",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Knight Legs",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Crusader Helmet",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Crystalline Sword",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Crystal Crossbow",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Hammer of Wrath",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Crown Armor",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Steel Boots",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Poison, Fire",
+    "exp": "5700",
+    "mitigation": "2.60",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "cliff strider",
+    "illusionable": "no",
+    "armor": "89",
+    "convince": "--",
+    "name": "Cliff Strider",
+    "isboss": "no",
+    "iceDmgMod": "80%",
+    "energyDmgMod": "0%",
+    "deathDmgMod": "65%",
+    "plural": "cliff striders",
+    "hpDrainDmgMod": "100%",
+    "usespells": "yes",
+    "occurrence": "Uncommon",
+    "bestiarytext": "It is yet unknown if the Cliff Strider is some sort of elemental, a golem, an organic life-form, or a strange hybrid. Usually only encountered in the hottest places of the world, they were rarely seen in the past. Recently, though, there have been more and more sightings in the depths of Tibia. When they are encountered, they are usually in liaison with 'those below'. It can only be speculated what this means for the  race as a whole. While they were formerly seen as some strange life-form that was only dangerous when it was disturbed in its unbearably hot and hostile living spaces, it is now speculated that the Cliff Striders are some form of cattle for 'those below' that are also commonly used in their wars as some kind of weapon. Still, there are relatively peaceful and territorial enclaves of Cliff Striders that seem to pose no threat to outward communities. In the light of the connection to 'those below' there are furious debates how to handle such known enclaves. While there are voices to eradicate them all before the enemy can employ them, the majority is still voting to monitor the situation and get more solid information before any preemptive action is taken.",
+    "speed": "123",
+    "pushobjects": "yes",
+    "fireDmgMod": "80%",
+    "sounds": [
+        "Knorrrr"
+    ],
+    "runsat": "0",
+    "bestiaryclass": "Elemental",
+    "creatureclass": "Elementals",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "90%",
+    "primarytype": "Geo-Elementals",
+    "race_id": "889",
+    "bestiarylevel": "Hard",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%",
+    "bestiaryname": "cliffstrider",
+    "behaviour": "Cliff striders will chase their opponents.",
+    "location": "[[Warzone 3]].",
+    "strategy": "[[Paladin]]s planning on hunting these creatures should use [[Fire Wall Rune]]s or [[Fire Bomb Rune]]s and run around them while hitting the cliff striders with [[Crystalline Arrow]]s."
+}

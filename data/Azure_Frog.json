@@ -1,0 +1,67 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "The main danger here is when they come with other enemies (and other colored frogs), they are fast enough to get to you first and break your shielding which can leave you wide open to other monster's attacks.",
+    "walksthrough": "None",
+    "hp": "60",
+    "abilities": "{{Ability List|{{Melee|0-24}}}}",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "holyDmgMod": "100%",
+    "maxdmg": "{{Max Damage|physical=24}}",
+    "pushable": "no",
+    "usedelements": "Physical",
+    "implemented": "7.8",
+    "loot": [
+        {
+            "amount": "0-10",
+            "itemName": "Gold Coin"
+        },
+        {
+            "itemName": "Worm",
+            "rarity": "uncommon"
+        }
+    ],
+    "walksaround": "Fire, Energy, Poison",
+    "exp": "20",
+    "mitigation": "0.28",
+    "attacktype": "Melee",
+    "article": "an",
+    "actualname": "azure frog",
+    "illusionable": "no",
+    "armor": "8",
+    "convince": "305",
+    "name": "Azure Frog",
+    "isboss": "no",
+    "iceDmgMod": "90%",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "100%",
+    "plural": "azure frogs",
+    "hpDrainDmgMod": "100%",
+    "usespells": "no",
+    "occurrence": "Common",
+    "bestiarytext": "Frogs come in many shapes, colours and sizes. The most common, the green Frog can be found on almost every lake or any other body of water as long as the climate is not too cold. While the green frog is harmless and only a threat to flies and other insects, the aggressive flora and fauna in the South has bred several subspecies of the frog. Distinguishable by eye-catching colours to warn their opponents, they possess a mild but annoying poisonous spittle. Usually they are harmless even if they appear in great numbers, but wounded adventurers who run out of resources face a real threat when stumbling upon a breeding ground of the little amphibians.",
+    "speed": "160",
+    "pushobjects": "?",
+    "fireDmgMod": "110%",
+    "sounds": [
+        "Ribbit!",
+        "Ribbit! Ribbit!"
+    ],
+    "runsat": "0",
+    "bestiaryclass": "Amphibic",
+    "creatureclass": "Amphibians",
+    "earthDmgMod": "100%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Frogs",
+    "spawntype": [
+        "Regular"
+    ],
+    "race_id": "268",
+    "bestiarylevel": "Easy",
+    "senseinvis": "no",
+    "drownDmgMod": "100%",
+    "bestiaryname": "frogazure",
+    "location": "[[Meriana]], [[Laguna Islands]], and other [[Shattered Isles]].",
+    "strategy": "On the [[Laguna Islands]], many types of frogs, tortoises, and toads can surround you. Low level players may want to carry [[GFB]] to clear through these swarms."
+}

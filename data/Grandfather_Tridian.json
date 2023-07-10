@@ -1,0 +1,102 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "None.\n<gallery type=\"slideshow\" crop=\"true\" mode=\"nolines\">\nGrandfather Tridian.jpg|Grandfather Tridian\nCults boss.JPG|Grandfather Tridian on Unitera\n</gallery>",
+    "isarenaboss": "no",
+    "walksthrough": "?",
+    "hp": "1800",
+    "speed": "?",
+    "abilities": "{{Ability List| {{Melee|0-100}}|{{Summon|Crypt Shambler|2|Ghost}}|{{Ability|[[Life Drain|Holy Life Drain]]|138-362|element=lifedrain}}|{{Ability|[[Life Drain|Distance Life Drain]]|0-80|element=lifedrain}}|{{Ability|[[Drunkenness]]|element=drunk}}|{{Ability|[[Invisible|Invisibility]]|element=invisible}} }}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "yes",
+    "fireDmgMod": "75%?",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        "I will bring peace to your misguided soul!",
+        "Your intrusion can't be tolerated!",
+        "You should have joined us when there was time!",
+        "Rejoice! You will die in the name of the triangle!"
+    ],
+    "maxdmg": "540 (940 with summons)",
+    "pushable": "?",
+    "implemented": "8.20",
+    "loot": [
+        {
+            "amount": "0-80",
+            "itemName": "Gold Coin"
+        },
+        {
+            "itemName": "Piggy Bank"
+        },
+        {
+            "itemName": "Strong Mana Potion"
+        },
+        {
+            "itemName": "Brown Mushroom"
+        },
+        {
+            "itemName": "Wand of Inferno"
+        },
+        {
+            "itemName": "Skull Staff"
+        },
+        {
+            "itemName": "Voodoo Doll"
+        },
+        {
+            "itemName": "Pirate Voodoo Doll"
+        },
+        {
+            "itemName": "Amber Staff"
+        },
+        {
+            "itemName": "Music Sheet (First Verse)"
+        },
+        {
+            "itemName": "Music Sheet (Second Verse)"
+        },
+        {
+            "itemName": "Music Sheet (Third Verse)"
+        },
+        {
+            "itemName": "Music Sheet (Fourth Verse)"
+        },
+        {
+            "itemName": "Wand of Voodoo",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Music Sheet"
+        },
+        {
+            "itemName": "Protection Amulet"
+        },
+        {
+            "itemName": "Small Sapphire"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "1400",
+    "creatureclass": "Humans",
+    "earthDmgMod": "80%?",
+    "physicalDmgMod": "65%?",
+    "bosstiaryclass": "Nemesis",
+    "primarytype": "Voodoo Cultists",
+    "race_id": "431",
+    "senseinvis": "yes",
+    "actualname": "Grandfather Tridian",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Grandfather Tridian",
+    "isboss": "yes",
+    "behaviour": "Unknown.",
+    "location": "Third floor (behind the piano) in [[Cult Cave]] ([[Liberty Bay]]) {{Mapper Coords|126.158|128.13|11|4|text=here}}.",
+    "iceDmgMod": "100%?",
+    "strategy": "This boss can be very hard for lower levels because he will do invisible and heal full, a good trick is to fire/energy bomb him in a corner, that way he will be visible almost all the time.",
+    "energyDmgMod": "95%?",
+    "deathDmgMod": "100%?"
+}

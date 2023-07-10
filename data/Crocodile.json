@@ -1,0 +1,72 @@
+{
+    "summon": "350",
+    "templateType": "Creature",
+    "notes": "A fairly good source of food and drops the very popular [[Crocodile Boots]]. Since [[Christmas Update 2009]] crocodiles no longer drop meat.\n{{JSpoiler|You may hunt 300 of these as a task of the [[Killing in the Name of... Quest]]. Upon completion of the task you will face [[The Snapper]].}}",
+    "walksthrough": "?",
+    "hp": "105",
+    "abilities": "{{Ability List|{{Melee|0-40}}}}",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "holyDmgMod": "100%",
+    "maxdmg": "{{Max Damage|physical=40}}",
+    "pushable": "no",
+    "usedelements": "Physical",
+    "implemented": "7.5",
+    "loot": [
+        {
+            "amount": "0-10",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Ham",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Piece of Crocodile Leather",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Crocodile Boots",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Fire, Energy, Poison",
+    "exp": "40",
+    "mitigation": "0.13",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "crocodile",
+    "illusionable": "yes",
+    "armor": "13",
+    "convince": "350",
+    "name": "Crocodile",
+    "isboss": "no",
+    "iceDmgMod": "90%",
+    "energyDmgMod": "105%",
+    "deathDmgMod": "100%",
+    "plural": "crocodiles",
+    "hpDrainDmgMod": "100%",
+    "usespells": "no",
+    "occurrence": "Common",
+    "bestiarytext": "Crocodiles lurk in the murky waters of swamps or lie seemingly lazy at the shores of rivers and seas. They are astonishing agile when they are catching their prey though, and many were misled by their otherwise slow motions. The strength of their jaws is incredible and they hunt animals much larger than themselves with ease. For hours they can wait motionlessly for the unwary to approach and then to strike at complete surprise. If they manage to catch some mammal in water, there is almost no escape. On land, their claws and their thick scale skin makes it an impressive fighter and a threat to everything alive. You are advised to stay away from shores or to go there only with utmost caution.",
+    "speed": "78",
+    "pushobjects": "yes",
+    "fireDmgMod": "110%",
+    "sounds": [
+        ""
+    ],
+    "bestiaryclass": "Reptile",
+    "creatureclass": "Reptiles",
+    "earthDmgMod": "80%",
+    "physicalDmgMod": "110%",
+    "primarytype": "Crocodilians",
+    "race_id": "119",
+    "bestiarylevel": "Easy",
+    "senseinvis": "no",
+    "drownDmgMod": "100%",
+    "bestiaryname": "crocodile",
+    "behaviour": "Runs in dark red [[health]] (10[[hp]] or less). These [[creature]]s will push or kill weaker [[monster]]s to get to their target, they also retarget (rarely).",
+    "location": "In [[Tiquanda/Reptile and Crustacean Caves|the crocodile cave]] and the jungle east of [[Port Hope]] as well as the swamp to the north, [[Fenrock]], [[Arena and Zoo Quarter]], [[Trade Quarter]], [[Talahu]], also located on [[Meriana]] and [[Laguna Islands]].",
+    "strategy": "Just attack them, but remember that they can deal good damage if you have 3 or more on you."
+}

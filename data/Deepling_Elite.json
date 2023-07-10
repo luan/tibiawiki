@@ -1,0 +1,116 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "deepling elites",
+    "hpDrainDmgMod": "100%?",
+    "notes": "None.",
+    "isarenaboss": "no",
+    "walksthrough": "Fire",
+    "hp": "3200",
+    "usespells": "yes",
+    "occurrence": "Uncommon",
+    "speed": "165",
+    "abilities": "{{Ability List\n |{{Melee}}\n |{{Ability|Throws [[Boulder]]|?-225+|element=physical\n  |scene={{Scene|spell=3sqmstrike|effect=Explosion Effect|caster=Deepling Elite|missile=Stone Missile|missile_direction=south-east|missile_distance=3/3}}}}\n}}",
+    "pushobjects": "?",
+    "healMod": "100%",
+    "paraimmune": "?",
+    "fireDmgMod": "0%",
+    "holyDmgMod": "100%",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "{{Max Damage|physical=225+}}",
+    "pushable": "?",
+    "implemented": "9.50",
+    "bestiaryclass": "Aquatic",
+    "loot": [
+        {
+            "amount": "1-186",
+            "itemName": "Gold Coin",
+            "rarity": "always"
+        },
+        {
+            "itemName": "Great Health Potion",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Eye of a Deepling",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Deepling Filet",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-5",
+            "itemName": "Vortex Bolt",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Great Mana Potion",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Deepling Warts",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Deeptags",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Deepling Ridge",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Small Emerald",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Life Ring",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Fish Fin",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Heavy Trident",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Warrior's Axe",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Warrior's Shield",
+            "rarity": "rare"
+        }
+    ],
+    "walksaround": "Energy, Poison",
+    "exp": "3000",
+    "creatureclass": "Amphibians",
+    "earthDmgMod": "110%",
+    "mitigation": "1.37",
+    "physicalDmgMod": "100%",
+    "primarytype": "Deeplings",
+    "race_id": "862",
+    "attacktype": "Melee",
+    "bestiarylevel": "Medium",
+    "senseinvis": "?",
+    "article": "a",
+    "actualname": "deepling elite",
+    "illusionable": "no",
+    "armor": "45",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Deepling Elite",
+    "isboss": "no",
+    "behaviour": "Deepling Elites are stronger [[Deepling Warrior]]s. They still run at low health.",
+    "location": "[[Fiehonja]] ([[Tanjis]]' lair).",
+    "iceDmgMod": "0%",
+    "strategy": "Treat it like a stronger [[Deepling Warrior]]. Beware of the aforementioned Warriors, [[Deepling Spellsinger]]s and [[Deepling Guard]]s that might be near.",
+    "energyDmgMod": "110%",
+    "deathDmgMod": "90%"
+}

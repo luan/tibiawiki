@@ -1,0 +1,56 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "Part of the [[Bank Robbery Mini World Change]]. Jesse is the thief that robs the [[Thais]] [[bank]]. He spawns with 4 [[Smuggler]]s.",
+    "walksthrough": "?",
+    "hp": "280",
+    "speed": "?",
+    "abilities": "{{Ability List|}}",
+    "pushobjects": "Yes",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "100%?",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        "That banker never saw it coming!",
+        "You will not take this gold from me!",
+        "KEEP YOUR HANDS OFF THAT BAG!",
+        "Kill him, men!",
+        "Take from the rich, keep it for yourself. That's my motto."
+    ],
+    "maxdmg": "?",
+    "pushable": "No",
+    "implemented": "9.40",
+    "loot": [
+        {
+            "amount": "0-100",
+            "itemName": "Platinum Coin"
+        },
+        {
+            "itemName": "Bag with Stolen Gold"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "180",
+    "creatureclass": "Humans",
+    "earthDmgMod": "100%?",
+    "physicalDmgMod": "100%?",
+    "bosstiaryclass": "Nemesis",
+    "primarytype": "Outlaws",
+    "race_id": "763",
+    "senseinvis": "?",
+    "actualname": "Jesse the Wicked",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Jesse the Wicked",
+    "isboss": "yes",
+    "behaviour": "Unknown.",
+    "location": "[[Ancient Temple]], {{Mapper Coords|126.116|125.221|11|2|text=here}}.",
+    "iceDmgMod": "100%?",
+    "strategy": "Unknown.",
+    "energyDmgMod": "100%?",
+    "deathDmgMod": "100%?"
+}

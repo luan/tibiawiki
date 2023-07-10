@@ -1,0 +1,136 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "walksthrough": "Energy, Poison",
+    "hp": "2800",
+    "abilities": "{{Ability List| {{Melee|0-300+|element=physical}}|{{Ability|[[Damage Reflection]] of [[Physical Damage]]|? %}} }}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "holyDmgMod": "100%",
+    "maxdmg": "700+",
+    "pushable": "no",
+    "implemented": "12.00.7695",
+    "loot": [
+        {
+            "amount": "1-6",
+            "itemName": "Platinum Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Dark Armor",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Brown Crystal Splinter",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Blue Crystal Splinter",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Green Glass Plate",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Guardian Shield",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Terra Amulet",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Glacier Amulet",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Talon",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Warrior Helmet",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Blue Robe",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Prismatic Quartz",
+            "rarity": "semi-rare"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Rainbow Quartz",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Lightning Pendant",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Terra Mantle",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Shockwave Amulet",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Doublet",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Buckle",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Fire",
+    "exp": "1650",
+    "mitigation": "1.94",
+    "attacktype": "Melee",
+    "history": "Its experience was decreased from 2500 to 1250 with the first batch of changes of [[Updates/12.31|Update 12.31]]. It was later increased to 1500 and 1650 with the fourth and seventh batches of changes, respectively.",
+    "article": "a",
+    "actualname": "spiky carnivor",
+    "illusionable": "no",
+    "armor": "71",
+    "convince": "--",
+    "name": "Spiky Carnivor",
+    "isboss": "no",
+    "iceDmgMod": "100%",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "100%",
+    "plural": "spiky carnivors",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "lightcolor": "32",
+    "occurrence": "Common",
+    "bestiarytext": "This species as the name already says exclusively feeds on raw meat. The very special way of digesting its prey leads to very unique products a hunter can obtain. The items of interest are little glass plates that arise in the so called process of glassification. They are coveted materials for craftsmanship.<br />\nDuring their development, they go through various stages which ultimately manifest in specific habits and appearance.<br /><br />\nThe adolescent carnivor has already breeded a massive protective dorsum. So its name is spiky carnivor. Not only the appearence changes at that age but also the way of hunting. This species attacks its opponents mainly from distance, using its spikes as fatal projectiles. For hunters that prefer close combat it is a challenge to drive them into a corner. Distance fighters won't have that problem.",
+    "speed": "160",
+    "pushobjects": "yes",
+    "fireDmgMod": "130%",
+    "sounds": [
+        ""
+    ],
+    "lightradius": "4",
+    "runsat": "0",
+    "bestiaryclass": "Magical",
+    "creatureclass": "Mammals",
+    "earthDmgMod": "100%",
+    "physicalDmgMod": "60%",
+    "primarytype": "Hyaenids",
+    "spawntype": [
+        "Regular",
+        "Unblockable"
+    ],
+    "race_id": "1722",
+    "bestiarylevel": "Hard",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "spikycarnivor",
+    "behaviour": "Fights in close combat.",
+    "location": "[[Carnivora's Rocks]].",
+    "strategy": "Be careful when fighting them as they usually come in large packs and followed by the other Carnivora."
+}

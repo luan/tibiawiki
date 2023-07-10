@@ -1,0 +1,102 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "{{JSpoiler|Part of [[The Order of the Lion Quest]].}}",
+    "walksthrough": "Energy, Poison, Fire",
+    "hp": "8500",
+    "bestiarytext": "The usurpers to the throne of the Lion laid siege to the town of Bounac. Their main goal being the fall of king Kesar, they are trying everything in their might to breach the old walls of the castle. Shamefully disregarding the very life and well-being of its inhabitants. The usurper commanders are battle-hardened veterans who guide their subordinates with wits and an iron fist.",
+    "speed": "?",
+    "abilities": "{{Ability List| {{Melee|0-500+}}|{{Summon|Hardened Usurper Archer|5|Hardened Usurper Knight|Hardened Usurper Warlock}} }}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "Yes",
+    "fireDmgMod": "100%?",
+    "holyDmgMod": "99%<?",
+    "sounds": [
+        "FORMATION!"
+    ],
+    "maxdmg": "?",
+    "pushable": "No",
+    "implemented": "12.40.9997",
+    "loot": [
+        {
+            "itemName": "Violet Gem"
+        },
+        {
+            "itemName": "Ring of Red Plasma"
+        },
+        {
+            "itemName": "Spellbook of Warding"
+        },
+        {
+            "itemName": "Platinum Coin"
+        },
+        {
+            "itemName": "Blue Crystal Shard"
+        },
+        {
+            "itemName": "Springsprout Rod"
+        },
+        {
+            "itemName": "Bow"
+        },
+        {
+            "itemName": "Gold Ingot"
+        },
+        {
+            "itemName": "Lion Cloak Patch"
+        },
+        {
+            "itemName": "Wand of Voodoo"
+        },
+        {
+            "itemName": "Axe"
+        },
+        {
+            "itemName": "Giant Shimmering Pearl (Brown)"
+        },
+        {
+            "itemName": "Fur Shred"
+        },
+        {
+            "itemName": "Lion Crest"
+        },
+        {
+            "itemName": "Ring of Blue Plasma"
+        },
+        {
+            "itemName": "Green Gem"
+        },
+        {
+            "itemName": "Bullseye Potion"
+        },
+        {
+            "itemName": "Giant Shimmering Pearl"
+        }
+    ],
+    "walksaround": "None",
+    "exp": "7200",
+    "creatureclass": "Humans",
+    "earthDmgMod": "100%?",
+    "physicalDmgMod": "99%<?",
+    "primarytype": "Members of the Order of the Lion",
+    "spawntype": [
+        "Triggered"
+    ],
+    "senseinvis": "yes",
+    "article": "a",
+    "actualname": "usurper commander",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "bestiaryname": "usurpercommander",
+    "name": "Usurper Commander",
+    "isboss": "no",
+    "behaviour": "Unknown",
+    "location": "[[Bounac]], the [[Order of the Lion]] settlement.",
+    "iceDmgMod": "100%?",
+    "energyDmgMod": "100%?",
+    "deathDmgMod": "101%>?"
+}

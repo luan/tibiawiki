@@ -1,0 +1,73 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "muddy earth elementals",
+    "hpDrainDmgMod": "100%?",
+    "walksthrough": "?",
+    "hp": "650",
+    "usespells": "yes",
+    "speed": "?",
+    "abilities": "{{Ability List\n |{{Melee|0-160|element=physical}}\n |{{Ability|Poof Explosion|0-180|element=physical}}\n |{{Ability|Big plants Beam|up to 6 [[Hitpoints|hp]]/turn|element=poisoned}}\n |{{Ability|Earth Missile|70-110|element=earth}}\n |{{Ability|[[Creature Spells#Poison Ball|Poisoning Ball]] on itself|element=poisoned}}\n |{{Ability|[[Paralyze]]|Small plants effect|element=paralyze}}\n |{{Healing}}\n}}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "115%",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "450",
+    "pushable": "?",
+    "runsat": "0",
+    "implemented": "8.20",
+    "loot": [
+        {
+            "amount": "0-128",
+            "itemName": "Gold Coin"
+        },
+        {
+            "itemName": "Lump of Earth"
+        },
+        {
+            "amount": "0-5",
+            "itemName": "Small Stone"
+        },
+        {
+            "itemName": "Some Leaves"
+        },
+        {
+            "itemName": "Natural Soil",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Clay Lump",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Coal",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "450",
+    "creatureclass": "Elementals",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Geo-Elementals",
+    "attacktype": "Melee",
+    "race_id": "469",
+    "senseinvis": "?",
+    "article": "a",
+    "actualname": "muddy earth elemental",
+    "illusionable": "yes",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Muddy Earth Elemental",
+    "isboss": "no",
+    "location": "[[The Elemental Spheres Quest]], [[Druid]]'s part - [[Earth Sphere]].",
+    "iceDmgMod": "80%",
+    "strategy": "Run around and use [[Flame Strike]]. It's good to use [[Great Fireball]] if there are more than two. If you feel like bringing a rod, take a [[Hailstorm Rod|hailstorm rod]] because they are least resistant to ice.",
+    "energyDmgMod": "15%",
+    "deathDmgMod": "60%"
+}

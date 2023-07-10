@@ -1,0 +1,150 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "Walks in packs with other [[Draken]]s deep under [[Razachai]].\n{{JSpoiler|You may hunt 900 [[Draken Abomination]], Draken Elite, [[Draken Spellweaver]], [[Draken Warmaster]] combined, as a task of the [[Killing in the Name of... Quest]]. Upon completion of the task you will face [[Paiz the Pauperizer]].}}",
+    "walksthrough": "Fire, Energy, Poison",
+    "hp": "5550",
+    "abilities": "{{Ability List|{{Melee|0-350}}|\n{{Ability|[[Soulfire]]||fire}}|\n{{Ability|[[Fire Wave]]|240-550|fire}}|\n{{Ability|[[Fireball]]|200-300|fire}}|\n{{Ability|[[Envenom]]||poisoned}}|\n{{Ability|[[Earth Damage|Smoke Bomb]].|170-370|poisoned}}|\n{{Ability|Very frequent [[Self-Healing]]|1-200|Healing}}|\n}}",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "holyDmgMod": "70%",
+    "maxdmg": "1500 (with wave)",
+    "pushable": "?",
+    "implemented": "8.60",
+    "loot": [
+        {
+            "amount": "1-200",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-8",
+            "itemName": "Platinum Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Meat",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Broken Slicer",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Broken Draken Mail",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Draken Wristbands",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "0-3",
+            "itemName": "Ultimate Health Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "0-3",
+            "itemName": "Great Mana Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Draken Sulphur",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "0-4",
+            "itemName": "Small Diamond",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Magic Sulphur",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Twiceslicer",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Zaoan Legs",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Assassin Dagger",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Draken Boots",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Zaoan Armor",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Zaoan Sword",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Zaoan Helmet",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Elite Draken Mail",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Snake God's Wristguard",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Blade of Corruption",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Cobra Crown",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "None.",
+    "exp": "4200",
+    "mitigation": "1.60",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "draken elite",
+    "illusionable": "no",
+    "armor": "60",
+    "convince": "--",
+    "name": "Draken Elite",
+    "isboss": "no",
+    "iceDmgMod": "100%",
+    "energyDmgMod": "60%",
+    "deathDmgMod": "70%",
+    "plural": "draken elites",
+    "hpDrainDmgMod": "100%",
+    "usespells": "yes",
+    "lightcolor": "161",
+    "occurrence": "Common",
+    "bestiarytext": "The Draken heritage is one of power and competence. Their training is merciless and their honour leaves little room for failure. All Draken use the best of their abilities to serve the dragon emperor, willing to die for the slightest failure. Yet, only the best of the best make it into the elite of the Draken society. The harsh and rigorous training hones their skills and makes them a living weapon at the disposal of the emperor. Wielding arcane power and weapons alike, the Draken Elite combines this with an impressive physique, turning it into a one man army. Using combat skills and spells, the Draken Elite has just the right answer to any combat situation in its claws.<br />The Draken Elite have become some sort of knightly or religious order in the lizard society. Their grandmaster receives his order only from the dragon emperor himself, and their chapter house is part of the dragon emperor's palace. If the need arises, the emperor lends some of the elite warriors to one of the dragon kings. Sometimes out of need, another time as a boon or token of respect. The elite forces handle even the most trivial duty they are assigned to with precision and unwavering diligence. Often it is sufficient to send a single elite warrior to fulfil a task. When the need arises, small squads are sent which are capable to handle most threats on their own. Given the rarity of the elite forces, such squads are only seen under dire circumstances. Actually it seems that the elite forces are that accustomed to work alone that they do not even get along well with other members of the elite, let alone with 'lesser' warriors at the empire's disposal.",
+    "speed": "166",
+    "pushobjects": "?",
+    "fireDmgMod": "0%",
+    "sounds": [
+        "For ze emperor!",
+        "You will die zhouzandz deazhz!"
+    ],
+    "lightradius": "3",
+    "bestiaryclass": "Dragon",
+    "creatureclass": "Reptiles",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Draken",
+    "race_id": "672",
+    "bestiarylevel": "Hard",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "drakenelite",
+    "behaviour": "Chases you quickly and fights until death. Behaviour similar to a stronger [[Dragon Lord]].",
+    "location": "[[Razachai]], including the Crystal Column chambers in the [[Inner Sanctum]].",
+    "strategy": "First of all, try to stay diagonal all the time, because his wave is very strong. Mages should use Ice-Based spells, while [[Paladins]] should use [[Crystalline Arrow]]/[[Prismatic Bolt]]s and [[Ethereal Spear]]. It's a hard creature for [[Knight]]s, and one should use a weapon combined with [[Berserk]] based spells all the time to kill it fast."
+}

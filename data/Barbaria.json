@@ -1,0 +1,90 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "Barbaria",
+    "hpDrainDmgMod": "100%?",
+    "notes": "She is the [[Barbarian Brutetamer]]'s [[boss]].",
+    "walksthrough": "?",
+    "hp": "345",
+    "usespells": "yes",
+    "speed": "?",
+    "abilities": "{{Ability List| {{Melee|0-120+}}|{{Summon|War Wolf|2}}|{{Healing}} }}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "100%?",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        "To me, creatures of the wild!",
+        "My instincts tell me about your cowardice.",
+        "Mine is the power of rage!",
+        "I'll be triumphant!"
+    ],
+    "maxdmg": "170+",
+    "pushable": "?",
+    "runsat": "0",
+    "implemented": "8.20",
+    "loot": [
+        {
+            "amount": "0-35?",
+            "itemName": "Gold Coin"
+        },
+        {
+            "itemName": "Ham"
+        },
+        {
+            "itemName": "Chain Armor"
+        },
+        {
+            "itemName": "Corncob"
+        },
+        {
+            "itemName": "Mana Potion"
+        },
+        {
+            "itemName": "Staff"
+        },
+        {
+            "itemName": "Torch"
+        },
+        {
+            "itemName": "Fur Bag"
+        },
+        {
+            "itemName": "Book (Grey)"
+        },
+        {
+            "itemName": "Hunting Spear"
+        },
+        {
+            "itemName": "Mammoth Fur Cape"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "355",
+    "creatureclass": "Humans",
+    "earthDmgMod": "100%?",
+    "physicalDmgMod": "100%",
+    "bosstiaryclass": "Nemesis",
+    "primarytype": "Barbarians",
+    "spawntype": [
+        "Raid",
+        "Unique",
+        "Unblockable"
+    ],
+    "attacktype": "Melee",
+    "race_id": "440",
+    "senseinvis": "yes",
+    "actualname": "Barbaria",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Barbaria",
+    "isboss": "yes",
+    "location": "Center of [[Krimhorn]]'s Big [[Barbarian]] Camp around {{Mapper Coords|125.9|122.184|7|8|text=here}}",
+    "iceDmgMod": "100%?",
+    "strategy": "It spawns near the center of the camp. Treat it like a bloodwalker.",
+    "energyDmgMod": "100%?",
+    "deathDmgMod": "100%?"
+}

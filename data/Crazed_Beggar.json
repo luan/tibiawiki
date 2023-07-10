@@ -1,0 +1,122 @@
+{
+    "summon": "300",
+    "templateType": "Creature",
+    "notes": "May be found alone or with other creatures throughout its quarter.",
+    "walksthrough": "None",
+    "hp": "100",
+    "abilities": "{{Ability List|{{Melee|0-25}}}}",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "holyDmgMod": "90%",
+    "maxdmg": "{{Max Damage|physical=25}}",
+    "pushable": "yes",
+    "usedelements": "Physical",
+    "implemented": "8.40",
+    "loot": [
+        {
+            "amount": "1-9",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Dirty Cape",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Meat",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Roll",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Wooden Hammer",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Wooden Spoon",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Rolling Pin",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Red Rose",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Rum Flask",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Small Blue Pillow",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Sling Herb",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Dwarven Ring",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Lute",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Heavily Rusted Armor",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Very Noble-Looking Watch",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Fire, Energy, Poison",
+    "exp": "35",
+    "mitigation": "0.20",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "crazed beggar",
+    "illusionable": "no",
+    "armor": "4",
+    "convince": "300",
+    "name": "Crazed Beggar",
+    "isboss": "no",
+    "iceDmgMod": "100%",
+    "energyDmgMod": "80%",
+    "deathDmgMod": "110%",
+    "plural": "crazed beggars",
+    "hpDrainDmgMod": "100%",
+    "usespells": "no",
+    "occurrence": "Common",
+    "bestiarytext": "Crazed Beggars are victims of disease, hunger and desperation. They have fled from their hopeless, dark lives into insanity. Their twisted vision and mind result from dangerous home-brewed alcohol and make them a threat to everybody, including themselves, when they roam the dark alleys of the cities they live in. They are neither impressive fighters nor do they have good equipment, but their madness gives their gaunt bodies frightening physical power and resilience. They become particularly dangerous to travellers when they appear in a group led by an invisible hand. Even though, an adventurer might rather want to mourn these pitiful beings, he will quickly raise his weapon when he is attacked with sticks, clubs, stones and teeth. Regardless of their own safety and with the fury of a madman, they might not pose a real threat to an experienced fighter, but their attacks can be fatal for an ordinary citizen.<br />In their few sane moments, they travel much, so they can be encountered almost everywhere. Some cultures, which are usually hostile towards humans, praise Crazed Beggars as blessed beings. In rare cases, it has also been reported that one of them started to see his madness as divine providence and start to form small cults of equally mad cultists. Created by a mad mind, such cults can be devoted to almost anything, from mundane objects to completely deranged philosophies that only a madman can understand.<br />Even without a leader or a common goal, Crazed Beggars often team up led by an instinctive need for protection and company. Astonishing enough, they seem to get along with each other quite well, most likely as they are all absorbed in their own mad worlds.",
+    "speed": "77",
+    "pushobjects": "no",
+    "fireDmgMod": "100%",
+    "sounds": [
+        "Hehehe!",
+        "Raahhh!",
+        "You are one of THEM! Die!",
+        "Wanna buy roses??",
+        "Make it stop!",
+        "They're coming! They're coming!",
+        "Gimme money!"
+    ],
+    "bestiaryclass": "Human",
+    "creatureclass": "Humans",
+    "earthDmgMod": "110%",
+    "physicalDmgMod": "95%",
+    "primarytype": "Outlaws",
+    "race_id": "525",
+    "bestiarylevel": "Easy",
+    "senseinvis": "no",
+    "drownDmgMod": "100%",
+    "bestiaryname": "crazedbeggar",
+    "behaviour": "Will not run in low [[health]].",
+    "location": "[[Factory Quarter|Factory]], [[Foreigner Quarter|Foreigner]], and [[Trade Quarter]]s in [[Yalahar]].",
+    "strategy": "Kill it like you would kill a [[Wild Warrior]]."
+}

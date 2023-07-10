@@ -1,0 +1,82 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "0%?",
+    "notes": "[[Medusa]]e boss. Part of the [[Paw and Fur Society]] tasks of [[Grizzly Adams]].\n<br />\n{{JSpoiler|Part of the [[Killing in the Name of... Quest]].}}",
+    "walksthrough": "Poison",
+    "hp": "4500",
+    "speed": "?",
+    "abilities": "{{Ability List|{{Melee|0-450|poison=42}}|{{Ability|[[Life Drain]] 5x [[Terra Strike]]|21-350|element=lifedrain}}|{{Ability|[[Terra Wave]]|250-500|element=earth}}|{{Ability|Great Smoke Bomb|[[Paralysis]]|element=paralyze}}|{{Ability|Frequent [[Self-Healing]]|150-300|element=healing}}|{{Ability|Medusa's Gaze|changes your appearance into a stone statue|element=shapeshifting}} }}",
+    "pushobjects": "Yes",
+    "healMod": "100%?",
+    "paraimmune": "yes",
+    "fireDmgMod": "105%>?",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "?",
+    "pushable": "No",
+    "runsat": "red",
+    "implemented": "9.20",
+    "loot": [
+        {
+            "amount": "0-17",
+            "itemName": "Platinum Coin"
+        },
+        {
+            "amount": "0-3",
+            "itemName": "Small Emerald"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "Great Mana Potion"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "Ultimate Health Potion"
+        },
+        {
+            "itemName": "Medusa Shield"
+        },
+        {
+            "itemName": "Sacred Tree Amulet"
+        },
+        {
+            "itemName": "Strand of Medusa Hair"
+        },
+        {
+            "itemName": "Terra Amulet"
+        },
+        {
+            "itemName": "Terra Legs"
+        },
+        {
+            "itemName": "Terra Mantle"
+        },
+        {
+            "itemName": "Titan Axe"
+        }
+    ],
+    "walksaround": "Fire, Energy",
+    "exp": "7000",
+    "creatureclass": "Elementals",
+    "earthDmgMod": "0%?",
+    "physicalDmgMod": "100%?",
+    "primarytype": "Geo-Elementals",
+    "race_id": "759",
+    "senseinvis": "yes",
+    "actualname": "Gorgo",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "0%?",
+    "convince": "--",
+    "name": "Gorgo",
+    "isboss": "yes",
+    "behaviour": "Behaves exactly as a regular [[Medusa]].",
+    "location": "[[Deeper Banuta]], main quest floor (teleport {{Mapper Coords|128.31|126.245|11|4|text=here}}).",
+    "iceDmgMod": "80%?",
+    "strategy": "Treat it as a [[Medusa]].",
+    "energyDmgMod": "110%?",
+    "deathDmgMod": "100%?"
+}

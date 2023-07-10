@@ -1,0 +1,109 @@
+{
+    "summon": "290",
+    "templateType": "Creature",
+    "notes": "'''Island Trolls''' are similiar to [[Troll]]s and have similar loot, they hold a [[Marlin]] and use it as a weapon. But it's a food.",
+    "walksthrough": "None",
+    "hp": "50",
+    "abilities": "{{Ability List\n |{{Melee|0-10}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "holyDmgMod": "100%",
+    "maxdmg": "{{Max Damage|physical=10}}",
+    "pushable": "Yes",
+    "usedelements": "Physical",
+    "implemented": "7.8",
+    "loot": [
+        {
+            "amount": "0-10",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Wood",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Hand Axe",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Leather Boots",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Leather Helmet",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Rope",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Spear",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Wooden Shield",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Mango",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Studded Club",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Marlin",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Silver Amulet",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Fire, Energy, Poison",
+    "exp": "20",
+    "mitigation": "0.20",
+    "attacktype": "Melee",
+    "history": "==== Change Image ====\nBefore the [[Update 8.1]], island trolls looked like this: [[File:Island Troll (before 8.1).gif]].\n\n==== Food Drop change ====\nWith the [[Updates/8.54|Christmas Update 2009]], Island Trolls started to drop [[Mango]]s instead of [[Meat]]. This food change was part of a bigger plan to increase the food variety. A lot of standard meat drops were replaced with fruit and vegetable drops.",
+    "article": "an",
+    "actualname": "island troll",
+    "illusionable": "yes",
+    "armor": "6",
+    "convince": "290",
+    "name": "Island Troll",
+    "isboss": "no",
+    "iceDmgMod": "100%",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "100%",
+    "plural": "island trolls",
+    "hpDrainDmgMod": "100%",
+    "usespells": "no",
+    "occurrence": "Common",
+    "bestiarytext": "The Island Trolls are by no means more courageous than their cousins all over the world. Quite weak, they are usually easily defeated. However, their existence on remote isles is a clear proof for the versatility of the troll race. Their lifestyle does not differ much from that of other trolls. They prefer to roam in caves and form small tribes and clans.The only notable difference to other trolls might be their habit to collect all sorts of things and to hoard them. This might come from the lack of resources on the isles or, as some suggest, from some religious background. Considering the disinterest in the topic trolls, no one bothered yet to investigate that further.",
+    "speed": "63",
+    "pushobjects": "No",
+    "fireDmgMod": "100%",
+    "sounds": [
+        "Hmmm, turtles",
+        "Hmmm, dogs",
+        "Hmmm, worms",
+        "Groar",
+        "Gruntz!"
+    ],
+    "bestiaryclass": "Humanoid",
+    "creatureclass": "Humanoids",
+    "earthDmgMod": "100%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Trolls",
+    "race_id": "277",
+    "bestiarylevel": "Trivial",
+    "senseinvis": "no",
+    "drownDmgMod": "100%",
+    "bestiaryname": "islandtroll",
+    "behaviour": "'''Island Trolls''' retreat in [[Health|low health]].",
+    "location": "[[Goroma]].",
+    "strategy": "Just attack them. Be careful with [[Scorpion]]s and [[Crab]]s that also dwell on [[Goroma]] with the Island Trolls."
+}

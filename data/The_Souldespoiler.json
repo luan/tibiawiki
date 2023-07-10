@@ -1,0 +1,176 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "The Souldespoiler",
+    "hpDrainDmgMod": "100%?",
+    "notes": "{{JSpoiler|Part of the [[Cults of Tibia Quest]].}}",
+    "walksthrough": "?",
+    "hp": "290000",
+    "speed": "?",
+    "abilities": "{{Ability List| {{Melee|0-600+|element=physical}}|{{Ability|[[Physical Damage|Death Bomb]] on target|300-500?}}|{{Ability|[[Death Damage|Death Strike]]|300-500?|element=death}} }}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "100%?",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        "Stop freeing the souls! They are mine alone!",
+        "The souls shall not escape me! ",
+        " You will be mine!"
+    ],
+    "maxdmg": "1100?",
+    "pushable": "?",
+    "cooldown": "20",
+    "implemented": "11.40.5409",
+    "loot": [
+        {
+            "amount": "200",
+            "itemName": "Gold Coin"
+        },
+        {
+            "amount": "5",
+            "itemName": "Energy Bar"
+        },
+        {
+            "itemName": "Mysterious Remains"
+        },
+        {
+            "amount": "10-30",
+            "itemName": "Platinum Coin"
+        },
+        {
+            "amount": "10",
+            "itemName": "Small Amethyst"
+        },
+        {
+            "amount": "10",
+            "itemName": "Small Diamond"
+        },
+        {
+            "amount": "10",
+            "itemName": "Small Emerald"
+        },
+        {
+            "amount": "10",
+            "itemName": "Small Topaz"
+        },
+        {
+            "itemName": "Odd Organ"
+        },
+        {
+            "itemName": "Plasma Pearls"
+        },
+        {
+            "amount": "10",
+            "itemName": "Prismatic Quartz"
+        },
+        {
+            "itemName": "Blue Gem"
+        },
+        {
+            "itemName": "Green Gem"
+        },
+        {
+            "itemName": "Yellow Gem"
+        },
+        {
+            "amount": "10",
+            "itemName": "Curious Matter"
+        },
+        {
+            "amount": "10",
+            "itemName": "Spark Sphere"
+        },
+        {
+            "itemName": "Giant Shimmering Pearl"
+        },
+        {
+            "amount": "5",
+            "itemName": "Ultimate Health Potion"
+        },
+        {
+            "amount": "5",
+            "itemName": "Great Spirit Potion"
+        },
+        {
+            "amount": "5",
+            "itemName": "Great Mana Potion"
+        },
+        {
+            "itemName": "Sapphire Hammer"
+        },
+        {
+            "itemName": "Haunted Blade"
+        },
+        {
+            "itemName": "Spiked Squelcher"
+        },
+        {
+            "itemName": "Wand of Defiance"
+        },
+        {
+            "itemName": "Silver Token"
+        },
+        {
+            "itemName": "Gold Token"
+        },
+        {
+            "itemName": "Impaler"
+        },
+        {
+            "itemName": "Shield of Corruption"
+        },
+        {
+            "itemName": "Small Sapphire"
+        },
+        {
+            "itemName": "Spellbook of Enlightenment"
+        },
+        {
+            "itemName": "Violet Gem"
+        },
+        {
+            "itemName": "Medusa Shield"
+        },
+        {
+            "itemName": "Magma Boots"
+        },
+        {
+            "itemName": "Heart of the Mountain (Item)"
+        },
+        {
+            "itemName": "Underworld Rod"
+        },
+        {
+            "itemName": "Dreaded Cleaver"
+        },
+        {
+            "itemName": "Red Gem"
+        },
+        {
+            "itemName": "Rift Lance"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "50000",
+    "creatureclass": "Invertebrates",
+    "earthDmgMod": "100%?",
+    "physicalDmgMod": "100%?",
+    "bosstiaryclass": "Archfoe",
+    "primarytype": "Cnidarians",
+    "race_id": "1422",
+    "senseinvis": "?",
+    "actualname": "The Souldespoiler",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "The Souldespoiler",
+    "isboss": "yes",
+    "behaviour": "Fights in close combat.",
+    "location": "The Humans Cult hideout under the Outlaw Camp.",
+    "iceDmgMod": "100%?",
+    "strategy": "Just attack this boss form with whatever you have. It won't take much damage but [[Freed Soul|Freed Souls]] will start spawning. These do an area attack that will damage the boss so keep them close. Once three [[Freed Soul|Freed Souls]] have spawned the boss will start dying quickly.",
+    "energyDmgMod": "90%",
+    "deathDmgMod": "100%?"
+}

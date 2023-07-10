@@ -1,0 +1,173 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "isarenaboss": "no",
+    "walksthrough": "Poison",
+    "hp": "2600",
+    "abilities": "{{Ability List| {{Melee|0-350|element=physical}}|{{Ability|3x3 physical bomb|80-220+|physical}}|{{Ability|[[Drunkenness]] bomb|red sparkles|element=drunk}}|{{Ability|energy explosion|on itself; does haste|element=haste}}|{{Healing|range=250-500}} }}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "secondarytype": "The Lost",
+    "holyDmgMod": "100%",
+    "maxdmg": "600",
+    "pushable": "no",
+    "implemented": "9.80",
+    "loot": [
+        {
+            "amount": "1-100",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Platinum Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Coal",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Bloody Dwarven Beard",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Lost Basher's Spike",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Brown Mushroom",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Great Mana Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Red Hair Dye",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Wimp Tooth Chain",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Basalt Figurine",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Small Topaz",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Bonecarving Knife",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Ultimate Health Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Basalt Fetish",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Bone Fetish",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Iron Ore",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Piggy Bank",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Black Shield",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Dwarven Ring",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Pair of Iron Fists",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Blue Crystal Shard",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Buckle",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Knight Axe",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Terra Boots",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Knight Legs",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Spiked Squelcher",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Fire Axe",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Chaos Mace",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "War Axe",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Energy, Fire",
+    "exp": "1800",
+    "mitigation": "1.62",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "lost basher",
+    "illusionable": "no",
+    "armor": "57",
+    "convince": "--",
+    "name": "Lost Basher",
+    "isboss": "no",
+    "iceDmgMod": "80%",
+    "energyDmgMod": "95%",
+    "deathDmgMod": "85%",
+    "plural": "lost bashers",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "In stark contrast to the silent and emotionless thrower, the Basher is bred to behave like a fierce animal. Their sounds and their berserk behaviour often give the impression to be fighting a kind of kongra in a dwarf's body. Though the basher employ a variety of killing utensils with frightening skill, those seem strangely out of place in their hands. Generally, they daunt their enemies with grunting noises and threatening posture, before charging and unleashing their full ferocity on the battlefield. Bashers are usually the first to charge into battle - as a matter of fact, the Bashers seem almost incapable of engaging into battle without a charge - accompanied by yells that cannot mistaken for ordinary battle cries. In combat, they continue their unnerving bawling and intimidating behaviour, although they frequently display a certain cunning and seem to enjoy slowly bleeding their enemies to death rather than swiftly finishing them off. Sometimes, however, they fly into an animal frenzy, dealing out a series of vicious and brutal blows that betray their immense strength. Moreover, the bashers seem to possess an uncanny sense of direction; and since both their mindset and their senses are animal-like, they are often used as guides, trackers or hunters by the Lost, although they are easily distracted.<br />It is not uncommon for bands of Bashers to follow their prey like bloodhounds, chasing them to death, often without any assistance of other Lost. Whether they have been dispatched by some superiors or follow some kind of hunting urge is subject to speculation. Dwarfs who wander around on their own, for instance scouts of soldiers cut off from their units, frequently become subjects of such hunts. The few survivors tell horrible stories about being chased by the bloodthirsty packs and in most stories, only the fact that another victim distracted the bashers, saved the lives of the fugitive.",
+    "speed": "130",
+    "pushobjects": "yes",
+    "fireDmgMod": "75%",
+    "sounds": [
+        "Yhouuuu!"
+    ],
+    "bestiaryclass": "Humanoid",
+    "creatureclass": "Humanoids",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Dwarves",
+    "race_id": "925",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "lostdwarfbasher",
+    "behaviour": "Fights in close combat.",
+    "location": "[[Caves of the Lost]], [[Lower Spike]] and in the [[Forsaken Mine/Lost Dwarves|Lost Dwarf]] version of the [[Forsaken Mine]].",
+    "strategy": "Wear a [[Dwarven Ring]] to avoid the effect of its [[Drunkenness]] attack. While a single Lost Basher isn't much of a threat, they usually come in pack with other Losts, so be careful in areas where they are present."
+}

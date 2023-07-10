@@ -1,0 +1,75 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "sacred spiders",
+    "hpDrainDmgMod": "100%?",
+    "isarenaboss": "no",
+    "walksthrough": "Poison",
+    "hp": "550",
+    "usespells": "no",
+    "occurrence": "Rare",
+    "speed": "122",
+    "abilities": "{{Ability List| {{Melee|0-156}}|{{Ability|[[Poisoned|Poisons]] you up to 4 hp per turn|element=poisoned}}|{{Ability|Poison Spit|54-79?|element=earth}} }}",
+    "pushobjects": "?",
+    "healMod": "100%",
+    "paraimmune": "?",
+    "fireDmgMod": "115%",
+    "holyDmgMod": "100%",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "240?",
+    "pushable": "No",
+    "implemented": "9.10",
+    "bestiaryclass": "Vermin",
+    "loot": [
+        {
+            "amount": "1-119",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Spider Fangs",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-4",
+            "itemName": "Scarab Coin",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Plate Armor",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Gold Ingot",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Fire, Energy",
+    "exp": "330",
+    "creatureclass": "Invertebrates",
+    "earthDmgMod": "0%",
+    "mitigation": "1.43",
+    "physicalDmgMod": "100%",
+    "primarytype": "Arachnids",
+    "race_id": "709",
+    "attacktype": "Melee",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "article": "a",
+    "actualname": "sacred spider",
+    "illusionable": "no",
+    "armor": "27",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Sacred Spider",
+    "isboss": "no",
+    "behaviour": "Fights until death.",
+    "location": "[[Horestis Tomb]] (third floor and lower).",
+    "iceDmgMod": "110%",
+    "strategy": "These [[Arachnids|spiders]] are relatively strong, so be cautious when you're a lower level. They use their poison spit very often, which makes it tricky even for [[Knight]]s to kill it.",
+    "energyDmgMod": "90%",
+    "deathDmgMod": "100%",
+    "status": "event"
+}

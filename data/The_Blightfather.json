@@ -1,0 +1,65 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "The Blightfather",
+    "hpDrainDmgMod": "100%?",
+    "notes": "It is the [[Lancer Beetle]]s' boss that spawns with their raid in [[Muggy Plains]] (30 minutes after the initial raid message).\n<gallery mode=\"nolines\">\nThe_Blightfather_for_Tibia_Wiki.jpg\n</gallery>",
+    "walksthrough": "Poison",
+    "hp": "400",
+    "speed": "?",
+    "abilities": "{{Ability List| {{Melee|?}}|{{Ability|[[Invisibility]]|element=invisible}}|{{Ability|makes you [[Cursed]]|damage raises up to ?|element=cursed}}|{{Ability|[[Poison Bomb]] around itself|element=poison}}|{{Summon|Lancer Beetle|2}} }}",
+    "pushobjects": "yes",
+    "healMod": "100%?",
+    "paraimmune": "yes",
+    "fireDmgMod": "100%",
+    "holyDmgMod": "100%",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "?",
+    "pushable": "no",
+    "runsat": "4,24",
+    "implemented": "8.54",
+    "loot": [
+        {
+            "amount": "0-91",
+            "itemName": "Gold Coin"
+        },
+        {
+            "itemName": "Lancer Beetle Shell"
+        },
+        {
+            "itemName": "Lump of Dirt"
+        },
+        {
+            "itemName": "Poisonous Slime"
+        },
+        {
+            "itemName": "Small Amethyst"
+        },
+        {
+            "itemName": "Beetle Necklace"
+        }
+    ],
+    "walksaround": "Energy, Fire",
+    "exp": "400",
+    "creatureclass": "Invertebrates",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "100%?",
+    "bosstiaryclass": "Nemesis",
+    "primarytype": "Insects",
+    "race_id": "638",
+    "senseinvis": "yes",
+    "actualname": "The Blightfather",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "The Blightfather",
+    "isboss": "yes",
+    "location": "[[Muggy Plains]], {{Mapper Coords|130.22|121.179|7|4|text=here}}",
+    "iceDmgMod": "100%?",
+    "strategy": "Simply kill it. The Blightfather is as strong as an ordinary [[Lancer Beetle]], just faster.",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "100%?"
+}

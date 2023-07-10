@@ -1,0 +1,177 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "walksthrough": "Fire, Energy, Poison",
+    "hp": "5000",
+    "abilities": "{{Ability List\n |{{Melee|0-400}}\n |{{Ability|[[Death Damage|Death Bomb on target]]|250-350|element=death}}\n |{{Ability|[[Death Damage|Sudden Death]]|200-300|element=death}}\n |{{Ability|[[Death Damage|Die Effect Beam]]|150-300|element=death}}\n |{{Ability|[[Death Damage|Death]] [[Berserk]]|200-300|element=death}}\n |{{Ability|[[Energy Damage|Energy Wave]]|200-350|element=energy}}\n |{{Ability|[[Energy Damage|Yellow Sparks bomb on itself]]|200-300|element=energy}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "holyDmgMod": "140%",
+    "maxdmg": "2300",
+    "pushable": "no",
+    "usedelements": "Death, Physical, Energy",
+    "implemented": "12.00.7695",
+    "loot": [
+        {
+            "amount": "1-14",
+            "itemName": "Platinum Coin",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "Great Spirit Potion",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Spider Fangs",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Essence of a Bad Dream",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Silver Amulet",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Sword Ring",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Mind Stone",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Wand of Cosmic Energy",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Energy Ring",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Life Ring",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Axe Ring",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Magma Amulet",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Orb",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Power Ring",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Elven Amulet",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Underworld Rod",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Death Ring",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Collar of Red Plasma",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Ring of Blue Plasma",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Garlic Necklace",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Sacred Tree Amulet",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Ring of Healing",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Platinum Amulet",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Spider Silk",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Strange Talisman",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Stone Skin Amulet",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Strange Symbol",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Necklace of the Deep",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Collar of Green Plasma",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "None",
+    "exp": "4700",
+    "mitigation": "1.94",
+    "attacktype": "Melee",
+    "article": "an",
+    "actualname": "arachnophobica",
+    "illusionable": "no",
+    "armor": "70",
+    "convince": "--",
+    "name": "Arachnophobica",
+    "isboss": "no",
+    "iceDmgMod": "100%",
+    "energyDmgMod": "50%",
+    "deathDmgMod": "50%",
+    "plural": "arachnophobicas",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "The mounting nightmare that took a hold in the realms of the dream-born has twisted and malformed much of the animal life of those places. It was the arachnophobica who put an end to most of them. It's a mute point to argue if the arachnophobica is a twisted form of giant spider, an enlarged and mutated common spider or was born out of subconscious fears. What matters is, that the nightmare created a ferocious beast that seems to feed on the fears but also the lifeblood of its victims. Albeit capable of weaving webs, the archanophobica rarely bothers to do so and rather relies on its speed and lethal strength. In its hunting behavior the beast displays an unnerving amount of cunning and malice. It's able to prepare an ambush and prepare its attacks with others of its kind. It also seems to enjoy the fear of its victims and is known to play vile games of cat and mouse with a prey, often relying on a series of vicious, power draining attacks rather then an early finishing blow. It merciless weeds out all the misshapen and weaker creatures born of the nightmare and in the long run may enforce an unnatural selection of the nightmare-born, that will lead to generations of even more vicious creatures, if the said nightmare can't be stopped. The only positive thing that might be said about this disgusting abomination is, that its brutal viciousness does not even stop at their own kind and the hatching of a batch of arachnophobica eggs is an orgy of slaughter and cannibalism that only a few of them survive - often only to be devoured by their parents.",
+    "speed": "200",
+    "pushobjects": "yes",
+    "fireDmgMod": "100%",
+    "sounds": [
+        "Tip tap tip tap!",
+        "Zip zip zip!!!"
+    ],
+    "runsat": "6",
+    "bestiaryclass": "Magical",
+    "creatureclass": "Invertebrates",
+    "earthDmgMod": "100%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Arachnids",
+    "spawntype": [
+        "Regular"
+    ],
+    "race_id": "1729",
+    "bestiarylevel": "Hard",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "arachnophobica",
+    "behaviour": "Fights in close combat. Does not retarget unless challenged or its path to the initial target is blocked.",
+    "location": "[[Buried Cathedral]], [[Haunted Cellar]], [[Court of Summer]], [[Court of Winter]], [[Dream Labyrinth]]",
+    "strategy": "None of its attacks hits very hard, however, it will often use several of them at the same time dealing massive combos."
+}

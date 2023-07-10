@@ -1,0 +1,95 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "Part of the [[Killing in the Name of... Quest]]. Before [[Updates/10.8]], players needed to have completed the [[Wrath of the Emperor Quest]] up to [[Wrath of the Emperor Quest#Mission 07: A Noble Cause|mission 7]] in order to be able to reach him. After this update, however, his teleporter is much easier reachable and only requires the completion of the first eight missions of [[The New Frontier Quest]].",
+    "isarenaboss": "no",
+    "walksthrough": "?",
+    "hp": "2955",
+    "speed": "?",
+    "abilities": "{{Ability List| {{Melee|0-320+}}|{{Healing|range=168-296+}}|{{Ability|Some Ranged Attack|0-290+|element=?}}|and more }}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "100%?",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "Unknown",
+    "pushable": "?",
+    "implemented": "9.50",
+    "loot": [
+        {
+            "amount": "1-292",
+            "itemName": "Gold Coin",
+            "rarity": "always"
+        },
+        {
+            "amount": "1-5",
+            "itemName": "Platinum Coin",
+            "rarity": "always"
+        },
+        {
+            "itemName": "Lizard Leather",
+            "rarity": "always"
+        },
+        {
+            "itemName": "Lizard Scale",
+            "rarity": "always"
+        },
+        {
+            "itemName": "Strong Health Potion",
+            "rarity": "always"
+        },
+        {
+            "itemName": "Zaogun Flag",
+            "rarity": "always"
+        },
+        {
+            "itemName": "Zaogun Shoulderplates",
+            "rarity": "always"
+        },
+        {
+            "amount": "0-3",
+            "itemName": "Great Health Potion"
+        },
+        {
+            "amount": "0-5",
+            "itemName": "Small Emerald"
+        },
+        {
+            "itemName": "Red Lantern"
+        },
+        {
+            "itemName": "Zaoan Shoes"
+        },
+        {
+            "itemName": "Zaoan Armor"
+        },
+        {
+            "itemName": "Zaoan Legs"
+        }
+    ],
+    "walksaround": "Fire, Energy",
+    "exp": "2600",
+    "creatureclass": "Lizards",
+    "earthDmgMod": "100%?",
+    "physicalDmgMod": "100%?",
+    "primarytype": "High Class Lizards",
+    "race_id": "846",
+    "senseinvis": "?",
+    "actualname": "Fazzrah",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Fazzrah",
+    "isboss": "yes",
+    "behaviour": "Fazzrah fight until death.",
+    "location": "A boat in [[Razachai]] accessed via the [[Muggy Plains]] (teleporter {{Mapper Coords|130.30|121.208|7|2|text=here}}).",
+    "iceDmgMod": "100%?",
+    "strategy": "Treat him like a stronger Lizard Zaogun.",
+    "energyDmgMod": "100%?",
+    "deathDmgMod": "100%?"
+}

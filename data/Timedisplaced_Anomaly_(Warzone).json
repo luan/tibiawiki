@@ -1,0 +1,51 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "It's one of the bosses which awards Theons as part of [[Tibia's 25th Anniversary]].\n\nThe combined Loot Statistics of this boss and the other two with the same name can be seen [[Loot Statistics:Timedisplaced Anomaly|here]].",
+    "walksthrough": "Fire, Poison, Energy",
+    "hp": "60000",
+    "abilities": "{{Ability List\n |{{Summon|Draken Warmaster|2}}\n}}",
+    "pushobjects": "yes",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "100%",
+    "holyDmgMod": "100%",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "?",
+    "pushable": "?",
+    "usedelements": "?",
+    "runsat": "0",
+    "implemented": "12.85.11485",
+    "loot": [
+        {
+            "amount": "1-3",
+            "itemName": "50 Theons"
+        }
+    ],
+    "walksaround": "None.",
+    "exp": "0",
+    "creatureclass": "Special",
+    "earthDmgMod": "100%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Shapeshifters",
+    "spawntype": [
+        "Triggered"
+    ],
+    "senseinvis": "?",
+    "article": "a",
+    "actualname": "timedisplaced anomaly",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Timedisplaced Anomaly (Warzone)",
+    "isboss": "yes",
+    "location": "[[Time Travel Dungeon]]",
+    "iceDmgMod": "100%",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "100%",
+    "status": "unavailable"
+}

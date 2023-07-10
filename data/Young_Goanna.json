@@ -1,0 +1,172 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "They are a younger version of the [[Adult Goanna]].",
+    "walksthrough": "None",
+    "hp": "6200",
+    "abilities": "{{Ability List\n |{{Melee|0-229+|poison=14+}}\n |{{Ability|Poison strike|486+|element=earth\n  |scene={{Scene|spell=1sqmstrike|effect=Blast Effect|missile=Earth Missile (Appearance)|damage_effect=Poison Effect 1|missile_direction=south-east|missile_distance=1/1}}}}\n |{{Ability|Earth Beam|element=earth\n  |scene={{Scene|spell=2sqmbeam|effect=Poison Effect 1|look_direction=east}}}}\n |{{Ability|Earth Exori|element=earth\n  |scene={{Scene|spell=3x3spell|effect=Dust Effect}}}}\n |{{Haste|[[Strong Haste]]}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "holyDmgMod": "100%",
+    "pushable": "no",
+    "implemented": "12.20.8834",
+    "loot": [
+        {
+            "amount": "1-3",
+            "itemName": "Platinum Coin",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-35",
+            "itemName": "Envenomed Arrow",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Terra Rod",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Goanna Meat",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Snakebite Rod",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Blue Goanna Scale",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Blue Crystal Shard",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Small Enchanted Emerald",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Terra Amulet",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Violet Gem",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Yellow Gem",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Blue Gem",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Goanna Claw",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Serpent Sword",
+            "rarity": "semi-rare"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "Leaf Star",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Silver Amulet",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Springsprout Rod",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Scared Frog",
+            "rarity": "semi-rare"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "Rainbow Quartz",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Onyx Chip",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Green Crystal Shard",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Blue Crystal Splinter",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Lizard Heart",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Sacred Tree Amulet",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Small Tortoise",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Terra Hood",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Fur Armor",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Wooden Spellbook",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Fire, Energy, Poison",
+    "exp": "6100",
+    "mitigation": "2.16",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "young goanna",
+    "illusionable": "no",
+    "armor": "78",
+    "convince": "--",
+    "name": "Young Goanna",
+    "isboss": "no",
+    "iceDmgMod": "100%",
+    "energyDmgMod": "120%",
+    "deathDmgMod": "100%",
+    "plural": "young goannas",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "Goannas are large predatory lizards with sharp teeth and claws. They have thick skin with camouflage that ranges from bands and stripes to speckles and circles. The skin colour changes as the creatures mature, with juveniles being blue and adult animals being bright red. Goannas lay eggs in a nest or burrow, but sometimes also inside termite mounds, which offers protection as well as incubation. Additionally, the termites provide a meal for the young as they hatch. Goanna eggs are a sought after meal for the human population of Kilmaresh. But as getting them is a dangerous task, they make a rather expensive menu.<br/>Goannas are found throughout the steppes of Kilmaresh. They prey on insects, smaller lizards, snakes, birds, mammals and also humans if they have the chance to do so. But they are also eaters of carrion and thus attracted to rotting meat. There's a debate whether goannas are venomous or not. It is a fact that goanna bites cause incessant bleeding and many sages assume that this is because of toxin-producing glands in the lizards' mouth.",
+    "speed": "190",
+    "pushobjects": "yes",
+    "fireDmgMod": "100%",
+    "sounds": [
+        ""
+    ],
+    "runsat": "0",
+    "bestiaryclass": "Reptile",
+    "creatureclass": "Reptiles",
+    "earthDmgMod": "80%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Varanidae",
+    "spawntype": [
+        "Regular"
+    ],
+    "race_id": "1817",
+    "bestiarylevel": "Hard",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "younggoanna",
+    "location": "[[Kilmaresh Central Steppe]], [[Kilmaresh Southern Steppe]], [[Green Belt]].",
+    "strategy": "Unknown."
+}

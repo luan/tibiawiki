@@ -1,0 +1,135 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "Strongest of the Elf Class, these elves use strong magical attacks. Good source for [[Wand of Cosmic Energy|Wands of Cosmic Energy]]. The Elf Arcanist Boss is [[Dharalion]].",
+    "walksthrough": "None",
+    "hp": "220",
+    "abilities": "{{Ability List\n |{{Melee|0-35}}\n |{{Ability|Shoots [[Arrow]]|15-45|physical\n  |scene={{Scene|spell=7sqmstrike|caster=Elf Arcanist|missile=Arrow Missile|missile_direction=south-east|missile_distance=7/7|effect=None}}}}\n |{{Ability|Energy Strike|30-50|energy\n  |scene={{Scene|spell=7sqmstrike|effect=Blue Electricity Effect|caster=Elf Arcanist|missile=Energy Missile|missile_direction=south-east|missile_distance=7/7}}}}\n |{{Ability|Death Strike|60-80|physical\n  |scene={{Scene|spell=7sqmstrike|caster=Elf Arcanist|missile=Death Missile|missile_direction=south-east|missile_distance=7/7|effect=Cloud Effect}}}}\n |{{Healing|range=42-68|scene={{Scene|spell=buffspell|effect=Blue Sparkles Effect|caster=Elf Arcanist|effect_on_caster=yes}}}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "holyDmgMod": "110%",
+    "maxdmg": "220",
+    "pushable": "No",
+    "implemented": "6.2",
+    "loot": [
+        {
+            "amount": "0-47",
+            "itemName": "Gold Coin"
+        },
+        {
+            "itemName": "Scroll"
+        },
+        {
+            "itemName": "Melon"
+        },
+        {
+            "itemName": "Blank Rune"
+        },
+        {
+            "itemName": "Bread"
+        },
+        {
+            "itemName": "Elvish Talisman"
+        },
+        {
+            "itemName": "Elven Astral Observer"
+        },
+        {
+            "itemName": "Green Tunic"
+        },
+        {
+            "amount": "0-3",
+            "itemName": "Arrow"
+        },
+        {
+            "itemName": "Sling Herb",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Health Potion",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Strong Mana Potion",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Candlestick",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Holy Orchid",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Elven Amulet",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Wand of Cosmic Energy",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Inkwell",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Sandals",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Life Crystal",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Grave Flower",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Yellow Gem",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Fire, Energy, Poison",
+    "exp": "175",
+    "mitigation": "0.51",
+    "attacktype": "Distance",
+    "article": "an",
+    "actualname": "elf arcanist",
+    "illusionable": "no",
+    "armor": "15",
+    "convince": "--",
+    "name": "Elf Arcanist",
+    "isboss": "no",
+    "iceDmgMod": "100%",
+    "energyDmgMod": "80%",
+    "deathDmgMod": "80%",
+    "plural": "elf arcanists",
+    "hpDrainDmgMod": "100%",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "Elf Arcanists are the military guides of the elves. They belong to the martial caste, the Kuridai, and all of them are very suspicious against any intruder. They are the strongest fighters among the elves, know to handle several distance fighting weapons, and are very skilled in magic. They can even heal themselves.",
+    "speed": "110",
+    "pushobjects": "Yes",
+    "fireDmgMod": "50%",
+    "sounds": [
+        "I'll bring balance upon you!",
+        "Vihil Ealuel!",
+        "For the Daughter of the Stars!",
+        "Tha'shi Cenath!",
+        "Feel my wrath!"
+    ],
+    "bestiaryclass": "Humanoid",
+    "creatureclass": "Humanoids",
+    "earthDmgMod": "100%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Elves",
+    "race_id": "63",
+    "bestiarylevel": "Easy",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "elfarcanist",
+    "behaviour": "They heal very quickly during a battle.",
+    "location": "Yalahar [[Foreigner Quarter]], [[Demona]], [[Shadowthorn]], northwest of [[Ab'Dendriel]], [[Maze of Lost Souls]], [[Cyclopolis]], [[Elvenbane]], near [[Mount Sternum]].",
+    "strategy": "'''[[Mage]]s''': Experienced [[premium]] [[druid]]s could try [[Earth Strike]] or [[Ice Strike]] while [[chase opponent|chasing]] them. [[Summon]]ing a monk to help with the other [[elves]] is a good idea.<br />\n'''[[Knights]]''' with a decent level (around 20) and decent skills (50/50+) should have no problem killing an arcanist, even with a one-handed weapon. You could use a two handed weapon to speed up the kill, but beware of their arrows! At about level 45, knights no longer have any trouble facing several Arcanists at the same time.<br />\n'''[[Paladin]]s''' around level 20 and good skills 50/50 or more to kill them faster than they can heal. They could also use [[Divine Missile]] or [[Divine Caldera]] to speed up killing due to thier vulnerability to [[Holy Damage]].<br />"
+}

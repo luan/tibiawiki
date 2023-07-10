@@ -1,0 +1,151 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "It's an [[Order of the Cobra]] boss.\n{{JSpoiler|Part of the [[Grave Danger Quest]].}}",
+    "walksthrough": "?",
+    "hp": "55000",
+    "speed": "?",
+    "abilities": "{{Ability List| {{Melee|0-500+}} }}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "100%",
+    "holyDmgMod": "120%?",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "2000+",
+    "pushable": "?",
+    "implemented": "12.20.8834",
+    "loot": [
+        {
+            "itemName": "Small Sapphire",
+            "rarity": "always"
+        },
+        {
+            "amount": "1-20",
+            "itemName": "Platinum Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Yellow Gem",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Red Gem",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Gold Ingot",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Giant Shimmering Pearl",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Cobra Crest",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Blue Gem",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Green Gem",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Terra Hood",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Crossbow",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Bow",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Hunting Spear",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Blue Crystal Shard",
+            "rarity": "semi-rare"
+        },
+        {
+            "amount": "1-6",
+            "itemName": "Throwing Star",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Green Crystal Shard",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Small Topaz",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Sacred Tree Amulet",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Magma Monocle",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Wood Cape",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Crystal Crossbow",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Skull Helmet",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Ring of Blue Plasma",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Cobra Boots",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Cobra Crossbow",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Cobra Hood",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "28000",
+    "creatureclass": "Humans",
+    "earthDmgMod": "60%?",
+    "physicalDmgMod": "85%?",
+    "bosstiaryclass": "Bane",
+    "primarytype": "Members of the Order of the Cobra",
+    "race_id": "1791",
+    "senseinvis": "yes",
+    "actualname": "Guard Captain Quaid",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Guard Captain Quaid",
+    "isboss": "yes",
+    "behaviour": "Quaid stays at a ranged distance, On occasion he will spawn with an [[Ugly Monster]], which can drop [[food]] or a [[Giant Ruby]]",
+    "location": "[[Cobra Bastion]].",
+    "iceDmgMod": "100%?",
+    "strategy": "Run Quaid into a corner of the room and kill him, beware his poison bomb attack that can stack with a physical damage attack, this can do approximately 1400 damage in a single shot",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "100%?"
+}

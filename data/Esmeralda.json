@@ -1,0 +1,88 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "Esmeralda",
+    "hpDrainDmgMod": "100%?",
+    "notes": "{{JSpoiler|Part of the [[Killing in the Name of... Quest]].}}\n[[File:Esmeralda Loot Small.png‎|200px|thumb|left|Esmeralda being killed on Secura.]]",
+    "walksthrough": "?",
+    "hp": "800",
+    "speed": "?",
+    "abilities": "{{Ability List\n |{{Melee|0-170|poison=5}}\n |{{Ability|Poison Shot|0-110|element=earth}}\n |{{Ability|Poisoning Beam|poisons you starting at 5 [[hp]]/turn|element=poisoned}}\n |{{Ability|Poisoning Berserk|poisons you starting at 4 [[hp]]/turn|element=poisoned}}\n |{{Ability|Life Drain Berserk|0-110|element=lifedrain}}\n |{{Healing|range=30-50}}\n}}",
+    "pushobjects": "yes",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "secondarytype": "Glires",
+    "fireDmgMod": "110%",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        "Fcccccchhhhhh"
+    ],
+    "maxdmg": "404",
+    "pushable": "no",
+    "implemented": "8.50",
+    "loot": [
+        {
+            "amount": "0-150",
+            "itemName": "Gold Coin"
+        },
+        {
+            "amount": "0-4",
+            "itemName": "Platinum Coin"
+        },
+        {
+            "itemName": "Mutated Rat Tail",
+            "rarity": "always"
+        },
+        {
+            "itemName": "Ring of Healing",
+            "rarity": "always"
+        },
+        {
+            "itemName": "Knight Armor"
+        },
+        {
+            "itemName": "Tower Shield"
+        },
+        {
+            "itemName": "Halberd"
+        },
+        {
+            "itemName": "Epee",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Stone Herb",
+            "rarity": "semi-rare"
+        },
+        {
+            "amount": "0-3",
+            "itemName": "Small Ruby",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Terra Mantle",
+            "rarity": "rare"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "600",
+    "creatureclass": "Mammals",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "100%?",
+    "primarytype": "Mutated Mammals",
+    "race_id": "548",
+    "senseinvis": "?",
+    "actualname": "Esmeralda",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Esmeralda",
+    "isboss": "yes",
+    "behaviour": "'''Esmeralda''' fights until death in close-combat.",
+    "location": "[[Yalahar#Inner City creatures|Yalahar Sewers]], entry teleport can be found {{Mapper Coords|127.246|122.13|9|4|text=here}}.",
+    "iceDmgMod": "100%?",
+    "strategy": "Just like a normal [[Mutated Rat]], only stronger.",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "0%"
+}

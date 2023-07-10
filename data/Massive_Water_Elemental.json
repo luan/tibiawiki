@@ -1,0 +1,106 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "They used to be stronger before [[Updates/8.4|Winter Update 2008]], but they are still lethal. Since [[Updates/8.5|Summer Update 2009]] they drop loot, which makes them more profitable. Since [[Updates/8.61|2010 autumn patch]] they drop normal loot from openable corpse, but it is still possible to fish the corpses to get [[Giant Shimmering Pearl]]s and other gems.\nTheir corpses become a puddle of water, which can be looted but not moved. You can also [[Fishing|fish]] their fresh corpses to obtain one of the following:\n*Nothing\n*[[Giant Shimmering Pearl]]\n*[[White Pearl]]\n*[[Small Sapphire]]\n*[[Small Emerald]]\n*[[Leviathan's Amulet]]\n{{seealso|Massive Water Elemental/Fishing Statistics}}",
+    "walksthrough": "Fire, Poison",
+    "hp": "1250",
+    "abilities": "{{Ability List\n |{{Melee|0-230+|poison=15}}\n |{{Ability|Water Bomb|330-450|element=drown\n  |scene={{Scene|spell=plusspelltarget|effect=Ripple Effect|caster=Massive Water Elemental|missile=Snowball Missile|missile_direction=south-east|missile_distance=2/2|edge_size=32}}}}\n |{{Ability|Poisoning Bomb|around itself up to 21hp/turn|element=poisoned\n  |scene={{Scene|spell=3sqmball2self|effect=Poison Effect 3|caster=Massive Water Elemental|casting_effect=Poison Effect 3}}}}\n |{{Ability|Ice Missile|170-210|element=ice\n  |scene={{Scene|spell=5sqmstrike|effect=Ice Explosion Effect|caster=Massive Water Elemental|missile=Ice Missile|missile_direction=south-east|missile_distance=5/5}}}}\n |{{Healing}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "holyDmgMod": "50%",
+    "maxdmg": "{{Max Damage|physical=230|earth=21|drown=450|ice=210}}",
+    "pushable": "No",
+    "implemented": "7.8",
+    "loot": [
+        {
+            "amount": "1-100",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Platinum Coin",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Fish",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Great Health Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Great Mana Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Small Diamond",
+            "rarity": "semi-rare"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Small Emerald",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Energy Ring",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Green Perch",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Life Ring",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Rainbow Trout",
+            "rarity": "rare"
+        }
+    ],
+    "walksaround": "Energy",
+    "exp": "1100",
+    "mitigation": "1.32",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "massive water elemental",
+    "illusionable": "no",
+    "armor": "45",
+    "convince": "--",
+    "name": "Massive Water Elemental",
+    "isboss": "no",
+    "iceDmgMod": "0%",
+    "energyDmgMod": "125%",
+    "deathDmgMod": "50%",
+    "plural": "massive water elementals",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "lightcolor": "143",
+    "occurrence": "Common",
+    "bestiarytext": "Massive Water Elementals are considerably bigger, meaner and more powerful than their smaller brethren. They usually live in the deep seas and it was never heard that they have ever left the sea at all. It is speculated that they draw a significant portion of their power from the surrounding sea and that they might turn into normal water elementals if they ever left the sea for a longer period. Massive Water Elementals are extremely powerful and can stand a considerable amount of damage. Using their liquid form, they can pass each terrain with ease and they usually try to get their prey as fast as they can, crushing it with their tremendous strength. Having immense magical powers, no one within sight can escape their ferocious attacks.<br />Sometimes Massive Water Elementals seem to ally with energy elementals, particularly if a storm is approaching. It is unknown whether such alliances are formed by chance or if they are planned. Be that as it may, it is surely one of the worst nightmares that one can experience when two types of elementals attack a ship or a seaport while a violent storm is raging.",
+    "speed": "215",
+    "pushobjects": "Yes",
+    "fireDmgMod": "0%",
+    "sounds": [
+        ""
+    ],
+    "lightradius": "4",
+    "runsat": "0",
+    "bestiaryclass": "Elemental",
+    "creatureclass": "Elementals",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "60%",
+    "primarytype": "Hydro-Elementals",
+    "race_id": "279",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "drownDmgMod": "0%",
+    "bestiaryname": "waterelementalmassive",
+    "behaviour": "Massive Water Elementals are as fast as a [[Level]] 100 character.",
+    "location": "[[Calassa]], [[Frozen Trench]], [[Water Elemental Dungeon]] through the water channels, before [[Zugurosh]] in [[The Inquisition Quest]].",
+    "strategy": "'''All vocations''': Remember to bring your [[Helmet of the Deep]] when hunting these! It blocks 100% of their strongest attack, the water bomb. The heavy weight of the helmet will be easily compensated as it will save you from their most deadly combos.<br />\n'''[[Mage]]s''' should use [[Energy Damage|Energy-Based Attacks]] and run.<br />\n'''[[Paladin]]s''' should run away from them in most cases, but if you have to fight use a good bow and flash arrows.<br />\n'''[[Knight]]s'''  should run away from them in most cases, but if you have to fight use spells to kill them fast."
+}

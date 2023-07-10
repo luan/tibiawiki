@@ -1,0 +1,74 @@
+{
+    "summon": "465",
+    "templateType": "Creature",
+    "notes": "Gnarlhounds are a good food source in the plains of Zao and they're fairly easy to kill, so if you need food before going anywhere, just kill a few of them on your way to stock up. They are the Zao edition of normal Tibia's bears and wolves, only merged together. They are really fast, so if you are in a hurry and leaving all weak monsters behind, pay attention to those creatures, because you can accidentally lure a lot and take some damage.\nBe careful when hunting them in [[Gnarlhound Caves]] because if you run into a  [[Lancer Beetle]] on lower levels you will take a lot of damage.\nThis creature was added with the [[Updates/8.54|Christmas Update 2009]].\n{{JSpoiler|You may hunt 300 of these as a task of the [[Killing in the Name of... Quest]].}}",
+    "walksthrough": "None",
+    "hp": "198",
+    "abilities": "{{Ability List|{{Melee|0-70}}}}",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "holyDmgMod": "100%",
+    "maxdmg": "{{Max Damage|physical=70}}",
+    "pushable": "?",
+    "implemented": "8.54",
+    "loot": [
+        {
+            "amount": "1-30",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "Meat",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Shaggy Tail",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "Worm",
+            "rarity": "common"
+        }
+    ],
+    "walksaround": "Fire, Energy, Poison",
+    "exp": "60",
+    "mitigation": "0.25",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "gnarlhound",
+    "illusionable": "yes",
+    "armor": "10",
+    "convince": "465",
+    "name": "Gnarlhound",
+    "isboss": "no",
+    "iceDmgMod": "100%",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "100%",
+    "plural": "gnarlhounds",
+    "hpDrainDmgMod": "100%",
+    "usespells": "no",
+    "occurrence": "Common",
+    "bestiarytext": "Gnarlhounds are aggressive beasts with a frightening set of askew teeth. As distant relatives of the hyaena, their jaws are strong and can crush bones with ease. Rather a coward, the Gnarlhound forgets quite fast about its fear when it gets angry, and it takes only little to anger one of those beasts. Their aggressiveness often offsets their cowardice and suppresses the impulse to flee. Instead they transfer it into wild and vicious behaviour which often looks quite similar to canine madness.<br />The Gnarlhound was one of the mammals that the lizard people raised as livestock to meet the ever-growing need of food. This led almost to the extinction of the wild population of Gnarlhounds. After the collapse of the southern areas, the Gnarlhounds turned feral once again. Missing any major competition in the food chain, the Gnarlhound population grew as quickly as that of the orcs. Sharing the same habitat, both races clashed quite often. In the end, most Gnarlhounds accepted their place in the pecking order beneath the orcs. Ever since, they seem to have some agreement from which post sides benefit. The Gnarlhounds serve the orcs as hunting animals, beasts of burden, mounts, and occasionally food source. The orcs share some of their prey and give the Gnarlhounds shelter and protection. Still, it is an alliance out of necessity, and the still feral Gnarlhounds are known to attack their supposed masters sometimes - not that someone in the brutal orc society would bother about such an issue.<br />Misjudging the seeming 'pet status' of the Gnarlhounds, some orcs took Gnarlhound puppies on their journeys and found out about their feral and aggressive nature not until later. Some Gnarlhounds were then set free or escaped, and it must be feared that Gnarlhound populations also develop at some remote places and lands.",
+    "speed": "205",
+    "pushobjects": "No",
+    "fireDmgMod": "100%",
+    "sounds": [
+        "Gnarllll!",
+        "Grrrrrr!"
+    ],
+    "bestiaryclass": "Mammal",
+    "creatureclass": "Mammals",
+    "earthDmgMod": "100%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Hyaenids",
+    "race_id": "630",
+    "bestiarylevel": "Easy",
+    "senseinvis": "no",
+    "drownDmgMod": "100%",
+    "bestiaryname": "gnarlhound",
+    "behaviour": "They usually haste towards you upon first sight, but are not that powerful. They run away in red hp.",
+    "location": "[[Zao Steppe]], [[Raging Mage Tower]], [[Gnarlhound Caves]]. Four inaccessible ones can be seen in [[Telas]]'s basement.",
+    "strategy": "Any vocation above level 25 can kill up close, but lower level [[Mages]] and [[Paladin]]s should keep their distance.\n[[Knights]] can  hunt them at lvl 15 with skills 55/50 without problems."
+}

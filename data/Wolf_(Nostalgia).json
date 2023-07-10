@@ -1,0 +1,53 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "wolves",
+    "hpDrainDmgMod": "100%?",
+    "notes": "This creature can only be seen during the [[Tibia Anniversary]].",
+    "isarenaboss": "no",
+    "walksthrough": "?",
+    "hp": "25",
+    "speed": "?",
+    "abilities": "{{Ability List\n |{{Melee|0-19?}}\n}}",
+    "pushobjects": "no",
+    "healMod": "100%?",
+    "paraimmune": "no",
+    "secondarytype": "Event Creatures",
+    "fireDmgMod": "100%?",
+    "holyDmgMod": "99%<?",
+    "sounds": [
+        "Yoooohhuuuu!"
+    ],
+    "maxdmg": "{{Max Damage|physical=19?}}",
+    "pushable": "yes",
+    "usedelements": "Physical",
+    "implemented": "9.44",
+    "loot": [
+        {
+            "amount": "0-4?",
+            "itemName": "Meat"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "15",
+    "creatureclass": "Mammals",
+    "earthDmgMod": "99%<?",
+    "physicalDmgMod": "100%?",
+    "primarytype": "Canines",
+    "senseinvis": "no",
+    "article": "a",
+    "actualname": "wolf",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Wolf (Nostalgia)",
+    "isboss": "no",
+    "behaviour": "Same as the [[Wolf]].",
+    "location": "[[Nostalgia Island]].",
+    "iceDmgMod": "101%>?",
+    "strategy": "Same as the [[Wolf]].",
+    "energyDmgMod": "100%?",
+    "deathDmgMod": "101%>?",
+    "status": "event"
+}

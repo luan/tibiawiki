@@ -1,0 +1,106 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "iks ahpututus",
+    "hpDrainDmgMod": "100%?",
+    "notes": "When an [[Iks Chuka]], [[Iks Aucar]] or [[Iks Pututu]] dies near one of the Crossed Spears in [[Iksupan]], there's a chance that 5 [[Iks Churrascan]] spawn. Once all 5 Churrascan are killed, one Iks Ahpuputu will spawn. Note that the Churrascan only last for some seconds before disappearing if not killed.\n\n<gallery captionalign=\"center\" mode=\"nolines\">\nIks Priests Artwork.jpg|Official [[Creature Artwork]]\n</gallery>",
+    "walksthrough": "Energy, Fire, Poison",
+    "hp": "1630",
+    "usespells": "yes",
+    "occurrence": "Very Rare",
+    "speed": "110",
+    "abilities": "{{Ability List}}",
+    "pushobjects": "yes",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "95%",
+    "holyDmgMod": "100%",
+    "sounds": [
+        ""
+    ],
+    "pushable": "no",
+    "implemented": "13.10.12852",
+    "bestiaryclass": "Undead",
+    "loot": [
+        {
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Strong Mana Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Giant Shimmering Pearl (Green)",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Tiger Eye",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Small Sapphire",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Opal",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Daedal Chisel",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Rotten Feather",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Gold-Brocaded Cloth",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Spellbook of Enlightenment",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Gold Ingot",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Ritual Tooth",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Broken Iks Faulds",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Broken Iks Headpiece",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "None",
+    "exp": "1700",
+    "creatureclass": "The Undead",
+    "earthDmgMod": "75%",
+    "mitigation": "1.26",
+    "physicalDmgMod": "105%",
+    "primarytype": "Iks",
+    "attacktype": "Melee",
+    "race_id": "2349",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "article": "an",
+    "actualname": "Iks ahpututu",
+    "illusionable": "no",
+    "armor": "34",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Iks Ahpututu",
+    "isboss": "no",
+    "location": "[[Iksupan]]",
+    "iceDmgMod": "100%",
+    "strategy": "Just kill it.",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "100%"
+}

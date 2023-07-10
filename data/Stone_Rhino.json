@@ -1,0 +1,76 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "They can be tamed to get a [[Stone Rhino (Mount)]].",
+    "walksthrough": "Fire, Energy",
+    "hp": "3000",
+    "abilities": "{{Ability List| {{Melee|0-400}}|{{Ability|causes [[Drunkenness]]|element=drunk}}|{{Healing|range=0-195+}} }}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "holyDmgMod": "100%",
+    "maxdmg": "400",
+    "pushable": "no",
+    "implemented": "11.02.4128",
+    "loot": [
+        {
+            "itemName": "Hardened Bone",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "0-4",
+            "itemName": "Raw Meat",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Rhino Hide",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Tusk Shield",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Rhino Horn",
+            "rarity": "semi-rare"
+        }
+    ],
+    "walksaround": "Poison",
+    "exp": "1800",
+    "mitigation": "1.88",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "stone rhino",
+    "illusionable": "no",
+    "armor": "72",
+    "convince": "--",
+    "name": "Stone Rhino",
+    "isboss": "no",
+    "iceDmgMod": "90%",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "100%",
+    "plural": "stone rhinos",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Uncommon",
+    "bestiarytext": "The stone rhino is a strange, reclusive beast that lives in remote areas. Despite its threatening appearance, it's a mostly harmless herbivore that tends to itself. Sadly, the stone rhino is also highly territorial and easily provoked. The stone rhino sees everything as a threat and doesn't hesitate to attack. In addition to its remarkable size and strength, stone rhino is also armed with a dangerous horn on its nose which makes it a formidable opponent. With this weapon the stone rhino is able to fend off most of its natural enemies with ease. However, some super predators like dragons hunt the stone rhino for the challenge and keep its population low. \nThe stone rhinos prefer spots of grassland in the wilderness where they can lazily graze the whole day undisturbed. Some individuals and groups have even adapted to a life in the woods, although this only happens rarely. The stone rhino seems rather clumsy and slow when watched from afar. However, more than one explorer has been surprised by the eruption of speed and force a stone rhino can burst into as soon as it gets angry. To anger a stone rhino is not only a particularly stupid thing to do, it is also quite easily accomplished. The stone rhino may watch an approaching foreigner while slowly chewing grass, not showing any sign of unease. In the next moment it will lower its head and attack. It is advisable to give the stone rhino a wide berth. If a stone rhino attacks you, the smartest thing to do is run. Even if the stone rhino is quicker, its manoeuvrability is extremely limited, especially while attacking. For this reason, one might be able to dodge the stone rhino's attack. With some luck, the stone rhino will lose interest and give up the chase.\nEfforts to domesticate these creatures have not been overly successful yet. Only the ogres have had some isolated successes. These triumphs were mainly based on the ogres' strength with which they are at least partly able to domesticate the stone rhino. \nThere are theories that the stone rhinos were created by some magician or an ancient race and that it might be related to the fabled unicorn or the chimaera. However, these theories are still to be proven. The story that the ugly stone rhino visits a hidden magical pond when it feels its end is imminent can be discounted as myth. The dying stone rhino takes a bath in this pond in the light of the full moon. After that bath the stone rhino exits the waters as a beautiful winged creature which it stays for the rest of the night, only to die in the morning. \nRecently hunters started to prey upon the stone rhino. There are rumours that part of the stone rhino's horn will keep the sword of an adventurer sharp and rigid. Those unfounded assertions have not only led to a decline of the stone rhino population but also to senseless injuries and the death of several unskilled wannabe hunters who underestimated the stone rhino.",
+    "speed": "145",
+    "pushobjects": "?",
+    "fireDmgMod": "90%",
+    "sounds": [
+        "SNIFF!"
+    ],
+    "runsat": "50",
+    "bestiaryclass": "Mammal",
+    "creatureclass": "Mammals",
+    "earthDmgMod": "80%",
+    "physicalDmgMod": "90%",
+    "primarytype": "Ungulates",
+    "race_id": "1395",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "stonerhino",
+    "behaviour": "Fights in close combat.",
+    "location": "[[Astral Shaper Ruins]] in two small rooms on the second floor, {{Mapper Coords|text=here|128.131|128.91|15|4|1|0.250.25}} and to the east.",
+    "strategy": "They can only cause damage to you at close range, so keep your distance unless you're knight. If you're going to hunt them, a [[Dwarven Ring]] will be very useful."
+}

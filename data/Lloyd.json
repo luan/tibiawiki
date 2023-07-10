@@ -1,0 +1,193 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "This is one of the bosses in the [[Forgotten Knowledge Quest]].<br>He is the brother of [[Boyd]], who is better known as the [[Mad Mage]].",
+    "walksthrough": "?",
+    "hp": "~64000",
+    "speed": "?",
+    "abilities": "{{Ability List| {{Melee|0-1200+}}|{{Ability|Chain Energy|300-550|element=energy}} }}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "95%",
+    "holyDmgMod": "90%",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "1750+",
+    "pushable": "?",
+    "runsat": "0",
+    "implemented": "11.02.4128",
+    "cooldown": "20",
+    "loot": [
+        {
+            "amount": "200",
+            "itemName": "Gold Coin"
+        },
+        {
+            "amount": "25-30",
+            "itemName": "Platinum Coin"
+        },
+        {
+            "amount": "5-10",
+            "itemName": "Great Mana Potion"
+        },
+        {
+            "amount": "5",
+            "itemName": "Great Spirit Potion"
+        },
+        {
+            "amount": "5-10",
+            "itemName": "Ultimate Health Potion"
+        },
+        {
+            "amount": "3",
+            "itemName": "Green Crystal Shard"
+        },
+        {
+            "amount": "3",
+            "itemName": "Violet Crystal Shard"
+        },
+        {
+            "amount": "3",
+            "itemName": "Blue Crystal Shard"
+        },
+        {
+            "amount": "2",
+            "itemName": "Piece of Hell Steel"
+        },
+        {
+            "amount": "2",
+            "itemName": "Piece of Royal Steel"
+        },
+        {
+            "amount": "0-3",
+            "itemName": "White Piece of Cloth"
+        },
+        {
+            "amount": "10",
+            "itemName": "Small Amethyst"
+        },
+        {
+            "amount": "10",
+            "itemName": "Small Diamond"
+        },
+        {
+            "amount": "10",
+            "itemName": "Small Emerald"
+        },
+        {
+            "amount": "10",
+            "itemName": "Small Ruby"
+        },
+        {
+            "amount": "10",
+            "itemName": "Small Topaz"
+        },
+        {
+            "itemName": "Red Gem"
+        },
+        {
+            "itemName": "Blue Gem"
+        },
+        {
+            "itemName": "Green Gem"
+        },
+        {
+            "itemName": "Yellow Gem"
+        },
+        {
+            "itemName": "Luminous Orb"
+        },
+        {
+            "itemName": "Giant Shimmering Pearl"
+        },
+        {
+            "itemName": "Boots of Haste"
+        },
+        {
+            "itemName": "Rift Lance"
+        },
+        {
+            "itemName": "Lunar Staff"
+        },
+        {
+            "itemName": "Collar of Blue Plasma"
+        },
+        {
+            "itemName": "Rusted Armor"
+        },
+        {
+            "itemName": "Wand of Starstorm"
+        },
+        {
+            "itemName": "Demon Helmet"
+        },
+        {
+            "itemName": "Lightning Legs"
+        },
+        {
+            "itemName": "Mastermind Potion"
+        },
+        {
+            "itemName": "Magic Sulphur"
+        },
+        {
+            "itemName": "Ring of Healing"
+        },
+        {
+            "itemName": "Spellbook of Enlightenment"
+        },
+        {
+            "itemName": "Spellbook of Warding"
+        },
+        {
+            "itemName": "Spellweaver's Robe"
+        },
+        {
+            "itemName": "Enchanted Chicken Wing"
+        },
+        {
+            "itemName": "Pillow Backpack"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "Silver Token"
+        },
+        {
+            "itemName": "Gold Token"
+        },
+        {
+            "itemName": "Part of a Rune (Six)"
+        },
+        {
+            "itemName": "Violet Gem"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "~50000",
+    "creatureclass": "Mammals",
+    "earthDmgMod": "100%",
+    "physicalDmgMod": "100%?",
+    "bosstiaryclass": "Archfoe",
+    "primarytype": "Humans",
+    "spawntype": [
+        "Triggered"
+    ],
+    "race_id": "1329",
+    "senseinvis": "?",
+    "actualname": "Lloyd",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Lloyd",
+    "isboss": "yes",
+    "behaviour": "Fights in close combat.",
+    "location": "Boss room ({{Mapper Coords|128.31|128.61|14|4|text=here}}) accessible through [[Replica Dungeon]] and [[Energy Portal]].",
+    "iceDmgMod": "100%?",
+    "strategy": "Simply kill him, he doesn't use very special attacks. He has an energy attack that seems to chain between people within 2-3 sqm but doesn't do much damage.\n\nWhen he has almost zero hit points left he will heal himself fully and teleport to the center of the four energy prisms, unless all energy prisms are destroyed. When this happens you can kill one energy prism. Therefore you have to kill him five times.",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "50%?"
+}

@@ -1,0 +1,157 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "Blightwalkers are renowned minions of the demons who enjoy using those corrupted creatures as a shock troop in their army.",
+    "walksthrough": "Fire, Poison",
+    "hp": "8900",
+    "abilities": "{{Ability List\n |{{Melee|0-490}}\n |{{Ability|Poison Hit|220-405|earth|scene={{Scene|spell=7sqmstrike|caster=Blightwalker|missile=Poison Missile|missile_direction=south-east|missile_distance=7/7}}}}\n |{{Ability|Poison Drunk Berserk|element=drunk|scene={{Scene|spell=3x3spell|effect=Poison Effect 2|caster=Blightwalker|effect_on_caster=yes}}}}\n |{{Ability|Green Sparkles Bomb|65-135|life drain|scene={{Scene|spell=2sqmballself|effect=Green Sparkles Effect|caster=Blightwalker|effect_on_caster=yes}}}}\n |{{Ability|Cursing Bomb|Curses you|element=cursed|scene={{Scene|spell=5sqmballself|effect=Cloud Effect|caster=Blightwalker|effect_on_caster=yes}}}} \n |{{Ability|Poison Paralyze Hit|element=paralyze|scene={{Scene|spell=7sqmstrike|caster=Blightwalker|missile=Poison Missile|missile_direction=south-east|missile_distance=7/7}}}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "holyDmgMod": "130%",
+    "maxdmg": "900",
+    "pushable": "?",
+    "implemented": "7.9",
+    "loot": [
+        {
+            "amount": "1-199",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-5",
+            "itemName": "Platinum Coin",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Blank Rune",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Bunch of Wheat",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Demonic Essence",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "Great Mana Potion",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Soul Orb",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-10",
+            "itemName": "Assassin Star",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Bundle of Cursed Straw",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Hailstorm Rod",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Ultimate Health Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Gold Ingot",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Garlic Necklace",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Giant Shimmering Pearl (Green)",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Scythe",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Seeds",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Terra Legs",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Death Ring",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Gold Ring",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Skull Staff",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Terra Mantle",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Amulet of Loss",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Golden Sickle",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Energy",
+    "exp": "5850",
+    "mitigation": "1.18",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "blightwalker",
+    "illusionable": "no",
+    "armor": "63",
+    "convince": "--",
+    "name": "Blightwalker",
+    "isboss": "no",
+    "iceDmgMod": "50%",
+    "energyDmgMod": "80%",
+    "deathDmgMod": "0%",
+    "plural": "blightwalkers",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "The essence of death, plague and decay is indeed a powerful one as some demons quickly realised. They used their powers to gather this essence through their minions just like bees gather honey. Then they bound these disruptive powers into tangible shapes and added a little bit of demonic spirit. Filled with decay and a malicious will, the Blightwalkers were born. Whenever they find a way into the realms of the living, their steps are followed by death and decay. Everything fertile and healthy is considered as enemy and their dark instinct drives them to destroy and ruin everything they encounter. Even though demons often summon them as individuals to bring decay upon the ranks of their enemies, some enjoy to employ Blightwalkers as shock troops and footsoldiers of their armies.",
+    "speed": "175",
+    "pushobjects": "?",
+    "fireDmgMod": "50%",
+    "sounds": [
+        "I can see you decaying!",
+        "Let me taste your mortality!",
+        "Your lifeforce is waning!"
+    ],
+    "bestiaryclass": "Undead",
+    "creatureclass": "The Undead",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "110%",
+    "primarytype": "Undead Humanoids",
+    "spawntype": [
+        "Regular"
+    ],
+    "race_id": "298",
+    "bestiarylevel": "Hard",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "blightwalker",
+    "behaviour": "Blightwalkers run in low health (around 800~).",
+    "location": "[[Pits of Inferno]], [[Edron]] (In the Vats during [[The Inquisition Quest]]), [[Roshamuul Prison]] and [[Grounds of Undeath]].",
+    "strategy": "Call a good [[Knight]] to block this monster. Use [[Explosion]]s and [[Divine Missile]]s while killing this monster."
+}

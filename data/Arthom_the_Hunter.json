@@ -1,0 +1,97 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%",
+    "notes": "He's the boss of the [[Hunter]]s and [[Poachers]] in the [[Hunter Camp]], but also seems to be a researcher studying the culture of the [[Dworcs]]. While at first the man-eating Dworcs seemed rather passive towards them and everything was going as planned, things soon turned grim. After the young and inexperienced members of the group [[Jenkinson]] and [[Abrams]] first managed to be infected by a strange toxin, the Dworcs also suddenly turned on them. They ended up being gorily sacrificed and eaten before his eyes after dying a painful death from the poison. He wrote those experiences down in [[Dworc Misadventure (Book)|his notes]], and from these it actually appears that he eventually died himself too. Here he is, however, very much alive.\n\n<gallery>\nArthom the hunter.png\n</gallery>",
+    "walksthrough": "None.",
+    "hp": "500",
+    "speed": "?",
+    "abilities": "{{Ability List\n |{{Melee|?}}\n |{{Ability|Shoots [[Arrow]]s|0-135?|element=physical\n  |scene={{Scene|spell=5sqmstrike|background=canvas|caster=Arthom The Hunter|look_direction=south|missile=Arrow Missile|missile_direction=south-east|missile_distance=5/5}}}}\n |{{Ability|Bleeding Berserk|up to 15hp/turn|element=bleed\n  |scene={{Scene|spell=3x3spell|caster=Arthom The Hunter|look_direction=south|effect=Blood Effect|effect_on_caster=yes}}}}\n |{{Ability|Stone Ball|does nothing|element=none\n  |scene={{Scene|spell=1sqmballtarget|caster=Arthom The Hunter|look_direction=south|effect=Poof Effect|missile=Small Stone Missile|missile_direction=south-east|missile_distance=2/2|damage_effect=None}}}}\n}}",
+    "pushobjects": "Yes",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "100%",
+    "holyDmgMod": "80%",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "?",
+    "pushable": "No",
+    "implemented": "10.80",
+    "loot": [
+        {
+            "amount": "0-2",
+            "itemName": "Platinum Coin"
+        },
+        {
+            "amount": "0-3",
+            "itemName": "Small Diamond"
+        },
+        {
+            "amount": "0-3",
+            "itemName": "Small Ruby"
+        },
+        {
+            "amount": "0-10",
+            "itemName": "Arrow"
+        },
+        {
+            "amount": "0-10",
+            "itemName": "Sniper Arrow"
+        },
+        {
+            "amount": "0-10",
+            "itemName": "Poison Arrow"
+        },
+        {
+            "amount": "0-10",
+            "itemName": "Burst Arrow"
+        },
+        {
+            "itemName": "Bow"
+        },
+        {
+            "itemName": "Hunter's Quiver"
+        },
+        {
+            "itemName": "Dark Armor"
+        },
+        {
+            "itemName": "Leather Legs"
+        },
+        {
+            "itemName": "Sniper Gloves"
+        },
+        {
+            "itemName": "Dragon Necklace"
+        },
+        {
+            "itemName": "Lion Trophy"
+        },
+        {
+            "itemName": "Talon"
+        }
+    ],
+    "walksaround": "Fire, Energy, Poison",
+    "exp": "550",
+    "creatureclass": "Humans",
+    "earthDmgMod": "100%",
+    "physicalDmgMod": "110%",
+    "bosstiaryclass": "Nemesis",
+    "primarytype": "Outlaws",
+    "race_id": "1128",
+    "senseinvis": "yes",
+    "actualname": "Arthom The Hunter",
+    "illusionable": "yes",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Arthom the Hunter",
+    "isboss": "yes",
+    "behaviour": "Runs when in low health. He fixes himself on his target and is unlikely to change.",
+    "location": "[[Hunter Camp]].",
+    "iceDmgMod": "100%",
+    "strategy": "He's somewhat stronger than a regular [[Hunter]] so you shouldn't really struggle.",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "100%"
+}

@@ -1,0 +1,291 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "Ferumbrasses",
+    "hpDrainDmgMod": "0%",
+    "notes": "Ferumbras was removed from society and banished to his [[Ferumbras Citadel|citadel]] by the mages at the [[Noodles Academy of Modern Magic|Edron academy]]. He has a massive arsenal of spells to torture and heal.\n\nFerumbras was an evil sorcerer who once instilled fear into the heart of Thaians many years ago. Summoning [[demon]]s and [[warlock]]s, he attacked [[Thais]] twice during the span of his life. After his second attack, he was finally killed and most assumed him to be gone for good. But his wrath was brought down when he returned some time later and found his daughter, [[Fortinbrae]], had been killed and her soul trapped by the brave knights who had slain her, in the [[Plains of Havoc]] temple. Ferumbras traveled there to recapture his daughter's soul, but he was defeated again and disappeared. There are many rumors about his current whereabouts.\n<noinclude>\nAfter he was slain, he produced several oddly-charged runes, including a [[Sudden Death]] rune with 0 charges and a [[Poison Bomb]] rune with over 30 charges.\n\nThere are 2 [[Magic Pillar]]s at his room, which can summon up to 3 [[Demon]]s each.<br />\n\nFerumbras was first sighted on [[Eternia]] on August 21th 2006, but a bug prevented players from reaching him. He appeared there again after two weeks when the bug had been fixed.\n\nHe was first killed on [[Antica]] on October 13th 2006.\n\nBefore he appears, three messages are broadcast in white text to all players on that world:\n{{Raid Message|00:00:00|The seals on Ferumbras' old citadel are glowing. Prepare for HIS return, mortals.|00:10:00|Ferumbras' return is at hand. The Edron Academy calls for heroes to fight that evil.|00:20:00|Ferumbras has returned to his citadel once more. Stop him before it is too late.}}\n'''[[Ferumbras/Transcripts|What people have to say about Ferumbras]]'''\n</noinclude>",
+    "walksthrough": "?",
+    "hp": "90000",
+    "usespells": "yes",
+    "speed": "?",
+    "abilities": "{{Ability List\n |{{Melee|0-1357}}\n |{{Ability|Burning Bomb|up to 70 turns|element=burning\n  |scene={{Scene|spell=5sqmballtarget|caster=Ferumbras|look_direction=south|effect=Fireball Effect|missile=Fire Missile|missile_direction=south-east|missile_distance=5/5}}}}\n |{{Ability|Green Beam|50-850|element=lifedrain\n  |scene={{Scene|spell=8sqmbeam|caster=Ferumbras|look_direction=east|effect=Poison Effect 2}}}}\n |{{Ability|Mana Drain Strike|350-650|mana drain\n  |scene={{Scene|spell=7sqmstrike|effect=Red Sparkles Effect|caster=Ferumbras|missile_direction=south-east|missile_distance=7/7}}}}\n |{{Debuff2|Trembling Debuff Ball|distance=yes|value=50%-90%|duration=6\n  |scene={{Scene|spell=3sqmball2self|caster=Ferumbras|look_direction=south|effect=Trembling Effect|effect_on_caster=yes}}}}\n |{{Ability|Poisoning Ball|up to 38 hp/turn|element=poisoned\n  |scene={{Scene|spell=4sqmball2self|caster=Ferumbras|look_direction=south|effect=Poison Effect 3|effect_on_caster=yes}}}}\n |{{Ability|Electrifying Ball|up to 30~ turns|element=electrified\n  |scene={{Scene|spell=4sqmball2self|caster=Ferumbras|look_direction=south|effect=Blue Electricity Effect|effect_on_caster=yes}}}}\n |{{Ability|Red Sparkle Ball|125-375|element=manadrain\n  |scene={{Scene|spell=3sqmball2self|caster=Ferumbras|look_direction=south|effect=Red Sparkles Effect|effect_on_caster=yes}}}} \n |{{Ability|Poof Ball|200-400|element=lifedrain\n  |scene={{Scene|spell=4sqmball2self|caster=Ferumbras|look_direction=south|effect=Poof Effect|effect_on_caster=yes}}}}\n |{{Summon|Demon|4}}\n |{{Ability|Invisibility|9 seconds, rarely|element=invisible}}\n |{{Haste}}\n |{{Healing|range=600-1000}}\n |{{Healing|range=1400-2600}}\n}}",
+    "pushobjects": "yes",
+    "healMod": "100%?",
+    "paraimmune": "yes",
+    "fireDmgMod": "10%",
+    "holyDmgMod": "80%",
+    "sounds": [
+        "NO ONE WILL STOP ME THIS TIME!",
+        "THE POWER IS MINE!",
+        "I returned from death and you dream about defeating me?",
+        "Witness the first seconds of my eternal world domination!",
+        "Even in my weakened state I will crush you all!"
+    ],
+    "maxdmg": "2400",
+    "pushable": "?",
+    "runsat": "deep red",
+    "implemented": "7.8",
+    "loot": [
+        {
+            "amount": "0-270",
+            "itemName": "Gold Coin"
+        },
+        {
+            "amount": "0-42",
+            "itemName": "Black Pearl"
+        },
+        {
+            "amount": "0-76",
+            "itemName": "Small Amethyst"
+        },
+        {
+            "amount": "0-92",
+            "itemName": "Small Sapphire"
+        },
+        {
+            "amount": "0-49",
+            "itemName": "Small Ruby"
+        },
+        {
+            "amount": "0-8",
+            "itemName": "White Pearl"
+        },
+        {
+            "amount": "0-90",
+            "itemName": "Small Diamond"
+        },
+        {
+            "amount": "0-86",
+            "itemName": "Small Topaz"
+        },
+        {
+            "amount": "0-100",
+            "itemName": "Small Emerald"
+        },
+        {
+            "amount": "0-10",
+            "itemName": "Giant Shimmering Pearl"
+        },
+        {
+            "amount": "0-8",
+            "itemName": "Soul Orb"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "Gold Ingot"
+        },
+        {
+            "itemName": "Talon"
+        },
+        {
+            "itemName": "Snakebite Rod"
+        },
+        {
+            "itemName": "Necrotic Rod"
+        },
+        {
+            "itemName": "Gold Ring"
+        },
+        {
+            "itemName": "Fire Axe"
+        },
+        {
+            "itemName": "Crystal Ring"
+        },
+        {
+            "itemName": "Energy Ring"
+        },
+        {
+            "itemName": "Emerald Bangle"
+        },
+        {
+            "itemName": "Mind Stone"
+        },
+        {
+            "itemName": "Double Axe"
+        },
+        {
+            "itemName": "Two Handed Sword"
+        },
+        {
+            "itemName": "Silver Amulet"
+        },
+        {
+            "itemName": "Golden Armor"
+        },
+        {
+            "itemName": "Golden Legs"
+        },
+        {
+            "itemName": "Platinum Amulet"
+        },
+        {
+            "itemName": "Boots of Haste"
+        },
+        {
+            "itemName": "Devil Helmet"
+        },
+        {
+            "itemName": "Jade Hammer"
+        },
+        {
+            "itemName": "Mastermind Shield"
+        },
+        {
+            "itemName": "Teddy Bear"
+        },
+        {
+            "itemName": "Magic Plate Armor"
+        },
+        {
+            "itemName": "Spellbook of Mind Control"
+        },
+        {
+            "itemName": "Spellbook of Lost Souls"
+        },
+        {
+            "itemName": "Spellscroll of Prophecies"
+        },
+        {
+            "itemName": "Glacier Kilt"
+        },
+        {
+            "itemName": "Lightning Legs"
+        },
+        {
+            "itemName": "Terra Legs"
+        },
+        {
+            "itemName": "Magma Legs"
+        },
+        {
+            "itemName": "Haunted Blade"
+        },
+        {
+            "itemName": "Abyss Hammer"
+        },
+        {
+            "itemName": "Berserker"
+        },
+        {
+            "itemName": "Chaos Mace"
+        },
+        {
+            "itemName": "Shadow Sceptre"
+        },
+        {
+            "itemName": "Queen's Sceptre"
+        },
+        {
+            "itemName": "Ornamented Axe"
+        },
+        {
+            "itemName": "Vile Axe"
+        },
+        {
+            "itemName": "Greenwood Coat"
+        },
+        {
+            "itemName": "Divine Plate"
+        },
+        {
+            "itemName": "Emerald Sword"
+        },
+        {
+            "itemName": "Obsidian Truncheon"
+        },
+        {
+            "itemName": "Spellbook of Dark Mysteries"
+        },
+        {
+            "itemName": "Skullcrusher"
+        },
+        {
+            "itemName": "Great Shield"
+        },
+        {
+            "itemName": "Red Tome"
+        },
+        {
+            "itemName": "Phoenix Shield"
+        },
+        {
+            "itemName": "Hellforged Axe"
+        },
+        {
+            "itemName": "Impaler"
+        },
+        {
+            "itemName": "Tempest Shield"
+        },
+        {
+            "itemName": "Velvet Mantle"
+        },
+        {
+            "itemName": "Demonrage Sword"
+        },
+        {
+            "itemName": "Bloody Edge"
+        },
+        {
+            "itemName": "Demonwing Axe"
+        },
+        {
+            "itemName": "Havoc Blade"
+        },
+        {
+            "itemName": "Nightmare Blade"
+        },
+        {
+            "itemName": "Demon Shield"
+        },
+        {
+            "itemName": "Runed Sword"
+        },
+        {
+            "itemName": "Great Axe"
+        },
+        {
+            "itemName": "Ferumbras' Hat",
+            "rarity": "always"
+        },
+        {
+            "itemName": "Platinum Coin"
+        },
+        {
+            "itemName": "Blue Gem"
+        },
+        {
+            "itemName": "Red Gem"
+        },
+        {
+            "itemName": "Green Gem"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "35000",
+    "creatureclass": "Humans",
+    "earthDmgMod": "10%",
+    "physicalDmgMod": "90%?",
+    "bosstiaryclass": "Nemesis",
+    "primarytype": "Sorcerers",
+    "spawntype": [
+        "Raid"
+    ],
+    "attacktype": "Melee",
+    "race_id": "231",
+    "history": "==== Origin ====\n[[Ferumbras]] was a sorcerer who turned evil - perhaps through the influence of [[Zathroth]]. His first attack occurred in the [[Updates/Pre-6.0|early years]] of [[Tibia]]n history but was not very notable. He did cause some damage and killed many people, but he was not as strong as he would become. As well during his first attack his daughter, [[Fortinbrae]], died and this likely ended that attack.\n\n==== Second Attack ====\n[[Ferumbras]], now a level 145 sorcerer (controlled by one of the members of the CipSoft team, [[Gods#Ulrich Schlott|Durin]]), made another war against the people of Tibia. He was created to be killed, but was extremely hard to beat because he had the intelligence of a human and could summon anything he wanted like [[Dragon]]s... and [[Warlock]]s, creatures who had never been seen before in Tibia.  Santa Claus was also present and attacking people during his raid on Thais, however that was probably another CIP controlled character at the time.\n\nHis first rampage began in [[Thais]] taking many lives as he went. After a strike he would disappear for some time then return the next day for another battle. After a few days the people lured him out to the [[Plains of Havoc]]. There a large army gathered and eventually overwhelmed him in front of the temple. He was defeated for now and would not return for many years.\n<gallery mode=\"nolines\">\nFile:Ferumbras.jpg|Ferumbras in Demon form at Thais east gate\nFile:Ferumbras1.jpg|Ferumbras in Demon form at Thais north gate\n</gallery>\n<!-- images courtesy of tibia alumni society: http://www.tibia-alumni-society.net/cobalt-tower/Screenshots/ferumbras.html -->\n\n==== Later Appearances ====\nIn [[Updates/Pre-6.0|more recent years]] the mages of [[Noodles Academy of Modern Magic]] had located Ferumbras secret hideout far south of [[Thais]] on an island - [[Ferumbras Citadel]]. There they sealed the doors and cast magic about it that he would never return.<br />\nSince that time for reasons unknown, perhaps through the dealings of evil gods and demons, Ferumbras rises again in his Citadel, ready to wage war against Tibia again.\n<gallery mode=\"nolines\">\nFile:Ferumbras3.jpg|Ferumbras in his Citadel\nFile:Ferumbras Win.jpg|Ferumbras in his Citadel\n</gallery>\n<!-- please do not add more images, these are just for comparison -->",
+    "senseinvis": "yes",
+    "actualname": "Ferumbras",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Ferumbras",
+    "isboss": "yes",
+    "location": "His citadel on [[Ferumbras Citadel|Kharos]]. You must ask [[Zoltan]] for ''permission''  to access the citadel.",
+    "iceDmgMod": "80%",
+    "strategy": "The main blocker (the first entering the TP) gets to ferumbras and waits for help from the other knights. They take the summoned [[demons]] with [[Challenge|Exeta Res]]. All shooters stay 1 sqm away and try to kill [[Ferumbras]] as fast as possible. Druids should use [[Wild Growth]] runes next to the shooters to avoid Demons from targeting, shooters will still be able to shoot [[SD]]s.",
+    "energyDmgMod": "10%",
+    "deathDmgMod": "95%"
+}

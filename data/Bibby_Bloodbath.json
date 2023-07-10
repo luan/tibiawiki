@@ -1,0 +1,118 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "Bibby Bloodbath",
+    "hpDrainDmgMod": "100%?",
+    "notes": "Only appears during the [[Warpath Mini World Change]].\n\nYou can face this [[boss]] once every 24 hours. After killing her you will get kicked out of her camp in 2 minutes and won't be able to reenter until there's no cooldown. Note that if you try to face Bibby again before the cooldown is over it will '''reset''' and you'll have to wait another 24 hours. \n\nHer name is most probably an allusion to Bibby Blocksberg, famous little witch from 80's children book and television series.\n\n{{JSpoiler|When you kill her, you will earn the [[achievement]] [[Bibby's Bloodbath]].}}",
+    "walksthrough": "Fire",
+    "hp": "1200",
+    "speed": "?",
+    "abilities": "{{Ability List| {{Melee|0-200|element=physical}}|{{Ability|[[Melee|Scratch Wave]] [ [[energy wave]]'s size; 5 SQM long; 3 SQM wide; looks like yellow spark - same as [[Mutated Tiger]]]|0-200}}|{{Ability|[[Melee|Yellow Spark Exori]]|Paralyze|element=paralyze}}|{{Ability|[[Invisibility]]|element=invisible}} }}",
+    "pushobjects": "yes",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "0%",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        "Don't run, you'll just lose precious fat.",
+        "Hex hex!"
+    ],
+    "maxdmg": "400",
+    "pushable": "no",
+    "cooldown": "24",
+    "implemented": "9.60",
+    "loot": [
+        {
+            "amount": "100",
+            "itemName": "Gold Coin",
+            "rarity": "always"
+        },
+        {
+            "amount": "10",
+            "itemName": "Platinum Coin"
+        },
+        {
+            "itemName": "Fish"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Meat"
+        },
+        {
+            "amount": "1-18",
+            "itemName": "Throwing Star"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "Health Potion"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "Mana Potion"
+        },
+        {
+            "itemName": "Dark Armor"
+        },
+        {
+            "itemName": "Orcish Axe"
+        },
+        {
+            "itemName": "Plate Legs"
+        },
+        {
+            "itemName": "Two Handed Sword"
+        },
+        {
+            "itemName": "Stealth Ring",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Magma Amulet",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Crusader Helmet",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Giant Sword",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Butcher's Axe",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Orc Trophy",
+            "rarity": "rare"
+        }
+    ],
+    "walksaround": "Energy, Poison",
+    "exp": "1500",
+    "creatureclass": "Humanoids",
+    "earthDmgMod": "120%?",
+    "physicalDmgMod": "100%?",
+    "bosstiaryclass": "Archfoe",
+    "primarytype": "Orcs",
+    "spawntype": [
+        "Event",
+        "Unique",
+        "Triggered",
+        "Unblockable"
+    ],
+    "race_id": "900",
+    "senseinvis": "?",
+    "actualname": "Bibby Bloodbath",
+    "illusionable": "no",
+    "armor": "58",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Bibby Bloodbath",
+    "isboss": "yes",
+    "behaviour": "Will fight in close combat while spamming her [[Melee|Yellow Spark Exori]] and going [[invisible]] from time to time.",
+    "location": "North of the [[Jakundaf Desert]] located ({{Mapper Coords|127.176|125.42|7|8|text=here}}), north of [[Carlin]] ({{Mapper Coords|126.90|123.232|7|8|text=here}}) or east of the [[Femor Hills]] ({{Mapper Coords|127.110|124.85|7|8|text=here}}).",
+    "iceDmgMod": "0%",
+    "strategy": "[[Knight]]s with medium [[skills]] can kill it easily, and so can [[Paladin]]s. [[Sorcerer]]s and [[Druid]]s should use [[Magic Shield]] and [[Sudden Death Rune]]s.",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "100%?"
+}

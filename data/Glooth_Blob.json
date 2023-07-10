@@ -1,0 +1,91 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "walksthrough": "Poison",
+    "hp": "750",
+    "abilities": "{{Ability List\n |{{Melee|0-110}}\n |{{Ability|Shoots [[Envenomed Arrow]]s|0-180|physical\n  |scene={{Scene|spell=1sqmballtarget|caster=Glooth Blob|look_direction=south|effect=Poison Effect 1|missile=Envenomed Arrow Missile|missile_direction=south-east|missile_distance=2/2}}}}\n |{{Ability|Poison Hit|0-150|earth\n  |scene={{Scene|spell=7sqmstrike|caster=Glooth Blob|look_direction=south|effect=Poison Effect 1|missile=Poison Missile|missile_direction=south-east|missile_distance=7/7}}}}\n |{{Ability|Poisoning Ball|up to 22 hp/turn|poisoned\n  |scene={{Scene|spell=2sqmballself|caster=Glooth Blob|look_direction=south|effect=Poison Effect 3|effect_on_caster=yes}}}}\n |{{Summon|Glooth Blob}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "holyDmgMod": "100%",
+    "maxdmg": "{{Max Damage|physical=290|earth=172|summons=880}}",
+    "pushable": "?",
+    "implemented": "10.50",
+    "loot": [
+        {
+            "amount": "1-70",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Glob of Glooth",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Small Topaz",
+            "rarity": "semi-rare"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Small Sapphire",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Glooth Amulet",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Glooth Club",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Glooth Axe",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Glooth Blade",
+            "rarity": "rare"
+        }
+    ],
+    "walksaround": "Energy, Fire",
+    "exp": "700",
+    "mitigation": "1.04",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "glooth blob",
+    "illusionable": "no",
+    "armor": "30",
+    "convince": "--",
+    "name": "Glooth Blob",
+    "isboss": "no",
+    "iceDmgMod": "80%",
+    "energyDmgMod": "110%",
+    "deathDmgMod": "0%",
+    "plural": "glooth blobs",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "The glooth blob is the result of careless experiments with glooth and lesser critters like rats, insects and birds. Whatever the original purpose of the experiments may have been, the outcome was a slimy mass of semi sentient glooth. To make matters worse the products of the experiments were deemed a failure and discarded. That way several test subjects escaped and multiplied by splitting themselves after they gained a certain amount of size. The experiments were stopped and the magistrate ordered the files about them to be securely hidden and classified highly confidential. It seems in the beginning there were several strains that could be considered glooth blobs but eventually only one discernible strain seems to have survived. The blobs are often drawn to glooth sources though they seemingly not actively absorb it. Only in times before they split they actively consume glooth and glooth residue in great masses so it is assumed glooth is necessary for their reproduction. It is speculated though, that the glooth could possibly substituted by something else but the magistrate put an end to further investigations in that matter. Though the glooth blob is not actively aggressive it its highly territorial and instinctively attacks any intruders. What is an intruder and what not seems quite random though, as glooth blobs are known to sometimes coexist relatively peaceful with other creatures. <br />Glooth blobs are often drawn to sources of carrion and organic waste and therefore the Rathleton magistrate ordered a strict policy towards waste disposal to minimize the intrusions of blobs into the city. Of course ignorance and recklessness undermine this efforts and so a number of blobs is attracted by especially the poorer quarters of the city. Occasionally for completely unknown reasons great numbers of glooth blobs are spawned. There is no known common factor in this occurrences and usually they vanish as sudden as they appear, some are reportedly dissolving into pools and rapidly dehydrate into dust. In this times the blobs are unusually aggressive and dangerous as they actively hunt for prey. Blobs that have consumed a certain mass of matter and swollen far beyond their usual size have been observed, slithering towards a common point. No one has yet made out this point and there is not even a valid theory for what reason the glooth blobs behave that way. The magistrate has forbidden all further investigation because to the danger associated with it.",
+    "speed": "80",
+    "pushobjects": "?",
+    "fireDmgMod": "110%",
+    "sounds": [],
+    "runsat": "0",
+    "bestiaryclass": "Slime",
+    "creatureclass": "Elementals",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Blobs",
+    "spawntype": [
+        "Regular",
+        "Triggered",
+        "Unblockable"
+    ],
+    "race_id": "1054",
+    "bestiarylevel": "Medium",
+    "senseinvis": "no",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "gloothblob",
+    "location": "[[Oramond/Western Plains]], [[Lower Rathleton]], [[Glooth Factory]], [[Underground Glooth Factory]], [[Rathleton Sewers]].",
+    "strategy": "Watch closely which blob is the mother blob to prevent killing summons. Using area attacks can be useful if you don't know which blob is the original one."
+}

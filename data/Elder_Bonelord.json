@@ -1,0 +1,108 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "[[Bonelords]] are a [[Necromancers|necromantic]] race, so Elder Bonelords are usually accompanied by some [[Undead|undead creatures]] like [[Demon Skeleton]]s, as well as other [[Bonelord]]s.",
+    "walksthrough": "Poison",
+    "hp": "500",
+    "abilities": "{{Ability List\n |{{Melee|0-50}}\n |{{Ability|Distance Life Drain|75-85|life drain\n  |scene={{Scene|spell=7sqmstrike|effect=Red Sparkles Effect|caster=Elder Bonelord|missile_direction=south-east|missile_distance=7/7}}}}\n |{{Ability|Distance Mana Drain|20-40|mana drain\n  |scene={{Scene|spell=7sqmstrike|effect=Red Sparkles Effect|caster=Elder Bonelord|missile_direction=south-east|missile_distance=7/7}}}}\n |{{Ability|Fire Missile|60-80|fire\n  |scene={{Scene|spell=7sqmstrike|caster=Elder Bonelord|missile=Fire Missile|missile_direction=south-east|missile_distance=7/7|effect=Fire Effect}}}}\n |{{Ability|Energy Missile|45-75|energy\n  |scene={{Scene|spell=7sqmstrike|caster=Elder Bonelord|missile=Energy Missile|missile_direction=south-east|missile_distance=7/7|effect=Blue Electricity Effect}}}}\n |{{Ability|Earth Missile|30-70|earth\n  |scene={{Scene|spell=7sqmstrike|caster=Elder Bonelord|missile=Poison Missile|missile_direction=south-east|missile_distance=7/7|effect=Poison Effect 1}}}}\n |{{Ability|Death Missile|70-90|death\n  |scene={{Scene|spell=7sqmstrike|effect=Death Effect|caster=Elder Bonelord|missile=Death Missile|missile_direction=south-east|missile_distance=7/7}}}}\n |{{Ability|paralyze|190-230 points for 20 seconds|paralyze\n  |scene={{Scene|spell=7sqmstrike|effect=Red Sparkles Effect|caster=Elder Bonelord|missile_direction=south-east|missile_distance=7/7}}}}\n |{{Summon|Gazer|6|Crypt Shambler}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "holyDmgMod": "100%",
+    "maxdmg": "''40 [[Mana Drain|mana drain]]'' and 405 (Without summons), 605 (With 6 [[Gazer]]s), 1575 (With 6 [[Crypt Shambler]]s)",
+    "pushable": "no",
+    "implemented": "7.4",
+    "loot": [
+        {
+            "amount": "0-90",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "amount": "0-4",
+            "itemName": "Sniper Arrow",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Elder Bonelord Tentacle",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Small Flask of Eyedrops",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Two Handed Sword",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Steel Shield",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Bonelord Eye",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Strong Mana Potion",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Spellbook",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Giant Eye",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Bonelord Helmet",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Bonelord Shield",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Fire, Energy",
+    "exp": "280",
+    "mitigation": "0.67",
+    "attacktype": "Distance",
+    "history": "Elder Bonelords were once called ''Elder Beholders'', until ''[[w:Wizards of the Coast|Wizards of the Coast]]'' allegedly sued [[CipSoft GmbH]] for violating their copyright. The Bonelords strongly resemble ''Beholders'' in the old and popular roleplaying game [[w:Dungeons and Dragons|Dungeons and Dragons]].",
+    "article": "an",
+    "actualname": "elder bonelord",
+    "illusionable": "yes",
+    "armor": "13",
+    "convince": "--",
+    "name": "Elder Bonelord",
+    "isboss": "no",
+    "iceDmgMod": "70%",
+    "energyDmgMod": "80%",
+    "deathDmgMod": "70%",
+    "plural": "elder bonelords",
+    "hpDrainDmgMod": "0%",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "Elder Bonelords are the masters of that necromantic race. They have grown enormously over times and outlived the usual lifespan of its kind by cheating death in some sinister way with its necromantic powers. Just like the size of this creature has enlarged also its evilness and power has done. Its magic outshines that of an ordinary bonelord and its mastery of the necromantic arts has reached levels that had so far been unknown to bonelords. It is them who spawn the dreaded gazers that grow into new bonelords and ensure the existence of the race. It is them who lead the other species of their kind with an iron will and brutal suppression. And it is them who have accumulated knowledge about magic and especially necromancy that was never meant to be known by any creature, dead or alive.",
+    "speed": "85",
+    "pushobjects": "yes",
+    "fireDmgMod": "110%",
+    "sounds": [
+        "Inferior creatures, bow before my power!",
+        "Let me take a look at you!",
+        "659978 54764!",
+        "653768764!"
+    ],
+    "runsat": "0",
+    "bestiaryclass": "Magical",
+    "creatureclass": "Invertebrates",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Bonelords",
+    "race_id": "108",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%",
+    "bestiaryname": "elderbonelord",
+    "location": "[[Hellgate]], near the [[Hellgate Library]], [[Deeper Banuta]], behind piano in [[Cult Cave]] to the northeast of [[Liberty Bay]], [[Vandura Bonelord Cave]], [[Goroma]], [[Helheim]], underground of [[Fenrock]] (on the way to [[Beregar]]), [[Vengoth]].",
+    "strategy": "The best way to kill them is for [[mage]]s to use [[runes]], and [[paladin]]s to use [[bolt]]s or [[arrow]]s since they try to keep their distance from you, and may pull you into more [[Bonelord]]s and '''Elder Bonelord'''s.<br />\nHigh level [[sorcerer]]s should take [[Flame Strike]] on the '''Elder Bonelord''' and its summons, so the summons dies.<br>If it isn't possible to kill the Elder Bonelord right away (for example, because you're taking too much damage) you may need to use runes like [[Great Fireball]] to get rid of the summons. You should watch out for [[Demon Skeleton]]s, which are '''not''' summoned and will deal quite a lot of damage if you are unprepared.<br>\nIf you encounter them when you don't intend to hunt or pass through them, for example while completing [[The Paradox Tower Quest]], it is best to use [[Sudden Death]] or [[Explosion]] runes; two or three hits should kill them quickly, and they will pose little trouble.<br>\nIt is often advantageous to wear an [[Elven Amulet]] when fighting Elder Bonelords, as this will reduce all damage by 5%."
+}

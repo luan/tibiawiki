@@ -1,0 +1,105 @@
+{
+    "summon": "350",
+    "templateType": "Creature",
+    "notes": "Creature added in the Christmas [[Updates/Update 8.12|update 2007]]. Despite their appearance, not that much stronger than a regular troll.",
+    "walksthrough": "None",
+    "hp": "75",
+    "abilities": "{{Ability List|{{Melee|0-35}}}}",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "holyDmgMod": "90%",
+    "maxdmg": "{{Max Damage|physical=35}}",
+    "pushable": "Yes",
+    "usedelements": "Physical",
+    "implemented": "8.10",
+    "loot": [
+        {
+            "amount": "1-12",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Spear",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Leather Boots",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Meat",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Studded Club",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Wooden Shield",
+            "rarity": "semi-rare"
+        },
+        {
+            "amount": "1-5",
+            "itemName": "Arrow",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Bunch of Troll Hair",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Trollroot",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Silver Amulet",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Fire, Energy, Poison",
+    "exp": "40",
+    "mitigation": "0.28",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "troll champion",
+    "illusionable": "yes",
+    "armor": "10",
+    "convince": "350",
+    "name": "Troll Champion",
+    "isboss": "no",
+    "iceDmgMod": "100%",
+    "energyDmgMod": "80%",
+    "deathDmgMod": "110%",
+    "plural": "troll champions",
+    "hpDrainDmgMod": "100%",
+    "usespells": "no",
+    "occurrence": "Common",
+    "bestiarytext": "Sometimes a hero rises even amongst cowards. Well, in the case of trolls the term hero might be a bit far-fetched. The Troll Champions receive their title mainly for their slyness and brutality. Raising in status seems great in the beginning but it quickly becomes a matter of survival. Even though cowardly, most trolls are incredibly greedy and envious. As a result, a troll with a special status has to fight for its life and to survive many attempts of backstabbing or arranged accidents by its brethren. Of course, every Troll Champion abuses shamelessly his privileges in his tribe. Therefore, it is only natural that a Troll Champion has to constantly watch his back and stay as fit and well-equipped as he can manage. This again makes him one of the toughest fighters of the tribe that other trolls turn to when in danger. Troll Champions are usually the leaders of small raiding parties or the personal bodyguards of the equally abusive chieftains. They love to bully weaker trolls and are hardly encountered without some henchmen that they can bully around and sacrifice in battles.",
+    "speed": "69",
+    "pushobjects": "No",
+    "fireDmgMod": "100%",
+    "sounds": [
+        "Meee maity!",
+        "Grrrr",
+        "Whaaaz up!?",
+        "Gruntz!",
+        "Groar"
+    ],
+    "runsat": "15",
+    "bestiaryclass": "Humanoid",
+    "creatureclass": "Humanoids",
+    "earthDmgMod": "110%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Trolls",
+    "spawntype": [
+        "Regular"
+    ],
+    "race_id": "392",
+    "bestiarylevel": "Easy",
+    "senseinvis": "no",
+    "drownDmgMod": "100%",
+    "bestiaryname": "trollchampion",
+    "behaviour": "Troll Champions can be pushed and don't move objects.",
+    "location": "[[Edron Troll-Goblin Peninsula]], Ab'dendriel [[Shadow Caves]], Thais South-East Troll Caves, [[Dusalk's Troll Clan Cave]], [[Island of Destiny]] in Paladin's guild.",
+    "strategy": "They have good melee so if you want to [[Train]] with them it is recommended you have 22+ [[Shielding]]."
+}

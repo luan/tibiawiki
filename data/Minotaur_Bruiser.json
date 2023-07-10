@@ -1,0 +1,84 @@
+{
+    "summon": "330",
+    "templateType": "Creature",
+    "plural": "minotaur bruisers",
+    "hpDrainDmgMod": "100%?",
+    "notes": "A weaker [[Minotaur]]. Created for [[Dawnport]] to introduce new players to the game. Minotaur Bruisers come in groups with other [[Minotaurs]] ([[Minotaur Poacher|Poachers]], [[Minotaur Occultist|Occultists]], and [[Minotaur]]s), as well as [[Wasp]]s, and [[Poison Spider]]s. Care must be taken because the magi of their kind, Occultists, are very strong in comparison.",
+    "walksthrough": "?",
+    "hp": "100",
+    "speed": "84",
+    "abilities": "{{Ability List|{{Melee|0-45}}}}",
+    "pushobjects": "no",
+    "healMod": "100%?",
+    "paraimmune": "no",
+    "fireDmgMod": "80%",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "{{Max Damage|physical=45}}",
+    "pushable": "yes",
+    "usedelements": "Physical",
+    "implemented": "10.55",
+    "loot": [
+        {
+            "amount": "0-15",
+            "itemName": "Gold Coin"
+        },
+        {
+            "itemName": "Plate Shield"
+        },
+        {
+            "itemName": "Studded Armor"
+        },
+        {
+            "itemName": "Axe"
+        },
+        {
+            "itemName": "Mace"
+        },
+        {
+            "itemName": "Sword"
+        },
+        {
+            "itemName": "Brass Helmet"
+        },
+        {
+            "itemName": "Chain Armor"
+        },
+        {
+            "itemName": "Meat",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Shovel",
+            "rarity": "rare"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "50",
+    "creatureclass": "Humanoids",
+    "earthDmgMod": "100%",
+    "physicalDmgMod": "100%?",
+    "primarytype": "Minotaurs",
+    "spawntype": [
+        "Regular",
+        "Unblockable"
+    ],
+    "race_id": "1066",
+    "senseinvis": "no",
+    "article": "a",
+    "actualname": "minotaur bruiser",
+    "illusionable": "yes",
+    "armor": "11",
+    "drownDmgMod": "100%?",
+    "convince": "330",
+    "name": "Minotaur Bruiser",
+    "isboss": "no",
+    "behaviour": "Unknown",
+    "location": "[[Dawnport Crystal Dungeon]], all floors.",
+    "iceDmgMod": "100%?",
+    "strategy": "Unknown",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "100%?"
+}

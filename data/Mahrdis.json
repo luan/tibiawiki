@@ -1,0 +1,87 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "0%",
+    "notes": "Mahrdis was sentenced to be locked away, after his part in the conspiracies against the pharaoh [[Arkhotep]].\n\n{{JSpoiler|One of the Pharaohs of [[The Ancient Tombs Quest]].}}",
+    "walksthrough": "Fire",
+    "hp": "3900",
+    "speed": "?",
+    "abilities": "{{Ability List\n |{{Melee|0-400|poison=3}}\n |{{Ability|Fire Exori|150-800|element=fire}}\n |{{Ability|Physical Distance Attack|0-600|element=physical}}\n |{{Ability|Fire Distance Attack|0-600|element=fire}}\n |{{Ability|Explosion Wave|[[Burning|Burns]] you|element=burning}}\n |{{Summon|Fire Elemental|4}}\n |{{Ability|[[Paralysis]]|element=paralyze}}\n |{{Ability|Creates Fire Fields|element=fire field|scene={{Scene|spell=2sqmballself|effect=Fire|effect_on_caster=yes|caster=Mahrdis}}}}\n |{{Healing|range=20-800}}\n}}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "0%",
+    "holyDmgMod": "120%>",
+    "sounds": [
+        "Ashes to ashes!",
+        "Fire, Fire!",
+        "The eternal flame demands its due!",
+        "Burnnnnnnnnn!",
+        "May my flames engulf you!",
+        "This is why I'm hot."
+    ],
+    "maxdmg": "{{Max Damage|physical=1000|fire=1400|earth=3|summons=1120}}",
+    "pushable": "?",
+    "implemented": "7.3",
+    "loot": [
+        {
+            "amount": "0-230",
+            "itemName": "Gold Coin"
+        },
+        {
+            "itemName": "Burning Heart",
+            "rarity": "always"
+        },
+        {
+            "itemName": "Great Health Potion"
+        },
+        {
+            "itemName": "Life Ring"
+        },
+        {
+            "amount": "0-3",
+            "itemName": "Small Ruby"
+        },
+        {
+            "itemName": "Fire Axe",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Red Gem",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Holy Falcon",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Mini Mummy",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Phoenix Shield",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Energy, Poison",
+    "exp": "3050",
+    "creatureclass": "The Undead",
+    "earthDmgMod": "80%",
+    "physicalDmgMod": "100%",
+    "bosstiaryclass": "Bane",
+    "primarytype": "Pharaohs",
+    "race_id": "86",
+    "senseinvis": "yes",
+    "illusionable": "no",
+    "armor": "42",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Mahrdis",
+    "isboss": "no",
+    "behaviour": "Malicious, will make all efforts to destroy intruders.",
+    "location": "[[Shadow Tomb]].",
+    "iceDmgMod": "110%",
+    "strategy": "He attacks with fire, so [[blocker]]s should try to distract him and move fast, while [[mage]]s and [[paladin]]s attack from far. He is guarded by 3 [[Dragon]]s, a [[Dragon Lord]] and 4 [[Flamethrower]]s.",
+    "energyDmgMod": "80%",
+    "deathDmgMod": "0%"
+}

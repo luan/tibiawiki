@@ -1,0 +1,86 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "[[Brimstone Bug]]'s boss. Part of the [[Paw and Fur Society]] tasks of [[Grizzly Adams]].\n\n{{JSpoiler|Part of the [[Killing in the Name of... Quest]].}}",
+    "walksthrough": "Poison",
+    "hp": "1300",
+    "lightcolor": "66",
+    "speed": "?",
+    "abilities": "{{Ability List| {{Melee|0-500}}|{{Ability|Distance Life Drain|400-500|element=lifedrain}}|{{Ability|3x3 Death Missile|450-550|element=death}} }}",
+    "pushobjects": "yes",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "110%?",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "~600",
+    "pushable": "No",
+    "lightradius": "2",
+    "implemented": "9.20",
+    "loot": [
+        {
+            "amount": "0-10?",
+            "itemName": "Platinum Coin"
+        },
+        {
+            "amount": "0-4?",
+            "itemName": "Small Emerald"
+        },
+        {
+            "itemName": "Strong Health Potion"
+        },
+        {
+            "itemName": "Strong Mana Potion"
+        },
+        {
+            "itemName": "Lump of Earth"
+        },
+        {
+            "itemName": "Sulphurous Stone"
+        },
+        {
+            "itemName": "Poisonous Slime"
+        },
+        {
+            "itemName": "Magic Sulphur"
+        },
+        {
+            "itemName": "Platinum Amulet"
+        },
+        {
+            "itemName": "Stealth Ring",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Brimstone Fangs",
+            "rarity": "always"
+        },
+        {
+            "itemName": "Brimstone Shell",
+            "rarity": "always"
+        }
+    ],
+    "walksaround": "Fire, Energy",
+    "exp": "900",
+    "creatureclass": "Invertebrates",
+    "earthDmgMod": "100%?",
+    "physicalDmgMod": "100%?",
+    "primarytype": "Insects",
+    "race_id": "758",
+    "senseinvis": "yes",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Sulphur Scuttler",
+    "isboss": "yes",
+    "behaviour": "Unknown",
+    "location": "[[Muggy Plains]]. Its teleporter is located {{Mapper Coords|130.6|121.136|8|2|text=here}}.",
+    "iceDmgMod": "100%?",
+    "strategy": "Treat it as you would treat a regular [[Brimstone Bug]].",
+    "energyDmgMod": "100%?",
+    "deathDmgMod": "0%"
+}

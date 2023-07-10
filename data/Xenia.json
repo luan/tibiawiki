@@ -1,0 +1,64 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "Rare spawn in [[Venore]] amazon camp. New creature in [[Updates/8.2|Summer Update 2008]]. Her name, 'Xenia' could refer to 'hospitality' in mythology, or could be an [[Allusions#Xena|allusion]] to [[Wikipedia:Xena|Xena]].<br/> [[File:Xenia rare spawn.jpg|thumb|screenshot]]",
+    "walksthrough": "?",
+    "hp": "200",
+    "speed": "?",
+    "abilities": "{{Ability List| {{Melee|0-50+}}|{{Healing}}|{{Ability|[[Drunkenness|Musical Wave]] causes [[Drunkenness]]|element=drunk}}|{{Haste|[[Strong Haste]]}} }}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "100%?",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        "Yeeyeeyeee!",
+        "Fight me if you dare!",
+        "I challenge you!"
+    ],
+    "maxdmg": "50+",
+    "pushable": "?",
+    "implemented": "8.20",
+    "loot": [
+        {
+            "amount": "0-45",
+            "itemName": "Gold Coin"
+        },
+        {
+            "itemName": "Sabre"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "Skull (Item)"
+        },
+        {
+            "itemName": "Studded Shield"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "255",
+    "creatureclass": "Humans",
+    "earthDmgMod": "100%?",
+    "physicalDmgMod": "100%?",
+    "bosstiaryclass": "Nemesis",
+    "primarytype": "Amazons",
+    "spawntype": [
+        "Raid",
+        "Unique"
+    ],
+    "race_id": "428",
+    "senseinvis": "?",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Xenia",
+    "isboss": "yes",
+    "behaviour": "Runs at very low health.",
+    "location": "[[Amazon Camp (Venore)|Venore Amazon Camp]], {{Mapper Coords|128.123|124.145|8|2|text=here}} or the room below.",
+    "iceDmgMod": "100%?",
+    "strategy": "Knights, fight with good skills. Paladins, try to avoid the melee atacks. Mages, same as paladins.",
+    "energyDmgMod": "100%?",
+    "deathDmgMod": "100%?"
+}

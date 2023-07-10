@@ -1,0 +1,140 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "The summons will vanish when killed and thus cannot be skinned with an [[Obsidian Knife]].",
+    "walksthrough": "Energy, Poison",
+    "hp": "880",
+    "abilities": "{{Ability List\n |{{Melee|0-75}}\n |{{Ability|Life Drain Beam|140-190|lifedrain\n   |scene={{Scene|spell=8sqmbeam|effect=Red Sparkles Effect|caster=Lich|look_direction=east}}}}\n |{{Ability|Life Drain|200-245|lifedrain}}\n |{{Ability|Life Drain Berserk|130-195|lifedrain\n  |scene={{Scene|spell=3x3spell|effect=Red Sparkles Effect|caster=Lich|effect_on_caster=yes}}}}\n |{{Healing|range=80-100~}}\n |{{Ability|Paralyzes you||slowed}}\n |{{Summon|Bonebeast|4}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "holyDmgMod": "120%",
+    "maxdmg": "{{Max Damage|physical=75|lifedrain=630|summons=1368}}",
+    "pushable": "no",
+    "implemented": "7.4",
+    "loot": [
+        {
+            "amount": "1-139",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Platinum Coin",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Spellbook",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Strong Mana Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "Black Pearl",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "White Pearl",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Ancient Shield",
+            "rarity": "semi-rare"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "Small Topaz",
+            "rarity": "semi-rare"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "Small Emerald",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Ring of Healing",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Mind Stone",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Strange Helmet",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Yellow Gem",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Lightning Boots",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Skull Staff",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Castle Shield",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Platinum Amulet",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Blue Robe",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Maxilla Maximus",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Fire",
+    "exp": "900",
+    "mitigation": "1.60",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "lich",
+    "illusionable": "no",
+    "armor": "50",
+    "convince": "--",
+    "name": "Lich",
+    "isboss": "no",
+    "iceDmgMod": "100%",
+    "energyDmgMod": "20%",
+    "deathDmgMod": "0%",
+    "plural": "liches",
+    "hpDrainDmgMod": "0%",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "To become a Lich is the ultimate goal of all those who follow the dark path of necromancy, and there is no one among these lost souls who would not give his life gladly in exchange for the immortality and the frightful powers of these undead wizards. The Lich are true masters of their kind who have learnt to harness the vilest powers of death and corruption, and they know how to channel these unholy energies onto their unfortunate victims with deadly precision. Worse, they typically control legions of lesser undead, so a single Lich may be enough to bring whole cities to ruin. Thankfully, they are very rare and they often prefer to hide in old libraries and laboratories where they ceaselessly continue their wicked  research.",
+    "speed": "105",
+    "pushobjects": "yes",
+    "fireDmgMod": "100%",
+    "sounds": [
+        "Doomed be the living!",
+        "Death awaits all!",
+        "Thy living flesh offends me!",
+        "Death and Decay!",
+        "You will endure agony beyond thy death!",
+        "Pain sweet pain!",
+        "Come to me my children!"
+    ],
+    "bestiaryclass": "Undead",
+    "creatureclass": "The Undead",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Undead Humanoids",
+    "race_id": "99",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "lich",
+    "behaviour": "The Lich will chase the enemy while [[summon]]ing [[Bonebeast]]s and casting various draining spells.",
+    "location": "[[Ankrahmun Library Tomb]], [[Ancient Ruins Tomb]], [[Oasis Tomb]], [[Mountain Tomb]], [[Drefia]], [[Kharos]], [[Pits of Inferno]], [[Lich Hell]] in [[Ramoa]], [[Cemetery Quarter]] in [[Yalahar]], underground of [[Fenrock]] (on the way to [[Beregar]]). Can also be seen during an undead [[raid]] in [[Darashia]] or [[Carlin]].",
+    "strategy": "You should always try to stand at a diagonal from them, since their beam attack is very strong. You can also shoot [[Fire Bomb]] on yourself to keep the summoned [[Bonebeast]]s away from reaching you. Also be careful if it has 3 or more [[Bonebeast]]s, as he can trap you easily and can do 200-300 damage per turn easily, even if diagonal.<br>"
+}

@@ -1,0 +1,113 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "Demodras",
+    "hpDrainDmgMod": "100%?",
+    "notes": "It is the [[Dragons]]' boss. Looks the same as a [[Dragon Lord]]. Always spawns with two [[Dragon Lord]]s, save for in the quest room. Demodras' corpse can be skinned for a chance of getting a [[Red Dragon Leather]].\n[http://www.youtube.com/watch?v=7drOFPGOf0o Video of a Level 120 Royal Paladin Killing Demodras for Task on Fidera]\n[[Image:Demodras Special Task.png|thumb|180px|left|[[Knight]] killing Demodras ([[Killing in the Name of... Quest|special task]])]]\n[[File:Tibiando Demodras - Dragon Claw - Warrior Outfit - Celesta|thumb|right|335 px]]",
+    "walksthrough": "Fire, Energy, Poison",
+    "hp": "4500",
+    "speed": "197",
+    "abilities": "{{Ability List\n |{{Melee|0-400}}\n |{{Ability|Fire Wave|250-550|fire\n  |scene={{Scene|spell=8sqmwave|effect=Fireball Effect|caster=Demodras|look_direction=east}}}}\n |{{Ability|Fire ball|250-350|fire\n  |scene={{Scene|spell=2sqmballtarget|effect=Fireball Effect|caster=Demodras|missile=Fire Missile|missile_direction=south-east|missile_distance=2/2|damage_effect=Unknown}}}}\n |{{Ability|Creates Fire Fields|element=fire field\n  |scene={{Scene|spell=4sqmballtarget|effect=Fire|caster=Demodras|missile=Fire Missile|missile_direction=south-east|missile_distance=4/4}}}}\n |{{Summon|Dragon|2}}\n |{{Healing|very often [[Self-Healing]]|range=400-700|scene={{Scene|spell=buffspell|effect=Blue Sparkles Effect|caster=Demodras|effect_on_caster=yes}}}}\n}}",
+    "pushobjects": "yes",
+    "healMod": "100%?",
+    "paraimmune": "yes",
+    "fireDmgMod": "0%",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        "I WILL SET THE WORLD ON FIRE!",
+        "I WILL PROTECT MY BROOD!"
+    ],
+    "maxdmg": "{{Max Damage|physical=235|fire=950|summons=860}}",
+    "pushable": "no",
+    "runsat": "300",
+    "implemented": "7.5",
+    "loot": [
+        {
+            "itemName": "Dragon Claw",
+            "rarity": "always"
+        },
+        {
+            "amount": "0-10",
+            "itemName": "Platinum Coin"
+        },
+        {
+            "amount": "0-10",
+            "itemName": "Dragon Ham"
+        },
+        {
+            "amount": "0-7",
+            "itemName": "Green Mushroom",
+            "rarity": "semi-rare"
+        },
+        {
+            "amount": "0-10",
+            "itemName": "Power Bolt",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Red Dragon Leather",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Small Sapphire",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Energy Ring",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Book (Gemmed)",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Great Mana Potion",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Great Health Potion",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Golden Mug",
+            "rarity": "rare"
+        },
+        {
+            "amount": "0-5",
+            "itemName": "Onyx Arrow",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Dragon Scale Mail",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Fire Sword",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Life Crystal",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "None",
+    "exp": "6000",
+    "creatureclass": "Reptiles",
+    "earthDmgMod": "100%?",
+    "physicalDmgMod": "100%?",
+    "primarytype": "Dragons",
+    "race_id": "204",
+    "senseinvis": "yes",
+    "actualname": "Demodras",
+    "illusionable": "no",
+    "armor": "45",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Demodras",
+    "isboss": "yes",
+    "location": "[[PoH Dragon Lair]] ({{Mapper Coords|128.7|126.13|7|2|text=here}}) on the way to the [[Ornamented Shield Quest]], [[PoI]] [[PoI#Pits of Inferno Dragon Lair|Dragon Lair]] ({{Mapper Coords|128.19|126.80|12|4|text=here}}), [[Thais Dragon Lair]] ({{Mapper Coords|text=here|126.102|125.94|10|2|1|0.50.5}}) on the way to the [[Naginata Quest]]. The [[Killing in the Name of... Quest|special task]] teleport is located inside the [[PoH Dragon Lair]], {{Mapper Coords|128.1|126.34|10|4|text=here}}.",
+    "iceDmgMod": "100%?",
+    "strategy": "'''[[Mage]]s:''' Get a good [[blocker]], and use [[Sudden Death Rune]]s or [[Icicle Rune]]s if your level and magic level are high enough. Otherwise, bring a [[Paladin]] or other [[Mage]]s for back-up. A Mage or Paladin may attempt the special task at level 100 with reasonable success. Paladins will probably not need [[Magic Shield]]. <br>'''[[Knights]]:''' It is possible to solo this creature with good skills and high level using [[Fierce Berserk]]. It is advised to attempt the special task on at least level 130 when you can use [[Ultimate Healing Potion]]s.",
+    "energyDmgMod": "100%?",
+    "deathDmgMod": "100%?"
+}

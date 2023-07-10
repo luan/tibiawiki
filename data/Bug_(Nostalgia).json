@@ -1,0 +1,55 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "bugs",
+    "hpDrainDmgMod": "100%?",
+    "notes": "This creature can only be seen during the [[Tibia Anniversary]].",
+    "isarenaboss": "no",
+    "walksthrough": "?",
+    "hp": "29",
+    "speed": "?",
+    "abilities": "{{Ability List|{{Melee|0-23?}}}}",
+    "pushobjects": "no",
+    "healMod": "100%?",
+    "paraimmune": "no",
+    "fireDmgMod": "110%?",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "{{Max Damage|physical=23?}}",
+    "pushable": "yes",
+    "implemented": "9.44",
+    "loot": [
+        {
+            "amount": "0-6?",
+            "itemName": "Gold Coin"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "Cherry"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "15",
+    "creatureclass": "Invertebrates",
+    "earthDmgMod": "100%?",
+    "physicalDmgMod": "100%?",
+    "primarytype": "Insects",
+    "senseinvis": "no",
+    "article": "a",
+    "actualname": "bug",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Bug (Nostalgia)",
+    "isboss": "no",
+    "behaviour": "Same as the [[Bug]].",
+    "location": "[[Nostalgia Island]]. Inside [[The Supreme Cube]].",
+    "iceDmgMod": "100%?",
+    "strategy": "Same as the [[Bug]].",
+    "energyDmgMod": "100%?",
+    "deathDmgMod": "100%?",
+    "status": "event"
+}

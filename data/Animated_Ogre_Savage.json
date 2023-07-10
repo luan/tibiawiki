@@ -1,0 +1,66 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "Similar to an [[Ogre Savage]].",
+    "walksthrough": "?",
+    "hp": "1400",
+    "speed": "?",
+    "abilities": "{{Ability List| {{Melee|0-300}}|{{Haste}}|{{Ability|[[Bleeding|a big AoE]]|0-5|element=bleeding}}|{{Ability|[[Explosion]]|0-102+|element=?}}|{{Ability|[[Whirlwind Throw]]|0-100+|element=?}} }}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "100%?",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "?",
+    "pushable": "?",
+    "implemented": "11.40.5409",
+    "loot": [
+        {
+            "amount": "0-58",
+            "itemName": "Gold Coin"
+        },
+        {
+            "itemName": "Ogre Ear Stud"
+        },
+        {
+            "itemName": "Ogre Nose Ring"
+        },
+        {
+            "itemName": "Mysterious Fetish"
+        },
+        {
+            "itemName": "Strong Health Potion"
+        },
+        {
+            "itemName": "Onyx Chip"
+        },
+        {
+            "itemName": "Jalapeno Pepper"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "950",
+    "creatureclass": "Humanoids",
+    "earthDmgMod": "100%?",
+    "physicalDmgMod": "100%?",
+    "primarytype": "Giants",
+    "senseinvis": "?",
+    "article": "an",
+    "actualname": "animated ogre savage",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Animated Ogre Savage",
+    "isboss": "?",
+    "behaviour": "Unknown",
+    "location": "[[Museum of Tibian Arts]] (only at [[Night]])",
+    "iceDmgMod": "100%?",
+    "strategy": "Treat it like an [[Ogre Savage]].",
+    "energyDmgMod": "100%?",
+    "deathDmgMod": "100%?"
+}

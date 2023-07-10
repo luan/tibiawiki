@@ -1,0 +1,79 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "<gallery mode=\"nolines\">\nFile:Barkless Fanatic Artwork.jpg|Official [[Creature Artwork]]\n</gallery>",
+    "walksthrough": "?",
+    "hp": "3200",
+    "abilities": "{{Ability List| {{Melee|0-200|element=physical}}|{{Ability|[[Glooth Spear]]|50-350; 3 sqm radius|element=?}}|{{Ability|Poison Ball on itself|[[Life Drain]]; 50-300; 4 sqm radius|element=lifedrain}}|{{Ability|[[Physical Damage|Green Sparkles Berserk]]|50-200}} }}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "holyDmgMod": "100%",
+    "maxdmg": "700",
+    "pushable": "no",
+    "implemented": "11.40.5409",
+    "loot": [
+        {
+            "amount": "0-199",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Fig Leaf",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Bed of Nails",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Tiger Eye",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Torn Shirt",
+            "rarity": "rare"
+        }
+    ],
+    "walksaround": "Fire",
+    "exp": "2500",
+    "mitigation": "0.78",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "barkless fanatic",
+    "illusionable": "no",
+    "armor": "30",
+    "convince": "--",
+    "name": "Barkless Fanatic",
+    "isboss": "no",
+    "iceDmgMod": "85%",
+    "energyDmgMod": "83%",
+    "deathDmgMod": "85%",
+    "plural": "barkless fanatics",
+    "hpDrainDmgMod": "100%",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "Barkless fanatics are former devotees of the Barkless cult who already lost their battle in this world. Whether the suffering they chose was too much for them or if they simply went mad during the trials of the Barkless, their minds are irretrievably lost.",
+    "speed": "150",
+    "pushobjects": "yes",
+    "fireDmgMod": "90%",
+    "sounds": [
+        "PAIN PURIFIES! PAIN PURIFIES!"
+    ],
+    "runsat": "0",
+    "bestiaryclass": "Humanoid",
+    "creatureclass": "Humanoids",
+    "earthDmgMod": "100%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Elves",
+    "spawntype": [
+        "Regular"
+    ],
+    "race_id": "1488",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%",
+    "bestiaryname": "barklessfanatic",
+    "behaviour": "Fights in close combat.",
+    "location": "[[Barkless Cult Trial Zone]] (below [[Ab'Dendriel]])",
+    "strategy": "Be careful because they come in packs and can deal strong combos. Shooters should avoid staying close to the blocker since their spear hits a wide range around the target and is used very often. Fire Bombs and Walls can come in handy to keep them away. Note that even though their area attack has a Poison animation, the damage dealt is [[Life Drain]]."
+}

@@ -1,0 +1,154 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "terrorsleeps",
+    "hpDrainDmgMod": "100%?",
+    "walksthrough": "?",
+    "hp": "7200",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "The terrorsleep is sweating dread incorporated. It thrives in darkness, breeds under your bed and nourishes on your fear. Terrorsleeps avoid the sunlight as it stuns and disorientates them. They do not see as we do, but sense other creatures' body warmth and fear. Hungry, toothed mouths protrude on their head instead of eyes. Using their mouths like augers, they bite open their victims and bathe in their bloody carcass like birds in a water pool. Terrorsleeps have very light and flexible bones and can squeeze through anywhere. They particularly like to slither and slime through dark, dank places, searching and sniffing out anything warm, alive; feeding on its fear, coveting its warmth, sucking out its life force. Their whitish belly is swollen with terror juices that foam up as gooey, frothy saliva hanging in threads and webs from their bared teeth. Touching it instils horrible paranoia and paralyses the victim so that the terrorsleep can devour it. Their putrid, blood-soaked wings they use to stabilise themselves and to swim or soar through darkness to reach ever deeper, isolated places. Once you are in darkness, you are never safe from a terrorsleep.<br /><br />There are surmises that the original beasts might have once been intended as riding animals or messengers, but were corrupted by horrific experiments or the negative energies of Roshamuul. In their company, the terrorsleep only tolerate creatures similar to themselves: the feversleeps who are burning hot and sweaty to the touch and who love cool water, are perhaps the offspring of the terrorsleep or a sibling creature from a nightmare having taken shape. The shy shiversleeps however are the rarest of the terrorsleep family; they like shallow, warm water and are very territorial, disappearing like mist through suddenly opening vortices into the protective darkness, and very little is known about them at all.",
+    "speed": "180",
+    "abilities": "{{Ability List\n |{{Melee|0-400}}\n |{{Ability|[[Mana Drain]]|70-100|element=manadrain}}\n |{{Ability|[[Life Drain]] Spark Beam|350-500|element=lifedrain}}\n |{{Ability|[[Death Strike]]|200-450|element=death}}\n |{{Debuff2|distance=yes|value=~50%|duration=8}}\n |{{Ability|[[Envenom]]|element=poisoned}}\n |{{Healing|range=0-600}}\n |{{Haste}}\n |{{Ability|[[Invisibility]]|element=invisible}}\n}}",
+    "healMod": "100%",
+    "pushobjects": "?",
+    "paraimmune": "yes",
+    "secondarytype": "Serpents",
+    "fireDmgMod": "65%",
+    "holyDmgMod": "110%",
+    "sounds": [
+        "Aktat Roshok! Marruk!",
+        "I will eat you in your sleep.",
+        "I am the darkness around you..."
+    ],
+    "maxdmg": "?",
+    "pushable": "?",
+    "implemented": "10.30",
+    "bestiaryclass": "Magical",
+    "loot": [
+        {
+            "amount": "4-197?",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-9",
+            "itemName": "Platinum Coin",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Great Mana Potion",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Ultimate Health Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "Small Ruby",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "Small Topaz",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Blue Crystal Shard",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Trapped Bad Dream Monster",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Bowl of Terror Sweat",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Blue Crystal Splinter",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Cyan Crystal Fragment",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "Small Emerald",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "Small Amethyst",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Broken Dream",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Blue Piece of Cloth",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Fish Fin",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Warrior Helmet",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "White Piece of Cloth",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Knight Armor",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Blue Robe",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Giant Sword",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Red Piece of Cloth",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Cluster of Solace",
+            "rarity": "rare"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "7240",
+    "creatureclass": "Demons",
+    "earthDmgMod": "0%",
+    "mitigation": "1.10",
+    "physicalDmgMod": "85%",
+    "primarytype": "Dreamhaunters",
+    "attacktype": "Melee",
+    "race_id": "1016",
+    "bestiarylevel": "Hard",
+    "senseinvis": "yes",
+    "article": "a",
+    "actualname": "terrorsleep",
+    "illusionable": "no",
+    "armor": "80",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "bestiaryname": "terrorsleep",
+    "name": "Terrorsleep",
+    "isboss": "no",
+    "location": "[[Roshamuul Mines]] (down {{Mapper Coords|131.154|126.92|7|4|text=here}}), [[Roshamuul Cistern]] (down {{Mapper Coords|131.130|126.15|7|4|text=here}}).",
+    "iceDmgMod": "80%",
+    "strategy": "'''[[Knight]]s:''' You will have a hard time with these. They are very resistant to physical and heal frequently. On top of that, they will almost constantly deal heavy damage. Be wary of [[Feversleep]]s that spawn in the same areas, which will reduce your [[melee]] skills. The best strategy to is to keep an eye on your [[melee]] skill and use [[Fierce Berserk]], [[Front Sweep]], or [[Berserk]] when your skill isn't reduced. The fight will typically last a little while so be careful not to lure more.",
+    "energyDmgMod": "90%",
+    "deathDmgMod": "45%"
+}

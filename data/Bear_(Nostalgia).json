@@ -1,0 +1,57 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "bears",
+    "hpDrainDmgMod": "100%?",
+    "notes": "This creature can only be seen during the [[Tibia Anniversary]].",
+    "isarenaboss": "no",
+    "walksthrough": "?",
+    "hp": "80",
+    "speed": "?",
+    "abilities": "{{Ability List\n |{{Melee|0-25?}}\n}}",
+    "pushobjects": "no",
+    "healMod": "100%?",
+    "paraimmune": "no",
+    "secondarytype": "Event Creatures",
+    "fireDmgMod": "100%?",
+    "holyDmgMod": "90%?",
+    "sounds": [
+        "Groar"
+    ],
+    "maxdmg": "{{Max Damage|physical=25?}}",
+    "pushable": "no",
+    "usedelements": "Physical",
+    "implemented": "9.44",
+    "loot": [
+        {
+            "amount": "0-5",
+            "itemName": "Meat"
+        },
+        {
+            "amount": "0-2?",
+            "itemName": "Ham"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "21",
+    "creatureclass": "Mammals",
+    "earthDmgMod": "100%?",
+    "physicalDmgMod": "100%?",
+    "primarytype": "Bears",
+    "senseinvis": "no",
+    "article": "a",
+    "actualname": "bear",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Bear (Nostalgia)",
+    "isboss": "no",
+    "behaviour": "Same as the [[Bear]].",
+    "location": "[[Nostalgia Island]].",
+    "iceDmgMod": "110%?",
+    "strategy": "Same as the [[Bear]].",
+    "energyDmgMod": "100%?",
+    "deathDmgMod": "105%?",
+    "status": "event"
+}

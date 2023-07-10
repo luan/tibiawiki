@@ -1,0 +1,118 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "{{JSpoiler|You gain the [[Depth Dwellers]] [[achievement]] by killing 300 Deepling Warriors.}}",
+    "isarenaboss": "no",
+    "walksthrough": "Fire",
+    "hp": "1600",
+    "abilities": "{{Ability List\n |{{Melee|0-280}}\n |{{Ability|Axe Throw|0-270|element=physical|scene={{Scene|spell=3sqmstrike|effect=Blood Effect|caster=Deepling Warrior|missile=Throwing Axe Missile|missile_direction=south-east|missile_distance=3/3}}}}\n |{{Ability|Boulder Throw|0-?|element=physical|scene={{Scene|spell=3sqmstrike|effect=Explosion Effect|caster=Deepling Warrior|missile=Stone Missile|missile_direction=south-east|missile_distance=3/3}}}}\n |{{Healing|range=115-195}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "holyDmgMod": "100%",
+    "maxdmg": "{{Max Damage|physical=550}}",
+    "pushable": "no",
+    "implemented": "9.40",
+    "loot": [
+        {
+            "amount": "2-180",
+            "itemName": "Gold Coin",
+            "rarity": "always"
+        },
+        {
+            "itemName": "Great Mana Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Great Health Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Deepling Warts",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Deeptags",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Deepling Ridge",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Deepling Filet",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Small Emerald",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Life Ring",
+            "rarity": "semi-rare"
+        },
+        {
+            "amount": "0-5",
+            "itemName": "Vortex Bolt",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Fish Fin",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Heavy Trident",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Eye of a Deepling",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Warrior's Axe",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Warrior's Shield",
+            "rarity": "rare"
+        }
+    ],
+    "walksaround": "Energy, Poison",
+    "exp": "1500",
+    "mitigation": "1.26",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "deepling warrior",
+    "illusionable": "no",
+    "armor": "40",
+    "convince": "--",
+    "name": "Deepling Warrior",
+    "isboss": "no",
+    "iceDmgMod": "0%",
+    "energyDmgMod": "110%",
+    "deathDmgMod": "90%",
+    "plural": "deepling warriors",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "The Deepling Warriors of the Njey are born with the fire of both suns in their hearts. Fierce and fearful creatures, prepared to squash all enemies of Qjell, they emerged from the depths. An event not so long ago drew their attention to the surface. Currently, they gather somewhere beneath the island of Quirefang.",
+    "speed": "145",
+    "pushobjects": "yes",
+    "fireDmgMod": "0%",
+    "sounds": [
+        "Jou wjil ajll djie!"
+    ],
+    "runsat": "30",
+    "bestiaryclass": "Aquatic",
+    "creatureclass": "Amphibians",
+    "earthDmgMod": "110%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Deeplings",
+    "race_id": "769",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "drownDmgMod": "0%?",
+    "bestiaryname": "deeplingwarrior",
+    "behaviour": "Uses [[Whirlwind Throw]] very often. When gets close to you, it will use both of its attacks simultaneously.",
+    "location": "[[Fiehonja]].",
+    "strategy": "[[Knight]]s with level 90 and [[skills]] around 90/90 can kill these, but hunting them would be a waste.\n\n[[Sorcerers]] and [[Druids]] can kill them easily with their [[Wand]]/[[Rod]] and [[Energy Strike]] or [[Terra Strike]]. Be careful not to be surrounded as they have very high physical burst and 2 of them in melee range can easily kill a mage from full HP.\nIf you have to face many at at time, try to hit all of them with [[Terra Wave]]/[[Energy Wave]]. If you don't have have room to run, energy/poison bombs and walls can be used to protect yourself from hordes.\nSince they have relatively low HP, a [[Energy Wave|Energy]]/[[Terra Wave]] followed by [[Rage of the Skies]]/[[Wrath of Nature]] is usually enough to kill them in a pinch."
+}

@@ -1,0 +1,160 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%",
+    "notes": "Omrafir heals continuously. These heals are strengthened when he steps on a fire field as well as when he takes any fire damage ex:Great  fireball,flame strike,fireball rune, saying \"{{Sound|Omrafir gains new strength from the fire}}\". Omrafir casts a very strong fire beam a few seconds after saying \"{{Sound|OMRAFIR INHALES DEEPLY!}}\". When Omrafir drops to about 50% of health, the server will continuously check whether [[Flame of Omrafir]] have been killed or not. If any flames have been killed, Omrafir will despawn and 9 [[Hellfire Fighter]]s will appear all over the room. Once all Hellfire Fighters have been killed Omrafir respawns in the center of the room. However, this scenario will '''not''' happen more than '''three times'''. Omrafir uses the new [[Reward Chest|reward system]].",
+    "walksthrough": "Energy, Fire, Poison",
+    "hp": "322000",
+    "speed": "?",
+    "abilities": "{{Ability List| {{Melee|0-8000+?}}|{{Ability|[[Beam]]|0-12000+?|element=?}}|{{Healing}}|{{Summon|Flame of Omrafir|4}}|and more}}",
+    "pushobjects": "yes",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "0%",
+    "holyDmgMod": "50%",
+    "sounds": [
+        "FIRST I'LL OBLITERATE YOU THEN I BURN THIS PRISON DOWN!!",
+        "I'M TOO HOT FOR YOU TO HANDLE!",
+        "FREEDOM FOR THE PRINCES!",
+        "OMRAFIR INHALES DEEPLY!",
+        "OMRAFIR BREATHES INFERNAL FIRE",
+        "THE POWER OF HIS INTERNAL FIRE RENEWS OMRAFIR!",
+        "I WILL RULE WHEN THE NEW ORDER IS ESTABLISHED!",
+        "INFERNATIL! COME HERE AND FIGHT ME YOU COWARD!"
+    ],
+    "maxdmg": "?",
+    "pushable": "no",
+    "runsat": "0",
+    "implemented": "10.30",
+    "loot": [
+        {
+            "amount": "0-100",
+            "itemName": "Gold Coin"
+        },
+        {
+            "amount": "0-20",
+            "itemName": "Platinum Coin"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "Dream Matter"
+        },
+        {
+            "amount": "0-3",
+            "itemName": "Unrealized Dream"
+        },
+        {
+            "itemName": "Demonic Essence"
+        },
+        {
+            "amount": "0-5",
+            "itemName": "Blue Crystal Shard"
+        },
+        {
+            "amount": "0-3",
+            "itemName": "Cyan Crystal Fragment"
+        },
+        {
+            "amount": "0-3",
+            "itemName": "Red Crystal Fragment"
+        },
+        {
+            "itemName": "Giant Shimmering Pearl"
+        },
+        {
+            "amount": "0-8",
+            "itemName": "Great Spirit Potion"
+        },
+        {
+            "amount": "0-3",
+            "itemName": "Green Crystal Fragment"
+        },
+        {
+            "amount": "0-5",
+            "itemName": "Violet Crystal Shard"
+        },
+        {
+            "amount": "0-8",
+            "itemName": "Ultimate Health Potion"
+        },
+        {
+            "amount": "0-4",
+            "itemName": "Cluster of Solace"
+        },
+        {
+            "itemName": "Demon Horn"
+        },
+        {
+            "itemName": "Green Gem"
+        },
+        {
+            "itemName": "Lightning Boots"
+        },
+        {
+            "amount": "0-8",
+            "itemName": "Great Mana Potion"
+        },
+        {
+            "itemName": "Demonic Tapestry"
+        },
+        {
+            "itemName": "Ring of Healing"
+        },
+        {
+            "itemName": "Dream Warden Mask"
+        },
+        {
+            "itemName": "Nightmare Horn"
+        },
+        {
+            "itemName": "Eye Pod"
+        },
+        {
+            "itemName": "Lightning Robe"
+        },
+        {
+            "itemName": "Noble Axe"
+        },
+        {
+            "itemName": "Steel Boots"
+        },
+        {
+            "itemName": "Skull Helmet"
+        },
+        {
+            "amount": "0-5",
+            "itemName": "Green Crystal Shard"
+        },
+        {
+            "itemName": "Nightmare Hook"
+        },
+        {
+            "itemName": "Crystalline Armor"
+        },
+        {
+            "itemName": "Psychedelic Tapestry"
+        }
+    ],
+    "walksaround": "None.",
+    "exp": "?",
+    "creatureclass": "Demons",
+    "earthDmgMod": "50%",
+    "physicalDmgMod": "50%",
+    "bosstiaryclass": "Nemesis",
+    "primarytype": "Dreamhaunters",
+    "race_id": "1011",
+    "history": "Since update {{Update|10.39}} Omrafir can be slain, as intended. Previously he would vanish from his arena when he drops to 25% health.",
+    "senseinvis": "yes",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%",
+    "convince": "--",
+    "name": "Omrafir",
+    "isboss": "yes",
+    "behaviour": "Omrafir chases his target and fights in close combat. He seems to attack his targets persistently, moving diagonally through summons that obstruct him. He summons [[Flame of Omrafir|Flames of Omrafir]] immediately when others are slain.",
+    "location": "[[Roshamuul Prison]] ({{Mapper Coords|131.55|126.124|12|8|text=here}}).",
+    "iceDmgMod": "50%",
+    "strategy": "There are two ways of succeeding in the killing of Omrafir.<br>First of all you have to trap Omrafir in a corner using [[Wild Growth Rune]]s or [[Magic Wall Rune]]s and make sure you do not stand in the range of his strong fire beam as it has been confirmed to hit a high level mage for close to 13k dmg with mana shield. Then you can choose between these two ways of killing:<br>'''Short:''' Once he is trapped kill him using single-target attacks such as [[Ice Strike]], [[Icicle Rune]]s or [[Sudden Death Rune]]s and make sure you <u>do not</u> kill a single flame. If you managed not to kill a single flame he will fight until death without exploding.<br>\n'''Long:''' Once he is trapped attack him using the spells and runes you would like. This time you do not have to pay attention to his flames. Keep attacking him until he exploded a total of <u>three times</u> and then kill him as he will not explode a fourth time no matter if you kill his flames again or not.<br><br>\n'''NOTE:''' Apparently he always explodes in the last hit (one time at least).",
+    "energyDmgMod": "50%",
+    "deathDmgMod": "50%"
+}

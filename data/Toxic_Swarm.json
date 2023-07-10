@@ -1,0 +1,30 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "toxic swarms",
+    "hpDrainDmgMod": "100%?",
+    "abilities": "{{Ability List|}}",
+    "fireDmgMod": "100%?",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        ""
+    ],
+    "implemented": "12.70.10953",
+    "loot": [],
+    "exp": "0",
+    "creatureclass": "Invertebrates",
+    "earthDmgMod": "100%?",
+    "physicalDmgMod": "100%?",
+    "primarytype": "Insects",
+    "article": "a",
+    "actualname": "toxic swarm",
+    "illusionable": "no",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Toxic Swarm",
+    "isboss": "no",
+    "location": "[[Antrum of the Fallen]], at the [[Too_Hot_to_Handle_Quest#Monster Killing|Too Hot to Handle]] Monster Killing mission.",
+    "iceDmgMod": "100%?",
+    "energyDmgMod": "100%?",
+    "deathDmgMod": "100%?"
+}

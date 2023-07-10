@@ -1,0 +1,94 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "New creature in the [[Winter Update 2007]]. They are often found with other Dark Magicians, [[Dark Apprentice]]s and [[Mad Scientist]]s. They seem to be a parody of high [[level]] [[Sorcerers]].",
+    "walksthrough": "None",
+    "hp": "325",
+    "abilities": "{{Ability List\n |{{Melee|0-30}}\n |{{Ability|Energy Missile|20-30|energy\n  |scene={{Scene|spell=4sqmstrike|caster=Dark Magician|effect=Blue Electricity Effect|missile=Energy Missile|missile_direction=south-east|missile_distance=4/4}}}}\n |{{Ability|Fire Missile|5-40|fire\n  |scene={{Scene|spell=4sqmstrike|caster=Dark Magician|effect=Flame Effect|damage_effect=Fire Effect|missile=Fire Missile|missile_direction=south-east|missile_distance=4/4}}}}\n |{{Haste\n  |scene={{Scene|spell=buffspell|effect=Green Sparkles Effect|caster=Dark Magician|look_direction=south|effect_on_caster=yes}}}}\n |{{Ability|Invisibility||invisible}}\n |{{Healing|range=21-25\n  |scene={{Scene|spell=buffspell|effect=Blue Sparkles Effect|caster=Dark Magician|look_direction=south|effect_on_caster=yes}}}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "holyDmgMod": "80%",
+    "maxdmg": "{{Max Damage|physical=30|energy=30|fire=40}}",
+    "pushable": "no",
+    "implemented": "8.10",
+    "loot": [
+        {
+            "amount": "1-55",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Blank Rune",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Health Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Mana Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Strong Health Potion",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Strong Mana Potion",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Small Enchanted Amethyst",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Necrotic Rod",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Reins",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Fire, Energy, Poison",
+    "exp": "185",
+    "mitigation": "0.64",
+    "attacktype": "Distance",
+    "article": "a",
+    "actualname": "dark magician",
+    "illusionable": "no",
+    "armor": "15",
+    "convince": "--",
+    "name": "Dark Magician",
+    "isboss": "no",
+    "iceDmgMod": "90%",
+    "energyDmgMod": "80%",
+    "deathDmgMod": "105%",
+    "plural": "dark magicians",
+    "hpDrainDmgMod": "100%",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "The road of sorcery has led many to great wisdom and power. Others have left the way that the magician orders have aspired. Fallen victim to the misuse of their magical powers for personal and selfish goals, those magicians have turned their backs on their fellow sorcerers and tread forbidden paths to acquire more and more power. Some magicians are pursuers of the dark arts of sorcery right from the beginning of their career, others became Dark Magicians by looking for revenge or sometimes only survival after being cast out by the magic orders. Still, knowing that they are magically gifted and thus feeling superior to humanity and ordinary mortals, the Dark Magicians carve their own niches in existence. They can be found in hidden caves as well as in ruins or remote hideouts. Although usually loners, they sometimes have minions to help them with their evil schemes or serve themselves under the rule of a more powerful being. In the service of some scrupulous leader or for their own good, they pursue sinister researches and projects. In their aspiration for power, they often meet their death by the hands of more skilled adventurers. Only a few of the Dark Magicians have what it takes to endure the long road to become a necromancer or a warlock after years of studying and gathering power.",
+    "speed": "90",
+    "pushobjects": "yes",
+    "fireDmgMod": "90%",
+    "sounds": [
+        "Feel the power of my runes!",
+        "Killing you gets expensive.",
+        "My secrets are mine alone!",
+        "Stand still!"
+    ],
+    "bestiaryclass": "Human",
+    "creatureclass": "Humans",
+    "earthDmgMod": "80%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Sorcerers",
+    "race_id": "371",
+    "bestiarylevel": "Easy",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "darkmagician",
+    "behaviour": "Will try to keep a distance from opponents while using a variety of spells.",
+    "location": "[[Hero Cave]] ([[Edron]]), [[Magician Tower]], [[Dark Cathedral]] and Yalahar Academy of Magic in [[Magician Quarter]] and a single one on [[The Witches' Cliff]] (only accessible during a [[The Inquisition Quest|quest]]).",
+    "strategy": "Kill them fast to reduce the damage done to you."
+}

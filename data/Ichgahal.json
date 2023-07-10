@@ -1,0 +1,46 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "One of the bosses in the [[Rotten Blood Quest]].",
+    "hp": "?",
+    "abilities": "{{Ability List}}",
+    "pushobjects": "yes",
+    "healMod": "100%",
+    "paraimmune": "?",
+    "fireDmgMod": "100%?",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        "Rott!",
+        "Putrefy!",
+        "Decay!"
+    ],
+    "maxdmg": "0",
+    "pushable": "no",
+    "cooldown": "20",
+    "implemented": "13.20",
+    "loot": [
+        {
+            "itemName": "Bag You Covet"
+        },
+        {
+            "itemName": "The Essence of Ichgahal"
+        }
+    ],
+    "exp": "?",
+    "earthDmgMod": "100%?",
+    "physicalDmgMod": "100%?",
+    "bosstiaryclass": "Archfoe",
+    "race_id": "2364",
+    "senseinvis": "yes",
+    "illusionable": "no",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Ichgahal",
+    "isboss": "yes",
+    "location": "[[Putrefactory]].",
+    "iceDmgMod": "100%?",
+    "strategy": "{{#lsth:Rotten Blood Quest/Spoiler|Ichgahal}}",
+    "energyDmgMod": "100%?",
+    "deathDmgMod": "100%?"
+}

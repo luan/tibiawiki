@@ -1,0 +1,120 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "Most common kind of Pirate crew you can find on [[Nargor]] island. With somewhat stronger attack and weaker defense, Marauders can fall in the same category as [[Cyclop]]s.",
+    "walksthrough": "None",
+    "hp": "210",
+    "abilities": "{{Ability List\n |{{Melee|0-140}}\n |{{Ability|Throws [[Spear]]s|0-40|element=physical\n  |scene={{Scene|spell=5sqmstrike|background=canvas|caster=Pirate Marauder|look_direction=south|missile=Spear Missile|missile_direction=south-east|missile_distance=5/5}}}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "holyDmgMod": "80%",
+    "maxdmg": "{{Max Damage|physical=180}}",
+    "pushable": "no",
+    "usedelements": "Physical",
+    "implemented": "7.8",
+    "loot": [
+        {
+            "amount": "0-40",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Torch",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Compass",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "Spear",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Plate Shield",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Chain Armor",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Treasure Map (Pirate)",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Bandana",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Eye Patch",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Hook",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Peg Leg",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Pirate Bag",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Rum Flask",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Die",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Empty Goldfish Bowl",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Fire, Energy, Poison",
+    "exp": "125",
+    "mitigation": "0.56",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "pirate marauder",
+    "illusionable": "yes",
+    "armor": "8",
+    "convince": "490",
+    "name": "Pirate Marauder",
+    "isboss": "no",
+    "iceDmgMod": "100%",
+    "energyDmgMod": "103%",
+    "deathDmgMod": "105%",
+    "plural": "pirate marauders",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "no",
+    "occurrence": "Common",
+    "bestiarytext": "Coming from the lowest classes of society, it is easy to recruit those low-life guises into the pirates crews. Often already criminals before their career as a pirate, it is no big step for most of them to live a pirate's life. Lured by tales about freedom and treasuries, they become quickly disillusioned when facing reality.<br />No better than a common bandit on land, Pirate Marauders care little for the health or the lives of others. Due to their living conditions they have turned into bitter and angry people who try to strike back at life by tormenting and suppressing others whenever possible. As weapons they use everything that they can purloin and loot and serves the purpose.Their agility makes up for their lack of armor. Fairly weak and cowardly, it is rather their number than their skill that might pose a threat.",
+    "speed": "105",
+    "pushobjects": "yes",
+    "fireDmgMod": "110%",
+    "sounds": [
+        "Plundeeeeer!",
+        "Hiyaa!",
+        "Give up!"
+    ],
+    "runsat": "20",
+    "bestiaryclass": "Human",
+    "creatureclass": "Humans",
+    "earthDmgMod": "90%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Pirates",
+    "race_id": "247",
+    "bestiarylevel": "Easy",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "piratemarauder",
+    "behaviour": "As [[melee]] combatants they chase their opponents, but run in low [[health]](at 20 HP). They will always attack the weakest [[Player]] they see and will switch back quickly even if [[Challenge]]d by an [[Elite Knight]].",
+    "location": "[[Nargor]], [[Tyrsung]], [[Yalahar]], [[Krailos Steppe]], [[The Cave]].",
+    "strategy": "They rarely use their weak distance attack so [[Paladin]]s can kill them easily from afar. Also, [[Knight]]s and [[Mage]]s shouldn't have much difficulty except to watch out for being drawn into larger groups (especially by stronger pirates that often wait in the second row) and surrounded."
+}

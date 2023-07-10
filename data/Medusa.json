@@ -1,0 +1,118 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "'''Medusa''' is a mythological creature who could transform people, who looked directly into her eyes, into a statue. (''See also'': [[Wikipedia:Medusa|Medusa in Wikipedia]]).\n\n{{JSpoiler|You may hunt 500 of these as a task of the [[Killing in the Name of... Quest]]. Upon completion of the task you will face [[Gorgo]].}}",
+    "walksthrough": "Poison",
+    "hp": "4500",
+    "abilities": "{{Ability List|{{Melee|0-250|poison=42}}|{{Ability|1 to 5 [[Life Drain]] [[Terra Strike]]s simultaneously|75-150|element=lifedrain}}|{{Ability|[[Terra Wave]]|250-500|element=earth}}|{{Ability|Great Smoke Bomb|[[Paralysis]]|element=paralyze}}|{{Ability|Frequent [[Self-Healing]]|150-300|element=healing}}|{{Ability|Medusa's Gaze|changes your appearance into a stone statue|element=shapeshifting}} }}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "holyDmgMod": "100%",
+    "maxdmg": "{{Max Damage|physical=250|earth=542|lifedrain=750}}",
+    "pushable": "no",
+    "implemented": "8.50",
+    "loot": [
+        {
+            "amount": "1-190",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-6",
+            "itemName": "Platinum Coin",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Great Mana Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Strand of Medusa Hair",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Ultimate Health Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Terra Amulet",
+            "rarity": "semi-rare"
+        },
+        {
+            "amount": "1-4",
+            "itemName": "Small Emerald",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Medusa Shield",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Knight Armor",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Titan Axe",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Terra Mantle",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Sacred Tree Amulet",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Terra Legs",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Slightly Rusted Armor",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Fire, Energy",
+    "exp": "4050",
+    "mitigation": "1.74",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "medusa",
+    "illusionable": "no",
+    "armor": "45",
+    "convince": "--",
+    "name": "Medusa",
+    "isboss": "no",
+    "iceDmgMod": "80%",
+    "energyDmgMod": "110%",
+    "deathDmgMod": "100%",
+    "plural": "medusae",
+    "hpDrainDmgMod": "0%",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "Although Medusae are relatively rare, even the earliest Tibian historians have mentioned them in their writings. There has been much speculation as to what exactly Medusae actually are and several theories were propagated. Legends have recounted stories of ancient priestesses punished in horrible ways for their vanity, creatures created as a result of forbidden rituals and some even have it that Medusae are the offspring of mankind and demons. While none of these stories is actually true, they do reflect the fact that Medusae are not regarded as a natural phenomenon, in fact, that their very existence is the result of a perversion of nature. This aspect of these stories does in fact reflect reality.<br />Recent research conducted with the help of daring adventurers has shed a great deal of light upon the origin of Medusae. It has been discovered that they are in fact elemental creatures of earth. They are, or, more accurately, were spirits of nature and earth, probably closely related to dryads. Such spirits are known to be bound to specific places. Their appearance and nature is a reflection of the place they are bound to. While this is their strength it is also their vulnerability, as, if their home should become corrupted, the nature of the spirits bound to it becomes corrupted also. This is often a traumatic event for the unfortunate spirit, and if it does not result in the spirit's death, it is likely to drive it to madness. In the process of this change, the spirit is torn free of its link to its homeland, and is released to roam the land, spreading chaos and destruction in its wake. A tragic fate with tragic consequences.<br /><br />The myth of the Medusa's hideousness is greatly exaggerated - in fact it is the corruption and madness that ravages the former beauty of these creatures that creates the impression of ugliness. It is certainly not the mere sight of these beings that turns living beings into stone. Medusae are capable of petrifying their victims because they are magical beings, imbued with elemental powers which are a remnant from their previous lives, now sadly corrupted like the rest of their being. Driven by their madness and an unbearable sense of loss, they cannot bear to see beauty and attempt to destroy and corrupt what was once sacred to them to alleviate the pain they are suffering. This mentality makes them the natural consorts of demons and all things evil.<br />Sometimes demons purposely desecrate holy sites of nature to force the creation of Medusae but that process more often then not just leads to the demise of the earth spirits. Medusae themselves are much more proficient in corrupting such places while corrupting the bound spirit as well in the process. So sometimes small covens of Medusae are formed and some of them have even managed to carve themselves a niche in the demonic hierarchy.",
+    "speed": "125",
+    "pushobjects": "Yes",
+    "fireDmgMod": "110%",
+    "sounds": [
+        "You will make sssuch a fine ssstatue!",
+        "There isss no chhhanccce of essscape",
+        "Are you tired or why are you moving thhat ssslow <chuckle>",
+        "Jussst look at me!"
+    ],
+    "bestiaryclass": "Magical",
+    "creatureclass": "Elementals",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Geo-Elementals",
+    "race_id": "570",
+    "bestiarylevel": "Hard",
+    "senseinvis": "yes",
+    "drownDmgMod": "0%",
+    "bestiaryname": "medusa",
+    "behaviour": "They chase you to hit you in melee range. Retargets very often. Runs away at low health (around 600).  They sometimes deal deadly combos almost as dangerous as a demon. They have the ability to kill a level 80 knight with one strong combo. Soloing below 150 is possible but not recommended as they usually appear with many other '''Medusae''', [[Hydra]]s and [[Serpent Spawn]]s.",
+    "location": "[[Vandura Mountain]] (single spawn), [[Talahu]] ([[Medusa Cave]]), [[Deeper Banuta]], [[Medusa Tower]]",
+    "strategy": "For all vocations: If you are soloing, heal after every hit because they can paralyze up to 5 times in 5 seconds. If you get paralyzed; be careful moving diagonally because it might delay your healing-spells and potions.\n'''[[Druids]] and [[Sorcerers]]''' can solo these on [[HP]] above level 150 as long as they stay diagonal, away from the terra wave. Depending on where you are, be careful of running into multiple  monsters, such as in Deeper [[Banuta]], where it's very easy to run into [[Serpent Spawn]]s, [[Hydra]]s, and [[Bone Beast]]s. [[Druids]] should use [[Energy Strike]] or [[Sudden Death]]. [[Sorcerers]] should use a [[Wand of Defiance]] and [[Energy Strike]] if you're trying to be conservative.  If not, it is recommended to kill them quickly with [[Energy Wave]] or [[Great Energy Beam]], with a blocker.\n\n'''[[Knights]]''' At level 150+ can solo '''Medusae''' if they are careful. The best strategy is to always remain diagonal to them, and to combine your melee with [[Brutal Strike]], [[Whirlwind Throw]] and [[Berserk]] while spamming [[Wound Cleansing]] and [[Mana Potion]]s. Heal with an [[Ultimate Health Potion]] if you get too low. When they run in red hp, you can finish them with an [[Annihilation]]. If they start fleeing, it is best to use [[Whirlwind Throw]] or [[Groundshaker]] and to try to get them to run in a direction opposite to where other monsters are, since they usually spawn close to [[Serpent Spawn]]s and [[Hydra]]s. At level 190+ a knight with skills 90+/90+ should be able to solo these while only using [[Wound Cleansing]] and staying diagonal. Hunting medusa will often be with a very little waste as they tend to drop a lot of sellable items.\nIf you are blocking Medusae in a team, keep your fingers ready to cast [[Challenge]] because they retarget '''very''' often.\n\n'''[[Paladins]]''' should kill them as quickly as possible. However you can, and it's recommended that you use a blocker, since running them is dangerous in places like [[Banuta]], and difficult since they [[paralyze]] often.\nYou can also utilize [[Fire Wall Rune]]s to keep a distance between you and the creature."
+}

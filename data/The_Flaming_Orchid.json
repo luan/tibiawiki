@@ -1,0 +1,127 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "She is the boss of the [[Asuri]].{{JSpoiler|You will only be able to reach her after completing the [[Asura Palace Quest]].}}",
+    "walksthrough": "Energy, Poison, Fire",
+    "hp": "4000",
+    "usespells": "yes",
+    "speed": "?",
+    "abilities": "{{Ability List\n |{{Melee|229-411}}\n |{{Ability|Mana Drain Spark Beam|291-381|element=mana drain\n  |scene={{Scene|spell=6sqmbeam|caster=The Flaming Orchid|look_direction=east|effect=Sparks Effect|damage_effect=Red Sparkles Effect}}}}\n |{{Ability|Fire Missile|200-264|element=fire\n  |scene={{Scene|spell=5sqmstrike|caster=The Flaming Orchid|look_direction=south|effect=Fire Effect|missile=Fire Missile|missile_direction=south-east|missile_distance=5/5}}}}\n |{{Ability|Death Area on victim|304-495|element=death\n  |scene={{Scene|spell=4sqmballtarget|caster=The Flaming Orchid|effect=Death Effect|damage_effect=Cloud Effect|missile=Death Missile|missile_direction=south-east|missile_distance=4/4}}}}\n |{{Ability|Burning Fire Area|element=burning\n  |scene={{Scene|spell=3sqmballtarget|caster=The Flaming Orchid|effect=Fire Effect|missile=Flaming Arrow Missile|missile_direction=south-east|missile_distance=3/3}}}}\n |{{Ability|Death Missile Spark|Unknown maybe soulfire|element=?\n  |scene={{Scene|spell=5sqmstrike|caster=The Flaming Orchid|effect=Sparks Effect|missile=Death Missile (Large)|missile_direction=south-east|missile_distance=5/5}}}}\n |{{Debuff2|melee=yes|shielding=yes|value=30-37%|duration=8\n  |scene={{Scene|spell=5sqmstrike|caster=The Flaming Orchid|effect=Red Sparkles Effect|missile=Death Missile|missile_direction=south-east|missile_distance=5/5}}}}\n |{{Ability|Paralyzing Black Cloud|Reduces 340 Speed Points|element=paralyze\n  |scene={{Scene|spell=2sqmballself|caster=The Flaming Orchid|effect=Black Smoke Effect|effect_on_caster=yes}}}}\n |{{Ability|Invisible|3 secs~|element=invisible\n  |scene={{Scene|spell=buffspell|effect=Teleport Effect|caster=The Flaming Orchid|effect_on_caster=yes}}}}\n |{{Healing|range=286-318\n  |scene={{Scene|spell=buffspell|effect=Blue Sparkles Effect|caster=The Flaming Orchid|effect_on_caster=yes}}}}\n}}",
+    "pushobjects": "yes",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "0%",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        "I will end your torment. Do not run, little mortal.",
+        "*SNIFF* *SNIFF* BLOOD! I CAN SMELL YOU, MORTAL!"
+    ],
+    "maxdmg": "800~?",
+    "pushable": "no",
+    "runsat": "50",
+    "cooldown": "20",
+    "implemented": "10.80",
+    "loot": [
+        {
+            "amount": "1-238?",
+            "itemName": "Gold Coin"
+        },
+        {
+            "amount": "1-7 ",
+            "itemName": "Platinum Coin"
+        },
+        {
+            "itemName": "Golden Lotus Brooch"
+        },
+        {
+            "itemName": "Peacock Feather Fan"
+        },
+        {
+            "amount": "1-2?",
+            "itemName": "Great Spirit Potion"
+        },
+        {
+            "itemName": "Oriental Shoes"
+        },
+        {
+            "itemName": "Underworld Rod"
+        },
+        {
+            "itemName": "Flask of Demonic Blood"
+        },
+        {
+            "itemName": "Assassin Star"
+        },
+        {
+            "itemName": "Small Amethyst"
+        },
+        {
+            "itemName": "Red Gem"
+        },
+        {
+            "itemName": "Gold Ingot"
+        },
+        {
+            "itemName": "Great Mana Potion"
+        },
+        {
+            "itemName": "Soul Orb"
+        },
+        {
+            "itemName": "Moonlight Rod"
+        },
+        {
+            "itemName": "Death Ring"
+        },
+        {
+            "itemName": "Ultimate Health Potion"
+        },
+        {
+            "itemName": "Demonic Essence"
+        },
+        {
+            "itemName": "Crystal Ring"
+        },
+        {
+            "itemName": "Green Gem"
+        },
+        {
+            "itemName": "Necrotic Rod"
+        },
+        {
+            "itemName": "Assassin Dagger"
+        },
+        {
+            "itemName": "Flamingo Feather"
+        },
+        {
+            "itemName": "Violet Gem"
+        }
+    ],
+    "walksaround": "None",
+    "exp": "8500",
+    "creatureclass": "Demons",
+    "earthDmgMod": "100%",
+    "physicalDmgMod": "100%?",
+    "bosstiaryclass": "Archfoe",
+    "primarytype": "Asuri",
+    "spawntype": [
+        "Triggered"
+    ],
+    "attacktype": "Melee",
+    "race_id": "1136",
+    "senseinvis": "no",
+    "actualname": "The Flaming Orchid",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "The Flaming Orchid",
+    "isboss": "yes",
+    "location": "[[Asura Palace]], after the [[Sealed Door]] on the top floor.",
+    "iceDmgMod": "110%",
+    "strategy": "Unknown.",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "70%"
+}

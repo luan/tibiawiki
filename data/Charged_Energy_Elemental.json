@@ -1,0 +1,57 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "charged energy elementals",
+    "hpDrainDmgMod": "100%?",
+    "notes": "They are found in a [[knight]]-only accessible area (accessed from the [[Ivory Towers]] in [[Edron]]), after the [[Updates/8.5|Summer Update 2009]] they are weak to [[Physical Damage]].\n<gallery mode=\"nolines\">\nFile:Energy sphere1.jpg|Ops, too much lured...\n</gallery>",
+    "walksthrough": "?",
+    "hp": "500",
+    "speed": "?",
+    "abilities": "{{Ability List| {{Melee|0-100}}|{{Ability|Energy Missile|100-250|element=energy}}|{{Ability|[[Electrified|Electrifies you]]|25 damage per 4 turns|element=electrified}} }}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "0%",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "{{Max Damage|physical=100|energy=275}}",
+    "pushable": "?",
+    "implemented": "8.20",
+    "loot": [
+        {
+            "amount": "0-128",
+            "itemName": "Gold Coin"
+        },
+        {
+            "itemName": "Energy Soil"
+        },
+        {
+            "amount": "0-3",
+            "itemName": "Flash Arrow"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "450",
+    "creatureclass": "Elementals",
+    "earthDmgMod": "100%?",
+    "physicalDmgMod": "105%",
+    "primarytype": "Electro-Elementals",
+    "race_id": "467",
+    "senseinvis": "?",
+    "article": "a",
+    "actualname": "charged energy elemental",
+    "illusionable": "yes",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "?",
+    "name": "Charged Energy Elemental",
+    "isboss": "no",
+    "behaviour": "Fights until death.",
+    "location": "[[Energy Sphere]]",
+    "iceDmgMod": "0%",
+    "strategy": "A knight of level 80 or higher should have no problem killing them. When they come in a larger pack of creatures you could use [[Whirlwind Throw]] to speed up killing and [[Berserk]] or [[Fierce Berserk]] when more elementals are lured. Remember to bring [[food]], because they don't drop any food.",
+    "energyDmgMod": "0%",
+    "deathDmgMod": "100%?"
+}

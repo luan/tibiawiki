@@ -1,0 +1,55 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "Similar to a [[Clomp]].",
+    "walksthrough": "?",
+    "hp": "900",
+    "speed": "0",
+    "abilities": "{{Ability List\n |{{Melee|0-250}}\n}}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "100%?",
+    "holyDmgMod": "100%?",
+    "sounds": [],
+    "maxdmg": "{{Max Damage|physical=250}}",
+    "pushable": "?",
+    "usedelements": "Physical",
+    "implemented": "11.40.5409",
+    "loot": [
+        {
+            "itemName": "Raw Meat"
+        },
+        {
+            "itemName": "Thick Fur"
+        },
+        {
+            "itemName": "Hardened Bone"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "475",
+    "creatureclass": "Mammals",
+    "earthDmgMod": "100%?",
+    "physicalDmgMod": "100%?",
+    "primarytype": "Ungulates",
+    "spawntype": [
+        "Regular"
+    ],
+    "senseinvis": "yes",
+    "article": "an",
+    "actualname": "animated clomp",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Animated Clomp",
+    "isboss": "no",
+    "behaviour": "Unknown",
+    "location": "[[Museum of Tibian Arts]]",
+    "iceDmgMod": "100%?",
+    "strategy": "Unknown",
+    "energyDmgMod": "100%?",
+    "deathDmgMod": "100%?"
+}

@@ -1,0 +1,120 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "It's a leader of the [[Werewolf|Werewolves]].\n{{JSpoiler|Part of the {{Spoiler Section|Grimvale Quest|The Curse Spreads}}}}",
+    "walksthrough": "?",
+    "hp": "4800",
+    "speed": "?",
+    "abilities": "{{Ability List| {{Melee|0-300?}}|{{Summon|Gloom Wolf|2}}|{{Ability|Musical Notes Waves|0-200+|element=?}} }}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "yes",
+    "secondarytype": "Ungulates",
+    "fireDmgMod": "105%",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        "You are my next meal! Grrr!"
+    ],
+    "maxdmg": "600+ (without summons), 800+ (with summons)",
+    "pushable": "?",
+    "implemented": "11.50.6055",
+    "cooldown": "20",
+    "loot": [
+        {
+            "amount": "0-2",
+            "itemName": "Berserk Potion"
+        },
+        {
+            "amount": "0-5",
+            "itemName": "Black Pearl"
+        },
+        {
+            "amount": "0-117",
+            "itemName": "Gold Coin"
+        },
+        {
+            "amount": "0-3",
+            "itemName": "Onyx Chip"
+        },
+        {
+            "amount": "0-9",
+            "itemName": "Platinum Coin"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "Small Enchanted Sapphire"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "Ultimate Health Potion"
+        },
+        {
+            "itemName": "Werewolf Fur"
+        },
+        {
+            "itemName": "Werewolf Fangs"
+        },
+        {
+            "itemName": "Wolf Paw"
+        },
+        {
+            "itemName": "Stone Skin Amulet"
+        },
+        {
+            "itemName": "Troll Green"
+        },
+        {
+            "itemName": "Dreaded Cleaver"
+        },
+        {
+            "itemName": "Wolf Trophy"
+        },
+        {
+            "itemName": "Bonebreaker"
+        },
+        {
+            "itemName": "Wolf Backpack"
+        },
+        {
+            "itemName": "Silver Token"
+        },
+        {
+            "itemName": "Sai"
+        },
+        {
+            "itemName": "Moonlight Crystals"
+        },
+        {
+            "itemName": "Platinum Amulet"
+        },
+        {
+            "itemName": "Werewolf Amulet"
+        },
+        {
+            "itemName": "Time Ring"
+        }
+    ],
+    "walksaround": "Fire, Energy, Poison",
+    "exp": "4000",
+    "creatureclass": "Humans",
+    "earthDmgMod": "30%?",
+    "physicalDmgMod": "100%?",
+    "bosstiaryclass": "Archfoe",
+    "primarytype": "Lycanthropes",
+    "race_id": "1558",
+    "senseinvis": "yes",
+    "actualname": "Darkfang",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Darkfang",
+    "isboss": "yes",
+    "behaviour": "Fights in close combat.",
+    "location": "After a teleport inside [[Edron]]'s were-beasts cave.",
+    "iceDmgMod": "90%",
+    "strategy": "Treat it like a stronger [[Werewolf]].",
+    "energyDmgMod": "80%",
+    "deathDmgMod": "30%?"
+}

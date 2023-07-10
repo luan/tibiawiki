@@ -1,0 +1,102 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "Misguided Thieves wear the [[Store]] exclusive [[Ranger Outfits]].",
+    "walksthrough": "?",
+    "hp": "1800",
+    "abilities": "{{Ability List| {{Melee|0-200}}|{{Ability|[[Fireball]]|100-200|element=fire}}|{{Ability|4 sqm radius Mass [[Mana Drain]] around himself|20-50|element=manadrain}}|{{Healing|range=300-360}} }}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "holyDmgMod": "130%",
+    "maxdmg": "500",
+    "pushable": "no",
+    "implemented": "11.40.5409",
+    "loot": [
+        {
+            "amount": "0-80",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Ham",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Meat",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Strong Mana Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Rubbish Amulet",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Red Gem",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Yellow Gem",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Strong Health Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Blue Crystal Splinter",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Gold Ring",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Stone Skin Amulet",
+            "rarity": "rare"
+        }
+    ],
+    "walksaround": "Fire",
+    "exp": "1200",
+    "mitigation": "1.32",
+    "attacktype": "Melee",
+    "history": "On [[Updates/12.86.11669|March 01, 2022]] this creature's classification was changed from Human to Humanoid.",
+    "article": "a",
+    "actualname": "misguided thief",
+    "illusionable": "no",
+    "armor": "25",
+    "convince": "--",
+    "name": "Misguided Thief",
+    "isboss": "no",
+    "iceDmgMod": "90%",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "100%",
+    "plural": "misguided thieves",
+    "hpDrainDmgMod": "100%",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "The Misguided are members of a cult, worshipping power above all. Bullies, thiefs and all sorts of cutthroats are attracted by it. The true motives of their leader are unknown but none of them is up to any good. Watch your back when dealing with these individuals, the truly deceived are not to be trifled with.",
+    "speed": "130",
+    "pushobjects": "?",
+    "fireDmgMod": "100%",
+    "sounds": [
+        "Let me show you your destiny!",
+        "I spotted you!",
+        "There is no escape now, friend."
+    ],
+    "bestiaryclass": "Humanoid",
+    "creatureclass": "Humans",
+    "earthDmgMod": "70%",
+    "physicalDmgMod": "80%",
+    "primarytype": "Outlaws",
+    "race_id": "1413",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%",
+    "bestiaryname": "misguidedranged",
+    "behaviour": "Fights in close combat until death.",
+    "location": "[[Misguided Camp]] accessible via [[Outlaw Camp]]'s portal {{Mapper Coords|127.125|126.10|7|4|text=here}}.",
+    "strategy": "Unknown"
+}

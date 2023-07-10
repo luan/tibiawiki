@@ -1,0 +1,150 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "The [[:File:Armadile and Crystal Crusher teaser.jpg|update teaser introducing]] the Armadile groups them with [[Crystalcrusher]]s. Although the two are likely related, they are not found in vicinity of each other.",
+    "isarenaboss": "no",
+    "walksthrough": "Poison",
+    "hp": "3800",
+    "abilities": "{{Ability List| {{Melee|?}}|{{Ability|[[Mana Drain]]|430-550|element=manadrain}}|{{Ability|[[Great Fireball]]|causes [[Drunkenness]]|element=drunk}}|{{Ability|[[Invisibility]]|element=invisible}} }}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "secondarytype": "Crocodilians",
+    "holyDmgMod": "85%",
+    "maxdmg": "100? (excluding mana drain)",
+    "pushable": "no",
+    "implemented": "9.60",
+    "loot": [
+        {
+            "amount": "3-198",
+            "itemName": "Gold Coin",
+            "rarity": "always"
+        },
+        {
+            "amount": "1-7",
+            "itemName": "Platinum Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Battle Stone",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Coal",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Crystalline Spikes",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-5",
+            "itemName": "Drill Bolt",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-10",
+            "itemName": "Envenomed Arrow",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Great Health Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Great Mana Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Green Crystal Fragment",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "Mana Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Strong Health Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Strong Mana Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Green Crystal Splinter",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Terra Boots",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Time Ring",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Titan Axe",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Tower Shield",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Bonebreaker",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Crystalline Armor",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Energy, Fire",
+    "exp": "2900",
+    "mitigation": "1.96",
+    "attacktype": "Distance",
+    "article": "an",
+    "actualname": "armadile",
+    "illusionable": "no",
+    "armor": "66",
+    "convince": "--",
+    "name": "Armadile",
+    "isboss": "no",
+    "iceDmgMod": "85%",
+    "energyDmgMod": "85%",
+    "deathDmgMod": "55%",
+    "plural": "armadiles",
+    "hpDrainDmgMod": "100%",
+    "usespells": "yes",
+    "occurrence": "Uncommon",
+    "bestiarytext": "The gnomes tell stories that the armadile once lived in deep enclosed caverns with other creatures in a form of harmony. Due to seismic activity their natural habitat was destroyed, but they managed to escape into an underground tunnel that had opened up. In the new environment they were able to escape their natural predators more easily and had less competition for nourishment. And so they prospered and became a plague for the depths of the earth, mainly invading gnomish holdings for their abundance of what the armadile consider food. As omnivores the armadile are a nuisance when encountered alone, but a threat when run into in greater numbers. Not only do they attack other creatures to devour them or destroy their food sources, their aimless digging and mineral eating often completely destroys the stability of caves and tunnels. Since there are no means to drive the Armadile out, the only solution is to exterminate them or to abandon areas with severe Armadile infestation. The main approach to identify natural competitors or threats to the Armadile have yet to meet with success. It is likely that whatever scares the Armadile off will probably be even worse itself.",
+    "speed": "220",
+    "pushobjects": "no",
+    "fireDmgMod": "80%",
+    "sounds": [
+        "Creak!"
+    ],
+    "bestiaryclass": "Magical",
+    "creatureclass": "Elementals",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "95%",
+    "primarytype": "Geo-Elementals",
+    "spawntype": [
+        "Regular"
+    ],
+    "race_id": "880",
+    "bestiarylevel": "Hard",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%",
+    "bestiaryname": "armadile",
+    "behaviour": "Armadiles will stand at a distance and shoot at their target.",
+    "location": "[[Warzone 1]].",
+    "strategy": "The Armadile is a nuisance at best. They do not cause much damage but they do drain a lot of [[mana]]. Although [[Fire Field|Fire]] and [[Energy Field]]s are effective at blocking them, it's not really worth doing so. Try to trap them so that they cannot run, or let them run and continue with your hunt/quest. If there is a group of monsters, kill the armadile last because he poses the least threat."
+}

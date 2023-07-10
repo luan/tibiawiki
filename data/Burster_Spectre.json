@@ -1,0 +1,139 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "walksthrough": "Energy, Poison",
+    "hp": "6500",
+    "abilities": "{{Ability List| {{Melee|0-400}}|{{Ability|[[Ice Wave]]|370|element=ice}}|{{Ability|[[Icicle]]|300-400|element=ice}}|{{Ability|[[Avalanche]]|300-400|element=ice}}|{{Ability|Blue Sparkles [[Life Drain]] Bomb on Itself|300-400|element=lifedrain}} }}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "holyDmgMod": "100%",
+    "maxdmg": "1800+",
+    "pushable": "no",
+    "implemented": "12.00.7695",
+    "loot": [
+        {
+            "amount": "1-7",
+            "itemName": "Platinum Coin",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "Great Spirit Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Protection Amulet",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Life Crystal",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Wand of Voodoo",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Wand of Cosmic Energy",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Dragon Necklace",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Stone Skin Amulet",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Blue Ectoplasm",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Glacier Amulet",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Orb",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Platinum Amulet",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Hailstorm Rod",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Hexagonal Ruby",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Glacial Rod",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Mind Stone",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Elven Amulet",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Garlic Necklace",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Shockwave Amulet",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Strange Symbol",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Fire",
+    "exp": "6000",
+    "mitigation": "2.11",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "burster spectre",
+    "illusionable": "no",
+    "armor": "70",
+    "convince": "--",
+    "name": "Burster Spectre",
+    "isboss": "no",
+    "iceDmgMod": "30%",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "100%",
+    "plural": "burster spectres",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "The Dire Spectres arrived as phantoms to this world. Born from dark fragments of lost souls, they are not bound to this plane, nor do they have a past. They long for a physical existence and their sole goal is to anchor themselves to our world. They are literally pure evil woven from bad spare parts of souls and feed on the life energy of any living creature. The most powerful dire spectres are the oldest. Those who clung to this plane for long enough, eventually gained adequate power to control and coordinate other spectres. Those are the most dangerous and resourceful and should be treated with the utmost care. Burster Spectres wield the most powerful magic among dire spectres. Their attacks are quick and devastating, often emanating in abrupt and hazardous bursts of raw energy.",
+    "speed": "200",
+    "pushobjects": "yes",
+    "fireDmgMod": "120%",
+    "sounds": [
+        "We came tooo thiiiiss wooorld to... get youuu!"
+    ],
+    "runsat": "0",
+    "bestiaryclass": "Undead",
+    "creatureclass": "The Undead",
+    "earthDmgMod": "100%",
+    "physicalDmgMod": "0%",
+    "primarytype": "Ghosts",
+    "spawntype": [
+        "Regular"
+    ],
+    "race_id": "1726",
+    "bestiarylevel": "Hard",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "bursterspectre",
+    "behaviour": "Fights in close combat and some times uses several spells at once.",
+    "location": "[[Haunted Tomb]] west of [[Darashia]], [[Buried Cathedral]]",
+    "strategy": "It may use all its spells in the same turn dealing a high combo that can hit even those not directly close to it. Avoid using [[Ice Damage]] at all costs since it will [[Damage Reflection|reflect]] it back to you 66% stronger."
+}

@@ -1,0 +1,118 @@
+{
+    "summon": "450",
+    "templateType": "Creature",
+    "notes": "These creatures are stronger than an [[amazon]] and have better loot. Note that all female [[characters]] can dress like a Valkyrie. On worlds where [[Player Killing]] is allowed, this could be a problem, because someone might attack you, thinking that you are a Valkyrie.",
+    "walksthrough": "None",
+    "hp": "190",
+    "abilities": "{{Ability List\n |{{Melee|0-70}}\n |{{Ability|Throws [[Spear]]s|0-50|element=physical\n  |scene={{Scene|spell=5sqmstrike|background=canvas|caster=Valkyrie|look_direction=south|missile=Spear Missile|missile_direction=south-east|missile_distance=5/5}}}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "holyDmgMod": "95%",
+    "maxdmg": "{{Max Damage|physical=120}}",
+    "pushable": "No",
+    "implemented": "7.1",
+    "loot": [
+        {
+            "amount": "0-12",
+            "itemName": "Gold Coin"
+        },
+        {
+            "itemName": "Meat"
+        },
+        {
+            "amount": "0-3",
+            "itemName": "Spear"
+        },
+        {
+            "itemName": "Chain Armor",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "Red Apple",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Girlish Hair Decoration",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Protection Amulet",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Hunting Spear",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Protective Charm",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Health Potion",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Plate Armor",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Skull (Item)",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Double Axe",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Small Diamond",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Fire, Energy, Poison",
+    "exp": "85",
+    "mitigation": "0.36",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "valkyrie",
+    "illusionable": "yes",
+    "armor": "12",
+    "convince": "450",
+    "name": "Valkyrie",
+    "isboss": "no",
+    "iceDmgMod": "90%",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "105%",
+    "plural": "valkyries",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "no",
+    "occurrence": "Common",
+    "bestiarytext": "Valkyries are the upper caste of the amazons, communities of martial women living in the swamps in the east of Tibia. They are even stronger in close combat and use their spears skilfully for distance fighting. Every amazon who has proven her bravery by taking the skulls of thirteen opponents will be promoted to a Valkyrie.",
+    "speed": "88",
+    "pushobjects": "Yes",
+    "fireDmgMod": "90%",
+    "sounds": [
+        "Another head for me!",
+        "Head off!",
+        "Your head will be mine!",
+        "Stand still!",
+        "One more head for me!"
+    ],
+    "runsat": "10",
+    "bestiaryclass": "Human",
+    "creatureclass": "Humans",
+    "earthDmgMod": "100%",
+    "physicalDmgMod": "110%",
+    "primarytype": "Amazons",
+    "spawntype": [
+        "Regular"
+    ],
+    "race_id": "12",
+    "bestiarylevel": "Easy",
+    "senseinvis": "no",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "valkyrie",
+    "behaviour": "Valkyries run in low health.",
+    "location": "[[Amazon Camp (Venore)]], [[Amazon Camp (Carlin)]], [[Amazonia]], single respawn to the north west of [[Thais]], [[Foreigner Quarter]] in [[Yalahar]].",
+    "strategy": "It is better to attack them from distance because their [[Spear]]s are weaker than their [[Melee]] fighting. Usually found around [[Amazon]]s and/or [[Witch]]es."
+}

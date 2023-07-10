@@ -1,0 +1,51 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "giant spiders",
+    "hpDrainDmgMod": "100%?",
+    "notes": "It looks '''exactly''' the same as a [[Giant Spider]] and may scare uninformed players. It behaves like a mere [[Spider]] though.\n{{JSpoiler|Killing this creature for the first time will grant you the [[achievement]] [[Someone's Bored]].}}",
+    "isarenaboss": "no",
+    "walksthrough": "?",
+    "hp": "20",
+    "speed": "?",
+    "abilities": "{{Ability List|{{Melee|0-20}}}}",
+    "pushobjects": "no",
+    "healMod": "100%?",
+    "paraimmune": "no",
+    "fireDmgMod": "100%?",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        "It seems this was just an illusion."
+    ],
+    "maxdmg": "{{Max Damage|physical=20}}",
+    "pushable": "yes",
+    "usedelements": "Physical",
+    "runsat": "6",
+    "implemented": "9.40",
+    "loot": [
+        {
+            "amount": "0-5",
+            "itemName": "Gold Coin"
+        }
+    ],
+    "walksaround": "Fire",
+    "exp": "12",
+    "creatureclass": "Invertebrates",
+    "earthDmgMod": "100%?",
+    "physicalDmgMod": "100%?",
+    "primarytype": "Arachnids",
+    "senseinvis": "no",
+    "article": "a",
+    "actualname": "giant spider",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "?",
+    "name": "Giant Spider (Wyda)",
+    "isboss": "no",
+    "location": "[[Greenclaw Swamp]], in the vicinity of [[Wyda]]'s house. It has also been encountered {{Mapper Coords|127.233|125.13|7|2|text=south}} of Wyda's house.",
+    "iceDmgMod": "100%?",
+    "strategy": "[[File:2gs_bloodherbquest.jpg|2 [[Giant Spider]]s at the [[Blood Herb Quest]]|thumb|right]] Treat it the same as you would treat a [[Spider]] in combat. It's not a great threat at all.",
+    "energyDmgMod": "100%?",
+    "deathDmgMod": "100%?"
+}

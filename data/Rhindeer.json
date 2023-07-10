@@ -1,0 +1,102 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "rhindeers",
+    "hpDrainDmgMod": "100%?",
+    "hp": "8650",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "The Rhindeer are impulsive creatures that are just as easy to scare as they are to fall into severe fits of rage. The mix-up of species of such a vastly different mindset hasn't done any good to their state of mind. They are, however, highly territorial creatures that will defend their turf aggressively. While in theory mostly consisting of herbivores, aside from their human part, they display an unexplainable amount of cruelty and aggression. They establish a kind of pecking order in their herds and bully weaker creatures into submission. On the other hand, the subordinance of the other herd's leader guarantees the loyalty of their herd too. In the social order of Ingol, that has been established by Dr. Marrow and his assistants, the Rrihndeers function as heavy workers as well as soldiers, guardsmen and police force. Their subordinance to the boar men has led to resentments of the former to the latter and often leads to violent clashes that the boar men only leave victorious because the rihndeers in lieu cooperate and coordinate better. Curiously enough due to an unexplainable oddity in their physiology, the rindeers are very fond of sugar and sweets. Yet their body reacts to sweets like to alcohol and put them into a drunken state. Even the sweetness of natural fruits an cause such effects. As a full grown, heavy rhindeer in a drunken stupor causes a heavy threat towards others as well as furnishings, Dr. Marrow's henchmen keep them on a strict diet of leaves and grass. A restriction that the rhindeers tend to circumvent whenever possible.",
+    "speed": "160",
+    "abilities": "{{Ability List\n |{{Melee|0-471}}\n |{{Ability|Blast Ball|265-411|element=physical\n  |scene={{Scene|spell=2sqmballtarget|caster=Rhindeer|look_direction=south|effect=Blast Effect|damage_effect=Blood Effect}}}}\n |{{Ability|Poison Arrow|327-399|element=earth\n  |scene={{Scene|spell=7sqmstrike|caster=Rhindeer|look_direction=south|effect=Poison Effect 3|missile=Poison Arrow Missile|missile_direction=south-east|missile_distance=7/7}}}}\n |{{Ability|Explosion Bomb|337|element=physical\n  |scene={{Scene|spell=2sqmballself|caster=Rhindeer|look_direction=south|effect=Explosion Effect|effect_on_caster=yes}}}}\n |{{Ability|Physical Strike|200-300~|element=physical\n  |scene={{Scene|spell=1sqmstrike|caster=Rhindeer|look_direction=south|effect=Dust Effect}}}}\n |{{Ability|Sparkles|unknown|element=?\n   |scene={{Scene|spell=buffspell|effect=Red Sparkles Effect|caster=Rhindeer|look_direction=south|effect_on_caster=yes}}}}\n}}",
+    "healMod": "100%",
+    "pushobjects": "yes",
+    "paraimmune": "yes",
+    "fireDmgMod": "110%",
+    "holyDmgMod": "105%",
+    "sounds": [
+        "Harrumph!",
+        "Destroy!",
+        "Snort!"
+    ],
+    "pushable": "no",
+    "runsat": "200",
+    "implemented": "13.10.12852",
+    "bestiaryclass": "Humanoid",
+    "loot": [
+        {
+            "itemName": "Platinum Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Violet Gem",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Brown Crystal Splinter",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Rainbow Quartz",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Rhindeer Antlers",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Great Mana Potion",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Yellow Gem",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Knight Armor",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Titan Axe",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Time Ring",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Heavy Mace",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Mastermind Shield",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Collar of Green Plasma",
+            "rarity": "rare"
+        }
+    ],
+    "exp": "5600",
+    "creatureclass": "Misc",
+    "earthDmgMod": "80%",
+    "mitigation": "2.08",
+    "physicalDmgMod": "100%",
+    "primarytype": "Hybrids",
+    "attacktype": "melee",
+    "race_id": "2342",
+    "bestiarylevel": "Hard",
+    "senseinvis": "yes",
+    "article": "a",
+    "actualname": "rhindeer",
+    "illusionable": "no",
+    "armor": "68",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Rhindeer",
+    "isboss": "no",
+    "location": "[[Ingol]]",
+    "iceDmgMod": "100%",
+    "energyDmgMod": "95%",
+    "deathDmgMod": "100%"
+}

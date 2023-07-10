@@ -1,0 +1,182 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "Ravenous Hunger",
+    "hpDrainDmgMod": "100%?",
+    "notes": "A popular daily boss due to being the only source of [[Elven Mail]] in the game.\n{{JSpoiler|Part of the [[Cults of Tibia Quest]].}}",
+    "walksthrough": "?",
+    "hp": "?",
+    "speed": "?",
+    "abilities": "{{Ability List\n |{{Melee|0-400+}}\n |{{Summon|Mutated Bat|4}}\n}}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "100%?",
+    "holyDmgMod": "100%",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "?",
+    "pushable": "?",
+    "implemented": "11.40.5409",
+    "cooldown": "20",
+    "loot": [
+        {
+            "amount": "1-200",
+            "itemName": "Gold Coin"
+        },
+        {
+            "amount": "1-30",
+            "itemName": "Platinum Coin"
+        },
+        {
+            "amount": "10",
+            "itemName": "Small Diamond"
+        },
+        {
+            "amount": "10",
+            "itemName": "Small Sapphire"
+        },
+        {
+            "amount": "10",
+            "itemName": "Small Emerald"
+        },
+        {
+            "amount": "1-5",
+            "itemName": "Ultimate Health Potion"
+        },
+        {
+            "amount": "1-5",
+            "itemName": "Great Spirit Potion"
+        },
+        {
+            "amount": "1-5",
+            "itemName": "Great Mana Potion"
+        },
+        {
+            "amount": "1-5",
+            "itemName": "Energy Bar"
+        },
+        {
+            "itemName": "Yellow Gem"
+        },
+        {
+            "itemName": "Red Gem"
+        },
+        {
+            "itemName": "Green Gem"
+        },
+        {
+            "itemName": "Giant Shimmering Pearl"
+        },
+        {
+            "itemName": "Oriental Shoes"
+        },
+        {
+            "itemName": "Broken Key Ring"
+        },
+        {
+            "itemName": "Bed of Nails"
+        },
+        {
+            "itemName": "Torn Shirt"
+        },
+        {
+            "itemName": "Muck Rod"
+        },
+        {
+            "itemName": "Lightning Legs"
+        },
+        {
+            "itemName": "Fig Leaf"
+        },
+        {
+            "itemName": "Mysterious Remains"
+        },
+        {
+            "itemName": "Sacred Tree Amulet"
+        },
+        {
+            "itemName": "Luminous Orb"
+        },
+        {
+            "itemName": "Cobra Crown"
+        },
+        {
+            "itemName": "Wood Cape"
+        },
+        {
+            "itemName": "Wooden Spellbook"
+        },
+        {
+            "itemName": "Silver Token"
+        },
+        {
+            "itemName": "Gold Token"
+        },
+        {
+            "itemName": "Elven Legs"
+        },
+        {
+            "itemName": "Elven Mail"
+        },
+        {
+            "itemName": "Small Amethyst"
+        },
+        {
+            "itemName": "Blue Gem"
+        },
+        {
+            "itemName": "Terra Mantle"
+        },
+        {
+            "itemName": "Small Topaz"
+        },
+        {
+            "itemName": "Blood of the Mountain (Item)"
+        },
+        {
+            "itemName": "Magic Sulphur"
+        },
+        {
+            "itemName": "Jade Hat"
+        },
+        {
+            "itemName": "Terra Boots"
+        },
+        {
+            "itemName": "Mammoth Fur Cape"
+        },
+        {
+            "itemName": "Violet Gem"
+        },
+        {
+            "itemName": "Boots of Haste"
+        },
+        {
+            "itemName": "Crystalline Armor"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "?",
+    "creatureclass": "Mammals",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "100%?",
+    "bosstiaryclass": "Archfoe",
+    "primarytype": "Bats",
+    "race_id": "1427",
+    "senseinvis": "?",
+    "actualname": "Ravenous Hunger",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Ravenous Hunger",
+    "isboss": "yes",
+    "behaviour": "Fights in close combat.",
+    "location": "Under [[Ab'Dendriel]]'s troll cave.",
+    "iceDmgMod": "100%",
+    "strategy": "Once it spawns, fill one side of the cave with [[Fire Bomb Rune]]s and then bring the boss there. This will keep its summons away as long as you do not attack them.",
+    "energyDmgMod": "100%?",
+    "deathDmgMod": "0%"
+}

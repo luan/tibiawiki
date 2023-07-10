@@ -1,0 +1,114 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "This creature was added in the [[Updates/8.54|Christmas Update 2009]].",
+    "walksthrough": "Fire, Poison",
+    "hp": "2500",
+    "abilities": "{{Ability List|{{Melee|0-300?}}}}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "secondarytype": "High Class Lizards",
+    "holyDmgMod": "80%",
+    "maxdmg": "{{Max Damage|physical=300?}}",
+    "pushable": "?",
+    "usedelements": "Physical",
+    "implemented": "8.54",
+    "loot": [
+        {
+            "amount": "1-100",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-4",
+            "itemName": "Platinum Coin",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-10",
+            "itemName": "Small Stone",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Ancient Stone",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Spiked Iron Ball",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Iron Ore",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Zaoan Halberd",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Clay Lump",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Guardian Halberd",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Shiny Stone",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Tower Shield",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Coal",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Piece of Marble Rock",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Zaoan Sword",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Energy",
+    "exp": "1800",
+    "mitigation": "1.18",
+    "attacktype": "Melee",
+    "article": "an",
+    "actualname": "eternal guardian",
+    "illusionable": "no",
+    "armor": "62",
+    "convince": "--",
+    "name": "Eternal Guardian",
+    "isboss": "no",
+    "iceDmgMod": "90%",
+    "energyDmgMod": "90%",
+    "deathDmgMod": "80%",
+    "plural": "eternal guardians",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "no",
+    "occurrence": "Common",
+    "speed": "102",
+    "pushobjects": "?",
+    "fireDmgMod": "30%",
+    "sounds": [
+        "Zzrrkrrch!",
+        "<crackle>"
+    ],
+    "bestiaryclass": "Construct",
+    "creatureclass": "Elementals",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "80%",
+    "primarytype": "Geo-Elementals",
+    "race_id": "615",
+    "bestiarylevel": "Medium",
+    "senseinvis": "?",
+    "drownDmgMod": "0%",
+    "behaviour": "It keeps close to use his [[melee]] attacks and does not run at low [[health]]. It has similar strength to a [[Hero]].",
+    "location": "North-east [[Muggy Plains]], [[Deeper Banuta]].",
+    "strategy": "They're fairly slow and only melee-based, but strong to all possible attacks. Mages hunting in [[Deeper Banuta]] are advised to just ignore them, as killing them takes time (they come in swarms) and they won't hurt you if you keep distance."
+}

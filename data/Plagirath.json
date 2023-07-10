@@ -1,0 +1,151 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "Plagiraths",
+    "hpDrainDmgMod": "100%?",
+    "notes": "He's the minion of [[Verminor]].",
+    "walksthrough": "?",
+    "hp": "290000",
+    "speed": "?",
+    "abilities": "{{Ability List\n |{{Melee|0-1350}}\n |{{Ability|Poison UE on target|1500|element=earth}}\n |{{Ability|Poison Beam|450-900|element=earth}}\n |{{Ability|Poison Wave|700-800|element=earth}}\n |{{Ability|Poison Explosion|150-350|element=death}}\n |{{Healing|range=150-600?}}\n}}",
+    "pushobjects": "yes",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "125%",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        "I CAN SENSE YOUR BODY ROTTING!",
+        "WITHER AND DIE!",
+        "COME AND RECEIVE MY GIFTS!!",
+        "DEATH AND DECAY!"
+    ],
+    "maxdmg": "2850?",
+    "pushable": "no",
+    "runsat": "0",
+    "cooldown": "44",
+    "implemented": "10.90",
+    "loot": [
+        {
+            "itemName": "Silver Token",
+            "rarity": "always"
+        },
+        {
+            "amount": "200",
+            "itemName": "Gold Coin"
+        },
+        {
+            "itemName": "Demonic Essence"
+        },
+        {
+            "amount": "5",
+            "itemName": "Small Amethyst"
+        },
+        {
+            "amount": "5",
+            "itemName": "Great Spirit Potion"
+        },
+        {
+            "itemName": "Green Gem"
+        },
+        {
+            "itemName": "Red Gem"
+        },
+        {
+            "amount": "20-25",
+            "itemName": "Platinum Coin"
+        },
+        {
+            "itemName": "Small Diamond"
+        },
+        {
+            "itemName": "Terra Mantle"
+        },
+        {
+            "itemName": "Terra Legs"
+        },
+        {
+            "amount": "6",
+            "itemName": "Cyan Crystal Fragment"
+        },
+        {
+            "amount": "6",
+            "itemName": "Green Crystal Fragment"
+        },
+        {
+            "amount": "6",
+            "itemName": "Red Crystal Fragment"
+        },
+        {
+            "amount": "5",
+            "itemName": "Great Mana Potion"
+        },
+        {
+            "amount": "5",
+            "itemName": "Ultimate Health Potion"
+        },
+        {
+            "itemName": "Plague Bite"
+        },
+        {
+            "itemName": "Maimer"
+        },
+        {
+            "itemName": "Rift Shield"
+        },
+        {
+            "itemName": "Ring of Healing"
+        },
+        {
+            "itemName": "Small Emerald"
+        },
+        {
+            "itemName": "Muck Rod"
+        },
+        {
+            "itemName": "Giant Shimmering Pearl"
+        },
+        {
+            "itemName": "Flask of Demonic Blood"
+        },
+        {
+            "itemName": "Small Ruby"
+        },
+        {
+            "itemName": "Sai"
+        },
+        {
+            "itemName": "Spellbook of Warding"
+        },
+        {
+            "itemName": "Rift Lance"
+        },
+        {
+            "itemName": "Small Topaz"
+        },
+        {
+            "itemName": "Yellow Gem"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "50000",
+    "creatureclass": "Demons",
+    "earthDmgMod": "0%?",
+    "physicalDmgMod": "100%?",
+    "bosstiaryclass": "Archfoe",
+    "primarytype": "The Ruthless Seven Minions",
+    "race_id": "1199",
+    "senseinvis": "?",
+    "actualname": "Plagirath",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Plagirath",
+    "isboss": "yes",
+    "behaviour": "It will retarget somewhat often.",
+    "location": "[[Ferumbras' Ascension Quest]] area.",
+    "iceDmgMod": "90%",
+    "strategy": "Do not run to the center of its room to avoid luring too many [[Disgusting Ooze]]s. The blocker should try to trap it near a wall while the shooters stay distant to avoid the area damage. During the fight, it's recommended to avoid running around since the [[Disgusting Ooze]]s use a very strong paralyze spell and will constantly spawn around the room. All shooters should attack mainly with [[Great Fireball Rune]]s in order to kill the summons around the blocker. \n\nDuring the fight, Plagirath will sometimes transform its target into a [[Bog Raider]]. When this transformation runs out after about 10 seconds, the transformed player will \"explode\" receiving 1500 damage and that will also hit the players around him. Since running around the room is not recommended, shooters should stay distant from the blocker and when the transformation happens everyone should make sure they have enough mana and health to take the explosion. \n\nNote that once '''Plagirath''' dies, the [[Disgusting Ooze]]s will '''not''' disappear, so leaving the boss room must also be done carefully and in an organized manner. Killing the boss near the exit will make this last step safer. \n\n<gallery mode=\"nolines\">\nPlagirath Fight.png|Plagirath being killed west of the exit teleport with two blockers. The secondary blocker can help trap the boss as well as [[Challenge]] the [[Disgusting Ooze]]s that spawn near the shooters. \n</gallery>",
+    "energyDmgMod": "110%",
+    "deathDmgMod": "100%?"
+}

@@ -1,0 +1,125 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "walksthrough": "Fire, Energy, Poison",
+    "hp": "8500",
+    "abilities": "{{Ability List| {{Melee|0-500}}|{{Ability|[[Poison Hit]]|300-550|element=poison}}|{{Ability|[[Death Missile]]|600-900; range of ~4 sqm; also chains to multiple players if they are within ~4 sqm on its target whenever Vizier receives any damage (~50% chance to trigger)|element=death}} }}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "holyDmgMod": "110%",
+    "maxdmg": "1500",
+    "pushable": "no",
+    "implemented": "12.20.8834",
+    "loot": [
+        {
+            "amount": "1-4",
+            "itemName": "Platinum Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Terra Rod",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Terra Boots",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Terra Hood",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Snakebite Rod",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Cobra Crest",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Cyan Crystal Fragment",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Giant Shimmering Pearl (Brown)",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Green Crystal Fragment",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Red Gem",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Gemmed Figurine",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Violet Crystal Shard",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Serpent Sword",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Emerald Bangle",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Red Crystal Fragment",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Onyx Chip",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Green Gem",
+            "rarity": "semi-rare"
+        }
+    ],
+    "walksaround": "None",
+    "exp": "7650",
+    "mitigation": "2.31",
+    "attacktype": "Melee",
+    "history": "Its experience was increased from 6600 to 7920 with the fourth batch of changes of [[Updates/12.31|Update 12.31]]. It was later increased to 9108 with the sixth batch of changes. Its loot was decreased in 25% with the ninth batch of changes of the Hunting Grounds Rebalancing.\n\nIts experience was decreased from 9108 to 7650 and its loot reduced in 4% with the balancing changes on {{OfficialNewsArchive|6086|April 15, 2021}}.",
+    "article": "a",
+    "actualname": "cobra vizier",
+    "illusionable": "no",
+    "armor": "82",
+    "convince": "--",
+    "name": "Cobra Vizier",
+    "isboss": "no",
+    "iceDmgMod": "100%",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "100%",
+    "plural": "cobra viziers",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "When Scarlett Etzel turned towards the shadows, her loyal followers turned away from her. Her change in tactics and the more covert approach has led to the hiring of shady characters to reinforce the order. Any Cobra Vizier is a dangerous foe but in combination with other viziers, they become an unstoppable force of magic. They act as the real guard of the order and defend Scarlett and the other Cobras with an intricate web of spells. Their dark magic is arcane and twisted, to oppose them is to challenge mighty, long lost arts. Born in the shadows and nurtured by death.",
+    "speed": "160",
+    "pushobjects": "yes",
+    "fireDmgMod": "100%",
+    "sounds": [
+        "COMBINE FORCES MY BRETHEN!",
+        "Feel the cobras wrath!",
+        "OH NO, YOU WON'T!"
+    ],
+    "runsat": "0",
+    "bestiaryclass": "Human",
+    "creatureclass": "Humans",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "90%",
+    "primarytype": "Members of the Order of the Cobra",
+    "race_id": "1824",
+    "bestiarylevel": "Hard",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "cobravizier",
+    "location": "[[Cobra Bastion]].",
+    "strategy": "Try to stay at distance and do not lure more than a couple at your tank. Beware of its very strong parry chained attack - when running by or trapped by multiple Cobras it's wise not to attack them to avoid this spell."
+}

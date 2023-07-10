@@ -1,0 +1,145 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "A [[Fury]] boss.\n\n<gallery>\n25-11-2013 21:16:26.png\n</gallery>",
+    "walksthrough": "?",
+    "hp": "25000",
+    "speed": "?",
+    "abilities": "{{Ability List|{{Melee|0-625}}\n |{{Ability|[[Armageddon]]|260-310|death}}\n |{{Ability|Yellow spark Manadrain Wave|50-210?|manadrain}}\n |{{Ability|Soulfire Explosion Beam|burns you|burning}}\n |{{Ability|Blood Beam|300-800|death}}\n |{{Ability|Groundshaker Bomb on target|0-150|physical}}\n |{{Debuff2|Great Yellow Musical Notes Ball on itself|magic=yes}}\n |{{Healing|range=10000 only once and when on red hp}}\n |{{Ability|Invisible||invisible}}\n |{{Summon|Fury|4}}\n}}",
+    "pushobjects": "yes",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "0%",
+    "holyDmgMod": "60%",
+    "sounds": [
+        "MUHAHA!",
+        "Back in black!",
+        "Die!",
+        "Dieeee!",
+        "Caaarnaaage!",
+        "Ahhhhrrrr!"
+    ],
+    "maxdmg": "{{Max Damage|physical=775|death=1110|manadrain=210?|fire=20|summons=9436}}",
+    "pushable": "no",
+    "implemented": "10.20",
+    "loot": [
+        {
+            "amount": "0-200",
+            "itemName": "Gold Coin"
+        },
+        {
+            "amount": "0-25",
+            "itemName": "Platinum Coin"
+        },
+        {
+            "amount": "0-5",
+            "itemName": "Jalapeno Pepper"
+        },
+        {
+            "itemName": "Crystal Ring"
+        },
+        {
+            "amount": "0-5",
+            "itemName": "Great Mana Potion"
+        },
+        {
+            "itemName": "Silver Raid Token"
+        },
+        {
+            "amount": "0-5",
+            "itemName": "Small Sapphire"
+        },
+        {
+            "itemName": "Soul Orb"
+        },
+        {
+            "amount": "0-10",
+            "itemName": "Assassin Star"
+        },
+        {
+            "itemName": "Gold Ingot"
+        },
+        {
+            "amount": "0-5",
+            "itemName": "Great Spirit Potion"
+        },
+        {
+            "itemName": "Red Piece of Cloth"
+        },
+        {
+            "amount": "0-5",
+            "itemName": "Ultimate Health Potion"
+        },
+        {
+            "itemName": "White Piece of Cloth"
+        },
+        {
+            "itemName": "Flask of Demonic Blood"
+        },
+        {
+            "itemName": "Death Ring"
+        },
+        {
+            "itemName": "Demonic Essence"
+        },
+        {
+            "itemName": "Magma Coat"
+        },
+        {
+            "itemName": "Magma Legs"
+        },
+        {
+            "amount": "0-5",
+            "itemName": "Small Diamond"
+        },
+        {
+            "amount": "0-5",
+            "itemName": "Small Ruby"
+        },
+        {
+            "amount": "0-5",
+            "itemName": "Small Topaz"
+        },
+        {
+            "itemName": "Yellow Piece of Cloth"
+        },
+        {
+            "itemName": "Phoenix Shield"
+        },
+        {
+            "itemName": "Furious Frock"
+        },
+        {
+            "itemName": "Assassin Dagger"
+        },
+        {
+            "itemName": "Noble Axe"
+        },
+        {
+            "itemName": "Wand of Everblazing"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "11500",
+    "creatureclass": "Demons",
+    "earthDmgMod": "100%",
+    "physicalDmgMod": "90%",
+    "bosstiaryclass": "Nemesis",
+    "primarytype": "Demons",
+    "race_id": "987",
+    "senseinvis": "?",
+    "actualname": "Furyosa",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Furyosa",
+    "isboss": "yes",
+    "behaviour": "Unknown.",
+    "location": "[[Fury Dungeon]]",
+    "iceDmgMod": "60%",
+    "strategy": "Unknown.",
+    "energyDmgMod": "90%",
+    "deathDmgMod": "90%?"
+}

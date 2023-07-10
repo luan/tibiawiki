@@ -1,0 +1,93 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "These apes like to hit hard and often appear along with [[Sibang]]s or [[Merlkin]]s.\n{{JSpoiler|You may hunt 300 Kongra, [[Sibang]], [[Merlkin]] combined, as a task of the [[Killing in the Name of... Quest]].}}",
+    "walksthrough": "None",
+    "hp": "340",
+    "abilities": "{{Ability List\n |{{Melee|0-60}}\n |{{Haste}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "holyDmgMod": "100%",
+    "maxdmg": "{{Max Damage|physical=60}}",
+    "pushable": "no",
+    "usedelements": "Physical",
+    "implemented": "7.5",
+    "loot": [
+        {
+            "amount": "0-40",
+            "itemName": "Gold Coin"
+        },
+        {
+            "amount": "0-12",
+            "itemName": "Banana"
+        },
+        {
+            "itemName": "Kongra's Shoulderpad",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Ape Fur",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Health Potion",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Plate Armor",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Protection Amulet",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Club Ring",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Power Ring",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Fire, Energy, Poison",
+    "exp": "115",
+    "mitigation": "0.36",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "kongra",
+    "illusionable": "yes",
+    "armor": "18",
+    "convince": "--",
+    "name": "Kongra",
+    "isboss": "no",
+    "iceDmgMod": "115%",
+    "energyDmgMod": "95%",
+    "deathDmgMod": "105%",
+    "plural": "kongras",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "The mighty Kongras are like mountains made of flesh and muscles. These enormous apes are incredibly strong and quite agile for their mass and size. They seem to be the warriors of the apes that live in the deepest jungle and raid the human settlements from time to time. In its anger a Kongra is able to rip out small trees and to break bones as if they weretwigs. The sight of an enraged, storming Kongra can make even an experienced warrior tremble. The dark and massive figure reaches a threatening speed in its attacks. Relying mainly on its strength, a Kongra rarely uses any weapons. Occasionally, the ape warrior uses stones of different sizes or branches as makeshift weapons, but usually it relies on its hammer-like fists and the clout of its powerful arms.",
+    "speed": "92",
+    "pushobjects": "yes",
+    "fireDmgMod": "80%",
+    "sounds": [
+        "Ungh! Ungh!",
+        "Hugah!",
+        "Huaauaauaauaa!"
+    ],
+    "bestiaryclass": "Mammal",
+    "creatureclass": "Mammals",
+    "earthDmgMod": "90%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Apes",
+    "race_id": "116",
+    "bestiarylevel": "Easy",
+    "senseinvis": "no",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "kongra",
+    "behaviour": "Kongras will run away from attackers at 10 hp. They can move items that are in their way.",
+    "location": "In [[Banuta]], northeast of [[Port Hope]], [[Arena and Zoo Quarter]].",
+    "strategy": "'''[[Druid]]s''' and '''[[Sorcerer]]s''': Since these [[apes]] are usually in groups with [[Sibang]]s and [[Merlkin]]s, it is best to use a [[wand]]/[[rod]] against the Kongra, and use [[Avalanche (rune)|Avalanches]] to damage as many other [[apes]] as possible, low lvls (-30) can try to use one or two [[Monks]] and hit them with ice or death [[wands]]/[[Rods]]. Not really worth the effort as they have very high hitpoints and take too much mana/runes considering the little exp they yield.<br />\n'''[[Knight]]s''' should not have much trouble with Kongras, but they will break your [[shielding]] while the [[sibang]]s attack you with [[Small Stone|stones]].<br />\n'''[[Paladin]]s''' should use trees to run in circles and shoot them down, or get a shield and a throwing weapon, and run in circles around them."
+}

@@ -1,0 +1,60 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "Diseased Freds",
+    "hpDrainDmgMod": "100%?",
+    "notes": "Is an infected human. He is the strongest of the diseased humans.",
+    "walksthrough": "Fire, Energy, Poison",
+    "hp": "1100",
+    "lightcolor": "30",
+    "speed": "?",
+    "abilities": "{{Ability List|{{Melee|0-150+|poison=4}}|{{Ability|Distance Life Drain|65-80+|element=lifedrain}}|{{Ability|[[Paralyze]] [[Exori|Poison Exori]]|100-170+|element=paralyze}}|{{Healing}} }}",
+    "pushobjects": "yes",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "85%",
+    "holyDmgMod": "85%",
+    "sounds": [
+        "You will suffer the same fate as I do!",
+        "The pain! The pain!",
+        "Stay away! I am contagious!",
+        "The plague will get you!"
+    ],
+    "maxdmg": "450+",
+    "pushable": "no",
+    "lightradius": "4",
+    "implemented": "8.40",
+    "loot": [
+        {
+            "amount": "0-23",
+            "itemName": "Gold Coin"
+        }
+    ],
+    "walksaround": "None",
+    "exp": "300",
+    "creatureclass": "Elementals",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "85%",
+    "bosstiaryclass": "Bane",
+    "primarytype": "Bio-Elementals",
+    "spawntype": [
+        "Regular",
+        "Unique"
+    ],
+    "race_id": "484",
+    "senseinvis": "yes",
+    "article": "a",
+    "actualname": "Diseased Fred",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Diseased Fred",
+    "isboss": "yes",
+    "behaviour": "Like a [[Bog Raider]], but he runs in low hp.",
+    "location": "[[Alchemist Quarter]], {{Mapper Coords|127.194|121.146|7|2|text=here}}. Since the [[Summer Update 2012]] you can reach him easier by a ramp directly from +1, instead of having to walk past the pit with [[Bog Raider]]s.",
+    "iceDmgMod": "85%",
+    "strategy": "Same strategy you would use for a [[Bog Raider]], run around and shoot him.",
+    "energyDmgMod": "85%",
+    "deathDmgMod": "45%<"
+}

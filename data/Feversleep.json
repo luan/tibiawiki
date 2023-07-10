@@ -1,0 +1,119 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "They exist primarily underground, although they may occasionally appear in large groups as a raid on the north-eastern part of [[Upper Roshamuul]].",
+    "walksthrough": "?",
+    "hp": "5900",
+    "abilities": "{{Ability List\n |{{Melee|0-400?}}\n |{{Ability|yellow poison bomb UE|?|element=drowning}}\n |{{Debuff2|Sudden Death|melee=yes|value=55-60%}}\n |{{Healing|range=250?-550}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "secondarytype": "Serpents",
+    "holyDmgMod": "110%",
+    "maxdmg": "?",
+    "pushable": "?",
+    "implemented": "10.30",
+    "loot": [
+        {
+            "amount": "1-100",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-9",
+            "itemName": "Platinum Coin",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Great Mana Potion",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Cyan Crystal Fragment",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "Small Topaz",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "Small Emerald",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Trapped Bad Dream Monster",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "Small Ruby",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Ultimate Health Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Bowl of Terror Sweat",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "Small Amethyst",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Blue Crystal Shard",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Blue Crystal Splinter",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Blue Robe",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Cluster of Solace",
+            "rarity": "rare"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "5060",
+    "mitigation": "1.10",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "feversleep",
+    "illusionable": "no",
+    "armor": "73",
+    "convince": "--",
+    "name": "Feversleep",
+    "isboss": "no",
+    "iceDmgMod": "80%",
+    "energyDmgMod": "90%",
+    "deathDmgMod": "45%",
+    "plural": "feversleeps",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "Some of the inquisition reports are the sole information source there currently is concerning the feversleeps. From their brief glimpses of it, the inquisitors surmise a feversleep may be an adolescent form of a terrorsleep, or maybe the decrepit, old age stage at the end of a terrorsleep's days. The only thing that can be said with some certainty is that feversleeps are somehow related to the terrorsleeps, in whose company they are often seen.<br /><br />Feversleeps emit a strange, sweaty heat. When victims draw near, feversleeps often cloak themselves in shadow, becoming invisible, detectable only by their foul stench and a strange weakening effect they have on their prey, distorting their prey's sense of time and draining its powers so they can feed on it.<br /><br />Feversleeps love cool water, and are often seen next to pools or rivers, preferably underground in a dark and dank cavern. They have been seen mainly in Upper Roshamuul and are maybe attracted to ruins of ancients settlements, or may have had another purpose when the ruins were still inhabited. However, no one so far ever ventured to investigate closer, as the feversleeps are a promise of a slow, horrible end in the throes of deathly hallucinations, for all that stay too long in their vicinity.",
+    "speed": "180",
+    "pushobjects": "?",
+    "fireDmgMod": "65%",
+    "sounds": [],
+    "bestiaryclass": "Magical",
+    "creatureclass": "Demons",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "85%",
+    "primarytype": "Dreamhaunters",
+    "race_id": "1021",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "feversleep",
+    "location": "[[Roshamuul Mines]] (down {{Mapper Coords|131.154|126.92|7|4|text=here}}), [[Roshamuul Cistern]] (down {{Mapper Coords|131.130|126.15|7|4|text=here}}).",
+    "strategy": "Compared to the monsters on the [[Upper Roshamuul]] surface, feversleep are not a big threat. However, they often appear in large groups and with [[Terrorsleep]]. Beware their melee skill reduction because their high health, healing abilities and your low skills will drag the fight on for a long time."
+}

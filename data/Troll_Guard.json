@@ -1,0 +1,75 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "troll guards",
+    "hpDrainDmgMod": "100%?",
+    "walksthrough": "?",
+    "hp": "60",
+    "usespells": "no",
+    "occurrence": "Very Rare",
+    "speed": "63",
+    "abilities": "{{Ability List|{{Melee|0-9}}}}",
+    "pushobjects": "No",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "fireDmgMod": "100%",
+    "holyDmgMod": "90%",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "{{Max Damage|physical=9}}",
+    "pushable": "Yes",
+    "runsat": "15",
+    "implemented": "9.10",
+    "bestiaryclass": "Humanoid",
+    "loot": [
+        {
+            "amount": "0-12",
+            "itemName": "Gold Coin"
+        },
+        {
+            "itemName": "Meat",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Rope",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Studded Club",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Bunch of Troll Hair",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Silver Amulet",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "25",
+    "creatureclass": "Humanoids",
+    "earthDmgMod": "110%",
+    "mitigation": "0.15",
+    "physicalDmgMod": "100%",
+    "primarytype": "Trolls",
+    "race_id": "745",
+    "attacktype": "Melee",
+    "bestiarylevel": "Easy",
+    "senseinvis": "no",
+    "article": "a",
+    "actualname": "troll guard",
+    "illusionable": "no",
+    "armor": "4",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Troll Guard",
+    "isboss": "no",
+    "location": "[[Rookgaard]]'s central cave in the {{Mapper Coords|125.64|125.136|10|4|text=new western Troll tunnel}}, north-west of [[Carlin]] during raids and [[Thais]] Knights' Guild arena during raids on [[Kingsday Mini World Change|Kingsday]].",
+    "iceDmgMod": "100%",
+    "strategy": "Kill it like a normal [[Troll]].",
+    "energyDmgMod": "80%",
+    "deathDmgMod": "110%"
+}

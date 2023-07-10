@@ -1,0 +1,100 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "It's not a common creature, but a semi-rare one that is part of the access of the [[Soul War Quest]].",
+    "walksthrough": "Fire, Poison, ENergy",
+    "hp": "70000",
+    "abilities": "{{Ability List|}}",
+    "pushobjects": "yes",
+    "healMod": "100%?",
+    "paraimmune": "yes",
+    "fireDmgMod": "100%?",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "?",
+    "pushable": "no",
+    "implemented": "12.40.9997",
+    "loot": [
+        {
+            "itemName": "Hazardous Heart"
+        },
+        {
+            "itemName": "Hazardous Robe"
+        },
+        {
+            "itemName": "Bag You Desire"
+        },
+        {
+            "itemName": "Violet Gem"
+        },
+        {
+            "itemName": "Crystal Coin"
+        },
+        {
+            "itemName": "Northwind Rod"
+        },
+        {
+            "itemName": "Gold Ingot"
+        },
+        {
+            "itemName": "Hailstorm Rod"
+        },
+        {
+            "itemName": "Ultimate Health Potion"
+        },
+        {
+            "itemName": "Giant Shimmering Pearl"
+        },
+        {
+            "itemName": "Blue Gem"
+        },
+        {
+            "itemName": "Green Gem"
+        },
+        {
+            "itemName": "Gemmed Figurine"
+        },
+        {
+            "itemName": "Collar of Red Plasma"
+        },
+        {
+            "itemName": "Collar of Blue Plasma"
+        },
+        {
+            "itemName": "Wand of Everblazing"
+        },
+        {
+            "itemName": "Glacial Rod"
+        },
+        {
+            "itemName": "Glacier Robe"
+        }
+    ],
+    "walksaround": "None",
+    "exp": "66000",
+    "creatureclass": "The Undead",
+    "earthDmgMod": "100%?",
+    "physicalDmgMod": "100%?",
+    "primarytype": "Ghosts",
+    "spawntype": [
+        "Regular"
+    ],
+    "history": "Its experience was reduced from 75,000 to 66,000 with the [[Updates/12.66.10866|changes]] on {{OfficialNewsArchive|6159|June 01, 2021}}.",
+    "senseinvis": "yes",
+    "article": "a",
+    "actualname": "hazardous phantom",
+    "illusionable": "no",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Hazardous Phantom",
+    "isboss": "no",
+    "behaviour": "It attacks from distance just as [[Distorted Phantom]]s.",
+    "location": "[[Ebb and Flow]].",
+    "iceDmgMod": "100%?",
+    "strategy": "When doing the quest, kill it while dealing with the rest of the creatures and then finish it off afterwards since it has a lot more health than the regular creatures. When hunting you'll want to leave them behind so they don't slow you down.",
+    "energyDmgMod": "100%?",
+    "deathDmgMod": "100%?"
+}

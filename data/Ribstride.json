@@ -1,0 +1,77 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "0%?",
+    "notes": "[[Bonebeast]]'s boss. Part of the [[Paw and Fur Society]] tasks of [[Grizzly Adams]].\n\n{{JSpoiler|Part of the [[Killing in the Name of... Quest]]. The portal which leads to the boss is in -6 floor of the [[Peninsula Tomb]] (after teleport - you'll need a [[Scarab Coin]]), [http://tibia.wikia.com/wiki/Mapper?coords{{=}}129.85-128.32-13-2-1-1 here].}}\n\nYou can find different interesting objects in his cave, such as: a [[Delicate Vase]] daily spawn, [[Strange Carving]], [[Hieroglyph Banner]], [[Pharaoh Banner]], [[Hieroglyphs]], [[Carving of a Scorpion]], [[Scorpion Pillar]].",
+    "walksthrough": "Poison",
+    "hp": "1000",
+    "speed": "?",
+    "abilities": "{{Ability List\n |{{Melee|0-200|poison=5}}\n |{{Ability|Life Drain Berserk|25-47+|element=lifedrain}}\n |{{Ability|earth strike|50-90|element=earth}}\n |{{Ability|Poisoning Berserk|3 [[HP]]/turn|element=poisoned}}\n |{{Ability|Poisoning Beam|poisons 4 [[hp]]/turn|element=poisoned}}\n |{{Ability|[[Paralyze]]|element=paralyze}}\n |{{Healing|range=50~}}\n}}",
+    "pushobjects": "yes",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "secondarytype": "Ungulates",
+    "fireDmgMod": "110%?",
+    "holyDmgMod": "120%?",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "340",
+    "pushable": "no",
+    "runsat": "0",
+    "implemented": "9.20",
+    "loot": [
+        {
+            "amount": "1-4",
+            "itemName": "Small Diamond"
+        },
+        {
+            "amount": "1-8",
+            "itemName": "Platinum Coin"
+        },
+        {
+            "itemName": "Bonebeast Trophy"
+        },
+        {
+            "itemName": "Bony Tail"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "Green Mushroom"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "Hardened Bone"
+        },
+        {
+            "itemName": "Bone Shield"
+        },
+        {
+            "itemName": "Skull Helmet",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Maxilla Maximus",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Fire, Energy",
+    "exp": "1100",
+    "creatureclass": "The Undead",
+    "earthDmgMod": "0%?",
+    "physicalDmgMod": "100%?",
+    "primarytype": "Skeletons",
+    "race_id": "755",
+    "senseinvis": "?",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "0%?",
+    "convince": "--",
+    "name": "Ribstride",
+    "isboss": "yes",
+    "location": "Ankrahmun [[Peninsula Tomb]], on the 6th floor ({{Mapper Coords|text=here|129.85|128.35|13|2|1|0.50.5}}). You will need a [[Scarab Coin]] to pass through the teleporter.",
+    "iceDmgMod": "100%?",
+    "strategy": "Unknown.",
+    "energyDmgMod": "100%?",
+    "deathDmgMod": "0%?"
+}

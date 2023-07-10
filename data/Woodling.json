@@ -1,0 +1,78 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "woodlings",
+    "hpDrainDmgMod": "100%?",
+    "isarenaboss": "no",
+    "walksthrough": "?",
+    "hp": "80",
+    "speed": "65",
+    "abilities": "{{Ability List|{{Melee|0-15?}}|{{Ability|Distance Poison attack|0-8?|earth}}|{{Ability|Short water wave|reduces 4-14 [[speed]] levels|slowed}}}}",
+    "pushobjects": "yes",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "100%?",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "{{Max Damage|physical=15?|earth=8?}}",
+    "pushable": "no",
+    "runsat": "0",
+    "implemented": "10.55",
+    "loot": [
+        {
+            "amount": "0-12",
+            "itemName": "Gold Coin"
+        },
+        {
+            "amount": "0-4",
+            "itemName": "White Mushroom"
+        },
+        {
+            "amount": "0-10",
+            "itemName": "Simple Arrow"
+        },
+        {
+            "itemName": "Rope"
+        },
+        {
+            "itemName": "Studded Armor",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Hatchet",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Studded Shield",
+            "rarity": "semi-rare"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "40",
+    "creatureclass": "Elementals",
+    "earthDmgMod": "100%?",
+    "physicalDmgMod": "100%?",
+    "primarytype": "Bio-Elementals",
+    "spawntype": [
+        "Regular",
+        "Unblockable"
+    ],
+    "race_id": "1068",
+    "senseinvis": "?",
+    "article": "a",
+    "actualname": "woodling",
+    "illusionable": "yes",
+    "armor": "2",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Woodling",
+    "isboss": "no",
+    "behaviour": "It will push and kill other creatures if they block its path.",
+    "location": "[[Dawnport]].",
+    "iceDmgMod": "100%?",
+    "strategy": "Woodlings are easy to kill, so no special strategy is needed. If you're being chased by many creatures, you can try to stay in a spot where woodlings will have to kill other monsters to reach you.",
+    "energyDmgMod": "100%?",
+    "deathDmgMod": "100%?"
+}

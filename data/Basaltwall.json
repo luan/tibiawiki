@@ -1,0 +1,31 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "hp": "?",
+    "abilities": "None.",
+    "fireDmgMod": "0%",
+    "holyDmgMod": "0%",
+    "sounds": [
+        ""
+    ],
+    "pushable": "no",
+    "implemented": "12.70.10953",
+    "loot": [],
+    "exp": "0",
+    "creatureclass": "Elementals",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "0%",
+    "primarytype": "Magma-Elementals",
+    "article": "a",
+    "actualname": "basaltwall",
+    "illusionable": "no",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Basaltwall",
+    "isboss": "no",
+    "location": "[[Dwelling of the Forgotten]], at the [[Too_Hot_to_Handle_Quest#Gnomish Explorer|Too Hot to Handle]] The Lost Structure mission.",
+    "iceDmgMod": "0%",
+    "energyDmgMod": "0%",
+    "deathDmgMod": "0%"
+}

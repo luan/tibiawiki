@@ -1,0 +1,154 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "He's the [[Draken]]'s boss. {{JSpoiler|Part of the [[Killing in the Name of... Quest]].}}",
+    "walksthrough": "Fire",
+    "hp": "8500",
+    "lightcolor": "161",
+    "speed": "?",
+    "abilities": "{{Ability List| {{Melee|0-450}}|{{Ability|[[Fire Wave]]|240-550|element=fire}}|{{Ability|[[Fireball]]|200-350|element=fire}}|{{Ability|[[Earth Damage|Smoke Bomb]]|280-450|element=earth}}|{{Ability|[[Soulfire]]|element=fire}}|{{Ability|[[Poisoned|Poison Spit]]|poisons you up to 20 hp/turn|element=poisoned}}|{{Healing|range=230-330}} }}",
+    "pushobjects": "yes",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "0%",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        "You will die zhouzandz deazhz!",
+        "For ze emperor!"
+    ],
+    "maxdmg": "1800",
+    "pushable": "no",
+    "lightradius": "3",
+    "implemented": "9.50",
+    "loot": [
+        {
+            "amount": "0-100",
+            "itemName": "Gold Coin",
+            "rarity": "always"
+        },
+        {
+            "amount": "0-10",
+            "itemName": "Platinum Coin",
+            "rarity": "always"
+        },
+        {
+            "amount": "0-5",
+            "itemName": "Meat",
+            "rarity": "always"
+        },
+        {
+            "itemName": "Broken Draken Mail",
+            "rarity": "always"
+        },
+        {
+            "itemName": "Broken Slicer",
+            "rarity": "always"
+        },
+        {
+            "itemName": "Draken Sulphur",
+            "rarity": "always"
+        },
+        {
+            "itemName": "Draken Wristbands",
+            "rarity": "always"
+        },
+        {
+            "itemName": "Lizard Scale",
+            "rarity": "always"
+        },
+        {
+            "itemName": "Magic Sulphur"
+        },
+        {
+            "itemName": "Yellow Gem"
+        },
+        {
+            "amount": "0-3",
+            "itemName": "Great Health Potion"
+        },
+        {
+            "amount": "0-3",
+            "itemName": "Great Mana Potion",
+            "rarity": "semi-rare"
+        },
+        {
+            "amount": "0-3",
+            "itemName": "Great Spirit Potion",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Red Gem",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Green Gem",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Sai",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Zaoan Sword",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Zaoan Armor",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Dragon Scale Mail",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Swamplair Armor",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Twiceslicer",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Blue Gem",
+            "rarity": "rare"
+        },
+        {
+            "amount": "0-8",
+            "itemName": "Small Emerald",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Elite Draken Mail",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Harness",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Blade of Corruption",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Energy",
+    "exp": "6300",
+    "creatureclass": "Reptiles",
+    "earthDmgMod": "100%?",
+    "physicalDmgMod": "90%?",
+    "primarytype": "Draken",
+    "race_id": "850",
+    "senseinvis": "?",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Paiz the Pauperizer",
+    "isboss": "yes",
+    "behaviour": "Chases you quickly and fights until death.",
+    "location": "[[Razachai]], behind the teleport located {{Mapper Coords|129.42|121.129|2|4|text=here}} (access gained during {{Spoiler Section|Wrath of the Emperor Quest|Mission 08: Uninvited Guests}}).",
+    "iceDmgMod": "100%?",
+    "strategy": "First of all, try to stay diagonal at all times, as his wave is very strong. '''[[Mage]]s''' should use [[ice]]-based spells, while '''[[Paladin]]s''' can use [[Sharpshooter]],[[Assassin Star]]s and [[Ethereal Spear]]. It's a hard creature for '''[[Knight]]s''', and one should use a weapon combined with [[Berserk]] based spells all the time to kill it fast.",
+    "energyDmgMod": "60%",
+    "deathDmgMod": "100%?"
+}

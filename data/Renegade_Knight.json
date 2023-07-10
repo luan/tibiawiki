@@ -1,0 +1,127 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "walksthrough": "None.",
+    "hp": "1450",
+    "abilities": "{{Ability List\n |{{Melee|0-245}}\n |{{Ability|Spark [[Berserk]]|0-125|physical\n  |scene={{Scene|spell=3x3spell|effect=Sparks Effect|caster=Renegade Knight|effect_on_caster=yes}}}}\n |{{Healing|range=200-250}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "holyDmgMod": "50%",
+    "maxdmg": "{{Max Damage|physical=370}}",
+    "pushable": "no",
+    "implemented": "10.80",
+    "loot": [
+        {
+            "amount": "1-100",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Platinum Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Meat",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Great Health Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Scroll of Heroic Deeds",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Two Handed Sword",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Small Ruby",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Red Piece of Cloth",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Small Notebook",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "War Hammer",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Crown Legs",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Crown Armor",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Crown Helmet",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Fire Sword",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Piggy Bank",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Crown Shield",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Fire, Energy, Poison",
+    "exp": "1200",
+    "mitigation": "1.46",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "renegade knight",
+    "illusionable": "no",
+    "armor": "38",
+    "convince": "--",
+    "name": "Renegade Knight",
+    "isboss": "no",
+    "iceDmgMod": "100%",
+    "energyDmgMod": "65%",
+    "deathDmgMod": "110%",
+    "plural": "renegade knights",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "By far not all renegade knights are truly knights at all. Though several of them were indeed once knights that for one reason or another fell into disgrace, a greater number of them is recruited by henchmen of aforementioned knights who 'knighted' them on the field. Though in no way having a valid claim on that title, they are still called that way even by their enemies. Over time, the number of sellswords and ruffians outgrew that of the original knights, but as the degradation of the latter continued, too, often the differences vanished completely. Renegade knights tend to give their bands flashy titles and keep up the pretension of a knightly order, even though their traditions are rather a cruel mockery of the original concepts of such orders. \nWhat all renegade knights have in common is usually a lot of combat experience, regular training and decent weapons and armor. \nUsually, they behave no better than ordinary bandits if not even worse, depending of the ideals of their chosen 'order' which might involve torture and sacrifice to some dark powers. Though rarely encountered alone, they seldom fight in a battle formation, and prefer to engage enemies aggressively on their own, without much coordination. They usually bolster their ranks with all kinds of cutthroats from whom they pick the most suitable to be trained and equipped in order to be one day 'knighted' by them. \nGroups of renegade knights are often associated with some of the darker cults that suit their style and provide some amount of mysticism that pleases the vanity of their leaders, who enviously look at the true knightly orders to which in many cases they once belonged. The lower ranks are less concerned with spirituality, and care more for gold and plunder as they did before they acquired their false knighthood. \nHunted by the authorities, the renegade knights usually hide in remote areas or are constantly on the move to avoid persecution. \nWhen they acquire a steady base, it's mostly done so by forcing the former inhabitants out. Such a base usually houses not only the knights but also their lesser followers and mystics of some kind. Rarely non-human allies are allowed to stay.",
+    "speed": "135",
+    "pushobjects": "yes",
+    "fireDmgMod": "80%",
+    "sounds": [
+        "I'll teach you a lesson!",
+        "Feel my steel!",
+        "Take this!",
+        "Let's see how good you are!",
+        "A challenge at last!"
+    ],
+    "runsat": "0",
+    "bestiaryclass": "Human",
+    "creatureclass": "Humans",
+    "earthDmgMod": "80%",
+    "physicalDmgMod": "85%",
+    "primarytype": "Outlaws",
+    "spawntype": [
+        "Regular"
+    ],
+    "race_id": "1146",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "renegadeknight",
+    "behaviour": "Fights in close combat.",
+    "location": "[[Old Fortress]] (north of [[Edron]]), [[Old Masonry]], [[Forbidden Temple (Carlin)]]",
+    "strategy": "It's practically just a [[Hero]] with a slightly different set of resistances."
+}

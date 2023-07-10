@@ -1,0 +1,173 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "?",
+    "hpDrainDmgMod": "100%?",
+    "notes": "A boss in the [[Heart of Destruction Quest]].",
+    "walksthrough": "Fire, Poison, Energy",
+    "hp": "110000",
+    "speed": "?",
+    "abilities": "{{Ability List|}}",
+    "pushobjects": "yes",
+    "healMod": "100%?",
+    "paraimmune": "yes",
+    "secondarytype": "Electro-Elementals",
+    "fireDmgMod": "100%?",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "?",
+    "pushable": "no",
+    "runsat": "0",
+    "implemented": "10.94",
+    "cooldown": "20",
+    "loot": [
+        {
+            "itemName": "Red Gem"
+        },
+        {
+            "amount": "200",
+            "itemName": "Gold Coin"
+        },
+        {
+            "itemName": "Violet Gem"
+        },
+        {
+            "amount": "25",
+            "itemName": "Platinum Coin"
+        },
+        {
+            "amount": "5",
+            "itemName": "Energy Bar"
+        },
+        {
+            "itemName": "Collar of Green Plasma"
+        },
+        {
+            "itemName": "Crystallized Anger"
+        },
+        {
+            "itemName": "Nightmare Blade"
+        },
+        {
+            "amount": "2-7",
+            "itemName": "Gold Token",
+            "rarity": "always"
+        },
+        {
+            "itemName": "Mysterious Remains"
+        },
+        {
+            "itemName": "Tiara of Power"
+        },
+        {
+            "itemName": "Void Boots"
+        },
+        {
+            "itemName": "Small Sapphire"
+        },
+        {
+            "itemName": "Blue Crystal Shard"
+        },
+        {
+            "itemName": "Small Ruby"
+        },
+        {
+            "itemName": "Lightning Robe"
+        },
+        {
+            "itemName": "Yellow Gem"
+        },
+        {
+            "itemName": "Collar of Red Plasma"
+        },
+        {
+            "itemName": "Small Emerald"
+        },
+        {
+            "itemName": "Ultimate Health Potion"
+        },
+        {
+            "itemName": "Giant Shimmering Pearl"
+        },
+        {
+            "itemName": "Small Topaz"
+        },
+        {
+            "itemName": "Violet Crystal Shard"
+        },
+        {
+            "itemName": "Crystal Mace"
+        },
+        {
+            "itemName": "Small Amethyst"
+        },
+        {
+            "itemName": "Ring of Red Plasma"
+        },
+        {
+            "itemName": "Vile Axe"
+        },
+        {
+            "itemName": "Energy Vein"
+        },
+        {
+            "itemName": "Great Mana Potion"
+        },
+        {
+            "itemName": "Green Crystal Shard"
+        },
+        {
+            "itemName": "Collar of Blue Plasma"
+        },
+        {
+            "itemName": "Ring of Green Plasma"
+        },
+        {
+            "itemName": "Great Spirit Potion"
+        },
+        {
+            "itemName": "Blue Gem"
+        },
+        {
+            "itemName": "Green Gem"
+        },
+        {
+            "itemName": "Wand of Cosmic Energy"
+        },
+        {
+            "itemName": "Lightning Headband"
+        },
+        {
+            "itemName": "Ring of Blue Plasma"
+        },
+        {
+            "itemName": "Crystalline Armor"
+        },
+        {
+            "itemName": "Golden Legs"
+        }
+    ],
+    "walksaround": "None",
+    "exp": "20000",
+    "creatureclass": "Invertebrates",
+    "earthDmgMod": "100%?",
+    "physicalDmgMod": "100%?",
+    "bosstiaryclass": "Archfoe",
+    "primarytype": "Cnidarians",
+    "race_id": "1218",
+    "senseinvis": "yes",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Realityquake",
+    "isboss": "yes",
+    "behaviour": "He spawns after defeating [[Foreshock]] and [[Aftershock]].",
+    "location": "[[Otherworld]], {{Mapper Coords|125.208|122.15|14|4|text=here}}.",
+    "iceDmgMod": "100%?",
+    "strategy": "See [[Heart of Destruction Quest]].",
+    "energyDmgMod": "100%?",
+    "deathDmgMod": "100%?"
+}

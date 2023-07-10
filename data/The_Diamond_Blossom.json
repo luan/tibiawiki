@@ -1,0 +1,86 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "{{JSpoiler|Part of [[The Secret Library Quest]].}}",
+    "walksthrough": "?",
+    "hp": "20000",
+    "speed": "?",
+    "abilities": "{{Ability List}}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "secondarytype": "Asuri",
+    "fireDmgMod": "100%?",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "?",
+    "pushable": "?",
+    "cooldown": "20",
+    "implemented": "11.80.7048",
+    "loot": [
+        {
+            "itemName": "Platinum Coin"
+        },
+        {
+            "itemName": "Soul Orb"
+        },
+        {
+            "itemName": "Gold Coin"
+        },
+        {
+            "itemName": "Peacock Feather Fan"
+        },
+        {
+            "itemName": "Flask of Demonic Blood"
+        },
+        {
+            "itemName": "Assassin Star"
+        },
+        {
+            "itemName": "Demonic Essence"
+        },
+        {
+            "itemName": "Great Spirit Potion"
+        },
+        {
+            "itemName": "Crystal Ring"
+        },
+        {
+            "itemName": "Golden Lotus Brooch"
+        },
+        {
+            "itemName": "Small Amethyst"
+        },
+        {
+            "itemName": "Moonlight Rod"
+        },
+        {
+            "itemName": "Ultimate Health Potion"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "10000",
+    "creatureclass": "Demons",
+    "earthDmgMod": "100%?",
+    "physicalDmgMod": "100%?",
+    "bosstiaryclass": "Archfoe",
+    "primarytype": "Demons",
+    "race_id": "1598",
+    "senseinvis": "?",
+    "actualname": "The Diamond Blossom",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "The Diamond Blossom",
+    "isboss": "yes",
+    "behaviour": "Unknown",
+    "location": "[[Asura Palace]].",
+    "iceDmgMod": "100%?",
+    "strategy": "Unknown",
+    "energyDmgMod": "100%?",
+    "deathDmgMod": "50%?"
+}

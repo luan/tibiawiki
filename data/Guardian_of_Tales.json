@@ -1,0 +1,117 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "walksthrough": "Fire",
+    "hp": "15000",
+    "abilities": "{{Ability List\n |{{Melee|0-600}}\n |{{Ability|Death Strike|1000-1600|element=death|scene={{Scene|spell=3sqmstrike|caster=Guardian of Tales|effect=Energy Effect|missile=Death Missile|missile_direction=south-east|missile_distance=3/3|background=slate_floor}}}}\n |{{Ability|Fire Berserk|600-800|element=fire|scene={{Scene|spell=3x3spell|caster=Guardian of Tales|effect_on_caster=yes|effect=Fire Effect|background=slate_floor}}}}\n |{{Ability|Flames Ball|500-650|element=fire|scene={{Scene|spell=1sqmballtarget|caster=Guardian of Tales|effect=Flame Effect|missile=Fire Missile|missile_direction=south-east|missile_distance=2/2|background=slate_floor|edge_size=32}}}}\n |{{Ability|Blood Beam|400-750|element=fire|scene={{Scene|spell=6sqmbeam|caster=Guardian of Tales|effect=Explosion Effect|background=slate_floor|look_direction=east}}}} \n }}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "holyDmgMod": "100%",
+    "maxdmg": "{{Max Damage|physical=600|fire=1400|death=1600}}",
+    "pushable": "no",
+    "implemented": "11.80.7048",
+    "loot": [
+        {
+            "amount": "1-5",
+            "itemName": "Small Diamond",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-29",
+            "itemName": "Platinum Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Burnt Scroll",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-4",
+            "itemName": "Book Page",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-8",
+            "itemName": "Glowing Rune",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Wand of Inferno",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Soul Orb",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Fire Axe",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Spellbook of Warding",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Piece of Hellfire Armor",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Magma Legs",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Magma Coat",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Fire Sword",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Coal",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Energy, Poison",
+    "exp": "9204",
+    "mitigation": "1.94",
+    "attacktype": "Melee",
+    "history": "It's experience was decreased from 11,800 to 9,204 on [[Updates/12.31]].",
+    "article": "a",
+    "actualname": "guardian of tales",
+    "illusionable": "no",
+    "armor": "77",
+    "convince": "--",
+    "name": "Guardian of Tales",
+    "isboss": "no",
+    "iceDmgMod": "112%",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "50%",
+    "plural": "guardians of tales",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Uncommon",
+    "bestiarytext": "The guardian of tales is a librarian and curator to its core. A good part of their enormous brain patterns are dedicated to organizing, comparing, analyzing, evaluating and memorizing new and old knowledge. They could be considered living, mobile libraries on their own. They often work in tandem with animated feathers to create new books or recreate old ones. They serve as the main copyists of Zathroth and are responsible for spreading certain knowledge while withholding other for the worthy. The guardians are zealous followers of Zathroth and as such developed their own, twisted philosophy around their teachings, so it's not uncommon for them to twist and alter texts that they produce to fill them with traps that will spell doom for the unwary and unworthy. One of their most prominent creation is that of a living, sentient runic alphabet. Those runes are able to spread like a disease amongst books and texts, change and subvert their contents and rumor has it, that it might even in some strange way may spread to sentient beings in some way. Though reclusive and more concerned about knowledge and service to Zathroth, when cornered or in service of forbidden knowledge the guardians are more then willing to engage in a fight. They use their knowledge to weave powerful spells and their only true weakness is, that they are way better in the theoretical application of their knowledge then the practical one. This leaves an opening at least for some highly skilled adventurer to weather their waves of attacks and pierce their wards and protections to overpower them. Defeating a guardian of tales though is not an easy task and surely none that pleases the god of forbidden knowledge.",
+    "speed": "210",
+    "pushobjects": "yes",
+    "fireDmgMod": "0%",
+    "sounds": [
+        ""
+    ],
+    "runsat": "0",
+    "bestiaryclass": "Magical",
+    "creatureclass": "Demons",
+    "earthDmgMod": "100%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Demons",
+    "spawntype": [
+        "Regular"
+    ],
+    "race_id": "1659",
+    "bestiarylevel": "Hard",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "guardianoftales",
+    "location": "[[Secret Library]] fire section.",
+    "strategy": "Guardians of Tales are found alongside [[Burning Book]]s and [[Rage Squid]]s, but usually in lower numbers. These creatures can deal heavy combos, specially when in front of their targets, so stay diagonal whenever possible. Their Death attack is very strong and usually not absorbed by any equipment, which is usually Fire Protection when hunting these creatures, so be careful when multiple Guardians of Tales are present in a single pull."
+}

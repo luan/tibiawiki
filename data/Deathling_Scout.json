@@ -1,0 +1,131 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "<gallery captionalign=\"center\" mode=\"nolines\">\nDeathling Scout Artwork.jpg|Official [[Creature Artwork]]\n</gallery>",
+    "walksthrough": "Fire",
+    "hp": "7200",
+    "abilities": "{{Ability List\n |{{Melee|0-300}}\n |{{Ability|Throws Hunting Spear|200-400|element=physical\n  |scene={{Scene|spell=3sqmstrike|effect=Ripple Effect|caster=Deathling Scout|look_direction=|damage_effect=Blood Effect|missile=Hunting Spear Missile|missile_direction=south-east|missile_distance=3/3}}}}\n |{{Ability|Throws Boulder|150-300|element=physical\n  |scene={{Scene|spell=3sqmstrike|effect=Explosion Effect|caster=Deathling Scout|look_direction=|effect_on_target=Explosion Effect|missile=Stone Missile|missile_direction=south-east|missile_distance=3/3}}}}\n |{{Ability|Dust Bomb|350-550|element=earth\n |scene={{Scene|spell=2sqmballself|effect=Dust Effect|caster=Deathling Scout|casting_effect=Dust Effect}}}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "holyDmgMod": "100%",
+    "maxdmg": "1250",
+    "pushable": "no",
+    "usedelements": "Physical, Earth",
+    "implemented": "11.80.7048",
+    "loot": [
+        {
+            "amount": "1-25",
+            "itemName": "Crystalline Arrow",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-25",
+            "itemName": "Vortex Bolt",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-12",
+            "itemName": "Small Emerald",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Deepling Warts",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Deepling Filet",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Deeptags",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Small Enchanted Sapphire",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Deepling Ridge",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Great Health Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Great Mana Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Heavy Trident",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Eye of a Deepling",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Warrior's Axe",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Warrior's Shield",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Life Ring",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Fish Fin",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Necklace of the Deep",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Energy, Poison",
+    "exp": "6300",
+    "mitigation": "1.88",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "deathling scout",
+    "illusionable": "no",
+    "armor": "72",
+    "convince": "--",
+    "name": "Deathling Scout",
+    "isboss": "?",
+    "iceDmgMod": "0%",
+    "energyDmgMod": "110%",
+    "deathDmgMod": "90%",
+    "plural": "deathling scouts",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "Deathlings or elder deeplings are precursors to the current breed of Njey. With their fish-like appearance but an upright walk, both share a lot of features. Their origin has not been sufficiently studied and they were a mere myth to the younger Njey. Until they appeared on various sites all over Tibia - even on the surface. They once walked the surface in times long past and inherited their will to conquer the world to their descendants. It is unclear how their reappearance on this world came to be. What is in fact clear is that they have similar goals as the younger deeplings yet they are deadlier and more aggressive than anything that crawled out of the sea before them.",
+    "speed": "155",
+    "pushobjects": "yes",
+    "fireDmgMod": "0%",
+    "sounds": [
+        "VBOX°",
+        "O(J-\"LJ-T &#61;&#124;-°"
+    ],
+    "runsat": "20",
+    "bestiaryclass": "Aquatic",
+    "creatureclass": "Amphibians",
+    "earthDmgMod": "110%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Deathlings",
+    "spawntype": [
+        "Regular"
+    ],
+    "race_id": "1667",
+    "bestiarylevel": "Hard",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "deathlingscout",
+    "behaviour": "They fight in close combat and do not retarget very often.",
+    "location": "[[Deepling Ancestorial Grounds]] and [[Sunken Temple]].",
+    "strategy": "Shooters should stay a few tiles away from them to avoid their area attacks which are used often. Be careful when around them as these creatures can deal strong combos and surprise even high level players."
+}

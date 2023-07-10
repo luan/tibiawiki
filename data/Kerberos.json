@@ -1,0 +1,96 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "[[Hellhound]]'s boss. Part of the [[Paw and Fur Society]] tasks of [[Grizzly Adams]].\n<br />\n{{JSpoiler|\nPart of the [[Killing in the Name of... Quest]].\nThe portal which leads to the boss is in depths of [[Goroma]]. The entrance of the cave is [http://tibia.wikia.com/wiki/Mapper?coords{{=}}125.97-127.120-7-2-1-1 here]. \nFollow the patches to reach boss: \n[[File:Way_to_Kerberos.PNG]]<br />\nKerberos is in north of last cave.\n}}\n[[File:Tibia - Kerberos|thumb|400px|left|[[Paladin]] [[level]] 154 killing Kerberos ([[Killing in the Name of... Quest|Boss]])]]",
+    "walksthrough": "Fire, Poison",
+    "hp": "11000",
+    "lightcolor": "206",
+    "speed": "?",
+    "abilities": "{{Ability List\n |{{Melee|0-508+?}}\n |{{Ability|Earth Wave|0-700|earth\n  |scene={{Scene|spell=8sqmwave|effect=Carnivorous Plant Effect|caster=Kerberos|look_direction=east}}}}\n |{{Ability|Life Drain Wave|0-976+?|lifedrain\n  |scene={{Scene|spell=8sqmwave|effect=Red Sparkles Effect|caster=Kerberos|look_direction=east}}}}\n |{{Ability|Fire Wave|0-662+?|fire\n  |scene={{Scene|spell=8sqmwave|effect=Fireball Effect|caster=Kerberos|look_direction=east}}}}\n |{{Ability|Sudden Death|0-498+?|death\n  |scene={{Scene|spell=3sqmstrike|caster=Kerberos|effect=Death Effect|missile=Death Missile (Large)|missile_direction=south-east|missile_distance=3/3}}}}\n |{{Ability|Envenom|0-549+?|earth}}\n |{{Ability|Fire Missile||?\n  |scene={{Scene|spell=3sqmstrike|caster=Kerberos|effect=Fireball Effect|missile=Fire Missile|damage_effect=Fire Effect|missile_direction=south-east|missile_distance=3/3}}}}\n}}",
+    "pushobjects": "Yes",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "secondarytype": "Demons",
+    "fireDmgMod": "0%?",
+    "holyDmgMod": "125%?",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "{{Max Damage|physical=508|earth=700|death=498?|fire=662?|lifedrain=976}}",
+    "pushable": "No",
+    "lightradius": "3",
+    "runsat": "0",
+    "implemented": "9.20",
+    "loot": [
+        {
+            "amount": "0-18",
+            "itemName": "Platinum Coin"
+        },
+        {
+            "amount": "0-5",
+            "itemName": "Black Pearl"
+        },
+        {
+            "itemName": "Hellhound Slobber"
+        },
+        {
+            "itemName": "Flask of Demonic Blood"
+        },
+        {
+            "amount": "0-3",
+            "itemName": "Great Mana Potion"
+        },
+        {
+            "amount": "0-5",
+            "itemName": "Gold Ingot"
+        },
+        {
+            "itemName": "Magma Amulet"
+        },
+        {
+            "amount": "0-3",
+            "itemName": "Demonic Essence"
+        },
+        {
+            "itemName": "Green Gem"
+        },
+        {
+            "itemName": "Fire Sword"
+        },
+        {
+            "itemName": "Knight Axe"
+        },
+        {
+            "itemName": "Golden Armor"
+        },
+        {
+            "itemName": "Explorer Brooch"
+        },
+        {
+            "itemName": "Ruthless Axe"
+        },
+        {
+            "itemName": "Executioner"
+        }
+    ],
+    "walksaround": "Energy",
+    "exp": "10000",
+    "creatureclass": "Mammals",
+    "earthDmgMod": "80%?",
+    "physicalDmgMod": "100%?",
+    "primarytype": "Canines",
+    "race_id": "761",
+    "senseinvis": "?",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Kerberos",
+    "isboss": "yes",
+    "location": "[[Goroma]] (look at spoiler for more info).",
+    "iceDmgMod": "105%?",
+    "strategy": "Their melee attack is considerable much weaker than their wave attacks (which are fatal if combined) so it's best to block it while standing diagonal. [[Magic Wall]]s, [[Wild Growth]] or [[Energy Wall Rune]]s can be used to help you to staying diagonal and preventing you from the wave attacks. These creatures are very strong so don't underestimate them!<br />\n[[Paladin]]s Should use [[Assassin Star]]s and cast [[Divine Missile]]s while wearing some [[Stone Skin Amulet]]s. At lower levels use [[Energy Ring]]s, stay at meele range, don´t run and heal with [[Great Spirit Potion]]s or [[Strong Mana Potion]]s trying to stay at full mana all the time.\n\n[[Mages]] can try to block them without [[mana shield]] at level 200+ with some amount of luck while being quick with your [[exura vita|healing spells]], while shooting [[Sudden Death]] runes. Also it's recommended to wear some [[Stone Skin Amulet]]s to reduce the [[Physical Damage]], alternatively [[Might Ring]]s.<br />\nKerberos is weak for [[Ice Damage]] and [[Holy Damage]], so use [[Ice Damage|ice]] or [[Holy Damage|holy]]based attacks.",
+    "energyDmgMod": "90%?",
+    "deathDmgMod": "100%?"
+}

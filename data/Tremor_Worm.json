@@ -1,0 +1,125 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "tremor worms",
+    "hpDrainDmgMod": "100%?",
+    "notes": "{{JSpoiler|You will receive the [[Rumble in the Plant]] achievement after killing it for the first time, as long as you contribute during most of the battle.}}",
+    "walksthrough": "None.",
+    "hp": "125000",
+    "speed": "?",
+    "abilities": "{{Ability List\n |{{Melee|0-400}}\n}}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "25%",
+    "holyDmgMod": "25%",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "{{Max Damage|physical=400}}",
+    "pushable": "?",
+    "usedelements": "Physical",
+    "implemented": "10.70",
+    "loot": [
+        {
+            "amount": "100",
+            "itemName": "Gold Coin"
+        },
+        {
+            "amount": "25",
+            "itemName": "Platinum Coin"
+        },
+        {
+            "itemName": "Red Crystal Fragment"
+        },
+        {
+            "itemName": "Cyan Crystal Fragment"
+        },
+        {
+            "itemName": "Green Crystal Fragment"
+        },
+        {
+            "itemName": "Green Crystal Shard"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "Violet Crystal Shard"
+        },
+        {
+            "amount": "5",
+            "itemName": "Small Diamond"
+        },
+        {
+            "itemName": "Great Spirit Potion"
+        },
+        {
+            "amount": "15",
+            "itemName": "Great Mana Potion"
+        },
+        {
+            "amount": "15",
+            "itemName": "Great Health Potion"
+        },
+        {
+            "amount": "10",
+            "itemName": "Ultimate Health Potion"
+        },
+        {
+            "itemName": "Ring of Healing"
+        },
+        {
+            "itemName": "Underworld Rod"
+        },
+        {
+            "itemName": "Time Ring"
+        },
+        {
+            "amount": "0-3",
+            "itemName": "Glooth Bag"
+        },
+        {
+            "itemName": "Yellow Gem"
+        },
+        {
+            "itemName": "Small Ruby"
+        },
+        {
+            "itemName": "Glooth Glider Crank"
+        },
+        {
+            "itemName": "Glooth Cape"
+        },
+        {
+            "itemName": "Red Gem"
+        },
+        {
+            "itemName": "Stone Skin Amulet"
+        }
+    ],
+    "walksaround": "Energy, Fire, Poison",
+    "exp": "80000?",
+    "creatureclass": "Invertebrates",
+    "earthDmgMod": "25%",
+    "physicalDmgMod": "25%?",
+    "primarytype": "Annelids",
+    "spawntype": [
+        "Raid",
+        "Unique",
+        "Unblockable"
+    ],
+    "senseinvis": "?",
+    "article": "a",
+    "actualname": "tremor worm",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "no",
+    "name": "Tremor Worm",
+    "isboss": "no",
+    "behaviour": "Every 10 seconds it will vanish and appear in another location. It can however appear several times in a row in the same place.",
+    "location": "Second floor underground of [[Underground Glooth Factory]] (west side), only during a raid. Closest place to entrance is {{Mapper Coords|130.239|124.219|13|4|text=here}}.",
+    "iceDmgMod": "25%",
+    "strategy": "Stay in one place and don't waste time running around the spawn. Make sure you stay alert to attack it when it spawns. Mages should summon [[Fire Elemental]]s or [[Fire Devil]]s, and all players above level 200 should use their ultimate summon. <br />\n<gallery mode=\"nolines\">Tremor Worm Battle.png | Fighting Tremor Worm with a small team.</gallery>",
+    "energyDmgMod": "25%",
+    "deathDmgMod": "25%?"
+}

@@ -1,0 +1,123 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "The strongest class of pirates you will come across. They look fearsome and can deal a lot of damage if you are not careful. Usually they are found with large groups of other pirates. Deadly as a [[Vampire]], maybe more so level 40+ recommended.",
+    "walksthrough": "?",
+    "hp": "675",
+    "abilities": "{{Ability List\n |{{Melee|0-170}}\n |{{Ability|[[Throwing Star]]|0-150|element=physical\n  |scene={{Scene|spell=5sqmstrike|background=canvas|caster=Pirate Corsair|look_direction=south|missile=Throwing Star Missile|missile_direction=south-east|missile_distance=5/5}}}}\n |{{Debuff2|[[Creature Spells#Musical Strike|Musical Strike]]|melee=yes|value=75%}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "holyDmgMod": "90%",
+    "maxdmg": "{{Max Damage|physical=320}}",
+    "pushable": "?",
+    "usedelements": "Physical",
+    "implemented": "7.8",
+    "loot": [
+        {
+            "amount": "0-88",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Sabre",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "0-12",
+            "itemName": "Throwing Star",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Compass",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Dark Armor",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Strong Health Potion",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Dark Shield",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Pirate Backpack",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Pirate Hat",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Hook",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Eye Patch",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Peg Leg",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Pirate Boots",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Skull Candle",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Piggy Bank",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Rum Flask",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Fire, Energy, Poison",
+    "exp": "350",
+    "mitigation": "1.46",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "pirate corsair",
+    "illusionable": "yes",
+    "armor": "20",
+    "convince": "775",
+    "name": "Pirate Corsair",
+    "isboss": "no",
+    "iceDmgMod": "105%",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "105%",
+    "plural": "pirate corsairs",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "The Pirate Corsairs are the leaders of the pirates. They command their own ships and rule their crews with an iron hand. Of course, one has to pay the price for having so much power. A Pirate Corsair must always watch his back for vengeful or ambitious crewmen, or for attacks of other corsairs. To climb to such a position of power in a ruthless society like that of the pirates, one has to be remorseless, cunning and lethal.<br />Everybody that had the chance to observe a Pirate Corsair in combat, knows that they did not obtain their position by chance. They are competent fighters that are often accompanied by some henchmen to lead a surprise attack on their unsuspecting opponents. They exploit any weakness of their enemies and use every dirty trick they are able to master. Their fighting skills are backed by their weapons and armor which are, of course, the best the pirates were able to loot during their many years of piracy.",
+    "speed": "119",
+    "pushobjects": "?",
+    "fireDmgMod": "110%",
+    "sounds": [
+        "Hiyaa!",
+        "Give up!",
+        "Plundeeeeer!"
+    ],
+    "bestiaryclass": "Human",
+    "creatureclass": "Humans",
+    "earthDmgMod": "80%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Pirates",
+    "race_id": "250",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "piratecorsair",
+    "behaviour": "They will pursue their opponent while using distance attack with [[Throwing Star]]s, they run in very low health and will always attack the weakest [[Player]] they see and will switch back quickly even if [[Challenge]]d by an [[Elite Knight]].",
+    "location": "[[Nargor]], [[Trade Quarter]], [[Foreigner Quarter]] (Dock), [[Krailos Steppe]] (During a [[World Change]]).",
+    "strategy": "If hunting a certain area littered with an assortment of [[Pirate]]s with Pirate Corsairs there too, make sure the other [[Pirate]]s run (by hitting them down to an extremely low hp), to avoid being swarmed. Convincing other corsairs in the area can really prove effective as it'll cost less mana and resources to heal them rather than yourself.<br /><br>'''[[Mages]]:''' Mages should use [[Flame Strike]], [[Ice Strike]] or [[Death Strike]] with a blocker or solo with mana shield and/or runes to bring them down faster. Watch out when you running after them or away from them, you might encounter more [[Pirates]].<br /><br />'''[[Paladins]]:''' These should be dealt with care if you are below level 50. While running these creatures make sure you don't run into another spawn of pirates. Take them down as fast as possible; use attack spells if necessary, such as [[Ethereal Spear]], or [[Divine Missile]] for less mana usage but mind their slight resistance to holy damage; on that note though, you can also fire at a longer range with [[Holy Missile]]. Be careful of their throwing star attacks, if you forget to heal in between hits you might be killed. Using a throwing weapon with a shield helps alot to take less damage; still, they can do 300+ combos with just throwing stars.<br /><br />'''[[Knights]]:''' With at least 70/70 skills you can solo one with a good onehanded weapon and a good shield but to hunt them with profit, you should have at least 80/80 skills and level 60+. At lower skills, you probably want to use [[Brutal Strike]] and/or [[Whirlwind Throw]] to take them down faster, and [[Inflict Wound]] is nice to use as well for more DPS. If meeting multiple corsairs along with other [[Pirates]], you may want to use [[Groundshaker]] and/or some other type of AoE spell/runes."
+}

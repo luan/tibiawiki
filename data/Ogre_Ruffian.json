@@ -1,0 +1,136 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "walksthrough": "?",
+    "hp": "5500",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "The Ogre Ruffian is a stronger version of [[Ogre Brute]]s.",
+    "speed": "215",
+    "abilities": "{{Ability List| {{Melee|?}} }}",
+    "pushobjects": "yes",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "fireDmgMod": "100%",
+    "holyDmgMod": "100%",
+    "sounds": [
+        ""
+    ],
+    "pushable": "no",
+    "runsat": "0",
+    "implemented": "12.20.8834",
+    "bestiaryclass": "Giant",
+    "loot": [
+        {
+            "itemName": "Platinum Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Ogre Ear Stud",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Ogre Nose Ring",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-?",
+            "itemName": "Meat",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Small Sapphire",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Small Emerald",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Small Enchanted Emerald",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Yellow Gem",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Red Gem",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Blue Gem",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Stone Skin Amulet",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "War Hammer",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Diamond Sceptre",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Green Crystal Splinter",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Cyan Crystal Fragment",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Pair of Iron Fists",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Skull Fetish",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Metal Spats",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Onyx Chip",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Ogre Klubba",
+            "rarity": "rare"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "5000",
+    "creatureclass": "Humanoids",
+    "earthDmgMod": "100%",
+    "mitigation": "2.72",
+    "physicalDmgMod": "50%",
+    "primarytype": "Giants",
+    "spawntype": [
+        "Regular"
+    ],
+    "race_id": "1820",
+    "attacktype": "Melee",
+    "bestiarylevel": "Hard",
+    "senseinvis": "yes",
+    "article": "an",
+    "actualname": "ogre ruffian",
+    "illusionable": "no",
+    "armor": "102",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "bestiaryname": "ogreruffian",
+    "name": "Ogre Ruffian",
+    "isboss": "no",
+    "location": "[[Kilmaresh Central Steppe]], [[Kilmaresh Southern Steppe]], [[Green Belt]], [[Kilmaresh Mountains]] (underground).",
+    "iceDmgMod": "120%",
+    "strategy": "Unknown.",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "100%"
+}

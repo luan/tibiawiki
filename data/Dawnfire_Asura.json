@@ -1,0 +1,164 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "walksthrough": "Fire, Energy, Poison",
+    "hp": "2900",
+    "abilities": "{{Ability List\n |{{Melee|0-252+}}\n |{{Healing|range=80-119+}}\n |{{Ability|Flame Strike|0-175|fire}}\n |{{Debuff2|3x3 Red Sparkles|magic=yes|value=1}}\n |{{Ability|Mana Drain|0-252+|manadrain}}\n |{{Ability|3x3 [[Cloud Effect]] on herself|paralysis for 5 seconds|slowed}}\n |{{Ability|3x3 Fire Strike|10 hp for 26 turns|burning}}\n |{{Ability|Sudden Death explosion|0-312+|death}}|{{Ability|Whirlwind Throw}}\n |{{Ability|Life Drain beam|0-200|lifedrain}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "holyDmgMod": "110%",
+    "maxdmg": "{{Max Damage|physical=252+|manadrain=252+|fire=185+|death=312+|lifedrain=200}}",
+    "pushable": "no",
+    "implemented": "10.80",
+    "loot": [
+        {
+            "amount": "1-100",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-9",
+            "itemName": "Platinum Coin",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Flask of Demonic Blood",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Soul Orb",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Golden Lotus Brooch",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Peacock Feather Fan",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Demonic Essence",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Great Mana Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Small Ruby",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Small Diamond",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Small Emerald",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Small Topaz",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Small Amethyst",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Mystic Turban",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Red Piece of Cloth",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Wand of Inferno",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Mysterious Fetish",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Red Gem",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Focus Cape",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Magma Coat",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Ruby Necklace",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Death Ring",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Oriental Shoes",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Blue Gem",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Spellbook of Mind Control",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "None.",
+    "exp": "4100",
+    "mitigation": "1.46",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "dawnfire asura",
+    "illusionable": "no",
+    "armor": "48",
+    "convince": "--",
+    "name": "Dawnfire Asura",
+    "isboss": "no",
+    "iceDmgMod": "110%",
+    "energyDmgMod": "105%",
+    "deathDmgMod": "80%",
+    "plural": "dawnfire asuras",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "Asuri are demonic creatures who usually hide their true face and appear in the form of beautiful women. Though they can take different shapes they favour a seductive appearance, for example in the form of young dancers. These demonesses are driven mainly by greed and envy. They enter the mortal world because they begrudge humans and other peoples their vigour, beauty and happiness. They seek to destroy positive feelings as love, contentment and mirth, because herefrom they gain their energy. An asura especially stalks men she regards as handsome and happy. These victims are lured into gorgeous palaces full of riches and conveniences, inhabited by several asuri. There they ensnare the men with amusements such as wine, music, dance and intoxicating substances that indulge their senses and make them submissive and weak-willed. Then the asuri divest them of vitality and beauty. When an asura gets weary of her victim or if captives unexpectedly oppose the demonesses, these unfortunates come to know the true face of the palace: As the asuri show a beautiful face outwardly and are in truth terrible demons, likewise the palace, behind its marvelous veneer, is full of prison cells, torture chambers and even rooms where sacrificial altars await the asuri's emaciated victims. \n\nThere are several kinds of asuri. The dawnfire asuri have tanned skin and black hair, favouring clothes in the colours red, orange and yellow. They are associated with fire and energy and prefer to use magic rather than weapons.",
+    "speed": "140",
+    "pushobjects": "yes",
+    "fireDmgMod": "0%",
+    "sounds": [
+        "May the flames consume you!",
+        "Encounter the flames of destiny!",
+        "Fire and destruction!"
+    ],
+    "runsat": "0",
+    "bestiaryclass": "Demon",
+    "creatureclass": "Demons",
+    "earthDmgMod": "100%",
+    "physicalDmgMod": "110%",
+    "primarytype": "Asuri",
+    "spawntype": [
+        "Regular",
+        "Unblockable"
+    ],
+    "race_id": "1134",
+    "bestiarylevel": "Hard",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "asura",
+    "behaviour": "She tends to stay diagonal of you, causing her beam to miss you often.",
+    "location": "[[Asura Palace]].",
+    "strategy": "Always wear a [[Dwarven Ring]] when fighting them otherwise you'll be heavily affected by [[Drunkenness]]. Do not underestimate these creatures as their physical damage is very strong and they come in large groups."
+}

@@ -1,0 +1,106 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "It's the [[Giant Spider]]'s boss.{{JSpoiler|Part of the [[Killing in the Name of... Quest]].}}",
+    "walksthrough": "?",
+    "hp": "3200",
+    "speed": "219",
+    "abilities": "{{Ability List\n |{{Melee|0-700|poison=30}}\n |{{Ability|combat|250-300|earth|scene={{Scene|spell=7sqmstrike|effect=Poison Effect 3|caster=The Old Widow|missile=Poison Missile|missile_direction=south-east|missile_distance=7/7}}}}\n |{{Ability|Great Poison Bomb|element=poison field\n  |scene={{Scene|spell=2sqmballtarget|caster=The Old Widow|effect=Poison_Gas|missile=Poison Missile|missile_direction=south-east|missile_distance=2/2}}}}\n |{{Healing|range=225-275|scene={{Scene|spell=buffspell|effect=Blue Sparkles Effect|caster=The Old Widow|effect_on_caster=yes}}}}\n |{{Ability|paralyze|200-220 points for 25 seconds|paralyze|scene={{Scene|spell=7sqmstrike|effect=Poison Effect 3|caster=The Old Widow|missile=Poison Missile|missile_direction=south-east|missile_distance=7/7}}}}\n |{{Haste|scene={{Scene|spell=buffspell|effect=Red Sparkles Effect|caster=The Old Widow|effect_on_caster=yes}}}}\n |{{Summon|giant spider|2}}\n}}",
+    "pushobjects": "Yes",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "80%",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "1050 (1800 with 2 [[Giant Spider]]s)",
+    "pushable": "No",
+    "runsat": "0",
+    "implemented": "7.5",
+    "loot": [
+        {
+            "amount": "0-100",
+            "itemName": "Gold Coin"
+        },
+        {
+            "amount": "0-10",
+            "itemName": "Platinum Coin"
+        },
+        {
+            "amount": "0-3",
+            "itemName": "Spider Silk"
+        },
+        {
+            "itemName": "Steel Helmet"
+        },
+        {
+            "amount": "0-4",
+            "itemName": "Great Health Potion"
+        },
+        {
+            "itemName": "Knight Armor"
+        },
+        {
+            "itemName": "Time Ring"
+        },
+        {
+            "itemName": "Energy Ring",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Stealth Ring",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Knight Legs",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Sweet Smelling Bait",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Platinum Amulet",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Spool of Yarn",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Dreaded Cleaver",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Bloody Edge",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Energy, Fire",
+    "exp": "4200",
+    "creatureclass": "Invertebrates",
+    "earthDmgMod": "0%?",
+    "physicalDmgMod": "80%<?",
+    "primarytype": "Arachnids",
+    "spawntype": [
+        "Raid",
+        "Unique",
+        "Triggered",
+        "Unblockable"
+    ],
+    "race_id": "208",
+    "senseinvis": "yes",
+    "illusionable": "no",
+    "armor": "45",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "The Old Widow",
+    "isboss": "yes",
+    "location": "Its task [[teleport]] is located on the [[Plains of Havoc]], {{Mapper Coords|128.46|126.24|8|4|text=here}}. Sometimes it spawns outside with all the other [[Giant Spider]]s.",
+    "iceDmgMod": "100%?",
+    "strategy": "'''To all vocations: stand at the most southern spot in the cave to make sure only The Old Widow can hit you, and its summons cannot.''' It is not a very good idea to try to outrun it, as its heavy paralysis and ability to haste make this very difficult. If you are lucky enough, a Giant Spider will stand in front of you, not The Old Widow, and then you will have an easy time killing it (for mages and paladins). Knights just kill the Giant Spider and then The Old Widow.<br>If your level is below 90, it's wise to use [[Stone Skin Amulet]]s (2-4 may be enough) and [[Might Ring]]s to increase you chances. <br/>\n'''[[Mages]]''': This is a hard monster to solo as a mage, try not to face it below level 80 as 2,000+ mana and the use of [[Great Mana Potion]]s are recommended. Since it is a very fast creature, [[Wild Growth]]/[[Magic Wall]]s will come in handy. Use [[Magic Shield]] because it can hit 600 easily. Unlike [[Giant Spider]]s, The Old Widow is strong to [[Fire Damage]] so [[Hell's Core]] will hit less. Take a [[Wand of Voodoo]] or [[Underworld Rod]] and attack it with [[Sudden Death]] runes while drinking plenty of Great Mana Potions. [[Terra Set]] is also recommended, although you might want to wear a [[Protection Amulet]] or [[Stone Skin Amulet]] rather than a [[Terra Amulet]]. If your level is below 60 then you will most likely die even with [[Magic Shield]], however, it is possible for a level 60 mage to solo The Old Widow using [[Energy Wall]]s and Sudden Death runes.<br/>\n'''[[Paladin]]s''': Level 80+ can kill it by using [[Assassin Star]]s and [[Energy Ring]]. Before you pass into the teleport, make sure you use [[Haste]] or [[Strong Haste]] to avoid being trapped and once you get inside the boss room, keep using [[Strong Mana Potion]]s or [[Great Spirit Potion]]s when your mana falls low.<br/>\n'''[[Knight]]s''': Level 90+ can kill it by using [[Defensive Fighting]], [[Great Health Potion]]s and [[Fierce Berserk]]. Always drink [[Mana Potion]]s and use Fierce Berserk with full hp. If your level is below 80 you will have high chances to die, because The Old Widow will deal you more damage than you can recover from. It is highly recommended to cast [[Blood Rage]], then combine with [[Berserk]], [[Fierce Berserk]], [[Brutal Strike]] and [[Front Sweep]].\n[[File:Tibia with Sound Effects - The Old Widow-0|full|center|270 px]]",
+    "energyDmgMod": "90%<?",
+    "deathDmgMod": "100%?"
+}

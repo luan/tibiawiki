@@ -1,0 +1,186 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "The walls of the room is filled with [[Magicthrower]]s, [[Flamethrower]]s, [[Plaguethrower]]s and [[Shredderthrower]]s. Also [[Latrivan]], his brother, is in the same room.\n\n{{JSpoiler|It's one of the bosses of [[The Inquisition Quest]].}}",
+    "walksthrough": "?",
+    "hp": "40000",
+    "speed": "195",
+    "abilities": "{{Ability List\n |{{Melee|0-500}}\n |{{Ability|Fire Missile|0-200|element=fire}}\n |{{Ability|Poisoning Beam|element=poison}}\n |{{Ability|Death Wave|0-600|element=death\n  |scene={{Scene|spell=5sqmwavewide2|caster=Golgordan|look_direction=east|effect=Death Effect|damage_effect=None}}}}\n |{{Ability|Death Strike|459-600|element=death\n  |scene={{Scene|spell=7sqmstrike|caster=Latrivan|look_direction=south|effect=Cloud Effect|damage_effect=None|missile=Death Missile|missile_direction=south-east|missile_distance=7/7}}}}\n |{{Ability|Fire Beam|0-600|element=fire}}\n |{{Ability|Fire Bomb|112-200+|element=fire\n  |scene={{Scene|spell=2sqmballself|caster=Golgordan|effect=Flame Effect|effect_on_caster=yes|damage_effect=Fire Effect}}}}\n |{{Debuff2|Teleport beam|melee=yes|shielding=yes|distance=yes\n  |scene={{Scene|spell=9sqmbeam|caster=Golgordan|look_direction=east|effect=Poof Effect|damage_effect=Unknown}}}}\n |{{Ability|Smoke Beam||?}}\n |{{Healing|range=456-546\n  |scene={{Scene|spell=buffspell|effect=Blue Sparkles Effect|caster=Golgordan|effect_on_caster=yes}}}}\n}}",
+    "pushobjects": "Yes",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "secondarytype": "Archdemons",
+    "fireDmgMod": "101%>?",
+    "holyDmgMod": "99%<?",
+    "sounds": [
+        "Latrivan, you fool!",
+        "We are the right hand and the left hand of the seven!"
+    ],
+    "maxdmg": "3000",
+    "pushable": "No",
+    "implemented": "8.20",
+    "loot": [
+        {
+            "amount": "7-262",
+            "itemName": "Gold Coin"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Great Health Potion"
+        },
+        {
+            "itemName": "Ring of Healing"
+        },
+        {
+            "itemName": "Magic Light Wand"
+        },
+        {
+            "itemName": "Double Axe"
+        },
+        {
+            "amount": "1-20",
+            "itemName": "Small Amethyst"
+        },
+        {
+            "itemName": "Gold Ring"
+        },
+        {
+            "itemName": "Silver Dagger"
+        },
+        {
+            "amount": "1-10",
+            "itemName": "Small Sapphire"
+        },
+        {
+            "itemName": "Stealth Ring"
+        },
+        {
+            "itemName": "Energy Ring"
+        },
+        {
+            "amount": "1-15",
+            "itemName": "Black Pearl"
+        },
+        {
+            "itemName": "Silver Amulet"
+        },
+        {
+            "amount": "1-10",
+            "itemName": "Small Emerald"
+        },
+        {
+            "itemName": "Devil Helmet"
+        },
+        {
+            "itemName": "Stone Skin Amulet"
+        },
+        {
+            "itemName": "Fire Axe"
+        },
+        {
+            "itemName": "Demon Shield"
+        },
+        {
+            "amount": "2-15",
+            "itemName": "White Pearl"
+        },
+        {
+            "amount": "1-8",
+            "itemName": "Onyx Arrow"
+        },
+        {
+            "amount": "1-5",
+            "itemName": "Small Diamond"
+        },
+        {
+            "itemName": "Giant Sword"
+        },
+        {
+            "itemName": "Ice Rapier"
+        },
+        {
+            "itemName": "Gold Ingot"
+        },
+        {
+            "itemName": "Death Ring"
+        },
+        {
+            "itemName": "Skull Staff"
+        },
+        {
+            "itemName": "Mind Stone"
+        },
+        {
+            "itemName": "Protection Amulet"
+        },
+        {
+            "itemName": "Moonlight Rod"
+        },
+        {
+            "itemName": "Might Ring"
+        },
+        {
+            "itemName": "Snakebite Rod"
+        },
+        {
+            "itemName": "Blue Gem"
+        },
+        {
+            "itemName": "Crystal Ball"
+        },
+        {
+            "itemName": "Wand of Decay"
+        },
+        {
+            "itemName": "Necrotic Rod"
+        },
+        {
+            "amount": "6",
+            "itemName": "Assassin Star"
+        },
+        {
+            "itemName": "Golden Sickle"
+        },
+        {
+            "itemName": "Green Gem"
+        },
+        {
+            "itemName": "Mastermind Shield"
+        },
+        {
+            "itemName": "Boots of Haste"
+        },
+        {
+            "itemName": "Golden Legs"
+        },
+        {
+            "itemName": "Demonic Essence"
+        },
+        {
+            "itemName": "Voodoo Doll"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "10000",
+    "creatureclass": "Demons",
+    "earthDmgMod": "100%?",
+    "physicalDmgMod": "99%<?",
+    "bosstiaryclass": "Bane",
+    "primarytype": "The Ruthless Seven Minions",
+    "race_id": "416",
+    "senseinvis": "?",
+    "actualname": "Golgordan",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Golgordan",
+    "isboss": "yes",
+    "behaviour": "Fights until death.",
+    "location": "Through the teleport in [[The Battlefields]].",
+    "iceDmgMod": "101%>?",
+    "strategy": "Unknown",
+    "energyDmgMod": "100%?",
+    "deathDmgMod": "0%"
+}

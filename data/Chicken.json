@@ -1,0 +1,72 @@
+{
+    "summon": "220",
+    "templateType": "Creature",
+    "notes": "Appeared in the Summer [[Update]] 2005. During [[Wikipedia:Easter|Easter]] chickens also semi-rarely drop [[Coloured Egg (Blue)|Blue]], [[Coloured Egg (Green)|Green]], [[Coloured Egg (Purple)|Purple]], [[Coloured Egg (Red)|Red]] and [[Coloured Egg (Yellow)|Yellow Coloured Eggs]].",
+    "walksthrough": "None",
+    "hp": "15",
+    "abilities": "{{Ability List|}}",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "holyDmgMod": "100%",
+    "maxdmg": "{{Max Damage|}}",
+    "pushable": "Yes",
+    "implemented": "7.5",
+    "loot": [
+        {
+            "itemName": "Chicken Feather",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Worm",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "Meat",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Egg",
+            "rarity": "rare"
+        }
+    ],
+    "walksaround": "Fire, Energy, Poison",
+    "exp": "0",
+    "mitigation": "0.05",
+    "attacktype": "None",
+    "article": "a",
+    "actualname": "chicken",
+    "illusionable": "yes",
+    "armor": "1",
+    "convince": "220",
+    "name": "Chicken",
+    "isboss": "no",
+    "iceDmgMod": "100%",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "100%",
+    "plural": "chickens",
+    "hpDrainDmgMod": "100%",
+    "usespells": "no",
+    "occurrence": "Common",
+    "bestiarytext": "Chickens are domesticated animals that usually live on farms. Their eggs and their flesh makes them quite useful and neither the rumour of evil battle chickens nor the myth of a hidden town inhabited by talking chickens turned out to be true. Chickens have accompanied mankind and other races from the beginning and they have spread over the world as civilisation advanced.",
+    "speed": "64",
+    "pushobjects": "No",
+    "fireDmgMod": "100%",
+    "sounds": [
+        "Cluck Cluck",
+        "Gokgoooook"
+    ],
+    "bestiaryclass": "Bird",
+    "creatureclass": "Misc",
+    "earthDmgMod": "100%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Birds",
+    "race_id": "111",
+    "bestiarylevel": "Trivial",
+    "senseinvis": "no",
+    "drownDmgMod": "100%",
+    "bestiaryname": "chicken",
+    "behaviour": "Normally, it walks around pecking at the ground, and tries to avoid players. When [[Fiendish and Influenced Creatures|influenced]], it follows players but, much like [[Dog]]s, does not attack them.",
+    "location": "[[Sabrehaven]], [[Rookgaard]], [[Donald McRonald|The McRonald's Farm]] in [[Thais]], [[Northport]], [[Fibula]], [[Carlin]] (killable but unreachable), [[Greenshore]], [[Krimhorn]], [[Orc Fortress]], [[Factory Quarter]], also there's one in the farm near [[Edron]].",
+    "strategy": "Just attack them. If you're in Rookgaard's Premium Hunting Area, be prepared to face other [[Creatures]] like a [[snake]] or a [[spider]]."
+}

@@ -1,0 +1,141 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "lamassus",
+    "hpDrainDmgMod": "100%?",
+    "walksthrough": "Energy, Poison, Fire",
+    "hp": "8700",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "Lamassu have the body of a bull, feathered wings and a human head. The noble and stern creatures are a subspecies of the Anuma, magical beasts that inhabit the continent Kilmaresh and were created by the sun gods Suon and Fafnar.<br/>It is said that the entire continent was once given to them by the gods. But the Anuma conferred the dominance over Kilmaresh to the humans, in an effort to let them take responsibility of their own. However, after the religious war between the worshippers of Suon and Fafnar and the cataclysm that severed the continent, the Anuma took the reign over Kilmaresh back - for the humans' own benefit as they said.<br/>Lamassu are willing to assist mortal creatures in combat, if they are convinced that those under their protection are worthy and pure of heart. They never shy away from a conflict and will fight to the last breath rather than to retreat or surrender. Lamassu are capable of flight yet prefer to stay on the ground, roaming Kilmaresh's steppe and - more often - ruins. They prefer deserted cities and abandoned temples as their homesteads. Some lamassu even live underground to guard old graveyards and catacombs. They regard themselves as wardens of those ancient sacred sites and won't tolerate any disturbance or sacrilege.",
+    "speed": "160",
+    "abilities": "{{Ability List\n |{{Melee|0-600}}\n |{{Ability|Earth Ball|100-405|element=earth\n  |scene={{Scene|spell=1sqmballtarget|effect=Plant Effect|damage_effect=Poison Effect 1|missile=Small Stone Missile|missile_direction=south-east|missile_distance=2/2}}}}\n |{{Ability|Holy Exori|200-485|element=holy\n  |scene={{Scene|spell=3x3spell|effect=Holy Cross Effect|effect_on_caster=yes|damage_effect=Holy Effect|missile_direction=south-east|missile_distance=1/1}}}}\n |{{Ability|Holy Bomb|element=holy\n  |scene={{Scene|spell=2sqmballself|effect=Holy Cross Effect|effect_on_caster=yes|damage_effect=Holy Effect}}}}\n\n}}",
+    "pushobjects": "yes",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "fireDmgMod": "100%",
+    "holyDmgMod": "80%",
+    "sounds": [
+        "Be gone, mortal! This is not your place!",
+        "I won't tolerate any sacrilege!",
+        "I guard this site in Suon's name!"
+    ],
+    "pushable": "no",
+    "runsat": "0",
+    "implemented": "12.20.8834",
+    "bestiaryclass": "Magical",
+    "loot": [
+        {
+            "itemName": "Platinum Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Lamassu Hoof",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Lamassu Horn",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Terra Amulet",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Violet Crystal Shard",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Blue Crystal Shard",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Red Gem",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Terra Hood",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Red Crystal Fragment",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Small Emerald",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Opal",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Violet Gem",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Blue Gem",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Elven Amulet",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Sacred Tree Amulet",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Green Crystal Shard",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Green Crystal Splinter",
+            "rarity": "semi-rare"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Rainbow Quartz",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Green Crystal Fragment",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Onyx Chip",
+            "rarity": "semi-rare"
+        }
+    ],
+    "walksaround": "None",
+    "exp": "9000",
+    "creatureclass": "Misc",
+    "earthDmgMod": "80%",
+    "mitigation": "2.16",
+    "physicalDmgMod": "100%",
+    "primarytype": "Anuma",
+    "spawntype": [
+        "Regular"
+    ],
+    "race_id": "1806",
+    "attacktype": "Melee",
+    "bestiarylevel": "Hard",
+    "senseinvis": "yes",
+    "article": "a",
+    "actualname": "lamassu",
+    "illusionable": "no",
+    "armor": "82",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "bestiaryname": "lamassu",
+    "name": "Lamassu",
+    "isboss": "no",
+    "location": "[[Kilmaresh]].",
+    "iceDmgMod": "100%",
+    "strategy": "Unknown.",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "130%"
+}

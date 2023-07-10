@@ -1,0 +1,63 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "{{JSpoiler|It's part of the ''Do not Feed the Porker'' game during the [[Orcsoberfest]] event.}}",
+    "walksthrough": "?",
+    "hp": "20000",
+    "abilities": "{{Ability List|None}}",
+    "pushobjects": "no",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "100%?",
+    "holyDmgMod": "100%?",
+    "sounds": [],
+    "maxdmg": "0",
+    "pushable": "no",
+    "usedelements": "?",
+    "runsat": "0",
+    "implemented": "12.20.9066",
+    "loot": [
+        {
+            "amount": "0-35?",
+            "itemName": "Meat"
+        },
+        {
+            "amount": "0-40",
+            "itemName": "Ham"
+        },
+        {
+            "amount": "0-25?",
+            "itemName": "Roasted Meat"
+        },
+        {
+            "amount": "0-15?",
+            "itemName": "Haunch of Boar"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "?",
+    "creatureclass": "Special Creatures",
+    "earthDmgMod": "100%?",
+    "physicalDmgMod": "100%?",
+    "primarytype": "Event Creatures",
+    "spawntype": [
+        "Triggered",
+        "Unblockable"
+    ],
+    "senseinvis": "?",
+    "article": "a",
+    "actualname": "fat porker",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Fat Porker",
+    "isboss": "yes",
+    "behaviour": "It doesn't move nor attacks.",
+    "location": "[[Orcsoberfest Island]].",
+    "iceDmgMod": "100%?",
+    "strategy": "Attack it with whichever method you prefer.",
+    "energyDmgMod": "100%?",
+    "deathDmgMod": "100%?"
+}

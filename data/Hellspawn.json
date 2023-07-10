@@ -1,0 +1,142 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "Introduced in the [[Winter Update 2008]]. The chance for dropping valuable items has been greatly increased in [[Summer Update 2009]].\n\n{{JSpoiler|You may hunt 600 of these as a task of the [[Killing in the Name of... Quest]]. Upon completion of the task you will face [[Flameborn]].}}",
+    "walksthrough": "Fire, Poison",
+    "hp": "3500",
+    "abilities": "{{Ability List\n |{{Melee|0-350+}}\n |{{Ability|Fire Missile|150-175|element=fire\n  |scene={{Scene|spell=3sqmstrike|caster=Hellspawn|effect=Flame Effect|missile=Fire Missile|damage_effect=Fire Effect|missile_direction=south-east|missile_distance=3/3}}}}\n |{{Ability|Burning Strike|[[Burning|Burns]] you for 10 hp/26 turns|element=burning\n  |scene={{Scene|spell=3sqmstrike|caster=Hellspawn|effect=Blast Effect|missile=Death Missile (Large)|missile_direction=south-east|missile_distance=3/3}}}}\n |{{Haste}}}}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "secondarytype": "Felines",
+    "holyDmgMod": "70%",
+    "maxdmg": "{{Max Damage|physical=350?|fire=185}}",
+    "pushable": "no",
+    "implemented": "8.40",
+    "loot": [
+        {
+            "amount": "1-236",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Great Health Potion",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Hellspawn Tail",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Battle Shield",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Morning Star",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Assassin Star",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Ultimate Health Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Demonic Essence",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Red Mushroom",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "Small Topaz",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Rusted Armor",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Knight Legs",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Warrior Helmet",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Spiked Squelcher",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Berserk Potion",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Slightly Rusted Armor",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Black Skull (Item)",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Dracoyle Statue",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Onyx Flail",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Energy",
+    "exp": "2550",
+    "mitigation": "1.32",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "hellspawn",
+    "illusionable": "no",
+    "armor": "44",
+    "convince": "--",
+    "name": "Hellspawn",
+    "isboss": "no",
+    "iceDmgMod": "110%",
+    "energyDmgMod": "90%",
+    "deathDmgMod": "105%",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "The Hellspawn is a creature that is neither fully a demon nor a living creature. They are grotesque hybrids being the result of experiments to breed certain demons with beasts. Their appearance and level of intelligence can vary widely, though a number of them are so deformed that they do not even survive birth. Some Hellspawns look very much like their beast parent and often are mistaken for some animal until they show their devastating powers. The majority of Hellspawns, however, looks quite alike as the cross-breeding of demons with beasts seems to result in a certain appearance. Hellspawns are wild, always hungry and have a short temper.<br />Even though, they are very strong, they prefer sneak attacks and to fight in groups. If cornered, a Hellspawn will fight with a fearsome ferocity that uses the power and skills of both inherited species.<br />Possessing demonic immortality, the Hellspawn usually outlives its original purpose and is then  abandoned by its creators. Hellspawns are often quite attached to their surrounding, and might stay in an area for decades or even centuries. Sometimes, however, they grow restless and start  to roam the world in search for a new territory. For this reason, it is possible to encounter a Hellspawn almost anywhere.",
+    "speed": "172",
+    "pushobjects": "yes",
+    "fireDmgMod": "60%",
+    "sounds": [
+        "Your fragile bones are like toothpicks to me.",
+        "You little weasel will not live to see another day.",
+        "I'm just a messenger of what's yet to come.",
+        "HRAAAAAAAAAAAAAAAARRRR!",
+        "I'm taking you down with me!"
+    ],
+    "bestiaryclass": "Demon",
+    "creatureclass": "Demons",
+    "earthDmgMod": "20%",
+    "physicalDmgMod": "90%",
+    "primarytype": "Demons",
+    "spawntype": [
+        "Regular",
+        "Unblockable"
+    ],
+    "race_id": "519",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%",
+    "bestiaryname": "hellspawn",
+    "behaviour": "'''Hellspawns''' are fast. They are usually found in groups with other hellspawns, and maybe some other creatures like [[Plaguesmith]]s or [[Gozzler]]s.",
+    "location": "[[Magician Quarter]], [[Vengoth]], [[Deeper Banuta]] (small spawn, {{Mapper Coords|127.246|127.116|14|2|text=here}}), [[Formorgar Mines]] (9x {{Mapper Coords|125.182|121.222|11|4|text=here}}), [[Chyllfroest]], [[Oramond Dungeon]], [[Asura Palace]], [[Asura Vaults]].",
+    "strategy": "Hunting '''Hellspawns''' at lower levels requires a small group of players to make a hunt profitable.\nAlso if you're a knight blocking more than one '''always''' check your [[Hit Points]] because if you are facing two or more they can kill you in one combo, even on a decently high level knight.\n \n'''[[Mage]]s''' should keep at a distance as '''Hellspawns''' hit rather hard with melee and are pretty fast. It's fairly easy to solo them at level 100, but be careful not to face more than one as they have a strong melee attack. Trying to outrun them while using [[Ice Strike]] could help reduce waste. Its fairly easy to solo them with a decent shield and armor while blocking them but its sugested lvl 140+, just take care not to block more than 2. Summons are not a good option since Hellspawns retarget often and die quick with the combined attack of a [[rod|Hailstorm Rod]], [[Ice Strike]] and the [[Knight]]'s attack.\n\n'''[[Paladin]]s''' can solo them but at waste or just breaking even depending on your luck. With decent distance and shielding they are solo-able using energy walls. Throw down and energy wall beside you making sure not to make a diagonal line as this can cause problems. Run the Hellspawn around the energy field making sure to refresh the field if need be. Keep lots of potions at hand in case things go bad.\n\n'''[[Knight]]s''' hunting in a group of 2-3+ [[knight]]s is a good option since they hit pretty hard, hunting in groups with a [[Druid]] and other shooters is also a very good option. They have good [[Defense]] but they aren't that strong against [[Physical Damage]], so a good tactic is to lure 2-8 hellspawns then using [[Fierce Berserk]] while a [[Druid]] is healing you. The hits will be pretty good.\nSince the implementation of strong melee ice elemental weapons, such as [[Winterblade]], [[Cobra Axe]], [[Resizer]], Hellspawns are fairly easy to kill for 200+ knights."
+}

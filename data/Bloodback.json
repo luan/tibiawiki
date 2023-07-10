@@ -1,0 +1,139 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "Bloodbacks",
+    "hpDrainDmgMod": "100%?",
+    "notes": "It's a leader of the [[Wereboar]]s.\n{{JSpoiler|Part of the {{Spoiler Section|Grimvale Quest|The Curse Spreads}}}}",
+    "walksthrough": "Energy, Poison",
+    "hp": "5200",
+    "speed": "?",
+    "abilities": "{{Ability List| {{Melee|0-400}}|{{Ability|Music Berserk|0-200?|element=?}}|{{Summon|Wereboar|1}} }}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "yes",
+    "secondarytype": "Ungulates",
+    "fireDmgMod": "105%",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        "You will DIE!"
+    ],
+    "maxdmg": "?",
+    "pushable": "?",
+    "implemented": "11.50.6055",
+    "cooldown": "20",
+    "loot": [
+        {
+            "amount": "1-6",
+            "itemName": "Platinum Coin",
+            "rarity": "always"
+        },
+        {
+            "itemName": "Wereboar Hooves",
+            "rarity": "always"
+        },
+        {
+            "itemName": "Wereboar Tusks",
+            "rarity": "always"
+        },
+        {
+            "amount": "1-74",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "Small Enchanted Ruby",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Great Health Potion",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Red Gem",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Furry Club",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Wereboar Loincloth",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Red Crystal Fragment",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Stone Skin Amulet",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Ultimate Health Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Fur Armor",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Dreaded Cleaver",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Wereboar Trophy",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Silver Token",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Spiked Squelcher",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Werewolf Amulet",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Berserk Potion",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Fur Boots",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Wolf Backpack",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Moonlight Crystals"
+        }
+    ],
+    "walksaround": "Fire",
+    "exp": "4000",
+    "creatureclass": "Humans",
+    "earthDmgMod": "60%?",
+    "physicalDmgMod": "100%?",
+    "bosstiaryclass": "Archfoe",
+    "primarytype": "Lycanthropes",
+    "race_id": "1560",
+    "senseinvis": "yes",
+    "actualname": "Bloodback",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Bloodback",
+    "isboss": "yes",
+    "behaviour": "Unknown",
+    "location": "After an [[Earth Portal]] inside [[Edron]]'s were-beasts cave.",
+    "iceDmgMod": "100%?",
+    "strategy": "Treat it like a stronger [[Wereboar]]. Mages and paladins can use [[Fire Wall Rune]]s to avoid most of its damage.",
+    "energyDmgMod": "85%",
+    "deathDmgMod": "50%"
+}

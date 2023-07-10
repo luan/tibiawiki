@@ -1,0 +1,196 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "?",
+    "hpDrainDmgMod": "100%?",
+    "notes": "The final boss from the [[Heart of Destruction Quest]].",
+    "walksthrough": "?",
+    "hp": "25000?",
+    "speed": "?",
+    "abilities": "{{Ability List| {{Melee|?}}|{{Ability|Huge Area Attack|0-888+|element=?}}|{{Ability|Area attack|0-176+|element=?}}|{{Ability|[[Energy Damage|Great Energy Wave]]|0-927+|element=energy}} }}",
+    "pushobjects": "yes",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "secondarytype": "Electro-Elementals",
+    "fireDmgMod": "100%?",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "927+",
+    "pushable": "no",
+    "runsat": "0",
+    "cooldown": "336",
+    "implemented": "10.94",
+    "loot": [
+        {
+            "amount": "100-200",
+            "itemName": "Gold Coin"
+        },
+        {
+            "amount": "5-35",
+            "itemName": "Platinum Coin"
+        },
+        {
+            "amount": "5",
+            "itemName": "Energy Drink"
+        },
+        {
+            "amount": "5",
+            "itemName": "Energy Bar"
+        },
+        {
+            "amount": "5-10",
+            "itemName": "Great Mana Potion"
+        },
+        {
+            "amount": "5-10",
+            "itemName": "Ultimate Health Potion"
+        },
+        {
+            "amount": "3",
+            "itemName": "Green Crystal Shard"
+        },
+        {
+            "amount": "3",
+            "itemName": "Blue Crystal Shard"
+        },
+        {
+            "amount": "3",
+            "itemName": "Violet Crystal Shard"
+        },
+        {
+            "amount": "20",
+            "itemName": "Small Topaz"
+        },
+        {
+            "itemName": "Mysterious Remains"
+        },
+        {
+            "itemName": "Crystallized Anger"
+        },
+        {
+            "itemName": "Energy Vein"
+        },
+        {
+            "itemName": "Green Gem"
+        },
+        {
+            "itemName": "Ring of Blue Plasma"
+        },
+        {
+            "itemName": "Tiara of Power"
+        },
+        {
+            "itemName": "Void Boots"
+        },
+        {
+            "amount": "1-23",
+            "itemName": "Gold Token"
+        },
+        {
+            "itemName": "Devourer Core",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Crackling Egg",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Menacing Egg",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Collar of Green Plasma"
+        },
+        {
+            "itemName": "Collar of Red Plasma"
+        },
+        {
+            "amount": "5-10",
+            "itemName": "Great Spirit Potion"
+        },
+        {
+            "itemName": "Small Sapphire"
+        },
+        {
+            "itemName": "Small Ruby"
+        },
+        {
+            "itemName": "Yellow Gem"
+        },
+        {
+            "itemName": "Small Emerald"
+        },
+        {
+            "itemName": "Golden Legs"
+        },
+        {
+            "itemName": "Giant Shimmering Pearl"
+        },
+        {
+            "itemName": "Lightning Headband"
+        },
+        {
+            "itemName": "Small Amethyst"
+        },
+        {
+            "itemName": "Ring of Red Plasma"
+        },
+        {
+            "itemName": "Red Gem"
+        },
+        {
+            "itemName": "Collar of Blue Plasma"
+        },
+        {
+            "itemName": "Skull Staff"
+        },
+        {
+            "itemName": "Blue Gem"
+        },
+        {
+            "itemName": "Amber Staff"
+        },
+        {
+            "itemName": "Composite Hornbow"
+        },
+        {
+            "itemName": "Ring of Green Plasma"
+        },
+        {
+            "itemName": "Violet Gem"
+        },
+        {
+            "itemName": "Bonebreaker"
+        },
+        {
+            "itemName": "Crystalline Armor"
+        },
+        {
+            "itemName": "Runed Sword"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "~77700",
+    "creatureclass": "Invertebrates",
+    "earthDmgMod": "100%?",
+    "physicalDmgMod": "100%?",
+    "bosstiaryclass": "Nemesis",
+    "primarytype": "Cnidarians",
+    "race_id": "1228",
+    "senseinvis": "?",
+    "actualname": "World Devourer",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "World Devourer",
+    "isboss": "yes",
+    "behaviour": "This boss has the ability of the combination of the 3 mini-boss before him. [[The Hunger]], [[The Rage]], [[The Destruction]].",
+    "location": "[[Otherworld]], {{Mapper Coords|126.15|122.115|14|2|text=here}}.",
+    "iceDmgMod": "100%?",
+    "strategy": "1st mechanic: When [[Greed]] appears, Walk the boss over the teleport so that it changes its color then walk the [[Greed]] on the teleport so it disappears. Shooters should focus on the summons and ads to clear the way for the knights handling the boss and the [[Greed]]. The longer it takes to get rid of the [[Greed]], the more [[Greed]] will appear. \n\n2nd mechanic: Whenever a [[Disruption]] appears, make sure to kill it as soon as possible so that it does not transform into [[Overcharged Disruption]], which is significantly stronger.\n \n3rd mechanic: Whenever a [[Frenzy]] appears, make sure to kill it then resume attacking the boss.\n\nPriority goes to killing [[Disruption]] over [[Frenzy]] to avoid them changing to their overcharged form.\n\n[[File:World Devourer (TMA 2020)|left|250px]]",
+    "energyDmgMod": "100%?",
+    "deathDmgMod": "100%?"
+}

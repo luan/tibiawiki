@@ -1,0 +1,100 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "Magical [[Orcs]]. Rather weak. [[Minotaur Mage]]s are superior.<br />{{JSpoiler|Orc Shamans can also drop [[Orc Tusk]]s during raids of the [[Machinery of War Quest]].}}",
+    "walksthrough": "None",
+    "hp": "115",
+    "abilities": "{{Ability List\n |{{Melee|0-20}}\n |{{Ability|Energy Strike|20-30|energy\n  |scene={{Scene|spell=7sqmstrike|effect=Blue Electricity Effect|caster=Orc Shaman|missile=Energy Missile|missile_direction=south-east|missile_distance=7/7}}}}\n |{{Ability|Fire Strike|5-45|fire\n  |scene={{Scene|spell=7sqmstrike|effect=Fireball Effect|caster=Orc Shaman|missile=Fire Missile|missile_direction=south-east|missile_distance=7/7}}}}\n |{{Healing|range=27-43\n  |scene={{Scene|spell=buffspell|effect=Blue Sparkles Effect|caster=Orc Shaman|effect_on_caster=yes}}}}\n |{{Summon|snake|4}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "holyDmgMod": "90%",
+    "maxdmg": "{{Max Damage|physical=15|energy=35|fire=45|summons=32}}",
+    "pushable": "No",
+    "implemented": "5.1",
+    "loot": [
+        {
+            "amount": "0-5",
+            "itemName": "Gold Coin"
+        },
+        {
+            "itemName": "Broken Shamanic Staff",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Chain Armor",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "Corncob",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Shamanic Hood",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Orc Leather",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Orc Tooth",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Spear",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Heavy Old Tome",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Wand of Decay",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Book (Grey)",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Fire, Energy, Poison",
+    "exp": "110",
+    "mitigation": "0.25",
+    "attacktype": "Distance",
+    "article": "an",
+    "actualname": "orc shaman",
+    "illusionable": "yes",
+    "armor": "8",
+    "convince": "--",
+    "name": "Orc Shaman",
+    "isboss": "no",
+    "iceDmgMod": "100%",
+    "energyDmgMod": "50%",
+    "deathDmgMod": "105%",
+    "plural": "orc shamans",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "Orc Shamans are the magicians among the orcs. They support the other troops during a fight. They can shoot fireballs and magic missiles. They even summon snakes to set them on their enemies. Moreover, they can heal themselves.",
+    "speed": "70",
+    "pushobjects": "No",
+    "fireDmgMod": "100%",
+    "sounds": [
+        "Huumans stinkk!",
+        "Grak brrretz gulu."
+    ],
+    "bestiaryclass": "Humanoid",
+    "creatureclass": "Humanoids",
+    "earthDmgMod": "110%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Orcs",
+    "race_id": "6",
+    "bestiarylevel": "Easy",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "orcshaman",
+    "behaviour": "An Orc Shaman will run when in low [[health]].",
+    "location": "[[Edron Orc Cave]], [[Temple of Xayepocax]], below Point of No Return in [[Outlaw Camp]], [[Venore Orc Cave]], [[Maze of Lost Souls]], [[Orc Fort]], north west of [[Thais]], [[Elvenbane]], [[Plains Of Havoc]], [[Foreigner Quarter]], [[Zao Orc Land]].",
+    "strategy": "Unless you're surrounded by four or more of these Orcs (in which case you just [[GFB]]), don't bother killing the [[Snake]]s to avoid breaking your [[shielding]], because an Orc Shaman attacks with unblockable [[Magical Damage]]. Kill the Orc Shaman and the Snakes will die instantly.<br />\nShamans do not push objects, so trapping them in a corner is a good idea if they annoy you when hunting stronger creatures."
+}

@@ -1,0 +1,131 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "'''Diabolic Imps''' have 2 bosses: [[The Imperor]] and [[Minishabaal]] (not in game anymore).",
+    "walksthrough": "Fire, Poison",
+    "hp": "1950",
+    "abilities": "{{Ability List\n |{{Melee|0-240|poison=8}}\n |{{Ability|Plus Shaped Fireball|100-240|element=fire\n  |scene={{Scene|spell=plusspelltarget|effect=Flame Effect|caster=Diabolic Imp|damage_effect=Fire Effect|missile=Fire Missile|missile_direction=south-east|missile_distance=2/2}}}}\n |{{Ability|Great Fire Explosion|300-430?|element=fire\n  |scene={{Scene|spell=2sqmballtarget|effect=Fireball Effect|caster=Diabolic Imp|damage_effect=Fire Effect|missile=Fire Missile|missile_direction=south-east|missile_distance=2/2}}}}\n |{{Debuff2|Skill Reducer|melee=yes|value=20%-30%|duration=20\n  |scene={{Scene|spell=3sqmstrike|effect=Cloud Effect|caster=Diabolic Imp|missile=Energy Missile|missile_direction=south-east|missile_distance=3/3}}}}\n |{{Ability|[[Invisibility]]|lasts in 1 second|element=invisible}}\n |{{Ability|[[Strong Haste]]|lasts 2 seconds|element=haste}}\n |{{Ability|slow [[Self-Healing]]|650-800|element=healing}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "holyDmgMod": "105%",
+    "maxdmg": "870",
+    "pushable": "?",
+    "implemented": "7.9",
+    "loot": [
+        {
+            "amount": "1-200",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Pitchfork",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Flask of Demonic Blood",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Blank Rune",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Cleaver",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Guardian Shield",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Demonic Essence",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Soul Orb",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Scimitar",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-7",
+            "itemName": "Platinum Coin",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Stealth Ring",
+            "rarity": "semi-rare"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "Small Amethyst",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Double Axe",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Necrotic Rod",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Magma Monocle",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Magma Coat",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Death Ring",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Energy",
+    "exp": "2900",
+    "mitigation": "1.46",
+    "attacktype": "Distance",
+    "article": "a",
+    "actualname": "diabolic imp",
+    "illusionable": "no",
+    "armor": "29",
+    "convince": "--",
+    "name": "Diabolic Imp",
+    "isboss": "no",
+    "iceDmgMod": "110%",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "90%",
+    "plural": "diabolic imps",
+    "hpDrainDmgMod": "0%",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "Imps are some of the smaller and physically weaker demons. The only thing that allows them to exist in the demonic society, that has no tolerance for weakness, is their cunning and the magical forces they have under their command. Diabolic Imps tend to be somewhat cowardly and when it comes to the crunch, they esteem the value of their own lives much higher than any agenda of the master they might serve. For this reason, they are not trusted and, despite their intelligence, rarely appointed to any position of power or influence. The scheming little Diabolic Imps still found their niche in the demon society. They often serve in logistics or as messengers. In the latter role, they are frequently sent to the realm of the mortals. Here they even pose as advisors of mortal allies of the demon kind for a while.",
+    "speed": "105",
+    "pushobjects": "?",
+    "fireDmgMod": "0%",
+    "sounds": [
+        "Muahaha!",
+        "He he he."
+    ],
+    "runsat": "red",
+    "bestiaryclass": "Demon",
+    "creatureclass": "Demons",
+    "earthDmgMod": "50%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Imps",
+    "spawntype": [
+        "Regular"
+    ],
+    "race_id": "288",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "diabolicimp",
+    "location": "[[Inquisition]], [[Pits of Inferno]], [[Fenrock]], [[Fury Dungeon]] and inside the [[Hellgore]] volcano on [[Goroma]] during  the [[Fire from the Earth Mini World Change]].",
+    "strategy": "Since the [[Melee]] [[Poisoned|poisons]] you, it's better to keep distance as a [[Mage]] or [[Paladin]]. [[Knights]] should try to trap him and use [[Melee]], [[Brutal Strike]] and [[Berserk]]. Make sure to keep an eye on your [[Skill]]s so you don't waste lots of [[Mana]] on your attack spells when it has lowered your skills. Try to corner them because when they use [[Haste]] they are extremely fast, and you won't be able to outrun them. A good strategy to kill these as a [[Mage]] at the [[Fenrock]] spawn is to [[Summon]] a [[Fire Devil]] or another [[Fire Damage#Immune to Fire Damage|creature immune to Fire Damage]] and let it block the ranged attacks while you use [[Ice Strike]] and [[Strong Ice Strike]]. Depending on your level you might want to use [[Magic Shield]]."
+}

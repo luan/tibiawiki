@@ -1,0 +1,84 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "Boreth was once a normal person and a citizen of [[Carlin]]. He, his brothers [[Arthei]], [[Marziel]], and [[Lersatio]], and Arthei's wife [[Kala]], travelled to [[Yalahar]] in order to find a new home. From that moment on Marziel started keeping a [[Arthei's Descent into Vampirism I (Book)|diary]].<br>Boreth is a plant-crazy vampire. You can see it by the lots of plants that grow in his tower. He is the first boss you will encounter during the [[Blood Brothers Quest]]. You can summon him by thrice using a [[Firebug]] on the [[Twines]] in front of his throne. There are 2 [[Plaguethrower]]s in his room.<br />You will receive [[The Dust of Boreth]] when you use a [[Blessed Wooden Stake]] on his dead body.",
+    "walksthrough": "?",
+    "hp": "1400",
+    "speed": "?",
+    "abilities": "{{Ability List|{{Melee|0-200}}|{{Ability|Life Drain|100-200}}|{{Summon|Vampire|4}}|{{Healing}}|{{Ability|Invisibility||invisible}}}}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "110%",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        "I'll water my plants with your blood!"
+    ],
+    "maxdmg": "{{Max Damage|physical=200|lifedrain=200|summons=1400}}",
+    "pushable": "?",
+    "implemented": "8.40",
+    "loot": [
+        {
+            "amount": "0-100",
+            "itemName": "Gold Coin"
+        },
+        {
+            "amount": "0-5",
+            "itemName": "Platinum Coin"
+        },
+        {
+            "itemName": "Blood Preservation"
+        },
+        {
+            "itemName": "Strong Health Potion"
+        },
+        {
+            "itemName": "Black Pearl",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Ring of Healing",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Vampire Shield",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Hibiscus Dress",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Dreaded Cleaver",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "1800",
+    "creatureclass": "The Undead",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "100%?",
+    "bosstiaryclass": "Bane",
+    "primarytype": "Vampires",
+    "spawntype": [
+        "Unique",
+        "Triggered",
+        "Unblockable"
+    ],
+    "race_id": "479",
+    "senseinvis": "?",
+    "actualname": "Boreth",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Boreth",
+    "isboss": "yes",
+    "behaviour": "Fights until death in close combat. He uses [[Invisibility]] very often. Summons 3-4 [[Vampire]]s at once.",
+    "location": "[[Vengoth]].",
+    "iceDmgMod": "100%?",
+    "strategy": "'''Knights:''' the best option is to [[Exori]] or [[Exori Gran]] as much as possible while keeping an eye on your health.  That way you kill all the summons as well so they don't do extra damage.",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "0%"
+}

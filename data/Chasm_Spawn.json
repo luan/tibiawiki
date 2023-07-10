@@ -1,0 +1,107 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "walksthrough": "Poison\nEnergy",
+    "hp": "4500",
+    "abilities": "{{Ability List\n |{{Melee|0-250? poisons you}}\n |{{Ability|Great Swarm Ball on self, poisons you|element=poisoned\n  |scene={{Scene|spell=2sqmballself|effect=Insect Swarm Effect|effect_on_caster=yes}}}}\n |{{Ability|Great Death Ball|70-120?|element=death\n  |scene={{Scene|spell=2sqmballtarget|effect=Death Effect|damage_effect=Cloud Effect|missile=Death Missile|missile_direction=south-east|missile_distance=2/2}}}}\n |{{Ability|Explosion Bomb|50-170?|element=physical\n  |scene={{Scene|spell=1sqmballtarget|effect=Explosion Effect|missile=Earth Missile (Appearance)|missile_direction=south-east|missile_distance=2/2}}}}\n |{{Ability|Poison Arrow|60-90?|element=earth\n  |scene={{Scene|spell=1sqmstrike|effect=Poison Effect 1|missile=Poison Arrow Missile|missile_direction=south-east|missile_distance=1/1}}}}\n |{{Ability|Mana Drain|40-60|element=manadrain\n  |scene={{Scene|spell=1sqmballtarget|effect=Red Sparkles Effect|missile=Death Missile|missile_direction=south-east|missile_distance=2/2}}}}\n |{{Ability|[[Slicing Plant Effect]] Wave|70-140?|element=earth\n  |scene={{Scene|spell=5sqmtwavenarrow|effect=Slicing Plant Effect|look_direction=east}}}}\n |{{Ability|[[Stone Shower Effect]] Beam|70-140?|element=lifedrain\n  |scene={{Scene|spell=8sqmbeam|effect=Stone Shower Effect|damage_effect=Red Sparkles Effect|look_direction=east}}}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "holyDmgMod": "100%",
+    "maxdmg": "400+",
+    "pushable": "?",
+    "implemented": "11.50.6055",
+    "loot": [
+        {
+            "itemName": "Chasm Spawn Tail",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Chasm Spawn Head",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Wood Mushroom",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Chasm Spawn Abdomen",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Brown Mushroom",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Orange Mushroom",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Small Enchanted Emerald",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Small Enchanted Amethyst",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Blue Crystal Shard",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Green Crystal Shard",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Violet Crystal Shard",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Suspicious Device",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Mushroom Backpack",
+            "rarity": "rare"
+        }
+    ],
+    "walksaround": "Fire",
+    "exp": "2700",
+    "mitigation": "1.94",
+    "attacktype": "Melee",
+    "history": "Its loot was changed on {{OfficialNewsArchive|4411|December 7, 2017}}.\n\nOn {{OfficialNewsArchive|4592|April 18, 2018}}, its HP was increase from 4000 to 5500. On {{OfficialNewsArchive|4839|December 04, 2018}}, its HP was again changed from 5500 to 4500, its armor reduced to 74 and its attack lowered.",
+    "article": "a",
+    "actualname": "chasm spawn",
+    "illusionable": "no",
+    "armor": "74",
+    "convince": "--",
+    "name": "Chasm Spawn",
+    "isboss": "no",
+    "iceDmgMod": "100%",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "100%",
+    "plural": "chasm spawns",
+    "hpDrainDmgMod": "100%",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "With the emergence of new and never before encountered threats from the depths of the world, several of the races from the unknown below have spread in an alarming rate. One of the most invasive species encountered is the chasm spawn. The rate with that the chasm spawn reproduces seem to hit at a highly lethal habitat in that the spawn usually breeds. Due to the low likelihood of survival the chasm spawn produces numerous offspring. Now in the upper areas of the world this reproduction creates an overpopulation of spawns in the areas that they inhabit. As their name suggests they lay their slimy eggs into cracks, caves and chasms. Their anatomy allows them to crawl an walls and ceilings and reach even the most remote of cracks. In a relatively short time their finger sized offspring hatches and begins to devour its siblings. Still great numbers of then survive and inhabit their birth caves where they prey on lesser vermin. While growing up they seem to be fair game for other races that inhabit the tunnels and even other minions that serve those bellow. Even with this constant culling, their numbers are growing at an alarming rate. Even the chasm spawns seem uncomfortable with this, since reportedly there is an unheard amount of infighting amongst them and even acts of cannibalism. Still they are one of the more intelligent minion races of those below, showing acts of cunning and deviousness that hints at a planning mind. They use especially their wall crawling ability to set up traps and are capable of coordinated attacks and retreats. Even more disturbing is the rumour that minions of other races also show a more coordinated acting when they are around, but this observations were made in high pitched battles when perception can be deceiving and all those claims might be without any substance. This is similar to the claims that the chasm spawn is only younger phase of a larger, fiercer creature and that one of the leading generals of those below, the creature known as [[Abyssador]] is the final form of this process of evolvement.",
+    "speed": "115",
+    "pushobjects": "?",
+    "fireDmgMod": "130%",
+    "sounds": [
+        ""
+    ],
+    "runsat": "0",
+    "bestiaryclass": "Vermin",
+    "creatureclass": "Invertebrates",
+    "earthDmgMod": "100%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Insects",
+    "race_id": "1546",
+    "bestiarylevel": "Hard",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%",
+    "bestiaryname": "chasmspawn",
+    "behaviour": "Chasm spawns chase their opponents. They retarget very often.",
+    "location": "[[Warzone 4]]",
+    "strategy": "Although their mana drain is weak, using mana drain protection is recommended as they always come in groups of 5 or more."
+}

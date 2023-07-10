@@ -1,0 +1,140 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "Bony Sea Devils are the creatures from [[Ebb and Flow]] that can trigger [[Goshnar's Taints]].<br />\nIt only drops a [[Bag You Desire]] for players with at least one of [[Goshnar's Taints]]. The more taints you have, the higher the chance. The Bag is always dropped inside a [[Reward Container]] so there's no risk of leaving it behind in the creature's corpse.",
+    "walksthrough": "Fire, Energy, Poison",
+    "hp": "24000",
+    "abilities": "{{Ability List|}}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "holyDmgMod": "110%",
+    "pushable": "no",
+    "implemented": "12.40.9997",
+    "loot": [
+        {
+            "itemName": "Crystal Coin",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-?",
+            "itemName": "Ultimate Health Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Giant Shimmering Pearl (Brown)",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Gold Ingot",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Giant Shimmering Pearl (Green)",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Glacier Kilt",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Violet Gem",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Hailstorm Rod",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Underworld Rod",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Northwind Rod",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Wand of Voodoo",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Green Crystal Fragment",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Onyx Chip",
+            "rarity": "semi-rare"
+        },
+        {
+            "amount": "1-?",
+            "itemName": "Rainbow Quartz",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Rod (Creature Product)",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Jaws",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Glacial Rod",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Skullcracker Armor",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Goblet of Gloom",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Bag You Desire",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "None",
+    "exp": "19470",
+    "mitigation": "3.34",
+    "attacktype": "Melee",
+    "history": "Its experience was reduced from 32,500 to 20,150 and its loot in 22% with the balancing changes on {{OfficialNewsArchive|6086|April 15, 2021}}. Its experience was further reduced to 17,700 with the [[Updates/12.66.10866|changes]] on {{OfficialNewsArchive|6159|June 01, 2021}}. Its experience was later increased to 19,470 on [[Updates/12.67.10934 (2)|July 06, 2021]]. Its loot was also increased by 10% on the same patch.",
+    "article": "a",
+    "actualname": "bony sea devil",
+    "illusionable": "no",
+    "armor": "100",
+    "convince": "--",
+    "name": "Bony Sea Devil",
+    "isboss": "no",
+    "iceDmgMod": "40%",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "95%",
+    "plural": "bony sea devils",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "lightcolor": "143",
+    "occurrence": "Common",
+    "bestiarytext": "The bony sea devil is truly an amalgam of souls of the drowned. It's a shared and traumatic fear given form by extreme maddened emotions. The sea devils hunger for more such fear and are drawn to the poor souls that might share it. By devouring them, they gain more and more power and solidity until they reach their final form that can be encountered by travellers in Zarganash. Yet they won't stop there of course and continue to devour more and more souls of the drowned which makes then fat and bloated eventually. Though consisting of the souls of the drowned or lost at sea, they don't shy other entities, living or dead. In fact living beings seem to be special morsels for this ravenous creatures. When they acquired enough such spiritual energy, they retreat to the depths of Zarganash, where they split in halve. In that way they can actually reproduce. It can be assumed that there was a first bony sea devil that was the progenitor of these creatures that share his form. If and where this creature still exists is subject to whispered legends amongst the otherwise jaded travellers of this deepest level of the netherworld. As long as the bony sea devils are around it seems unlikely enough souls of the drowned will find together to form another progenitor with different qualities and appearance, but it can't be ruled out. How the sea devils will react to such a competition is yet to be seen. Strangely enough the usually not very social sea devils are very protective towards bloated sea devils that are soon splitting. It is assumed that this behaviour is a distant remnant of their life in the physical world, yet since there is no such a thing as pregnancy amongst fish it still seems somewhat curious and might hint at something else entirely. Since they heavily rely on the souls of the drowned, there is a rumour that the sea devils get agitated even days before a great storm is boiling up in the realms of the living. On the other hand this might be Zarganash's equivalent of sailor's yarn.",
+    "speed": "220",
+    "pushobjects": "yes",
+    "fireDmgMod": "105%",
+    "sounds": [
+        "Bling.",
+        "Clank."
+    ],
+    "lightradius": "4",
+    "runsat": "10",
+    "bestiaryclass": "Undead",
+    "creatureclass": "The Undead",
+    "earthDmgMod": "60%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Skeletons",
+    "race_id": "1926",
+    "bestiarylevel": "Challenging",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "bonyseadevil",
+    "behaviour": "Unknown.",
+    "location": "[[Ebb and Flow]].",
+    "strategy": "Unknown."
+}

@@ -1,0 +1,83 @@
+{
+    "summon": "435",
+    "templateType": "Creature",
+    "plural": "undead mine workers",
+    "hpDrainDmgMod": "100%",
+    "notes": "Similarly to [[Undead Prospector]]s, these creatures are restless spirits of lost miners haunting a mine in Edron. This creature was added with the [[Updates/8.54|Christmas Update 2009]].",
+    "walksthrough": "None",
+    "hp": "65",
+    "usespells": "yes",
+    "occurrence": "Uncommon",
+    "speed": "77",
+    "abilities": "{{Ability List| {{Melee|0-20?}}|{{Ability|[[Life Drain]]|7-13|element=lifedrain}} }}",
+    "pushobjects": "?",
+    "healMod": "100%",
+    "paraimmune": "?",
+    "fireDmgMod": "100%",
+    "holyDmgMod": "125%",
+    "sounds": [
+        "Ahrrr... uhmmm... hmm...",
+        "Grrr...",
+        "Urrrgh... gnarrr..."
+    ],
+    "maxdmg": "33?",
+    "pushable": "Yes",
+    "implemented": "8.54",
+    "bestiaryclass": "Undead",
+    "loot": [
+        {
+            "amount": "0-10",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Bone",
+            "rarity": "common"
+        },
+        {
+            "amount": "0-3",
+            "itemName": "White Mushroom",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Mace",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Brown Mushroom",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Sword",
+            "rarity": "semi-rare"
+        }
+    ],
+    "walksaround": "Fire, Energy, Poison",
+    "exp": "45",
+    "creatureclass": "The Undead",
+    "earthDmgMod": "100%",
+    "mitigation": "0.25",
+    "physicalDmgMod": "100%",
+    "primarytype": "Skeletons",
+    "spawntype": [
+        "Regular"
+    ],
+    "race_id": "594",
+    "attacktype": "Melee",
+    "bestiarylevel": "Easy",
+    "senseinvis": "?",
+    "article": "an",
+    "actualname": "undead mine worker",
+    "illusionable": "yes",
+    "armor": "5",
+    "drownDmgMod": "100%",
+    "convince": "?",
+    "name": "Undead Mine Worker",
+    "isboss": "no",
+    "behaviour": "They are the same as normal [[Skeleton Warrior]]s.",
+    "location": "West of [[Edron]] in the [[Lost Mines]].",
+    "iceDmgMod": "100%",
+    "strategy": "They are very easy so treat it as you would a normal [[Skeleton Warrior]]. Just keep in mind they appear with [[Undead Prospector]]s which are a bit stronger.",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "0%"
+}

@@ -1,0 +1,140 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "ancient lion knights",
+    "hpDrainDmgMod": "100%?",
+    "notes": "Unknown.",
+    "walksthrough": "Energy, Fire, Poison",
+    "hp": "9100",
+    "abilities": "{{Ability List|}}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "yes",
+    "fireDmgMod": "90%",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "?",
+    "pushable": "no",
+    "runsat": "0",
+    "implemented": "12.40.9997",
+    "loot": [
+        {
+            "amount": "1-5",
+            "itemName": "Platinum Coin"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "Ham"
+        },
+        {
+            "itemName": "Bug Meat"
+        },
+        {
+            "itemName": "Dirty Cape"
+        },
+        {
+            "itemName": "Dirty Fur"
+        },
+        {
+            "itemName": "Fishbone"
+        },
+        {
+            "itemName": "Big Bone"
+        },
+        {
+            "itemName": "Twigs"
+        },
+        {
+            "itemName": "Skull (Item)"
+        },
+        {
+            "itemName": "Knife"
+        },
+        {
+            "itemName": "Combat Knife"
+        },
+        {
+            "itemName": "Cape"
+        },
+        {
+            "itemName": "Broken Helmet"
+        },
+        {
+            "itemName": "Studded Shield"
+        },
+        {
+            "itemName": "Dwarven Shield"
+        },
+        {
+            "itemName": "Dark Shield"
+        },
+        {
+            "itemName": "Plate Armor"
+        },
+        {
+            "itemName": "Dark Armor"
+        },
+        {
+            "itemName": "Life Preserver"
+        },
+        {
+            "itemName": "Lion Spangenhelm"
+        },
+        {
+            "itemName": "Lion Plate"
+        },
+        {
+            "itemName": "Lion Shield"
+        },
+        {
+            "itemName": "Lion Longsword"
+        },
+        {
+            "itemName": "Lion Hammer"
+        },
+        {
+            "itemName": "Lion Axe"
+        },
+        {
+            "itemName": "Lion Longbow"
+        },
+        {
+            "itemName": "Lion Spellbook"
+        },
+        {
+            "itemName": "Lion Wand"
+        },
+        {
+            "itemName": "Lion Rod"
+        },
+        {
+            "itemName": "Lion Amulet"
+        }
+    ],
+    "walksaround": "None",
+    "exp": "8100",
+    "creatureclass": "Humans",
+    "earthDmgMod": "100%",
+    "physicalDmgMod": "100%?",
+    "primarytype": "Members of the Order of the Lion",
+    "spawntype": [
+        "Regular"
+    ],
+    "history": "Before {{OfficialNewsArchive|5812|October 27 2020}}, the ancient lion knight used to spawn alone in a small tower {{Mapper Coords|text=here|126.184|126.216|6|4|1|0.250.25}}.",
+    "senseinvis": "yes",
+    "article": "an",
+    "actualname": "ancient lion knight",
+    "illusionable": "no",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Ancient Lion Knight",
+    "isboss": "no",
+    "behaviour": "Unknown.",
+    "location": "[[Bounac]], the [[Order of the Lion]] settlement, with usurpers {{Mapper Coords|text=here|126.202|126.234|7|4|1|0.250.25}}.",
+    "iceDmgMod": "80%?",
+    "strategy": "Try to get close to him and kill him as fast as possible. If you run back or stay idle too far away, he will disappear.",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "130%"
+}

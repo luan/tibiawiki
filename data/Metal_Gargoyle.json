@@ -1,0 +1,121 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "walksthrough": "Poison",
+    "hp": "2100",
+    "abilities": "{{Ability List\n |{{Melee|0-200?+}}\n |{{Ability|Yellow Electric Beam|0-200?|element=death|scene={{Scene|spell=8sqmbeam|effect=Yellow Electricity Effect|caster=Metal Gargoyle|look_direction=east}}}}\n |{{Ability|Death Ball on target|0-100?|element=life drain|scene={{Scene|spell=1sqmballtarget|effect=Death Effect|caster=Metal Gargoyle|missile=Death Missile (Large)|missile_direction=south-east|missile_distance=2/2|edge_size=32}}}}\n |{{Ability|Cursing Missile|element=cursed|scene={{Scene|spell=3sqmstrike|caster=Metal Gargoyle|missile=Death Missile (Large)|missile_direction=south-east|missile_distance=3/3}}}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "holyDmgMod": "100%",
+    "maxdmg": "?",
+    "pushable": "?",
+    "implemented": "10.50",
+    "loot": [
+        {
+            "amount": "3-200",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Platinum Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Metal Jaw",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Strong Health Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Strong Mana Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Metal Spats",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Slightly Rusted Armor",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Bronze Gear Wheel",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Shiny Stone",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Alloy Legs",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Metal Bat",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Underworld Rod",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Iron Ore",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Life Ring",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Energy Ring",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Fire, Energy",
+    "exp": "1278",
+    "mitigation": "1.57",
+    "attacktype": "Melee",
+    "history": "Its experience was decreased from 1400 to 1022 on the first batch of changes of [[Updates/12.31|Update 12.31]]. It was later increased to 1278 on the fifth batch of changes.",
+    "article": "a",
+    "actualname": "metal gargoyle",
+    "illusionable": "yes",
+    "armor": "60",
+    "convince": "--",
+    "name": "Metal Gargoyle",
+    "isboss": "no",
+    "iceDmgMod": "105%",
+    "energyDmgMod": "110%",
+    "deathDmgMod": "20%",
+    "plural": "metal gargoyles",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "The metal gargoyles are a common sight in the city of Rathleton. Visitors are rarely aware though that they serve another purpose then pure decoration. In fact, the gargoyles are wards and vessels for the various spirits that plague the whole isle. The first gargoyles were build as mere wards, covered with barely visible engravings of protective runes. They were placed all over the city and did at least ease the pressure of disturbing spirits a bit. Still exorcists were needed to drive out spirits from homes, places and people. Those brave people faced the problem that even exorcised spirits tended to reappear quite soon and they had to look for a more permanent solution. They needed a vessel to keep the spirits captured and bound. The gargoyles, already prepared to repel spiritual power became their first choice. Newly constructed gargoyles were no longer placed in the city immediately but stored until needed by exorcists. Then the exorcist would bind the spirit into the gargoyle, where it would be trapped by the wards. When an exorcist decided a gargoyle had reached it keeping potential, the gargoyle was finally placed at its final resting place. This procedure though was not without risks and the capacity of a gargoyle was as hard to determine as the strength of a particular spirit. This led to strange occurrences in which the gargoyles came to an entirely unnatural form of life. Whenever a gargoyle came to life it happened suddenly. It seemed that some outer influence triggered a fusing of the spirits to a new entity that would take over the gargoyles overcharged body. Those creatures are driven purely by instinct. Although not entirely evil and not actively hunting for some sort of prey they instinctively attack certain types of creatures, with humans especially enticing this aggression. Metal gargoyles are quiet strong and due to their spiritual heritage possess certain powers that resemble magic. They usually fight without finesse or greater tactic but their strength and mindless determination make more than up for that. In recent time unscrupulous entrepreneurs have sold huge shiploads of metal gargoyles that were considered already unsafely unstable as decoration objects all over the world. It is yet to see if their spiritual energy can fuse them into semi living beings outside the Rathleton area.",
+    "speed": "95",
+    "pushobjects": "?",
+    "fireDmgMod": "90%",
+    "sounds": [
+        "clonk",
+        "*stomp*"
+    ],
+    "bestiaryclass": "Construct",
+    "creatureclass": "Misc",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "85%",
+    "primarytype": "Machines",
+    "spawntype": [
+        "Regular",
+        "Unblockable"
+    ],
+    "race_id": "1039",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "metalgargoyle",
+    "behaviour": "Metal gargoyles can retarget. This may causes shooters in a team hunt to be cursed or killed.",
+    "location": "[[Workshop Quarter]], [[Glooth Factory]], [[Underground Glooth Factory]], [[Abandoned Sewers]], [[Oramond Dungeon]] (depending on Magistrate votes), [[Jaccus Maxxen's Dungeon]].",
+    "strategy": "Treat them as dragons. Stand diagonal if possible to avoid damage from the beam. [[Life Drain]] protection is advisable when hunting them alongside [[Rustheap Golem]]s. They are very slow, so you shouldn't have any problems with keeping distance as a mage or a paladin."
+}

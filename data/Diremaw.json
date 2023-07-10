@@ -1,0 +1,119 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "The spawn of this creature is blockable, however, there is a secondary spawn mechanic in which a Diremaw can spawn from a corpse while it's rotting. This one doesn't display the usual warning (3 [[Teleport Effect]]s) and it can't be blocked.",
+    "walksthrough": "Fire, Energy, Poison",
+    "hp": "3600",
+    "abilities": "{{Ability List\n |{{Melee|0-400}}\n |{{Ability|Earth Strike|150-200|element=earth\n  |scene={{Scene|spell=1sqmstrike|caster=Diremaw|effect=Poison Effect 1|damage_effect=Ripple Effect|missile=Poison Missile|missile_direction=south-east|missile_distance=1/1}}}}\n |{{Ability|Earth Smokeball|150-250|element=earth\n  |scene={{Scene|spell=2sqmballtarget|caster=Diremaw|effect=Poof Effect|damage_effect=Poison Effect 1|missile=Poison Missile|missile_direction=south-east|missile_distance=2/2}}}}\n |{{Ability|Earth Ball on self|200-300+|element=earth\n  |scene={{Scene|spell=2sqmballself|effect_on_caster=yes|effect=Poison Effect 1}}}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "holyDmgMod": "100%",
+    "maxdmg": "1000",
+    "pushable": "no",
+    "implemented": "11.50.6055",
+    "loot": [
+        {
+            "itemName": "Ham",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Diremaw Brainpan",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Poisonous Slime",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Blue Crystal Shard",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Violet Crystal Shard",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Green Crystal Shard",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Onyx Chip",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Diremaw Legs",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Giant Shimmering Pearl (Green)",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Small Enchanted Emerald",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Small Emerald",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Gold Ingot",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Suspicious Device",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Mushroom Backpack",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Mycological Bow",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "2500",
+    "mitigation": "1.94",
+    "attacktype": "Melee",
+    "history": "Its loot was changed twice after its implementation, one on {{OfficialNewsArchive|4411|December 7}} and the other on {{OfficialNewsArchive|4430|December 17, 2017}} ([[Updates/11.00|Update 11.52]]).\n\nOn {{OfficialNewsArchive|4592|April 18, 2018}}, its HP was raised from 3000 to 4500 and its armor from 40 to 75 in order to increase its strength. The rate at which Diremaws spawn from corpses was also reduced. On {{OfficialNewsArchive|4839|December 04, 2018}}, its HP was again changed from 4500 to 3600, its armor reduced from 75 to 71 and its attack lowered.",
+    "article": "a",
+    "actualname": "diremaw",
+    "illusionable": "no",
+    "armor": "71",
+    "convince": "--",
+    "name": "Diremaw",
+    "isboss": "no",
+    "iceDmgMod": "120%",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "100%",
+    "plural": "diremaws",
+    "hpDrainDmgMod": "100%",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "Given the highly aggressive and predatory nature of the diremaw, it's a marvel how the hidden masters in the depths keep them under control. Even amongst themselves there is a constant aggression and re-establishing of the pecking order. When left alone the diremaws constantly challenge each other to fights, though weaker devourers submit to the threats of the stronger ones and fights are averted. This aggressiveness extends to other minion races of those bellow and they usually leave the diremaws on their own. In battle the direwmaws are forced to work alongside each other and allies. Even then they can't supress the occasional hissing and threatening of others that come to close or steal their kill. Still they relish in combat and seem to enjoy it. The stronger diremaws are often seen in the front of assaults where they excel in spreading fear and mayhem amongst the ranks of the enemy. Their focus on aggression levels often an opening for a counterattack but the diremaw seems nit to care. Especially they seem to feel no pain at all and even try to fight when cut into pieces. Their constant fighting has honed their reflexes and trained them into fighters that are matched only by a few. The dwarfs tend to face them heavily armoured to be better protected from the loss of fingers and other body parts. Given their seemingly constant state of agitation it's amazing to learn, that they never seem to tire at all. A diremaw can fight for hours if not days and show no sign of tiring. Often small herds of them are employed to constantly scout the are around a base. Then they circle that base tirelessly at their highest speed without ever taking a break. Their whole behaviour is somewhat comparable to rabid animals and some assume that the devourer might have been drugged into this state of frenzy. The rare sightings of roaming devourers that have no connection to the armies of below suggest though, that the high level of aggressiveness is just part of their nature.",
+    "speed": "150",
+    "pushobjects": "yes",
+    "fireDmgMod": "100%",
+    "sounds": [
+        ""
+    ],
+    "runsat": "0",
+    "bestiaryclass": "Vermin",
+    "creatureclass": "Invertebrates",
+    "earthDmgMod": "80%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Insects",
+    "spawntype": [
+        "Regular"
+    ],
+    "race_id": "1532",
+    "bestiarylevel": "Hard",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%",
+    "bestiaryname": "diremaw",
+    "behaviour": "Diremaws fights in close combat.",
+    "location": "[[Gnome Deep Hub]] (north and south tasking areas), [[Warzone 6]]",
+    "strategy": "Mages with level above 200 shouldn't have problem dealing with one of these creatures, but groups of them can be very dangerous. Keep your distance and attack with [[Sudden Death Rune]]s or [[Ice Damage|ice]]-based spells. They have very strong melee and spells so it's advised to wear equipment that reduces [[Physical Damage|Physical]] and [[Earth Damage]]s."
+}

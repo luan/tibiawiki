@@ -1,0 +1,72 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "10%?",
+    "notes": "It's part of the [[Feaster of Souls Quest]].",
+    "walksthrough": "?",
+    "hp": "50000",
+    "speed": "?",
+    "abilities": "{{Ability List| {{Melee|?}} }}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "fireDmgMod": "10%",
+    "holyDmgMod": "10%?",
+    "sounds": [
+        "The eye will be mine! MINE!"
+    ],
+    "maxdmg": "?",
+    "pushable": "no",
+    "runsat": "0",
+    "implemented": "12.30.9287",
+    "cooldown": "20",
+    "loot": [
+        {
+            "itemName": "Green Gem"
+        },
+        {
+            "itemName": "Yellow Gem"
+        },
+        {
+            "itemName": "Amber (Item)"
+        },
+        {
+            "itemName": "Death Toll"
+        },
+        {
+            "itemName": "Pair of Old Bracers"
+        },
+        {
+            "itemName": "Luminescent Crystal Pickaxe"
+        },
+        {
+            "itemName": "Eye of the Chasm"
+        },
+        {
+            "itemName": "Phantasmal Hair"
+        },
+        {
+            "itemName": "Blue Gem"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "9000",
+    "earthDmgMod": "10%?",
+    "physicalDmgMod": "10%?",
+    "bosstiaryclass": "Archfoe",
+    "spawntype": [
+        "Triggered"
+    ],
+    "race_id": "1893",
+    "senseinvis": "yes",
+    "actualname": "Thaian",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Thaian",
+    "isboss": "yes",
+    "location": "[[Barren Drift]]",
+    "iceDmgMod": "10%?",
+    "energyDmgMod": "10%",
+    "deathDmgMod": "15%?"
+}

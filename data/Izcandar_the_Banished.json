@@ -1,0 +1,191 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "This is the neutral form of Izcandar, the others being [[Izcandar Champion of Winter]] and [[Izcandar Champion of Summer]].\n\n{{JSpoiler|It's one of the bosses of [[The Dream Courts Quest]].}}",
+    "walksthrough": "Fire, Energy, Poison",
+    "hp": "?",
+    "speed": "?",
+    "abilities": "{{Ability List| {{Melee|0-500?}} }}",
+    "pushobjects": "yes",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "secondarytype": "Dreamelves",
+    "fireDmgMod": "100%",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "?",
+    "pushable": "no",
+    "implemented": "12.00.7695",
+    "loot": [
+        {
+            "itemName": "Energy Bar"
+        },
+        {
+            "itemName": "Piggy Bank"
+        },
+        {
+            "amount": "5",
+            "itemName": "Platinum Coin"
+        },
+        {
+            "amount": "2-3",
+            "itemName": "Silver Token"
+        },
+        {
+            "itemName": "Izcandar's Snow Globe"
+        },
+        {
+            "amount": "6-14",
+            "itemName": "Ultimate Mana Potion"
+        },
+        {
+            "amount": "10",
+            "itemName": "Berserk Potion"
+        },
+        {
+            "itemName": "Crystal Coin"
+        },
+        {
+            "amount": "2",
+            "itemName": "Gold Token"
+        },
+        {
+            "amount": "100",
+            "itemName": "Royal Star"
+        },
+        {
+            "amount": "6-14",
+            "itemName": "Ultimate Spirit Potion"
+        },
+        {
+            "amount": "10",
+            "itemName": "Bullseye Potion"
+        },
+        {
+            "itemName": "Chaos Mace"
+        },
+        {
+            "itemName": "Giant Sapphire"
+        },
+        {
+            "itemName": "Giant Shimmering Pearl"
+        },
+        {
+            "amount": "2",
+            "itemName": "Green Gem"
+        },
+        {
+            "itemName": "Huge Chunk of Crude Iron"
+        },
+        {
+            "itemName": "Red Gem"
+        },
+        {
+            "itemName": "Ring of Green Plasma"
+        },
+        {
+            "amount": "6",
+            "itemName": "Supreme Health Potion"
+        },
+        {
+            "itemName": "Yellow Gem"
+        },
+        {
+            "itemName": "Winterblade"
+        },
+        {
+            "itemName": "Summerblade"
+        },
+        {
+            "itemName": "Mysterious Remains"
+        },
+        {
+            "itemName": "Collar of Green Plasma"
+        },
+        {
+            "itemName": "Magic Sulphur"
+        },
+        {
+            "itemName": "Arcane Staff"
+        },
+        {
+            "itemName": "Mastermind Potion"
+        },
+        {
+            "itemName": "Pomegranate"
+        },
+        {
+            "itemName": "Izcandar's Sundial"
+        },
+        {
+            "itemName": "Blue Gem"
+        },
+        {
+            "itemName": "Skull Staff"
+        },
+        {
+            "itemName": "Collar of Blue Plasma"
+        },
+        {
+            "itemName": "Ring of Blue Plasma"
+        },
+        {
+            "itemName": "Violet Gem"
+        },
+        {
+            "itemName": "Gold Ingot"
+        },
+        {
+            "itemName": "Collar of Red Plasma"
+        },
+        {
+            "itemName": "Ring of the Sky"
+        },
+        {
+            "itemName": "Ornate Locket"
+        },
+        {
+            "itemName": "Giant Ruby"
+        },
+        {
+            "itemName": "Soul Stone"
+        },
+        {
+            "itemName": "Ring of Red Plasma"
+        },
+        {
+            "itemName": "Turquoise Tendril Lantern"
+        },
+        {
+            "itemName": "Abyss Hammer"
+        }
+    ],
+    "walksaround": "None",
+    "exp": "?",
+    "creatureclass": "Humanoids",
+    "earthDmgMod": "100%",
+    "physicalDmgMod": "100%?",
+    "bosstiaryclass": "Nemesis",
+    "primarytype": "Elves",
+    "spawntype": [
+        "Triggered"
+    ],
+    "race_id": "1699",
+    "senseinvis": "yes",
+    "actualname": "Izcandar the Banished",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Izcandar the Banished",
+    "isboss": "yes",
+    "behaviour": "Izcandar retargets very often and the blocker should use [[Challenge]] frequently.",
+    "location": "The Dream Scar.",
+    "iceDmgMod": "100%?",
+    "strategy": "Izcandar does not stay in the neutral form for a long time and will change to either the Summer of Winter version shortly after becoming neutral. Some teams like to kill it in this form because it can drop both [[Winterblade]] and [[Summerblade]], possibly doubling the odds of getting either of them (but this is unconfirmed).",
+    "energyDmgMod": "95%",
+    "deathDmgMod": "90%?"
+}

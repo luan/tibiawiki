@@ -1,0 +1,103 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "orgers",
+    "hpDrainDmgMod": "100%?",
+    "walksthrough": "?",
+    "hp": "700",
+    "usespells": "yes",
+    "occurrence": "Rare",
+    "speed": "120",
+    "abilities": "{{Ability List|}}",
+    "healMod": "100%",
+    "pushobjects": "?",
+    "paraimmune": "?",
+    "fireDmgMod": "100%",
+    "holyDmgMod": "90%",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "?",
+    "pushable": "?",
+    "usedelements": "?",
+    "implemented": "12.20.9066",
+    "bestiaryclass": "Giant",
+    "loot": [
+        {
+            "amount": "1-3",
+            "itemName": "Platinum Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Battle Hammer",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Bone Club",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Copper Shield",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Battle Axe",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Double Axe",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Staff",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Combat Knife",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Crowbar",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Studded Shield",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Bone Shield",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Spiky Club",
+            "rarity": "semi-rare"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "550",
+    "creatureclass": "Humanoids",
+    "earthDmgMod": "110%",
+    "mitigation": "0.78",
+    "physicalDmgMod": "100%",
+    "primarytype": "Giants",
+    "spawntype": [
+        "Regular"
+    ],
+    "attacktype": "Melee",
+    "race_id": "1841",
+    "bestiarylevel": "Medium",
+    "senseinvis": "Yes",
+    "article": "an",
+    "actualname": "orger",
+    "illusionable": "no",
+    "armor": "35",
+    "drownDmgMod": "100%?",
+    "convince": "?",
+    "name": "Orger",
+    "isboss": "no",
+    "location": "[[Orcsoberfest Island]].",
+    "iceDmgMod": "100%",
+    "energyDmgMod": "80%",
+    "deathDmgMod": "110%",
+    "status": "event"
+}

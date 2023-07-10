@@ -1,0 +1,139 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "isarenaboss": "no",
+    "walksthrough": "Energy, Fire, Poison",
+    "hp": "4600",
+    "abilities": "{{Ability List| {{Ability|Terra Strike|150-427+|element=earth}}|{{Ability|Ice Strike|350-550+|element=ice}}|{{Ability|dizziness ball|drunkenness|element=drunk}}|{{Summon|Humorless Fungus|2}}|{{Ability|paralysis|element=paralyze}}|{{Healing|range=275-350+}}|{{Ability|[[Invisibility]]|element=invisible}} }}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "holyDmgMod": "95%",
+    "maxdmg": "900+ (with summons 1500)",
+    "pushable": "no",
+    "implemented": "9.60",
+    "loot": [
+        {
+            "amount": "1-199",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-7",
+            "itemName": "Platinum Coin",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-15",
+            "itemName": "Envenomed Arrow",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Great Health Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Great Mana Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Hideous Chunk",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Mana Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "Mushroom Pie",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "White Piece of Cloth",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Blue Piece of Cloth",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Green Piece of Cloth",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Terra Amulet",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "War Hammer",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Red Piece of Cloth",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Terra Boots",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Muck Rod",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Terra Legs",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Terra Mantle",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Mushroom Backpack",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Mycological Bow",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "None.",
+    "exp": "2900",
+    "mitigation": "1.74",
+    "attacktype": "Distance",
+    "article": "a",
+    "actualname": "hideous fungus",
+    "illusionable": "no",
+    "armor": "60",
+    "convince": "--",
+    "name": "Hideous Fungus",
+    "isboss": "no",
+    "iceDmgMod": "85%",
+    "energyDmgMod": "85%",
+    "deathDmgMod": "65%",
+    "plural": "hideous fungi",
+    "hpDrainDmgMod": "100%",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "With the Humongous Fungus being an example for a mushroom drawn to turn evil, the Hideous Fungus is the epitome of mushroom evil. In fact they originate as Humongous Fungi that are so evil that they begin to change and ultimately end in destroying themselves.Their evilness materialises as deformation and an inner rot that drives the fungus to the brink of insanity. Hideous Fungi seems to not care about planning and safety. They are by far more often encountered alone than their yet untainted kin. Sometimes they are found wandering aimlessly in remote tunnels, often chasing something that they forgot about a long time ago. While the Hideous Fungi use their physical and natural abilities as aptly as any of their kin, their attacks lack finesse and often seem utterly random and chaotic. Their only interest seems to be to do as much harm as possible. Where the Humongous Fungus simply evil, the Hideous Fungus is pure destruction. It is not known if the Hideous Fungus is aware of its demise getting closer or if it is pain that drives it to these merciless frenzies. What is certain is the fact that the fungus seems to be searching for death, almost provoking it. Only recently some daring explorers might have shed some light on this matter. Not only have they noticed that from the dead body of a Hideous Fungus a group of Humongous Fungi will grow after a while, but also that their victims often fall mysteriously ill and die, seemingly never recovering from the wound they got in a battle with a Hideous Fungus. So it might be entirely possible that the rampages of the Hideous Fungus, whether an act of planning or not, might be connected to the reproduction of the fungi of evil.",
+    "speed": "170",
+    "pushobjects": "yes",
+    "fireDmgMod": "95%",
+    "sounds": [
+        "Munch munch munch!"
+    ],
+    "runsat": "red",
+    "bestiaryclass": "Plant",
+    "creatureclass": "Humanoids",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Fungi",
+    "race_id": "891",
+    "bestiarylevel": "Hard",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%",
+    "bestiaryname": "hideousfungus",
+    "behaviour": "Hideous fungi will position themselves at a distance. All of their attacks are distance-based. They will retarget to the player to damage them first.",
+    "location": "[[Warzone 1]], [[Rathleton]] Sewers, {{Mapper Coords|131.107|124.189|11|4|text=here}}, unreachable location in [[Tiquanda Laboratory]].",
+    "strategy": "Kill them quickly, they do quite heavy damage.<br />\n\nMages: be careful, if you shoot area attacks on groups of fungi, many of them will switch to you."
+}

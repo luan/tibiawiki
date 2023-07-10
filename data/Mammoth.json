@@ -1,0 +1,89 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "Mammoths are a bit stronger than [[Elephant]]s. And Beware, they can crush your parcels!<br />\n{{JSpoiler|You may hunt 300 of these as a task of the [[Killing in the Name of... Quest]]. Upon completion of the task you will face [[The Bloodtusk]].}}",
+    "walksthrough": "None",
+    "hp": "320",
+    "abilities": "{{Ability List\n |{{Melee|0-110}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "holyDmgMod": "100%",
+    "maxdmg": "{{Max Damage|physical=110}}",
+    "pushable": "no",
+    "usedelements": "Physical",
+    "implemented": "7.8",
+    "loot": [
+        {
+            "amount": "0-40",
+            "itemName": "Gold Coin"
+        },
+        {
+            "amount": "0-3",
+            "itemName": "Ham"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "Mammoth Tusk"
+        },
+        {
+            "itemName": "Meat"
+        },
+        {
+            "itemName": "Thick Fur"
+        },
+        {
+            "itemName": "Mammoth Whopper",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Tusk Shield",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Furry Club",
+            "rarity": "rare"
+        }
+    ],
+    "walksaround": "Fire, Energy, Poison",
+    "exp": "160",
+    "mitigation": "0.41",
+    "attacktype": "Melee",
+    "history": "Mammoth was implemented on [[Updates/7.8|Summer Update 2006]] and players could [[summon]] it for 480 mana until [[Updates/7.9|Christmas Update 2006]]. However, the first spawns of mammoths were added one major update later, on [[Updates/8.0|Summer Update 2007]], when its outfit and corpse sprites were changed.\n\nBefore the Summer Update 2007, Mammoths looked like this: [[File:Mammoth old.gif|Old Sprite]]",
+    "article": "a",
+    "actualname": "mammoth",
+    "illusionable": "no",
+    "armor": "20",
+    "convince": "500",
+    "name": "Mammoth",
+    "isboss": "no",
+    "iceDmgMod": "80%",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "100%",
+    "plural": "mammoths",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "no",
+    "occurrence": "Common",
+    "bestiarytext": "The strange Mammoth might be the creation of magical experiments as some Tibian sages claim it. Little facts are known but some cave drawings indicate that the Mammoth race is quite old. The peaceableness of the Mammoths led nearly to their extinction in the past. The shamans tell stories that the greed of the humans almost made the great Mammoths herds vanish from the face of the isles. When only a few Mammoths were still alive, the great north wind Chyll looked into this matter and decided to intervene. He whispered something into the ears of the Mammoths and the great beasts learned a new secret. This secret was aggression. From this day on, the Mammoths fought back. They learned to defend themselves from the greed of man. Still, the Mammoths never again became as numerous as they had been in the past. The days of the great Mammoth herds, which were roaming the icy land, are gone forever. Nowadays, Mammoths are able to defend themselves and only the bravest hunter who faces a mammoth will survive to carry home the meat and pelt as his rightful treasure.",
+    "speed": "95",
+    "pushobjects": "yes",
+    "fireDmgMod": "110%",
+    "sounds": [
+        "Troooooot!",
+        "Hooooot-Toooooot!",
+        "Tooooot."
+    ],
+    "runsat": "0",
+    "bestiaryclass": "Mammal",
+    "creatureclass": "Mammals",
+    "earthDmgMod": "80%",
+    "physicalDmgMod": "90%",
+    "primarytype": "Ungulates",
+    "race_id": "260",
+    "bestiarylevel": "Easy",
+    "senseinvis": "no",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "mammoth",
+    "behaviour": "It will push or kill weaker creatures in its path to reach you.",
+    "location": "[[Formorgar Glacier]], [[Tyrsung]], around the [[Barbarian Settlements]], [[Mammoth Shearing Factory]], [[Chyllfroest]].",
+    "strategy": "Not difficult. Knights should just melee them and mages attack with a [[Fire Damage|fire]] [[wand]]/[[Death Damage|death]] [[rod]]. It's like a strong [[cyclops]]/[[elephant]]."
+}

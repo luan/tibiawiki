@@ -1,0 +1,131 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "It's an [[Order of the Falcon]] boss.\n{{JSpoiler|Part of [[The Secret Library Quest]].}}",
+    "walksthrough": "Poison, Fire, Energy",
+    "hp": "17000",
+    "speed": "?",
+    "abilities": "{{Ability List\n |{{Melee|0-1200+}}\n |{{Ability|Divine Ball|0-900+|element=holy\n  |scene={{Scene|spell=2sqmballself|caster=Grand Commander Soeren|look_direction=south|effect=Holy Cross Effect|effect_on_caster=yes}}}}\n |{{Ability|Death Arrow|0-900+|element=death\n  |scene={{Scene|spell=7sqmstrike|caster=Grand Commander Soeren|look_direction=south|effect=Death Effect|missile=Sniper Arrow Missile|missile_direction=south-east|missile_distance=7/7}}}}\n |{{Ability|Energy Beam|0-900+|element=energy\n  |scene={{Scene|spell=5sqmbeam|caster=Grand Commander Soeren|look_direction=east|effect=Blue Electricity Effect|damage_effect=None}}}}\n |{{Ability|Large Flame Bomb|0-900+|element=fire\n  |scene={{Scene|spell=3sqmballtarget|caster=Grand Commander Soeren|look_direction=south|effect=Flame Effect}}}}\n |{{Ability|Small Flame Bomb|0-900+|element=fire\n  |scene={{Scene|spell=1sqmballtarget|caster=Grand Commander Soeren|look_direction=south|effect=Flame Effect}}}}\n |{{Ability|Energy Bolt|0-1490|element=energy\n  |scene={{Scene|spell=7sqmstrike|caster=Grand Commander Soeren|look_direction=south|effect=Blue Electricity Effect|missile=Infernal Bolt Missile|missile_direction=south-east|missile_distance=7/7}}}}\n  |{{Ability|Paralyze|element=paralyze}}\n}}",
+    "pushobjects": "yes",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "fireDmgMod": "50%",
+    "holyDmgMod": "125%",
+    "sounds": [
+        "Flinch even once, and I will crush every fiber within you!",
+        "The Falcon reigns supreme!"
+    ],
+    "maxdmg": "3000+",
+    "pushable": "no",
+    "runsat": "0",
+    "implemented": "11.80.7048",
+    "loot": [
+        {
+            "amount": "1-5",
+            "itemName": "Platinum Coin"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "Great Mana Potion"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "Great Health Potion"
+        },
+        {
+            "amount": "1-9",
+            "itemName": "Assassin Star"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Small Topaz"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Small Emerald"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Small Ruby"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Small Amethyst"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Small Diamond"
+        },
+        {
+            "amount": "1-15",
+            "itemName": "Onyx Arrow"
+        },
+        {
+            "itemName": "Small Enchanted Amethyst"
+        },
+        {
+            "itemName": "Golden Armor"
+        },
+        {
+            "amount": "1",
+            "itemName": "Damaged Armor Plates"
+        },
+        {
+            "itemName": "Giant Shimmering Pearl",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Falcon Crest",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Patch of Fine Cloth",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Green Gem"
+        },
+        {
+            "itemName": "Red Gem",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Violet Gem",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Mastermind Shield",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Falcon Coif",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Falcon Bow",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "no",
+    "exp": "12000",
+    "creatureclass": "Humans",
+    "earthDmgMod": "50%",
+    "physicalDmgMod": "50%",
+    "bosstiaryclass": "Bane",
+    "primarytype": "Members of the Order of the Falcon",
+    "race_id": "1582",
+    "senseinvis": "yes",
+    "actualname": "Grand Commander Soeren",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%",
+    "convince": "--",
+    "name": "Grand Commander Soeren",
+    "isboss": "yes",
+    "location": "[[Falcon Bastion]].",
+    "iceDmgMod": "50%",
+    "strategy": "Try to avoid hes melee range due to a high combos, keep long range whatever you can.",
+    "energyDmgMod": "50%",
+    "deathDmgMod": "50%"
+}

@@ -1,0 +1,99 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "These mounted archers was the answer to high degree mobility. However, because of the orcs lust for blood, staying at a distance from the enemy proved a difficult task to maneuver. Before, those orcs which managed to restrain themselves from such urges were often shunned and called cowards. With the coming of new leaders such prejudice as these have since changed. The remaining Orc Marauders joined together and have since received additional training and have become what they now are today. <br />\nNow only the most daring orcs are now chosen as Orc Marauders. As unlike the [[War Wolf|War Wolves]], [[gnarlhound]]s are not bound to a specific rider, they are shared throughout the tribe and picked at random before a raid. Orc Marauders treat their skin to a mixture of excrements and herbs to avoid them being ripped to shreds by their own mounts.<br />\nThis creature was added with the [[Updates/8.54|Christmas Update 2009]].",
+    "walksthrough": "None",
+    "hp": "235",
+    "abilities": "{{Ability List\n |{{Melee|0-80+}}\n |{{Ability|Shoot [[Arrow]]|0-80|element=physical\n  |scene={{Scene|spell=5sqmstrike|background=canvas|caster=Orc Marauder|look_direction=south|missile=Arrow Missile|missile_direction=south-east|missile_distance=5/5}}}}\n |{{Haste}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "holyDmgMod": "90%",
+    "maxdmg": "{{Max Damage|physical=160+}}",
+    "pushable": "?",
+    "usedelements": "Physical",
+    "implemented": "8.54",
+    "loot": [
+        {
+            "amount": "1-90",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Meat",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Shaggy Tail",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Bow",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Broken Crossbow",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Orc Leather",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Orc Tooth",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Obsidian Lance",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Orcish Axe",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Crossbow",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Silkweaver Bow",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Fire, Energy, Poison",
+    "exp": "205",
+    "mitigation": "0.83",
+    "attacktype": "Distance",
+    "article": "an",
+    "actualname": "orc marauder",
+    "illusionable": "no",
+    "armor": "16",
+    "convince": "490",
+    "name": "Orc Marauder",
+    "isboss": "no",
+    "iceDmgMod": "100%",
+    "energyDmgMod": "80%",
+    "deathDmgMod": "110%",
+    "plural": "orc marauders",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "The war in Zao required a high degree of mobility. The answer to this request was the mounted archer. However, it took some time to make this solution palatable to the savage orcs. Barely able to control their blood lust, the orcs easily forgot their intention to stay away from the enemy and steered their mounts into the fray. Those who managed to withstand such urges were often seen as cowards and were widely shunned by other orcs. Only with the coming of their new leaders such prejudices changed. The few scattered Orc Marauders were combined and received additional training. Some of the smarter orcs were picked to support the ranks of the riders and once their effectiveness was proven, the acceptance of the Orc Marauders among the orcs grew continuously.<br />Used more efficiently, these new units of the orcish horde made the difference that was necessary to tune the tones of war at least for a while. The Orc Marauders attacked the lizard armies from afar. Slowly the casualties drained the strength of the lizard armies and the attacks of the orcs became bolder and bolder. The attacks usually started with Orc Marauders weakening the defensive lines. When the main body of the orcs attacked, the Orc Marauders switched to flanking tactics and caught scattered troops on the run. In more peaceful times, Orc Marauders serve as scouts or hunters.<br />Only the most daring orcs are chosen as Orc Marauders. Unlike the warwolves, the gnarlhounds are not bond to a specific orc. Rather the gnarlhounds are shared by the tribe and picked randomly before a raid. Given the unpredictability of the gnarlhounds, it is of little consequence for the rider. Since gnarlhounds are prone to frenzy in battle, the Orc Marauders treat their skin with a mixture of gnarlhound excrements and herbs to avoid being ripped to shreds by their own mounts.",
+    "speed": "195",
+    "pushobjects": "?",
+    "fireDmgMod": "100%",
+    "sounds": [
+        "Grrrrrr"
+    ],
+    "bestiaryclass": "Humanoid",
+    "creatureclass": "Humanoids",
+    "earthDmgMod": "110%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Orcs",
+    "race_id": "614",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "orcmarauder",
+    "location": "[[Zao Orc Land]].",
+    "strategy": "They stay at a distance of the target and run away with great haste (faster than a lvl 55) from you. Use [[Haste]] or something similar to chase them."
+}

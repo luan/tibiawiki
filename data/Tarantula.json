@@ -1,0 +1,81 @@
+{
+    "summon": "485",
+    "templateType": "Creature",
+    "notes": "Tarantulas usually spawn in groups with other weaker [[monsters]] or together with a [[Giant Spider]] (in the [[Plains of Havoc]], for example). Kill the weaker [[monster]]s off first so they do not break your [[shielding]]. Also note that tarantulas are dangerous in groups due to their ability to haste and surround their prey. [[GFB]]s work nicely to kill the tarantulas and the other creatures. \n\n{{JSpoiler|You may hunt 300 of these as a task of the [[Killing in the Name of... Quest]]. Upon completion of the task you will face [[Hide]].}}",
+    "walksthrough": "Poison",
+    "hp": "225",
+    "abilities": "{{Ability List|{{Melee|0-90|poison=2}}|{{Haste}}|{{Ability|[[Terra Strike]]|[[Poisoned|Poison]]s you for 1 [[hp]] per turn|element=poisoned}} }}",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "holyDmgMod": "100%",
+    "maxdmg": "92",
+    "pushable": "no",
+    "implemented": "7.5",
+    "loot": [
+        {
+            "amount": "0-40",
+            "itemName": "Gold Coin"
+        },
+        {
+            "itemName": "Tarantula Egg"
+        },
+        {
+            "itemName": "Spider Fangs",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Brass Legs",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Plate Shield",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Steel Helmet",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Time Ring",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Fire, Energy",
+    "exp": "120",
+    "mitigation": "0.51",
+    "attacktype": "Melee",
+    "history": "As of November 16, 2011, Tarantulas as well as other poison-causing creatures can no longer be convinced. This was to prevent PvP abuse whereby a player would trick another player into convincing creatures that would later frag low level characters with poison applied earlier. After enough kills the player would obtain a [[Red Skull]] and would lose all items belonging to them upon being killed. More can be read in the news article \"{{OfficialNewsArchive|1894|Content Fixes}}\".",
+    "article": "a",
+    "actualname": "tarantula",
+    "illusionable": "yes",
+    "armor": "20",
+    "convince": "--",
+    "name": "Tarantula",
+    "isboss": "no",
+    "iceDmgMod": "110%",
+    "energyDmgMod": "90%",
+    "deathDmgMod": "100%",
+    "plural": "tarantulas",
+    "hpDrainDmgMod": "100%",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "The Tarantula is another nasty variant of the spider family. It is not bound to a certain habitat, so it can be encountered in caves, forests and ruins alike. Therefore it poses a threat everywhere but in the coldest or volcanic areas. It is aggressive and dangerous and it is not choosier in its diet than in its habitat. Anything is seen as prey and sometimes they even cannibalise creatures of their own species. Its poisonous fangs are more than enough to make these beasts a constant threat to the settlers but many extermination campaigns have driven them back from the centres of civilisation. Still the sight of a single Tarantula is usually enough for a town to hire some scouts and mercenaries to examine the area more closely.",
+    "speed": "107",
+    "pushobjects": "yes",
+    "fireDmgMod": "115%",
+    "sounds": [
+        ""
+    ],
+    "bestiaryclass": "Vermin",
+    "creatureclass": "Invertebrates",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Arachnids",
+    "race_id": "219",
+    "bestiarylevel": "Easy",
+    "senseinvis": "no",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "tarantula",
+    "location": "[[Tiquanda Tarantula Caves]], [[Spider Caves]], [[Trapwood]] ground level and underground, in 2 small caves South of [[Thais]], [[Dark Cathedral]], single spawn on top of [[Crocodile]] den north of [[Port Hope]] ({{Mapper Coords|127.122|127.114|7|3|text=here}}), [[Plains of Havoc]], underground [[Liberty Bay]], [[Nargor Undead Cave]] and other constituents of the [[Shattered Isles]], [[Green Claw Swamp]] ({{Mapper Coords|127.219|124.217|7|4|text=here}}), first floor up in the big building in the [[Cemetery Quarter]], [[Robson Isle]], [[Vengoth]]. After the summer update of 2008, tarantulas can be seen on the beginner's island of [[Rookgaard]].",
+    "strategy": "'''Knights:''' Can kill them with little waste of potions with around 60/60. It is important to continuously move in circles to avoid being hit by more than 2 at a time to achieve optimal efficiency. With good skills like 80/80 and level 35+(and if waste doesn't matter) you could lure some together and use Exori. Normally two Exoris are enough to kill them. Like this you can kill them faster as usually and finish a Grizzly Task fast.  <br />\n'''Paladins:''' A Level of 20 is recommended to outrun them and around 50 distance to not waste ammunition. A level 25 paladin with skills 60/50 can handle 2 of them with no problem.<br />\n'''Mages:''' Wand or rod and runes or spells to kill faster. [[Flame Strike]] (Sorcerer and Druid) is the preferred spell (due to tarantula's highest weakness to fire) for those looking to optimize their stamina. Sorcerers can use [[Fire Wave]] and Druids can use [[Ice Wave]] to kill a group of [[Arachnids]]."
+}

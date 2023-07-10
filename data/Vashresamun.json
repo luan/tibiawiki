@@ -1,0 +1,94 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "0%",
+    "notes": "She was sentenced to be locked away, after her part in the conspiracies against the pharaoh, [[Arkhotep]]. She is the only female pharaoh.\n\n{{JSpoiler|One of the Pharaohs of [[The Ancient Tombs Quest]].}}",
+    "walksthrough": "None.",
+    "hp": "4000",
+    "speed": "?",
+    "abilities": "{{Ability List\n |{{Melee|0-200|poison=3}}\n |{{Ability|Great Musical Bomb|250-550|element=death\n  |scene={{Scene|spell=3sqmball2self|effect=Red Notes Effect|caster=Vashresamun|effect_on_caster=yes}}}}\n |{{Ability|Life Drain|50-750|element=lifedrain}}\n |{{Ability|[[Paralysis]]|element=paralyze}}\n |{{Summon|Banshee|2}}\n |{{Healing|range=250-450}}\n}}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "80%",
+    "holyDmgMod": "110%",
+    "sounds": [
+        "If music is the food of death, drop dead.",
+        "Are you enjoying my music?",
+        "Come my maidens, we have visitors!",
+        "Chakka Chakka!",
+        "Heheheheee!"
+    ],
+    "maxdmg": "1600 (2900 with summons)",
+    "pushable": "?",
+    "implemented": "7.3",
+    "loot": [
+        {
+            "amount": "0-250",
+            "itemName": "Gold Coin"
+        },
+        {
+            "itemName": "Blue Note",
+            "rarity": "always"
+        },
+        {
+            "itemName": "Great Mana Potion"
+        },
+        {
+            "itemName": "Lute"
+        },
+        {
+            "itemName": "White Pearl"
+        },
+        {
+            "itemName": "Blue Robe",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Crystal Mace",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Crystal Ring",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Ancient Tiara",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Mini Mummy",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Panpipes",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Fire, Energy, Poison",
+    "exp": "2950",
+    "creatureclass": "The Undead",
+    "earthDmgMod": "80%",
+    "physicalDmgMod": "100%",
+    "bosstiaryclass": "Bane",
+    "primarytype": "Pharaohs",
+    "spawntype": [
+        "Regular",
+        "Unique",
+        "Unblockable"
+    ],
+    "race_id": "85",
+    "senseinvis": "yes",
+    "illusionable": "no",
+    "armor": "40",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Vashresamun",
+    "isboss": "no",
+    "behaviour": "Malicious, will make all efforts to destroy intruders.",
+    "location": "[[Ancient Ruins Tomb]].",
+    "iceDmgMod": "80%",
+    "strategy": "She will melee with any in close proximity, this allows distance attackers better chances to defeat her quick. She is guarded by 2 [[Banshee]]s, 4 [[Magicthrower]]s and 2 [[Shredderthrower]]s.\nShe is the most harmless of the [[Pharaohs]].",
+    "energyDmgMod": "80%",
+    "deathDmgMod": "0%"
+}

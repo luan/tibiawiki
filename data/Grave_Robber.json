@@ -1,0 +1,96 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "Slightly stronger than a [[Nomad (Basic)|Nomad]].",
+    "walksthrough": "None",
+    "hp": "165",
+    "abilities": "{{Ability List| {{Melee|?}}|{{Ability|[[Poisoned|Poison]] shot|poisons you|element=poisoned}} }}",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "holyDmgMod": "80%",
+    "maxdmg": "?",
+    "pushable": "yes",
+    "implemented": "9.50",
+    "loot": [
+        {
+            "amount": "0-38",
+            "itemName": "Gold Coin"
+        },
+        {
+            "itemName": "Rope Belt"
+        },
+        {
+            "amount": "0-3",
+            "itemName": "Potato",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Axe",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Brass Armor",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Dirty Turban",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Mace",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Iron Helmet",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Steel Shield",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Nomad Parchment",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Fire, Energy, Poison.",
+    "exp": "65",
+    "mitigation": "0.38",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "grave robber",
+    "illusionable": "no",
+    "armor": "7",
+    "convince": "435",
+    "name": "Grave Robber",
+    "isboss": "no",
+    "iceDmgMod": "110%",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "110%",
+    "status": "event",
+    "plural": "grave robbers",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "no",
+    "occurrence": "Rare",
+    "bestiarytext": "The ruthless individuals known as grave robbers roam abandoned crypts in search of riches. They do not like any form of competition, infights and backstabbing are part of their daily routine. Though these fights are forgotten as soon as another competitor enters. So, often surprised adventurers and explorers end up earning the wrath of the grave robbers. In rarely seen unity they put aside their quarrels and team up to eliminate the unwanted intruders. The grave robbers fight with all the cruelty and spite at their disposal. They are usually not well armed or armored, carrying around an assortment of stolen ragtag equipment. Usually recruited by a twist of fate from the ranks of the poor and hopeless, the common grave robber fears little and has respect for nothing. Though some of them might be tragic individuals, hoping to support their families or having caught some bizarre disease when investigating an ancient tomb, the majority of them are a bunch of thieves and murderers of the worst kind. Most of them have abandoned all initial hope of finding a fortune and settling down long ago. Having not much to loose and having given up all pretence of self respect, they have no honour and know neither remorse nor mercy.",
+    "speed": "95",
+    "pushobjects": "no",
+    "fireDmgMod": "80%",
+    "sounds": [
+        ""
+    ],
+    "runsat": "15",
+    "bestiaryclass": "Human",
+    "creatureclass": "Humans",
+    "earthDmgMod": "100%",
+    "physicalDmgMod": "110%",
+    "primarytype": "Outlaws",
+    "race_id": "867",
+    "bestiarylevel": "Easy",
+    "senseinvis": "no",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "graverobber",
+    "behaviour": "Fights in close combat.",
+    "location": "[[Horestis Tomb]].",
+    "strategy": "Basically same as nomads."
+}

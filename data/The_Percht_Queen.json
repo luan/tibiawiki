@@ -1,0 +1,219 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "isevent": "yes",
+    "hpDrainDmgMod": "100%?",
+    "notes": "While it's frozen, it will be immune to damage and look like this: [[File:The Percht Queen (Frozen).gif]]\n\n{{JSpoiler|It's the boss of the [[Winterlight Solstice]] event.}}",
+    "walksthrough": "None",
+    "hp": "2300",
+    "speed": "0",
+    "abilities": "{{Ability List|None}}",
+    "pushobjects": "no",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "30%",
+    "holyDmgMod": "20%",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "0",
+    "pushable": "no",
+    "usedelements": "None",
+    "runsat": "0",
+    "cooldown": "20",
+    "implemented": "12.02.7746",
+    "loot": [
+        {
+            "itemName": "Abyss Hammer"
+        },
+        {
+            "itemName": "Gold Ingot"
+        },
+        {
+            "amount": "100",
+            "itemName": "Royal Star"
+        },
+        {
+            "itemName": "Giant Shimmering Pearl (Brown)"
+        },
+        {
+            "itemName": "Giant Shimmering Pearl (Green)"
+        },
+        {
+            "itemName": "Mysterious Remains"
+        },
+        {
+            "itemName": "Chaos Mace"
+        },
+        {
+            "itemName": "Skull Staff"
+        },
+        {
+            "itemName": "Collar of Blue Plasma"
+        },
+        {
+            "itemName": "Collar of Green Plasma"
+        },
+        {
+            "amount": "6-20",
+            "itemName": "Ultimate Spirit Potion"
+        },
+        {
+            "amount": "6-20",
+            "itemName": "Ultimate Mana Potion"
+        },
+        {
+            "amount": "6-20",
+            "itemName": "Supreme Health Potion"
+        },
+        {
+            "amount": "5",
+            "itemName": "Platinum Coin"
+        },
+        {
+            "itemName": "Piggy Bank"
+        },
+        {
+            "itemName": "Energy Bar"
+        },
+        {
+            "itemName": "Green Gem"
+        },
+        {
+            "itemName": "Red Gem"
+        },
+        {
+            "itemName": "Yellow Gem"
+        },
+        {
+            "amount": "2",
+            "itemName": "Crystal Coin"
+        },
+        {
+            "itemName": "Huge Chunk of Crude Iron"
+        },
+        {
+            "amount": "10",
+            "itemName": "Bullseye Potion"
+        },
+        {
+            "amount": "10",
+            "itemName": "Berserk Potion"
+        },
+        {
+            "amount": "10",
+            "itemName": "Mastermind Potion"
+        },
+        {
+            "itemName": "Soul Stone"
+        },
+        {
+            "itemName": "Magic Sulphur"
+        },
+        {
+            "itemName": "Ring of the Sky"
+        },
+        {
+            "itemName": "Ring of Blue Plasma"
+        },
+        {
+            "itemName": "Ring of Green Plasma"
+        },
+        {
+            "itemName": "Golden Bell"
+        },
+        {
+            "itemName": "Collar of Red Plasma"
+        },
+        {
+            "itemName": "Violet Gem"
+        },
+        {
+            "itemName": "Ring of Red Plasma"
+        },
+        {
+            "itemName": "Blue Gem"
+        },
+        {
+            "itemName": "Lucky Pig"
+        },
+        {
+            "itemName": "Ice Hatchet"
+        },
+        {
+            "itemName": "Frozen Chain"
+        },
+        {
+            "itemName": "Icicle (Percht)"
+        },
+        {
+            "itemName": "Small Ladybug"
+        },
+        {
+            "itemName": "Horseshoe"
+        },
+        {
+            "itemName": "Golden Horseshoe"
+        },
+        {
+            "itemName": "Golden Cotton Reel"
+        },
+        {
+            "itemName": "Frozen Claw"
+        },
+        {
+            "itemName": "Percht Broom"
+        },
+        {
+            "itemName": "Percht Handkerchief"
+        },
+        {
+            "itemName": "Percht Queen's Frozen Heart"
+        },
+        {
+            "itemName": "The Crown of the Percht Queen (Ice)"
+        },
+        {
+            "itemName": "The Crown of the Percht Queen (Fire)"
+        },
+        {
+            "itemName": "Fly Agaric (Item)"
+        },
+        {
+            "itemName": "Flames of the Percht Queen"
+        },
+        {
+            "itemName": "Percht Skull"
+        },
+        {
+            "itemName": "Arcane Staff"
+        }
+    ],
+    "walksaround": "None",
+    "exp": "500",
+    "creatureclass": "The Undead",
+    "earthDmgMod": "20%?",
+    "physicalDmgMod": "10%?",
+    "bosstiaryclass": "Nemesis",
+    "primarytype": "Undead Humanoids",
+    "spawntype": [
+        "Triggered"
+    ],
+    "race_id": "1744",
+    "history": "On December 5, 2018, a bug that allowed players to receive rewards from [[Reward Chest]] bosses without fighting them (and thus without the daily cooldown limit) was made public and several players started abusing it. As an emergency measure, CipSoft removed the most valuable items from the Queen's loot, [[Silver Token]]s and [[Gold Token]]s, on the following day, but this change was not initially announced. It was informed that this change would be temporary, but it was later made permanent.",
+    "senseinvis": "?",
+    "actualname": "The Percht Queen",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "The Percht Queen",
+    "isboss": "yes",
+    "behaviour": "It does not move.",
+    "location": "Under [[Percht Island]].",
+    "iceDmgMod": "-100%",
+    "strategy": "Weaken it by luring at least 4 [[Warm Fire]]s near it, and then simply finish it off using Elemental damage, but '''not''' [[Ice Damage]] because it heals the boss. Mages should summon for example [[rat]]s to draw attention of the [[Percht Minion]]s, while knights should use [[Challenge]] to make luring easier.\nBE CAREFUL, she have small HP, for bosstiary, make it careful so everyone on the team can get the kill!",
+    "energyDmgMod": "20%?",
+    "deathDmgMod": "10%",
+    "status": "event"
+}

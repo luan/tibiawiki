@@ -1,0 +1,63 @@
+{
+    "summon": "530",
+    "templateType": "Creature",
+    "plural": "lesser fire devils",
+    "hpDrainDmgMod": "100%?",
+    "notes": "They are weaker than the [[Fire Devil]] but still very strong for [[Dawnport]] standards. They can be found below the [[Dawnport Goblin Cave]].",
+    "walksthrough": "?",
+    "hp": "175",
+    "speed": "75",
+    "abilities": "{{Ability List|{{Melee|0-33?}}|{{Ability|Fire Explosion|4-12|fire}}|{{Ability|Fireball|22-38|fire}}}}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "65%",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "{{Max Damage|physical=33?|fire=50}}",
+    "pushable": "no",
+    "implemented": "10.55",
+    "loot": [
+        {
+            "amount": "1-10",
+            "itemName": "Gold Coin"
+        },
+        {
+            "itemName": "Blank Rune",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "Torch",
+            "rarity": "semi-rare"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "110",
+    "creatureclass": "Demons",
+    "earthDmgMod": "100%?",
+    "physicalDmgMod": "100%?",
+    "primarytype": "Demons",
+    "spawntype": [
+        "Regular",
+        "Unblockable"
+    ],
+    "race_id": "1082",
+    "senseinvis": "?",
+    "article": "a",
+    "actualname": "lesser fire devil",
+    "illusionable": "yes",
+    "armor": "9",
+    "drownDmgMod": "100%?",
+    "convince": "530",
+    "name": "Lesser Fire Devil",
+    "isboss": "no",
+    "behaviour": "Unknown",
+    "location": "[[Dawnport]]",
+    "iceDmgMod": "100%?",
+    "strategy": "Kill them as soon as you can. Trap the lesser fire devil so it cannot lure you into more creatures.",
+    "energyDmgMod": "90%",
+    "deathDmgMod": "100%?"
+}

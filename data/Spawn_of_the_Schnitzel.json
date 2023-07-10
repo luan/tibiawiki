@@ -1,0 +1,47 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "{{JSpoiler|Part of ''The Great Schnitzel Hunt'' during the [[Orcsoberfest]] event.}}",
+    "walksthrough": "?",
+    "hp": "1000",
+    "abilities": "{{Ability List|None}}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "100%",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "?",
+    "pushable": "yes",
+    "usedelements": "?",
+    "runsat": "0",
+    "implemented": "12.20.9066",
+    "loot": [
+        {
+            "itemName": "Schnitzel Meat Grinder"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "0",
+    "creatureclass": "Special",
+    "earthDmgMod": "100%",
+    "physicalDmgMod": "100%?",
+    "primarytype": "Event Creatures",
+    "senseinvis": "?",
+    "article": "a",
+    "actualname": "spawn of the schnitzel",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Spawn of the Schnitzel",
+    "behaviour": "They follow you but don't cause any damage.",
+    "location": "[[The Great Schnitzel's Lair]]",
+    "iceDmgMod": "100%",
+    "strategy": "Kill them and take the [[Schnitzel Meat Grinder]] to use on [[The Great Schnitzel]].",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "100%?"
+}

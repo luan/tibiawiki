@@ -1,0 +1,109 @@
+{
+    "summon": "290",
+    "templateType": "Creature",
+    "notes": "They closely resemble [[Troll]]s but throw [[Small Stone]]s and provide slightly better items.",
+    "walksthrough": "None",
+    "hp": "50",
+    "abilities": "{{Ability List|{{Melee|0-10}}|{{Ability|Throws [[Small Stone]]s|0-25}}}}",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "holyDmgMod": "80%",
+    "maxdmg": "{{Max Damage|physical=35}}",
+    "pushable": "Yes",
+    "usedelements": "Physical",
+    "implemented": "6.1",
+    "loot": [
+        {
+            "amount": "1-9",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Fish",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Short Sword",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Small Axe",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Small Stone",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Bone Club",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Leather Armor",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Bone",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Dagger",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Leather Helmet",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Goblin Ear",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Mouldy Cheese",
+            "rarity": "rare"
+        }
+    ],
+    "walksaround": "Fire, Energy, Poison",
+    "exp": "25",
+    "mitigation": "0.20",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "goblin",
+    "illusionable": "yes",
+    "armor": "6",
+    "convince": "290",
+    "name": "Goblin",
+    "isboss": "no",
+    "iceDmgMod": "100%",
+    "energyDmgMod": "80%",
+    "deathDmgMod": "110%",
+    "plural": "goblins",
+    "hpDrainDmgMod": "100%",
+    "usespells": "no",
+    "occurrence": "Common",
+    "bestiarytext": "Goblins are human-like creatures that live in small tribes in the hills in the centre of Tibia. They are ugly, stinking beings that mainly live on tubers and roots. They are weak but cunning fighters and use their slings to ambush and rob travellers.",
+    "speed": "60",
+    "pushobjects": "No",
+    "fireDmgMod": "100%",
+    "sounds": [
+        "Zig Zag! Gobo attack!",
+        "Me green, me mean!",
+        "Bugga! Bugga!",
+        "Help! Goblinkiller!",
+        "Me have him!"
+    ],
+    "runsat": "35",
+    "bestiaryclass": "Humanoid",
+    "creatureclass": "Humanoids",
+    "earthDmgMod": "110%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Goblins",
+    "race_id": "61",
+    "bestiarylevel": "Trivial",
+    "senseinvis": "no",
+    "drownDmgMod": "100%",
+    "bestiaryname": "goblin",
+    "behaviour": "Goblins can be pushed and don't move objects.",
+    "location": "[[Femor Hills]], north east of [[Carlin]], [[Edron Goblin Cave]], [[Rookgaard]] (Premium Area), [[Maze of Lost Souls]] and [[Fenrock]].",
+    "strategy": "Be careful in [[Rookgaard]], because they can hit hard! You can hunt them profitable from [[Level]] 6 with decent equipment. In [[Tibia (Continent)|Mainland]] they are usually hunted for [[Small Stone]]s which is the [[Paladin]]'s popular light training weapon. After update 8.5, the small stones drop rate has been reduced."
+}

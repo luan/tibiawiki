@@ -1,0 +1,102 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "This boss can only be fought when [[First Dragon Quest]] is active.",
+    "isarenaboss": "no",
+    "walksthrough": "Poison?, Fire",
+    "hp": "10000",
+    "speed": "?",
+    "abilities": "{{Ability List| {{Melee|0-500?}}|{{Ability|[[Fire Wave]]|300-550?|element=fire}}|{{Ability|[[Fire Damage|Great Fire Bomb]]|element=fire}}|{{Healing|range=600-700?}}|{{Summon|Dragon Lord|2}}|{{Ability|wave|1000-?|element=?}} }}",
+    "pushobjects": "yes",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "0%?",
+    "holyDmgMod": "105%",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "1600+ (2300 with summons)",
+    "pushable": "no",
+    "implemented": "11.02.4128",
+    "cooldown": "20",
+    "loot": [
+        {
+            "amount": "0-10",
+            "itemName": "Platinum Coin"
+        },
+        {
+            "amount": "0-9?",
+            "itemName": "Dragon Ham"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "Great Health Potion"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "Great Mana Potion"
+        },
+        {
+            "amount": "0-10",
+            "itemName": "Onyx Arrow"
+        },
+        {
+            "itemName": "Dragon Scale Mail"
+        },
+        {
+            "itemName": "Fire Sword"
+        },
+        {
+            "amount": "0-10",
+            "itemName": "Power Bolt"
+        },
+        {
+            "itemName": "Red Dragon Leather"
+        },
+        {
+            "itemName": "Royal Helmet"
+        },
+        {
+            "itemName": "Energy Ring"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "Dragon Blood"
+        },
+        {
+            "itemName": "Dragon Tongue",
+            "rarity": "always"
+        },
+        {
+            "itemName": "Horn of Kalyassa",
+            "rarity": "always"
+        },
+        {
+            "itemName": "Life Crystal",
+            "rarity": "rare"
+        }
+    ],
+    "walksaround": "Energy",
+    "exp": "9000",
+    "creatureclass": "Reptiles",
+    "earthDmgMod": "50%",
+    "physicalDmgMod": "100%?",
+    "bosstiaryclass": "Archfoe",
+    "primarytype": "Dragons",
+    "race_id": "1389",
+    "senseinvis": "yes",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Kalyassa",
+    "isboss": "yes",
+    "behaviour": "Unknown",
+    "location": "[[Dragonblaze Peaks]], {{Mapper Coords|129.136|122.87|5|4|text=here}}.",
+    "iceDmgMod": "100%?",
+    "strategy": "Mages: Mana shield is recommended since it can combo 2000+. It avoids crossing energy fields, but it's a moot point given how often it spams fire bombs.",
+    "energyDmgMod": "70%",
+    "deathDmgMod": "100%?",
+    "status": "event"
+}

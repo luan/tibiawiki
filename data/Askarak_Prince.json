@@ -1,0 +1,117 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "These creatures will only spawn when their side in on the winning hand in the [[Arak War]]. {{JSpoiler|Killing 100 of these will grant you the [[Askarak Nemesis]] [[achievement]].}}",
+    "isarenaboss": "no",
+    "walksthrough": "?",
+    "hp": "2600",
+    "abilities": "{{Ability List\n |{{Melee|0-350+}}\n |{{Healing|range=50-150}}\n |{{Ability|Poison Explosion|50-150|element=earth\n  |scene={{Scene|spell=4sqmball2self|effect=Poison Effect 1|caster=Askarak Prince|effect_on_caster=yes}}}}\n |{{Ability|Poison Wave|70-250|element=earth\n  |scene={{Scene|spell=4sqmtwave|effect=Poison Effect 1|caster=Askarak Prince|look_direction=east}}}}\n |{{Ability|Poison Beam|100-200|element=earth\n  |scene={{Scene|spell=5sqmbeam|effect=Poison Effect 1|caster=Askarak Prince|look_direction=east}}}}\n |{{Ability|Paralyze|element=paralyze\n  |scene={{Scene|spell=3sqmstrike|caster=Askarak Prince|effect=Red Sparkles Effect|missile_direction=south-east|missile_distance=3/3}}}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "holyDmgMod": "100%",
+    "maxdmg": "{{Max Damage|physical=350|earth=600}}",
+    "pushable": "no",
+    "implemented": "9.10",
+    "loot": [
+        {
+            "amount": "0-186",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "amount": "0-4",
+            "itemName": "Platinum Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Strong Health Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Strong Mana Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "0-5",
+            "itemName": "Small Emerald",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "0-4",
+            "itemName": "Brown Mushroom",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Stealth Ring",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Mastermind Potion",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Terra Mantle",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Magic Sulphur",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Springsprout Rod",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Demonic Finger",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Giant Sword",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "1700",
+    "mitigation": "1.32",
+    "attacktype": "Melee",
+    "article": "an",
+    "actualname": "askarak prince",
+    "illusionable": "no",
+    "armor": "45",
+    "convince": "--",
+    "name": "Askarak Prince",
+    "isboss": "no",
+    "iceDmgMod": "30%",
+    "energyDmgMod": "30%",
+    "deathDmgMod": "105%",
+    "status": "event",
+    "plural": "askarak princes",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Rare",
+    "speed": "125",
+    "pushobjects": "yes",
+    "fireDmgMod": "115%",
+    "sounds": [
+        "DEATH TO THE SHABURAK!",
+        "GREEN WILL RULE!",
+        "ONLY WE ARE TRUE DEMONS!",
+        "RED IS MAD!",
+        "WE RULE!"
+    ],
+    "bestiaryclass": "Demon",
+    "creatureclass": "Arak Demons",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Askarak Demons",
+    "spawntype": [
+        "Regular",
+        "Event"
+    ],
+    "race_id": "729",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "location": "[[Demonwar Crypt]].",
+    "strategy": "Unknown."
+}

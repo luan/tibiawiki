@@ -1,0 +1,98 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "One of the new Hive Bosses.\n<br />\n{{JSpoiler|Part of the [[War Against the Hive Quest]].}}",
+    "walksthrough": "Poison",
+    "hp": "5700",
+    "speed": "?",
+    "abilities": "{{Ability List| {{Melee|0-300?}}|{{Healing}}|{{Ability|Large [[Earth Damage]] [[Bleeding]] wave|0-400?|element=earth}}|{{Ability|Poison Hit|200-500?|element=poison}} }}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "secondarytype": "Arachnids",
+    "fireDmgMod": "100%?",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "800?",
+    "pushable": "?",
+    "implemented": "9.50",
+    "loot": [
+        {
+            "amount": "0-172",
+            "itemName": "Gold Coin"
+        },
+        {
+            "amount": "0-5",
+            "itemName": "Platinum Coin"
+        },
+        {
+            "amount": "0-5",
+            "itemName": "Small Ruby"
+        },
+        {
+            "amount": "0-5",
+            "itemName": "White Pearl"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "Compound Eye"
+        },
+        {
+            "itemName": "Spidris Mandible"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "Dung Ball (Quest)"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "Great Mana Potion"
+        },
+        {
+            "itemName": "Giant Shimmering Pearl"
+        },
+        {
+            "itemName": "Ultimate Health Potion"
+        },
+        {
+            "itemName": "Red Gem"
+        },
+        {
+            "itemName": "Ripper Lance"
+        },
+        {
+            "itemName": "Titan Axe"
+        },
+        {
+            "itemName": "Death Ring"
+        },
+        {
+            "itemName": "Hive Bow"
+        }
+    ],
+    "walksaround": "Fire, Energy",
+    "exp": "5500",
+    "creatureclass": "Invertebrates",
+    "earthDmgMod": "100%?",
+    "physicalDmgMod": "100%?",
+    "bosstiaryclass": "Bane",
+    "primarytype": "Hive Born",
+    "race_id": "858",
+    "senseinvis": "?",
+    "actualname": "Fleshslicer",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Fleshslicer",
+    "isboss": "yes",
+    "behaviour": "Approaches the target very fast.",
+    "location": "Underground [[Hive]], around {{Mapper Coords|130.151|122.37|8|4|text=here}}",
+    "iceDmgMod": "100%?",
+    "strategy": "Separate it from other monsters, stand diagonally and take it down.",
+    "energyDmgMod": "100%?",
+    "deathDmgMod": "100%?"
+}

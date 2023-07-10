@@ -1,0 +1,153 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "This creature can only be found when the [[First Dragon Quest]] is active.",
+    "isarenaboss": "no",
+    "walksthrough": "Poison",
+    "hp": "6500",
+    "abilities": "{{Ability List| {{Melee|?}}|{{Ability|[[Death Hit]]|200-500?|element=death}}|{{Ability|Strong [[Paralysis]]|element=paralyze}}|{{Ability|[[Death Wave]]|300-800?|element=death}} }}",
+    "healMod": "100%",
+    "paraimmune": "?",
+    "holyDmgMod": "140%",
+    "maxdmg": "1200+?",
+    "pushable": "no",
+    "implemented": "11.02.4128",
+    "loot": [
+        {
+            "amount": "1-179",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Platinum Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Unholy Bone",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Ancient Coin",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Great Health Potion",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Small Sapphire",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-5",
+            "itemName": "Assassin Star",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Black Pearl",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Great Mana Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Hardened Bone",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Demonic Essence",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Mind Stone",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Dragon Necklace",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Red Gem",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Dark Armor",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Dark Shield",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Gold Ingot",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Dragonbone Staff",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Life Crystal",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Death Ring",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Spellweaver's Robe",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Dragon Slayer",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Skullcracker Armor",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Energy, Fire",
+    "exp": "6500",
+    "mitigation": "1.60",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "haunted dragon",
+    "illusionable": "no",
+    "armor": "58",
+    "convince": "--",
+    "name": "Haunted Dragon",
+    "isboss": "no",
+    "iceDmgMod": "50%",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "0%",
+    "status": "event",
+    "plural": "haunted dragons",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Rare",
+    "speed": "140",
+    "pushobjects": "yes",
+    "fireDmgMod": "80%",
+    "sounds": [
+        ""
+    ],
+    "bestiaryclass": "Dragon",
+    "creatureclass": "Reptiles",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Dragons",
+    "race_id": "1376",
+    "bestiarylevel": "Hard",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "behaviour": "Runs at black hp.",
+    "location": "[[The First Dragon's Lair]], fourth floor.",
+    "strategy": "Treat it like an [[Undead Dragon]]."
+}

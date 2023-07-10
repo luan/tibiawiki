@@ -1,0 +1,68 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "Similar to a [[Rotworm]]",
+    "walksthrough": "?",
+    "hp": "65",
+    "speed": "?",
+    "abilities": "{{Ability List\n |{{Melee|0-30?}}\n}}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "100%?",
+    "holyDmgMod": "100%?",
+    "sounds": [],
+    "maxdmg": "{{Max Damage|physical=30?}}",
+    "pushable": "?",
+    "usedelements": "Physical",
+    "implemented": "11.40.5409",
+    "loot": [
+        {
+            "amount": "0-13",
+            "itemName": "Gold Coin"
+        },
+        {
+            "itemName": "Meat"
+        },
+        {
+            "itemName": "Mace"
+        },
+        {
+            "itemName": "Ham"
+        },
+        {
+            "itemName": "Worm"
+        },
+        {
+            "itemName": "Lump of Dirt"
+        },
+        {
+            "itemName": "Sword"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "40",
+    "creatureclass": "Invertebrates",
+    "earthDmgMod": "100%?",
+    "physicalDmgMod": "100%?",
+    "primarytype": "Annelids",
+    "spawntype": [
+        "Regular"
+    ],
+    "senseinvis": "yes",
+    "article": "an",
+    "actualname": "animated rotworm",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "?",
+    "name": "Animated Rotworm",
+    "isboss": "no",
+    "behaviour": "Fights in close combat.",
+    "location": "[[Museum of Tibian Arts]]",
+    "iceDmgMod": "100%?",
+    "strategy": "Unknown",
+    "energyDmgMod": "100%?",
+    "deathDmgMod": "100%?"
+}

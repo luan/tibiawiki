@@ -1,0 +1,103 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "white lions",
+    "hpDrainDmgMod": "100%?",
+    "notes": "Those at the '''entrance''' ({{Mapper Coords|text=here|129.99|125.254|10|2|1|0.50.5}}) of the Lion Sanctum can be [[White Lion (Mount)|tamed]] using a [[Red Silk Flower]].",
+    "walksthrough": "Energy, Fire, Poison",
+    "hp": "2700",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "White lions are close relatives of the [[Roaring Lion]]s.",
+    "speed": "110",
+    "abilities": "{{Ability List\n |{{Melee|0-350}}\n |{{Ability|Fire Cross on self|0-350|element=fire\n  |scene={{Scene|spell=plusspell|effect=Explosion Effect|damage_effect=Fire Effect|effect_on_caster=yes}}}}\n |{{Ability|Holy Cross on self|0-380|element=holy\n  |scene={{Scene|spell=plusspell|effect=Holy Cross Effect|damage_effect=Holy Effect|effect_on_caster=yes}}}}\n |{{Ability|Bleeding Cross on self|Starts at 15hp/turn|element=bleed\n  |scene={{Scene|spell=plusspell|effect=Blood Effect|effect_on_caster=yes}}}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "fireDmgMod": "75%",
+    "holyDmgMod": "100%",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "{{Max Damage|physical=365|fire=350|holy=380|}}",
+    "pushable": "no",
+    "implemented": "12.40.9997",
+    "bestiaryclass": "Mammal",
+    "loot": [
+        {
+            "itemName": "Platinum Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Terra Boots",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Axe",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Leather Boots",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Great Spirit Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Green Crystal Shard",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Lion's Mane",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Twin Hooks",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "War Hammer",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Green Crystal Fragment",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Cyan Crystal Fragment",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Yellow Gem",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Combat Knife",
+            "rarity": "semi-rare"
+        }
+    ],
+    "exp": "2300",
+    "creatureclass": "Mammals",
+    "earthDmgMod": "70%",
+    "mitigation": "0.91",
+    "physicalDmgMod": "100%",
+    "primarytype": "Felines",
+    "race_id": "1967",
+    "attacktype": "Melee",
+    "bestiarylevel": "Hard",
+    "senseinvis": "yes",
+    "article": "a",
+    "actualname": "white lion",
+    "illusionable": "no",
+    "armor": "38",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "bestiaryname": "whitelion",
+    "name": "White Lion",
+    "isboss": "no",
+    "behaviour": "They fight in close combat.",
+    "location": "[[Lion Sanctum]].",
+    "iceDmgMod": "120%",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "60%"
+}

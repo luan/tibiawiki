@@ -1,0 +1,79 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "They are used as a food source by the [[Ogres]]. [[Raw Meat]] can be obtained by [[skinning]] their corpse.",
+    "walksthrough": "Energy, Fire, Poison",
+    "hp": "900",
+    "abilities": "{{Ability List|{{Melee|0-260}}}}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "holyDmgMod": "100%",
+    "maxdmg": "{{Max Damage|physical=260}}",
+    "pushable": "no",
+    "usedelements": "Physical",
+    "implemented": "10.90",
+    "loot": [
+        {
+            "amount": "0-3",
+            "itemName": "Raw Meat",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Thick Fur",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Hardened Bone",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Tusk Shield",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Furry Club",
+            "rarity": "rare"
+        }
+    ],
+    "walksaround": "None",
+    "exp": "475",
+    "mitigation": "1.88",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "clomp",
+    "illusionable": "no",
+    "armor": "45",
+    "convince": "--",
+    "name": "Clomp",
+    "isboss": "no",
+    "iceDmgMod": "100%",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "100%",
+    "plural": "clomps",
+    "hpDrainDmgMod": "100%",
+    "usespells": "no",
+    "occurrence": "Common",
+    "bestiarytext": "Clomps are large pachyderms bearing a resemblance to woolly rhinoceri. Their tall hunch is covered with small horns and a downright oversized horn is jutting out of their foreheads. Both adult males and females feature this horn, though not the newborn young. Besides fighting with it, a clomp uses its horn to scrape away mud in wallows, to pull down plants for eating, and to open paths through thick vegetation. Clomps form a variety of social groupings. Adult males are generally solitary, except for mating and fighting. Adult females are largely solitary when they are without calves. Mothers will stay close to their calves for up to four years after birth. Yet sometimes clomps congregate in small groups at salt licks and mud wallows. Salt licks are very important because of the essential nutrients the clomp receives from the salt - provided it's not the toxic salt of the dried seas and rivers which cover the entire peninsula of Krailos. The clomp is herbivorous, eating diverse plant species, especially their shoots, twigs, young foliage and fallen fruit. Clomps are the largest animals in Krailos, but although they are very strong and have a reputation for being tough, they are quite easily hunted by the ogres, as the clomps visit water holes daily and can be killed while they drink. The ogres mainly hunt them for their meat and thick fur, but the large horns and bones are also used for ogre implements.",
+    "speed": "215",
+    "pushobjects": "yes",
+    "fireDmgMod": "100%",
+    "sounds": [
+        "Snort!",
+        "Grunt!",
+        "Snarl!"
+    ],
+    "runsat": "50<!-- approximately -->",
+    "bestiaryclass": "Mammal",
+    "creatureclass": "Mammals",
+    "earthDmgMod": "100%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Ungulates",
+    "race_id": "1174",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%",
+    "bestiaryname": "clomp",
+    "behaviour": "Fights in close combat.",
+    "location": "[[Krailos Steppe]].",
+    "strategy": "The weakest creature on Krailos surface, but do not underestimate them as they do quite high damage and usually come at you in groups with [[Ogre Brute]]s, [[Ogre Savage]]s and other Clomps. If you're hunting ogres using [[Field Runes]], make sure you focus on these guys first as they will walk straight through them."
+}

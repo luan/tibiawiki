@@ -1,0 +1,129 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "It only drops a [[Bag You Desire]] for players with at least one of [[Goshnar's Taints]]. The more taints you have, the higher the chance. The Bag is always dropped inside a [[Reward Container]] so there's no risk of leaving it behind in the creature's corpse.",
+    "walksthrough": "Fire, Energy, Poison",
+    "hp": "27000",
+    "abilities": "{{Ability List| {{Ability|[[Energy Damage|Spark Ball]]|900-1200|element=energy}}|{{Ability|[[Holy Damage|Holy Chain]]|950-1300|element=holy}}|{{Ability|[[Holy Damage|Divine Missile]]|1200-1400|element=holy}}|{{Ability|[[Energy Damage|Small Spark Ball]] on itself|?|element=energy}} }}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "holyDmgMod": "90%",
+    "maxdmg": "2500",
+    "pushable": "no",
+    "implemented": "12.40.9997",
+    "loot": [
+        {
+            "itemName": "Crystal Coin",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-5",
+            "itemName": "Ultimate Health Potion",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Giant Shimmering Pearl (Brown)",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Violet Gem",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Terra Rod",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Gold Ingot",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Hailstorm Rod",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Green Gem",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Blue Gem",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Underworld Rod",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Springsprout Rod",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Blue Crystal Shard",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Violet Crystal Shard",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Ring of Blue Plasma",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Vibrant Heart",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Vibrant Robe",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Bag You Desire",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "None",
+    "exp": "19700",
+    "mitigation": "2.45",
+    "attacktype": "Distance",
+    "history": "On [[Updates/12.60.10468|December 01, 2020]], its experience was decreased from 31,200 to 24,960, and its loot drop rate was decreased in 15%.\n\nIts experience was reduced from 24,960 to 22,400 with the balancing changes on {{OfficialNewsArchive|6086|April 15, 2021}}. Its experience was further reduced to 19,700 with the [[Updates/12.66.10866|changes]] on {{OfficialNewsArchive|6159|June 01, 2021}}.",
+    "article": "a",
+    "actualname": "vibrant phantom",
+    "illusionable": "no",
+    "armor": "100",
+    "convince": "--",
+    "name": "Vibrant Phantom",
+    "isboss": "no",
+    "iceDmgMod": "100%",
+    "energyDmgMod": "80%",
+    "deathDmgMod": "110%",
+    "plural": "vibrant phantoms",
+    "hpDrainDmgMod": "100%",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "Zarganash's hostile environment gave birth to an own breed of phantoms that differs by the hazards that help to form them from the tormented souls they once were. Though in shape of little difference to other phantoms, the vibrant phantom in a spiritual sense is bloated, saturated and fat. It has absorbed many soul fragments and splinters and flourished in an unnatural way that is rare in Zarganash. But in the end the essence they devoured, bears the taint of Zarganash and unknown to themselves the vibrant soul is ultimately feasting on itself. This final atrocity, this ultimate trick, the deepest depth of the nether realm plays on them in the epitome of its perversion. Yet oblivious to their own nature the vibrant phantoms count them self to the winners in Zarganash and are at the top of the food chain. The many voices in their conscience are shoved away like annoying flies and the phantom enjoys its privilege and relative power. They actually interact with other vibrant phantoms and have built some form of community and even hierarchy. It's not uncommon for vibrant phantoms to band together in a common goal. In that way they are the most civilised of the phantoms, yet not less vile and aggressive towards outsiders. In their view Zarganash is their realm to rule and any opposition or intrusion has to be crushed without mercy. There are several 'courts' in which the vibrant phantoms indulge in the idea of hierarchy and greatness. They grant themselves imaginative titles of all sorts and even participate in royal hunts in which they hunt down randomly chosen victims. Sometimes they even take captives and hold mock trials in which they list al sort of transgressions against evenly made up rules. Such trials always end with the execution of the captive in a gruesome way. Still vibrant phantoms have one the highest levels of self-awareness of the damned and at least in theory a slight chance of redemption. Even though in the aeons that Zarganash exists not even a handful individuals are known to have attained such status, there are rumours abound and each vibrant phantom sees itself as the next candidate for greatness. Of the few that acquired that state, some found wisdom, others salvation or at least new power. The dread maiden is rumoured to have raised that way, but that's easy to say and next impossible to verify.",
+    "speed": "230",
+    "pushobjects": "yes",
+    "fireDmgMod": "100%",
+    "sounds": [
+        "All this beautiful lightning.",
+        "Feel the vibration!"
+    ],
+    "runsat": "deep red",
+    "bestiaryclass": "Undead",
+    "creatureclass": "The Undead",
+    "earthDmgMod": "110%",
+    "physicalDmgMod": "110%",
+    "primarytype": "Ghosts",
+    "spawntype": [
+        "Regular"
+    ],
+    "race_id": "1929",
+    "bestiarylevel": "Challenging",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%",
+    "bestiaryname": "vibrantphantom",
+    "behaviour": "Attacks from distance.",
+    "location": "[[Furious Crater]].",
+    "strategy": "The safest strategy to hunt them is to turn them into melee creatures using [[Chivalrous Challenge]] or [[Divine Dazzle]] and have them be blocked by the Knight with the other creatures."
+}

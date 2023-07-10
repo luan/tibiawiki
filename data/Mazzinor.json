@@ -1,0 +1,172 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "{{JSpoiler|Part of [[The Secret Library Quest]].}}",
+    "walksthrough": "?",
+    "hp": "?",
+    "speed": "?",
+    "abilities": "{{Ability List|}}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "-100%",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "?",
+    "pushable": "?",
+    "cooldown": "20",
+    "implemented": "11.80.7048",
+    "loot": [
+        {
+            "amount": "10",
+            "itemName": "Crystal Coin"
+        },
+        {
+            "itemName": "Demonic Essence"
+        },
+        {
+            "itemName": "Slightly Rusted Shield"
+        },
+        {
+            "amount": "27-39",
+            "itemName": "Platinum Coin"
+        },
+        {
+            "itemName": "Bullseye Potion"
+        },
+        {
+            "itemName": "Berserk Potion"
+        },
+        {
+            "amount": "6",
+            "itemName": "Silver Token"
+        },
+        {
+            "itemName": "Giant Shimmering Pearl"
+        },
+        {
+            "amount": "12",
+            "itemName": "Small Diamond"
+        },
+        {
+            "amount": "12",
+            "itemName": "Small Ruby"
+        },
+        {
+            "itemName": "Yellow Gem"
+        },
+        {
+            "itemName": "Lightning Boots"
+        },
+        {
+            "itemName": "Demon Horn"
+        },
+        {
+            "itemName": "Ominous Book"
+        },
+        {
+            "amount": "4",
+            "itemName": "Supreme Health Potion"
+        },
+        {
+            "amount": "8",
+            "itemName": "Ultimate Spirit Potion"
+        },
+        {
+            "amount": "12",
+            "itemName": "Ultimate Mana Potion"
+        },
+        {
+            "itemName": "Wand of Starstorm"
+        },
+        {
+            "amount": "12",
+            "itemName": "Onyx Chip"
+        },
+        {
+            "itemName": "Stone Skin Amulet"
+        },
+        {
+            "amount": "4",
+            "itemName": "Gold Token"
+        },
+        {
+            "itemName": "Epaulette"
+        },
+        {
+            "itemName": "Dreaded Cleaver"
+        },
+        {
+            "itemName": "Wand of Dimensions"
+        },
+        {
+            "itemName": "Frozen Lightning"
+        },
+        {
+            "itemName": "Knowledgeable Book"
+        },
+        {
+            "itemName": "Green Gem"
+        },
+        {
+            "itemName": "Energized Demonbone"
+        },
+        {
+            "itemName": "Magic Sulphur"
+        },
+        {
+            "itemName": "Lightning Robe"
+        },
+        {
+            "itemName": "Mastermind Potion"
+        },
+        {
+            "itemName": "Small Topaz"
+        },
+        {
+            "itemName": "Red Gem"
+        },
+        {
+            "itemName": "Demonbone Amulet"
+        },
+        {
+            "itemName": "Giant Emerald"
+        },
+        {
+            "itemName": "Slightly Rusted Helmet"
+        },
+        {
+            "itemName": "Muck Rod"
+        },
+        {
+            "itemName": "Small Amethyst"
+        },
+        {
+            "itemName": "Blue Gem"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "?",
+    "creatureclass": "Demons",
+    "earthDmgMod": "100%",
+    "physicalDmgMod": "100%?",
+    "bosstiaryclass": "Archfoe",
+    "primarytype": "Demons",
+    "race_id": "1605",
+    "senseinvis": "?",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "?",
+    "name": "Mazzinor",
+    "isboss": "yes",
+    "behaviour": "Unknown",
+    "location": "[[The Secret Library]].",
+    "iceDmgMod": "100%?",
+    "strategy": "{{#lsth:The Secret Library Quest/Spoiler|Mazzinor}}",
+    "energyDmgMod": "95%",
+    "deathDmgMod": "100%?"
+}

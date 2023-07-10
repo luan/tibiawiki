@@ -1,0 +1,63 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "They are souls tainted by the witch [[Ekatrix]]. They can be [[Redeemed Soul|redeemed]] by using a [[Sacred Antler Talisman]] on them. The process of tainting and redeeming them is described in [[How to Curse a Soul (Book)|How to Curse a Soul]].\n\n{{JSpoiler|You must redeem 100 of them to fight the boss [[Ekatrix]] in [[The Tainted Souls Quest]].}}",
+    "walksthrough": "None.",
+    "hp": "250",
+    "abilities": "{{Ability List| {{Melee|0-30?}}|{{Ability|3 squares range [[Life Drain]]|22-48 |element=lifedrain}}|{{Ability|3 squares range [[Mana Drain]]|15-25 |element=manadrain}}|{{Ability|[[Invisibility]]|element=invisible}}|{{Summon|Tainted Soul|1}}|{{Healing|range=20-30}} }}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "holyDmgMod": "110%",
+    "maxdmg": "78 + 25 mana",
+    "pushable": "no",
+    "usedelements": "Physical > Life Drain > Mana Drain",
+    "implemented": "10.80",
+    "loot": [
+        {
+            "itemName": "Small Ruby",
+            "rarity": "rare"
+        }
+    ],
+    "walksaround": "Energy, Fire, Poison",
+    "exp": "0",
+    "mitigation": "0.46",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "tainted soul",
+    "illusionable": "yes",
+    "armor": "10",
+    "convince": "--",
+    "name": "Tainted Soul",
+    "isboss": "no",
+    "iceDmgMod": "100%",
+    "energyDmgMod": "80%",
+    "deathDmgMod": "0%",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "If an unlucky mortal gets lost in the swamps and meets his death there, often his soul is unable to find peace. It haunts the bogs as a wraith or ghost light in search of peace and salvation. Such hapless souls may be captured and cursed by evil witches or warlocks, thus transforming into tainted souls that aggressively and enviously attack everything they encounter. There are tales though that it is possible to redeem even these tainted souls.",
+    "speed": "85",
+    "pushobjects": "yes",
+    "fireDmgMod": "100%",
+    "sounds": [
+        "*Crinkle*",
+        "*Sizzle*"
+    ],
+    "runsat": "red",
+    "bestiaryclass": "Magical",
+    "creatureclass": "The Undead",
+    "earthDmgMod": "100%",
+    "physicalDmgMod": "50%",
+    "primarytype": "Ghosts",
+    "spawntype": [
+        "Regular"
+    ],
+    "race_id": "1137",
+    "bestiarylevel": "Easy",
+    "senseinvis": "no",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "taintedsoul",
+    "behaviour": "Chases its target.",
+    "location": "[[Tainted Caves]] in the [[Green Claw Swamp]].",
+    "strategy": "They yield no experience and very poor loot, so they aren't worth hunting unless if you want to complete its [[Bestiary]] entry. If you have a [[Sacred Antler Talisman]], you can use it to [[Redeemed Soul|redeem them]]."
+}

@@ -1,0 +1,107 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "It is the [[Undead Dragon]] boss. If he is spawned, there may be more liches than usual in the room.",
+    "walksthrough": "?",
+    "hp": "16200",
+    "speed": "185",
+    "abilities": "{{Ability List| {{Melee|0-700+|element=physical}}|{{Ability|[[Life Drain|Lifedrain Wave]]|1000+|element=lifedrain}}|{{Ability|[[Earth Damage|Poison Wave]]|0-751+|element=earth}}|{{Ability|[[Physical Damage|Smoke Wave]]|?|element=physical}}|{{Ability|[[Physical Damage|Blood Ball]]|0-869+}}|{{Ability|[[Death Damage|Death Strike]]|0-750|element=death}}|{{Ability|[[Earth Damage|Poison Ball]]|0-175+|element=earth}}|{{Ability|[[Mana Drain]]|element=manadrain}}|{{Ability|Very Frequent [[Self-Healing]]|500-1000|element=healing}} }}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "yes",
+    "secondarytype": "Skeletons",
+    "fireDmgMod": "0%",
+    "holyDmgMod": "110%",
+    "sounds": [
+        "DEATH CAN'T STOP MY HUNGER!",
+        "YOU ARE ALL DOOMED!",
+        "Your new name is breakfast.",
+        "I'm bad to the bone."
+    ],
+    "maxdmg": "4245+",
+    "pushable": "?",
+    "implemented": "7.9",
+    "loot": [
+        {
+            "amount": "0-210",
+            "itemName": "Gold Coin"
+        },
+        {
+            "amount": "0-4",
+            "itemName": "Platinum Coin"
+        },
+        {
+            "amount": "0-4",
+            "itemName": "Small Sapphire"
+        },
+        {
+            "itemName": "Dark Armor"
+        },
+        {
+            "itemName": "Life Crystal"
+        },
+        {
+            "itemName": "Great Health Potion"
+        },
+        {
+            "itemName": "Great Mana Potion"
+        },
+        {
+            "itemName": "Hardened Bone"
+        },
+        {
+            "itemName": "Soul Orb"
+        },
+        {
+            "itemName": "Death Ring"
+        },
+        {
+            "itemName": "Demonic Essence"
+        },
+        {
+            "itemName": "Skull Helmet"
+        },
+        {
+            "itemName": "Reaper's Axe",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Magic Plate Armor",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Dracola's Eye",
+            "rarity": "always"
+        },
+        {
+            "itemName": "Ring of Healing"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "11000",
+    "creatureclass": "Reptiles",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "100%?",
+    "bosstiaryclass": "Nemesis",
+    "primarytype": "Dragons",
+    "spawntype": [
+        "Triggered"
+    ],
+    "race_id": "302",
+    "history": "This dragon was first introduced in the game 1997 when a map hacker added this creature in to the map in a hidden pick spot in the [[Plains of Havoc]] [[Dragon Lair]], Guido later discovered the dragon and removed it admittedly.\n\nThis creature re-appeared in the [[Updates/Update 7.9|7.9 Update]], and can be found as a rare spawn in the [[Pits of Inferno]].",
+    "senseinvis": "yes",
+    "actualname": "Dracola",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "0%",
+    "convince": "--",
+    "name": "Dracola",
+    "isboss": "yes",
+    "behaviour": "Behaves just like a regular [[Undead Dragon]], except that it is much stronger. It also runs in low [[health]].",
+    "location": "[[Pits of Inferno]] - [[Ashfalor]]'s Throneroom.",
+    "iceDmgMod": "0%",
+    "strategy": "Treat it like a regular [[Undead Dragon]], just keep in mind it can do very high comboes. Have a [[Knight]] stand diagonal, a [[Druid]] to heal the [[Knight]] and as many [[Mage]]s and [[Paladin]]s shoot at '''Dracola'''.",
+    "energyDmgMod": "100% <!-- ITS NOT WEAK TO ENERGY!!! -->",
+    "deathDmgMod": "0%"
+}

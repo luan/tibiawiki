@@ -1,0 +1,63 @@
+{
+    "summon": "200",
+    "templateType": "Creature",
+    "notes": "They are weak but their poison hits can't be blocked.",
+    "walksthrough": "None",
+    "hp": "20",
+    "abilities": "{{Ability List\n |{{Melee|0-5}}\n |{{Ability|Green Stink Hits|1-3|earth\n  |scene={{Scene|spell=1sqmstrike|effect=Poison Effect 3|caster=Skunk|missile_direction=south-east|missile_distance=2/2}}}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "holyDmgMod": "100%",
+    "maxdmg": "{{Max Damage|physical=5|earth=3}}",
+    "pushable": "?",
+    "implemented": "7.4",
+    "loot": [
+        {
+            "itemName": "Bulb of Garlic",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Skunk Tail",
+            "rarity": "rare"
+        }
+    ],
+    "walksaround": "Fire, Energy, Poison",
+    "exp": "3",
+    "mitigation": "0.13",
+    "attacktype": "Melee",
+    "history": "They used to spawn in [[premium]] areas only, but this was very inconvenient for the [[free account]] players who wanted to complete [[The Scatterbrained Sorcerer Quest]] and would only be able to do so using the dead body of a summoned skunk. This is why they now spawn to the south of [[Thais]] as well since a particular update.",
+    "article": "a",
+    "actualname": "skunk",
+    "illusionable": "yes",
+    "armor": "1",
+    "convince": "200",
+    "name": "Skunk",
+    "isboss": "no",
+    "iceDmgMod": "100%",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "100%",
+    "plural": "skunks",
+    "hpDrainDmgMod": "100%",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "Legend has it there was once a race of mischievous black rodents who were close cousins of the squirrels. They loved to fool around and to tease others all day long. However, one day they went too far. Angered by one of their tricks, a powerful fairy cursed the whole race. From that fateful moment on, these creatures were marked with a white stripe and,more importantly, with an overwhelming stench that was unbearable to most creatures who live and breathe. However, it did not take the clever critters long to work out that they could use their nauseating stench as a weapon of self-defence. Today, these rodents are known as Skunks, and few creatures dare to anger them because of their feared smell.",
+    "speed": "68",
+    "pushobjects": "?",
+    "fireDmgMod": "100%",
+    "sounds": [
+        ""
+    ],
+    "bestiaryclass": "Mammal",
+    "creatureclass": "Mammals",
+    "earthDmgMod": "100%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Mustelids",
+    "race_id": "106",
+    "bestiarylevel": "Trivial",
+    "senseinvis": "no",
+    "drownDmgMod": "100%",
+    "bestiaryname": "skunk",
+    "behaviour": "Runs away in red [[health]].",
+    "location": "Unannounced raid in [[Edron]] outside the depot, [[Tiquanda]], [[Shattered Isles]], [[Liberty Bay]], south gate of [[Thais]].",
+    "strategy": "Just attack them."
+}

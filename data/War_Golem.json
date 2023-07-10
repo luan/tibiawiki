@@ -1,0 +1,170 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "walksthrough": "Fire, Energy, Poison",
+    "hp": "4300",
+    "abilities": "{{Ability List\n |{{Melee|0-478+}}\n |{{Ability|[[Blood Rage]]|increases melee hit to about 550|element=buff}}\n |{{Ability|Energy Strike|165-220|element=energy\n  |scene={{Scene|spell=3sqmstrike|effect=Blue Electricity Effect|caster=War Golem|missile=Energy Missile|missile_direction=south-east|missile_distance=3/3}}}}\n |{{Haste}}\n |{{Debuff2|Skill Reducer Beam|shielding=yes\n  |scene={{Scene|spell=6sqmbeam|effect=Stars Effect|caster=War Golem|casting_effect=Stars Effect|look_direction=east}}}}\n |{{Outfit|yes|Skeleton|scene={{Scene|spell=3sqmstrike|effect=Blue Electricity Effect|caster=War Golem|missile=Energy Missile|missile_direction=south-east|missile_distance=3/3}}}}\n |{{Ability|Electrifies you|8 turns of 25 damage|element=electrified\n  |scene={{Scene|spell=3sqmstrike|effect=Blue Electricity Effect|caster=War Golem|missile=Energy Ball Missile|missile_direction=south-east|missile_distance=3/3}}}}\n |{{Healing|range=200-250}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "holyDmgMod": "50%",
+    "maxdmg": "800+",
+    "pushable": "no",
+    "implemented": "8.40",
+    "loot": [
+        {
+            "amount": "1-264",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Ultimate Health Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Plate Shield",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Great Mana Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "War Crystal",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Morning Star",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Epee",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-5",
+            "itemName": "Nail",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Battle Shield",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Two Handed Sword",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Rusted Armor",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Iron Ore",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Dwarven Ring",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Crystal Pedestal",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Life Crystal",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Berserk Potion",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Club Ring",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Bonebreaker",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Steel Boots",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Crystal of Power",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Jade Hammer",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Berserker",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Lightning Boots",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Tin Key",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Crystal Pedestal (Red)"
+        }
+    ],
+    "walksaround": "None",
+    "exp": "2310",
+    "mitigation": "1.18",
+    "attacktype": "Melee",
+    "history": "Its experience was decreased from 2750 to 2008 on the first batch of changes of [[Updates/12.31|Update 12.31]]. It was later increased to 2310 on the fifth batch of changes.",
+    "article": "a",
+    "actualname": "war golem",
+    "illusionable": "no",
+    "armor": "35",
+    "convince": "--",
+    "name": "War Golem",
+    "isboss": "no",
+    "iceDmgMod": "70%",
+    "energyDmgMod": "95%",
+    "deathDmgMod": "80%",
+    "plural": "war golems",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "lightcolor": "180",
+    "occurrence": "Common",
+    "bestiarytext": "War Golems used to serve as protectors and soldiers in the past of Yalahar. In our days, the remaining War Golems act as guards and bodyguards for high-ranking officials. Due to the high costs of their maintenance and the lack of staff required for repairs, War Golems are expensive and only seldom used, even if the problems of Yalahar are pressing.<br />Created for war purposes, they utilise their golem abilities to the fullest. Heavily armored and enhanced with magic weaponry, the golems turn into behemoths of destruction. Only their simple-mindedness might be a weakness and hints that in former days the squads of War Golems were probably personally controlled by a Yalahari leader.<br />War Golems are a rare sight. Most are stored away in the quarters of the Yalahari, a few are left and forgotten in abandoned areas of the city.<br />Rumours persist that squads of War Golems were also deployed elsewhere in long forgotten wars. As they were never returned they are said to follow unknown orders of long dead commanders to the present day.",
+    "speed": "160",
+    "pushobjects": "yes",
+    "fireDmgMod": "85%",
+    "sounds": [
+        "Azerus barada nikto!",
+        "Klonk klonk klonk",
+        "Engaging Enemy!",
+        "Threat level processed.",
+        "Charging weapon systems!",
+        "Auto repair in progress.",
+        "The battle is joined!",
+        "Termination initialized!",
+        "Rrrtttarrrttarrrtta",
+        "Eliminated"
+    ],
+    "lightradius": "3",
+    "bestiaryclass": "Construct",
+    "creatureclass": "Misc",
+    "earthDmgMod": "50%",
+    "physicalDmgMod": "90%",
+    "primarytype": "Machines",
+    "spawntype": [
+        "Regular",
+        "Unblockable"
+    ],
+    "race_id": "533",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "wargolem",
+    "behaviour": "Like a [[Behemoth]], but it's much faster and stronger.",
+    "location": "[[Factory Quarter]] (40+ {{Mapper Coords|128.107|122.85|10|4|text=here}} (4 [[Gear Wheel]]s required per entry. Four machines line the platform to the right or left.  Use one of the machines with the gearwheels present in your backpack.  You will receive the message, \"You insert all 4 gear wheels, thus adjusting the teleporter to transport you to the left side.\"), 8? {{Mapper Coords|128.151|122.76|10|4|text=here}}, 2 {{Mapper Coords|128.168|122.23|10|4|text=here}}, 1 {{Mapper Coords|128.135|122.29|10|4|text=here}}, 4? {{Mapper Coords|128.134|122.62|11|4|text=here}} during [[Shadows of Yalahar Quest]] (and many summons)), [[Fenrock]] ({{Mapper Coords|127.36|121.255|13|4|text=here}}) and in [[Yalahar]] library ({{Mapper Coords|text=single spawn|128.31|121.218|9|2|1|0.50.5}}). Also spawn during the [[Azerus]] battle (last mission of the [[In Service of Yalahar Quest]]), [[Underground Glooth Factory]] and [[Jaccus Maxxen's Dungeon]] last area.",
+    "strategy": "'''All Vocations:'''  These creatures are faster than a [[Behemoth]], and very similar in many aspects.  Once they've buffed up, they can hit nearly as hard, including some nasty energy attacks. Mages should start with a mass spell or two, such as [[Rage of the Skies]] for sorcerers to help clear out the [[Worker Golem]]s these creatures usually spawn with. It might also be a good idea to throw an energy wall and have the War Golem run back and forth over it."
+}

@@ -1,0 +1,90 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "Bones",
+    "hpDrainDmgMod": "100%?",
+    "notes": "Mini-boss to the [[Undead Dragon]].<br>Dont stay in front of him or he can spam you with the waves and make combos over 2000.",
+    "walksthrough": "?",
+    "hp": "9500",
+    "speed": "?",
+    "abilities": "{{Ability List\n |{{Melee|0-500}}\n |{{Healing}}\n |{{Ability|Life Drain Wave|441-500|lifedrain\n  |scene={{Scene|spell=8sqmwave|caster=Bones|look_direction=east|effect=Red Sparkles Effect}}}}\n |{{Ability|Poison Wave|76-450|earth\n  |scene={{Scene|spell=8sqmwave|caster=Bones|look_direction=east|effect=Poison Effect 1}}}}\n |{{Ability|Smoke Wave|10~ turns|drowning\n  |scene={{Scene|spell=8sqmwave|caster=Bones|look_direction=east|effect=Poof Effect}}}}\n |{{Ability|Death Missile|220-450|death\n  |scene={{Scene|spell=7sqmstrike|caster=Bones|look_direction=south|effect_on_target=Death Effect|missile=Death Missile|missile_direction=south-east|missile_distance=7/7}}}}\n |{{Ability|Poison Ball|114-350|earth\n  |scene={{Scene|spell=2sqmballtarget|caster=Bones|look_direction=south|effect=Poison Effect 1|effect_on_target=Poison Effect 1|missile=Poison Missile|missile_direction=south-east|missile_distance=2/2}}}}\n |{{Ability|Blood Ball|249-300|physical\n  |scene={{Scene|spell=2sqmballtarget|caster=Bones|look_direction=south|effect=Blood Effect|effect_on_target=Blood Effect|missile=Poison Missile|missile_direction=south-east|missile_distance=2/2}}}}\n}}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "secondarytype": "Skeletons",
+    "fireDmgMod": "100%?",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        "Your new name is breakfast.",
+        "Keep that dog away!",
+        "Out Fluffy! Out! Bad dog!",
+        "Ahh, my old bones ..."
+    ],
+    "maxdmg": "1200",
+    "pushable": "?",
+    "runsat": "red",
+    "implemented": "7.92",
+    "loot": [
+        {
+            "amount": "0-4",
+            "itemName": "Platinum Coin"
+        },
+        {
+            "amount": "0-200",
+            "itemName": "Gold Coin"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "Small Sapphire"
+        },
+        {
+            "amount": "0-3",
+            "itemName": "Surprise Bag (Blue)"
+        },
+        {
+            "itemName": "Surprise Bag (Red)"
+        },
+        {
+            "itemName": "Soul Orb"
+        },
+        {
+            "itemName": "Skull Helmet"
+        },
+        {
+            "itemName": "Demonic Essence"
+        },
+        {
+            "itemName": "Life Crystal"
+        },
+        {
+            "itemName": "Magic Plate Armor"
+        },
+        {
+            "itemName": "Death Ring",
+            "rarity": "rare"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "3750",
+    "creatureclass": "Special",
+    "earthDmgMod": "100%?",
+    "physicalDmgMod": "100%?",
+    "primarytype": "Event Creatures",
+    "spawntype": [
+        "Raid"
+    ],
+    "senseinvis": "yes",
+    "actualname": "Bones",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Bones",
+    "isboss": "yes",
+    "location": "It used to be a raid probably manipulated by the [[Ruthless Seven]] in the north of the Darashia depot. It's been removed as of 30.01.2007",
+    "iceDmgMod": "100%?",
+    "strategy": "Paladins should stay diagonal of the creature and spam SD's and be quick on the healing.",
+    "energyDmgMod": "100%?",
+    "deathDmgMod": "100%?",
+    "status": "deprecated"
+}

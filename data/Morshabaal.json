@@ -1,0 +1,116 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "walksthrough": "Energy, Fire, Poison",
+    "hp": "1000000",
+    "abilities": "{{Ability List\n| {{Melee|}}\n |{{Ability|Great Energy Beam|5500+|?\n  |scene={{Scene|spell=8sqmbeam|effect=Grey Chain Effect|caster=Morshabaal|background=lava_ground|look_direction=east}}}}\n |{{Ability|Musical Beam|?|?\n  |scene={{Scene|spell=8sqmbeam|effect=Red Notes Effect|caster=Morshabaal|background=lava_ground|look_direction=east}}}}\n |{{Ability|Death Bomb|?|?\n  |scene={{Scene|spell=2sqmballself|effect=Death Effect|effect_on_caster=yes|caster=Morshabaal|background=lava_ground|edge_size=32}}}}\n |{{Ability|Fire Explosion|?|fire\n  |scene={{Scene|spell=6sqmballself|effect=Fire Effect|caster=Morshabaal|background=lava_ground}}}}\n |{{Ability|Fire Ball|?|?\n  |scene={{Scene|spell=3sqmballtarget|effect=Purple Teleport Effect|missile=Death Missile (Large)|missile_direction=south-east|missile_distance=3/3|caster=Morshabaal|background=lava_ground}}}}\n |{{Ability|Ice Chain|4000-30000+|ice|scene={{Scene|spell=chainadjacent|effect=Ice Explosion Effect|caster=Morshabaal|sprite_1=Target Dummy (Object)|background=lava_ground}}}} (damage increases for each player hit)\n}}",
+    "pushobjects": "yes",
+    "healMod": "100%?",
+    "paraimmune": "yes",
+    "fireDmgMod": "95%",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        "Revenge for my little brother!",
+        "You are starting to annoy me!",
+        "I will restore our family honor!"
+    ],
+    "maxdmg": "30000+",
+    "pushable": "no",
+    "usedelements": "Death, Physical, Ice, Fire, Earth",
+    "implemented": "12.85.11485",
+    "loot": [
+        {
+            "itemName": "Morshabaal's Brain"
+        },
+        {
+            "itemName": "Morshabaal's Extract"
+        },
+        {
+            "itemName": "Morshabaal's Mask"
+        },
+        {
+            "itemName": "Green Demon Armor"
+        },
+        {
+            "itemName": "Green Demon Helmet"
+        },
+        {
+            "itemName": "Green Demon Legs"
+        },
+        {
+            "itemName": "Green Demon Slippers"
+        },
+        {
+            "itemName": "Platinum Coin"
+        },
+        {
+            "itemName": "Crystal Coin"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Watermelon Tourmaline (Pear)"
+        },
+        {
+            "itemName": "Watermelon Tourmaline (Slice)"
+        },
+        {
+            "itemName": "Giant Emerald"
+        },
+        {
+            "itemName": "Bar of Gold"
+        },
+        {
+            "itemName": "Dragon Figurine"
+        },
+        {
+            "itemName": "Ultimate Health Potion"
+        },
+        {
+            "itemName": "Unicorn Figurine"
+        },
+        {
+            "itemName": "Ultimate Spirit Potion"
+        },
+        {
+            "itemName": "Ultimate Mana Potion"
+        },
+        {
+            "itemName": "Amber with a Dragonfly"
+        },
+        {
+            "itemName": "Sea Horse Figurine"
+        },
+        {
+            "itemName": "Thunder Hammer"
+        },
+        {
+            "itemName": "Watermelon Tourmaline"
+        }
+    ],
+    "walksaround": "None",
+    "exp": "?",
+    "creatureclass": "Demon Lords",
+    "earthDmgMod": "100%",
+    "physicalDmgMod": "100%?",
+    "bosstiaryclass": "Nemesis",
+    "spawntype": [
+        "Raid"
+    ],
+    "race_id": "2118",
+    "history": "Morshabaal first appeared on [[Havera]] on January 8, 2022, but it was not defeated. It was first killed on January 12, 2022, on [[Gentebra]]. The following day, CipSoft published {{OfficialNewsArchive|6536|news}} congratulating the players and informing that there were some problems with the loot distribution which were then fixed the next day.\n\nOn [[Updates/12.85.11511|January 18th, 2022]] a new adjustment to Morshabaal's fight was implemented which teleports all players out of Morshabaal's dwelling if no damage is caused within a period of 40 seconds. Additionally the participation for the fight is reset.",
+    "senseinvis": "yes",
+    "actualname": "Morshabaal",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Morshabaal",
+    "isboss": "yes",
+    "behaviour": "Morshabaal will retreat at very low health.",
+    "location": "Morshabaal appears inside a teleporter that spawns at the stone circle in the northwest of [[Edron]], {{Mapper Coords|129.94|123.213|7|3|text=here}}. Only characters of level 150 or higher can enter.",
+    "iceDmgMod": "100%?",
+    "strategy": "Morshabaal has 3 stages with increasing strength:\n\n* Regular Morshabaal\n* [[Enraged Morshabaal]]\n* [[Furious Morshabaal]]\n\nIt will always have a counter next to its name. This counter starts at 25 with a green icon and decreases 1 per second. When it reaches 0 a new counter starts, with a red symbol, from 5 to 0. If Morshabaal is attacked during the red symbol counter it will change to the next stronger form. \n\nThe stronger forms of Morshabaal take less damage and do more Damage Reflection, so the team must always focus on keeping it in the Regular Morshabaal stage. Even though it's still possible to deal damage to it in the Enraged form, it will not be very efficient. When it's Furious it will take very little damage but reflect a lot more of it.\n\nThe common strategy for killing Morshabaal is the following:\n\nThe blockers (preferably 3 level 600+ Elite Knights) bring Morshabaal to the north-east corner of the room and trap it next to one of the pillars. All shooters must stack diagonally near the eastern wall between two pillars. Players should only attack when the counter is above 5 and stop before it changes to the red symbol. The blockers will slowly build up a counter next to their name as well. When it reaches 20, the blocker will take more damage and Morshabaal will heal more through [[Lifesteal]], so it's recommended to keep switching positions so all Knights can reduce their counters. Keep repeating the process of attacking and waiting to slowly reduce Morshabaal's health. \n\nThere are several key factors that must be taken into account during the fight:\n* Morshabaal's [[Damage Reflection]] is very strong, so all players should wear [[Stone Skin Amulet]]s, [[Might Ring]]s and other physical/death protection as much as possible.\n* Morshabaal uses [[Feared|Fear]], so players should place [[Flower Bowl]]s around blockers and shooters to prevent running away when feared.\n* The lower Morshabaal's health is, the stronger it will become, taking less damage. It doesn't take more than 3 turns with a decent amount of shooters to bring it to half HP, but it will take several minutes to finish it off. Also, because of this mechanic it's probably impossible to kill it while in Enraged or Furious form, as it will easily heal all damage taken.\n* Paladins should imbue their crossbows with [[Powerful Reap]], because on lower health Morshabaal will mitigate all physical damage.\n* Morshabaal has a special chain attack that deals [[Ice Damage]]. The damage increases on each player it connects, starting with about 1000 to as much as 30,000. This chain only connects players directly adjacent to another, which is why it's essential to keep some distance between the blockers and the shooters. \n* The [[Symbol of Pain|pillars]] in the room also reflect a lot of damage. You should only use single target attacks [[Sudden Death Rune]]s and [[Spectral Bolt]]s and never hit the pillars.\n* If Morshabaal is not attacked for 40 seconds all players will be kicked from the room and the fight resets. Because of that it's important that some damage is dealt (while with the green symbol) in case it becomes Furious or you'll lose all progress. \n* After a player enters the room you have 30-35 minutes to kill Morshabaal. If it doesn't die before that it will heal to full health.\n* After leaving Morshabaal's room players have to wait 3 minutes to be able to return.\n\n<gallery>\nMorshbaal Reflection.png|This is the common setup for blockers and shooters. Watch out for the Damage Reflection!\nMorshabaal Chain Attack.png|The Chain attack can kill multiple players at once and deal massive damage, be careful when exiting the room!\n</gallery>",
+    "energyDmgMod": "95%",
+    "deathDmgMod": "100%?"
+}

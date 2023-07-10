@@ -1,0 +1,44 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "One of the bosses in the [[Rotten Blood Quest]].",
+    "hp": "?",
+    "abilities": "{{Ability List}}",
+    "pushobjects": "yes",
+    "healMod": "100%",
+    "paraimmune": "?",
+    "fireDmgMod": "100%?",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "0",
+    "pushable": "no",
+    "cooldown": "20",
+    "implemented": "13.20",
+    "loot": [
+        {
+            "itemName": "Bag You Covet"
+        },
+        {
+            "itemName": "The Essence of Murcion"
+        }
+    ],
+    "exp": "?",
+    "earthDmgMod": "100%?",
+    "physicalDmgMod": "100%?",
+    "bosstiaryclass": "Archfoe",
+    "race_id": "2362",
+    "senseinvis": "yes",
+    "illusionable": "no",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Murcion",
+    "isboss": "yes",
+    "location": "[[Jaded Roots]].",
+    "iceDmgMod": "100%?",
+    "strategy": "{{#lsth:Rotten Blood Quest/Spoiler|Murcion}}",
+    "energyDmgMod": "100%?",
+    "deathDmgMod": "100%?"
+}

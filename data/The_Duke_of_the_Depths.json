@@ -1,0 +1,194 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "{{JSpoiler|Part of the [[Dangerous Depths Quest]].}}",
+    "walksthrough": "Fire, Energy, Poison",
+    "hp": "?",
+    "speed": "?",
+    "abilities": "{{Ability List\n |{{Melee}}\n |{{Ability|Fireball Beam|?|element=?\n  |scene={{Scene|spell=10sqmbeam|caster=The Duke of the Depths|look_direction=east|effect=Fireball Effect}}}}\n |{{Ability|Fire Wave|529-780|element=fire\n  |scene={{Scene|spell=8sqmwave|caster=The Duke of the Depths|look_direction=east|effect=Fire Effect}}}}\n |{{Ability|Trembling UE|?|element=?\n  |scene={{Scene|spell=6sqmballself|caster=The Duke of the Depths|effect=Trembling Effect|effect_on_caster=yes}}}}\n}}",
+    "pushobjects": "yes",
+    "healMod": "100%?",
+    "paraimmune": "yes",
+    "fireDmgMod": "-100%?",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        "SzzzSzzz!",
+        "Chhhhhh!"
+    ],
+    "maxdmg": "?",
+    "pushable": "no",
+    "cooldown": "4",
+    "implemented": "11.50.6055",
+    "loot": [
+        {
+            "amount": "1-36",
+            "itemName": "Platinum Coin"
+        },
+        {
+            "itemName": "Crystal Coin"
+        },
+        {
+            "amount": "1-4",
+            "itemName": "Blue Crystal Shard"
+        },
+        {
+            "itemName": "Giant Tentacle"
+        },
+        {
+            "itemName": "Huge Chunk of Crude Iron"
+        },
+        {
+            "itemName": "Yellow Gem"
+        },
+        {
+            "itemName": "Blue Gem"
+        },
+        {
+            "itemName": "Red Gem"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Small Diamond"
+        },
+        {
+            "amount": "1-12",
+            "itemName": "Small Emerald"
+        },
+        {
+            "amount": "1-12",
+            "itemName": "Small Amethyst"
+        },
+        {
+            "amount": "1-12",
+            "itemName": "Small Ruby"
+        },
+        {
+            "amount": "1-12",
+            "itemName": "Small Topaz"
+        },
+        {
+            "itemName": "Wand of Inferno"
+        },
+        {
+            "itemName": "Stone Skin Amulet"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "Mastermind Potion"
+        },
+        {
+            "itemName": "Luminous Orb"
+        },
+        {
+            "itemName": "Terra Mantle"
+        },
+        {
+            "itemName": "Magic Sulphur"
+        },
+        {
+            "itemName": "Fire Axe"
+        },
+        {
+            "itemName": "Fire Sword"
+        },
+        {
+            "amount": "1-8",
+            "itemName": "Great Health Potion"
+        },
+        {
+            "amount": "1-8",
+            "itemName": "Ultimate Health Potion"
+        },
+        {
+            "amount": "1-18",
+            "itemName": "Great Mana Potion"
+        },
+        {
+            "amount": "1-10",
+            "itemName": "Great Spirit Potion"
+        },
+        {
+            "itemName": "Damaged Worm Head"
+        },
+        {
+            "itemName": "Pristine Worm Head"
+        },
+        {
+            "itemName": "Muck Rod"
+        },
+        {
+            "itemName": "Slightly Rusted Helmet"
+        },
+        {
+            "itemName": "Crystalline Armor"
+        },
+        {
+            "itemName": "Green Gem"
+        },
+        {
+            "itemName": "Slightly Rusted Shield"
+        },
+        {
+            "itemName": "Heavy Crystal Fragment"
+        },
+        {
+            "itemName": "Giant Shimmering Pearl"
+        },
+        {
+            "itemName": "Silver Token"
+        },
+        {
+            "itemName": "Gold Token"
+        },
+        {
+            "itemName": "Gnome Sword"
+        },
+        {
+            "itemName": "Gnome Shield"
+        },
+        {
+            "itemName": "Candle Stump"
+        },
+        {
+            "itemName": "Crude Wood Planks"
+        },
+        {
+            "itemName": "Gnome Legs"
+        },
+        {
+            "itemName": "Mallet Pommel"
+        },
+        {
+            "itemName": "Violet Gem"
+        },
+        {
+            "itemName": "Magma Coat"
+        },
+        {
+            "itemName": "Spellweaver's Robe"
+        }
+    ],
+    "walksaround": "None",
+    "exp": "?",
+    "creatureclass": "Elementals",
+    "earthDmgMod": "100%?",
+    "physicalDmgMod": "100%?",
+    "bosstiaryclass": "Bane",
+    "primarytype": "Bio-Elementals",
+    "race_id": "1520",
+    "senseinvis": "yes",
+    "actualname": "The Duke Of The Depths",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "The Duke of the Depths",
+    "isboss": "yes",
+    "behaviour": "The boss re-targets very often and it hits by melee and fire attacks mainly.",
+    "location": "[[Warzone 6]].",
+    "iceDmgMod": "100%?",
+    "strategy": "The main blocker should be at least level 300 (but 450 is recommended) with [[Fire Damage]] protection. Trap the boss on the east side of the room by the exit teleport so it doesn't roam around and attack the shooters.\n\nEvery 20 seconds, 5 [[Fiery Heart]]s will appear in the room and the boss will become [[The Fire Empowered Duke]], which is immune to all damage. The Fire Duke also has much stronger attacks and use them often if attacked, so all the shooters should stop attacking the boss. The [[Fiery Heart]]s must be killed quickly or they'll become [[Fiery Blood]]s, which will walk around the room and attack the shooters. Once the boss is vulnerable again, focus all damage on it. Repeat this process several times until it's defeated.",
+    "energyDmgMod": "100%?",
+    "deathDmgMod": "100%?"
+}

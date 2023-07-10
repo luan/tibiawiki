@@ -1,0 +1,171 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "Its damage is similar to a [[Plaguesmith]]'s, but with stronger attacks, especially the curse, so don't let your hp drop below 1500 and do not underestimate them. This creature was added with the [[Updates/8.54|Christmas Update 2009]]. Their head looks the same as that of a [[Wyrm]].\n{{JSpoiler|You may hunt 500 of these as a task of the [[Killing in the Name of... Quest]]. Upon completion of the task you will face [[Ethershreck]].}}",
+    "walksthrough": "Poison",
+    "hp": "7800",
+    "abilities": "{{Ability List\n |{{Melee|0-500+}}\n |{{Ability|Death Water Wave|120-250|death\n  |scene={{Scene|spell=5sqmtwavenarrow2|effect=Ripple Effect|caster=Ghastly Dragon|look_direction=east}}}}\n |{{Ability|Paralyze|reduces speed by over 90%|element=paralyze\n  |scene={{Scene|spell=7sqmstrike|effect=Bat Swarm Effect|caster=Ghastly Dragon|missile_direction=south-east|missile_distance=7/7}}}}\n |{{Ability|Envenom|starting up from 46-63 hp per turn|element=poisoned\n  |scene={{Scene|spell=5sqmstrike|effect=Cloud Effect|caster=Ghastly Dragon|missile=Death Missile|missile_direction=south-east|missile_distance=5/5}}}}\n |{{Ability|Life Drain|80-228|life drain\n  |scene={{Scene|spell=7sqmstrike|effect=Red Sparkles Effect|caster=Ghastly Dragon|missile_direction=south-east|missile_distance=7/7}}}}\n |{{Ability|Death Ball|110-180?|death\n  |scene={{Scene|spell=2sqmballself|effect=Death Effect|caster=Ghastly Dragon|effect_on_caster=yes}}}}\n |{{Ability|Cursed|40-500; +20% each turn, 5-7 turns|element=cursed\n  |scene={{Scene|spell=5sqmstrike|effect=Cloud Effect|caster=Ghastly Dragon|missile=Death Missile|missile_direction=south-east|missile_distance=5/5}}}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "secondarytype": "The Undead",
+    "holyDmgMod": "115%",
+    "maxdmg": "{{Max Damage|physical=500|earth=63|lifedrain=228|death=430}}<br/>+ 500 {{Icon|death}} from [[Cursed|Curse]]",
+    "pushable": "?",
+    "implemented": "8.54",
+    "loot": [
+        {
+            "amount": "0-266",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "Great Mana Potion",
+            "rarity": "common"
+        },
+        {
+            "amount": "0-5",
+            "itemName": "Small Emerald",
+            "rarity": "common"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "Platinum Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Dark Armor",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Plate Legs",
+            "rarity": "common"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "Great Spirit Potion",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Ultimate Health Potion",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Terra Boots",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Soul Orb",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Demonic Essence",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Slightly Rusted Armor",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Twin Hooks",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Zaoan Halberd",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Ghastly Dragon Head",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Undead Heart",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Terra Legs",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Drakinata",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Shiny Stone",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Zaoan Armor",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Zaoan Shoes",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Zaoan Legs",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Spellweaver's Robe",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Jade Hat",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Guardian Boots",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Zaoan Helmet",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Zaoan Sword",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Fire, Energy",
+    "exp": "4600",
+    "mitigation": "1.24",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "ghastly dragon",
+    "illusionable": "no",
+    "armor": "30",
+    "convince": "--",
+    "name": "Ghastly Dragon",
+    "isboss": "no",
+    "iceDmgMod": "50%",
+    "energyDmgMod": "110%",
+    "deathDmgMod": "0%",
+    "plural": "ghastly dragons",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "lightcolor": "119",
+    "occurrence": "Common",
+    "bestiarytext": "Ghastly Dragon is the best translation one can come up with for the unpronounceable word that the lizard people use for this creature. It seems the Ghastly Dragon is not a sub-race of the dragons but some sort of intended transformation. Sages assume that Ghastly Dragons are the failed result of a self-initiated transformation of some ancient dragon. While probably the original aim is to reach some state of transcendence, the failed outcome is a creature trapped between the spirit world and the mortal realm. The failed transformation often dangerously maddens the dragon creature. Even those who against all odds manage to retain their sanity have to cope with the knowledge that they turned in some, even in their own eyes, abominable creature instead in the intended ascended being. This leads to the fact that also the few sane specimens are usually not less aggressive and destructive than their mad fellows.<br />Although the legends of the lizard folk also tell about some extremely wise and benevolent Ghastly Dragons, most of them that have been encountered are dangerous and powerful. The transformation of their bodies has changed their abilities significantly. They can draw upon immense powers and use them to wreak havoc on anyone foolish enough to disturb them in their eternal agony.",
+    "speed": "160",
+    "pushobjects": "?",
+    "fireDmgMod": "90%",
+    "sounds": [
+        "EMBRACE MY GIFTS!",
+        "I WILL FEAST ON YOUR SOUL!"
+    ],
+    "lightradius": "4",
+    "bestiaryclass": "Dragon",
+    "creatureclass": "Reptiles",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "110%",
+    "primarytype": "Dragons",
+    "race_id": "643",
+    "bestiarylevel": "Hard",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "ghastlydragon",
+    "behaviour": "These creatures run at low health, and a very good thing about them is that they don't change attack often.",
+    "location": "[[Ghastly Dragon Lair]], [[Corruption Hole]], [[Razachai]] including the [[Inner Sanctum]], [[Zao Palace]], [[Deeper Banuta]] (single spawn, {{Mapper Coords|127.220|127.137|14|2|text=here}}), [[Chyllfroest]].",
+    "strategy": "'''All vocations:''' The Ghastly Dragon's death attacks should be less effective if you wear a [[Death Ring|Death]]/[[Butterfly Ring]] or [[Koshei's Ancient Amulet]]/[[The Cobra Amulet|Cobra Amulet]]. Depending on your vocation, you can use one of the following: [[Skullcracker Armor]], [[Robe of the Underworld]], or [[Divine Plate]]. It is also advisable not to fight a Ghastly Dragon while cursed, as they will make you receive 20% more Death damage from time to time. Be careful, otherwise you can take up to 1721~ curse damage. A good tactic if you have a mage or paladin in the party is to use fire bombs or fire walls. As long as someone is next to it, it will not leave even when it is in low hp to run. <br/> [[Knight]]: It is strongly not recommended to hunt them for profit due to a lack of ability to cure curse. You will find yourself healing the curse damage even after the Ghastly Dragon is dead. You should be at least level 140 (160+ if you are going to hunt them in [[Zao Palace]]) because it is common to encounter 2 or more Ghastly Dragons together. Using any \n[[Death Damage#Death Protection|death protection]] will help to decrease its curse attack.  <br>[[Paladin]]: You must be at least 130 level with a distance skill of 90+ to solo this creature without waste. Use [[Assassin Stars]] (Much more waste but safer) or [[Crystalline Arrow]] / [[Prismatic Bolt]] to kill it faster. Remember to bring lots supplies with you and be ready to heal yourself just about every 1-2 hits. Make sure to use [[Cure Curse]] before the curse hits too high. Its also a good idea to use the equipment available to your level as [[Yalahari legs]] (Lvl 80, death 5%), [[Koshei's Ancient Amulet]] (No level, death 8%)/[[The Cobra Amulet|Cobra Amulet]] (Level 250, death 9% and '''armor 4'''), optional [[Divine Plate]] (Level 75, death 10%), [[Elite Draken Helmet]] (Level 100, death 3%), [[Death Ring]] (No level, death 5% for 8 minutes)/[[Butterfly Ring]] (Level 50, no charges or time, death 3% and armor 2). A good strategy is to put a fire wall down and run it around the fire wall. This will reduce the damage you take and increase your profit. Higher level Paladins (starting at around Level 250) can use a [[Bow of Cataclysm]], gather 4-6 Ghastly Dragons and kill them with [[Diamond Arrow]]s, [[Divine Caldera]] and [[Thunderstorm Rune]]s. Using a [[Paladin Familiar]] at the same time is very helpful. <br> [[Mages]]: It's very hard to block them, because curse can hit over than 900. Killing them while running isn't easy, since it uses paralyze frequently. <br>"
+}

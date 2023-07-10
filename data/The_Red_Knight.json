@@ -1,0 +1,43 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "It's part of the final battle of the [[Grave Danger Quest]].",
+    "walksthrough": "Fire, Energy, Poison",
+    "hp": "?",
+    "speed": "?",
+    "abilities": "{{Ability List| {{Melee|0-1000}} }}",
+    "pushobjects": "yes",
+    "healMod": "100%?",
+    "paraimmune": "yes",
+    "fireDmgMod": "0%",
+    "holyDmgMod": "0%",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "?",
+    "pushable": "no",
+    "runsat": "0",
+    "implemented": "12.20.8834",
+    "loot": [],
+    "walksaround": "None.",
+    "exp": "0",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "0%",
+    "spawntype": [
+        "Triggered"
+    ],
+    "senseinvis": "yes",
+    "actualname": "The Red Knight",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "The Red Knight",
+    "isboss": "yes",
+    "location": "[[Isle of the Kings]]",
+    "iceDmgMod": "0%",
+    "strategy": "The Red Knight does not take any direct damage from players since its immune to all elements but [[Drown Damage]]. To kill it, you must kill the [[Vampiric Blood]]s near the boss. The vampires explode dealing Drown Damage which will damage The Red Knight. The players can use [[Diving Equipment]] to avoid this damage.",
+    "energyDmgMod": "0%",
+    "deathDmgMod": "-100%?"
+}

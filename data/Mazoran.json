@@ -1,0 +1,174 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "Mazorans",
+    "hpDrainDmgMod": "100%?",
+    "notes": "He is the minion of [[Infernatil]].",
+    "walksthrough": "?",
+    "hp": "290000",
+    "speed": "?",
+    "abilities": "{{Ability List| {{Melee|?}} }}",
+    "pushobjects": "yes",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "0%?",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "?",
+    "pushable": "no",
+    "runsat": "0",
+    "cooldown": "44",
+    "implemented": "10.90",
+    "loot": [
+        {
+            "itemName": "Maimer"
+        },
+        {
+            "itemName": "Silver Token",
+            "rarity": "always"
+        },
+        {
+            "itemName": "Impaler of the Igniter",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Tempest Shield",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Magma Legs"
+        },
+        {
+            "itemName": "Magma Coat"
+        },
+        {
+            "itemName": "Magma Amulet"
+        },
+        {
+            "itemName": "Green Gem"
+        },
+        {
+            "itemName": "Fire Axe"
+        },
+        {
+            "itemName": "Gold Ingot"
+        },
+        {
+            "itemName": "Wand of Everblazing",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Rift Crossbow"
+        },
+        {
+            "itemName": "Rift Bow"
+        },
+        {
+            "itemName": "Demonrage Sword"
+        },
+        {
+            "itemName": "Demonic Essence"
+        },
+        {
+            "itemName": "Blue Gem"
+        },
+        {
+            "itemName": "Guardian Halberd"
+        },
+        {
+            "itemName": "Energy Ring"
+        },
+        {
+            "amount": "0-200",
+            "itemName": "Gold Coin"
+        },
+        {
+            "amount": "0-30",
+            "itemName": "Platinum Coin"
+        },
+        {
+            "amount": "0-5",
+            "itemName": "Great Mana Potion"
+        },
+        {
+            "amount": "0-5",
+            "itemName": "Great Spirit Potion"
+        },
+        {
+            "amount": "0-5",
+            "itemName": "Ultimate Health Potion"
+        },
+        {
+            "amount": "0-5",
+            "itemName": "Small Amethyst"
+        },
+        {
+            "amount": "0-5",
+            "itemName": "Small Sapphire"
+        },
+        {
+            "amount": "0-5",
+            "itemName": "Small Topaz"
+        },
+        {
+            "amount": "0-5",
+            "itemName": "Cyan Crystal Fragment"
+        },
+        {
+            "amount": "0-5",
+            "itemName": "Green Crystal Fragment"
+        },
+        {
+            "amount": "0-5",
+            "itemName": "Red Crystal Fragment"
+        },
+        {
+            "itemName": "Rift Shield"
+        },
+        {
+            "itemName": "Flask of Demonic Blood"
+        },
+        {
+            "itemName": "Small Ruby"
+        },
+        {
+            "itemName": "Red Gem"
+        },
+        {
+            "itemName": "Giant Shimmering Pearl"
+        },
+        {
+            "itemName": "Violet Gem"
+        },
+        {
+            "itemName": "Ironworker"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "50000",
+    "creatureclass": "Demons",
+    "earthDmgMod": "100%?",
+    "physicalDmgMod": "100%?",
+    "bosstiaryclass": "Archfoe",
+    "primarytype": "The Ruthless Seven Minions",
+    "spawntype": [
+        "Triggered"
+    ],
+    "race_id": "1186",
+    "senseinvis": "?",
+    "actualname": "Mazoran",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Mazoran",
+    "isboss": "yes",
+    "behaviour": "It fights in close range and does not retarget often.",
+    "location": "[[Ferumbras' Ascension Quest]] area.",
+    "iceDmgMod": "100%",
+    "strategy": "This boss is one of the easiest of its peers. The main danger when facing Mazoran is the floor, which will become Lava that deals 1500 [[Fire Damage]] every minute or so. Thus, the safest strategy for the team is to position in one of the sides of the room and avoid moving. During the fight, [[Rage of Mazoran|Rages of Mazoran]] will also spawn when the floor becomes lava - they can be easily killed with Ice area attacks.",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "100%?"
+}

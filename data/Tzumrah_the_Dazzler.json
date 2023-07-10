@@ -1,0 +1,63 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "Tzumrah The Dazzler",
+    "hpDrainDmgMod": "100%?",
+    "notes": "Tzumrah The Dazzler is a miniboss who visits the [[Forbidden Temple]] once in a while [[Incompetent Idiots (Book)|to oversee the rituals]]. When Tzumrah is present, several [[Enlightened of the Cult]] that are not normally present appear at the last floor.",
+    "isarenaboss": "no",
+    "walksthrough": "?",
+    "hp": "1700",
+    "speed": "?",
+    "abilities": "{{Ability List\n |{{Melee|0-150?}}\n |{{Ability|close range Divine Life Drain|300+|element=lifedrain}}\n |{{Ability|Fire Beam|0-250?|element=fire}}\n |{{Ability|[[Paralysis]]|element=paralyze}}\n |{{Ability|[[Drunkenness]]|element=drunk}}\n |{{Ability|[[Invisibility]]|element=invisible}}\n |{{Ability|[[Self Healing]]|200-230; about every 4 turns|element=healing}}\n |{{Summon|Crypt Shambler|2|Fire Elemental}}\n}}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "80%",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        "Your beating heart will burst into flames!",
+        "Your reeking carcass will feed the sharks!",
+        "Your living soul will serve my master!",
+        "Your warm blood will quench my thirst!"
+    ],
+    "maxdmg": "{{Max Damage|physical=150?|fire=250?|lifedrain=300?|summons=250}}",
+    "pushable": "?",
+    "implemented": "10.80",
+    "loot": [
+        {
+            "amount": "0-120?",
+            "itemName": "Gold Coin"
+        },
+        {
+            "itemName": "Protection Amulet"
+        },
+        {
+            "itemName": "Cultish Symbol"
+        },
+        {
+            "itemName": "Energy Ring"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "1700",
+    "creatureclass": "Humans",
+    "earthDmgMod": "80%?",
+    "physicalDmgMod": "100%?",
+    "bosstiaryclass": "Nemesis",
+    "primarytype": "Voodoo Cultists",
+    "race_id": "1154",
+    "senseinvis": "yes",
+    "actualname": "Tzumrah The Dazzler",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Tzumrah the Dazzler",
+    "isboss": "yes",
+    "behaviour": "Just like an [[Enlightened of the Cult]]. But way stronger. Be careful of its fire beam and fire elementals.",
+    "location": "[[Forbidden Temple]], near the altar of the last floor {{Mapper Coords|130.54|127.138|11|4|text=here}}.",
+    "iceDmgMod": "100%?",
+    "strategy": "None.",
+    "energyDmgMod": "105%",
+    "deathDmgMod": "100%?"
+}

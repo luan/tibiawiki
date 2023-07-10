@@ -1,0 +1,79 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "Was implemented in the [[Winter Update 2011]].",
+    "isarenaboss": "no",
+    "walksthrough": "Poison",
+    "hp": "460",
+    "abilities": "{{Ability List|{{Melee|0-100?|poison=4}}|{{Ability|Life Drain hit|?|element=lifedrain}}|{{Haste}}}}",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "secondarytype": "Hive Born",
+    "holyDmgMod": "100%",
+    "maxdmg": "142+?",
+    "pushable": "no",
+    "implemented": "9.40",
+    "loot": [
+        {
+            "amount": "1-75",
+            "itemName": "Gold Coin",
+            "rarity": "always"
+        },
+        {
+            "itemName": "Compound Eye",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Swarmer Antenna",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Small Emerald",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Epee",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Fire, Energy",
+    "exp": "350",
+    "mitigation": "0.91",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "swarmer",
+    "illusionable": "yes",
+    "armor": "29",
+    "convince": "--",
+    "name": "Swarmer",
+    "isboss": "no",
+    "iceDmgMod": "103%",
+    "energyDmgMod": "25%",
+    "deathDmgMod": "100%",
+    "plural": "swarmers",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "Swarmers are usually encountered in greater numbers. They emit pheromones to coordinate their efforts, and even when their fast movements seem aimless and unprovoked sometimes, they always serve some hidden purpose. With the help of pheromones and touch, they seem to have some form of communication with each other. They are often seen to act as one, effortlessly moving in patterns that often mirror those of the other Swarmers. This strange connection of the Swarmers seems not to extend to their hive brethren, though. It has been observed that irritated Swarmers attacked other hive creatures and sometimes even devour them. When in a food frenzy, they are often compared to the feared piranhas.<br />Swarmers seem always eager to collect biomass for the hive one way or the other. This often means the devouring of living matter, be it plants, garbage or living creatures. Brought back to the hive, it is stored as a putrid, half-digested mass. It is assumed that Swarmers also feed other Hive Born, particularly the kollos. Swarmers are assumed to be the most numerous of the Hive Born although not necessarily the ones most often encountered. Daring adventurers that have torn down hive constructs claimed to have found Swarmers in hollow areas and tunnels under the layers of the walls or the floors. What they have done there, remains a mystery.<br />This is just one, even though the main strain of Swarmers that can be encountered. It seems the hive can breed another strain for defensive purposes in great numbers in a short time. Those Swarmers have an extremely short lifespan, however, often only measured in hours. In the war over the isle, the Swarmers are the foremost shock troops. They are used in great numbers to wear down opponents and to distract them from more valuable warriors. They suffer enormous casualties, although, it seems the hive's supply of them is limitless. Most casualties arise in the easy replaceable short-living strain, though, and so the losses for the hive are probably marginal.",
+    "speed": "128",
+    "pushobjects": "yes",
+    "fireDmgMod": "108%",
+    "sounds": [
+        "Flzlzlzlzlzlzlz!",
+        "Rzlrzlrzlrzlrzlrzl!"
+    ],
+    "runsat": "50",
+    "bestiaryclass": "Vermin",
+    "creatureclass": "Invertebrates",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Insects",
+    "race_id": "790",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "swarmer",
+    "behaviour": "Fights in close combat.",
+    "location": "[[The Hive]], [[Hive Outpost]].",
+    "strategy": "Runs away really fast, so if you're planning on killing them it might be a good idea to block the way with a [[Fire Wall]] rune."
+}

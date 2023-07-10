@@ -1,0 +1,123 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "Hydras are distant relatives of [[Dragons]] and [[Lizards]]. Their most distinctive feature is their triple head (reference to the mythological [[Wikipedia:Lernaean Hydra|Lernaean Hydra]]). They have historic ties with low class [[lizards]] and their most populous habitat is [[Banuta]] - the previous [[Lizard]] settlement. Besides Banuta, they are typically found in natural environments. They are particularly known for their unique [[Creature Spells|wave]]s, strong and frequent [[paralysis]] and strong [[healing]].\n\n{{JSpoiler|You may hunt 650 of these as a task of the [[Killing in the Name of... Quest]]. Upon completion of the task you will face [[The Many]].}}",
+    "walksthrough": "Fire, Energy, Poison",
+    "hp": "2350",
+    "abilities": "{{Ability List\n |{{Melee|0-270}}\n |{{Ability|Earth Wave|60-320|earth\n  |scene={{Scene|spell=8sqmwave|effect=Carnivorous Plant Effect|caster=Hydra|look_direction=east}}}}\n |{{Ability|Hot Water Wave|100-250|ice\n  |scene={{Scene|spell=8sqmwave|effect=Ripple Effect|caster=Hydra|look_direction=east}}}}\n |{{Ability|Paralyze Bomb|160-240 points for 15 seconds|slowed\n  |scene={{Scene|spell=2sqmballtarget|caster=Hydra|look_direction=south|effect=Poison Effect 1|missile=Poison Missile|missile_direction=south-east|missile_distance=2/2}}}}\n |{{Ability|Ice Missile|70-155|ice\n  |scene={{Scene|spell=7sqmstrike|caster=Hydra|look_direction=south|effect=Ice Explosion Effect|damage_effect=Poison Effect 1|missile=Poison Missile|missile_direction=south-east|missile_distance=2/2}}}}\n |{{Healing|range=200-400\n  |scene={{Scene|spell=buffspell|caster=Hydra|look_direction=south|effect=Blue Sparkles Effect|effect_on_caster=yes}}}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "holyDmgMod": "70%",
+    "maxdmg": "{{Max Damage|physical=270|earth=320|ice=405}}",
+    "pushable": "No",
+    "implemented": "7.5",
+    "loot": [
+        {
+            "amount": "1-246",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-4",
+            "itemName": "Ham",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "Platinum Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Hydra Head",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Small Sapphire",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Cucumber",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Ring of Healing",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Knight Armor",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Stone Skin Amulet",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Hydra Egg",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Warrior Helmet",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Life Crystal",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Strong Mana Potion",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Medusa Shield",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Royal Helmet",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Boots of Haste",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "None",
+    "exp": "2100",
+    "mitigation": "1.18",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "hydra",
+    "illusionable": "yes",
+    "armor": "27",
+    "convince": "--",
+    "name": "Hydra",
+    "isboss": "no",
+    "iceDmgMod": "50%",
+    "energyDmgMod": "110%",
+    "deathDmgMod": "100%",
+    "plural": "hydras",
+    "hpDrainDmgMod": "0%",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "The many-headed Hydra is a distant cousin of the dragon. Although probably not more intelligent than a beast, the Hydra has magical abilities. The breath of the Hydra is poisonous and it traditionally uses a forceful splash of hot water as a weapon. As dangerous as this might be, the true danger lies in the Hydra's incredible healing powers. Even severed heads grow back within a few heartbeats and each injury seems only to increase the creature's ravenous hunger. The Hydra seems to flourish in warm climate and usually build its lair close to greater bodies of water. Although the jungles climate seems to benefit their breeding, it is not uncommon to encounter small Hydra colonies in milder climate as well. Other than their dragon cousins, Hydras shun the dry heat. Hydras are not known to hoard treasures on purpose but having been on this earth for quite some time, and only randomly losing a fight, the belongings of their victims have started to fill up their caves.",
+    "speed": "180",
+    "pushobjects": "Yes",
+    "fireDmgMod": "100%",
+    "sounds": [
+        "FCHHHHH",
+        "HISSSS"
+    ],
+    "runsat": "300",
+    "bestiaryclass": "Dragon",
+    "creatureclass": "Reptiles",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "105%",
+    "primarytype": "Hydras",
+    "race_id": "121",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "hydra",
+    "behaviour": "Fights in close combat.",
+    "location": "Many on the northern [[Hydra Mountain]] in east [[Tiquanda]] ({{Mapper Coords|128.210|127.125|7|3|text=here}}), 3-4 on the southern [[Hydra Mountain]] ({{Mapper Coords|128.218|127.170|7|4|text=here}}), 1 at the [[Hydra Egg Quest]] in [[Tiquanda]] ({{Mapper Coords|128.182|127.192|8|2|text=here}}), 1 north-east of the [[Elephant Tusk Quest]] ({{Mapper Coords|128.174|127.227|7|2|text=here}}), 2 above the [[Forbidden Lands]] hydra cave {{Mapper Coords|128.219|127.10|7|2|text=here}} and many inside it, many in [[Deeper Banuta]], many on [[Talahu]] surface, a few in [[Ferumbras Citadel]] basement on [[Kharos]], 2 on a hill in the [[Yalahar]] [[Arena and Zoo Quarter]], 1 deep in the [[Yalahar]] [[Foreigner Quarter]] ([[Crystal Lake]]), many in the [[Oramond Hydra/Bog Raider Cave]].",
+    "strategy": "Get a player with high hitpoints to absorb the melee, and get as many shooters ([[Paladin]]s or [[Mage]]s) as possible attacking the hydra from a diagonal direction. Hydras give great [[Experience|exp points]] with a comparatively low risk of death. More attackers will help counteract the hydra's frequent [[healing]] and reduce the [[Ammunition]]/[[Rune]] cost of killing it. Also a team may consist of 2 mages, one preferably a druid healing the knight blocking to reduce health potion consumption, and both summon 2 [[Demon Skeleton]]s each and throw [[Heavy Magic Missile]]s, while the knight stands diagonal to the Hydra while the Summons attack. Also hunted alone by high level [[Knight]]s, at level 110 or more. At level 160 and higher, a knight can profit from a solo hydra hunt.<br />\nA team of a level 60 knight and two level 40-50 mages works very well, but the mages should use magic shield all the time because the hydras can do pretty strong attacks.<br />\nAt level 80 with assassin stars and 80+ distance a royal paladin can easily take hydras alone, but the spawn needs to be an open area and it will probably be a waste, unless you are very lucky.<br />\nThe best strategy consists in a team of 2 royal paladins using enchanted spears along with [[Ethereal Spear]] spell runing while hitting the hydra, it is also helpful to have your distance skill 85+. It is the best way to get some profit.<br />\nMages from level 55 onwards can solo these creatures one by one using [[Sudden Death Rune]]s and, in the case of [[Sorcerer]]s, using both a [[Wand of Darkness]] and [[Lightning]], albeit at big waste unless you loot rares. The strategy consists of basically staying in diagonal melee range and using [[exura]] every time you are hit; whenever you are thrown down to yellow HP or are suspicious of a high combo you can either use [[exura gran]] or in some cases, [[exura vita]]. Just make sure to have your mana at least 50% and above between encounters."
+}

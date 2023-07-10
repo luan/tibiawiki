@@ -1,0 +1,102 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "<gallery mode=\"nolines\">Orc.Boss.jpg\nWarlord Ruzad Menera.jpg|Warlord Ruzad on Menera\n</gallery>",
+    "isarenaboss": "no",
+    "walksthrough": "?",
+    "hp": "1500",
+    "speed": "?",
+    "abilities": "{{Ability List| {{Melee|0-300?}}|{{Summon|Orc Berserker|2}} }}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "yes",
+    "fireDmgMod": "20%",
+    "holyDmgMod": "90%",
+    "sounds": [
+        "Gadarat Ulderek!",
+        "Ruzad buta bana!",
+        "Rahi Gosh!",
+        "Ikem rambo zambo!"
+    ],
+    "maxdmg": "?",
+    "pushable": "?",
+    "implemented": "8.20",
+    "loot": [
+        {
+            "amount": "0-59",
+            "itemName": "Gold Coin"
+        },
+        {
+            "amount": "0-14",
+            "itemName": "Throwing Star"
+        },
+        {
+            "itemName": "Meat"
+        },
+        {
+            "itemName": "Fish"
+        },
+        {
+            "itemName": "Orc Leather"
+        },
+        {
+            "itemName": "Hunting Spear"
+        },
+        {
+            "itemName": "Scimitar"
+        },
+        {
+            "itemName": "Brass Legs"
+        },
+        {
+            "itemName": "Plate Legs"
+        },
+        {
+            "itemName": "Dark Helmet"
+        },
+        {
+            "itemName": "Orcish Axe"
+        },
+        {
+            "itemName": "Protection Amulet"
+        },
+        {
+            "itemName": "Plate Armor"
+        },
+        {
+            "itemName": "Two Handed Sword"
+        },
+        {
+            "itemName": "Magma Boots"
+        },
+        {
+            "itemName": "Butcher's Axe"
+        }
+    ],
+    "walksaround": "Poison",
+    "exp": "1700",
+    "creatureclass": "Humanoids",
+    "earthDmgMod": "110%",
+    "physicalDmgMod": "100%?",
+    "bosstiaryclass": "Nemesis",
+    "primarytype": "Orcs",
+    "spawntype": [
+        "Raid",
+        "Unique"
+    ],
+    "race_id": "419",
+    "senseinvis": "yes",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Warlord Ruzad",
+    "isboss": "yes",
+    "behaviour": "Treat like a strong [[Orc Warlord]], but it [[Summon]]s [[Orc Berserker]]s.",
+    "location": "[[Orc Fortress]], in the tower near [[The Explorer Society Quest|Orc Powder Quest Room]], {{Mapper Coords|128.202,123.233,5-2|text=here}}.",
+    "iceDmgMod": "100%?",
+    "strategy": "Be careful when facing this creature. Don't let him [[Summon]], or you can die easily. The strategy is almost the same than an [[Orc Warlord]]. Using [[Stealth Ring]]s or [[Invisibility]] would prevent you from being damaged by the summoned [[Orc Berserker]]s, but not the [[Orc leader]]s.",
+    "energyDmgMod": "99%<?",
+    "deathDmgMod": "110%"
+}

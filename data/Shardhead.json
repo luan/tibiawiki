@@ -1,0 +1,78 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "<br />\n{{JSpoiler|\nPart of the [[Killing in the Name of... Quest]].\n}}",
+    "walksthrough": "Fire",
+    "hp": "800",
+    "speed": "?",
+    "abilities": "{{Ability List| {{Melee|0-271?}}|{{Ability|[[Ice Missile]]|0-90?|element=ice}}|{{Ability|[[Paralysis|Paralysing Ice Beam]]|element=paralyze}} }}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "100%?",
+    "holyDmgMod": "0%?",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "300+?",
+    "pushable": "?",
+    "implemented": "8.50",
+    "loot": [
+        {
+            "amount": "0-198",
+            "itemName": "Gold Coin"
+        },
+        {
+            "amount": "0-5",
+            "itemName": "Platinum Coin"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "Ice Cube"
+        },
+        {
+            "amount": "0-5",
+            "itemName": "Small Diamond"
+        },
+        {
+            "amount": "0-5",
+            "itemName": "Small Sapphire"
+        },
+        {
+            "itemName": "Strong Health Potion"
+        },
+        {
+            "itemName": "Shard"
+        },
+        {
+            "itemName": "Frosty Heart"
+        },
+        {
+            "itemName": "Black Pearl"
+        },
+        {
+            "itemName": "Glacier Mask"
+        }
+    ],
+    "walksaround": "Energy, Poison",
+    "exp": "650",
+    "creatureclass": "Elementals",
+    "earthDmgMod": "100%?",
+    "physicalDmgMod": "100%?",
+    "primarytype": "Cryo-Elementals",
+    "race_id": "549",
+    "senseinvis": "?",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Shardhead",
+    "isboss": "yes",
+    "behaviour": "Unknown",
+    "location": "[[Formorgar Glacier]], behind the teleporter located {{Mapper Coords|125.141|121.168|3|2|text=here}}.",
+    "iceDmgMod": "0%",
+    "strategy": "[[Mage]]s and [[Paladin]]s just run and shoot. It will be easier to defeat it if you use an [[Energy Wall Rune]]. [[Knight]]s fight it like a normal [[Ice Golem]] but beware it can do damage similar to a [[Giant Spider]].",
+    "energyDmgMod": "120%?",
+    "deathDmgMod": "0%"
+}

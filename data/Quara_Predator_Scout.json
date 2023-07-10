@@ -1,0 +1,98 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "This monster can be seen during the quara raid on [[Liberty Bay]]. They look like a shark.\n{{JSpoiler|You may hunt 400 [[Quara Constrictor Scout]]s, [[Quara Hydromancer Scout]]s, [[Quara Mantassin Scout]]s, [[Quara Pincher Scout]]s and Quara Predator Scouts combined as a task of the [[Killing in the Name of... Quest]].}}",
+    "walksthrough": "Fire",
+    "hp": "890",
+    "abilities": "{{Ability List|{{Melee|0-190}}}}",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "holyDmgMod": "100%",
+    "maxdmg": "{{Max Damage|physical=190}}",
+    "pushable": "?",
+    "implemented": "7.8",
+    "loot": [
+        {
+            "amount": "0-129",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Double Axe",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Scale Armor",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Quara Bone",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "Small Diamond",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Two Handed Sword",
+            "rarity": "semi-rare"
+        },
+        {
+            "amount": "0-5",
+            "itemName": "Shrimp",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Fish Fin",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Northwind Rod",
+            "rarity": "rare"
+        }
+    ],
+    "walksaround": "Energy, Poison",
+    "exp": "400",
+    "mitigation": "1.04",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "quara predator scout",
+    "illusionable": "yes",
+    "armor": "30",
+    "convince": "--",
+    "name": "Quara Predator Scout",
+    "isboss": "no",
+    "iceDmgMod": "0%",
+    "energyDmgMod": "110%",
+    "deathDmgMod": "100%",
+    "plural": "quara predator scouts",
+    "hpDrainDmgMod": "0%",
+    "usespells": "no",
+    "lightcolor": "35",
+    "occurrence": "Common",
+    "bestiarytext": "The Quara Predator Scout is a weaker version of [[Quara Predator]]s.",
+    "speed": "85",
+    "pushobjects": "?",
+    "fireDmgMod": "0%",
+    "sounds": [
+        "Gnarrr!",
+        "Tcharrr!",
+        "Rrrah!",
+        "Rraaar!"
+    ],
+    "lightradius": "2",
+    "bestiaryclass": "Aquatic",
+    "creatureclass": "Amphibians",
+    "earthDmgMod": "110%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Quara",
+    "race_id": "238",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "drownDmgMod": "0%",
+    "bestiaryname": "quarapredatorscout",
+    "behaviour": "Fights until death.",
+    "location": "[[Malada]], [[Hrodmir Quara Scout Caves]], [[Quara Grotto]], [[Oramond]].",
+    "strategy": "Predator scouts are a bit weaker than pincher scouts.<br />\n'''[[Paladin]]s''': can kill them by running and shooting bolts and runes or royal spears and divine missile. They are easy to kill from a distance.<br />\n'''[[Mage]]s''': can kill them with [[Energy Strike]].<br />\n'''[[Knight]]s''': Their defense is quite low so you will hurt them often but you will need some time to kill them due to their high amount of [[Hit Points|hit points]]."
+}

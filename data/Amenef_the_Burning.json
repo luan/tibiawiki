@@ -1,0 +1,141 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "{{JSpoiler|It's one of the minibosses of [[Kilmaresh Quest]], Wanted mission.}}",
+    "walksthrough": "Energy, Fire, Poison",
+    "hp": "26000",
+    "speed": "?",
+    "abilities": "{{Ability List|{{Melee|0-600?}}|}}",
+    "pushobjects": "yes",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "85%",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "{{Max Damage|}}",
+    "pushable": "no",
+    "runsat": "0",
+    "cooldown": "20",
+    "implemented": "12.70.10953",
+    "loot": [
+        {
+            "itemName": "Guardian Halberd"
+        },
+        {
+            "itemName": "Noble Axe"
+        },
+        {
+            "itemName": "Spellbook of Warding"
+        },
+        {
+            "itemName": "Knight Armor"
+        },
+        {
+            "itemName": "Crystal Coin"
+        },
+        {
+            "itemName": "Springsprout Rod"
+        },
+        {
+            "itemName": "Wand of Starstorm"
+        },
+        {
+            "itemName": "Epee"
+        },
+        {
+            "itemName": "Mastermind Potion"
+        },
+        {
+            "itemName": "Mercenary Sword"
+        },
+        {
+            "itemName": "Eye-Embroidered Veil"
+        },
+        {
+            "itemName": "Tagralt-Inlaid Scabbard"
+        },
+        {
+            "itemName": "Assassin Dagger"
+        },
+        {
+            "itemName": "Slightly Rusted Legs"
+        },
+        {
+            "itemName": "Warrior's Axe"
+        },
+        {
+            "itemName": "Doublet"
+        },
+        {
+            "itemName": "Giant Shimmering Pearl"
+        },
+        {
+            "itemName": "Slightly Rusted Armor"
+        },
+        {
+            "itemName": "Dwarven Ring"
+        },
+        {
+            "itemName": "Ring of Blue Plasma"
+        },
+        {
+            "itemName": "Violet Gem"
+        },
+        {
+            "itemName": "Wand of Cosmic Energy"
+        },
+        {
+            "itemName": "Knight Axe"
+        },
+        {
+            "itemName": "Golden Mask"
+        },
+        {
+            "itemName": "Amber Staff"
+        },
+        {
+            "itemName": "Wand of Inferno"
+        },
+        {
+            "itemName": "Focus Cape"
+        },
+        {
+            "itemName": "Underworld Rod"
+        },
+        {
+            "itemName": "Sacred Tree Amulet"
+        },
+        {
+            "itemName": "Blue Gem"
+        },
+        {
+            "itemName": "Sea Horse Figurine"
+        }
+    ],
+    "walksaround": "None",
+    "exp": "21500",
+    "creatureclass": "Humans",
+    "earthDmgMod": "100%",
+    "physicalDmgMod": "100%",
+    "bosstiaryclass": "Archfoe",
+    "primarytype": "Fafnar Cultists",
+    "spawntype": [
+        "Triggered"
+    ],
+    "race_id": "2103",
+    "senseinvis": "yes",
+    "actualname": "Amenef the Burning",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Amenef the Burning",
+    "isboss": "yes",
+    "location": "Through a teleport inside the [[Ruins of Nuur]], {{Mapper Coords|text=here|132.27|124.29|10|2|1|0.50.5}}.",
+    "iceDmgMod": "120%",
+    "energyDmgMod": "90%",
+    "deathDmgMod": "100%"
+}

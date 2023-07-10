@@ -1,0 +1,97 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "{{JSpoiler|If you kill 300 Deepling Scouts, you will earn the [[achievement]] [[Invader of the Deep]].}}",
+    "isarenaboss": "no",
+    "walksthrough": "Fire",
+    "hp": "240",
+    "abilities": "{{Ability List\n |{{Melee|0-105}}\n |{{Ability|[[Spear]]|0-110|element=physical|scene={{Scene|spell=3sqmstrike|effect=Blood Effect|caster=Deepling Scout|missile=Spear Missile|missile_direction=south-east|missile_distance=3/3}}}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "holyDmgMod": "100%",
+    "maxdmg": "{{Max Damage|physical=215}}",
+    "pushable": "no",
+    "implemented": "9.10",
+    "loot": [
+        {
+            "amount": "0-50",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "amount": "0-3",
+            "itemName": "Hunting Spear",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Life Ring",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Rusted Armor",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Heavy Trident",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Eye of a Deepling",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Fish Fin",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Flask of Rust Remover",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Small Emerald",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Energy, Poison",
+    "exp": "160",
+    "mitigation": "0.56",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "deepling scout",
+    "illusionable": "no",
+    "armor": "7",
+    "convince": "--",
+    "name": "Deepling Scout",
+    "isboss": "no",
+    "iceDmgMod": "0%",
+    "energyDmgMod": "110%",
+    "deathDmgMod": "100%",
+    "plural": "deepling scouts",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "no",
+    "occurrence": "Common",
+    "bestiarytext": "The Deepling Scouts are an ancient race. It is not known how old they are exactly or when the first Deepling Scouts emerged from the depths of Tibia's seas. There are no known records of these creatures so far and the first sightings were reported only recently. Usually inhabiting the very depths of the world, it seems their number grew significantly over the years and at some time, they started ascending. It is currently unknown when or why this ascent started. As of now, their origin is shrouded in mystery.",
+    "speed": "65",
+    "pushobjects": "yes",
+    "fireDmgMod": "0%",
+    "sounds": [
+        "Njaaarh!!",
+        "Begjone, intrjuder!!",
+        "Djon't djare stjare injo the eyes of the djeep!",
+        "Ljeave this sjacred pljace while you cjan"
+    ],
+    "runsat": "20",
+    "bestiaryclass": "Aquatic",
+    "creatureclass": "Amphibians",
+    "earthDmgMod": "110%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Deeplings",
+    "race_id": "734",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "drownDmgMod": "0%",
+    "bestiaryname": "deeplingscout",
+    "behaviour": "They try to stay in melee range and combo his normal hit with their water spear often.",
+    "location": "[[Fiehonja]], [[Sunken Mines]] near [[Dwarf Mines]], {{Mapper Coords|127.35|124.245|7|4|text=here}}.",
+    "strategy": "Be prepared to use some [[Potions|health potions]] or [[Spells|healing spell]], they can do significant combos when facing more than 3 at a time since the [[Distance Fighting|Water Spear]] will go through your shielding. [[Knight]]s and [[Paladin]]s can easily kill them, they are similar to [[Cyclops]] but with distance attack. However, skills 70/70 and strong equipment are needed if you plan to hunt them. [[Mage]]s should use earth/energy strike to kill."
+}

@@ -1,0 +1,89 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "Chopper",
+    "hpDrainDmgMod": "100%?",
+    "notes": "One of the Hive Bosses.<br />\n{{JSpoiler|Part of the [[War Against the Hive Quest]]}}",
+    "walksthrough": "?",
+    "hp": "7200",
+    "speed": "?",
+    "abilities": "{{Ability List| {{Melee|0-200}}|{{Healing|range=5-20}}|{{Ability|[[Earth Damage|Poison Bomb]] on a target|100-300|element=earth}} }}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "secondarytype": "Insects",
+    "fireDmgMod": "100%?",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "?",
+    "pushable": "?",
+    "implemented": "9.50",
+    "loot": [
+        {
+            "amount": "0-187",
+            "itemName": "Gold Coin"
+        },
+        {
+            "amount": "0-4",
+            "itemName": "Platinum Coin"
+        },
+        {
+            "itemName": "Waspoid Claw"
+        },
+        {
+            "itemName": "Waspoid Wing"
+        },
+        {
+            "itemName": "Compound Eye"
+        },
+        {
+            "itemName": "Black Pearl"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "Small Topaz"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "Great Health Potion"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "Great Mana Potion"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "Dung Ball (Quest)"
+        },
+        {
+            "itemName": "Emerald Bangle"
+        },
+        {
+            "itemName": "Yellow Gem"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "5400",
+    "creatureclass": "Invertebrates",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "100%?",
+    "bosstiaryclass": "Bane",
+    "primarytype": "Hive Born",
+    "race_id": "852",
+    "senseinvis": "?",
+    "actualname": "Chopper",
+    "illusionable": "yes",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Chopper",
+    "isboss": "yes",
+    "behaviour": "Stays in close combat until the death.",
+    "location": "Underground [[Hive]], around {{Mapper Coords|130.248|122.26|8|4|text=here}}",
+    "iceDmgMod": "100%?",
+    "strategy": "Separate it from other monsters and simply kill it. It's not too strong alone.",
+    "energyDmgMod": "100%?",
+    "deathDmgMod": "100%?"
+}

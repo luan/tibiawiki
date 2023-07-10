@@ -1,0 +1,78 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "gloom wolves",
+    "hpDrainDmgMod": "100%?",
+    "walksthrough": "None.",
+    "hp": "200",
+    "usespells": "yes",
+    "occurrence": "Uncommon",
+    "bestiarytext": "The gloom wolf differs from an ordinary wolf in some respects. On the one hand it is significantly bigger and stronger, on the other hand it has inky black fur and glowing red eyes. Because of its appearance and its unusual strength there are numerous tales about the gloom wolf not being an ordinary animal but rather a kind of dire wolf or even a spawn of shadow. Some tell that it emerges from black magic or that usual wolves are transformed to gloom wolves by wicked spells. Others claim that gloom wolves come into being at places where many wolf packs were killed as a kind of avenging shadow creatures, similar to ghosts.",
+    "speed": "125",
+    "abilities": "{{Ability List| {{Melee|0-92+}}|{{Ability|plus-shaped [[Berserk]]|[[Bleeding|Bleeds]] you|element=bleed}}|{{Haste}} }}",
+    "pushobjects": "?",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "fireDmgMod": "105%",
+    "holyDmgMod": "105%",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "95",
+    "pushable": "no",
+    "implemented": "10.80",
+    "bestiaryclass": "Mammal",
+    "loot": [
+        {
+            "amount": "1-15",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Meat",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Ham",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Wolf Tooth Chain",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Gloom Wolf Fur",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Wolf Paw",
+            "rarity": "semi-rare"
+        }
+    ],
+    "walksaround": "Energy, Fire, Poison",
+    "exp": "70",
+    "creatureclass": "Mammals",
+    "earthDmgMod": "80%",
+    "mitigation": "0.51",
+    "physicalDmgMod": "100%",
+    "primarytype": "Canines",
+    "race_id": "1139",
+    "attacktype": "Melee",
+    "bestiarylevel": "Easy",
+    "senseinvis": "no",
+    "article": "a",
+    "actualname": "gloom wolf",
+    "illusionable": "yes",
+    "armor": "10",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "bestiaryname": "gloomwolf",
+    "name": "Gloom Wolf",
+    "isboss": "no",
+    "behaviour": "Chases its opponents.",
+    "location": "[[Tainted Caves]], [[Poacher Caves/Gloomy]].",
+    "iceDmgMod": "105%",
+    "strategy": "Treat them like [[War Wolf|War Wolves]].",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "90%"
+}

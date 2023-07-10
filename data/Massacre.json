@@ -1,0 +1,103 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "Massacre is the boss of the [[Juggernaut]]s. He was [[summon]]ed by a [[Customer Support]] member on the Christmas [[Test Server]] 2007.\n\n<gallery>\nGreatshield Guardia.PNG\n</gallery>",
+    "walksthrough": "Fire, Poison, Energy",
+    "hp": "32000",
+    "speed": "?",
+    "abilities": "{{Ability List|{{Melee|0-1700+}}|{{Ability|Throws [[boulder]]s|0-1100}}}}",
+    "pushobjects": "yes",
+    "healMod": "100%?",
+    "paraimmune": "yes",
+    "fireDmgMod": "0%",
+    "holyDmgMod": "100%",
+    "sounds": [
+        "HATE! HATE! KILL! KILL!",
+        "GRRAAARRRHH!",
+        "GRRRR!"
+    ],
+    "maxdmg": "{{Max Damage|physical=2800+}}",
+    "pushable": "no",
+    "implemented": "7.9",
+    "loot": [
+        {
+            "amount": "0-207",
+            "itemName": "Gold Coin"
+        },
+        {
+            "amount": "0-6",
+            "itemName": "Platinum Coin"
+        },
+        {
+            "amount": "0-9",
+            "itemName": "Meat"
+        },
+        {
+            "amount": "0-6",
+            "itemName": "Orichalcum Pearl"
+        },
+        {
+            "itemName": "Demonic Essence"
+        },
+        {
+            "itemName": "Big Bone"
+        },
+        {
+            "itemName": "Old Twig"
+        },
+        {
+            "itemName": "Soul Orb"
+        },
+        {
+            "itemName": "Great Health Potion"
+        },
+        {
+            "itemName": "Great Mana Potion"
+        },
+        {
+            "itemName": "Golden Armor"
+        },
+        {
+            "itemName": "Jewel Case",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Heavy Mace",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Berserker",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Great Shield",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Piece of Massacre's Shell",
+            "rarity": "always"
+        }
+    ],
+    "walksaround": "None",
+    "exp": "20000",
+    "creatureclass": "Demons",
+    "earthDmgMod": "99%?",
+    "physicalDmgMod": "100%",
+    "bosstiaryclass": "Nemesis",
+    "primarytype": "Demons",
+    "race_id": "305",
+    "senseinvis": "yes",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Massacre",
+    "isboss": "yes",
+    "behaviour": "Same as [[Juggernaut]].",
+    "location": "Spawns in [[Apocalypse]]'s throne room, in the [[Pits of Inferno]].",
+    "iceDmgMod": "90%",
+    "strategy": "Since he's just an edit of a [[Juggernaut]] treat him almost the same. As he is weak to [[Energy]], [[Sorcerer]]s should use [[Great Energy Beam]], [[Energy Wave]] or [[Rage of the Skies]], and of course [[Sudden Death Rune]]s. Paladins should use [[Assassin Star]]s. At least level 150 [[Knight]] with [[skills]] 80/90 or higher and as good equipment as possible is advised for a blocker. Alternatively, a [[Paladin]] with level 200 or higher. It's better to take a couple of [[Druid]]s for sio with them because Massacre deals hard combos.",
+    "energyDmgMod": "101%?",
+    "deathDmgMod": "110%"
+}

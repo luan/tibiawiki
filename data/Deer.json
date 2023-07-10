@@ -1,0 +1,72 @@
+{
+    "summon": "260",
+    "templateType": "Creature",
+    "notes": "Note that if summoned, the deer can attack other players on [[PvP]] worlds. Found in many places, they drop meat and ham.",
+    "walksthrough": "?",
+    "hp": "25",
+    "abilities": "{{Ability List|{{Melee|0-1}}}}",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "holyDmgMod": "100%",
+    "maxdmg": "{{Max Damage|physical=1}}",
+    "pushable": "yes",
+    "implemented": "4.0",
+    "loot": [
+        {
+            "amount": "1-4",
+            "itemName": "Meat",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Ham",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Antlers",
+            "rarity": "rare"
+        }
+    ],
+    "walksaround": "Fire, Energy, Poison",
+    "exp": "0",
+    "mitigation": "0.05",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "deer",
+    "illusionable": "yes",
+    "armor": "2",
+    "convince": "260",
+    "name": "Deer",
+    "isboss": "no",
+    "iceDmgMod": "100%",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "100%",
+    "plural": "deer",
+    "hpDrainDmgMod": "100%",
+    "usespells": "no",
+    "occurrence": "Common",
+    "bestiarytext": "Deer live in the forests and are nourished only by plants. They are absolutely peaceable and very shy. They provide a wealthy source of food, but you must be very quick or work in teams in order to hunt them down. Bows are effective weapons for that task.",
+    "speed": "98",
+    "pushobjects": "no",
+    "fireDmgMod": "100%",
+    "sounds": [
+        ""
+    ],
+    "runsat": "25",
+    "bestiaryclass": "Mammal",
+    "creatureclass": "Mammals",
+    "earthDmgMod": "100%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Ungulates",
+    "spawntype": [
+        "Regular",
+        "Unblockable"
+    ],
+    "race_id": "31",
+    "bestiarylevel": "Trivial",
+    "senseinvis": "no",
+    "drownDmgMod": "100%",
+    "bestiaryname": "deer",
+    "behaviour": "Deer are usually not offensive creatures.",
+    "location": "[[Darama]] ([[Devourer (Geography)|Devourer]], [[Kha'labal]]), in most grassy areas of [[Tibia]], also found in [[Rookgaard]] and on [[Tutorial Island]]. There are also 2 unreachable Deer found near [[Fiehonja]]'s [[protection zone]].",
+    "strategy": "Attack them using \"[[chase opponent]]\", as it can be rather difficult to catch these four legged creatures."
+}

@@ -1,0 +1,89 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "noxious ripptors",
+    "hpDrainDmgMod": "100%?",
+    "notes": "<gallery captionalign=\"center\" mode=\"nolines\">\nNoxious Ripptor Artwork.jpg|Official [[Creature Artwork]]\n</gallery>",
+    "hp": "22700",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "The Noxious Ripptor is a prime example for the gnompronean fauna. A primal beast and probably the ancestor of at least one surface creature and its subspecies. It's a feral predator whose aggressiveness supersedes that of all of its descendants. The Ripptors are known to attack everything that moves, even if just fed or even feeding. They seem to forget anything else as soon as a new target for their aggression shows up. This aggressive behaviour is seemingly randomly extended to members of their own species from time to time. Sudden attacks and fight between two or more Noxious Ripptors are quite common and differently to other such occurrences in the animal kingdom, might lead to the death or dismembering of the fighting creatures. In battle they show little regard to their own safety and no Noxious Ripptor will ever retreat from a fight once it begun. Only another distraction may draw a Ripptor from its current prey. The noxious part of their name comes from their disgusting ability to vomit balls of toxic residue that they can seemingly produce in abundance. They use it to shower their victims from afar while closing in as they obviously just want to ultimately rip and tear whatever they might attack.Curiously enough they seem to be drawn to the sound admitted by the so called Shrieking Cry-stals though it seemingly puts them into a kind of milder form of their common frenzy. So it's not uncommon for them to follow said creatures and the latter, also prone to aggressive attacks of their own, seem not to mind at all. Gnomish attempts to in turn influence Ripptors with their own resonating crystals lead to no reaction of the Ripptors at all. Further experiments revealed that the Ripptors are almost deaf and completely rely on sense like smell and sight for orientation. The next logical step, to widen the research on crystal vibrations have yet not lead to anything fruitful.",
+    "speed": "180",
+    "abilities": "{{Ability List}}",
+    "pushobjects": "yes",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "fireDmgMod": "100%",
+    "holyDmgMod": "110%",
+    "sounds": [
+        "Krccchht!"
+    ],
+    "pushable": "no",
+    "implemented": "12.90.12182",
+    "bestiaryclass": "Reptile",
+    "loot": [
+        {
+            "amount": "1-2",
+            "itemName": "Crystal Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Ripptor Scales",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Ripptor Claw",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Ultimate Health Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Serpent Sword",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Sacred Tree Amulet",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Muck Rod",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Terra Legs",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Wooden Spellbook",
+            "rarity": "rare"
+        }
+    ],
+    "exp": "13190",
+    "creatureclass": "Reptiles",
+    "earthDmgMod": "90%",
+    "mitigation": "2.19",
+    "physicalDmgMod": "80%",
+    "primarytype": "Dragons",
+    "attacktype": "Melee",
+    "race_id": "2276",
+    "bestiarylevel": "Challenging",
+    "history": "Its experience was decreased from 15,300 to 13,190 on {{OfficialNewsArchive|6875|July 28, 2022}}.",
+    "senseinvis": "yes",
+    "article": "a",
+    "actualname": "noxious ripptor",
+    "illusionable": "no",
+    "armor": "82",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "bestiaryname": "noxiousripptor",
+    "name": "Noxious Ripptor",
+    "isboss": "no",
+    "location": "[[Crystal Enigma]]",
+    "iceDmgMod": "110%",
+    "energyDmgMod": "90%",
+    "deathDmgMod": "110%"
+}

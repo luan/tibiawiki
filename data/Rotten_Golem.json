@@ -1,0 +1,124 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "It only drops a [[Bag You Desire]] for players with at least one of [[Goshnar's Taints]]. The more taints you have, the higher the chance. The Bag is always dropped inside a [[Reward Container]] so there's no risk of leaving it behind in the creature's corpse.",
+    "walksthrough": "Energy, Fire, Poison",
+    "hp": "28000",
+    "abilities": "{{Ability List|{{Melee|0-700}}\n |{{Ability|Smaller Earth Explosion|1100-1300|element=earth\n  |scene={{Scene|spell=3sqmchess2x2self|sprite_1=Large Plant Effect SE|sprite_2=Large Plant Effect NW|caster=Rotten Golem|casting_effect=Large Plant Effect NW}}}}\n |{{Ability|Energy Chain (Through nearby characters)|1000-1200|element=holy\n  |scene={{Scene|spell=chainspell|caster=Rotten Golem|effect=Yellow Chain Effect|look_direction=south|damage_effect=Holy Effect|edge_size=0}}}}\n |{{Ability|Holy Strike|1200-1400|element=holy\n  |scene={{Scene|spell=3sqmstrike|effect=Holy Cross Effect|caster=Rotten Golem|missile=Holy Missile (Appearance)|missile_direction=south-east|missile_distance=3/3}}}}\n |{{Ability|Shoots [[Leaf Star]]|[[Rooted|Roots]] you on place|element=rooted\n  |scene={{Scene|spell=3sqmstrike|effect=Rooting Effect|caster=Rotten Golem|missile=Leaf Star Missile|missile_direction=south-east|missile_distance=3/3}}}} }}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "holyDmgMod": "50%",
+    "maxdmg": "{{Max Damage|physical=700|earth=2500|holy=1400}}",
+    "pushable": "no",
+    "implemented": "12.40.9997",
+    "loot": [
+        {
+            "itemName": "Crystal Coin",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-5",
+            "itemName": "Great Spirit Potion",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Giant Shimmering Pearl (Green)",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Terra Amulet",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Giant Sword",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "War Axe",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Mercenary Sword",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Titan Axe",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Underworld Rod",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Sacred Tree Amulet",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Fur Armor",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Wood Cape",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Stone Skin Amulet",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Terra Mantle",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Rubber Cap",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Bag You Desire",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "None",
+    "exp": "17860",
+    "mitigation": "3.04",
+    "attacktype": "Melee",
+    "history": "It didn't walk over Fire and Energy Fields until [[Updates/12.64.10672|March 09, 2021]], when this behavior was changed.\n\nIts experience was decreased from 31,200 to 23,400 with [[Updates/12.50.10135|Update 12.50.10135]], on September 01, 2020. Its loot had the drop chance reduced by 10% on the same update.\n\nIts experience was reduced from 23,400 to 21,700 with the balancing changes on {{OfficialNewsArchive|6086|April 15, 2021}}. Its experience was further reduced to 19,000 with the [[Updates/12.66.10866|changes]] on {{OfficialNewsArchive|6159|June 01, 2021}}.\n\nOn {{OfficialNewsArchive|6555|February 01, 2022}}, its experience was decreased to 17,860 while its loot was decreased by 6%.",
+    "article": "a",
+    "actualname": "rotten golem",
+    "illusionable": "no",
+    "armor": "108",
+    "convince": "--",
+    "name": "Rotten Golem",
+    "isboss": "no",
+    "iceDmgMod": "100%",
+    "energyDmgMod": "115%",
+    "deathDmgMod": "120%",
+    "plural": "rotten golems",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "Though technically actual golems, there seems to be no creator connected to them. Now and then the golems could be observed appearing from seemingly nothingness. They show an intelligent design but seem to lack a specific purpose. The unknown creator, if existent at all, has yet to be identified. Some speculate this creator might be some avatar of rot and decay, somehow connected to the feared pale worm, that is still stuck in its infancy. The rotten golems are seen as the first, mostly purposeless actions of this enigmatic entity. Given their destructive and malignant nature this does not bode well for the nature of its nascent creator. The golems roam certain areas of Zarganash which are ripe with rot and decay, providing an ample and fertile ground for their creation. Their behaviour is aggressive and malignant, yet more sustained by a curious cruelty than any direct malevolence. While only spotted rarely in the past, sightings of rotten golems have become more and more common recently, though their appearance seems to be limited to certain areas that they prefer. A greater spread of the rotten golems is nothing to dismissed though, given that there seems to be an increase of their activity in general.\n\nFor now they seem confined to certain areas, where they attack intruders with almost childish excitement. When not facing an enemy they seem to relish in random destruction of environment that also has similarity to a curious playing child. It's not rare that they hurt each other or themselves in such a process. This never leads to infights, however, as the others simply join the destructive play. Despite not actually fighting they still might tear each other apart out of sheer curiosity. All this lead to speculation that the rotten golems might mature over time and gain greater consciousness and intelligence. But in over 200 years from the first reports of rotten golems, such specimens have not been observed.",
+    "speed": "200",
+    "pushobjects": "yes",
+    "fireDmgMod": "125%",
+    "sounds": [
+        ""
+    ],
+    "runsat": "0",
+    "bestiaryclass": "Construct",
+    "creatureclass": "Elementals",
+    "earthDmgMod": "60%",
+    "physicalDmgMod": "80%",
+    "primarytype": "Bio-Elementals",
+    "spawntype": [
+        "Regular",
+        "Unblockable"
+    ],
+    "race_id": "1939",
+    "bestiarylevel": "Challenging",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "rottengolem",
+    "location": "[[Rotten Wasteland]].",
+    "strategy": "They are the easier creature to deal with in the area since they can be avoided by shooters using [[Fire Bomb Rune]]s. Avoid staying near them if you're not the blocker as their AoE attacks have large ranges that will cause you high damage."
+}

@@ -1,0 +1,85 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "Zomba is the [[Lion]]s' boss and only spawns during [[Darashia_Raids#Lions_west_of_Darashia|the Darashian lion raid]]. The following message will appear when he spawns:\n{{Raid Message|00:00:00|Hungry lions scout the western Darashian desert. Travellers beware!|00:04:10|Packs of hungry lions stalk Darashia's western desert. Be on your guard!|00:05:00|Hear the roar of Zomba, king of the lions, roaming the Darashia desert!}}",
+    "walksthrough": "None.",
+    "hp": "300",
+    "speed": "?",
+    "abilities": "{{Ability List| {{Melee|0-70; causes [[Bleeding]] from 5}}|{{Haste}} }}",
+    "pushobjects": "yes",
+    "healMod": "100%?",
+    "paraimmune": "no",
+    "fireDmgMod": "100%",
+    "holyDmgMod": "80%?",
+    "sounds": [
+        "Groarrrr! Rwarrrr!"
+    ],
+    "maxdmg": "100?",
+    "pushable": "no",
+    "usedelements": "Physical",
+    "implemented": "10.10",
+    "loot": [
+        {
+            "amount": "1-29+",
+            "itemName": "Gold Coin"
+        },
+        {
+            "amount": "1+",
+            "itemName": "Platinum Coin"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Ham"
+        },
+        {
+            "amount": "1-4",
+            "itemName": "Meat"
+        },
+        {
+            "itemName": "Protection Amulet"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Lion's Mane"
+        },
+        {
+            "itemName": "Guardian Shield",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Life Ring",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Silver Raid Token",
+            "rarity": "rare"
+        }
+    ],
+    "walksaround": "Fire, Energy, Poison",
+    "exp": "300",
+    "creatureclass": "Mammals",
+    "earthDmgMod": "60%",
+    "physicalDmgMod": "100%?",
+    "bosstiaryclass": "Nemesis",
+    "primarytype": "Felines",
+    "spawntype": [
+        "Raid",
+        "Unique",
+        "Unblockable"
+    ],
+    "race_id": "956",
+    "senseinvis": "yes",
+    "illusionable": "yes",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Zomba",
+    "isboss": "yes",
+    "behaviour": "Behaves like a strong [[Lion]].",
+    "location": "West of [[Darashia]] (during raids).",
+    "iceDmgMod": "115%?",
+    "strategy": "He's not very challenging but is always accompanied by some [[Lion]]s.",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "108%?"
+}

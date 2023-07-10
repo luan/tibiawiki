@@ -1,0 +1,95 @@
+{
+    "summon": "450",
+    "templateType": "Creature",
+    "notes": "Bandits often appear in large groups along with other monsters.",
+    "walksthrough": "None",
+    "hp": "245",
+    "abilities": "{{Ability List|{{Melee|0-43}}}}",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "holyDmgMod": "100%",
+    "maxdmg": "{{Max Damage|physical=43}}",
+    "pushable": "Yes",
+    "usedelements": "Physical",
+    "implemented": "7.5",
+    "loot": [
+        {
+            "amount": "0-30",
+            "itemName": "Gold Coin"
+        },
+        {
+            "itemName": "Axe"
+        },
+        {
+            "itemName": "Mace",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Brass Shield",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Leather Legs",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "Tomato",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Chain Helmet",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Brass Armor",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Iron Helmet",
+            "rarity": "rare"
+        }
+    ],
+    "walksaround": "Fire, Energy, Poison",
+    "exp": "65",
+    "mitigation": "0.43",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "bandit",
+    "illusionable": "yes",
+    "armor": "11",
+    "convince": "450",
+    "name": "Bandit",
+    "isboss": "no",
+    "iceDmgMod": "100%",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "105%",
+    "plural": "bandits",
+    "hpDrainDmgMod": "100%",
+    "usespells": "no",
+    "occurrence": "Common",
+    "bestiarytext": "The tale of the noble bandit that takes from the rich and gives to the poor is far away from reality. The usual Bandit does not care whom he is robbing as long as he is able to gain something of value for himself. Actually in most cases, the poor are those that are worst prepared to defend themselves and so have become the preferred victims of bandits. Bandits are armed with a variety of weapons, their armour has usually been plundered somewhere. Always avoiding the city guards, they set up their hideouts in the wilderness, often close to streets where they are feared as highwaymen. Involved in all kinds of illegal activities, they can be found in the service of all kind of persons that want some dirty work performed. Some even stand in the service of some head Bandit who has managed to suppress some remote area or village.",
+    "speed": "90",
+    "pushobjects": "Yes",
+    "fireDmgMod": "100%",
+    "sounds": [
+        "Hand me your purse!",
+        "Your money or your life!"
+    ],
+    "bestiaryclass": "Human",
+    "creatureclass": "Humans",
+    "earthDmgMod": "100%",
+    "physicalDmgMod": "110%",
+    "primarytype": "Outlaws",
+    "spawntype": [
+        "Regular"
+    ],
+    "race_id": "223",
+    "bestiarylevel": "Easy",
+    "senseinvis": "no",
+    "drownDmgMod": "100%",
+    "bestiaryname": "bandit",
+    "behaviour": "Bandits run at 25 [[hp]]. They will occasionally charge targets; although this only occurs if another player is close to the Bandit.",
+    "location": "[[Dark Cathedral]], [[Tiquanda Bandit Caves]], [[Outlaw Camp]], mountain pass west of [[Ankrahmun]], [[Tyrsung]], [[Thais Bandit Cave]], [[Formorgar Mines]] and [[The Cave]]. Also summoned by [[Gamel]].",
+    "strategy": "Treat them as [[Wild Warrior]]s. They can be pushed. Try to use the enviroment to your advantage. Lower levels should try to face only one or two of them at a time. Three Bandits can knock out your shielding and damage reasonably well. When alone, Bandits are quite harmless, but with additional Bandits, [[Wild Warrior]]s, or similar monsters they can kill a low level with ease. Practice caution and always carry some healing items."
+}

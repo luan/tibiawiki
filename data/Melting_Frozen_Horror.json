@@ -1,0 +1,206 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "?",
+    "hpDrainDmgMod": "100%?",
+    "notes": "Also appears in a immortal form as the [[Solid Frozen Horror]].\n{{JSpoiler|Part of the [[Forgotten Knowledge Quest]].}}",
+    "isarenaboss": "no",
+    "walksthrough": "?",
+    "hp": "?",
+    "speed": "?",
+    "abilities": "{{Ability List| {{Melee|?}} }}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "115%",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        "Chrrrrrk! Chrrrk!"
+    ],
+    "maxdmg": "?",
+    "pushable": "no",
+    "implemented": "11.02.4128",
+    "cooldown": "20",
+    "loot": [
+        {
+            "amount": "0-200",
+            "itemName": "Gold Coin"
+        },
+        {
+            "amount": "0-30",
+            "itemName": "Platinum Coin"
+        },
+        {
+            "itemName": "Frosty Heart",
+            "rarity": "always"
+        },
+        {
+            "amount": "0-3",
+            "itemName": "Green Crystal Shard"
+        },
+        {
+            "amount": "0-3",
+            "itemName": "Violet Crystal Shard"
+        },
+        {
+            "amount": "0-10",
+            "itemName": "Small Amethyst"
+        },
+        {
+            "amount": "0-10",
+            "itemName": "Small Diamond"
+        },
+        {
+            "amount": "0-10",
+            "itemName": "Small Emerald"
+        },
+        {
+            "amount": "0-100",
+            "itemName": "Crystalline Arrow"
+        },
+        {
+            "amount": "0-5",
+            "itemName": "Ultimate Health Potion"
+        },
+        {
+            "amount": "0-5",
+            "itemName": "Great Spirit Potion"
+        },
+        {
+            "itemName": "Blue Gem"
+        },
+        {
+            "itemName": "Green Gem"
+        },
+        {
+            "itemName": "Violet Gem"
+        },
+        {
+            "itemName": "Crystal Mace"
+        },
+        {
+            "itemName": "Crystal Sword"
+        },
+        {
+            "itemName": "Crystalline Sword"
+        },
+        {
+            "itemName": "Crystalline Armor"
+        },
+        {
+            "amount": "100",
+            "itemName": "Crystalline Arrow"
+        },
+        {
+            "itemName": "Frozen Plate"
+        },
+        {
+            "itemName": "Ice Cube"
+        },
+        {
+            "itemName": "Ice Rapier"
+        },
+        {
+            "itemName": "Broken Key Ring"
+        },
+        {
+            "itemName": "Pair of Earmuffs"
+        },
+        {
+            "itemName": "Runic Ice Shield"
+        },
+        {
+            "itemName": "Shiny Blade"
+        },
+        {
+            "itemName": "Spark Sphere",
+            "rarity": "always"
+        },
+        {
+            "itemName": "Coal Eyes"
+        },
+        {
+            "itemName": "Ornate Crossbow"
+        },
+        {
+            "itemName": "Glowing Carrot",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Part of a Rune (Five)"
+        },
+        {
+            "itemName": "Silver Token"
+        },
+        {
+            "itemName": "Gold Token"
+        },
+        {
+            "itemName": "Great Mana Potion"
+        },
+        {
+            "itemName": "Crusader Helmet"
+        },
+        {
+            "itemName": "Shard"
+        },
+        {
+            "itemName": "Blue Crystal Shard"
+        },
+        {
+            "itemName": "Small Ruby"
+        },
+        {
+            "itemName": "Giant Shimmering Pearl"
+        },
+        {
+            "itemName": "Small Topaz"
+        },
+        {
+            "itemName": "Assassin Star"
+        },
+        {
+            "itemName": "Hammer of Wrath"
+        },
+        {
+            "itemName": "Red Gem"
+        },
+        {
+            "itemName": "Hailstorm Rod"
+        },
+        {
+            "itemName": "Yellow Gem"
+        },
+        {
+            "itemName": "Relic Sword"
+        },
+        {
+            "itemName": "Huge Chunk of Crude Iron"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "?",
+    "creatureclass": "Elementals",
+    "earthDmgMod": "100%",
+    "physicalDmgMod": "99%<?",
+    "bosstiaryclass": "Archfoe",
+    "primarytype": "Cryo-Elementals",
+    "spawntype": [
+        "Triggered"
+    ],
+    "senseinvis": "?",
+    "article": "a",
+    "actualname": "melting frozen horror",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Melting Frozen Horror",
+    "isboss": "yes",
+    "behaviour": "Unknown",
+    "location": "[[Formorgar Mines]], {{Mapper Coords|126.12|121.114|14|2|text=here}}.",
+    "iceDmgMod": "-100%",
+    "strategy": "For this fight you will need a knight level 150+, a paladin level 120+, a druid level 130+ and two sorcerers 160+. Whence coming inside the boss room you will notice two [[Icicle (Creature)|Icicles]] and a [[Dragon Egg]] between them. Shot [[Magic Wall]]s in front of these pillars, let the sorcerers use their strongest fire attacks on the Dragon Egg to get it to full HP. When reaching full HP, you can start SD'ing the boss. Keep the boss away from the egg, and keep the [[Frozen Minion]]s away from the boss, as their attacks as well as all [[Ice Damage]] heals it. \n\nContinue with this strategy untill the boss is dead.",
+    "energyDmgMod": "105%",
+    "deathDmgMod": "101%>?"
+}

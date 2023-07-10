@@ -1,0 +1,140 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "It's part of the {{Spoiler Section|Grimvale Quest|An Ancient Feud}}.",
+    "walksthrough": "?",
+    "hp": "6400",
+    "speed": "?",
+    "abilities": "{{Ability List\n |{{Melee|0-300}}\n |{{Ability|Blood Wave|0-400|element=physical\n  |scene={{Scene|spell=4sqmwave|effect=Blood Effect|look_direction=east}}}}\n |{{Ability|Poison Hit|300-450|element=poison\n  |scene={{Scene|spell=2sqmstrike|damage_effect=Poison Effect 1|missile=Poison Missile|missile_direction=south-east|missile_distance=2/2}}}}\n |{{Ability|Poison Ball|200-300|element=poison\n  |scene={{Scene|spell=1sqmballtarget|effect=Poison Effect 1|missile=Poison Arrow Missile|missile_direction=south-east|missile_distance=2/2}}}}\n}}",
+    "healMod": "100%?",
+    "paraimmune": "yes",
+    "secondarytype": "Geo-Elementals",
+    "fireDmgMod": "75%",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "?",
+    "pushable": "no",
+    "runsat": "0",
+    "implemented": "12.40.9997",
+    "cooldown": "20",
+    "loot": [
+        {
+            "itemName": "Utua's Poison"
+        },
+        {
+            "amount": "9",
+            "itemName": "Platinum Coin"
+        },
+        {
+            "amount": "3",
+            "itemName": "Ultimate Health Potion"
+        },
+        {
+            "amount": "3",
+            "itemName": "Scorpion Tail"
+        },
+        {
+            "itemName": "Raw Watermelon Tourmaline"
+        },
+        {
+            "itemName": "Glacier Kilt"
+        },
+        {
+            "itemName": "Crystal Mace"
+        },
+        {
+            "itemName": "Emerald Bangle"
+        },
+        {
+            "itemName": "Green Gem"
+        },
+        {
+            "itemName": "Mercenary Sword"
+        },
+        {
+            "itemName": "Warrior's Axe"
+        },
+        {
+            "itemName": "Coral Brooch"
+        },
+        {
+            "itemName": "Gemmed Figurine"
+        },
+        {
+            "itemName": "Gold Ingot"
+        },
+        {
+            "itemName": "Skull Helmet"
+        },
+        {
+            "itemName": "Spellweaver's Robe"
+        },
+        {
+            "itemName": "Red Silk Flower"
+        },
+        {
+            "itemName": "Magic Plate Armor"
+        },
+        {
+            "itemName": "Demon Shield"
+        },
+        {
+            "itemName": "Guardian Axe"
+        },
+        {
+            "itemName": "Lightning Legs"
+        },
+        {
+            "itemName": "Violet Gem"
+        },
+        {
+            "itemName": "Magma Legs"
+        },
+        {
+            "itemName": "Fist on a Stick"
+        },
+        {
+            "itemName": "Ring of Green Plasma"
+        },
+        {
+            "itemName": "Chaos Mace"
+        },
+        {
+            "itemName": "Noble Axe"
+        },
+        {
+            "itemName": "Mastermind Potion"
+        },
+        {
+            "itemName": "Glacier Robe"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "5100",
+    "creatureclass": "Invertebrates",
+    "earthDmgMod": "60%",
+    "physicalDmgMod": "100%?",
+    "bosstiaryclass": "Archfoe",
+    "primarytype": "Arachnids",
+    "spawntype": [
+        "Triggered"
+    ],
+    "race_id": "1984",
+    "senseinvis": "yes",
+    "actualname": "Utua Stone Sting",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Utua Stone Sting",
+    "isboss": "yes",
+    "behaviour": "Chases enemy.",
+    "location": "[[Lion Sanctum]].",
+    "iceDmgMod": "100%?",
+    "strategy": "'''[[Knight]]s''': Stay diagonal to avoid the [[Life Drain]] wave.<br>\n'''Other vocations''': Kite it, it's slow.",
+    "energyDmgMod": "85%",
+    "deathDmgMod": "100%?"
+}

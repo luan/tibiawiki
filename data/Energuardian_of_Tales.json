@@ -1,0 +1,121 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "walksthrough": "Energy",
+    "hp": "14000",
+    "abilities": "{{Ability List\n |{{Melee|0-500}}\n |{{Ability|Energy Strike|1200-1600|element=energy|scene={{Scene|spell=3sqmstrike|caster=Energuardian of Tales|effect=Purple Electricity Effect|missile=Energy Missile|missile_direction=south-east|missile_distance=3/3|background=slate_floor}}}}\n |{{Ability|Energy Berserk|650-800|element=energy|scene={{Scene|spell=3x3spell|caster=Energuardian of Tales|effect_on_caster=yes|effect=Energy Effect|background=slate_floor}}}}\n |{{Ability|Energy Ball|550-650|element=energy|scene={{Scene|spell=1sqmballtarget|caster=Energuardian of Tales|effect=Energy Effect|missile=Energy Ball Missile|missile_direction=south-east|missile_distance=2/2|background=slate_floor|edge_size=32}}}}\n |{{Ability|Electric Beam|650-850|element=energy|scene={{Scene|spell=6sqmbeam|caster=Energuardian of Tales|effect=Purple Electricity Effect|background=slate_floor|look_direction=east}}}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "holyDmgMod": "100%",
+    "maxdmg": "{{Max Damage|physical=500|energy=2450}}",
+    "pushable": "no",
+    "usedelements": "Energy",
+    "implemented": "11.80.7048",
+    "loot": [
+        {
+            "amount": "1-6",
+            "itemName": "Book Page",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-10",
+            "itemName": "Small Amethyst",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-4",
+            "itemName": "Glowing Rune",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-15",
+            "itemName": "Flash Arrow",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Lightning Legs",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Ultimate Health Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Ultimate Mana Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Wand of Starstorm",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Spellbook of Warding",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Lightning Pendant",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Might Ring",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Platinum Amulet",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Wand of Defiance",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Spellweaver's Robe",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Shockwave Amulet",
+            "rarity": "rare"
+        }
+    ],
+    "walksaround": "Poison, Fire",
+    "exp": "11361",
+    "mitigation": "1.94",
+    "attacktype": "Melee",
+    "history": "Its experience was decreased from 13,500 to 11,475 with the first batch of changes of [[Updates/12.31|Update 12.31]]. It was later increased to 12,623 with the seventh batch of changes. Then, it was decreased again to 11,361 with [[Updates/12.50.10135|Update 12.50.10135]].",
+    "article": "an",
+    "actualname": "energuardian of tales",
+    "illusionable": "no",
+    "armor": "77",
+    "convince": "--",
+    "name": "Energuardian of Tales",
+    "isboss": "no",
+    "iceDmgMod": "100%",
+    "energyDmgMod": "0%",
+    "deathDmgMod": "100%",
+    "plural": "energuardians of tales",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "The energuardians of tales serve as a kind of head librarians but also messengers of Zathroth, the good of the secrets of dark magic. While some of their race still serves his brother Uman, who had a hand in their creation, a good part of them defected to the service of Zathroth when the world was still young. Seekers and preservers of knowledge to the core of their very essence is bound to the principles of Uman-Zathroth. The energuardians are extremely intelligent, with several independent brain spheres that by choice can work separately or in unison. They are constantly occupied with several projects at once and only a few spheres of them sleep at the same time. Even in face of mortal threat they are usually distracted by 'more urgent' matters. Still dangerous and powerful, it's hard to tell what potential an energuardian could unleash, if he'd ever focussed on a single issue like a fight.<br />\nThough in general very reasonable, the energuardians are also devout followers of Zathroth and very strict in heeding their obligations. They are aware of their status, power and knowledge and behave extremely arrogant and dismissive towards other races and underlings.<br />\nEach of them possesses a unique personal book that is no book at all but rather a scrying device which can display the contents of any other book it memorised and access books stored in the personal book of another energuardian within a certain radius. Each of those books is connected to the books of each other guardian and through willpower they can send written messages to the books of other energuardians. This form of communication has become so popular to their kind, that it completely replaced spoken language within their whole race. Only reluctantly they use their underdeveloped speech organs to communicate with lesser creatures.",
+    "speed": "210",
+    "pushobjects": "yes",
+    "fireDmgMod": "100%",
+    "sounds": [
+        "Die, enervating mortal!",
+        "Let the energy flow!"
+    ],
+    "runsat": "0",
+    "bestiaryclass": "Magical",
+    "creatureclass": "Demons",
+    "earthDmgMod": "112%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Demons",
+    "race_id": "1666",
+    "bestiarylevel": "Hard",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "energuardianoftales",
+    "location": "[[The Secret Library]] energy section.",
+    "strategy": "The Energuardian of Tales can deal massive damage to its target when it combos its attacks, specially the Energy Strike. When combined with other Energuardians, these combos can be fatal even to high level players. It's recommended to wear a lot of Energy Damage protection when fighting them. Holy Damage protection is also recommended because of the other creatures they spawn with."
+}

@@ -1,0 +1,150 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "walksthrough": "Fire, Energy, Poison",
+    "hp": "9000",
+    "lightcolor": "71",
+    "occurrence": "Common",
+    "bestiarytext": "The varnished diremaws are seemingly a special breed of diremaws. Several gnomish reports suggest that this strain of diremaws was created on purpose, as veritable farms of varnished diremaws were encountered by gnomish strike forces. Though there's no denying, that this breed is more formidable then their predecessor, it raises the question why Those Below with all the creatures at their disposal feel a need to specifically breed and groom this creature. It's also unknown who might be the mastermind behind such breeding, as most actions of Those Below are driven by a seemingly alien logic, the breeding of sub species seems an almost mundane trait to associate them with. Some theories suggest that the varnished diremaws have some hidden properties that are yet unknown. Some suggest they are possibly more easy to control or serve as the ideal nourishment of some bigger, meaner creature but such theories are highly speculative at best. Others point out that the taste of warm red blood drives them into a frenzy, but this seems a weak argument to justify such efforts. The assumption that the varnished diremaws can track every prey once they tasted its blood are based on no valid observations as there is no evidence that any diremaw was ever used in that way. Even if that would be the case such a trait wouldn't warrant the aforementioned efforts and number of bred tarnished diremaws. The only obvious fact is, that they are mixed into more and more hordes and bolster their ranks by significant numbers. There are no reported cases of packs that only consist tarnished diremaws. This might be a coincidence or another clue for a sinister, yet unknown purpose to those creatures.<br/>In the hordes they seem to be one of the troops that are more easy to control and guide, though this means little, considering the sheer viciousness of the creatures the hordes consist of.<br/>While the tarnished diremaws are a foe only encountered more recently, their spread in the ranks of Those Below is increasing steadily and significantly.",
+    "speed": "120",
+    "abilities": "{{Ability List| {{Melee|0-400+}}|{{Ability|[[Avalanche]]|700+|element=?}}|{{Ability|Holy [[Berserk]]|730+|element=holy}}|{{Ability|[[Ice Strike]]|800+|element=ice}} }}",
+    "healMod": "100%",
+    "pushobjects": "yes",
+    "paraimmune": "yes",
+    "fireDmgMod": "100%",
+    "holyDmgMod": "100%",
+    "sounds": [],
+    "maxdmg": "{{Max Damage|physical=400+|ice=1500+|holy=730+}}",
+    "pushable": "no",
+    "usedelements": "?",
+    "lightradius": "3",
+    "implemented": "12.70.10953",
+    "bestiaryclass": "Vermin",
+    "loot": [
+        {
+            "amount": "1-?",
+            "itemName": "Platinum Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Terra Rod",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Emerald Bangle",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Small Diamond",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Small Emerald",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Green Gem",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Red Gem",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Hailstorm Rod",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Violet Crystal Shard",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Green Crystal Shard",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Green Crystal Splinter",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Brown Crystal Splinter",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Cyan Crystal Fragment",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Varnished Diremaw Brainpan",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Varnished Diremaw Legs",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Glacier Shoes",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Glacier Kilt",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Crown Shield",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Wood Cape",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Diamond Sceptre",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Haunted Blade",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Spellbook of Warding",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Springsprout Rod",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Wand of Starstorm",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Fur Armor",
+            "rarity": "semi-rare"
+        }
+    ],
+    "walksaround": "None",
+    "exp": "5900",
+    "creatureclass": "Invertebrates",
+    "earthDmgMod": "105%",
+    "mitigation": "1.60",
+    "physicalDmgMod": "105%",
+    "primarytype": "Insects",
+    "race_id": "2090",
+    "bestiarylevel": "Hard",
+    "history": "On {{OfficialNewsArchive|6555|February 01, 2022}}, its loot was increased by 17%.",
+    "senseinvis": "yes",
+    "article": "a",
+    "actualname": "varnished diremaw",
+    "illusionable": "no",
+    "armor": "50",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "bestiaryname": "varnisheddiremaw",
+    "name": "Varnished Diremaw",
+    "location": "[[Dwelling of the Forgotten]].",
+    "iceDmgMod": "95%",
+    "energyDmgMod": "85%",
+    "deathDmgMod": "100%"
+}

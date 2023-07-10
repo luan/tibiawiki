@@ -1,0 +1,49 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "gnome pack crawler",
+    "hpDrainDmgMod": "100%?",
+    "notes": "{{JSpoiler|Part of the [[Dangerous Depths Quest]].}}",
+    "isarenaboss": "no",
+    "walksthrough": "?",
+    "hp": "?",
+    "speed": "?",
+    "abilities": "{{Ability List|}}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "100%?",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "?",
+    "pushable": "?",
+    "implemented": "11.50.6055",
+    "loot": [
+        {
+            "itemName": "Gold Coin"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "?",
+    "creatureclass": "Elementals",
+    "earthDmgMod": "100%?",
+    "physicalDmgMod": "100%?",
+    "primarytype": "Magma-Elementals",
+    "senseinvis": "no",
+    "article": "a",
+    "actualname": "gnome pack crawler",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Gnome Pack Crawler",
+    "isboss": "no",
+    "behaviour": "It will run away from you, but it doesn't attack.",
+    "location": "[[Gnome Deep Hub]].",
+    "iceDmgMod": "100%?",
+    "strategy": "Guide it to the dungeon's entrance to rescue it.",
+    "energyDmgMod": "100%?",
+    "deathDmgMod": "100%?"
+}

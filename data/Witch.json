@@ -1,0 +1,122 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "Witches are women with strong magical abilities. They are frequently found with [[Amazon]]s and [[Valkyrie]]s, and have become very involved with [[Voodoo Cult|cult activities]] on the [[Shattered Isles]]. Some people believe that Witches are leaders of the amazons and valkyries. Although Witches only use fire attacks, they are not immune to fire.",
+    "walksthrough": "Energy",
+    "hp": "300",
+    "abilities": "{{Ability List\n |{{Melee|0-26}}\n |{{Ability|Fire Missile|25-55|fire\n  |scene={{Scene|spell=7sqmstrike|caster=witch|missile=Fire Missile|missile_direction=south-east|missile_distance=7/7}}}}\n |{{Ability|Creates Fire Fields|element=fire field\n  |scene={{Scene|spell=7sqmstrike|effect=Fire|caster=witch|missile=Fire Missile|missile_direction=south-east|missile_distance=7/7}}}}\n |{{Outfit|yes|Green Frog}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "secondarytype": "Amazons",
+    "holyDmgMod": "100%",
+    "maxdmg": "{{Max Damage|physical=20|fire=85}}",
+    "pushable": "No",
+    "implemented": "6.0",
+    "loot": [
+        {
+            "amount": "0-40",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "amount": "0-8",
+            "itemName": "Cookie",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Star Herb",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Witch Broom",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Wolf Tooth Chain",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Leather Boots",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Cape",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Garlic Necklace",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Sickle",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Coat",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Bag of Apple Slices",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Necrotic Rod",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Silver Dagger",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Witch Hat",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Stuffed Toad",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Fire, Poison",
+    "exp": "120",
+    "mitigation": "0.30",
+    "attacktype": "Distance",
+    "history": "Although the sprites for witch were implemented on [[Updates/6.0|Update 6.0]], the first known spawns of this creature were probably only implemented with [[Green Claw Swamp]] on [[Updates/6.1|Update 6.1]].",
+    "article": "a",
+    "actualname": "witch",
+    "illusionable": "yes",
+    "armor": "8",
+    "convince": "--",
+    "name": "Witch",
+    "isboss": "no",
+    "iceDmgMod": "100%",
+    "energyDmgMod": "0%",
+    "deathDmgMod": "105%",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "Witches are magically skilled women that usually live deep in the forests and swamps of Tibia. There they collect herbs and other ingredients, e.g. parts of dead animals, from which they brew potions in their large iron cauldrons. Rumour has it that they can fly using their brooms. Most of them are quite malicious and short-tempered and attack adventurers by casting fireballs at them.",
+    "speed": "102",
+    "pushobjects": "Yes",
+    "fireDmgMod": "100%",
+    "sounds": [
+        "Herba budinia ex!",
+        "Horax Pokti!",
+        "Hihihihi!"
+    ],
+    "bestiaryclass": "Human",
+    "creatureclass": "Humans",
+    "earthDmgMod": "80%",
+    "physicalDmgMod": "105%",
+    "primarytype": "Sorcerers",
+    "spawntype": [
+        "Regular"
+    ],
+    "race_id": "54",
+    "bestiarylevel": "Easy",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "witch",
+    "behaviour": "Witches always try to stay away from the attacker, so they can burn you with their powerful fire missiles at a distance. They can rarely transform you into a [[Green Frog]].",
+    "location": "[[Vandura]], west of the [[Dwarf Mines]] in a small house ({{Mapper Coords|126.135|125.1|7|3|text=here}}), [[Amazon Tower]] north of [[Carlin]], [[Triangle Tower]], [[Temple of Xayepocax]], [[Green Claw Swamp]] and [[Amazon Camp (Venore)]], [[Dark Cathedral]] (2 levels underground), [[Goroma]] Volcano (underground), west from [[Necromant House]], [[Mammoth Shearing Factory]], [[Trade Quarter]] in [[Yalahar]], [[The Witches' Cliff]] (only accessible during a [[The Inquisition Quest|quest]]).",
+    "strategy": "Be careful because they can attack you even before you see them. If you are alone, do not attack more than one witch, since they can damage you fairly fast.<br />\n'''Mages''': would best use either [[Wand of Inferno]] or [[Necrotic Rod]], otherwise either using [[Explosion]] or [[Great Fireball]] depending on how many there are. If you are planning to hunt them, you can summon a [[Fire Elemental]] as a mage.<br /> \n'''Knights''': should just run up to them and kill them. Try to block her in a corner with other objects or monsters, so she can't run away. A knight can kill a Witch with a [[Melee]] [[Skills|Skill]] of 55 very easily, but just watch out for their fire fields, as they can become a pain if killing more than one witch at a time. If you block them in a corner, they will usually stop spamming their fire attacks and use their weak melee instead.<br />\n'''Paladins''': should stand still and kill them from distance."
+}

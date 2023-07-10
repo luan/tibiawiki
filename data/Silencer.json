@@ -1,0 +1,125 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "walksthrough": "Poison",
+    "hp": "5400",
+    "abilities": "{{Ability List\n |{{Melee|0-350+|poison=30}}\n |{{Ability|[[Mana Drain]]|0-110+|element=manadrain}}\n |{{Debuff2|Thunderstorm missile|magic=yes|value=30-80%|duration=6}}\n |{{Haste|[[Strong Haste]]}}\n |{{Healing}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "secondarytype": "Dragons",
+    "holyDmgMod": "125%",
+    "maxdmg": "300+",
+    "pushable": "no",
+    "implemented": "10.30",
+    "loot": [
+        {
+            "amount": "1-100",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-8",
+            "itemName": "Platinum Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Silencer Claws",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-10",
+            "itemName": "Assassin Star",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Silencer Resonating Chamber",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Dark Shield",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Glorious Axe",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Titan Axe",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Haunted Blade",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Stealth Ring",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Terra Legs",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Diamond Sceptre",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Terra Boots",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Shadow Sceptre",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Boots of Haste",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Cluster of Solace",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Fire, Energy",
+    "exp": "5100",
+    "mitigation": "1.82",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "silencer",
+    "illusionable": "no",
+    "armor": "71",
+    "convince": "--",
+    "name": "Silencer",
+    "isboss": "no",
+    "iceDmgMod": "85%",
+    "energyDmgMod": "85%",
+    "deathDmgMod": "35%",
+    "plural": "silencers",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "The silencers are roaming in packs and will hunt down everything which is too loud for their sensitive ears and does not belong to their kin. Of course, only if their victim is smaller or weaker. It is rumoured that they actually communicate with each other. They seem to call other silencers for help or even organise themselves in some way. However, if they are aggravated in any way, they are extremely tough and unpredictable adversaries.",
+    "speed": "235",
+    "pushobjects": "yes",
+    "fireDmgMod": "70%",
+    "sounds": [
+        "Prrrroooaaaah!!! PRROAAAH!!",
+        "PRRRROOOOOAAAAAHHHH!!!",
+        "HUUUSSSSSSSSH!!",
+        "Hussssssh!!"
+    ],
+    "runsat": "0",
+    "bestiaryclass": "Magical",
+    "creatureclass": "Demons",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "95%",
+    "primarytype": "Dreamhaunters",
+    "race_id": "1014",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "silencer",
+    "behaviour": "Retargets rarely. Has a pretty high speed.",
+    "location": "All over the [[Roshamuul]] surface and [[Nightmare Isles]].",
+    "strategy": "A largely melee-based creature, its most dangerous feature is the [[Magic Level]] debuff missile. Mages, especially, might want to avoid hunting these solo. Be careful because their [[Magic Level]] debuff (and thus the reduced ability to heal) coupled with comboes from other monsters can easily kill a level 150. Can be trapped easily by field runes."
+}

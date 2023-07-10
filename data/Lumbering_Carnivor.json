@@ -1,0 +1,123 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "walksthrough": "Energy, Poison",
+    "hp": "2600",
+    "abilities": "{{Ability List| {{Melee|0-300?}} }}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "holyDmgMod": "100%",
+    "maxdmg": "700+",
+    "pushable": "no",
+    "implemented": "12.00.7695",
+    "loot": [
+        {
+            "amount": "1-3",
+            "itemName": "Platinum Coin",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "Blue Glass Plate",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Sword",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Axe",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Ice Rapier",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Giant Shimmering Pearl (Brown)",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Violet Gem",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Green Gem",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Two Handed Sword",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Glorious Axe",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Green Crystal Shard",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Blue Gem",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Blue Robe",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Fur Armor",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Focus Cape",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Fire",
+    "exp": "1452",
+    "mitigation": "1.82",
+    "attacktype": "Melee",
+    "history": "Its experience was decreased from 2200 to 1100 with the first batch of changes of [[Updates/12.31|Update 12.31]]. It was later increased to 1320 and 1452 with the fourth and seventh batches of changes, respectively.",
+    "article": "a",
+    "actualname": "lumbering carnivor",
+    "illusionable": "no",
+    "armor": "65",
+    "convince": "--",
+    "name": "Lumbering Carnivor",
+    "isboss": "no",
+    "iceDmgMod": "100%",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "100%",
+    "plural": "lumbering carnivors",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "lightcolor": "107",
+    "occurrence": "Common",
+    "bestiarytext": "This species as the name already says exclusively feeds on raw meat. The very special way of digesting its prey leads to very unique products a hunter can obtain. The items of interest are little glass plates that arise in the so called process of glassification. They are coveted materials for craftsmanship.<br />\nDuring their development, they go through various stages which ultimately manifest in specific habits and appearance.<br /><br />\nThe early stage of development is called lumbering carnivor. At that point this species is not very robust and its shell is still quite weak. Nevertheless it is already able to hurt careless adventurers.",
+    "speed": "200",
+    "pushobjects": "yes",
+    "fireDmgMod": "140%",
+    "sounds": [
+        ""
+    ],
+    "lightradius": "4",
+    "runsat": "0",
+    "bestiaryclass": "Magical",
+    "creatureclass": "Mammals",
+    "earthDmgMod": "100%",
+    "physicalDmgMod": "80%",
+    "primarytype": "Hyaenids",
+    "spawntype": [
+        "Regular",
+        "Unblockable"
+    ],
+    "race_id": "1721",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "lumberingcarnivor",
+    "behaviour": "Attacks in close range.",
+    "location": "[[Carnivora's Rocks]].",
+    "strategy": "Be careful when fighting them as they usually come in large packs and followed by the other stronger Carnivors."
+}

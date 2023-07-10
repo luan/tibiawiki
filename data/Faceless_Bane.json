@@ -1,0 +1,185 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "{{JSpoiler|Part of {{Spoiler Section|The Dream Courts Quest|Haunted House}}.}}",
+    "walksthrough": "Energy, Poison",
+    "hp": "17000",
+    "speed": "?",
+    "abilities": "{{Ability List| {{Melee|0-500}}|{{Ability|[[Energy Strike]]|300-600|element=energy}}|{{Ability|[[Death Strike]]|300-900|element=death}}|{{Ability|[[Life Drain]] [[Explosion Beam]]|500-800|element=lifedrain}}|{{Ability|Summons a [[Ripper Spectre]], a [[Gazer Spectre]] and a [[Burster Spectre]] at once|element=summon}} }}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "120%",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "2000 (With summons ~3500)",
+    "pushable": "?",
+    "usedelements": "Death",
+    "runsat": "0",
+    "cooldown": "20",
+    "implemented": "12.00.7695",
+    "loot": [
+        {
+            "amount": "0-10",
+            "itemName": "Platinum Coin",
+            "rarity": "common"
+        },
+        {
+            "amount": "0-3",
+            "itemName": "Small Sapphire",
+            "rarity": "common"
+        },
+        {
+            "amount": "0-3",
+            "itemName": "Spear",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Combat Knife",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Knife",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Dagger",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Crowbar",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Snakebite Rod",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Moonlight Rod",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Ice Rapier",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Necrotic Rod",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Terra Rod",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Hailstorm Rod",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Life Crystal",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Cyan Crystal Fragment",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Violet Crystal Shard",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Violet Gem",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Book Backpack",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Ectoplasmic Shield",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Spirit Guide",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Enchanted Pendulet",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Red Gem"
+        },
+        {
+            "itemName": "Underworld Rod"
+        },
+        {
+            "itemName": "Green Crystal Shard"
+        },
+        {
+            "itemName": "Red Crystal Fragment"
+        },
+        {
+            "itemName": "Twin Hooks"
+        },
+        {
+            "itemName": "Gold Ingot"
+        },
+        {
+            "itemName": "Lightning Pendant"
+        },
+        {
+            "itemName": "Blue Gem"
+        },
+        {
+            "itemName": "Giant Shimmering Pearl"
+        },
+        {
+            "itemName": "Hexagonal Ruby"
+        },
+        {
+            "itemName": "Dream Blossom Staff"
+        },
+        {
+            "itemName": "Green Gem"
+        },
+        {
+            "itemName": "Yellow Gem"
+        },
+        {
+            "itemName": "Flash Arrow"
+        },
+        {
+            "itemName": "Strange Talisman"
+        },
+        {
+            "itemName": "Springsprout Rod"
+        }
+    ],
+    "walksaround": "Fire",
+    "exp": "14000",
+    "creatureclass": "The Undead",
+    "earthDmgMod": "100%",
+    "physicalDmgMod": "80%?",
+    "bosstiaryclass": "Archfoe",
+    "primarytype": "Ghosts",
+    "spawntype": [
+        "Triggered"
+    ],
+    "race_id": "1727",
+    "senseinvis": "?",
+    "actualname": "Faceless Bane",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Faceless Bane",
+    "isboss": "yes",
+    "location": "[[Buried Cathedral]].",
+    "iceDmgMod": "100%?",
+    "strategy": "Avoid using [[Death Damage]] at all costs since it will reflect it back to you and Faceless Bane is strong to it. For the blocker it is recommended to use energy and death protection because in almost every turn it uses a combo of energy and death spells. Trap the boss inside the room and don't worry about its summons because they will be summoned and stacked on boss. Druids and sorcerers should use fire, ice, earth and energy spells.",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "50%?"
+}

@@ -1,0 +1,137 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "walksthrough": "None",
+    "hp": "2000",
+    "abilities": "{{Ability List| {{Melee|0-120+}}|{{Ability|[[Death Damage|Death Wave]]|0-332+|element=death}}|{{Ability|[[Earth Damage|Earth Missile]]|0-120+|element=earth}}|{{Ability|[[Energy Strike]] on itself|element=energy}}|{{Healing|range=0-86+}} }}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "holyDmgMod": "70%",
+    "maxdmg": "452+",
+    "pushable": "no",
+    "implemented": "11.02.4128",
+    "loot": [
+        {
+            "amount": "1-137",
+            "itemName": "Gold Coin",
+            "rarity": "always"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "Platinum Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Strong Mana Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Skull (Item)",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Dark Mushroom",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "Cave Turnip",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Cracked Alabaster Vase",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Rhino Horn Carving",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Tarnished Rhino Figurine",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Ancient Coin",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Waterskin",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Black Pearl",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Small Ruby",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Wand of Decay",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Stone Skin Amulet",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Ring of Healing",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Rusted Helmet",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Gemmed Figurine",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Prismatic Quartz",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Wand of Voodoo",
+            "rarity": "rare"
+        }
+    ],
+    "walksaround": "Fire, Poison, Energy",
+    "exp": "1650",
+    "mitigation": "1.18",
+    "attacktype": "Distance",
+    "article": "a",
+    "actualname": "shaper matriarch",
+    "illusionable": "no",
+    "armor": "40",
+    "convince": "--",
+    "name": "Shaper Matriarch",
+    "isboss": "no",
+    "iceDmgMod": "80%",
+    "energyDmgMod": "105%",
+    "deathDmgMod": "85%",
+    "plural": "shapers matriarch",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "As a subterranean race spread all over the world, the Shapers had become subject to gnomish espionage. Although the gnomes claim to have no useful knowledge about the ancient Shaper wisdom and technology, they were willing to share a great deal of their information about the Shapers' social structures.<br>The Shaper Matriarch is a creature of vile cunning. They are the last keepers of oral knowledge from a time of fortune long past. They harbour an immense hatred for other creatures because they blame them for the downfall of their race.<br>In their twisted view of the world, everything belonged to their race once. For this reason, it is only logical for them to take back what they believe is rightfully theirs. Mercilessly they punish every other race for their losses. They enjoy trapping and torturing other creatures. Very often they can be seen guiding small herds of Shaper followers to lay ambushes and place traps around their lairs.<br>The Shaper Matriarchs are able to use ancient artefacts and fractures of once complicated and potent spells to harm their opponents. However, they lack true magical abilities, or even a deeper understanding of what they are doing.<br>Their status amongst the Shapers is not only based on their knowledge, but also on the fact that females are a rare sight there. What is more, their ability to 'give birth' is the foundation of their influence over the simple minds of their kin.<br>They are often the initiators and leaders of ancient rituals which are passed from matriarch to matriarch. However, with the passing of ages the original meaning of these rituals has been lost.<br>Even though the Shaper Matriarchs are theoretically intelligent enough to converse with other races, they show no interest in doing so. Their language is unfamiliar to any known species. Although the Shapers used to interact with other races in the past, the Shaper Matriarchs are either unable or unwilling to speak the common tongue.<br>A single Shaper Matriarch usually oversees a 'family' of roughly a dozen male Shapers. The Shaper Matriarchs are responsible for the distribution of work and resources in their groups. All males belong to her, however, the trading of males between matriarchs seems common. In less populated areas, the Shaper Matriarchs occasionally interact with each other. Usually, however, the herds peacefully tend to themselves.<br>In highly populated settlements, the Shaper Matriarchs organise in a coven which is overseen by a grand matriarch. The matriarchs use the coven to share their wisdom and to make decisions concerning the fate of their colony. Since the Shapers hold age in high regard, the grand matriarch is usually the oldest of her kin.<br>While the lifespan of male Shapers is usually shorter than the one of humans, matriarchs can easily reach 100 years of age. They stay fertile until the day they die.<br>There are rumours about a grand matriarch, hidden somewhere in an almost intact Shaper structure, who even oversees the other grand matriarchs. However, as long as this has not been proven, it can only be considered a myth.",
+    "speed": "130",
+    "pushobjects": "yes",
+    "fireDmgMod": "100%",
+    "sounds": [
+        "Tar Marra Zik Tazz!"
+    ],
+    "runsat": "30",
+    "bestiaryclass": "Humanoid",
+    "creatureclass": "Humanoids",
+    "earthDmgMod": "60%",
+    "physicalDmgMod": "105%",
+    "primarytype": "Astral Shapers",
+    "race_id": "1394",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "shapermatriarch",
+    "behaviour": "Keeps a distance of 4 squares.",
+    "location": "[[Old Masonry]], [[Astral Shaper Ruins]], small dungeon under the [[Formorgar Mines]] {{Mapper Coords|126.57|121.78|14|4|text=here}}.",
+    "strategy": "Try to avoid her wave, she hits hard with it."
+}

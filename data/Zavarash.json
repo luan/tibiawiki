@@ -1,0 +1,151 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%",
+    "notes": "Seems to be weaker than other prison bosses.",
+    "walksthrough": "?",
+    "hp": "35000",
+    "speed": "?",
+    "abilities": "{{Ability List\n |{{Melee|0-600}}\n |{{Ability|[[Blood Ball|Massive Blood Explosion]]|0-300+|element=?}}\n |{{Ability|Heavy Magic Missile|0-350|element=energy}}\n |{{Ability|[[Paralyze]]|element=paralyze}}\n |{{Ability|[[Berserk]]|0-400|element=?}}\n |{{Ability|[[Music Wave]]|0-?|element=?}}\n |{{Ability|[[Energy Beam]]|0-?|element=energy}}\n |{{Healing|range=400-600}}\n |{{Ability|[[Invisibility]]|element=invisible}}\n |{{Summon|Dark Torturer|2}}\n}}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "secondarytype": "Demon Lords",
+    "fireDmgMod": "70%",
+    "holyDmgMod": "120%",
+    "sounds": [
+        "Harrr, Harrr!"
+    ],
+    "maxdmg": "?",
+    "pushable": "?",
+    "implemented": "10.30",
+    "loot": [
+        {
+            "amount": "0-197",
+            "itemName": "Gold Coin"
+        },
+        {
+            "amount": "0-50",
+            "itemName": "Platinum Coin"
+        },
+        {
+            "amount": "0-8",
+            "itemName": "Violet Crystal Shard"
+        },
+        {
+            "amount": "0-8",
+            "itemName": "Green Crystal Shard"
+        },
+        {
+            "amount": "0-7",
+            "itemName": "Blue Crystal Shard"
+        },
+        {
+            "itemName": "Demon Horn"
+        },
+        {
+            "itemName": "Demonic Essence"
+        },
+        {
+            "amount": "0-10",
+            "itemName": "Great Mana Potion"
+        },
+        {
+            "amount": "0-10",
+            "itemName": "Ultimate Health Potion"
+        },
+        {
+            "itemName": "Unrealized Dream"
+        },
+        {
+            "amount": "0-10",
+            "itemName": "Great Spirit Potion"
+        },
+        {
+            "itemName": "Cluster of Solace"
+        },
+        {
+            "itemName": "Giant Shimmering Pearl"
+        },
+        {
+            "itemName": "Gold Ingot"
+        },
+        {
+            "itemName": "Dream Warden Mask"
+        },
+        {
+            "itemName": "Crown Shield"
+        },
+        {
+            "itemName": "Blue Gem"
+        },
+        {
+            "itemName": "Guardian Halberd"
+        },
+        {
+            "itemName": "Green Gem"
+        },
+        {
+            "itemName": "Diamond Sceptre"
+        },
+        {
+            "itemName": "Guardian Shield"
+        },
+        {
+            "itemName": "Demon Shield"
+        },
+        {
+            "itemName": "Heavy Mace"
+        },
+        {
+            "itemName": "Onyx Flail"
+        },
+        {
+            "itemName": "Paladin Armor"
+        },
+        {
+            "itemName": "Mastermind Shield"
+        },
+        {
+            "itemName": "Demonbone"
+        },
+        {
+            "itemName": "Bonebreaker"
+        },
+        {
+            "itemName": "Lavos Armor",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Obsidian Truncheon",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Skullcracker Armor"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "21000",
+    "creatureclass": "Demons",
+    "earthDmgMod": "60%",
+    "physicalDmgMod": "90%?",
+    "primarytype": "Dreamhaunters",
+    "spawntype": [
+        "Unique",
+        "Triggered"
+    ],
+    "race_id": "1024",
+    "senseinvis": "?",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%",
+    "convince": "--",
+    "name": "Zavarash",
+    "isboss": "yes",
+    "behaviour": "Unknown",
+    "location": "[[Roshamuul Prison]]",
+    "iceDmgMod": "60%",
+    "strategy": "Do not waste time on hitting his clone which is invulnerable to any kind of damage. Use an [[Energy Bomb Rune]] underneath you to avoid the [[Dark Torturer]]s. Stay Diagonal to avoid beams and waves, and unless you are a [[Knight]], stay out of his melee range as well. If you put any DOT (Damage over time)-effect on him ([[Inflict Wound]] from Knights, [[Soulfire Rune|Soulfire]] or [[Ignite]] from Sorcerers, [[Envenom]] from Duids and [[Holy Flash]] from Paladins), he stops using his [[Invisibility]].",
+    "energyDmgMod": "60%",
+    "deathDmgMod": "65%"
+}

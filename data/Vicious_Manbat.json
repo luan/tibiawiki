@@ -1,0 +1,107 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "This creature can only be found when [[The Pale Count]] raid occurs in [[Drefia]] and his lair becomes accessible.",
+    "isarenaboss": "no",
+    "walksthrough": "?",
+    "hp": "1700",
+    "abilities": "{{Ability List\n |{{Melee|0-200?}}\n |{{Ability|Bleeding Strike|element=bleed\n  |scene={{Scene|spell=3sqmstrike|caster=Vicious Manbat|effect=Blood Effect|missile=Death Missile (Large)|missile_direction=south-east|missile_distance=3/3}}}}\n |{{Ability|Paralyze Berserk|element=paralyze\n  |scene={{Scene|spell=3x3spell|effect=Sparks Effect|caster=Vicious Manbat|effect_on_caster=yes}}}}\n |{{Healing|range=?}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "holyDmgMod": "110%",
+    "maxdmg": "?",
+    "pushable": "?",
+    "usedelements": "Physical",
+    "implemented": "10.10",
+    "loot": [
+        {
+            "amount": "1-163",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Strong Health Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Strong Mana Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Vampire Teeth",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "Small Ruby",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Blood Preservation",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Tooth File",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Bat Wing",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Emerald Bangle",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Red Gem",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Vampire Shield",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "1200",
+    "mitigation": "1.21",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "vicious manbat",
+    "illusionable": "no",
+    "armor": "44",
+    "convince": "--",
+    "name": "Vicious Manbat",
+    "isboss": "no",
+    "iceDmgMod": "80%",
+    "energyDmgMod": "95%",
+    "deathDmgMod": "0%",
+    "plural": "vicious manbats",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Very Rare",
+    "bestiarytext": "An enemy not to be underestimated, the vicious manbat is swift and deadly, with a little magic ability that make it a dreaded foe. It is assumed by some of the wise in Tibia that the manbats are degenerated vampire viscounts unable to change back, or maybe some hellish breed between vampires and bats from a dark unnamed place. In appearance a more than man-tall giant blue bat with sharp claws and teeth, the manbat is both intimidating and grotesque. It will chase its victim relentlessly, slashing and clawing at it, and sometimes calling bats to its aid in order to harass and disorient its prey. Anyone unfortunate enough to encounter a manbat should be swift-footed and well-armed.",
+    "speed": "105",
+    "pushobjects": "?",
+    "fireDmgMod": "110%",
+    "sounds": [
+        ""
+    ],
+    "bestiaryclass": "Undead",
+    "creatureclass": "Mammals",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "95%",
+    "primarytype": "Bats",
+    "spawntype": [
+        "Regular",
+        "Event",
+        "Unblockable"
+    ],
+    "race_id": "959",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "viscountmanbat",
+    "behaviour": "Unknown.",
+    "location": "Deep under [[Drefia]].",
+    "strategy": "Unknown."
+}

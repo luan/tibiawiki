@@ -1,0 +1,66 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "Many can trap you from all directions (making you unable to escape and eventually killing you) and you may not even notice until it is too late because they could be invisible.",
+    "walksthrough": "?",
+    "hp": "270",
+    "speed": "?",
+    "abilities": "{{Ability List\n |{{Melee|0-35}}\n |{{Ability|Small Energy Beam|0-35|energy\n  |scene={{Scene|spell=2sqmbeam|effect=Energy Effect|caster=Tibia Bug|look_direction=east}}}}\n |{{Ability|[[Invisibility]]|4~ seconds|invisible\n  |scene={{Scene|spell=buffspell|effect=Teleport Effect|caster=Tibia Bug|look_direction=south|effect_on_caster=yes}}}}\n |{{Summon|Tibia Bug|1}}\n}}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "no",
+    "secondarytype": "Insects",
+    "fireDmgMod": "0%",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        "Don't you feel a bit ... buggy?!",
+        "Muahahaha!",
+        "My, I am bad.",
+        "My father was a year 2k bug.",
+        "Psst, I'll make you rich.",
+        "They thought they'd beaten us!",
+        "You are bugged ... by me!",
+        "We'll be back!",
+        "We are everywhere!"
+    ],
+    "maxdmg": "{{Max Damage|physical=35|energy=35}}",
+    "pushable": "?",
+    "usedelements": "Physical,Energy",
+    "implemented": "7.92",
+    "loot": [
+        {
+            "amount": "0-11",
+            "itemName": "Gold Coin"
+        },
+        {
+            "itemName": "Surprise Bag (Blue)"
+        },
+        {
+            "itemName": "Surprise Bag (Red)",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "50",
+    "creatureclass": "Special",
+    "earthDmgMod": "100%?",
+    "physicalDmgMod": "100%?",
+    "primarytype": "Event Creatures",
+    "senseinvis": "no",
+    "article": "a",
+    "actualname": "Tibia bug",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Tibia Bug",
+    "isboss": "no",
+    "behaviour": "Doesn't run when [[Health]] is low.",
+    "location": "Appeared in the [[Thais Raids#Primitive raid on Thais|Primitive raids]], during [[Tibia's 10th Anniversary]].",
+    "iceDmgMod": "100%?",
+    "strategy": "Try to find the real Tibia Bug and kill it.",
+    "energyDmgMod": "0%",
+    "deathDmgMod": "100%?",
+    "status": "deprecated"
+}

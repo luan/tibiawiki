@@ -1,0 +1,99 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "'''Mr. Punish''' has first been sighted and killed on [[Solera]], Dec 26th 2006.  He is the boss of the [[Dark Torturer]]s.\n[[File:Mr. Punish.jpg|200px|left|The Faur Family killing Mr. Punish while blocking him with [[Magic Wall]]'s on [[Pandoria]].]]",
+    "walksthrough": "?",
+    "hp": "22000",
+    "speed": "?",
+    "abilities": "{{Ability List| {{Melee|0-1100}}|{{Ability|[[Distance Fighting]] [[Throwing Knife|Throwing Knives]]|0-707+|element=?}}|{{Healing}} }}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "0%",
+    "holyDmgMod": "100%",
+    "sounds": [
+        "I kept my axe sharp, especially for you!",
+        "Time for a little torturing practice!",
+        "Scream for me!"
+    ],
+    "maxdmg": "1807+",
+    "pushable": "?",
+    "implemented": "7.9",
+    "loot": [
+        {
+            "amount": "0-158",
+            "itemName": "Gold Coin"
+        },
+        {
+            "amount": "0-4?",
+            "itemName": "Platinum Coin"
+        },
+        {
+            "amount": "0-3",
+            "itemName": "Assassin Star"
+        },
+        {
+            "amount": "0-1",
+            "itemName": "Small Diamond"
+        },
+        {
+            "itemName": "Great Health Potion"
+        },
+        {
+            "itemName": "Great Mana Potion"
+        },
+        {
+            "itemName": "Demonic Essence"
+        },
+        {
+            "itemName": "Double Axe"
+        },
+        {
+            "itemName": "Soul Orb"
+        },
+        {
+            "itemName": "Gold Ingot"
+        },
+        {
+            "itemName": "Cat's Paw"
+        },
+        {
+            "itemName": "Bat Decoration"
+        },
+        {
+            "itemName": "Jewelled Backpack"
+        },
+        {
+            "itemName": "Ravager's Axe"
+        },
+        {
+            "itemName": "Impaler"
+        },
+        {
+            "itemName": "Mr. Punish's Handcuffs",
+            "rarity": "always"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "9000",
+    "creatureclass": "Demons",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "100%",
+    "bosstiaryclass": "Nemesis",
+    "primarytype": "Imps",
+    "race_id": "303",
+    "senseinvis": "yes",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Mr. Punish",
+    "isboss": "yes",
+    "behaviour": "Runs in very low health.",
+    "location": "[[Pits of Inferno]] in [[Tafariel]]'s Throne room.",
+    "iceDmgMod": "0%",
+    "strategy": "Block him with [[Magic Wall]] or [[Wild Growth]] [[Runes]] to trap it because he is very fast. You need one good blocker only. The shooters must shoot [[Sudden Death]] [[Runes]] or [[Death Strike]].",
+    "energyDmgMod": "0%",
+    "deathDmgMod": "110%"
+}

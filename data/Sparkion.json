@@ -1,0 +1,155 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "Those that are located outside around the vortexes, do not yield any experience points.",
+    "walksthrough": "?",
+    "hp": "2700",
+    "abilities": "{{Ability List\n |{{Melee|0-300}}\n |{{Ability|Energy Missile|150-250|element=energy\n  |scene={{Scene|spell=2sqmstrike|effect_on_target=Blue Electricity Effect|missile=Energy Ball Missile|missile_direction=south-east|missile_distance=2/2}}}}\n |{{Ability|Life Drain Beam|350-700|element=lifedrain\n  |scene={{Scene|spell=6sqmbeam|effect=Dust Effect|caster=Sparkion|look_direction=east}}}}\n |{{Ability|Energy Ball|it electrifies you|element=energy\n  |scene={{Scene|spell=2sqmballtarget|effect=Purple Electricity Effect|missile=Energy Missile|missile_direction=south-east|missile_distance=2/2}}}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "secondarytype": "Electro-Elementals",
+    "holyDmgMod": "95%",
+    "maxdmg": "1300",
+    "pushable": "no",
+    "implemented": "10.94",
+    "loot": [
+        {
+            "amount": "1-100",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "Platinum Coin",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Great Health Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Great Mana Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Great Spirit Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Blue Crystal Splinter",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Cyan Crystal Fragment",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Energy Bar",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Energy Drink",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Sparkion Claw",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Sparkion Legs",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Sparkion Stings",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Sparkion Tail",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Small Sapphire",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Blue Crystal Shard",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Blue Gem",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Wand of Cosmic Energy",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Ring of Blue Plasma",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Ring of Green Plasma",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Ring of Red Plasma",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Collar of Blue Plasma",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Collar of Green Plasma",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Collar of Red Plasma",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "1520",
+    "mitigation": "1.32",
+    "attacktype": "Melee",
+    "history": "Its experience was decreased from 1900 to 1520 with the fourth batch of changes of [[Updates/12.31|Update 12.31]].",
+    "article": "a",
+    "actualname": "sparkion",
+    "illusionable": "no",
+    "armor": "40",
+    "convince": "--",
+    "name": "Sparkion",
+    "isboss": "no",
+    "iceDmgMod": "30%",
+    "energyDmgMod": "10%",
+    "deathDmgMod": "95%",
+    "plural": "sparkions",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "The Sparkions are some of the more stable creatures from beyond, only surpassed by the reality reaver. It took several weeks to defeat an already severely injured Sparkion.\nEven though they seem to be closest to mindless automatons, they often show very specific individual patterns of behaviour which they do not share with other Sparkions. Some even argue that Sparkions do not exist at all, but only a group of very similar, yet different forms of unlife. On the other hand, most Sparkions show at least some common characteristics, such as strength or the tenacity with which goals are being pursued.\nWhile many of the new creatures often act irrationally, the Sparkion rarely stops before it has finished what it started. Then again it must be said that the goal of a Sparkion can be anything, e.g. the extinction of all life in a certain area - and this does not necessarily look purposefully for an outsider.\nIt is one of the most disturbing characteristics of the Sparkion to destroy and devastate everything around it, leaving a formless mass of matter which resembles the realm of the Sparkion's origin. Warnings are voiced that the vortexes need to be stopped; otherwise, swarms of Sparkions will eventually stream out of them to prepare our world for an ending at which everything we know is going to be sucked into the void and devoured. So far, however, the Sparkions seem to be only one of many forces from beyond. Also, no massive amassment has been witnessed yet, and it is totally inconceivable that a guiding force with a conscious plan exists.\nHowever, it is quite alarming that Sparkions are often seen carrying loads of material, such as stones, tree stumps and even corpses into the vortexes. Yet, several expeditions into the vortexes could not figure out what has happened to aforementioned materials on the other side of the vortexes. The most likely theory is that the materials are used to stabilize or even grow the realm beyond. This, however, would suggest that something greater and more powerful is guiding the mindless Sparkions' actions after all.",
+    "speed": "151",
+    "pushobjects": "yes",
+    "fireDmgMod": "85%",
+    "sounds": [
+        "Zzing!",
+        "Frizzle!"
+    ],
+    "bestiaryclass": "Extra Dimensional",
+    "creatureclass": "Invertebrates",
+    "earthDmgMod": "115%",
+    "physicalDmgMod": "95%",
+    "primarytype": "Arachnids",
+    "race_id": "1234",
+    "bestiarylevel": "Hard",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "sparkion",
+    "behaviour": "Unknown.",
+    "location": "[[Otherworld]].",
+    "strategy": "It's strongly advised to wear as much [[Energy Damage]] protection as possible, most of the damage dealt by Extra Dimensionals creatures comes from this element. Otherworld monsters also deal a lot of [[Life Drain]] damage, so you can also consider wearing a [[Garlic Necklace]] or a [[Necklace of the Deep]] and put a [[Bone Fiddle]] in the extra slot."
+}

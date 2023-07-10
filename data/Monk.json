@@ -1,0 +1,113 @@
+{
+    "summon": "600",
+    "templateType": "Creature",
+    "notes": "Mystical creatures, they heal themselves about every 10 seconds, which makes them great as summons. They move items in their way. Commonly used for training of [[knight]]s and [[paladin]]s. This is one of two monsters that can be [[Summon Creature|summoned]] but not [[Convince Creature|convinced]] (if you exclude summonable poisonous creatures and the [[Juvenile Cyclops]]). The other one is the [[Gozzler]]. They can also be summoned by the [[Man in the Cave]].",
+    "walksthrough": "None",
+    "hp": "240",
+    "abilities": "{{Ability List|{{Melee|0-130}}|{{Healing|range=30-50}}|{{Haste}}}}",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "holyDmgMod": "50%",
+    "maxdmg": "{{Max Damage|physical=130}}",
+    "pushable": "No",
+    "implemented": "6.4",
+    "loot": [
+        {
+            "amount": "1-18",
+            "itemName": "Gold Coin",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Bread",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Book of Prayers",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Ankh",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Rope Belt",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Scroll",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Brown Flask",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Lamp",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Life Crystal",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Safety Pin",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Sandals",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Staff",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Power Ring",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Fire, Energy, Poison",
+    "exp": "200",
+    "mitigation": "1.37",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "monk",
+    "illusionable": "yes",
+    "armor": "25",
+    "convince": "--",
+    "name": "Monk",
+    "isboss": "no",
+    "iceDmgMod": "100%",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "50%",
+    "plural": "monks",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "In ancient times, long before Edron has been re-discovered, some Monks, followers of the evil god Zathroth, founded a monastery in the dungeons deep below the surface. They are not well disposed towards the explorers that are now coming there, and will attack every intruder fiercely. They are skilled fist fighters and can heal themselves.",
+    "speed": "120",
+    "pushobjects": "Yes",
+    "fireDmgMod": "100%",
+    "sounds": [
+        "Repent Heretic!",
+        "A prayer to the almighty one!",
+        "I will punish the sinners!"
+    ],
+    "bestiaryclass": "Human",
+    "creatureclass": "Humans",
+    "earthDmgMod": "100%",
+    "physicalDmgMod": "105%",
+    "primarytype": "Monks",
+    "spawntype": [
+        "Regular",
+        "Raid"
+    ],
+    "race_id": "57",
+    "bestiarylevel": "Easy",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "monk",
+    "behaviour": "Monks chase the enemy until death.",
+    "location": "[[Edron]] [[Hero Cave]], [[Triangle Tower]] near [[Thais]], [[Maze of Lost Souls]], Deeper [[Dark Cathedral]], [[Isle of the Kings]], [[Trade Quarter]].",
+    "strategy": "Something important while killing Monks is the time. You have to attack as fast as possible or they will heal themselves and you will need to use more [[Arrow]]s/[[Rune]]s or in the case of [[Knight]]s you will receive more damage and maybe use more healing potions or spells. Quite high defense, so low skilled knights with [[One-Handed|one-handed weapons]] should stay away from these, as they will heal faster than you will damage them. If necessary to kill, consider using runes."
+}

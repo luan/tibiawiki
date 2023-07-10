@@ -1,0 +1,86 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "None.",
+    "isarenaboss": "no",
+    "walksthrough": "Poison",
+    "hp": "625",
+    "abilities": "{{Ability List\n |{{Melee|0-120}}\n |{{Ability|Earth Strike|30-150|element=earth\n  |scene={{Scene|spell=3sqmstrike|effect=Poison Effect 1|caster=Clay Guardian|missile=Earth Missile Effect|missile_direction=south-east|missile_distance=3/3}}}}\n |{{Ability|Smoke Berserk|20-30?|element=earth\n  |scene={{Scene|spell=3x3spell|effect=Poof Effect|caster=Clay Guardian|effect_on_caster=yes|damage_effect=Unknown}}}}\n |{{Healing|range=40-130?}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "holyDmgMod": "100%",
+    "maxdmg": "{{Max Damage|physical=120|earth=180?}}",
+    "pushable": "?",
+    "implemented": "9.10",
+    "loot": [
+        {
+            "amount": "1-164",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Blank Rune",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Lump of Earth",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-10",
+            "itemName": "Small Stone",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-8",
+            "itemName": "Earth Arrow",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Clay Lump",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Small Topaz",
+            "rarity": "rare"
+        }
+    ],
+    "walksaround": "Fire, Energy",
+    "exp": "400",
+    "mitigation": "0.70",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "clay guardian",
+    "illusionable": "No",
+    "armor": "42",
+    "convince": "--",
+    "name": "Clay Guardian",
+    "isboss": "no",
+    "iceDmgMod": "65%",
+    "energyDmgMod": "70%",
+    "deathDmgMod": "60%",
+    "plural": "clay guardians",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "Clay Guardians are constructs like [[Stone Golem]]s, yet stronger.",
+    "speed": "115",
+    "pushobjects": "?",
+    "fireDmgMod": "100%",
+    "sounds": [
+        ""
+    ],
+    "bestiaryclass": "Construct",
+    "creatureclass": "Elementals",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "75%",
+    "primarytype": "Geo-Elementals",
+    "race_id": "706",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "clayguardian",
+    "behaviour": "Fights in close range until death.",
+    "location": "[[Horestis Tomb]], [[Middle Spike]], [[Medusa Tower]].",
+    "strategy": "Unknown."
+}

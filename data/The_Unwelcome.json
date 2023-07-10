@@ -1,0 +1,134 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "10%?",
+    "notes": "It's part of the [[Feaster of Souls Quest]].",
+    "walksthrough": "?",
+    "hp": "?",
+    "speed": "?",
+    "abilities": "{{Ability List| {{Melee|?}} }}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "fireDmgMod": "10%?",
+    "holyDmgMod": "10%?",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "?",
+    "pushable": "no",
+    "runsat": "0",
+    "implemented": "12.30.9287",
+    "cooldown": "20",
+    "loot": [
+        {
+            "amount": "2",
+            "itemName": "Crystal Coin"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Diamond"
+        },
+        {
+            "itemName": "Moonstone"
+        },
+        {
+            "itemName": "White Gem"
+        },
+        {
+            "amount": "10",
+            "itemName": "Berserk Potion"
+        },
+        {
+            "amount": "10",
+            "itemName": "Mastermind Potion"
+        },
+        {
+            "amount": "10",
+            "itemName": "Bullseye Potion"
+        },
+        {
+            "amount": "6",
+            "itemName": "Ultimate Spirit Potion"
+        },
+        {
+            "amount": "6",
+            "itemName": "Supreme Health Potion"
+        },
+        {
+            "amount": "6",
+            "itemName": "Ultimate Mana Potion"
+        },
+        {
+            "itemName": "Angel Figurine"
+        },
+        {
+            "itemName": "Cursed Bone"
+        },
+        {
+            "itemName": "Ivory Comb"
+        },
+        {
+            "itemName": "Silver Hand Mirror"
+        },
+        {
+            "itemName": "Death Toll"
+        },
+        {
+            "itemName": "Giant Amethyst"
+        },
+        {
+            "itemName": "Giant Topaz"
+        },
+        {
+            "itemName": "Amber (Item)"
+        },
+        {
+            "itemName": "Amber with a Dragonfly"
+        },
+        {
+            "itemName": "Writhing Heart"
+        },
+        {
+            "itemName": "Writhing Brain"
+        },
+        {
+            "itemName": "Spooky Hood"
+        },
+        {
+            "itemName": "Soulforged Lantern"
+        },
+        {
+            "itemName": "Ghost Claw"
+        },
+        {
+            "itemName": "Soulful Legs"
+        },
+        {
+            "itemName": "Fabulous Legs"
+        },
+        {
+            "itemName": "Amber with a Bug"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "?",
+    "earthDmgMod": "10%?",
+    "physicalDmgMod": "10%?",
+    "bosstiaryclass": "Archfoe",
+    "spawntype": [
+        "Triggered"
+    ],
+    "race_id": "1868",
+    "senseinvis": "yes",
+    "actualname": "The Unwelcome",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "The Unwelcome",
+    "isboss": "yes",
+    "location": "[[Zarganash]]",
+    "iceDmgMod": "10%?",
+    "energyDmgMod": "10%?",
+    "deathDmgMod": "10%?"
+}

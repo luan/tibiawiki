@@ -1,0 +1,91 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "parders",
+    "hpDrainDmgMod": "100%?",
+    "notes": "<gallery captionalign=\"center\" mode=\"nolines\">\nParder Artwork.jpg|Official [[Creature Artwork]]\n</gallery>",
+    "walksthrough": "None",
+    "hp": "1200",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "The parder is a wild cat inhabiting the jungle-covered isles of Marapur. Its fur is of a dark ochreous ground-color, obliterated by a dark-brown blotched pattern on legs and flanks. A dark stripe also runs from the head across the neck and back. Parders are good climbers, but due to the omnipresence of water they have also developed into good swimmers and like to catch fish. For the nagas, the medium-sized predatory cats hardly pose a threat. They do, however, prey on humanoid bipeds.",
+    "speed": "115",
+    "abilities": "{{Ability List\n |{{Melee|0-256}}\n |{{Ability|Scratch|126-262|element=physical\n  |scene={{Scene|spell=1sqmstrike|effect=Big Scratching Effect|caster=Parder}}}}\n |{{Ability|Physical Wave|258-292|element=physical\n  |scene={{Scene|spell=4sqmtwave|effect=Dust Effect|caster=Parder|look_direction=east}}}}\n |{{Ability|Life drain strike|120-132|element=life drain\n  |scene={{Scene|spell=2sqmstrike|effect=Red Sparkles Effect|caster=Parder}}}}\n |{{Ability|Life drain bomb|83-108|element=life drain\n  |scene={{Scene|spell=1sqmballtarget|effect=Red Sparkles Effect|caster=Parder}}}}\n |{{Ability|Sparkles|unknown maybe buff|element=?\n  |scene={{Scene|spell=buffspell|effect=Red Sparkles Effect|caster=Parder|effect_on_caster=yes}}}}\n}}",
+    "pushobjects": "yes",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "fireDmgMod": "110%",
+    "holyDmgMod": "100%",
+    "sounds": [
+        "Grrroaaar!",
+        "FCHHH!"
+    ],
+    "maxdmg": "{{Max Damage|physical=360|lifedrain=240}}",
+    "pushable": "no",
+    "implemented": "12.90.12182",
+    "bestiaryclass": "Mammal",
+    "loot": [
+        {
+            "amount": "1-285",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-4",
+            "itemName": "Ham",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Parder Fur",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Red Crystal Fragment",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Parder Tooth",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "Strong Health Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Barbarian Axe",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Crimson Sword",
+            "rarity": "semi-rare"
+        }
+    ],
+    "exp": "1100",
+    "creatureclass": "Mammals",
+    "earthDmgMod": "85%",
+    "mitigation": "1.15",
+    "physicalDmgMod": "90%",
+    "primarytype": "Felines",
+    "spawntype": [
+        "Regular"
+    ],
+    "attacktype": "Melee",
+    "race_id": "2256",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "article": "a",
+    "actualname": "parder",
+    "illusionable": "no",
+    "armor": "33",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "bestiaryname": "parder",
+    "name": "Parder",
+    "isboss": "no",
+    "iceDmgMod": "85%",
+    "strategy": "Approximately 90% of the damage taken will be physical. Most of the time you can ignore Parders.",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "100%"
+}

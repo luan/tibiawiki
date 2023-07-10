@@ -1,0 +1,109 @@
+{
+    "summon": "390",
+    "templateType": "Creature",
+    "notes": "A powerful minotaur. Popular to [[Summon]] as it is almost as deadly as a [[Fire Devil]] and requires less mana. These creatures can be skinned with an [[Obsidian Knife]]. See also: [[Minotaur Leather/Skinning]].",
+    "walksthrough": "None.",
+    "hp": "100",
+    "abilities": "{{Ability List\n |{{Melee|0-25}}\n |{{Ability|Shoots [[bolt]]s|0-80|element=physical\n  |scene={{Scene|spell=5sqmstrike|background=canvas|caster=Minotaur Archer|look_direction=south|missile=Bolt Missile|missile_direction=south-east|missile_distance=5/5}}}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "holyDmgMod": "90%",
+    "maxdmg": "{{Max Damage|physical=105}}",
+    "pushable": "Yes",
+    "implemented": "5.1",
+    "loot": [
+        {
+            "amount": "1-30",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-20",
+            "itemName": "Bolt",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Broken Crossbow",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Piece of Archer Armor",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-4",
+            "itemName": "Piercing Bolt",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Meat",
+            "rarity": "semi-rare"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Minotaur Horn",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Minotaur Leather",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Brass Armor",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Crossbow",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Scale Armor",
+            "rarity": "rare"
+        }
+    ],
+    "walksaround": "Fire, Energy, Poison",
+    "exp": "65",
+    "mitigation": "0.20",
+    "attacktype": "Distance",
+    "article": "a",
+    "actualname": "minotaur archer",
+    "illusionable": "yes",
+    "armor": "6",
+    "convince": "390",
+    "name": "Minotaur Archer",
+    "isboss": "no",
+    "iceDmgMod": "110%",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "105%",
+    "plural": "minotaur archers",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "no",
+    "occurrence": "Common",
+    "bestiarytext": "Minotaur Archers form the artillery of the minotaurs' army. Using their crossbows they shoot bolts at their enemies. Many adventurers have died in the hail of missiles. Usually, they are accompanied by other types of minotaurs.",
+    "speed": "80",
+    "pushobjects": "No",
+    "fireDmgMod": "80%",
+    "sounds": [
+        "Ruan Wihmpy!",
+        "Kaplar!"
+    ],
+    "runsat": "red",
+    "bestiaryclass": "Humanoid",
+    "creatureclass": "Humanoids",
+    "earthDmgMod": "100%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Minotaurs",
+    "spawntype": [
+        "Regular",
+        "Raid",
+        "Unblockable"
+    ],
+    "race_id": "24",
+    "bestiarylevel": "Easy",
+    "senseinvis": "no",
+    "drownDmgMod": "100%",
+    "bestiaryname": "minotaurarcher",
+    "behaviour": "Attacks from a distance.",
+    "location": "[[Ancient Temple]], way to [[Mintwallin]], [[Folda|Folda Underground Cave]], [[Outlaw Camp]], [[Plains of Havoc]], [[Kazordoon_Minotaurs|Kazordoon Minotaur Tower]], [[Dark_Pyramid|Daramian Minotaur Pyramid]], Deeper [[Fibula Dungeon]] (level 50+ to open the door), [[Hero Cave]], [[Foreigner Quarter]] and [[Elvenbane]].",
+    "strategy": "Run towards them and don't let him attack from a distance. Usually in company of [[Minotaur Guard]]s and [[Minotaur Mage]]s.\nBe careful, as this creature is strong and can kill an inexperienced [[player]] pretty quickly. [[Stealth Ring]]s can be a big help when facing many of these."
+}

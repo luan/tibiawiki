@@ -1,0 +1,180 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "It's one of the Usurper leaders trying to take control of the [[Order of the Lion]]. \n{{JSpoiler|Part of [[The Order of the Lion Quest]].}}",
+    "walksthrough": "Fire, Poison",
+    "hp": "35000",
+    "speed": "?",
+    "abilities": "{{Ability List\n |{{Melee|0-600+}}\n |{{Ability|Throwing Knife 3sqm ball|670-700|element=earth}}\n |{{Ability|6sqm twave groundshaker|?|element=?}}\n |{{Ability|poison arrow death hit|1000|element=earth}}\n |{{Ability|assassin star|?|element=death}}\n |{{Summon|Preceptor Lazare|1|Grand Commander Soeren|Grand Chaplain Gaunder}}\n}}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "Yes",
+    "fireDmgMod": "100%",
+    "holyDmgMod": "120%",
+    "sounds": [
+        "I've studied the Cobras - I wield the secrets of the snake!",
+        "I am a true knight of the lion, you will never defeat the true order!",
+        "The Falcons will come to my aid in need!"
+    ],
+    "maxdmg": "?",
+    "pushable": "No",
+    "runsat": "0",
+    "implemented": "12.40.9997",
+    "cooldown": "20",
+    "loot": [
+        {
+            "itemName": "Energy Bar"
+        },
+        {
+            "amount": "5",
+            "itemName": "Platinum Coin"
+        },
+        {
+            "amount": "6-20",
+            "itemName": "Supreme Health Potion"
+        },
+        {
+            "amount": "6-14",
+            "itemName": "Ultimate Mana Potion"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Red Gem"
+        },
+        {
+            "amount": "100",
+            "itemName": "Royal Star"
+        },
+        {
+            "amount": "10",
+            "itemName": "Bullseye Potion"
+        },
+        {
+            "itemName": "Giant Shimmering Pearl"
+        },
+        {
+            "itemName": "Green Gem"
+        },
+        {
+            "itemName": "Stone Skin Amulet"
+        },
+        {
+            "itemName": "Yellow Gem"
+        },
+        {
+            "itemName": "Blue Gem"
+        },
+        {
+            "itemName": "Terra Legs"
+        },
+        {
+            "itemName": "Terra Mantle"
+        },
+        {
+            "amount": "10",
+            "itemName": "Berserk Potion"
+        },
+        {
+            "itemName": "Crystal Coin"
+        },
+        {
+            "itemName": "Giant Sapphire"
+        },
+        {
+            "amount": "10",
+            "itemName": "Mastermind Potion"
+        },
+        {
+            "itemName": "Terra Hood"
+        },
+        {
+            "amount": "6",
+            "itemName": "Ultimate Spirit Potion"
+        },
+        {
+            "itemName": "Underworld Rod"
+        },
+        {
+            "itemName": "Raw Watermelon Tourmaline"
+        },
+        {
+            "itemName": "Gold Ingot"
+        },
+        {
+            "itemName": "Silver Token"
+        },
+        {
+            "itemName": "Violet Gem"
+        },
+        {
+            "itemName": "Wand of Voodoo"
+        },
+        {
+            "itemName": "Terra Amulet"
+        },
+        {
+            "itemName": "Terra Rod"
+        },
+        {
+            "itemName": "Lion Amulet"
+        },
+        {
+            "itemName": "Lion Axe"
+        },
+        {
+            "itemName": "Lion Longbow"
+        },
+        {
+            "itemName": "Lion Plate"
+        },
+        {
+            "itemName": "Lion Spangenhelm"
+        },
+        {
+            "itemName": "Lion Wand"
+        },
+        {
+            "itemName": "Giant Ruby"
+        },
+        {
+            "itemName": "Lion Spellbook"
+        },
+        {
+            "itemName": "Lion Hammer"
+        },
+        {
+            "itemName": "Lion Longsword"
+        },
+        {
+            "itemName": "Lion Rod"
+        },
+        {
+            "itemName": "Lion Shield"
+        }
+    ],
+    "walksaround": "Energy",
+    "exp": "25000",
+    "creatureclass": "Humans",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "65%?",
+    "bosstiaryclass": "Archfoe",
+    "primarytype": "Members of the Order of the Lion",
+    "spawntype": [
+        "Triggered"
+    ],
+    "race_id": "1957",
+    "senseinvis": "yes",
+    "actualname": "Drume",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Drume",
+    "isboss": "yes",
+    "behaviour": "Fights in close combat.",
+    "location": "[[Bounac]] in the fields to the south-east.",
+    "iceDmgMod": "100%",
+    "energyDmgMod": "120%",
+    "deathDmgMod": "50%"
+}

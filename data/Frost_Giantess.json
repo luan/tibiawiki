@@ -1,0 +1,110 @@
+{
+    "summon": "490",
+    "templateType": "Creature",
+    "notes": "They are the female counterpart of [[Frost Giant]]s.",
+    "walksthrough": "None.",
+    "hp": "275",
+    "abilities": "{{Ability List\n |{{Melee|0-60}}\n |{{Ability|Boulder throw|0-90|element=physical\n  |scene={{Scene|spell=5sqmstrike|background=canvas|caster=Frost Giantess|look_direction=south|missile=Stone Missile|missile_direction=south-east|missile_distance=5/5}}}}\n |{{Haste}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "holyDmgMod": "90%",
+    "maxdmg": "{{Max Damage|physical=150}}",
+    "pushable": "No",
+    "usedelements": "Physical",
+    "implemented": "8.00",
+    "loot": [
+        {
+            "amount": "1-40",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Ham",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "Small Stone",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Short Sword",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Battle Shield",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Frost Giant Pelt",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Ice Cube",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Mana Potion",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Club Ring",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Dark Helmet",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Shard",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Norse Shield",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Fire, Energy, Poison",
+    "exp": "150",
+    "mitigation": "0.67",
+    "attacktype": "Distance",
+    "article": "a",
+    "actualname": "frost giantess",
+    "illusionable": "yes",
+    "armor": "20",
+    "convince": "490",
+    "name": "Frost Giantess",
+    "isboss": "no",
+    "iceDmgMod": "0%",
+    "energyDmgMod": "110%",
+    "deathDmgMod": "103%",
+    "plural": "frost giantesses",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "The Frost Giantesses are even more ill-tempered and aggressive than their male counterparts. In the North, it is a running gag that the Frost Giantesses are supposed to be the real reason why the frost giants are humourless and easily provoked. As a matter of fact, the frost giants are, compared to their female counterparts, rather dull-witted. The Frost Giantesses usually employ weapons more often than the male giants.",
+    "speed": "97",
+    "pushobjects": "Yes",
+    "fireDmgMod": "80%",
+    "sounds": [
+        "Ymirs Mjalle!",
+        "No run so much, must stay fat!",
+        "Hörre Sjan Flan!",
+        "Damned fast food.",
+        "Come kiss the cook!"
+    ],
+    "bestiaryclass": "Giant",
+    "creatureclass": "Humanoids",
+    "earthDmgMod": "100%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Giants",
+    "race_id": "334",
+    "bestiarylevel": "Easy",
+    "senseinvis": "no",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "frostgiantess",
+    "behaviour": "She likes to keep distance between her and the target, while throwing boulders.",
+    "location": "[[Tyrsung]] (in the [[Jotunar]] mountain), [[Formorgar Glacier]] (single spawn), [[Mammoth Shearing Factory]], [[Chyllfroest]].",
+    "strategy": "Run to them and attack or use a distance weapon or runes. Be careful when chasing them as they can lure you into more groups of frost giants."
+}

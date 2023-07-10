@@ -1,0 +1,53 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "lost gnomes",
+    "hpDrainDmgMod": "100%?",
+    "notes": "{{JSpoiler|Part of the [[Dangerous Depths Quest]].}}",
+    "isarenaboss": "no",
+    "walksthrough": "?",
+    "hp": "10000",
+    "speed": "?",
+    "abilities": "{{Ability List|None}}",
+    "pushobjects": "no",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "100%?",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        "Are we there yet?",
+        "Think I saw a nice gem back there, I need to..."
+    ],
+    "maxdmg": "0",
+    "pushable": "yes",
+    "implemented": "11.50.6055",
+    "loot": [
+        {
+            "itemName": "Gold Coin"
+        },
+        {
+            "itemName": "Torch"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "0",
+    "creatureclass": "Humanoids",
+    "earthDmgMod": "100%?",
+    "physicalDmgMod": "100%?",
+    "primarytype": "Gnomes",
+    "senseinvis": "no",
+    "article": "a",
+    "actualname": "lost gnome",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Lost Gnome",
+    "isboss": "no",
+    "behaviour": "It will follow you around without attacking you.",
+    "location": "[[Gnome Deep Hub]].",
+    "iceDmgMod": "100%?",
+    "strategy": "Guide it to the dungeon's entrance to rescue it.",
+    "energyDmgMod": "100%?",
+    "deathDmgMod": "0%"
+}

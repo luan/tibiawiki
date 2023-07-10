@@ -1,0 +1,124 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "bursters",
+    "hpDrainDmgMod": "100%?",
+    "walksthrough": "?",
+    "hp": "10000?",
+    "speed": "?",
+    "abilities": "{{Ability List| {{Melee|0-800+}}|{{Ability|[[Energy Beam]]|0-300+|element=energy}}|{{Healing}} }}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "secondarytype": "Electro-Elementals",
+    "fireDmgMod": "100%?",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "1100+",
+    "pushable": "no",
+    "implemented": "10.94",
+    "loot": [
+        {
+            "amount": "0-44",
+            "itemName": "Gold Coin"
+        },
+        {
+            "amount": "0-10",
+            "itemName": "Platinum Coin"
+        },
+        {
+            "itemName": "Crystallized Anger"
+        },
+        {
+            "itemName": "Curious Matter"
+        },
+        {
+            "amount": "0-1",
+            "itemName": "Energy Bar"
+        },
+        {
+            "itemName": "Energy Drink"
+        },
+        {
+            "itemName": "Plasma Pearls"
+        },
+        {
+            "itemName": "Spark Sphere"
+        },
+        {
+            "itemName": "Volatile Proto Matter"
+        },
+        {
+            "amount": "0-1",
+            "itemName": "Great Spirit Potion"
+        },
+        {
+            "itemName": "Lightning Legs"
+        },
+        {
+            "itemName": "Collar of Red Plasma"
+        },
+        {
+            "itemName": "Collar of Green Plasma"
+        },
+        {
+            "itemName": "Ring of Green Plasma"
+        },
+        {
+            "itemName": "Ring of Blue Plasma"
+        },
+        {
+            "itemName": "Collar of Blue Plasma"
+        },
+        {
+            "itemName": "Great Mana Potion"
+        },
+        {
+            "itemName": "Green Crystal Shard"
+        },
+        {
+            "itemName": "Ring of Red Plasma"
+        },
+        {
+            "itemName": "Great Health Potion"
+        },
+        {
+            "itemName": "Blue Crystal Splinter"
+        },
+        {
+            "itemName": "Blue Crystal Shard"
+        },
+        {
+            "itemName": "Cyan Crystal Fragment"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "10000",
+    "creatureclass": "Invertebrates",
+    "earthDmgMod": "100%?",
+    "physicalDmgMod": "100%?",
+    "bosstiaryclass": "Nemesis",
+    "primarytype": "Cnidarians",
+    "spawntype": [
+        "Raid",
+        "Unique",
+        "Unblockable"
+    ],
+    "race_id": "1278",
+    "senseinvis": "?",
+    "actualname": "Burster",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Burster",
+    "isboss": "yes",
+    "behaviour": "Fights in close combat.",
+    "location": "[[Otherworld (Dwarf Bridge)]]. Shares a [[Varying Monster Spawn]] with an [[Instable Breach Brood]], {{Mapper Coords|126.193|126.162|10|8|text=here}}. The respawn rate is 4 to 5 minutes, and is not affected by [[Rapid Respawn Events|Rapid Respawn]]. The chance for the boss to spawn seems to be around 1 in 50 to 1 in 100.",
+    "iceDmgMod": "100%?",
+    "strategy": "This boss can be very hard, it is not recommended below level 150.",
+    "energyDmgMod": "0%?",
+    "deathDmgMod": "100%?"
+}

@@ -1,0 +1,55 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "rogue nagas",
+    "hpDrainDmgMod": "100%?",
+    "walksthrough": "Fire, Energy, Poison",
+    "hp": "6200",
+    "abilities": "{{Ability List}}",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "secondarytype": "Nagas",
+    "fireDmgMod": "90%",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        "The Moon Goddes have forsaken us!",
+        "You underestimated us!",
+        "Death is too good for them.",
+        "Die, you fools!"
+    ],
+    "maxdmg": "{{Max Damage|1000+}}",
+    "implemented": "12.90.12182",
+    "loot": [
+        {
+            "amount": "1-12",
+            "itemName": "Platinum Coin"
+        },
+        {
+            "itemName": "Rogue Naga Scales"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Green Crystal Shard"
+        }
+    ],
+    "walksaround": "None",
+    "exp": "4510",
+    "creatureclass": "Reptiles",
+    "earthDmgMod": "100%",
+    "physicalDmgMod": "100%?",
+    "primarytype": "Serpents",
+    "spawntype": [
+        "Unblockable"
+    ],
+    "senseinvis": "yes",
+    "article": "a",
+    "actualname": "rogue naga",
+    "illusionable": "no",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Rogue Naga",
+    "isboss": "no",
+    "iceDmgMod": "100%?",
+    "energyDmgMod": "70%",
+    "deathDmgMod": "100%?"
+}

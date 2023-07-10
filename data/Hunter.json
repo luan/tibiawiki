@@ -1,0 +1,131 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "Fierce creatures that attack anyone who approaches them. Often mistaken on [[PVP]] worlds as a [[Player Killer|PK]]er by [[newbie]]s. They are very dangerous for low [[level]] players. They can shoot you from off-screen.",
+    "walksthrough": "None.",
+    "hp": "150",
+    "abilities": "{{Ability List\n |{{Melee|0-20}}\n |{{Ability|Shoot [[Arrow]]|0-100|element=physical\n  |scene={{Scene|spell=5sqmstrike|background=canvas|caster=Hunter|look_direction=south|missile=Arrow Missile|missile_direction=south-east|missile_distance=5/5}}}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "holyDmgMod": "80%",
+    "maxdmg": "{{Max Damage|physical=120}}",
+    "pushable": "No",
+    "usedelements": "Physical",
+    "implemented": "5.1",
+    "loot": [
+        {
+            "amount": "1-22",
+            "itemName": "Arrow",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Bow",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Hunter's Quiver",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Orange",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Roll",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Brass Armor",
+            "rarity": "semi-rare"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "Burst Arrow",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Brass Helmet",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Dragon Necklace",
+            "rarity": "semi-rare"
+        },
+        {
+            "amount": "1-4",
+            "itemName": "Poison Arrow",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Torch",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Deer Trophy",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Sniper Gloves",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Lion Trophy",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Slingshot",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Small Ruby",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Wolf Trophy",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Fire, Energy, Poison",
+    "exp": "150",
+    "mitigation": "0.25",
+    "attacktype": "Distance",
+    "article": "a",
+    "actualname": "hunter",
+    "illusionable": "yes",
+    "armor": "8",
+    "convince": "530",
+    "name": "Hunter",
+    "isboss": "no",
+    "iceDmgMod": "100%",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "100%",
+    "plural": "hunters",
+    "hpDrainDmgMod": "100%",
+    "usespells": "no",
+    "occurrence": "Common",
+    "bestiarytext": "Hunters are outlaws that dwell in the large forests of Tibia. They do not only hunt animals but also attack travellers and adventurers. Although they are not strong, they are very deadly due to their quickness and their bows.",
+    "speed": "105",
+    "pushobjects": "Yes",
+    "fireDmgMod": "100%",
+    "sounds": [
+        "Guess who we are hunting!",
+        "Guess who we're hunting, hahaha!",
+        "Bullseye!",
+        "You'll make a nice trophy!"
+    ],
+    "bestiaryclass": "Human",
+    "creatureclass": "Humans",
+    "earthDmgMod": "100%",
+    "physicalDmgMod": "105%",
+    "primarytype": "Outlaws",
+    "race_id": "11",
+    "bestiarylevel": "Easy",
+    "senseinvis": "no",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "hunter",
+    "behaviour": "Hunters run when in low health. They can't be pushed and move objects.",
+    "location": "North of [[Mount Sternum]], [[Plains of Havoc]], [[Outlaw Camp]], [[Dark Cathedral]], [[Femor Hills]], [[Maze of Lost Souls]], north of the [[Amazon Camp (Venore)|Amazon Camp]], at the entrance and in the [[Hero Cave]], a castle tower at [[Elvenbane]], [[Trade Quarter]], [[Smuggler]] camp on [[Tyrsung]], [[Formorgar Mines]].",
+    "strategy": "'''[[Knight]]s''' should approach them quickly before they shoot more [[Arrow]]s. A good strategy for knights would be to run towards them in full defense and once you are near them, attack with full offense. Another strategy is to duck behind a corner of a house and force the hunter to walk closer to you. Because of the hunter's low defense a knight can kill them easily.<br />\n'''[[Paladin]]s''' should not fight these creatures unless they have a [[Stealth Ring]], shield or high enough skills to kill them in 1 or 2 shots, and if you're planning to kill it without spells or runes, make sure to have a good [[healing]] [[spell]], [[rune]] or [[potions|potion]] ready in case of a high hit. A distance level of around 50 is recommended to kill them easily.<br />\n'''[[Mage]]s''' should use [[Invisible]] or if they are hunting them they should summon [[monk]]s. Overall, stay away from these unless you have to get through them to get to where you want to hunt (e.g. [[Hero]]es) or if you need to get a pair of [[Sniper Gloves]]. They usually aren't worth the trouble."
+}

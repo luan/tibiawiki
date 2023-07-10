@@ -1,0 +1,53 @@
+{
+    "summon": "220",
+    "templateType": "Creature",
+    "plural": "enraged squirrels",
+    "hpDrainDmgMod": "100%",
+    "notes": "This creature was added with the [[Updates/8.54|Christmas Update 2009]].\n\n{{JSpoiler|Encountered in [[The New Frontier Quest]].}}",
+    "walksthrough": "?",
+    "hp": "35",
+    "speed": "240?",
+    "abilities": "{{Ability List|{{Melee}}|{{Ability|weak distance attack that looks like energy and stars|element=energy|0-11?}}}}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "no",
+    "fireDmgMod": "100%",
+    "holyDmgMod": "100%",
+    "sounds": [
+        "Chchch"
+    ],
+    "maxdmg": "6",
+    "pushable": "?",
+    "implemented": "8.54",
+    "loot": [
+        {
+            "itemName": "Walnut",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Peanut",
+            "rarity": "rare"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "15",
+    "creatureclass": "Mammals",
+    "earthDmgMod": "100%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Glires",
+    "senseinvis": "no",
+    "article": "an",
+    "actualname": "enraged squirrel",
+    "illusionable": "yes",
+    "armor": "1",
+    "drownDmgMod": "100%",
+    "convince": "220",
+    "name": "Enraged Squirrel",
+    "isboss": "no",
+    "behaviour": "They will follow you around attacking with very weak melee.",
+    "location": "West of [[Kazordoon]]. Can be lured to surrounding area.",
+    "iceDmgMod": "100%",
+    "strategy": "Just kill them.",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "100%"
+}

@@ -1,0 +1,107 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "These Magic Creatures are the counterpart of [[Green Djinn]]. Even though they are more amiable towards humans than the [[Green Djinn]] are, they will not tolerate anyone that aligns themselves with their greatest enemies.",
+    "walksthrough": "None",
+    "hp": "330",
+    "abilities": "{{Ability List\n |{{Melee|0-100}}\n |{{Ability|Fire strike|45-75|fire\n  |scene={{Scene|spell=7sqmstrike|caster=Blue Djinn|missile=Fire Missile|missile_direction=south-east|missile_distance=7/7|effect=Unknown|damage_effect=None}}}}\n |{{Ability|Energy Strike|50-90|electrified\n  |scene={{Scene|spell=7sqmstrike|caster=Blue Djinn|missile=Energy Missile|missile_direction=south-east|missile_distance=7/7|effect=Unknown|damage_effect=None}}}}\n |{{Ability|life drain strike|55-105|life drain\n  |scene={{Scene|spell=7sqmstrike|caster=Blue Djinn|missile=Death Missile|missile_direction=south-east|missile_distance=7/7|effect=Unknown|damage_effect=None}}}}\n |{{Ability|Drunkenness|30 seconds|drunk\n  |scene={{Scene|spell=7sqmstrike|effect=Teleport Effect|caster=Blue Djinn|missile=Energy Missile|missile_direction=south-east|missile_distance=7/7}}}}\n |{{Ability|[[Cancel Invisibility|Cancels invisibility]]||invisible}}\n |{{Outfit|yes|rabbit|scene={{Scene|spell=7sqmstrike|effect=Blue Sparkles Effect|caster=Blue Djinn|missile_direction=south-east|missile_distance=7/7}}}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "holyDmgMod": "80%",
+    "maxdmg": "{{Max Damage|phyisical=110|fire=80|death=105|energy=25}}",
+    "pushable": "no",
+    "implemented": "7.0",
+    "loot": [
+        {
+            "amount": "1-115",
+            "itemName": "Gold Coin"
+        },
+        {
+            "itemName": "Carrot"
+        },
+        {
+            "itemName": "Book (Blue)",
+            "rarity": "semi-rare"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Royal Spear",
+            "rarity": "semi-rare"
+        },
+        {
+            "amount": "1-4",
+            "itemName": "Small Sapphire",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Blue Piece of Cloth",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Dirty Turban",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Mana Potion",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Small Oil Lamp",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Blue Rose",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Mystic Turban",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Fire, Energy, Poison",
+    "exp": "215",
+    "mitigation": "0.78",
+    "attacktype": "Melee",
+    "history": "The Blue Djinn used to be called just \"Djinn\" before its first spawns were added to the game with the [[Updates/7.4|Christmas Update 2004]]. Before that time, it had already been seen on some [[Test Server]]s.",
+    "article": "a",
+    "actualname": "blue djinn",
+    "illusionable": "no",
+    "armor": "20",
+    "convince": "--",
+    "name": "Blue Djinn",
+    "isboss": "no",
+    "iceDmgMod": "110%",
+    "energyDmgMod": "50%",
+    "deathDmgMod": "113%",
+    "plural": "blue djinns",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "Although the Blue Djinns are considered entities of goodness they tend to guard their secrets well from nosy explorers, diligently performing any task they accepted. Being highly magical creatures, they are masters of illusion and transformation. Djinns are known for their witchcraft and fairy-tales commonly narrate about djinns granting people wishes. Magicians often mock this idea, arguing that only djinns bound by powerful magic feel obliged to such duties. Be that as it may, Blue Djinns are the weakest of their kind. Searching the world for the servants of evil and their eternal nemesis, the green djinns, they still pose a threat for all those they suspect of being in league with evil.",
+    "speed": "110",
+    "pushobjects": "yes",
+    "fireDmgMod": "20%",
+    "sounds": [
+        "Simsalabim",
+        "Wishes can come true.",
+        "Feel the power of my magic, tiny mortal!",
+        "Be careful what you wish for."
+    ],
+    "bestiaryclass": "Magical",
+    "creatureclass": "Humanoids",
+    "earthDmgMod": "100%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Djinn",
+    "spawntype": [
+        "Regular",
+        "Raid"
+    ],
+    "race_id": "80",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "bluedjinn",
+    "behaviour": "Blue Djinns use melee and use their fire attacks when the opponent tries to escape. They don't retarget.",
+    "location": "[[Kha'zeel]], [[Magician Quarter]], [[Forgotten Tomb]].",
+    "strategy": "If you can find a [[Dwarven Ring]], wear it. When the Djinn makes you drunk, you sometimes don't have total control of your movements. It is very wise to wear this, as it can lower the chance of a trip back to the [[Temple]]. It is also good that you wear a [[Dragon Necklace]] to lower the damage inflicted by their [[Fire|fire attacks]] - In melee they use Fire Attack less frequently so try to close them fast."
+}

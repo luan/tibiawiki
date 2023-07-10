@@ -1,0 +1,136 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "Tyrn is the boss of [[Wyrm]]s and [[Elder Wyrm]]s.",
+    "walksthrough": "Energy",
+    "hp": "12000",
+    "speed": "?",
+    "abilities": "{{Ability List\n |{{Melee}}\n |{{Ability|waves|?|?}}\n |{{Ability|[[Self-Healing]] once when in red [[hp]]|5000-6000|element=healing}}\n |{{Ability|[[Invisibility]]|element=invisible}}\n |{{Debuff2|[[Skill]] Reduction UE}}\n |{{Ability|makes you [[drunk]]|element=drunk}}\n}}",
+    "pushobjects": "yes",
+    "healMod": "100%?",
+    "paraimmune": "yes",
+    "fireDmgMod": "70%",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        "GRRR",
+        "GRROARR"
+    ],
+    "maxdmg": "1200+",
+    "pushable": "no",
+    "runsat": "0",
+    "implemented": "10.20",
+    "loot": [
+        {
+            "amount": "1-150",
+            "itemName": "Gold Coin"
+        },
+        {
+            "amount": "1-21",
+            "itemName": "Platinum Coin"
+        },
+        {
+            "amount": "1-5",
+            "itemName": "Small Ruby"
+        },
+        {
+            "amount": "1-10",
+            "itemName": "Small Sapphire"
+        },
+        {
+            "amount": "1-6",
+            "itemName": "Small Topaz"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "Silver Raid Token"
+        },
+        {
+            "amount": "1-10",
+            "itemName": "Sudden Death Rune"
+        },
+        {
+            "amount": "1-10",
+            "itemName": "Strong Health Potion"
+        },
+        {
+            "amount": "1-5",
+            "itemName": "Strong Mana Potion"
+        },
+        {
+            "amount": "1-7",
+            "itemName": "Assassin Star"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Wyrm Scale"
+        },
+        {
+            "amount": "1-4",
+            "itemName": "Dragon Ham"
+        },
+        {
+            "itemName": "Guardian Shield"
+        },
+        {
+            "itemName": "Yellow Gem"
+        },
+        {
+            "itemName": "Violet Gem"
+        },
+        {
+            "itemName": "Sun Mirror",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Lightning Legs"
+        },
+        {
+            "itemName": "Red Gem"
+        },
+        {
+            "amount": "1-7",
+            "itemName": "Small Emerald"
+        },
+        {
+            "itemName": "Wand of Starstorm"
+        },
+        {
+            "itemName": "Small Diamond"
+        },
+        {
+            "itemName": "Lightning Headband"
+        },
+        {
+            "itemName": "Lightning Robe"
+        },
+        {
+            "itemName": "Small Amethyst"
+        }
+    ],
+    "walksaround": "Fire, Poison",
+    "exp": "6900",
+    "creatureclass": "Reptiles",
+    "earthDmgMod": "20%?",
+    "physicalDmgMod": "100%",
+    "bosstiaryclass": "Nemesis",
+    "primarytype": "Wyrms",
+    "spawntype": [
+        "Raid",
+        "Unique"
+    ],
+    "race_id": "966",
+    "senseinvis": "yes",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Tyrn",
+    "isboss": "yes",
+    "behaviour": "Tyrn chases its opponent. At low health, Tyrn will get a second wind and heal himself for about 5000-6000 health.",
+    "location": "Second floor of [[Drefia Wyrm Lair]] ({{Mapper Coords|129.26|126.126|14|4|text=here}}) and [[Vandura Wyrm Cave]] ({{Mapper Coords|126.180|128.83|9|4|text=here}}).",
+    "iceDmgMod": "100%",
+    "strategy": "Kill the monsters around it first because this battle can be a long one. Otherwise, just focus all your power on killing him.",
+    "energyDmgMod": "0%",
+    "deathDmgMod": "100%?"
+}

@@ -1,0 +1,80 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "Similar to an [[Ogre Brute]]",
+    "walksthrough": "?",
+    "hp": "1000",
+    "speed": "?",
+    "abilities": "{{Ability List| {{Melee|0-400|element=physical}}|{{Ability|[[Boulder]] [[Explosion]]|0-100?}}|{{Ability|[[Paralyze]]|element=paralyze}}|{{Ability|small wave of [[Drunkenness]]|element=drunk}} }}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "100%?",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "?",
+    "pushable": "?",
+    "implemented": "11.40.5409",
+    "loot": [
+        {
+            "amount": "0-46",
+            "itemName": "Gold Coin"
+        },
+        {
+            "itemName": "Ogre Ear Stud"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "Onyx Chip"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "Small Stone"
+        },
+        {
+            "itemName": "White Pearl"
+        },
+        {
+            "itemName": "Ogre Nose Ring"
+        },
+        {
+            "itemName": "Battle Stone"
+        },
+        {
+            "itemName": "Strong Health Potion"
+        },
+        {
+            "itemName": "Cookie"
+        },
+        {
+            "itemName": "Meat"
+        },
+        {
+            "itemName": "Small Ruby"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "800",
+    "creatureclass": "Humanoids",
+    "earthDmgMod": "100%?",
+    "physicalDmgMod": "100%?",
+    "primarytype": "Giants",
+    "senseinvis": "yes",
+    "article": "an",
+    "actualname": "animated ogre brute",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Animated Ogre Brute",
+    "isboss": "?",
+    "behaviour": "Unknown",
+    "location": "[[Museum of Tibian Arts]] (only at [[Night]])",
+    "iceDmgMod": "100%?",
+    "strategy": "Unknown",
+    "energyDmgMod": "100%?",
+    "deathDmgMod": "100%?"
+}

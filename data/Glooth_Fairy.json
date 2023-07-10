@@ -1,0 +1,147 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "It looks like a [[Glooth Golem]].",
+    "walksthrough": "Energy",
+    "hp": "59000",
+    "speed": "?",
+    "abilities": "{{Ability List\n |{{Melee|0-1900}}\n |{{Ability|[[Blue Electricity Effect|Blue Energy Ultimate Explosion]]|300-400|element=energy}}\n |{{Debuff2|Great Energy Beam|magic=yes}}\n |{{Ability|[[Poison Effect 2|Poison Ultimate Explosion]]|paralyses you|element=paralyze}}\n |{{Debuff2|[[Stars Effect|Yellow Stars Beam]]|shielding=yes}}\n |{{Healing|range=200-250}}\n |{{Healing|range=7500-8000}}\n}}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "105%",
+    "holyDmgMod": "85%",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "?",
+    "pushable": "?",
+    "cooldown": "0.28",
+    "implemented": "10.50",
+    "loot": [
+        {
+            "itemName": "Gold Coin"
+        },
+        {
+            "amount": "0-5",
+            "itemName": "Platinum Coin"
+        },
+        {
+            "amount": "0-5",
+            "itemName": "Great Health Potion"
+        },
+        {
+            "amount": "0-5",
+            "itemName": "Great Mana Potion"
+        },
+        {
+            "amount": "0-5",
+            "itemName": "Great Spirit Potion"
+        },
+        {
+            "amount": "0-3",
+            "itemName": "Glooth Injection Tube"
+        },
+        {
+            "amount": "0-5",
+            "itemName": "Bowl of Glooth Soup"
+        },
+        {
+            "amount": "0-5",
+            "itemName": "Glooth Sandwich"
+        },
+        {
+            "amount": "0-5",
+            "itemName": "Glooth Steak"
+        },
+        {
+            "amount": "0-5",
+            "itemName": "Small Amethyst"
+        },
+        {
+            "amount": "0-5",
+            "itemName": "Small Diamond"
+        },
+        {
+            "amount": "0-5",
+            "itemName": "Small Emerald"
+        },
+        {
+            "amount": "0-5",
+            "itemName": "Small Ruby"
+        },
+        {
+            "amount": "0-5",
+            "itemName": "Small Topaz"
+        },
+        {
+            "amount": "0-5",
+            "itemName": "Small Sapphire"
+        },
+        {
+            "itemName": "Iron Ore"
+        },
+        {
+            "itemName": "Red Gem"
+        },
+        {
+            "itemName": "Blue Gem"
+        },
+        {
+            "itemName": "Yellow Gem"
+        },
+        {
+            "itemName": "Gear Wheel"
+        },
+        {
+            "itemName": "Glooth Axe"
+        },
+        {
+            "itemName": "Glooth Club"
+        },
+        {
+            "itemName": "Glooth Blade"
+        },
+        {
+            "itemName": "Glooth Amulet"
+        },
+        {
+            "itemName": "Glooth Spear"
+        },
+        {
+            "itemName": "Glooth Cape"
+        },
+        {
+            "itemName": "Rubber Cap"
+        },
+        {
+            "itemName": "Heat Core"
+        },
+        {
+            "itemName": "Feedbag"
+        }
+    ],
+    "walksaround": "Fire",
+    "exp": "19000",
+    "creatureclass": "Misc",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "100%?",
+    "bosstiaryclass": "Bane",
+    "primarytype": "Machines",
+    "race_id": "1058",
+    "senseinvis": "?",
+    "actualname": "Glooth Fairy",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Glooth Fairy",
+    "isboss": "yes",
+    "behaviour": "Fights in close range. Often stops chasing and walks aimlessly for 2-3 seconds before retargetting(passing through fire walls to hit the player).",
+    "location": "[[Oramond]].",
+    "iceDmgMod": "100%?",
+    "strategy": "Trap with fields and attack, avoid its beams. If he is in deep red health for too long, he will heal himself for several thousand health. Therefore, when he gets to low red [[hp]], it's important to focus all your strongest attacks on him before he does this. However, he will only heal himself this way 3 times, so it is also possible to just make him do it, then you are free to finish him off.\n\nAnother strategy is to drop a fire wall in the middle of the room and 2 energy walls in a box shape and run him over the energy while avoiding his melee attacks.",
+    "energyDmgMod": "95%",
+    "deathDmgMod": "70%?"
+}

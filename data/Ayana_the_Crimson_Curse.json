@@ -1,0 +1,41 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "This boss, just like [[Tamru the Black]] and [[Owin (Creature)|Owin]], only spawn during [[Full Moon]].",
+    "walksthrough": "Energy, Fire, Poison",
+    "hp": "17000",
+    "abilities": "{{Ability List}}",
+    "healMod": "100%",
+    "paraimmune": "?",
+    "secondarytype": "Lycanthropes",
+    "fireDmgMod": "0%",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        "BRIZZLE!!!"
+    ],
+    "maxdmg": "0",
+    "implemented": "13.20",
+    "loot": [],
+    "exp": "12400",
+    "creatureclass": "Reptiles",
+    "earthDmgMod": "70%?",
+    "physicalDmgMod": "100%?",
+    "bosstiaryclass": "Archfoe",
+    "primarytype": "Crocodilians",
+    "spawntype": [
+        "Regular"
+    ],
+    "race_id": "2404",
+    "senseinvis": "yes",
+    "actualname": "Ayana the Crimson Curse",
+    "illusionable": "no",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Ayana the Crimson Curse",
+    "isboss": "yes",
+    "location": "[[Oskayaat]], around {{Mapper Coords|129.72|128.185|7|4|text=here}}.",
+    "iceDmgMod": "100%?",
+    "energyDmgMod": "105%",
+    "deathDmgMod": "50%"
+}

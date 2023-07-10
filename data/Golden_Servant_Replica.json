@@ -1,0 +1,102 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "golden servant replicas",
+    "hpDrainDmgMod": "100%?",
+    "notes": "It's the replica of a [[Golden Servant]]. {{JSpoiler|You have to kill 5 of them in a mission of the [[Forgotten Knowledge Quest]].}}",
+    "isarenaboss": "no",
+    "walksthrough": "?",
+    "hp": "2000",
+    "usespells": "yes",
+    "occurrence": "Rare",
+    "speed": "105",
+    "abilities": "{{Ability List| {{Melee|?}}|{{Ability|[[Energy Wave]]|0-?|element=energy}}|{{Ability|[[Thunderstorm]]|0-?|element=?}} }}",
+    "pushobjects": "?",
+    "healMod": "100%",
+    "paraimmune": "?",
+    "fireDmgMod": "85%",
+    "holyDmgMod": "0%",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "?",
+    "pushable": "no",
+    "implemented": "11.02.4128",
+    "bestiaryclass": "Construct",
+    "loot": [
+        {
+            "amount": "0-118",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Health Potion",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Mana Potion",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Halberd",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Green Mushroom",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Stealth Ring",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Spellbook of Enlightenment",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Gear Wheel",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Slime Mould",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Golden Can of Oil",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Gold Ring",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Golden Armor",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Fire",
+    "exp": "450",
+    "creatureclass": "Misc",
+    "earthDmgMod": "20%",
+    "mitigation": "0.88",
+    "physicalDmgMod": "100%",
+    "primarytype": "Machines",
+    "race_id": "1327",
+    "attacktype": "Melee",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "article": "a",
+    "actualname": "golden servant replica",
+    "illusionable": "yes",
+    "armor": "29",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Golden Servant Replica",
+    "isboss": "no",
+    "behaviour": "Fights in close combat.",
+    "location": "[[Replica Dungeon]]",
+    "iceDmgMod": "105%",
+    "strategy": "Unknown",
+    "energyDmgMod": "75%",
+    "deathDmgMod": "100%"
+}

@@ -1,0 +1,78 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "deepling brawlers",
+    "hpDrainDmgMod": "100%?",
+    "notes": "This creature is the strongest version of a [[Deepling Worker]].",
+    "isarenaboss": "no",
+    "walksthrough": "Fire",
+    "hp": "380",
+    "usespells": "no",
+    "occurrence": "Uncommon",
+    "speed": "85",
+    "abilities": "{{Ability List\n |{{Melee|?}}\n |{{Ability|Throws [[Spear]]|?|element=physical\n  |scene={{Scene|spell=3sqmstrike|effect=Blood Effect|caster=Deepling Brawler||missile=Spear Missile|missile_direction=south-east|missile_distance=3/3}}}}\n}}",
+    "pushobjects": "?",
+    "healMod": "100%",
+    "paraimmune": "?",
+    "fireDmgMod": "0%",
+    "holyDmgMod": "100%",
+    "sounds": [
+        "?"
+    ],
+    "maxdmg": "{{Max Damage|physical=150?}}",
+    "pushable": "?",
+    "implemented": "9.50",
+    "bestiaryclass": "Aquatic",
+    "loot": [
+        {
+            "amount": "0-44",
+            "itemName": "Gold Coin"
+        },
+        {
+            "itemName": "Deepling Scales"
+        },
+        {
+            "itemName": "Eye of a Deepling"
+        },
+        {
+            "amount": "0-3",
+            "itemName": "Fish"
+        },
+        {
+            "itemName": "Small Emerald"
+        },
+        {
+            "itemName": "Heavy Trident",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Fish Fin",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Energy, Poison",
+    "exp": "260",
+    "creatureclass": "Amphibians",
+    "earthDmgMod": "110%",
+    "mitigation": "0.72",
+    "physicalDmgMod": "100%",
+    "primarytype": "Deeplings",
+    "race_id": "859",
+    "attacktype": "Melee",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "article": "a",
+    "actualname": "deepling brawler",
+    "illusionable": "no",
+    "armor": "18",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Deepling Brawler",
+    "isboss": "no",
+    "behaviour": "You can block this creature's respawn. They attack from afar with their spears, approaching melee combat. It runs away with low life.",
+    "location": "[[Fiehonja]] (spirit spawns: {{Mapper Coords|130.255|122.9|14|4|text=here}}, {{Mapper Coords|131.30|122.64|14|4|text=here}} and {{Mapper Coords|131.38|122.12|14|4|text=here}}).",
+    "iceDmgMod": "0%",
+    "strategy": "Treat them as you'd treat a [[Deepling Worker]].",
+    "energyDmgMod": "110%",
+    "deathDmgMod": "100%"
+}

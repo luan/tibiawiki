@@ -1,0 +1,68 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "scar tribe warriors",
+    "hpDrainDmgMod": "100%?",
+    "notes": "They are a weaker [[Orc Warrior]].",
+    "walksthrough": "?",
+    "hp": "125",
+    "speed": "80",
+    "abilities": "{{Ability List|}}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "100%?",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "?",
+    "pushable": "?",
+    "implemented": "10.55",
+    "loot": [
+        {
+            "amount": "0-8",
+            "itemName": "Gold Coin"
+        },
+        {
+            "itemName": "Meat"
+        },
+        {
+            "itemName": "Studded Legs"
+        },
+        {
+            "itemName": "Chain Armor",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Plate Shield",
+            "rarity": "rare"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "85",
+    "creatureclass": "Humanoids",
+    "earthDmgMod": "100%?",
+    "physicalDmgMod": "100%?",
+    "primarytype": "Orcs",
+    "spawntype": [
+        "Regular",
+        "Unblockable"
+    ],
+    "race_id": "1073",
+    "senseinvis": "?",
+    "article": "a",
+    "actualname": "scar tribe warrior",
+    "illusionable": "yes",
+    "armor": "7",
+    "drownDmgMod": "100%?",
+    "convince": "?",
+    "name": "Scar Tribe Warrior",
+    "isboss": "no",
+    "behaviour": "Unknown",
+    "location": "[[Dawnport]] [[Dawnport Orc Cave|Orc Cave]].",
+    "iceDmgMod": "100%?",
+    "strategy": "Unknown",
+    "energyDmgMod": "100%?",
+    "deathDmgMod": "100%?"
+}

@@ -1,0 +1,85 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "You can [[Crystal Wolf (Mount)|tame]] a Crystal Wolf by using a [[Diapason]] on it.\n<gallery mode=\"nolines\">\nCrystalWolf Thornfire.png\nCrystal Wolf Tamed =).jpg|Taming the Crystal Wolf.\n</gallery>\n{{JSpoiler|Can only appear during the [[Thornfire World Change]]. Lure a [[Thornfire Wolf]] to the Bog Temple in order to transform it to a Crystal Wolf.\nBy successfully taming the Crystal Wolf you earn the achievement [[The Right Tone]]}}",
+    "isarenaboss": "no",
+    "walksthrough": "None.",
+    "hp": "750",
+    "abilities": "{{Ability List|{{Melee|0-120}}|{{Ability|T-Shaped Earth Wave|0-?|earth}}|{{Ability|Ice area attack (X-Shaped)|40-60|ice}}|{{Healing|range=0-65}}|{{Ability|Mana Drain|0-60|manadrain}}}}",
+    "healMod": "100%",
+    "paraimmune": "?",
+    "secondarytype": "Cryo-Elementals",
+    "holyDmgMod": "90%",
+    "maxdmg": "{{Max Damage|physical=120|earth=?|ice=60|manadrain=60}}",
+    "pushable": "no",
+    "implemented": "9.10",
+    "loot": [
+        {
+            "amount": "0-52",
+            "itemName": "Gold Coin"
+        },
+        {
+            "amount": "0-4",
+            "itemName": "Meat"
+        },
+        {
+            "amount": "0-10",
+            "itemName": "Shiver Arrow",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Wolf Paw",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Hailstorm Rod",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Shiny Stone",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Crystalline Armor",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Fire, Energy, Poison",
+    "exp": "275",
+    "mitigation": "0.67",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "crystal wolf",
+    "illusionable": "Yes",
+    "armor": "19",
+    "convince": "--",
+    "name": "Crystal Wolf",
+    "isboss": "no",
+    "iceDmgMod": "50%",
+    "energyDmgMod": "105%",
+    "deathDmgMod": "90%",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "lightcolor": "179",
+    "occurrence": "Very Rare",
+    "speed": "160",
+    "pushobjects": "yes",
+    "fireDmgMod": "90%",
+    "sounds": [
+        "Aaaauuuuuooooooo!!",
+        "Raaarrr!"
+    ],
+    "lightradius": "5",
+    "bestiaryclass": "Magical",
+    "creatureclass": "Mammals",
+    "earthDmgMod": "95%",
+    "physicalDmgMod": "105%",
+    "primarytype": "Canines",
+    "race_id": "740",
+    "bestiarylevel": "Medium",
+    "senseinvis": "?",
+    "drownDmgMod": "100%?",
+    "behaviour": "Retreats in dark red health.",
+    "location": "[[Shadowthorn]]",
+    "strategy": "Stay diagonal to avoid the wave attacks."
+}

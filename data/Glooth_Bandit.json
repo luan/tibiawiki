@@ -1,0 +1,150 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "The Glooth Bandits are a criminal gang. Their main operation is to steal valuable resources for their mastermind's research into mutated glooth. They are oblivious to their mastermind's activities and goals.",
+    "isarenaboss": "no",
+    "walksthrough": "Poison",
+    "hp": "2600",
+    "abilities": "{{Ability List\n |{{Melee|0-305+}}\n |{{Ability|Shoots [[Arrow]]s|60-200?|element=physical\n  |scene={{Scene|spell=5sqmstrike|background=canvas|caster=Glooth Bandit|look_direction=south|missile=Arrow Missile|missile_direction=south-east|missile_distance=5/5}}}}\n |{{Healing|range=200-250?}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "holyDmgMod": "100%",
+    "maxdmg": "{{Max Damage|physical=~500}}",
+    "pushable": "no",
+    "usedelements": "Physical",
+    "implemented": "10.70",
+    "loot": [
+        {
+            "amount": "0-100+",
+            "itemName": "Gold Coin"
+        },
+        {
+            "amount": "0-3+",
+            "itemName": "Platinum Coin"
+        },
+        {
+            "itemName": "Ultimate Health Potion"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "Great Mana Potion"
+        },
+        {
+            "itemName": "Great Spirit Potion"
+        },
+        {
+            "itemName": "Great Health Potion"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "Small Emerald"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "Small Topaz"
+        },
+        {
+            "itemName": "Glooth Bag"
+        },
+        {
+            "itemName": "Rubber Cap"
+        },
+        {
+            "itemName": "Glooth Steak"
+        },
+        {
+            "itemName": "Glooth Sandwich"
+        },
+        {
+            "itemName": "Glooth Amulet"
+        },
+        {
+            "itemName": "Glooth Blade"
+        },
+        {
+            "itemName": "Glooth Capsule"
+        },
+        {
+            "itemName": "Tainted Glooth Capsule"
+        },
+        {
+            "itemName": "Glooth Club"
+        },
+        {
+            "itemName": "Terra Hood"
+        },
+        {
+            "itemName": "Terra Mantle"
+        },
+        {
+            "itemName": "Terra Legs"
+        },
+        {
+            "itemName": "Terra Boots"
+        },
+        {
+            "itemName": "Glooth Cape"
+        },
+        {
+            "itemName": "Skull Staff"
+        },
+        {
+            "itemName": "Beastslayer Axe"
+        },
+        {
+            "itemName": "Glooth Axe"
+        },
+        {
+            "itemName": "War Axe"
+        },
+        {
+            "itemName": "Glooth Spear"
+        },
+        {
+            "itemName": "Green Gem"
+        }
+    ],
+    "walksaround": "Energy, Fire",
+    "exp": "2000",
+    "mitigation": "1.65",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "glooth bandit",
+    "illusionable": "no",
+    "armor": "46",
+    "convince": "--",
+    "name": "Glooth Bandit",
+    "isboss": "no",
+    "iceDmgMod": "90%",
+    "energyDmgMod": "80%",
+    "deathDmgMod": "80%",
+    "plural": "glooth bandits",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "Glooth Bandits, as they also call themselves, hang out at the more or less  abandoned tunnels and sewers under Rathleton. As usual bandits they try to gain something of value for themselves, but they are also highly interested in new glooth-based inventions and weapons. Glooth Bandits are often in the possession of a wide variety of weapons, their armour has usually at least one glooth-based component. They set up their hideouts in secluded and often dangerous caves, tunnels and sewers. Involved in many illegal activities, they can be found in the service of all kind of persons that want some dirty work performed. Mostly though, the theft of new glooth weapons is their main purpose.",
+    "speed": "150",
+    "pushobjects": "yes",
+    "fireDmgMod": "105%",
+    "sounds": [
+        ""
+    ],
+    "runsat": "0",
+    "bestiaryclass": "Human",
+    "creatureclass": "Humans",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "85%",
+    "primarytype": "Outlaws",
+    "spawntype": [
+        "Regular",
+        "Unblockable"
+    ],
+    "race_id": "1119",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "gloothbandit",
+    "behaviour": "The Glooth Bandit will chase down its foes, firing arrows if they try to escape.",
+    "location": "[[Underground Glooth Factory]].",
+    "strategy": "'''[[Knight]]s:''' Try to not get surrounded by a lot of them, as they tend to take a while to kill between their good amount of [[Hit Point]]s, physical resistance and [[Self-Healing]] on top of dealing high, constant damage. They can be hunted with good profit around level 150 if care is taken."
+}

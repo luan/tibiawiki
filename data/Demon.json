@@ -1,0 +1,208 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "Demons are the servants of evil. More or less devoted servants of [[Zathroth]], they cause strife and havoc wherever they appear. Their masters are known as [[Demonlord]]s, [[Demon Overlords]] and [[Archdemons]].<br>They shout \"CHAMEK ATH UTHUL ARAK!\", which means \"SACRIFICE YOUR BLOOD!\" according to [[The Spectres Were Everywhere (Book)|this book]].<br>You can use a [[Blessed Wooden Stake]] on a slain Demon for a chance to gather some [[Demon Dust]]. {{Seealso|Demon Dust/Dusting}}",
+    "walksthrough": "Fire, Energy, Poison",
+    "hp": "8200",
+    "abilities": "{{Ability List\n |{{Melee|0-500}}\n |{{Ability|Great Fireball|150-250|fire\n  |scene={{Scene|spell=5sqmballtarget|effect=Fireball Effect|caster=Demon|damage_effect=Fire Effect|missile=Fire Missile|missile_direction=south-east|missile_distance=5/5|edge_size=32}}}}\n |{{Ability|Energy Beam|300-480|lifedrain\n  |scene={{Scene|spell=8sqmbeam|effect=Purple Electricity Effect|caster=Demon|look_direction=east}}}}\n |{{Ability|Close-range Energy Strike|210-300|element=energy\n  |scene={{Scene|spell=1sqmstrike|effect=Blue Electricity Effect|caster=Demon|missile=Energy Missile|missile_direction=south-east|missile_distance=1/1}}}}\n |{{Ability|Mana Drain|30-120|element=mana drain\n  |scene={{Scene|spell=3sqmstrike|effect=Cloud Effect|caster=Demon|missile=Death Missile (Large)|missile_direction=south-east|missile_distance=3/3}}}}\n |{{Healing|range=80-250}}\n |{{Ability|Shoots Fire Field|element=fire field\n  |scene={{Scene|spell=3sqmstrike|caster=Demon|effect=Fire|missile=Fire Missile|missile_direction=south-east|missile_distance=3/3}}}}\n |{{Ability|Distance Paralyze|element=paralyze\n  |scene={{Scene|spell=3sqmstrike|effect=Cloud Effect|caster=Demon|missile=Death Missile (Large)|missile_direction=south-east|missile_distance=3/3}}}}\n |{{Summon|Fire Elemental|1}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "holyDmgMod": "112%",
+    "maxdmg": "{{Max Damage|physical=500|fire=250|lifedrain=480|energy=300|manadrain=120|summons=250}}",
+    "pushable": "No",
+    "implemented": "4.0",
+    "loot": [
+        {
+            "amount": "0-100",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "amount": "3-6",
+            "itemName": "Platinum Coin",
+            "rarity": "common"
+        },
+        {
+            "amount": "0-3",
+            "itemName": "Great Mana Potion",
+            "rarity": "common"
+        },
+        {
+            "amount": "0-3",
+            "itemName": "Great Spirit Potion",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Demonic Essence",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "0-3",
+            "itemName": "Ultimate Health Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Demon Horn",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "0-6",
+            "itemName": "Fire Mushroom",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "0-10",
+            "itemName": "Assassin Star",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "0-5",
+            "itemName": "Small Topaz",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "0-5",
+            "itemName": "Small Ruby",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "0-5",
+            "itemName": "Small Amethyst",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "0-5",
+            "itemName": "Small Emerald",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Talon",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Orb",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Fire Axe",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Stealth Ring",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Red Gem",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Ring of Healing",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Might Ring",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Giant Sword",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Ice Rapier",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Golden Sickle",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Purple Tome",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Devil Helmet",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Gold Ring",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Demon Shield",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Platinum Amulet",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Mastermind Shield",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Golden Legs",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Magic Plate Armor",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Demon Trophy",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Demonrage Sword",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "None",
+    "exp": "6000",
+    "mitigation": "1.74",
+    "attacktype": "Melee",
+    "history": "==== Mintwallin Spawn ====\n[[File:Daemon.gif|left]]The first Demon spawned near present day [[Mintwallin]], south of the current city, and was a lot weaker than today. It disappeared in a 1999 or 2000 [[update]]. It was named '''Daemon''' until update [[Updates/5.1|Update 5.1]] and looked a bit different.<br />\nThis [[Daemon]] had 3000 hp and gave 6000 exp. Its sounds were \"Your soul will be mine!\"; \"CHAMEK ATH UTHUL ARAK!\"; \"I SMELL FEEEEAAAAAR!\"; \"Your resistance is futile!\". It was located on a level above \"[[Cavern City]]\", south of [[Mintwallin]]. They were originally pushable and could be trapped by items like [[Parcel]]s, and [[Flower Pot]]s. You could kill them around LVL 30. It dropped 0-350 [[gp]], [[Golden Helmet]], [[Magic Plate Armor|Enchanted Plate Armor]], [[Steel Shield]], [[Fire Sword]].\n\nDaemon was Inspired in Ultima VII Ethereal Monster.\n\n==== Demons are brought back to Tibia ====\n[[File:Demon (6.0).gif|left]]When [[Edron]] was introduced, the Demons could be found and killed again, this time only for people with a [[Premium Account]]. They received a new sprite, similar to the one they currently use.<br >\nThey had 5500 hitpoints until [[Updates/7.0|Update 7.0]] when it was changed to 8200 hitpoints.\n\n==== Older loot ====\nDemons would sometimes drop [[Magic Sword]]s and [[Coconut]]s, but this is no longer the case.\n\n==== No longer strongest normal creature ====\nThe [[Updates/7.9|Christmas Update 2006]] brought new demonic creatures to [[Tibia]], among them the [[Juggernaut]] which is stronger than the Demon.\n\n==== {{Update|10.37}} ====\n* Loot changes applied in this patch:\n** More [[Assassin Star]]s are dropped and more frequently.\n** Now drops up to 6 [[Platinum Coin]]s (previously 1).\n** [[Demon Horn]]s dropped more frequently.\n** Now drops [[Demonic Essence]].\n** Now drops 0-5 [[Small Amethyst]]s.\n** Now drops 0-5 [[Small Topaz]]es.\n** Now drops up to 5 [[Small Emerald]]s (previously 1).\n** Now drops 0-5 [[Small Ruby|Small Rubies]].\n** Now drops about half as much [[Gold Coin]]s.\n** No longer drops [[Double Axe]]s.",
+    "article": "a",
+    "actualname": "demon",
+    "illusionable": "no",
+    "armor": "44",
+    "convince": "--",
+    "name": "Demon",
+    "isboss": "no",
+    "iceDmgMod": "112%",
+    "energyDmgMod": "50%",
+    "deathDmgMod": "80%",
+    "plural": "demons",
+    "hpDrainDmgMod": "0%",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "The famous knight Apoc once wrote: \"Demons are the most malevolent, powerful, and dangerous creatures in Tibia. In addition to their awesome physical strength, they can also use powerful spells, such as fireballs and fire fields. Especially dangerous is their gaze, which can produce beams of pure energy to annihilate their poor victims. Moreover, they drain mana off their victims, heal themselves and summon fire elementals as their vassals.<br />Fortunately, Demons usually live in the deepest dungeons near hell but sometimes they appear also on the surface. When they do, they leave a track of death and destruction behind them. Nobody has ever been able to slay even one of these entities and only very few adventurers have survived an encounter with them.\"",
+    "speed": "128",
+    "pushobjects": "Yes",
+    "fireDmgMod": "0%",
+    "sounds": [
+        "Your soul will be mine!",
+        "CHAMEK ATH UTHUL ARAK!",
+        "I SMELL FEEEEAAAAAR!",
+        "Your resistance is futile!",
+        "MUHAHAHAHA!"
+    ],
+    "runsat": "0",
+    "bestiaryclass": "Demon",
+    "creatureclass": "Demons",
+    "earthDmgMod": "60%",
+    "physicalDmgMod": "75%",
+    "primarytype": "Demons",
+    "spawntype": [
+        "Regular",
+        "Raid",
+        "Unblockable"
+    ],
+    "race_id": "35",
+    "bestiarylevel": "Hard",
+    "senseinvis": "yes",
+    "drownDmgMod": "0%",
+    "bestiaryname": "demon",
+    "behaviour": "Demons attack the enemy with extremely powerful attacks.",
+    "location": "[[Hero Cave]], [[Kharos|Ferumbras' Citadel]], [[Goroma]], [[Ghostlands]] ([[Warlock]] area; unreachable), [[Liberty Bay]] (hidden underground passage; unreachable), [[Razachai]], deep in [[Pits of Inferno]] (found in every throneroom except [[Verminor]]'s), deep [[Formorgar Mines]], [[Demon Forge]], [[Alchemist Quarter]], [[Magician Quarter]], [[Chyllfroest]], [[Oramond Dungeon]], [[Abandoned Sewers]], [[Hell Hub]] and [[Halls of Ascension]].",
+    "strategy": "Do not stand in front of them. They use an attack which looks like [[Energy Beam]], but causes [[Life Drain]] damage. Kill the [[Fire Elemental]]s quickly. You can start blocking them at [[level]] 80 with good [[skills]] (blockers with [[level]] lower than 80 will probably die in most of the cases). You can hunt them with a team of [[mage]]s using [[Icicle (Rune)|Icicle Runes]]. It's better to use [[Boots of Haste]] instead of [[Steel Boots]] because Demons are fast and staying diagonal can be hard. [[Mage]]s can actually block them with full mana using [[Magic Shield]] at lvl 80 with [[Great Mana Potion]]s while someone else shoots (not profitable). <br />\n'''[[Paladin]]s''' can run them with [[Speed]] boosters like [[Speed Set]] and kill them with [[Assassin Star]]s or [[Royal Crossbow]] with [[Power Bolt|Power]] or [[Infernal Bolt]]s and [[Divine Missile]] in spacious respawns. Using [[Divine Healing]] or a combination of [[Intense Recovery]] and [[Intense Healing]] after Demon's Huge Fireball (Radius as high as [[Ultimate Spells]]) will keep you out of danger. Just focus on your speed and your [[mana]]. You can't stairhop them anymore. If you have more than 1700 [[Hit Points]] you can run around and use [[Light Healing]] and after combo when you have 1000 or less hp - [[Salvation]]. <br/>\n'''[[Knight]]s''' can kill them but it will most likely be a huge waste unless they are level 200+ and are able to use an elemental ice weapon such as [[Winterblade]] and [[Summon Skullfrost]] as Demons are otherwise strong against [[Physical Damage]] but weak against [[Ice Damage]]; with an  ice weapon and/or high enough level knights can nowadays solo hunt Demons with considerable profit. If you are a high leveled player and someone's healing you by [[Heal Friend]] spell you may block a few Demons and use [[Berserk]] and [[Annihilation]] spells to kill them faster.<br/>\n'''[[Mage]]s''' should put on [[Magma Set]], [[Mastermind Shield]] and [[Magic Sword]] to get more defense. [[Magic Shield]] is recommended below [[level]] 130. All vocations can use [[Garlic Necklace]] to reduce damage from the Life Drain Beam. While you are alone it's recommended to run around and use [[Icicle Rune]]s. If you have a [[knight]] in your team he can block a few demons and you may use [[Avalanche]] runes on them.\nIs recommended use \"freeze charm\" when bestiary is completed because can deal 459 ice damage to demon."
+}

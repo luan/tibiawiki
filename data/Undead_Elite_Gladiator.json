@@ -1,0 +1,130 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "It's a much stronger version of a [[Undead Gladiator]].",
+    "walksthrough": "Fire , Energy.",
+    "hp": "8000",
+    "abilities": "{{Ability List| {{Melee|0-500|element=physical}}|{{Ability|[[Whirlwind Throw|Whirlwind Sword Throw]]|500-600|element=?}}|{{Ability|Small Poison Wave|320-420|physical}}|{{Ability|[[Berserk]]|350-450|element=?}} }}",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "holyDmgMod": "90%",
+    "maxdmg": "1450+",
+    "pushable": "No",
+    "implemented": "11.80.7048",
+    "loot": [
+        {
+            "amount": "1-40",
+            "itemName": "Platinum Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Belted Cape",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-18",
+            "itemName": "Throwing Star",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Scimitar",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Ultimate Health Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Knight Axe",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Plate Legs",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Great Health Potion",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Broken Gladiator Shield",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Flask of Warrior's Sweat",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Plate Armor",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Hunting Spear",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Two Handed Sword",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Protection Amulet",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Dark Helmet",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Stealth Ring",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Crusader Helmet",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Relic Sword",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Poison",
+    "exp": "4740",
+    "mitigation": "2.40",
+    "attacktype": "Melee",
+    "history": "It's experience was decreased from 7,900 to 4,740 on [[Updates/12.31]].",
+    "article": "an",
+    "actualname": "undead elite gladiator",
+    "illusionable": "no",
+    "armor": "85",
+    "convince": "--",
+    "name": "Undead Elite Gladiator",
+    "isboss": "?",
+    "iceDmgMod": "100%",
+    "energyDmgMod": "80%",
+    "deathDmgMod": "105%",
+    "plural": "undead elite gladiators",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "The Undead Elite Gladiator is a stronger version of Undead Gladiators.",
+    "speed": "150",
+    "pushobjects": "Yes",
+    "fireDmgMod": "20%",
+    "sounds": [
+        ""
+    ],
+    "runsat": "0",
+    "bestiaryclass": "Undead",
+    "creatureclass": "The Undead",
+    "earthDmgMod": "110%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Skeletons",
+    "race_id": "1675",
+    "bestiarylevel": "Hard",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "undeadelitegladiator",
+    "behaviour": "Fights in close combat.",
+    "location": "[[Deep Desert]].",
+    "strategy": "All vocations should avoid their wave, it's small, so if you're hunting from a distance, you don't necessarily have to be diagonal, just keep a 4 SQM distance.\n\nPaladins can start hunting those around level 120 with high risk (200+ recommended), just lure it to the entrance of the cave and throw a Poison Wall Rune to run around it.\n\nBecause of their strong melee and berserk, knights should stay away from them until level 200 with a healer.\n\nMages should get a blocker or use their summon after level 200 with mana shield."
+}

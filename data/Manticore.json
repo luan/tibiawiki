@@ -1,0 +1,131 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "It's the only [[Anuma]] that fights from distance.",
+    "walksthrough": "Fire, Poison, Energy",
+    "hp": "6700",
+    "abilities": "{{Ability List\n |{{Melee|poisons}}\n |{{Ability|Fire Ball|450-550; 4 sqm distance|element=fire\n  |scene={{Scene|spell=1sqmballtarget|effect=Blast Effect|damage_effect=Fire Effect|missile=Fire Missile|missile_direction=south-east|missile_distance=2/2}}}}\n |{{Ability|Fire Beam|300-450|element=fire\n  |scene={{Scene|spell=7sqmbeam|effect=Fire Effect|look_direction=east}}}}\n |{{Ability|Poison Arrow Ball|300-400|element=poison\n  |scene={{Scene|spell=1sqmballtarget|effect=Poison Effect 1|missile=Poison Arrow Missile|missile_direction=south-east|missile_distance=2/2}}}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "holyDmgMod": "100%",
+    "maxdmg": "1250+",
+    "pushable": "no",
+    "usedelements": "Fire, Earth",
+    "implemented": "12.20.8834",
+    "loot": [
+        {
+            "amount": "1-3",
+            "itemName": "Platinum Coin",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-8",
+            "itemName": "Flaming Arrow",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Small Emerald",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Green Crystal Fragment",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Manticore Tail",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Manticore Ear",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Magma Boots",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Magma Legs",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Magma Coat",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Magma Monocle",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Violet Gem",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Wand of Dragonbreath",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Rainbow Quartz",
+            "rarity": "semi-rare"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "Prismatic Quartz",
+            "rarity": "semi-rare"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Royal Star",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Wand of Draconia",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Wand of Everblazing",
+            "rarity": "rare"
+        }
+    ],
+    "walksaround": "None",
+    "exp": "5100",
+    "mitigation": "2.16",
+    "attacktype": "Distance",
+    "article": "a",
+    "actualname": "manticore",
+    "illusionable": "no",
+    "armor": "78",
+    "convince": "--",
+    "name": "Manticore",
+    "isboss": "no",
+    "iceDmgMod": "120%",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "100%",
+    "plural": "manticores",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "Manticores have the body of a lion with a human face, leathery wings and a huge scorpion tail. The sting carries a kind of paralytic venom. They are lethal predators which have a preference for human flesh. Manticores devour their victims with triple rows of teeth, leaving behind not even the bones. Therefore, the human population of Kilmaresh also calls them \"man-eaters\" - albeit on the quiet. <br/>Other than most Anuma, manticores are ferocious and savage, more wild beasts than noble magical beings. Nonetheless they are intelligent, if not as much as their benign sphinx sisters or gracious lamassu brothers. They have an ancient and lasting rivalry with the gryphons for reasons that are unknown to most mortals. Sages of Kilmaresh are researching this question for centuries but by now every story is just mere speculation. The best theory is that the manticores, favourite Anuma of the sun goddess Fafnar, hate the gryphons as they are Suon's favourite children. When Suon cast his wild sister out, the manticores accepted his sentence as all Anuma did, but bear a grudge against the gryphons ever since.<br/>Manticores roam the vast steppes of Kilmaresh, hunting for prey and defending their territories. Interestingly, they are able to interbreed with common lions. The progeny of such a mating is a special kind of very strong lions with poisonous fangs but they are rarely encountered.",
+    "speed": "150",
+    "pushobjects": "yes",
+    "fireDmgMod": "80%",
+    "sounds": [
+        "I'm spotting my next meal"
+    ],
+    "runsat": "0",
+    "bestiaryclass": "Magical",
+    "creatureclass": "Misc",
+    "earthDmgMod": "100%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Anuma",
+    "spawntype": [
+        "Regular"
+    ],
+    "race_id": "1816",
+    "bestiarylevel": "Hard",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "manticore",
+    "behaviour": "It fights from distance.",
+    "location": "[[Kilmaresh]].",
+    "strategy": "If you're fighting only one, avoid staying in front of it. Since they stay at distance and are found in open areas, it's not recommended for knights to kill them solo since you'll inevitably lure other creatures. When killing them along with other creatures, try to run around them and keep them near the other creatures to maximize the AoE attacks efficiency."
+}

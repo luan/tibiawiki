@@ -1,0 +1,115 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "This boss can only be fought when [[First Dragon Quest]] is active.",
+    "walksthrough": "Poison",
+    "hp": "10000",
+    "speed": "?",
+    "abilities": "{{Ability List| {{Melee|0-380?}}|{{Healing|range=180-240?}}|{{Ability|Ice Wave|160-250?|element=ice}}|{{Ability|Ice Beam|220-350?|element=ice}}|{{Ability|[[Paralysis]]|element=paralyze}}|{{Ability|Eternal Winter on Target|200-300?|element=ice}} }}",
+    "pushobjects": "yes",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "120%",
+    "holyDmgMod": "100%",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "?",
+    "pushable": "no",
+    "implemented": "11.02.4128",
+    "cooldown": "20",
+    "loot": [
+        {
+            "amount": "0-129",
+            "itemName": "Gold Coin"
+        },
+        {
+            "amount": "0-3",
+            "itemName": "Platinum Coin"
+        },
+        {
+            "itemName": "Dragon Blood",
+            "rarity": "always"
+        },
+        {
+            "itemName": "Dragon Tongue",
+            "rarity": "always"
+        },
+        {
+            "itemName": "Scale of Gelidrazah",
+            "rarity": "always"
+        },
+        {
+            "itemName": "Dragon Ham"
+        },
+        {
+            "itemName": "Shard"
+        },
+        {
+            "itemName": "Energy Ring"
+        },
+        {
+            "itemName": "Ice Cube"
+        },
+        {
+            "itemName": "Small Sapphire"
+        },
+        {
+            "itemName": "Glacier Amulet"
+        },
+        {
+            "itemName": "Glacier Mask"
+        },
+        {
+            "itemName": "Glacial Rod",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Icicle Bow",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Runic Ice Shield",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Golden Mug",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Frozen Plate",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Northern Star",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Life Crystal"
+        }
+    ],
+    "walksaround": "Fire, Energy",
+    "exp": "9000",
+    "creatureclass": "Reptiles",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "100%?",
+    "bosstiaryclass": "Archfoe",
+    "primarytype": "Dragons",
+    "race_id": "1379",
+    "senseinvis": "?",
+    "actualname": "Gelidrazah the Frozen",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Gelidrazah the Frozen",
+    "isboss": "yes",
+    "behaviour": "Unknown",
+    "location": "On [[Okolnir]], after starting the quest you can enter the teleport right here {{Mapper Coords|126.20|122.132|4|3|text=here}}.",
+    "iceDmgMod": "0%",
+    "strategy": "Treat it like a stronger [[Frost Dragon]], kill it with [[Sudden Death Rune]]s.",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "90%",
+    "status": "event"
+}

@@ -1,0 +1,68 @@
+{
+    "summon": "355",
+    "templateType": "Creature",
+    "notes": "They have low defense and are found in large groups, making them good for leveling.<br>\nLooks the same as a [[Parasite]].",
+    "walksthrough": "Poison",
+    "hp": "70",
+    "abilities": "{{Ability List|{{Melee|0-35|poison=1}}}}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "holyDmgMod": "100%",
+    "maxdmg": "{{Max Damage|physical=35|earth=1}}",
+    "pushable": "yes",
+    "usedelements": "Physical > Earth",
+    "implemented": "7.3",
+    "loot": [
+        {
+            "amount": "0-15",
+            "itemName": "Gold Coin"
+        },
+        {
+            "itemName": "Meat"
+        }
+    ],
+    "walksaround": "Fire, Energy",
+    "exp": "44",
+    "mitigation": "0.28",
+    "attacktype": "Melee",
+    "history": "As of November 16, 2011, Larvas as well as other poison-causing creatures can no longer be convinced. This was to prevent PvP abuse whereby a player would trick another player into convincing creatures that would later frag low level characters with poison applied earlier. After enough kills the player would obtain a [[Red Skull]] and would lose all items belonging to them upon being killed. More can be read in the news article \"{{OfficialNewsArchive|1894|Content Fixes}}\".",
+    "article": "a",
+    "actualname": "larva",
+    "illusionable": "yes",
+    "armor": "5",
+    "convince": "--",
+    "name": "Larva",
+    "isboss": "no",
+    "iceDmgMod": "105%",
+    "energyDmgMod": "90%",
+    "deathDmgMod": "100%",
+    "plural": "larvas",
+    "hpDrainDmgMod": "100%",
+    "usespells": "no",
+    "occurrence": "Common",
+    "bestiarytext": "The Larva of the Daramian desert scarab is a small, yet poisonous insect that usually avoids the sun and dwells only underground. Lacking the hard shells which protect older scarabs and moving rather slowly, they do not pose a too dangerous threat to a well armed warrior. However, in greater numbers they can bring down even a capable foe. Since they usually prefer to remain with their siblings, it is unfortunately not rare to encounter a pack of them at once.",
+    "speed": "62",
+    "pushobjects": "no",
+    "fireDmgMod": "110%",
+    "sounds": [
+        ""
+    ],
+    "runsat": "0",
+    "bestiaryclass": "Vermin",
+    "creatureclass": "Invertebrates",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Insects",
+    "spawntype": [
+        "Regular",
+        "Raid",
+        "Unblockable"
+    ],
+    "race_id": "82",
+    "bestiarylevel": "Easy",
+    "senseinvis": "no",
+    "drownDmgMod": "100%",
+    "bestiaryname": "larva",
+    "location": "[[Larva Cave]]s, [[Ankrahmun Tombs]], [[Lion's Rock]], [[Gardens of Night]] ({{Mapper Coords|129.21|126.121|10|4|text=here}}, unreachable).",
+    "strategy": "Just kill them, they're not strong.\n'''[[Knight]]s:''' Use the same tactic as always, [[weapon]] and [[Shields|shield]], just treat it like a [[Rotworm]].<br/>\n'''[[Paladin]]s:''' Can hunt larvas with [[spear]]s and a [[Shields|shield]] from a low level, perhaps dragging spears to a spawn would be helpful.<br/>\n'''[[Mage]]s:''' Should use low level [[wand]]s/[[rod]]s to save mana unless you are using [[Mana Potion]]s. If you do, then a level 19+ [[wand]]/[[rod]] will help you kill these much faster, if you don't care about the waste. You can also wear any item from the [[Terra Set]] or a [[Silver Amulet]] to avoid the damage from their poison. Mages could also use a melee weapon while rune making or spend mana on [[Haste|hasting]] to get to the Larva faster, as the cave's ground makes you walk slowly."
+}

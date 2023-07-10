@@ -1,0 +1,101 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "Omruc was sentenced to be locked away, after his part in the conspiracies against the pharaoh, [[Arkhotep]].\n\n{{JSpoiler|One of the Pharaohs of [[The Ancient Tombs Quest]].}}",
+    "walksthrough": "None.",
+    "hp": "4300",
+    "speed": "?",
+    "abilities": "{{Ability List|{{Melee|0-116+|poison=3}}|{{Ability|Shoots [[arrow]]s|0-500}}|{{Ability|Shoots [[Poison Arrow|poison arrows]]|100-500|earth}}|{{Ability|Shoots [[Burst Arrow|burst arrows]]|100-500|fire}}|{{Summon|Stalker|4}}|{{Ability|Paralyzes you||paralyze}}|{{Ability|Invisibility|20 seconds|invisible}}|{{Healing}}}}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "yes",
+    "fireDmgMod": "80%",
+    "holyDmgMod": "110%",
+    "sounds": [
+        "Now chhhou shhhee me ... Now chhhou don't.",
+        "Chhhhou are marked ashhh my prey.",
+        "Psssst, I am over chhhere.",
+        "Catchhhh me if chhhou can.",
+        "Die!"
+    ],
+    "maxdmg": "{{Max Damage|physical=616|earth=503|fire=500|summons=400}}",
+    "pushable": "?",
+    "implemented": "7.3",
+    "loot": [
+        {
+            "amount": "0-160",
+            "itemName": "Gold Coin"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "Red Apple"
+        },
+        {
+            "amount": "0-21",
+            "itemName": "Arrow"
+        },
+        {
+            "amount": "0-20",
+            "itemName": "Poison Arrow"
+        },
+        {
+            "amount": "0-15",
+            "itemName": "Burst Arrow"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "Onyx Arrow"
+        },
+        {
+            "amount": "0-3",
+            "itemName": "Power Bolt"
+        },
+        {
+            "amount": "0-3",
+            "itemName": "Small Diamond"
+        },
+        {
+            "itemName": "Crystal Arrow",
+            "rarity": "always"
+        },
+        {
+            "itemName": "Great Health Potion"
+        },
+        {
+            "itemName": "Stealth Ring"
+        },
+        {
+            "itemName": "Yellow Gem"
+        },
+        {
+            "itemName": "Boots of Haste",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Mini Mummy",
+            "rarity": "rare"
+        }
+    ],
+    "walksaround": "Fire, Energy, Poison",
+    "exp": "2950",
+    "creatureclass": "The Undead",
+    "earthDmgMod": "80%",
+    "physicalDmgMod": "100%",
+    "bosstiaryclass": "Bane",
+    "primarytype": "Pharaohs",
+    "race_id": "90",
+    "senseinvis": "yes",
+    "illusionable": "no",
+    "armor": "60",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Omruc",
+    "isboss": "no",
+    "behaviour": "Malicious, will make all efforts to destroy intruders.",
+    "location": "[[Peninsula Tomb]].",
+    "iceDmgMod": "105%",
+    "strategy": "He keeps distance from players and attacks with distance weapons. Make sure to GFB the stalkers every now and then, because they will heavily break your shielding. [[Firebomb]]ing him may also prove useful, as he will unlikely change his position and mages will know where to aim runes when he becomes invisible. He is guarded by 2 [[stalker]]s, 6 [[magicthrower]]s and 6 [[shredderthrower]]s.",
+    "energyDmgMod": "105%",
+    "deathDmgMod": "0%"
+}

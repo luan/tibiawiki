@@ -1,0 +1,81 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "lizard gate guardians",
+    "hpDrainDmgMod": "100%?",
+    "notes": "It's the boss you can find in the 5th Mission of the [[Children of the Revolution Quest]], it spawns to the north of [[Muggy Plains]] near the great gate.",
+    "walksthrough": "?",
+    "hp": "5000",
+    "speed": "?",
+    "abilities": "{{Ability List| {{Melee|?}}|{{Ability|[[Summon]]s 2 [[Lizard Chosen]]s at once|element=summon}} }}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "90%",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "500+?",
+    "pushable": "?",
+    "cooldown": "164",
+    "implemented": "8.54",
+    "loot": [
+        {
+            "amount": "0-73?",
+            "itemName": "Gold Coin"
+        },
+        {
+            "itemName": "Ultimate Health Potion"
+        },
+        {
+            "itemName": "Lizard Leather"
+        },
+        {
+            "itemName": "Lizard Scale"
+        },
+        {
+            "itemName": "Zaoan Armor"
+        },
+        {
+            "itemName": "Zaoan Shoes"
+        },
+        {
+            "itemName": "Zaoan Legs"
+        },
+        {
+            "itemName": "Zaoan Helmet",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Zaoan Sword",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Platinum Coin"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "2500",
+    "creatureclass": "Lizards",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "100%?",
+    "bosstiaryclass": "Nemesis",
+    "primarytype": "High Class Lizards",
+    "race_id": "626",
+    "senseinvis": "?",
+    "article": "a",
+    "actualname": "lizard gate guardian",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Lizard Gate Guardian",
+    "isboss": "yes",
+    "behaviour": "Fights until death.",
+    "location": "[[Zao]].",
+    "iceDmgMod": "100%?",
+    "strategy": "Get a high leveled blocker with you and kill it. You will be teleported to [[Zalamon]] in around 1~2 minutes after it spawns.",
+    "energyDmgMod": "80%",
+    "deathDmgMod": "100%?"
+}

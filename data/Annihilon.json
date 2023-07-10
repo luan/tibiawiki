@@ -1,0 +1,204 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "Belonging to an unknown and possibly otherwise extinct breed of demons, Annihilon is pure power. It is said that Annihilon was responsible for the destruction of his own race. He is the last survivor of countless battles that mirrored the demonic version of the 'survival of the fittest' phrase. His massive, heavy body is just one huge mass of moving muscles. There is no place for finesse in his body full of sheer strength. What he lacks in skill, he easily makes up with raw power. This aeon-old creature has served many masters in his wretched life. It is assumed that he was already a follower of one of the Ruthless Seven when they started to form their cabal. He stayed stoical at their side during their rise to power. He was present at many of the greatest triumphs of his cruel masters. The Ruthless Seven often employed the rather simple-minded Annihilon for banal tasks as there is no known demon at their disposal that matches him in strength. As long as there is something to kill, Annihilon is absolutely loyal to his masters. This loyalty and his lack of ambition, apart from slaughter and killing, makes him to one of the preferred servants of the Ruthless Seven. He is the perfect tool to keep lesser demons in line and does not mind to use his strength to fulfil some smaller tasks that might be at hand. This ancient creature is often accompanied by parasites that feed on his dripping spicy sweat. Detecting some of these small but extremely nasty parasites is a helpful sign to know about Annihilon's presence in advance.\n\n{{JSpoiler|It's one of the bosses of [[The Inquisition Quest]].}}",
+    "walksthrough": "?",
+    "hp": "46500",
+    "speed": "66",
+    "abilities": "{{Ability List\n |{{Melee|0-2000+?}}\n |{{Ability|Groundshaker Ball|171-300+|element=physical\n  |scene={{Scene|spell=2sqmballtarget|caster=Annihilon|look_direction=south|effect=Dust Effect|damage_effect=None|missile=Stone Missile|missile_direction=south-east|missile_distance=2/2}}}}\n |{{Ability|[[Groundshaker]] on itself|?|element=?}}\n |{{Ability|Energy Ball|357-500|element=energy\n  |scene={{Scene|spell=1sqmballtarget|caster=Annihilon|look_direction=south|effect=Energy Effect|damage_effect=Blue Electricity Effect|missile=Energy Ball Missile|missile_direction=south-east|missile_distance=1/1}}}}\n |{{Ability|Poison Ball|poisons you 32 dmg/turn|element=poisoned\n  |scene={{Scene|spell=2sqmballtarget|caster=Annihilon|look_direction=south|effect=Poison Effect 3|damage_effect=None|missile=Poison Missile|missile_direction=south-east|missile_distance=2/2}}}}\n |{{Ability|Mana Drain Bomb|0-200|element=manadrain\n  |scene={{Scene|spell=2sqmballtarget|caster=Annihilon|look_direction=south|effect=Teleport Effect|damage_effect=Red Sparkles Effect}}}}\n |{{Ability|Death Beam|450-800|element=death\n  |scene={{Scene|spell=8sqmbeam|caster=Annihilon|look_direction=east|effect=Cloud Effect|damage_effect=Unknown}}}}\n |{{Ability|Paralyze Ice Ball|reduces speed by 785 points|element=paralyze\n  |scene={{Scene|spell=2sqmballtarget|caster=Annihilon|look_direction=south|effect=Ice Explosion Effect|damage_effect=None|missile=Snowball Missile|missile_direction=south-east|missile_distance=2/2}}}}\n |{{Ability|Paralyze|reduces speed by 770 points|slowed\n  |scene={{Scene|spell=3sqmstrike|caster=Annihilon|look_direction=south|effect=Green Sparkles Effect|damage_effect=None}}}}\n |{{Debuff2|Rarely Debuffs|distance=yes|value=50-75%|duration=13 secs\n  |scene={{Scene|spell=2sqmballtarget|caster=Annihilon|look_direction=south|effect=Poof Effect|damage_effect=None|missile=Death Missile (Large)|missile_direction=south-east|missile_distance=2/2}}}}\n |{{Healing|range=231-368\n  |scene={{Scene|spell=buffspell|caster=Annihilon|look_direction=south|effect=Blue Sparkles Effect|effect_on_caster=yes}}}}\n}}",
+    "pushobjects": "Yes",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "secondarytype": "Archdemons",
+    "fireDmgMod": "100%",
+    "holyDmgMod": "105%",
+    "sounds": [
+        "Flee as long as you can!",
+        "Annihilon's might will crush you all!",
+        "I am coming for you!"
+    ],
+    "maxdmg": "3000+",
+    "pushable": "No",
+    "implemented": "8.20",
+    "loot": [
+        {
+            "amount": "0-159?",
+            "itemName": "Gold Coin"
+        },
+        {
+            "amount": "0-24?",
+            "itemName": "Platinum Coin"
+        },
+        {
+            "itemName": "Gold Ingot"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "Mastermind Potion"
+        },
+        {
+            "amount": "0-4",
+            "itemName": "Soul Orb"
+        },
+        {
+            "amount": "0-50",
+            "itemName": "Viper Star"
+        },
+        {
+            "amount": "0-30+",
+            "itemName": "Assassin Star"
+        },
+        {
+            "amount": "0-20?",
+            "itemName": "Small Amethyst"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "Berserk Potion"
+        },
+        {
+            "amount": "0-49",
+            "itemName": "Infernal Bolt"
+        },
+        {
+            "amount": "0-82",
+            "itemName": "Power Bolt"
+        },
+        {
+            "amount": "0-99?",
+            "itemName": "Flaming Arrow"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "Demon Horn"
+        },
+        {
+            "amount": "0-4",
+            "itemName": "Giant Shimmering Pearl"
+        },
+        {
+            "itemName": "Ultimate Health Potion"
+        },
+        {
+            "itemName": "Great Health Potion"
+        },
+        {
+            "itemName": "Great Spirit Potion"
+        },
+        {
+            "itemName": "Great Mana Potion"
+        },
+        {
+            "itemName": "Guardian Shield"
+        },
+        {
+            "itemName": "Halberd"
+        },
+        {
+            "itemName": "Guardian Halberd"
+        },
+        {
+            "itemName": "Red Gem"
+        },
+        {
+            "itemName": "Yellow Gem"
+        },
+        {
+            "itemName": "Blue Gem"
+        },
+        {
+            "itemName": "Green Gem"
+        },
+        {
+            "itemName": "Violet Gem"
+        },
+        {
+            "itemName": "Silver Amulet"
+        },
+        {
+            "itemName": "Emerald Bangle"
+        },
+        {
+            "itemName": "Stealth Ring"
+        },
+        {
+            "itemName": "Ring of Healing"
+        },
+        {
+            "itemName": "Diamond Sceptre"
+        },
+        {
+            "itemName": "Demon Shield"
+        },
+        {
+            "itemName": "Mastermind Shield"
+        },
+        {
+            "itemName": "Slightly Rusted Armor"
+        },
+        {
+            "itemName": "Crown Shield"
+        },
+        {
+            "itemName": "Tower Shield"
+        },
+        {
+            "itemName": "Paladin Armor"
+        },
+        {
+            "itemName": "Heavy Mace"
+        },
+        {
+            "itemName": "Skullcracker Armor",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Onyx Flail",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Obsidian Truncheon",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Demonbone",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "The Stomper",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Lavos Armor",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "15000",
+    "creatureclass": "Demons",
+    "earthDmgMod": "100%",
+    "physicalDmgMod": "100%",
+    "bosstiaryclass": "Bane",
+    "primarytype": "The Ruthless Seven Minions",
+    "spawntype": [
+        "Regular",
+        "Unique",
+        "Unblockable"
+    ],
+    "race_id": "418",
+    "senseinvis": "yes",
+    "actualname": "Annihilon",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Annihilon",
+    "isboss": "Yes",
+    "behaviour": "Will follow you and attack with his very strong [[Melee]], tries to run away on black [[Health]]. It walks very slow, but retargets often, so you may have some trouble in trapping him.",
+    "location": "Through the teleport in the Soul Wells in the Inquisition quest. He is the sixth boss.",
+    "iceDmgMod": "80%?",
+    "strategy": "[[Image:Annihilon_trap.png|thumb|an example how to trap '''Annihilon''']] He is very strong at [[Melee]] damage, and since he can be found with a lot of [[Deathspawn]]s, you will need to have some [[Knight]]s of high level (190+ recommended) also with a couple of [[Druid]]s to heal the [[Knight]]s while shooting Area [[Runes]] such as [[Great Fireball]] or [[Avalanche (Rune)]]. Shooters always need to have [[Magic Shield]] or they will die in a blink of eye. [[Knight]]s can carry some [[Stone Skin Amulet]]s  to prevent some high [[Melee]] damages from both Annihilon and [[Deathspawn]]s. Killing the [[Deathspawn]]s will make it easier to defeat Annihilon. A Paladin and Knight it's a good team because Annihilion will follow the Knight while the paladin can use Sharpshooter being at distance. It can be solo'ed with paladin of level 215+ too. If you want to go and hunt Annihilon use [[Fire Bomb Rune]]s to avoid Deathspawns.",
+    "energyDmgMod": "5%",
+    "deathDmgMod": "5%"
+}

@@ -1,0 +1,90 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "They are usually found in groups and with some [[Lizards|High Class Lizards]]. This creature was added in the [[Updates/8.54|Christmas Update 2009]].\n\n{{JSpoiler|You may hunt 250 of these as a task of the [[Killing in the Name of... Quest]].}}",
+    "walksthrough": "None",
+    "hp": "1500",
+    "abilities": "{{Ability List|{{Melee|0-180}}|{{Haste|[[Strong Haste]]}}}}",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "holyDmgMod": "100%",
+    "maxdmg": "{{Max Damage|physical=180}}",
+    "pushable": "No",
+    "implemented": "8.54",
+    "loot": [
+        {
+            "amount": "1-180",
+            "itemName": "Gold Coin",
+            "rarity": "always"
+        },
+        {
+            "itemName": "Ham",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Piece of Crocodile Leather",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-5",
+            "itemName": "Small Emerald",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Bunch of Ripe Rice",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Obsidian Lance",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Giant Shimmering Pearl (Green)",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Crocodile Boots",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Fire, Energy, Poison",
+    "exp": "900",
+    "mitigation": "0.38",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "killer caiman",
+    "illusionable": "yes",
+    "armor": "40",
+    "convince": "--",
+    "name": "Killer Caiman",
+    "isboss": "no",
+    "iceDmgMod": "90%",
+    "energyDmgMod": "105%",
+    "deathDmgMod": "100%",
+    "plural": "killer caimans",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "The Killer Caimans are the product of selective breeding by the lizard people over several centuries. Once rather harmless caimans, today resilient beasts - the selection changed them according to the whims of their lizard masters. In ancient times, the caiman breeding was a pastime of the royalty and a strong caiman was a vital prestige object. Caiman battles were arranged to show off and to settle conflicts. Over the years, caimans escaped or were given as present to loyal subjects who set them free or interbred them with escaped beasts. This way, they slowly found their way back into the wilds. Later lower caste lizards captured them and they became widespread pets.<br />The Killer Caiman that is found nowadays in Zao has surpassed its ancestors in all ways. As if they weren't already dangerous enough, the royalty of the lizard people still possesses caiman hatcheries where they breed even stronger and more resilient versions of the Killer Caiman.",
+    "speed": "93",
+    "pushobjects": "yes",
+    "fireDmgMod": "100%",
+    "sounds": [
+        ""
+    ],
+    "runsat": "10",
+    "bestiaryclass": "Reptile",
+    "creatureclass": "Reptiles",
+    "earthDmgMod": "80%",
+    "physicalDmgMod": "90%",
+    "primarytype": "Crocodilians",
+    "race_id": "627",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "killercaiman",
+    "behaviour": "These creatures fight in close combat using [[melee]] and are frequently using [[haste]].",
+    "location": "[[Northern Zao Plantations]], [[Souleater Mountains]], [[Muggy Plains]], [[Killer Caiman Cave]] in the [[Zao Steppe]] ({{Mapper Coords|129.113|122.216|7|2|text=here}}), [[Chyllfroest]].",
+    "strategy": "Killer Caimans are very fast when they use [[Haste]], so they can catch up quickly even if they just appeared on the screen. They are very easy to be overlooked due to camouflage and lizards that they are close to. They can drop a lot of money in [[Gems]] and [[Obsidian Lance]]s. You can easily make a fast profit here.\n\n'''[[Knights]]''': At about [[level]] 80, you can hunt these easily with just [[Mana Potion]]s and [[Recovery]] and [[Wound Cleansing]] with very little cost. Just attack them, and keep mana for [[Berserk]] if there are three or more.\n\n'''[[Paladins]]''': Keep distance at all cost but also be careful not to let yourself get swarmed by other creatures. A good idea is to find a large area of grass/stones and run around it while shooting.\n\n'''[[Mages]]''': Use [[Wand of Starstorm]]/[[Underworld Rod]] along with [[Flame Strike]] and/or [[Energy Wave]]/[[Great Energy Beam]] if you are a sorcerer or [[Strong Ice Wave]] if you are a druid. They are only 5% weak for energy, so it's still better to use [[Great Fireball]] instead of [[Thunderstorm]] (Thunderstorm does 10% less average damage)."
+}

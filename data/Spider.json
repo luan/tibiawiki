@@ -1,0 +1,67 @@
+{
+    "summon": "210",
+    "templateType": "Creature",
+    "notes": "Spiders are weak creatures and therefore good for gaining experience points at very low levels in [[Rookgaard]].<br />[[Donald McRonald]] of [[Thais]] will buy spider corpses for 2 gp. Note that he only buys regular spider corpses, not [[Poison Spider]] corpses.",
+    "hp": "20",
+    "abilities": "{{Ability List|{{Melee|0-9}}}}",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "holyDmgMod": "100%",
+    "maxdmg": "{{Max Damage|physical=9}}",
+    "pushable": "yes",
+    "implemented": "2.0",
+    "loot": [
+        {
+            "amount": "1-5",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Spider Fangs",
+            "rarity": "rare"
+        }
+    ],
+    "walksaround": "Fire, Energy, Poison",
+    "exp": "12",
+    "mitigation": "0.05",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "spider",
+    "illusionable": "yes",
+    "armor": "2",
+    "convince": "210",
+    "name": "Spider",
+    "isboss": "no",
+    "iceDmgMod": "100%",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "100%",
+    "plural": "spiders",
+    "hpDrainDmgMod": "100%",
+    "usespells": "no",
+    "occurrence": "Common",
+    "bestiarytext": "Spiders live in the forests and dungeons of Tibia. They usually hunt small animals, but do not shrink back from attacking animals that are bigger than them. When they crop up in packs, they can even become dangerous for badly equipped adventurers.",
+    "speed": "76",
+    "pushobjects": "no",
+    "fireDmgMod": "120%",
+    "sounds": [
+        ""
+    ],
+    "bestiaryclass": "Vermin",
+    "creatureclass": "Invertebrates",
+    "earthDmgMod": "100%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Arachnids",
+    "spawntype": [
+        "Regular",
+        "Triggered",
+        "Unblockable"
+    ],
+    "race_id": "30",
+    "bestiarylevel": "Trivial",
+    "senseinvis": "no",
+    "drownDmgMod": "100%",
+    "bestiaryname": "spider",
+    "behaviour": "Runs away when 6 or less [[hp]] left.",
+    "location": "Almost everywhere, in grass areas, sewers like [[Carlin]] sewers, caves like as [[Ancient Temple]], [[Rookgaard]] and the [[Tiquanda Tarantula Caves]].",
+    "strategy": "Just kill it."
+}

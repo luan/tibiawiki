@@ -1,0 +1,75 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "giant spiders",
+    "hpDrainDmgMod": "100%?",
+    "notes": "This creature can only be seen during the [[Tibia Anniversary]].\n<noinclude><gallery mode=\"nolines\">File:Old_giant_spider.jpg</gallery></noinclude>",
+    "isarenaboss": "no",
+    "walksthrough": "?",
+    "hp": "1300",
+    "lightcolor": "215",
+    "speed": "?",
+    "abilities": "{{Ability List| {{Ability|Same as the [[Giant Spider]] but with a little higher damage|element=?}} }}",
+    "pushobjects": "yes",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "110%?",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "?",
+    "pushable": "no",
+    "lightradius": "5",
+    "implemented": "9.44",
+    "loot": [
+        {
+            "amount": "0-85?",
+            "itemName": "Gold Coin"
+        },
+        {
+            "itemName": "Steel Helmet"
+        },
+        {
+            "itemName": "Brass Legs"
+        },
+        {
+            "amount": "2-11",
+            "itemName": "Poison Arrow"
+        },
+        {
+            "itemName": "Strong Health Potion"
+        },
+        {
+            "itemName": "Plate Armor"
+        },
+        {
+            "itemName": "Knight Legs"
+        },
+        {
+            "itemName": "Knight Armor"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "840",
+    "creatureclass": "Invertebrates",
+    "earthDmgMod": "0%?",
+    "physicalDmgMod": "100%?",
+    "primarytype": "Arachnids",
+    "senseinvis": "?",
+    "article": "a",
+    "actualname": "giant spider",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Giant Spider (Nostalgia)",
+    "isboss": "no",
+    "behaviour": "Same as the [[Giant Spider]].",
+    "location": "[[Nostalgia Island]] dungeon. Inside [[The Supreme Cube]].",
+    "iceDmgMod": "80%?",
+    "strategy": "Same as the [[Giant Spider]].",
+    "energyDmgMod": "80%?",
+    "deathDmgMod": "100%?",
+    "status": "event"
+}

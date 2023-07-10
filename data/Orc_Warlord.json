@@ -1,0 +1,150 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "As the most powerful orcs, they aren't called '''Warlords''' for nothing. They are tough creatures but drop good loot. They are usually found leading groups of [[Orc Leader]]s and [[Orc Berserker]]s. They can hit pretty nasty, so be ready to heal.",
+    "walksthrough": "Fire",
+    "hp": "950",
+    "abilities": "{{Ability List\n |{{Melee|0-250}}\n |{{Ability|[[Throwing Star]]|0-200|element=physical\n  |scene={{Scene|spell=5sqmstrike|background=canvas|caster=Orc Warlord|look_direction=south|missile=Throwing Star Missile|missile_direction=south-east|missile_distance=5/5}}}}\n |{{Ability|[[Invisibility]] (2 seconds)||invisible|}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "holyDmgMod": "90%",
+    "maxdmg": "{{Max Damage|physical=450}}",
+    "pushable": "No",
+    "usedelements": "Physical",
+    "implemented": "7.0",
+    "loot": [
+        {
+            "itemName": "Broken Helmet",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-45",
+            "itemName": "Gold Coin",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Fish",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Orc Leather",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Orc Tooth",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Plate Armor",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-18",
+            "itemName": "Throwing Star",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Orcish Axe",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Hunting Spear",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Plate Legs",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Protection Amulet",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Scimitar",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Skull Belt",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Dark Helmet",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Two Handed Sword",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Brass Armor",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Health Potion",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Crusader Helmet",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Dragon Hammer",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Magma Boots",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Stealth Ring",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Orc Trophy",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Energy, Poison",
+    "exp": "670",
+    "mitigation": "1.46",
+    "attacktype": "Melee",
+    "history": "Although the sprites for orc warlord were implemented on [[Updates/7.0|Update 7.0]], the first known spawns of this creature were probably only implemented with the [[Ulderek's Rock]] revamp on [[Updates/7.2|Update 7.2]].",
+    "article": "an",
+    "actualname": "orc warlord",
+    "illusionable": "no",
+    "armor": "28",
+    "convince": "--",
+    "name": "Orc Warlord",
+    "isboss": "no",
+    "iceDmgMod": "100%",
+    "energyDmgMod": "80%",
+    "deathDmgMod": "105%",
+    "plural": "orc warlords",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "Fiercer than the dreaded orc berserker and more powerful even than the mighty orc leader, the Orc Warlord is the true terror of all civilised races. Orc Warlords are the strongest fighters of their race who have managed to rise to the highest ranks through treachery and murder. Even though they are extremely skilled fighters who can cut a man in two with a single stroke of their mighty blades, Orc Warlords prefer to use their superior speed and cunning to overcome their enemies. They avoid open combat whenever they can, sneaking up on unwary adventurers from behind or throwing their vicious shuriken instead.",
+    "speed": "117",
+    "pushobjects": "Yes",
+    "fireDmgMod": "20%",
+    "sounds": [
+        "Ikem rambo zambo!",
+        "Orc buta bana!",
+        "Ranat Ulderek!",
+        "Futchi maruk buta!"
+    ],
+    "bestiaryclass": "Humanoid",
+    "creatureclass": "Humanoids",
+    "earthDmgMod": "110%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Orcs",
+    "race_id": "2",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "orcwarlord",
+    "behaviour": "The Orc Warlord will chase the enemy while throwing [[Throwing Star|stars]]. They retarget and will kill weaker [[creatures]] to reach you.",
+    "location": "[[Orc Fortress]], [[Foreigner Quarter]], [[Zao Orc Land]].",
+    "strategy": "To beat these powerful creatures you will need a good team with high-skilled [[Knight]]s, some [[Paladin]]s and [[Mage]]s with a high [[Magic Level]]. The best way to kill them is from a distance because their [[Throwing Star]]s are weaker than their melee. [[Knight]]s with skills 90/90 and a Scrapper Arena weapon can kill them fairly easily. As with all creatures that use invisibility, stay alert with an [[exori ico]] to turn them visible again. Its attacks can be compared to a [[Giant Spider]]'s. Orc Warlords are more profitable to hunt since Orcish Axes have become sellable, and now make up the most valuable part of the loot.<br />{{JSpoiler|Orc Warlords, notably those from raids, can yield different loot:\n* [[Orc Tusk]] from Orc Warlord in raids of the [[Machinery of War Quest]].\n* [[Amazon Armor]], [[Amazon Helmet]] and [[Amazon Shield]] from Orc Warlord in raids on [[Femor Hills]].\n}}"
+}

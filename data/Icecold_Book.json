@@ -1,0 +1,145 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "walksthrough": "Energy, Poison",
+    "hp": "21000",
+    "abilities": "{{Ability List\n |{{Melee|0-850}}\n |{{Ability|Ice Strike|600-800|element=Ice\n  |scene={{Scene|spell=2sqmstrike|effect=Ice Explosion Effect|missile=Ice Missile|missile_direction=south-east|missile_distance=2/2|background=slate_floor|caster=Icecold Book}}}}\n |{{Ability|Ice Beam|750-1300|ice\n  |scene={{Scene|spell=5sqmbeam|effect=Ice Explosion Effect|look_direction=east|background=slate_floor|caster=Icecold Book}}}}\n |{{Ability|Ice Tornado|650-950|ice\n  |scene={{Scene|spell=xspell|effect=Ice Tornado Effect Big|effect_on_caster=yes|background=slate_floor|caster=Icecold Book|edge_size=32}}}}\n |{{Healing|range=200-350}}}}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "holyDmgMod": "100%",
+    "maxdmg": "{{Max Damage|physical=850|ice=2000}}",
+    "pushable": "no",
+    "usedelements": "Ice",
+    "implemented": "11.80.7048",
+    "loot": [
+        {
+            "amount": "1-8",
+            "itemName": "Platinum Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Book Page",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Small Diamond",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-5",
+            "itemName": "Small Sapphire",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Quill",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Frosty Heart",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Silken Bookmark",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Ultimate Mana Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Ultimate Health Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Diamond Sceptre",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Ice Rapier",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Glacier Mask",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Sapphire Hammer",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Crystal Mace",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Glacier Kilt",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Glacier Robe",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Glacier Shoes",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Strange Helmet",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Ice Cube",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Glacial Rod",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Crystalline Armor",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Leviathan's Amulet",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Fire",
+    "exp": "12750",
+    "mitigation": "2.16",
+    "attacktype": "Melee",
+    "history": "Its experience was decreased from 15,000 to 12,750 with the first batch of changes of [[Updates/12.31|Update 12.31]].",
+    "article": "an",
+    "actualname": "icecold book",
+    "illusionable": "no",
+    "armor": "82",
+    "convince": "--",
+    "name": "Icecold Book",
+    "isboss": "no",
+    "iceDmgMod": "0%",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "100%",
+    "plural": "icecold books",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "Most icecold books are creations of a long gone race of cryomancers. This race casted their spells always with the books as conduit and amplifier. Therefore they bound powerful spirits of frost and ice into their tomes. The levitating books accompanied them as companions and tools at once. With the vanishing of their creator race, the icecold books became inert. Hungry for the knowledge contained in them, they were stolen and experimented upon. The only way found to unleash their considerable power, was to empower them with a will of their own and bind certain arcane crystals attuned to icemagic into them as an energy source. Thus the books became self-sustained entities that had access to at least some of the ancient spells bound to them. They follow an icecold, yet somewhat malignant logic and can be reasoned with to some degree. Since their creators seemed to have had some deeper connection to Zathroth, they easily ally with his forces. Still they act on their own and might behave strongly unpredictable. Almost indistinguishable from them are newer creations that were attempts to recreate them with modern magic. Though less powerful and less intelligent, these copies are highly obedient to their creators but contain no bound knowledge on their own. Instead they use an array of frost abilities that work more with a brute force method than artfully woven magic like the originals. They are used to provide a reliable source of ice magic, that doesn't drain the mana reserves of its owner. Both versions can be found as status symbols of powerful casters. It is said that a high number of originals was collected and stored away by followers of Zathroth but even they were unable to unlock the final secret knowledge contained in them.",
+    "speed": "220",
+    "pushobjects": "yes",
+    "fireDmgMod": "110%",
+    "sounds": [
+        ""
+    ],
+    "runsat": "0",
+    "bestiaryclass": "Magical",
+    "creatureclass": "Demons",
+    "earthDmgMod": "100%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Possessed Objects",
+    "race_id": "1664",
+    "bestiarylevel": "Hard",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "icecoldbook",
+    "location": "[[Secret Library]] ice section.",
+    "strategy": "Use as much [[Ice Damage]] protection as you can, because this will be the biggest part of the damage when fighting these creatures."
+}

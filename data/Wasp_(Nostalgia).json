@@ -1,0 +1,51 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "wasps",
+    "hpDrainDmgMod": "100%?",
+    "notes": "This creature can only be seen during the [[Tibia Anniversary]].",
+    "isarenaboss": "no",
+    "walksthrough": "?",
+    "hp": "35",
+    "speed": "?",
+    "abilities": "{{Ability List| {{Melee|0-20?|poison=2}} }}",
+    "pushobjects": "no",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "secondarytype": "Event Creatures",
+    "fireDmgMod": "110%?",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        "Bsssssss"
+    ],
+    "maxdmg": "20?",
+    "pushable": "yes",
+    "implemented": "9.44",
+    "loot": [
+        {
+            "itemName": "Honeycomb"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "21",
+    "creatureclass": "Invertebrates",
+    "earthDmgMod": "0%?",
+    "physicalDmgMod": "100%?",
+    "primarytype": "Insects",
+    "senseinvis": "?",
+    "article": "a",
+    "actualname": "wasp",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Wasp (Nostalgia)",
+    "isboss": "no",
+    "behaviour": "Same as the [[Wasp]].",
+    "location": "[[Nostalgia Island]].",
+    "iceDmgMod": "100%?",
+    "strategy": "Same as the [[Wasp]].",
+    "energyDmgMod": "100%?",
+    "deathDmgMod": "100%?",
+    "status": "event"
+}

@@ -1,0 +1,49 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "slippery northern pikes",
+    "hpDrainDmgMod": "100%?",
+    "notes": "There's a chance a [[Northern Pike]] (item) will appear when its killed.",
+    "isarenaboss": "no",
+    "walksthrough": "Fire, Poison",
+    "hp": "100",
+    "speed": "?",
+    "abilities": "{{Ability List|None}}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "no",
+    "fireDmgMod": "0%",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "0",
+    "pushable": "yes",
+    "implemented": "9.40",
+    "loot": [
+        {
+            "itemName": "Northern Pike"
+        }
+    ],
+    "walksaround": "Energy",
+    "exp": "0",
+    "creatureclass": "Misc",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "100%?",
+    "primarytype": "Fishes",
+    "senseinvis": "yes",
+    "article": "a",
+    "actualname": "slippery northern pike",
+    "illusionable": "yes",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "?",
+    "name": "Slippery Northern Pike",
+    "isboss": "no",
+    "behaviour": "Similar to [[fish]], they try to avoid all players.",
+    "location": "[[Quirefang]], rarely spawns when [[Northern Pike (Creature)|Northern Pike]]s are killed.",
+    "iceDmgMod": "100%?",
+    "strategy": "They are just like [[fish]]. Simply attack them.",
+    "energyDmgMod": "105%",
+    "deathDmgMod": "100%?"
+}

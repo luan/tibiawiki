@@ -1,0 +1,102 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "walksthrough": "?",
+    "hp": "3770",
+    "abilities": "{{Ability List|}}",
+    "pushobjects": "yes",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "100%?",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "?",
+    "pushable": "no",
+    "usedelements": "?",
+    "implemented": "12.85.11485",
+    "loot": [
+        {
+            "itemName": "Piece of Iron"
+        },
+        {
+            "itemName": "Big Bone"
+        },
+        {
+            "itemName": "Brown Crystal Splinter"
+        },
+        {
+            "itemName": "Cluster of Solace"
+        },
+        {
+            "itemName": "Gold Ingot"
+        },
+        {
+            "itemName": "Great Mana Potion"
+        },
+        {
+            "itemName": "Red Crystal Fragment"
+        },
+        {
+            "itemName": "Crystal Rubbish"
+        },
+        {
+            "itemName": "Great Health Potion"
+        },
+        {
+            "itemName": "Bottle of Champagne"
+        },
+        {
+            "itemName": "Gold Coin"
+        },
+        {
+            "itemName": "Ham"
+        },
+        {
+            "itemName": "Fish Tail"
+        },
+        {
+            "itemName": "Banana Skin"
+        },
+        {
+            "itemName": "Fishbone"
+        },
+        {
+            "itemName": "Fish"
+        },
+        {
+            "itemName": "Bone"
+        },
+        {
+            "itemName": "Violet Crystal Shard"
+        },
+        {
+            "itemName": "Special Fx Box"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "1810",
+    "creatureclass": "Demons",
+    "earthDmgMod": "100%?",
+    "physicalDmgMod": "100%?",
+    "primarytype": "Dreamhaunters",
+    "spawntype": [
+        "Unblockable"
+    ],
+    "race_id": "2178",
+    "senseinvis": "yes",
+    "article": "a",
+    "actualname": "memory of a frazzlemaw",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Memory of a Frazzlemaw",
+    "isboss": "no",
+    "location": "[[Time Travel Dungeon]]",
+    "iceDmgMod": "100%?",
+    "energyDmgMod": "100%?",
+    "deathDmgMod": "100%?"
+}

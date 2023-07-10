@@ -1,0 +1,89 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "Can be [[King Scorpion|tamed]] by using a [[Scorpion Sceptre]] on it. These creatures typically come in groups.",
+    "isarenaboss": "no",
+    "walksthrough": "Fire, Poison",
+    "hp": "900",
+    "abilities": "{{Ability List| {{Melee|0-200}}|{{Ability|Close Range Poisoned|Poisons up to 50hp/turn|element=poisoned}}|{{Healing}} }}",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "secondarytype": "Geo-Elementals",
+    "holyDmgMod": "110%",
+    "maxdmg": "250",
+    "pushable": "?",
+    "implemented": "9.10",
+    "loot": [
+        {
+            "amount": "1-129",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Platinum Coin",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Small Emerald",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Daramian Mace",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Steel Helmet",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Black Shield",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Fist on a Stick",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Energy",
+    "exp": "680",
+    "mitigation": "1.13",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "sandstone scorpion",
+    "illusionable": "no",
+    "armor": "42",
+    "convince": "--",
+    "name": "Sandstone Scorpion",
+    "isboss": "no",
+    "iceDmgMod": "110%",
+    "energyDmgMod": "110%",
+    "deathDmgMod": "100%",
+    "status": "event",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Rare",
+    "bestiarytext": "The scorpion was the symbol of the ancient dynasties of the southern desert. For the early civilisation it was the embodiment of war and deadliness. The symbol of the scorpion is found at many different sites. Statues of scorpions used to be quite common in temples. Ancient mystics filled some of these statues with actual spirits of scorpions, or at least with something of what they thought to be such spirits. The repeated binding of spirits into the statues granted them some resemblance to living scorpions. Even when the mystics disappeared, the Sandstone Scorpions persisted. Forgotten in ancient tombs, they endured the ravages of time. Since every grain of sand in the statues is imbued with spirit energy, the sandstone bodies can be destroyed but not killed. Given some time, the seemingly dead body will crumble into sand that moves with a wind that no other can feel to some place where it will reform its former body to continue its existence.<br />The poison they use is rather spiritual than physical. The study of this poison led to the refinement of antidote magic as we know it today. Instead of countering poison with the help of regenerative powers as it was custom practice in the past, modern antidote magic rather exorcises the poison itself. While some temples tie this process to the god Crunor who allowed the humans to learn the secret of poison curing, most scientifically inclined magic users see only a mindless but dangerous machine in the Sandstone Scorpion. They argue that it is only following orders of summoners long dead. On the other hand, priests argue that the Sandstone Scorpion is the embodiment of an animal spirit and therefore sacred to Crunor. They claim that it is working on Crunor's behalf, testing the battle prowess of heroes. Both interpretations admit though that the Sandstone Scorpion is a formidable foe that is guarding the holy places of the past.",
+    "speed": "110",
+    "pushobjects": "?",
+    "fireDmgMod": "60%",
+    "sounds": [
+        "*rattle*",
+        "*tak tak*",
+        "*tak tak tak*"
+    ],
+    "bestiaryclass": "Construct",
+    "creatureclass": "Invertebrates",
+    "earthDmgMod": "10%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Arachnids",
+    "race_id": "705",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "sandstonescorpion",
+    "behaviour": "Unknown.",
+    "location": "[[Horestis Tomb]].",
+    "strategy": "Unknown."
+}

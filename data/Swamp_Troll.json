@@ -1,0 +1,103 @@
+{
+    "summon": "320",
+    "templateType": "Creature",
+    "notes": "They are a bit stronger than [[Troll]]s and [[Frost Troll]]s and they can [[Poisoned|poison]] you, but they are not immune to [[Earth Damage|earth]] themselves which means [[Druid]]s with [[Snakebite Rod]]s or [[Terra Rod]]s are able kill them rather easily, although not recommended for level 13- Druids. After the 8.2 summer update they now drop [[Spear]]s as loot which makes them a good choice for low level [[Paladin]]s to hunt.\n\nAt least some Swamp Trolls around Venore worship the [[Football]] according to the book [[Holy Book of Swamptrolls (Book)|Holy Book of Swamptrolls]].",
+    "walksthrough": "None",
+    "hp": "55",
+    "abilities": "{{Ability List\n |{{Melee|0-13|poison=1}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "holyDmgMod": "100%",
+    "maxdmg": "{{Max Damage|physical=13|earth=1}}",
+    "pushable": "Yes",
+    "usedelements": "Physical,Earth",
+    "implemented": "7.1",
+    "loot": [
+        {
+            "amount": "0-5",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Fish",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Leather Boots",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Mouldy Cheese",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Spear",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Torch",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Swamp Grass",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Wood",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Medicine Pouch",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Troll Green",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Fishing Rod",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Fire, Energy, Poison",
+    "exp": "25",
+    "mitigation": "0.25",
+    "attacktype": "Melee",
+    "history": "==== Appearance Change ====\nBefore the [[8.1 Update]], swamp trolls looked like this: [[File:Swamp Troll (Old).gif]]\n\n==== Loot Change ====\nAfter a small patch during August 6, 2009 server save (announced {{OfficialNewsArchive|1051|here}}) they drop [[Troll Green]]s.<br/>\n{{JSpoiler|The reason is probably because 2 are required in the [[Hot Cuisine Quest]].}}\n\n==== Convince ====\nAs of November 16, 2011, Swamp Trolls as well as other poison-causing creatures can no longer be convinced. This was to prevent PvP abuse whereby a player would trick another player into convincing creatures that would later frag low level characters with poison applied earlier. After enough kills the player would obtain a [[Red Skull]] and would lose all items belonging to them upon being killed. More can be read in the news article \"{{OfficialNewsArchive|1894|Content Fixes}}\".\n\n==== Loot Change 2 ====\nAfter [[Updates/9.8]] they drop [[Mouldy Cheese]], because this item is required for a task in the [[Goblin Merchant Quest]] and should be easily available to low leveled players. This was suggested by a player on the test server forum.",
+    "article": "a",
+    "actualname": "swamp troll",
+    "illusionable": "yes",
+    "armor": "6",
+    "convince": "--",
+    "name": "Swamp Troll",
+    "isboss": "no",
+    "iceDmgMod": "100%",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "100%",
+    "plural": "swamp trolls",
+    "hpDrainDmgMod": "100%",
+    "usespells": "no",
+    "occurrence": "Common",
+    "bestiarytext": "Swamp Trolls are a variety of normal trolls that live in the swamps in the east of Tibia. Like the other tribes of trolls, they hunt animals and seek treasures. But they are a bit stronger and they soak their claws with the extracts of some poisonous herbs they collect in the swamps in order to envenom their opponents. So they can be quite dangerous to inexperienced adventurers.",
+    "speed": "64",
+    "pushobjects": "No",
+    "fireDmgMod": "105%",
+    "sounds": [
+        "Me strong! Me ate spinach!",
+        "Groar!",
+        "Grrrr"
+    ],
+    "bestiaryclass": "Humanoid",
+    "creatureclass": "Humanoids",
+    "earthDmgMod": "85%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Trolls",
+    "race_id": "76",
+    "bestiarylevel": "Easy",
+    "senseinvis": "no",
+    "drownDmgMod": "100%",
+    "bestiaryname": "swamptroll",
+    "behaviour": "They run when they are with low [[health]].",
+    "location": "[[Port Hope Swamp Trolls]], [[Venore]] [[Swamp Troll Cave]], all around north area of [[Port Hope]], small spawn north-west of [[Venore]] and in cave south-east of [[Thais]] ({{Mapper Coords|126.207|126.72|7|3|text=here}}), also one in [[Foreigner Quarter]].",
+    "strategy": "Just attack them, there's no big difference between them and [[Troll]]s. Always have food, because the poison can be annoying for low levels. Low level mages can wear a [[Terra Hood]] to block their 1 HP per turn poison."
+}

@@ -1,0 +1,52 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "None.",
+    "walksthrough": "Fire",
+    "hp": "750",
+    "lightcolor": "35",
+    "speed": "?",
+    "abilities": "{{Ability List|{{Melee|0-156|poison=2}}|{{Ability|Life Drain Berserk|0-87}}|{{Ability|Poison Berserk|8 hp/10 turns|freezing}}|{{Ability|Ice Ball (around itself)|56-87+|ice}}|{{Ability|Close Range Electrify|25 hp/3 turns|electrified}}|{{Healing|range=65-85}}}}",
+    "pushobjects": "yes",
+    "healMod": "100%?",
+    "paraimmune": "yes",
+    "fireDmgMod": "0%",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        "Tssss!",
+        "Gaaahhh!",
+        "Gluh! Gluh!",
+        "Boohaa!"
+    ],
+    "maxdmg": "{{Max Damage|physical=156|earth=2|lifedrain=87|ice=95|energy=25}}",
+    "pushable": "no",
+    "lightradius": "2",
+    "implemented": "8.40",
+    "loot": [
+        {
+            "amount": "0-13",
+            "itemName": "Gold Coin"
+        }
+    ],
+    "walksaround": "Energy, Poison",
+    "exp": "250",
+    "creatureclass": "Amphibians",
+    "earthDmgMod": "10%?",
+    "physicalDmgMod": "100%?",
+    "primarytype": "Quara",
+    "race_id": "490",
+    "senseinvis": "yes",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "0%",
+    "convince": "--",
+    "name": "Inky",
+    "isboss": "yes",
+    "behaviour": "Unknown.",
+    "location": "At [[Yalahar]], [[Sunken Quarter]]. When entering the [[Sunken Quarter]] step down from the underwater hill and head to south-east, there you should find stairs which takes you down to the boss. The boss is behind a sealed door, so make sure you have the access to that room.",
+    "iceDmgMod": "0%",
+    "strategy": "Treat this boss exactly the same as you would treat normal [[Quara Constrictor]], you can run around objects.",
+    "energyDmgMod": "105%",
+    "deathDmgMod": "100%?"
+}

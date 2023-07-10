@@ -1,0 +1,79 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "Arthei was once a normal person and a citizen of [[Carlin]]. He, his wife [[Kala]], and his brothers [[Marziel]], [[Lersatio]], and [[Boreth]], travelled to [[Yalahar]] in order to find a new home. From that moment on Marziel started keeping a [[Arthei's Descent into Vampirism I (Book)|diary]].<br>This creature is the strongest of all vampire bosses and the fourth and last boss you will encounter during the [[Blood Brothers Quest]].<br>You will receive [[The Dust of Arthei]] when you use a [[Blessed Wooden Stake]] on his dead body.",
+    "walksthrough": "?",
+    "hp": "4200",
+    "speed": "135",
+    "abilities": "{{Ability List| {{Melee|0-560}}|{{Ability|[[Summon]]s 3 [[Vampire]]s at once|element=summon}}|{{Ability|rarely [[Summon]]s|[[Shadow of Boreth]],[[Shadow of Lersatio]] or [[Shadow of Marziel]]|element=summon}}|{{Ability|[[Life Drain]]|80-160|element=lifedrain}}|{{Ability|[[Sniper Arrow]]|0-120|element=?}}|{{Ability|[[Paralyze]]s|element=paralyze}}|{{Healing|range=100-200}}|{{Ability|[[Invisibility]]|element=invisible}} }}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "80%",
+    "holyDmgMod": "105%",
+    "sounds": [
+        "Marziel! Lersatio! Boreth! Come join me in this fight!",
+        "Now that you're here, you'll stay forever.",
+        "You have no idea who you're messing with.",
+        "I don't regret anything.",
+        "I will revenge my brothers!",
+        "Stupid little human - I'm glad I'm past that pitiful stadium of my life."
+    ],
+    "maxdmg": "~1000",
+    "pushable": "?",
+    "implemented": "8.40",
+    "loot": [
+        {
+            "amount": "0-100",
+            "itemName": "Gold Coin"
+        },
+        {
+            "amount": "0-5",
+            "itemName": "Platinum Coin"
+        },
+        {
+            "amount": "0-1",
+            "itemName": "Strong Health Potion"
+        },
+        {
+            "itemName": "Blood Preservation"
+        },
+        {
+            "itemName": "Ring of Healing"
+        },
+        {
+            "itemName": "Vampire Shield"
+        },
+        {
+            "itemName": "Dreaded Cleaver"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "4000",
+    "creatureclass": "The Undead",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "50%?",
+    "bosstiaryclass": "Bane",
+    "primarytype": "Vampires",
+    "spawntype": [
+        "Unique",
+        "Triggered",
+        "Unblockable"
+    ],
+    "race_id": "480",
+    "senseinvis": "?",
+    "actualname": "Arthei",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Arthei",
+    "isboss": "yes",
+    "behaviour": "Unknown.",
+    "location": "[[Vampire Castle]] on [[Vengoth]].",
+    "iceDmgMod": "90%",
+    "strategy": "Unknown.",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "0%"
+}

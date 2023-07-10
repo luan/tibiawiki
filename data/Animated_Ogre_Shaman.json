@@ -1,0 +1,82 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "animated ogre shamans",
+    "hpDrainDmgMod": "100%?",
+    "notes": "Similar to an [[Ogre Shaman]].",
+    "walksthrough": "?",
+    "hp": "800",
+    "speed": "?",
+    "abilities": "{{Ability List\n |{{Ability|Poison shot|0-200?|element=earth}}\n |{{Ability|[[Terra Wave]]|[[Poisoned|poisons]] starting at 14 hp|element=poisoned}}\n |{{Ability|Death Explosion on itself|unknown effect|element=?}}\n}}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "100%?",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "?",
+    "pushable": "?",
+    "implemented": "11.40.5409",
+    "loot": [
+        {
+            "amount": "0-39",
+            "itemName": "Gold Coin"
+        },
+        {
+            "itemName": "Ogre Nose Ring"
+        },
+        {
+            "itemName": "Strong Mana Potion"
+        },
+        {
+            "itemName": "Waterskin"
+        },
+        {
+            "itemName": "Skull (Item)"
+        },
+        {
+            "itemName": "Shamanic Talisman"
+        },
+        {
+            "itemName": "Skull Fetish"
+        },
+        {
+            "itemName": "Ogre Ear Stud"
+        },
+        {
+            "itemName": "Bone Fetish"
+        },
+        {
+            "itemName": "Necrotic Rod"
+        },
+        {
+            "itemName": "Broken Shamanic Staff"
+        },
+        {
+            "itemName": "Prickly Pear"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "625",
+    "creatureclass": "Humanoids",
+    "earthDmgMod": "100%?",
+    "physicalDmgMod": "100%?",
+    "primarytype": "Giants",
+    "senseinvis": "?",
+    "article": "an",
+    "actualname": "animated ogre shaman",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Animated Ogre Shaman",
+    "isboss": "?",
+    "behaviour": "Unknown",
+    "location": "[[Museum of Tibian Arts]] (only at [[Night]])",
+    "iceDmgMod": "100%?",
+    "strategy": "Treat it like an [[Ogre Shaman]].",
+    "energyDmgMod": "100%?",
+    "deathDmgMod": "100%?"
+}

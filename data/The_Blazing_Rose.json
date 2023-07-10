@@ -1,0 +1,95 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "{{JSpoiler|Part of [[The Secret Library Quest]].}}",
+    "walksthrough": "?",
+    "hp": "?",
+    "speed": "?",
+    "abilities": "{{Ability List|}}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "secondarytype": "Asuri",
+    "fireDmgMod": "0%",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "?",
+    "pushable": "?",
+    "cooldown": "20",
+    "implemented": "11.80.7048",
+    "loot": [
+        {
+            "itemName": "Perfume Flacon"
+        },
+        {
+            "itemName": "Small Amethyst"
+        },
+        {
+            "itemName": "Platinum Coin"
+        },
+        {
+            "itemName": "Red Gem"
+        },
+        {
+            "itemName": "Soul Orb"
+        },
+        {
+            "itemName": "Gold Coin"
+        },
+        {
+            "itemName": "Peacock Feather Fan"
+        },
+        {
+            "itemName": "Flask of Demonic Blood"
+        },
+        {
+            "itemName": "Assassin Star"
+        },
+        {
+            "itemName": "Oriental Shoes"
+        },
+        {
+            "itemName": "Great Spirit Potion"
+        },
+        {
+            "itemName": "Demonic Essence"
+        },
+        {
+            "itemName": "Crystal Ring"
+        },
+        {
+            "itemName": "Golden Lotus Brooch"
+        },
+        {
+            "itemName": "Moonlight Rod"
+        },
+        {
+            "itemName": "Ultimate Health Potion"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "10000",
+    "creatureclass": "Demons",
+    "earthDmgMod": "80%",
+    "physicalDmgMod": "100%?",
+    "bosstiaryclass": "Archfoe",
+    "primarytype": "Demons",
+    "race_id": "1600",
+    "senseinvis": "?",
+    "actualname": "The Blazing Rose",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "The Blazing Rose",
+    "isboss": "yes",
+    "behaviour": "Unknown",
+    "location": "[[Asura Palace]].",
+    "iceDmgMod": "100%?",
+    "strategy": "Unknown",
+    "energyDmgMod": "80%",
+    "deathDmgMod": "100%?"
+}

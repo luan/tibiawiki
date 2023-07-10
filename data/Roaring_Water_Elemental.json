@@ -1,0 +1,67 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "roaring water elementals",
+    "hpDrainDmgMod": "100%?",
+    "notes": "This creature was implemented in [[Updates/8.2|Summer Update 2008]].",
+    "walksthrough": "Fire, Poison",
+    "hp": "1750",
+    "speed": "?",
+    "abilities": "{{Ability List\n |{{Melee|0-226+}}\n |{{Ability|Drown Explosion|100-300+|element=drown\n  |scene={{Scene|spell=plusspelltarget|caster=Roaring Water Elemental|look_direction=south|effect=Ripple Effect|missile=Snowball Missile|missile_direction=south-east|missile_distance=2/2}}}}\n |{{Ability|Ice Missile|163-253|element=ice\n  |scene={{Scene|spell=7sqmstrike|caster=Roaring Water Elemental|look_direction=south|effect=Ice Explosion Effect|missile=Ice Shard Missile|missile_direction=south-east|missile_distance=7/7}}}}\n |{{Ability|Poisoning Ball|up to 23 [[hp]]/turn|element=poisoned\n   |scene={{Scene|spell=3sqmball2self|effect=Poison Effect 3|caster=Roaring Water Elemental|look_direction=south|effect_on_caster=yes}}}}\n |{{Healing|range=57-78\n  |scene={{Scene|spell=buffspell|effect=Blue Sparkles Effect|caster=Roaring Water Elemental|look_direction=south|effect_on_caster=yes}}}}\n}}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "yes",
+    "fireDmgMod": "0%",
+    "holyDmgMod": "60%",
+    "sounds": [
+        "BLUB BLUB",
+        "SWASHHH"
+    ],
+    "maxdmg": "762+",
+    "pushable": "?",
+    "implemented": "8.20",
+    "loot": [
+        {
+            "amount": "0-179",
+            "itemName": "Gold Coin"
+        },
+        {
+            "itemName": "Iced Soil"
+        },
+        {
+            "itemName": "Giant Shimmering Pearl",
+            "rarity": "semi-rare"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "Small Sapphire",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Northwind Rod",
+            "rarity": "rare"
+        }
+    ],
+    "walksaround": "Energy",
+    "exp": "1300",
+    "creatureclass": "Elementals",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "55%",
+    "primarytype": "Hydro-Elementals",
+    "race_id": "474",
+    "senseinvis": "yes",
+    "article": "a",
+    "actualname": "roaring water elemental",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "0%",
+    "convince": "--",
+    "name": "Roaring Water Elemental",
+    "isboss": "no",
+    "behaviour": "'''Roaring Water Elementals''' are fast and fight until death.",
+    "location": "[[The Elemental Spheres Quest]], [[Paladin]]'s part - [[Ice Sphere]].",
+    "iceDmgMod": "0%",
+    "strategy": "If you don't mind using 210 cap you can use [[Helmet of the Deep]] to block water based attack. '''[[Paladin]]s''': Don't try to outrun them because they are very fast, similar to [[Nightmare]]s. Try to bring them down with [[Assassin Star]]s and [[Ethereal Spear]] spell. Try to avoid situations where you need to block more than one because they hit hard. [[Glacier Amulet]] is recommended to fight this monster.",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "99%<?"
+}

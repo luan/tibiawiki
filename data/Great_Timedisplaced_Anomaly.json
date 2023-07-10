@@ -1,0 +1,81 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "It's one of the bosses which awards Theons as part of [[Tibia's 25th Anniversary]].",
+    "walksthrough": "Fire, Poison, Energy",
+    "hp": "250000",
+    "abilities": "{{Ability List|}}",
+    "pushobjects": "yes",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "100%",
+    "holyDmgMod": "100%",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "?",
+    "pushable": "?",
+    "usedelements": "?",
+    "runsat": "0",
+    "implemented": "12.85.11485",
+    "loot": [
+        {
+            "amount": "1-3",
+            "itemName": "50 Theons"
+        },
+        {
+            "itemName": "Violet Gem"
+        },
+        {
+            "itemName": "Platinum Coin"
+        },
+        {
+            "itemName": "Strong Health Potion"
+        },
+        {
+            "itemName": "Red Gem"
+        },
+        {
+            "itemName": "Strong Mana Potion"
+        },
+        {
+            "itemName": "Great Mana Potion"
+        },
+        {
+            "itemName": "Yellow Gem"
+        },
+        {
+            "itemName": "Great Health Potion"
+        },
+        {
+            "itemName": "Great Spirit Potion"
+        },
+        {
+            "itemName": "Blue Gem"
+        }
+    ],
+    "walksaround": "None.",
+    "exp": "0",
+    "creatureclass": "Special",
+    "earthDmgMod": "100%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Shapeshifters",
+    "spawntype": [
+        "Triggered"
+    ],
+    "senseinvis": "?",
+    "article": "a",
+    "actualname": "great timedisplaced anomaly",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Great Timedisplaced Anomaly",
+    "isboss": "yes",
+    "location": "[[Time Travel Dungeon]].",
+    "iceDmgMod": "100%",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "100%",
+    "status": "unavailable"
+}

@@ -1,0 +1,128 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "{{JSpoiler|You have to kill 5 of them in a mission of the [[Forgotten Knowledge Quest]].}}",
+    "isarenaboss": "no",
+    "walksthrough": "?",
+    "hp": "2000",
+    "abilities": "{{Ability List|{{Melee|0-?}}}}",
+    "healMod": "100%",
+    "paraimmune": "?",
+    "holyDmgMod": "115%",
+    "maxdmg": "{{Max Damage|physical=?}}",
+    "pushable": "no",
+    "implemented": "11.02.4128",
+    "loot": [
+        {
+            "amount": "0-158",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Soul Orb",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Strong Health Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Strong Mana Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Life Crystal",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Gear Crystal",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Crystal Pedestal",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Gear Wheel",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Lightning Pendant",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Yellow Gem",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Might Ring",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Wand of Cosmic Energy",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Mastermind Potion",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Slime Mould",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Crystalline Armor",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Shockwave Amulet",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Bonebreaker",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Crystal Pedestal (Cyan)"
+        }
+    ],
+    "walksaround": "Fire",
+    "exp": "700",
+    "mitigation": "0.83",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "diamond servant replica",
+    "illusionable": "yes",
+    "armor": "25",
+    "convince": "--",
+    "name": "Diamond Servant Replica",
+    "isboss": "no",
+    "iceDmgMod": "100%",
+    "energyDmgMod": "0%",
+    "deathDmgMod": "100%",
+    "plural": "diamond servant replicas",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Rare",
+    "speed": "86",
+    "pushobjects": "yes",
+    "fireDmgMod": "90%",
+    "sounds": [
+        ""
+    ],
+    "bestiaryclass": "Construct",
+    "creatureclass": "Misc",
+    "earthDmgMod": "25%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Machines",
+    "spawntype": [
+        "Regular"
+    ],
+    "race_id": "1326",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "behaviour": "Fights in close combat.",
+    "location": "[[Replica Dungeon]]",
+    "strategy": "Unknown"
+}

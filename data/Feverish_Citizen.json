@@ -1,0 +1,101 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "They will spawn in [[Venore]]'s streets every thirty or sixty minutes when none or too few [[Medicine Pouch]]es are handed in. A player can see the likeliness of these creatures spawning by asking [[Guide NPCs]] about the '''Swamp Fever'''. There is a random chance of them spawning no matter the amount of medicine handed in.",
+    "isarenaboss": "no",
+    "walksthrough": "None",
+    "hp": "125",
+    "abilities": "{{Ability List\n | {{Melee|0-19}}\n | {{Ability|Poison [[Drunkenness]] Wave|element=drunk|scene={{Scene|spell=3sqmtwave|effect=Poison Effect 3|caster=Feverish Citizen|look_direction=east}}}}\n | {{Outfit|no|Bog Raider|scene={{Scene|spell=3x3spell|effect=Poison Effect 1|caster=Feverish Citizen}}}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "holyDmgMod": "25%",
+    "maxdmg": "{{Max Damage|physical=19}}",
+    "pushable": "yes",
+    "implemented": "9.10",
+    "loot": [
+        {
+            "amount": "1-35",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "Worm",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Bone",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Dubious Piece of Cloth",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Ludicrous Piece of Cloth",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Luminous Piece of Cloth",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Obvious Piece of Cloth",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Ominous Piece of Cloth",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Voluminous Piece of Cloth",
+            "rarity": "semi-rare"
+        }
+    ],
+    "walksaround": "Fire, Energy, Poison",
+    "exp": "30",
+    "mitigation": "0.25",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "feverish citizen",
+    "illusionable": "no",
+    "armor": "14",
+    "convince": "--",
+    "name": "Feverish Citizen",
+    "isboss": "no",
+    "iceDmgMod": "90%",
+    "energyDmgMod": "110%",
+    "deathDmgMod": "90%",
+    "status": "event",
+    "plural": "feverish citizens",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Rare",
+    "speed": "73",
+    "pushobjects": "no",
+    "fireDmgMod": "115%",
+    "sounds": [
+        "Arrrgh!",
+        "I am the king of the world!",
+        "Die Ferumbras!",
+        "Tigerblood is running through my veins!",
+        "You! It's you again!",
+        "Stand still you tasty morsel!",
+        "<giggle>",
+        "Burn heretic! Burn!",
+        "Harrr!",
+        "This is Venore!"
+    ],
+    "runsat": "0",
+    "bestiaryclass": "Human",
+    "creatureclass": "Humans",
+    "earthDmgMod": "90%",
+    "physicalDmgMod": "115%",
+    "primarytype": "Outlaws",
+    "race_id": "719",
+    "bestiarylevel": "Easy",
+    "senseinvis": "no",
+    "drownDmgMod": "100%?",
+    "location": "[[Venore]].",
+    "strategy": "Just kill them, they are weak."
+}

@@ -1,0 +1,101 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "{{JSpoiler|Part of the [[Killing in the Name of... Quest]]. \n'''Note:''' The mission rewards are given before facing this boss, but he must be fought before you can re-take the task.}}",
+    "walksthrough": "?",
+    "hp": "2000",
+    "speed": "?",
+    "abilities": "{{Ability List\n |{{Melee|0-130}}\n |{{Ability|[[Fireball]]|210-250|element=fire}}\n |{{Ability|[[Heavy Magic Missile]]|100-300|element=energy}}\n |{{Ability|Electrifying Berserk|25 [[hp]] for 3 turns|element=electrified}}\n |{{Summon|Blue Djinn|3}}\n |{{Healing|range=173?-?}}\n}}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "99%?",
+    "holyDmgMod": "99%?",
+    "sounds": [
+        "You should know better than to be an enemy of the Marid"
+    ],
+    "maxdmg": "800 (With summons)",
+    "pushable": "?",
+    "implemented": "8.50",
+    "loot": [
+        {
+            "amount": "0-118",
+            "itemName": "Gold Coin"
+        },
+        {
+            "amount": "0-22",
+            "itemName": "Blueberry"
+        },
+        {
+            "itemName": "Seeds"
+        },
+        {
+            "itemName": "Small Oil Lamp"
+        },
+        {
+            "amount": "0-4",
+            "itemName": "Blue Piece of Cloth"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "Small Sapphire"
+        },
+        {
+            "amount": "0-3",
+            "itemName": "Strong Mana Potion"
+        },
+        {
+            "amount": "0-3",
+            "itemName": "Royal Spear"
+        },
+        {
+            "itemName": "Wooden Flute"
+        },
+        {
+            "itemName": "Heavy Machete"
+        },
+        {
+            "itemName": "Mystic Turban"
+        },
+        {
+            "itemName": "Noble Turban"
+        },
+        {
+            "itemName": "Jewelled Belt"
+        },
+        {
+            "itemName": "Blue Gem",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Magma Monocle",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Shiny Stone",
+            "rarity": "rare"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "1500",
+    "creatureclass": "Humanoids",
+    "earthDmgMod": "100%?",
+    "physicalDmgMod": "100%?",
+    "primarytype": "Djinn",
+    "race_id": "554",
+    "senseinvis": "?",
+    "actualname": "Fahim the Wise",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Fahim the Wise",
+    "isboss": "yes",
+    "behaviour": "Fights until death.",
+    "location": "[[Magician Quarter]] ([[Yalahar]]) past the teleport on the top floor of the front left tower, which is located {{Mapper Coords|128.46|121.144|2|4|text=here}}.",
+    "iceDmgMod": "115%",
+    "strategy": "'''Sorcerers''' and '''Druids''' should enter and fire a few shots of SD before he has a chance to summon too many, because with its three summons and its own attacks, things can get out of hand quickly.  Recommended for levels 60+.\n'''Paladins''' have a little room to run on the rooftop, so it's recommended to use a strong projectile and run circles.\n'''Knights''' should charge the boss and slay it as quickly as possible using exori/exori grans, because again, the summons can make things difficult.",
+    "energyDmgMod": "100%?",
+    "deathDmgMod": "110%"
+}

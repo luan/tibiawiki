@@ -1,0 +1,84 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "isevent": "no",
+    "plural": "Planedwellers",
+    "hpDrainDmgMod": "100%?",
+    "notes": "They are very hard to kill unless they are weakened by using an [[Old Fanfare]] or [[Old Lute]] on them, which reduces their healing.",
+    "isarenaboss": "no",
+    "walksthrough": "None.",
+    "hp": "?",
+    "abilities": "{{Ability List\n |{{Melee|0-200+|element=physical}}\n |{{Ability|Earth Missile|500-650|element=earth}}\n |{{Ability|Poison Ball on self|200-300|element=poison}}\n |{{Ability|Poison Wave|200-300|element=physical}}\n |{{Ability|Death Ball on self|400-600|element=cursed}}\n |{{Healing|range=200-400}}\n |{{Haste|[[Strong Haste]]}}\n}}",
+    "pushobjects": "yes",
+    "healMod": "100%?",
+    "paraimmune": "yes",
+    "fireDmgMod": "60%?",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        "I can still hear you...!",
+        "is it dark in here or is it just... me?",
+        "Who are you...? Show yourself!"
+    ],
+    "maxdmg": "1200+",
+    "pushable": "no",
+    "usedelements": "Earth",
+    "runsat": "0",
+    "implemented": "12.31.9667",
+    "loot": [
+        {
+            "itemName": "Blue Marble"
+        },
+        {
+            "itemName": "Green Marble"
+        },
+        {
+            "itemName": "Red Marble"
+        },
+        {
+            "itemName": "Onyx Marble"
+        },
+        {
+            "itemName": "Versicoloured Marble"
+        },
+        {
+            "itemName": "Turquoise Marble"
+        },
+        {
+            "itemName": "Golden Marble"
+        },
+        {
+            "itemName": "Orange Marble"
+        },
+        {
+            "itemName": "Psychedelic Marble"
+        },
+        {
+            "itemName": "Withered Pauldrons"
+        }
+    ],
+    "walksaround": "Fire, Energy, Poison",
+    "exp": "?",
+    "creatureclass": "The Undead",
+    "earthDmgMod": "5%?",
+    "physicalDmgMod": "50%?",
+    "primarytype": "Ghosts",
+    "spawntype": [
+        "Regular",
+        "Unblockable"
+    ],
+    "senseinvis": "yes",
+    "article": "a",
+    "actualname": "planedweller",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Planedweller",
+    "isboss": "no",
+    "behaviour": "Planedwellers move very slow but have a very powerful haste.",
+    "location": "Inside [[The Cube (Location)|The Cube]].",
+    "iceDmgMod": "30%?",
+    "strategy": "Weaken them using the old musical instruments and then just attack with the best you got.",
+    "energyDmgMod": "50%?",
+    "deathDmgMod": "20%?"
+}

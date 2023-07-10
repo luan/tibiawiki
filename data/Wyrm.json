@@ -1,0 +1,126 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "walksthrough": "Fire, Energy, Poison",
+    "hp": "1825",
+    "abilities": "{{Ability List\n |{{Melee|0-235}}\n |{{Healing|range=100-150}}\n |{{Ability|Long [[Energy Wave]]|130-200|element=energy|scene={{Scene\n  |spell=5sqmwavewide\n  |background=dry_earth\n  |effect=Purple Electricity Effect\n  |caster=Wyrm\n  |castername={{PAGENAME}}\n  }}}}\n |{{Ability|[[Berserk|Yellow Energy Berserk]]|100-220|element=energy|scene={{Scene\n  |spell=3x3spell\n  |background=dry_earth\n  |effect=Yellow Electricity Effect\n  |effect_on_caster=yes\n  |caster=Wyrm\n  |castername={{PAGENAME}}\n  }}}}\n |{{Ability|[[Heavy Magic Missile]]|100-125|element=energy}}\n |{{Ability|Smoke Beam (4 sqm)|98-145 |element=lifedrain|scene={{Scene\n  |spell=4sqmbeam\n  |background=dry_earth\n  |look_direction=east\n  |effect=Poof Effect\n  |caster=Wyrm\n  |castername={{PAGENAME}}\n  }}}}\n |{{Ability|Wyrm Roar|unknown effect|element=?\n   |scene={{Scene|spell=buffspell|background=dry_earth|effect=Yellow Notes Effect|caster={{PAGENAME}}|look_direction=south|effect_on_caster=yes}}}}\n }}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "holyDmgMod": "100%",
+    "maxdmg": "{{Max Damage|physical=235|energy=345|lifedrain=145}}",
+    "pushable": "?",
+    "implemented": "8.20",
+    "loot": [
+        {
+            "amount": "0-230",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "amount": "0-3",
+            "itemName": "Dragon Ham",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Strong Health Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Strong Mana Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Wyrm Scale",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "0-10",
+            "itemName": "Burst Arrow",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Crossbow",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Focus Cape",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Wand of Draconia",
+            "rarity": "rare"
+        },
+        {
+            "amount": "0-3",
+            "itemName": "Small Diamond",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Lightning Pendant",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Wand of Starstorm",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Hibiscus Dress",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Dragonbone Staff",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Shockwave Amulet",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Composite Hornbow",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "None",
+    "exp": "1550",
+    "mitigation": "0.83",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "wyrm",
+    "illusionable": "yes",
+    "armor": "34",
+    "convince": "--",
+    "name": "Wyrm",
+    "isboss": "no",
+    "iceDmgMod": "105%",
+    "energyDmgMod": "0%",
+    "deathDmgMod": "105%",
+    "plural": "wyrms",
+    "hpDrainDmgMod": "0%",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "It is said that the Wyrm is a distant and primitive relative of the dragon. Dragons, on the other hand, oppose this theory like a human would oppose the theory that an orc is a primitive relative of a human. In the end, the distinction is of no importance if you face such a creature. While it lacks the fire breath of a dragon, it is still a creature of heat that knows how to melt snow and ice while passing through it. What it lacks in magic, it makes up with sheer strength. It is a much better fighter than ordinary dragons and astonishingly agile, almost like a snake. A Wyrm's teeth are prized by dwarfs since they easily cut through most materials. The Wyrm indiscriminately eats minerals and meat alike, and it is said that you sometimes find valuable metals in the excrements in their lairs. The Wyrm is a powerful predator that does not back away from attacking small towns in times of hunger. Their territory is usually quite large, though they tend to stay in their lairs most of the time. Wyrms are quite intelligent compared to other animals. Still, they are not capable of speech and at best understand a few short commands just like a trained dog. Of course, training a Wyrm is easier said than done. However, there are some scrupulous beings that capture young Wyrms and train them for their evil plans.",
+    "speed": "140",
+    "pushobjects": "?",
+    "fireDmgMod": "80%",
+    "sounds": [
+        "GRROARR",
+        "GRRR"
+    ],
+    "bestiaryclass": "Dragon",
+    "creatureclass": "Reptiles",
+    "earthDmgMod": "25%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Wyrms",
+    "spawntype": [
+        "Regular",
+        "Unblockable"
+    ],
+    "race_id": "461",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%",
+    "bestiaryname": "wyrm",
+    "behaviour": "Runs on low [[health]].",
+    "location": "[[Drefia Wyrm Lair]] (after the [[Medusa Shield Quest]] room, {{Mapper Coords|129.46|126.141|13|4|text=here}}), [[Darashia Wyrm Hills]], [[Arena and Zoo Quarter]], beneath [[Fenrock]], Deeper [[Razachai]], [[Lower Spike]], [[Vandura Wyrm Cave]] and [[Vandura Mountain]] in [[Liberty Bay]].",
+    "strategy": "Be aware of the waves and beams the wyrm uses, avoid them by standing diagonal. Be careful while running away from this creature, because two of them can send you to your [[temple]]. If you are stopped, you must heal with [[health]] under 350.\n\nThey don't deal very high combos, but they are stronger and faster than normal [[dragon]]s. \n\n'''[[Mage]]s''' should use [[Death Strike]] or [[Ice Strike]]. [[Druid]]s could use [[Hailstorm Rod]] or [[Underworld Rod]], while [[Sorcerer]]s could use [[Wand of Voodoo]]. A mage can kill a wyrm alone at level 60, without [[Mana Shield]] and healing when necessary. At higher levels, mages can lure several wyrms and [[Avalanche Rune]]s to deal damage to several Wyrms at once.<br>\n'''[[Paladin]]s''' can easily run these as they would a dragon, but beware of luring other wyrms on yourself.<br>\n'''[[Knight]]''' should treat them like weak [[Dragon Lord]]s. With around 80/80 and at least 900 hp, you should be able to hunt them using only [[Mana Potion]]s and [[exura ico]]. If you face two at a time, it may be a good idea to run in circles around one so the other cannot hit you. Their melee is often weak and their defence poor, so it's best to fight them in full attack with a good 2 handed weapon like an [[Avenger]], make sure to bring them down quick, as their healing can be quite annoying.\n\nIt's a good idea to use [[Strange Talisman]] or [[Lightning Pendant]] to reduce the [[Energy Damage]] by 10%/20%. [[Lightning Set]] is recommended as well because it has no charges.\nkeep in mind that if you leave a lightning pendant at 1 charge or more, you can still sell it to [[Rashid]]. so a neat trick to do is to leave it around 10~ charges and use another one. this way you can get a part of the cost back"
+}

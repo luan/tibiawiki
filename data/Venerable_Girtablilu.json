@@ -1,0 +1,150 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "walksthrough": "Fire, Poison, Energy",
+    "hp": "8500",
+    "occurrence": "Common",
+    "bestiarytext": "Venerable Girtablilu are older and wiser than [[Girtablilu Warrior]]s.",
+    "speed": "180",
+    "abilities": "{{Ability List\n |{{Ability|Death Missile|200-?|death\n  |scene={{Scene|spell=1sqmstrike|effect=Death Effect|missile=Death Missile|missile_direction=south-east|missile_distance=1/1}}}}\n |{{Ability|Poison Wave|200-?|earth\n  |scene={{Scene|spell=4sqmtwave|effect=Poison Effect 2|damage_effect=Poison Effect 1|look_direction=east}}}}\n |{{Ability|Poison Berserk|element=earth\n  |scene={{Scene|spell=3x3spell|effect=Poison Effect 2|effect_on_caster=yes}}}}\n}}",
+    "pushobjects": "yes",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "fireDmgMod": "100%",
+    "holyDmgMod": "120%",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "?",
+    "pushable": "no",
+    "usedelements": "?",
+    "implemented": "12.70.10953",
+    "bestiaryclass": "Magical",
+    "loot": [
+        {
+            "amount": "1-19",
+            "itemName": "Platinum Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Small Diamond",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Red Gem",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Gold Ingot",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Cyan Crystal Fragment",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Old Girtablilu Carapace",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Violet Gem",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Yellow Gem",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Blue Gem",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Wand of Decay",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Wand of Cosmic Energy",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Underworld Rod",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Northwind Rod",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Wand of Voodoo",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Blue Crystal Shard",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Violet Crystal Shard",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Green Crystal Shard",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Red Crystal Fragment",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Green Crystal Fragment",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Ring of Blue Plasma",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Scorpion Charm",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Necrotic Rod",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Wood Cape",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Springsprout Rod",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Wand of Defiance",
+            "rarity": "rare"
+        }
+    ],
+    "walksaround": "None",
+    "exp": "5300",
+    "creatureclass": "Invertebrates",
+    "earthDmgMod": "80%",
+    "mitigation": "2.16",
+    "physicalDmgMod": "100%",
+    "primarytype": "Arachnids",
+    "race_id": "2098",
+    "bestiarylevel": "Hard",
+    "senseinvis": "yes",
+    "article": "a",
+    "actualname": "venerable girtablilu",
+    "illusionable": "no",
+    "armor": "80",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "bestiaryname": "girtablilu",
+    "name": "Venerable Girtablilu",
+    "behaviour": "Keeps distance",
+    "location": "[[Ruins of Nuur]]",
+    "iceDmgMod": "100%",
+    "energyDmgMod": "110%",
+    "deathDmgMod": "100%"
+}

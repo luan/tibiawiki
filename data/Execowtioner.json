@@ -1,0 +1,142 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "These creatures can be skinned with an [[Obsidian Knife]]. See also: [[Minotaur Leather/Skinning]].",
+    "walksthrough": "?",
+    "hp": "3500",
+    "abilities": "{{Ability List| {{Melee|0-260}}|{{Ability|[[Whirlwind Throw]]|0-280|element=?}}|{{Ability|[[Death Strike]]|100-200|element=death}} }}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "secondarytype": "Oramond Minotaurs",
+    "holyDmgMod": "100%",
+    "maxdmg": "740",
+    "pushable": "no",
+    "implemented": "10.50",
+    "loot": [
+        {
+            "amount": "0-198",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "amount": "0-3",
+            "itemName": "Platinum Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Execowtioner Mask",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Minotaur Leather",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Great Health Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Great Mana Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Meat",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "Small Ruby",
+            "rarity": "semi-rare"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "Minotaur Horn",
+            "rarity": "semi-rare"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "Small Topaz",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Red Piece of Cloth",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Execowtioner Axe",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Knight Axe",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Crown Armor",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Titan Axe",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Butcher's Axe",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Gold Ingot",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Minotaur Trophy",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Energy\nFire\nPoison",
+    "exp": "2400",
+    "mitigation": "1.60",
+    "attacktype": "Melee",
+    "article": "an",
+    "actualname": "execowtioner",
+    "illusionable": "no",
+    "armor": "41",
+    "convince": "--",
+    "name": "Execowtioner",
+    "isboss": "no",
+    "iceDmgMod": "90%",
+    "energyDmgMod": "90%",
+    "deathDmgMod": "85%",
+    "plural": "execowtioners",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "no",
+    "occurrence": "Common",
+    "bestiarytext": "The minotaurs know several sects with several purposes. The mooh'tah masters and the death magicians being the most prominent outside the minotaur society. One of the most secretive sects is what the minotaurs call the high judges. They are the sheriffs, judges and executioners of the minotaurs, combined into a single person. They are almost seen as mythical figures and are structured like a military order and a secret society at once. No one knows who hides beneath their shrouds and masks. They are faceless as justice itself. The requirements to join their order is as unknown as their recruitment process. They rarely talk to outsiders other then to proclaim a sentence. Recently the order has stepped forward from the shadows though and their grandmaster proclaimed a death sentence to all enemies of minotaurhood. This places the high judges into the first lines of battle. In the first encounters not only their battle prowesses could be noticed but it also became alarmingly clear that they are not short in numbers yet no one knows for terrain about their manpower. Another mystery is that there are sects of high judges in almost all notable minotaur colonies and they all seem to follow the orders of a single grandmaster, regardless of the colonies allegiances. How the different sects communicate and coordinate even on different continents is yet another riddle though. It can be said for certain that two high judges will never fight each other in battle but the sect rarely fight in inner minotaur conflicts anyway. Usually they travel alone and pass their sentences on those they find guilty. People may come to them to mediate conflicts or seek justice and the high judges will answer their plea ... for a price. It's commonplace to present the high judges gifts for their expected services. Sometimes a high judge might feel offended by the gift and leave, sometimes he considers it an insult and instantly delivers his sentence for the grievance. So usually the gifts to the judges are quite generous and a high judge can expect free food and lodging wherever he travels. The judges are seemingly bound in their doings by something they call 'the code' which probably is some kind of text with laws. The tricky thing is, that this code as almost everything else concerning the judges is secret. The ordinary minotaur can only guess by the sentences what the code might consider forbidden and what not. This leaves them with only a vague feeling what is forbidden and what not. Considering the often harsh punishment that the judges delver most minotaurs tend to keep it save and stay away from everything that even remotely could be considered a crime. The moniker 'execowtioner' was given them by human adventurers who first encountered the sect. Calling a high judge execowtioner though, is asking him for a death sentence.",
+    "speed": "135",
+    "pushobjects": "?",
+    "fireDmgMod": "100%",
+    "sounds": [
+        "I'm the one who puts the cute into execute!",
+        "I'm here to punish!",
+        "Justice is swift and unavoidable!",
+        "I'll bring justice!",
+        "There is excellence in execution!",
+        "Your sentence is death!"
+    ],
+    "runsat": "0",
+    "bestiaryclass": "Humanoid",
+    "creatureclass": "Humanoids",
+    "earthDmgMod": "85%",
+    "physicalDmgMod": "90%",
+    "primarytype": "Minotaurs",
+    "spawntype": [
+        "Regular",
+        "Unblockable"
+    ],
+    "race_id": "1046",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "execowtioner",
+    "behaviour": "Execowtioners fight until death.",
+    "location": "[[Oramond Mountain Hideout]], [[Oramond Minotaur Camp]] (northern camp), [[Underground Glooth Factory]], [[Oramond Dungeon]]",
+    "strategy": "Don't let their appearance fool you, as their attacks can be stronger than those of a [[Behemoth]] or a [[Destroyer]].\n\n'''[[Paladin]]s:''' Throw fire walls on the ground and run around them, while healing constantly, for their distance attacks are very strong. Don't let them touch you, and if that happens, be ready to cast salvation, because their melee attacks may hit more than 400 when you're wearing no shield.\n\n'''[[Knight]]s:''' Reach them as soon as possible, as they can spam their strong [[Whirlwind Throw]] up to three times in a row if they are not hitting you with [[Melee]]. Try to lure them away from other Minotaurs, as their high amount of [[Hit Point]]s combined with their very strong combos and the attacks from other Minotaurs can spell doom even on the most experienced Knights."
+}

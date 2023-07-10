@@ -1,0 +1,169 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "walksthrough": "Fire, Poison",
+    "hp": "8250",
+    "abilities": "{{Ability List\n |{{Melee|0-400|poison=10}}\n |{{Ability|Poison Ball|60-114|element=earth\n  |scene={{Scene|spell=2sqmballself|effect=Poison Effect 3|caster=Plaguesmith|casting_effect=Poison Effect 3}}}}\n |{{Ability|[[Paralysis|Paralyze Ball]]|element=paralyze\n  |scene={{Scene|spell=2sqmballself|effect=Poison Effect 3|caster=Plaguesmith|casting_effect=Poison Effect 3}}}}\n |{{Ability|Life drain wave|100-350|element=life drain\n  |scene={{Scene|spell=5sqmwavenarrow|effect=Yellow Poison Effect|caster=Plaguesmith|look_direction=east}}}}\n |{{Haste|[[Strong Haste]]}}\n |{{Healing|range=200-280}} (slow)\n}}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "holyDmgMod": "110%",
+    "maxdmg": "{{Max Damage|physical=400|earth=474}}",
+    "pushable": "no",
+    "implemented": "7.9",
+    "loot": [
+        {
+            "amount": "1-287",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Dirty Cape",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Mouldy Cheese",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Morning Star",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Piece of Iron",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Two Handed Sword",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Battle Hammer",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Steel Shield",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Soul Orb",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Great Health Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Demonic Essence",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Platinum Coin",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-4",
+            "itemName": "Onyx Arrow",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Slightly Rusted Armor",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Knight Legs",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Club Ring",
+            "rarity": "semi-rare"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "Small Amethyst",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Axe Ring",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Silver Brooch",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "War Hammer",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Steel Boots",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Piece of Royal Steel",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Piece of Hell Steel",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Piece of Draconian Steel",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Hammer of Wrath",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Emerald Bangle",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "War Horn",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Energy",
+    "exp": "3555",
+    "mitigation": "1.32",
+    "attacktype": "Melee",
+    "history": "They used to drop [[Dragon Scale Mail]]s as a rare drop, but it got removed shortly after Plaguesmiths were introduced.<br />\nIts experience was decreased from 4500 to 1350 with the first batch of changes of [[Updates/12.31|Update 12.31]]. It was increased to 3555 with the second batch.",
+    "article": "a",
+    "actualname": "plaguesmith",
+    "illusionable": "no",
+    "armor": "30",
+    "convince": "--",
+    "name": "Plaguesmith",
+    "isboss": "no",
+    "iceDmgMod": "80%",
+    "energyDmgMod": "110%",
+    "deathDmgMod": "90%",
+    "plural": "plaguesmiths",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "There is nothing that pleases the dreaded Plaguesmiths more than rot and decay. These cowardly demons are constantly scheming and plotting to bring despair and diseases to the world of the mortals. They enjoy the painful torments their poisons and plagues inflict on other beings. They rely on a disgusting diet that consists of poisonous, morbid and corrosive fluids. Their main capability lies in the creating of poisons and plagues as well as to transform usually insubstantial things like despair, pain and agony into substantial tools and weapons. Although their physique makes them powerful fighters, their inherent cowardice prohibits them to rise in the ranks of demon kind. They tend to use others to do the dirty work and operate behind the scenes. More often though, they end up forced into the service of a more powerful creature. Still they are rarely seen in the realm of men. More often they stay in the realm of demons and supply their masters and servants alike with new weapons to spread poison and sickness.",
+    "speed": "160",
+    "pushobjects": "yes",
+    "fireDmgMod": "70%",
+    "sounds": [
+        "You are looking a bit feverish!",
+        "You don't look that good!",
+        "Hachoo!",
+        "Cough Cough"
+    ],
+    "runsat": "red",
+    "bestiaryclass": "Demon",
+    "creatureclass": "Demons",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Demons",
+    "race_id": "314",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "plaguesmith",
+    "location": "[[Pits of Inferno]], [[Formorgar Mines]], [[Edron]] [[Demon Forge]] ([[The Vats]], [[The Foundry]]), [[Magician Quarter]], [[Alchemist Quarter]], [[Roshamuul Prison]], [[Grounds of Plague]] and [[Halls of Ascension]].",
+    "strategy": "Solo: shoot [[Energy Wall]]s to make it walk around and not get to you ([[Mage]]s and [[Paladin]]s), but be careful with its Haste and strong Paralysis. Mages should use Energy spells and [[Sudden Death Rune]]s due to their large health pool. Also, it's recommended to find a part of the terrain that you can trap the Plaguesmith in, as it can run very fast in low health.<br/>Teams: The Knight should use the [[Challenge]] spell when it's near red health to make sure it doesn't run away."
+}

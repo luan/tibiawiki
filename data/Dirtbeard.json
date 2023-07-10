@@ -1,0 +1,59 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "It's the second floor boss. Use his body to get a random reward before you use the body of Evil Mastermind, otherwise you may not get any item. Probably an allusion to Blackbeard.",
+    "walksthrough": "None",
+    "hp": "630",
+    "speed": "?",
+    "abilities": "{{Ability List\n |{{Melee|0-125+}}\n |{{Ability|[[Throwing Knife]]s|0-100|element=?}}\n |{{Ability|[[Summon|Musical Bomb]]|summons 2 [[Pirate Marauder]]s|element=summon}}\n |{{Debuff2|Musical Strike|melee=yes|value=70%}}\n}}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "110%",
+    "holyDmgMod": "90%",
+    "sounds": [
+        "You are no match for the scourge of the seas!",
+        "You move like a seasick whale!",
+        "Yarr, death to all landlubbers!"
+    ],
+    "maxdmg": "225+ (585+ with summons)",
+    "pushable": "?",
+    "implemented": "8.50",
+    "loot": [
+        {
+            "itemName": "Odd Hat"
+        },
+        {
+            "itemName": "The Shield Nevermourn"
+        },
+        {
+            "itemName": "Pointed Rabbitslayer"
+        },
+        {
+            "itemName": "Helmet of Nature"
+        }
+    ],
+    "walksaround": "Fire, Energy, Poison",
+    "exp": "375",
+    "creatureclass": "Humans",
+    "earthDmgMod": "80%",
+    "physicalDmgMod": "100%",
+    "bosstiaryclass": "Bane",
+    "primarytype": "Pirates",
+    "race_id": "565",
+    "senseinvis": "yes",
+    "actualname": "Dirtbeard",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Dirtbeard",
+    "isboss": "yes",
+    "behaviour": "He runs in low health.",
+    "location": "[[Isle of Evil]].",
+    "iceDmgMod": "105%",
+    "strategy": "Kill it fast.",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "100%?"
+}

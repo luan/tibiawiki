@@ -1,0 +1,130 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "Raging Mages",
+    "hpDrainDmgMod": "100%?",
+    "notes": "Was introduced in the [[Summer Update 2011]].<br>Spawns after the [[Energized Raging Mage]] has been killed.<br>This, however, will not happen until your server has killed 2000 [[Yielothax]]es.\nThis raid message will appear when he has been killed:\n:{{Server Message|The remains of the Raging Mage are scattered on the floor of his Tower. The dimensional portal quakes.}}\nExactly five minutes later the dimensional portal gets closed and this message appears:\n:{{Server Message|With a great bang the dimensional portal in Zao collapsed and with it the connection to the other dimension shattered.}}",
+    "isarenaboss": "no",
+    "walksthrough": "Fire, Energy, Poison",
+    "hp": "3500",
+    "lightcolor": "167",
+    "speed": "?",
+    "abilities": "{{Ability List| {{Ability|+ shaped [[Energy Field (Field)|Energy Field]]s|element=energy field}}|{{Ability|[[Thunderstorm]]|100-200|element=energy}}|{{Summon|Golden Servant|1}}|{{Healing|range=~200}}|{{Ability|[[Mana Drain]]|100-200|element=manadrain}} }}",
+    "pushobjects": "yes",
+    "healMod": "100%?",
+    "paraimmune": "yes",
+    "fireDmgMod": "0%",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        "Behold the all permeating powers I draw from this gate!!",
+        "ENERGY!!",
+        "I WILL RETURN!! My death will just be a door to await my homecoming, my physical hull will be... my... argh..."
+    ],
+    "maxdmg": "200 (480 with summons)",
+    "pushable": "no",
+    "lightradius": "4",
+    "implemented": "9.10",
+    "loot": [
+        {
+            "amount": "0-169",
+            "itemName": "Gold Coin"
+        },
+        {
+            "amount": "0-8",
+            "itemName": "Platinum Coin"
+        },
+        {
+            "amount": "0-5",
+            "itemName": "Great Health Potion"
+        },
+        {
+            "amount": "0-5",
+            "itemName": "Great Mana Potion"
+        },
+        {
+            "itemName": "Bullseye Potion"
+        },
+        {
+            "amount": "0-5",
+            "itemName": "Small Sapphire"
+        },
+        {
+            "amount": "0-10",
+            "itemName": "Assassin Star"
+        },
+        {
+            "amount": "0-3",
+            "itemName": "Dark Mushroom"
+        },
+        {
+            "itemName": "Luminous Orb"
+        },
+        {
+            "itemName": "Mind Stone"
+        },
+        {
+            "itemName": "Piggy Bank"
+        },
+        {
+            "itemName": "Stealth Ring"
+        },
+        {
+            "itemName": "Crystal Ring"
+        },
+        {
+            "itemName": "Focus Cape"
+        },
+        {
+            "itemName": "Ring of the Sky"
+        },
+        {
+            "itemName": "Red Piece of Cloth"
+        },
+        {
+            "itemName": "Royal Tapestry",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Crystal of Power"
+        },
+        {
+            "itemName": "Spellbook of Mind Control",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Skull Helmet",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Boots of Haste",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Elemental Spikes",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "None.",
+    "exp": "3250",
+    "creatureclass": "Humans",
+    "earthDmgMod": "100%",
+    "physicalDmgMod": "125%",
+    "bosstiaryclass": "Archfoe",
+    "primarytype": "Sorcerers",
+    "race_id": "718",
+    "senseinvis": "yes",
+    "article": "a",
+    "actualname": "Raging Mage",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Raging Mage",
+    "isboss": "yes",
+    "behaviour": "Fights in close combat. Tries to escape when his health drops to red.",
+    "location": "[[Yielothax Dimension|Raging Mage Tower]].",
+    "iceDmgMod": "100%",
+    "strategy": "Unknown.",
+    "energyDmgMod": "0%",
+    "deathDmgMod": "85%"
+}

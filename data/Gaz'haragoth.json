@@ -1,0 +1,268 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "Gaz'haragoth is a Demon Prince who was once {{Post|37019048|in charge}} of overseeing [[Roshamuul]], until the [[The Dreamers V (Book)|explosion]] of the Dream Catcher mutated him into his current form. \n\nAfter a [[Gameworlds|world]] breaks Roshamuul's wall, Gaz'haragoth is found on top of the mountain at the center of the island, and will remain there until it's defeated. Upon defeat, Gaz'haragoth is cast to the [[Roshamuul Prison]] lowest levels, where it will be imprisoned in a secure room. Even so, eventually he gathers considerable strength and can be fought again by brave warriors. \n\nBefore he appears, the following message is broadcast in white text to all players of the world he spawns in:\n:{{Server Message|Gaz'haragoth will shatter your dreams in a barrage of nightmares!}}\n[[File:Gaz'haragoth.jpg|thumb|300px]]",
+    "walksthrough": "Fire, Energy, Poison",
+    "hp": "350000",
+    "speed": "?",
+    "abilities": "{{Ability List\n |{{Melee|0-4035+}}\n |{{Ability|Chill out!|1000|element=ice\n  |scene={{Scene|spell=5sqmballself|effect=Icicle Effect|effect_on_caster=yes|caster=Gaz'haragoth|edge_size=32}}}}\n |{{Ability|Smoke Wave|100-1000|element=death\n  |scene={{Scene|spell=8sqmwave|look_direction=east|caster=Gaz'haragoth}}}}\n |{{Ability|Fire Beam|1600-3400|element=fire\n  |scene={{Scene|spell=8sqmbeam|look_direction=east|effect=Fireball Effect|caster=Gaz'haragoth}}}}\n |{{Ability|Death Ball|damage=100-1000+|element=death\n  |scene={{Scene|spell=4sqmballtarget|effect=Death Effect|missile=Death Missile (Large)|missile_direction=south-east|missile_distance=4/4|caster=Gaz'haragoth}}}}\n |{{Ability|Death Explosion|damage=100-800+|element=death\n  |scene={{Scene|spell=6sqmballself|effect=Death Effect|caster=Gaz'haragoth}}}}\n |{{Ability|Death and Doom|damage=30000|element=energy\n  |scene={{Scene|spell=6sqmballself|effect=Blue Electricity Effect|effect_on_caster=yes|caster=Gaz'haragoth}}}}\n |{{Healing|range=2500-3500}} (every turn)\n |{{Healing|range=300000}} (when 43750hp - 12.5% of total, after some seconds)\n |{{Ability|Paralyzing Stun Bomb||paralyze\n  |scene={{Scene|spell=4sqmball2self|caster=Gaz'haragoth|look_direction=south|effect=Stars Effect|effect_on_caster=yes}}}}\n |{{Haste}}\n}}",
+    "pushobjects": "no",
+    "healMod": "100%?",
+    "paraimmune": "yes",
+    "fireDmgMod": "50%",
+    "holyDmgMod": "50%",
+    "sounds": [
+        "NO ONE WILL ESCAPE ME!",
+        "I'LL KEEP THE ORDER UP!",
+        "You puny humans will be my snacks!",
+        "I've beaten tougher demons than you even know!",
+        "How dare you come to this place!"
+    ],
+    "maxdmg": "{{Max Damage|physical=4035|ice=1000|death=2800|fire=3400}} + 30000 damage UE",
+    "pushable": "no",
+    "implemented": "10.30",
+    "loot": [
+        {
+            "amount": "1-6",
+            "itemName": "Crystal Coin"
+        },
+        {
+            "amount": "1-5",
+            "itemName": "Blue Crystal Shard"
+        },
+        {
+            "amount": "15",
+            "itemName": "Blue Crystal Splinter"
+        },
+        {
+            "itemName": "Blue Gem"
+        },
+        {
+            "amount": "15",
+            "itemName": "Brown Crystal Splinter"
+        },
+        {
+            "amount": "1-14",
+            "itemName": "Cluster of Solace"
+        },
+        {
+            "itemName": "Demonic Essence"
+        },
+        {
+            "itemName": "Demonic Tapestry"
+        },
+        {
+            "itemName": "Demon Horn"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "Dream Matter"
+        },
+        {
+            "amount": "100",
+            "itemName": "Ultimate Health Potion"
+        },
+        {
+            "amount": "100",
+            "itemName": "Great Mana Potion"
+        },
+        {
+            "amount": "100",
+            "itemName": "Great Spirit Potion"
+        },
+        {
+            "amount": "100",
+            "itemName": "Great Health Potion"
+        },
+        {
+            "amount": "15",
+            "itemName": "Green Crystal Splinter"
+        },
+        {
+            "amount": "100",
+            "itemName": "Assassin Star"
+        },
+        {
+            "amount": "100",
+            "itemName": "Infernal Bolt"
+        },
+        {
+            "itemName": "Life Ring"
+        },
+        {
+            "itemName": "Eye Pod"
+        },
+        {
+            "itemName": "Dream Warden Mask"
+        },
+        {
+            "itemName": "Dream Warden Claw"
+        },
+        {
+            "itemName": "Nightmare Beacon"
+        },
+        {
+            "itemName": "Nightmare Horn"
+        },
+        {
+            "itemName": "Nightmare Hook"
+        },
+        {
+            "itemName": "Psychedelic Tapestry"
+        },
+        {
+            "itemName": "Solitude Charm"
+        },
+        {
+            "itemName": "Spiritual Charm"
+        },
+        {
+            "itemName": "Twin Sun Charm"
+        },
+        {
+            "itemName": "Unity Charm"
+        },
+        {
+            "itemName": "Phoenix Charm"
+        },
+        {
+            "itemName": "Red Piece of Cloth"
+        },
+        {
+            "itemName": "Skull Helmet"
+        },
+        {
+            "itemName": "Golden Legs"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "Unrealized Dream"
+        },
+        {
+            "amount": "5",
+            "itemName": "Violet Crystal Shard"
+        },
+        {
+            "itemName": "Giant Shimmering Pearl"
+        },
+        {
+            "itemName": "Yellow Piece of Cloth"
+        },
+        {
+            "itemName": "Green Crystal Shard"
+        },
+        {
+            "itemName": "Magma Coat"
+        },
+        {
+            "itemName": "Crude Umbral Axe"
+        },
+        {
+            "itemName": "Crude Umbral Chopper"
+        },
+        {
+            "itemName": "Crude Umbral Blade"
+        },
+        {
+            "itemName": "Crude Umbral Slayer"
+        },
+        {
+            "itemName": "Crude Umbral Bow"
+        },
+        {
+            "itemName": "Crude Umbral Crossbow"
+        },
+        {
+            "itemName": "Crude Umbral Mace"
+        },
+        {
+            "itemName": "Crude Umbral Hammer"
+        },
+        {
+            "itemName": "Crude Umbral Spellbook"
+        },
+        {
+            "itemName": "Umbral Axe"
+        },
+        {
+            "itemName": "Umbral Chopper"
+        },
+        {
+            "itemName": "Umbral Blade"
+        },
+        {
+            "itemName": "Umbral Slayer"
+        },
+        {
+            "itemName": "Umbral Bow"
+        },
+        {
+            "itemName": "Umbral Crossbow"
+        },
+        {
+            "itemName": "Umbral Mace"
+        },
+        {
+            "itemName": "Umbral Hammer"
+        },
+        {
+            "itemName": "Umbral Spellbook"
+        },
+        {
+            "itemName": "Umbral Master Axe"
+        },
+        {
+            "itemName": "Umbral Master Chopper"
+        },
+        {
+            "itemName": "Umbral Masterblade"
+        },
+        {
+            "itemName": "Umbral Master Slayer"
+        },
+        {
+            "itemName": "Umbral Master Bow"
+        },
+        {
+            "itemName": "Umbral Master Crossbow"
+        },
+        {
+            "itemName": "Umbral Master Mace"
+        },
+        {
+            "itemName": "Umbral Master Hammer"
+        },
+        {
+            "itemName": "Umbral Master Spellbook"
+        },
+        {
+            "itemName": "Boots of Haste"
+        },
+        {
+            "itemName": "Giant Sword"
+        }
+    ],
+    "walksaround": "None",
+    "exp": "1000000",
+    "creatureclass": "Demons",
+    "earthDmgMod": "50%",
+    "physicalDmgMod": "50%",
+    "bosstiaryclass": "Nemesis",
+    "primarytype": "Dreamhaunters",
+    "race_id": "1003",
+    "senseinvis": "yes",
+    "actualname": "Gaz'haragoth",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Gaz'haragoth",
+    "isboss": "yes",
+    "behaviour": "Gaz'haragoth fights his opponents in close combat.\n\nGaz'haragoth has many announced abilities:\n*{{Sound|Gaz'haragoth begins to channel DEATH AND DOOM into the area! RUN!}} - Announced rarely. Five seconds after being announced, Gaz'haragoth will cast his ultimate attack. This attack is insanely strong and will kill almost anyone (it always deals 30,000 [[Energy Damage]]). When he casts it, there will be another announcement: {{Sound|Gaz'haragoth calls down: DEATH AND DOOM!}}\n*{{Sound|Chill out!}} - Announced very often. When announced, Gaz'haragoth casts his [[Ice Damage|Ice]] UE which deals 1000 damage.\n*{{Sound|Minions! Follow my call!}} - Announced every time he is hit if he is not at his summon capacity. When he announces this, Gaz'haragoth will attempt to summon up to 2 [[Minion of Gaz'haragoth|Minions of Gaz'haragoth]]. It will fail if Gaz'haragoth has no room to summon.\n*{{Sound|Gaz'haragoth beginns to draw on the nightmares to HEAL himself!}} - In about 8 seconds Gaz'haragoth will heal himself for 300,000. When he does, another message is announced: {{Sound|Gaz'haragoth HEALS himself!}}",
+    "location": "Spawns every day at [[Server Save]] on top of the central mountain in [[Upper Roshamuul]] (+2 floor, {{Mapper Coords|131.94|126.115|5|2|text=here}}), until killed for the first time. Once this happens, spawns rarely as a raid in the [[Roshamuul Prison]] (-5 floor, {{Mapper Coords|130.255|126.126|12|2|text=here}}).",
+    "iceDmgMod": "50%",
+    "strategy": "Gaz'haragoth has a large energy UE which is announced 5 seconds prior to its execution. He also spawns many [[Minion of Gaz'haragoth|minions of Gaz'haragoth]] which act independently of the boss. Care must be taken when walking in Gaz'haragoth's lair as the minions turn into [[Strange Vortex (Teleporter)|Strange Vortices]] which lead to [[Gaz'haragoth's Nightmare]].\n\nThe strategy to defeat Gaz'haragoth is very similar whether he's on top of the mountain of locked in the prison, with the obvious difference that when it's fought for the first time the players will certainly be much lower levels. \n\nLure Gaz'haragoth to a corner, preferably near one of the ramps to give the shooters a quick means to escape. When Gaz'haragoth is lured, trap him with [[Magic Wall]]s and [[Wild Growth]] but allow room for Gaz'haragoth to summon 1 or more [[Minion of Gaz'haragoth|minions of Gaz'haragoth]]. When the boss is trapped, kill the minion so that the luring knight can escape (on [[Open PvP]] servers, you can also simply walk through someone else's wall). When the knight is out, try to trap Gaz'haragoth so he can't move at all. When he is trapped, focus all of your firepower on the boss. The trick is that when he drops to about 12.5% of his health, he will use the [[Nightmare of Gaz'haragoth|nightmares]] to heal himself. At this point, you have 8 seconds to deal approximately 44,000 damage. If you fail, he will heal for 300,000.\n\nHigh level Knights (700+) can also attempt to block Gaz'haragoth as long as they have healers and are prepared to flee from Death and Doom. To attempt that, the recommended strategy is to block it near the ramp so shooters can easily go up and down, as well make sure there's a vortex to the Nightmare nearby to escape. It's very important to mind its heavy paralyze when trying to run away, or you may not do so in time. \n\nThere may be another way to kill this boss because servers with low population will struggle to defeat him before he heals. In particular, one of the announcements seem to hint that the [[Nightmare of Gaz'haragoth|nightmares]] can be killed to prevent his heal.",
+    "energyDmgMod": "50%",
+    "deathDmgMod": "50%"
+}

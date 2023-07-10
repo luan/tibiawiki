@@ -1,0 +1,115 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "walksthrough": "?",
+    "hp": "4800",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "The Ogre Sage is a stronger version of [[Ogre Shaman]]s.",
+    "speed": "230",
+    "abilities": "{{Ability List| {{Melee|?}}|{{Summon|Young Goanna|1}} }}",
+    "pushobjects": "yes",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "fireDmgMod": "100%",
+    "holyDmgMod": "110%",
+    "sounds": [
+        ""
+    ],
+    "pushable": "no",
+    "runsat": "0",
+    "implemented": "12.20.8834",
+    "bestiaryclass": "Giant",
+    "loot": [
+        {
+            "itemName": "Platinum Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Broken Shamanic Staff",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Ogre Nose Ring",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Terra Amulet",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Shamanic Talisman",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Skull Fetish",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Ogre Ear Stud",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Terra Boots",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Violet Crystal Shard",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Green Crystal Fragment",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Bone Fetish",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Sacred Tree Amulet",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Violet Gem",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Yellow Gem",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Ogre Scepta",
+            "rarity": "rare"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "5500",
+    "creatureclass": "Humanoids",
+    "earthDmgMod": "75%",
+    "mitigation": "2.51",
+    "physicalDmgMod": "100%",
+    "primarytype": "Giants",
+    "spawntype": [
+        "Regular"
+    ],
+    "race_id": "1822",
+    "attacktype": "Distance",
+    "bestiarylevel": "Hard",
+    "senseinvis": "yes",
+    "article": "an",
+    "actualname": "ogre sage",
+    "illusionable": "no",
+    "armor": "93",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "bestiaryname": "ogresage",
+    "name": "Ogre Sage",
+    "isboss": "no",
+    "behaviour": "Attacks from distance.",
+    "location": "[[Kilmaresh Central Steppe]], [[Kilmaresh Southern Steppe]], [[Green Belt]], [[Kilmaresh Mountains]] (underground).",
+    "iceDmgMod": "100%",
+    "strategy": "Unknown.",
+    "energyDmgMod": "130%",
+    "deathDmgMod": "0%"
+}

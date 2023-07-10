@@ -1,0 +1,142 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "usurper archers",
+    "hpDrainDmgMod": "100%?",
+    "walksthrough": "Fire, Energy, Poison",
+    "hp": "7300",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "The usurpers to the throne of the Lion laid siege to the town of Bounac. Their main goal being the fall of king Kesar, they are trying everything in their might to breach the old walls of the castle. Shamefully disregarding the very life and well-being of its inhabitants. The usurper archers are especially keen with the longbow and should not be underestimated even over the longest distances.",
+    "speed": "125",
+    "abilities": "{{Ability List| {{Melee|0-430}}|{{Ability|Ice Berserk|0-425|element=ice}}|{{Ability|[[Death Damage|Death Arrow]]|0-485|element=death}}|{{Ability|[[Death Damage|Sudden Death]]|0-545|element=death}} }}",
+    "healMod": "100%",
+    "pushobjects": "yes",
+    "paraimmune": "yes",
+    "fireDmgMod": "90%",
+    "holyDmgMod": "90%",
+    "sounds": [],
+    "maxdmg": "?",
+    "pushable": "no",
+    "runsat": "0",
+    "implemented": "12.40.9997",
+    "bestiaryclass": "Human",
+    "loot": [
+        {
+            "amount": "1-5",
+            "itemName": "Platinum Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Meat",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Ultimate Health Potion",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Broken Longbow",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Black Pearl",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Silver Brooch",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Mino Shield",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Warrior Helmet",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Lion Crest",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Lion Cloak Patch",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Knife",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Assassin Dagger",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "White Pearl",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Ornate Crossbow",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Knight Armor",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Gemmed Figurine",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Coral Brooch",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Glacier Shoes",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Giant Shimmering Pearl (Green)",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Wood Cape",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Emerald Bangle",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Elvish Bow",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "None.",
+    "exp": "6800",
+    "creatureclass": "Humans",
+    "earthDmgMod": "100%",
+    "mitigation": "2.31",
+    "physicalDmgMod": "90%",
+    "primarytype": "Members of the Order of the Lion",
+    "spawntype": [
+        "Regular"
+    ],
+    "attacktype": "Distance",
+    "race_id": "1973",
+    "bestiarylevel": "Hard",
+    "senseinvis": "yes",
+    "article": "a",
+    "actualname": "usurper archer",
+    "illusionable": "no",
+    "armor": "82",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "bestiaryname": "usurperarcher",
+    "name": "Usurper Archer",
+    "isboss": "no",
+    "location": "[[Bounac]], the [[Order of the Lion]] settlement.",
+    "iceDmgMod": "80%",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "120%"
+}

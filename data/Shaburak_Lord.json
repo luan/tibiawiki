@@ -1,0 +1,109 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "These creatures will only spawn when their side in on the winning hand in the Arak War.",
+    "isarenaboss": "no",
+    "walksthrough": "Fire, Energy",
+    "hp": "2100",
+    "abilities": "{{Ability List\n |{{Melee|0-250}}\n |{{Ability|Fire Explosion around itself|30-75|element=fire\n  |scene={{Scene|spell=4sqmball2self|effect=Flame Effect|caster=Shaburak Lord|casting_effect=Flame Effect}}}}\n |{{Ability|Fire Wave|80-170|element=fire\n  |scene={{Scene|spell=4sqmtwave|effect=Fire Effect|caster=Shaburak Lord|look_direction=east}}}}\n |{{Ability|Fire Beam|140-200|element=fire\n  |scene={{Scene|spell=5sqmbeam|effect=Flame Effect|caster=Shaburak Lord|look_direction=east}}}}\n |{{Ability|Paralyze Strike|element=paralyze\n  |scene={{Scene|spell=3sqmstrike|caster=Shaburak Lord|effect=Red Sparkles Effect|missile_direction=south-east|missile_distance=3/3}}}}\n |{{Healing|range=100-250}}}}",
+    "healMod": "100%",
+    "paraimmune": "?",
+    "holyDmgMod": "100%",
+    "maxdmg": "{{Max Damage|physical=250|fire=445}}",
+    "pushable": "no",
+    "implemented": "9.10",
+    "loot": [
+        {
+            "amount": "0-178",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "Platinum Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Strong Health Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Strong Mana Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "0-5",
+            "itemName": "Small Ruby",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Energy Ring",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Brown Mushroom",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Wand of Inferno",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Magic Sulphur",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Bullseye Potion",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Magma Coat",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Steel Boots",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Poison",
+    "exp": "1200",
+    "mitigation": "1.18",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "shaburak lord",
+    "illusionable": "no",
+    "armor": "40",
+    "convince": "--",
+    "name": "Shaburak Lord",
+    "isboss": "no",
+    "iceDmgMod": "35%",
+    "energyDmgMod": "35%",
+    "deathDmgMod": "105%",
+    "status": "event",
+    "plural": "shaburak lords",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Rare",
+    "speed": "120",
+    "pushobjects": "yes",
+    "fireDmgMod": "0%",
+    "sounds": [
+        "GREEN IS MEAN!",
+        "WE RULE!",
+        "POWER TO THE SHABURAK!",
+        "DEATH TO THE ASKARAK!",
+        "ONLY WE ARE TRUE DEMONS!"
+    ],
+    "bestiaryclass": "Demon",
+    "creatureclass": "Arak Demons",
+    "earthDmgMod": "120%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Shaburak Demons",
+    "race_id": "725",
+    "bestiarylevel": "Medium",
+    "senseinvis": "?",
+    "drownDmgMod": "100%?",
+    "behaviour": "Unknown.",
+    "location": "[[Demonwar Crypt]]",
+    "strategy": "Unknown."
+}

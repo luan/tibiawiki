@@ -1,0 +1,162 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "0%",
+    "notes": "The Abomination is a raid boss that spawns approximately every 180 days. When this raid happens, it starts with the [[Abominable Spawn]] appearing in 4 out of 10 possible locations. The miniboss on the 4 locations share the same health pool and it seems to be required to have players in all rooms to defeat it. The remaining portals will bring you to empty rooms. The possible locations are:\n\n* '''Hellgate''': go down the hole {{Mapper Coords|text=here|127.191|123.106|13|2|1|0.50.5}} and down two more levels to find the portal {{Mapper Coords|text=here|127.189|123.124|15|2|1|0.50.5}}.\n* '''Dark Cathedral''': go to the undead creatures are east of the entrance, {{Mapper Coords|text=here|127.199|126.112|8|2|1|0.50.5}}, then go south to find the portal {{Mapper Coords|text=here|127.228|126.179|9|2|1|0.50.5}}.\n* '''Krailos''': inside the Wailing Widow's {{Mapper Coords|text=cave|131.150|124.1|7|1|1|11}} on the second floor {{Mapper Coords|text=here|131.129|124.39|9|4|1|0.250.25}}.\n* '''Zao Steppe''': inside the Lancer Beetle's {{Mapper Coords|text=cave|129.197|122.166|7|1|1|11}} on the second floor, {{Mapper Coords|text=here|129.192|122.174|10|4|1|0.250.25}}. (You need part of [[A Father's Burden Quest]] to enter here).\n* '''Gnomebase Alpha''': go down the ramp near the portal to the Warzones, then down again and the portal will be to the west, {{Mapper Coords|text=here|128.134|124.163|11|2|1|0.50.5}}.\n* '''Ankrahmun''': Enter the Larvae cave {{Mapper Coords|text=here|129.129|127.175|7|1|1|11}} and go down to the lowest floor with Scarabs, {{Mapper Coords|text=here|129.75|127.176|11|4|1|0.250.25}}.\n* '''Beregar''': From the wagon room at the mines, go down, through the south door and down again, {{Mapper Coords|text=here|127.97|123.26|15|2|1|0.50.5}}.\n* '''Edron Cyclopolis''': All the way towards the main Behemoths area, then to the south corridor and up the ramp, {{Mapper Coords|text=here|130.21|124.11|14|4|1|0.250.25}}.\n* '''Svargrond Formorgar Mines''': Take the elevator to the third floor of the mines, then go down the stairs next to it and go south-east, {{Mapper Coords|text=here|125.247|121.188|12|2|1|0.50.5}}.\n* '''Kazordoon Dwarf Mines''': Enter the mine between the river streams, {{Mapper Coords|text=here|127.28|124.198|7|2|1|0.50.5}}, and go down several floors until you reach the teleport {{Mapper Coords|text=here|126.254|124.199|13|2|1|0.50.5}}.\n\nOnce the [[Abominable Spawn]] is defeated, its corpse will become a vortex that brings players to the lair of The Abomination. Only through the 4 original portals where the Spawn was present it will be possible to reach The Abomination.\n\nThe Abomination was first sighted and killed on [[Belobra]] on July 14th, 2021, two days after its implementation in the game.\n\nBefore it appears, a message is broadcast in white text to all players on that world:\n:{{Server Message|Something abominable is rising! Search for its spawns! Gather an army and destroy this threat!}}",
+    "walksthrough": "Energy, Fire, Poison",
+    "hp": "750000?",
+    "speed": "?",
+    "abilities": "{{Ability List\n |{{Melee|0-6000?}}\n |{{Ability|All Die Room Plus?|11910~|element=agony}}\n |{{Ability|Blood Beam|8sqm+|element=?}}\n |{{Ability|Earth Ball|875-1434+|element=earth\n  |scene={{Scene|spell=1sqmballtarget|caster=The Abomination|effect=Poison Effect 1|missile=Poison Missile|missile_direction=south-east|missile_distance=2/2}}}}\n |{{Ability|Physical Poison Explosion|1100-1538|element=physical\n  |scene={{Scene|spell=6sqmballself|caster=The Abomination|effect=Poison Effect 2|effect_on_caster=yes|damage_effect=None}}}}\n |{{Ability|Poison Bomb|1303-1475+|element=earth\n  |scene={{Scene|spell=2sqmballself|caster=The Abomination|effect=Poison Effect 1|effect_on_caster=yes|damage_effect=Unknown}}}}\n |{{Ability|Poison Explosion|Reduces 1200+ speed points|element=paralyze\n  |scene={{Scene|spell=6sqmballself|caster=The Abomination|effect=Poison Effect 3|effect_on_caster=yes|damage_effect=Unknown}}}}\n |{{Ability|Cursing Explosion|2300~ final hit?|element=cursed\n  |scene={{Scene|spell=6sqmballself|caster=The Abomination|effect=Cloud Effect|effect_on_caster=yes|damage_effect=None}}}}\n |{{Ability|Rooting Beam||element=rooted\n  |scene={{Scene|spell=10sqmbeam|caster=The Abomination|look_direction=east|effect=Rooting Effect|damage_effect=None}}}}\n |{{Ability|Death Plus Large|1127-1705+|element=death\n  |scene={{Scene|spell=plus7spell|caster=The Abomination|effect=Death Effect|effect_on_caster=yes|damage_effect=Cloud Effect}}}}\n |{{Ability|Death Chain|3429-5342+|element=death\n  |scene={{Scene|spell=chainspell|caster=The Abomination|effect=Grey Chain Effect|damage_effect=Cloud Effect}}}}\n |{{Ability|Fire Bomb|1632, rare|element=fire\n  |scene={{Scene|spell=3sqmball2self|caster=The Abomination|effect=Fire Effect|effect_on_caster=yes|damage_effect=None}}}}\n |{{Ability|Vocation Die Explosion||element=?\n  |scene={{Scene|spell=6sqmballself|caster=The Abomination|effect=Ghost Smoke Effect|effect_on_caster=yes|damage_effect=Unknown}}}}\n |{{Ability|Death Bomb||element=?\n  |scene={{Scene|spell=4sqmball2self|caster=The Abomination|effect=Death Effect|effect_on_caster=yes|damage_effect=Unknown}}}}\n |{{Ability|Feared|4seconds~ rare|element=feared\n  |scene={{Scene|spell=6sqmballself|caster=The Abomination|effect=Ghost Smoke Effect|effect_on_caster=yes|damage_effect=Unknown}}}}\n |{{Healing|range=480-947\n  |scene={{Scene|spell=buffspell|effect=Green Sparkles Effect|caster=The Abomination|look_direction=south|effect_on_caster=yes}}}}\n |{{Healing|range=3098-6226\n  |scene={{Scene|spell=buffspell|effect=Green Sparkles Effect|caster=The Abomination|look_direction=south|effect_on_caster=yes}}}}\n |{{Healing|Devour [[Abomination Cultist]]|range=32000-56000\n  |scene={{Scene|spell=buffspell|effect=Green Sparkles Effect|caster=The Abomination|look_direction=south|effect_on_caster=yes}}}}\n}}",
+    "pushobjects": "yes",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "50%?",
+    "holyDmgMod": "50%?",
+    "sounds": [
+        "ANIHILATION!",
+        "DEATH IS INEVITABLE!",
+        "DESTRUCTION!",
+        "I AM THE ESSENCE OF DEATH!",
+        "YOU CAN NOT ESCAPE ME!",
+        "DRUIDS! ... LIKE ... DRUID FLAVOUR!",
+        "WILL EAT DRUIDS!",
+        "KNIGHTS! ... DELICIOUS KNIGHTS!",
+        "WILL EAT KNIGHTS!",
+        "PALADINS!... TASTY!",
+        "WILL EAT PALADINS!",
+        "SORCERERS! ... MUST EAT SORCERERS!",
+        "WILL EAT SORCERERS!",
+        "HUNGER ... SO ... GREAT! YOU ALL .. WILL .... DIE!!!",
+        "PAIN!",
+        "DIIIIEEEEE!"
+    ],
+    "maxdmg": "{{Max Damage|10000}}",
+    "pushable": "no",
+    "implemented": "8.10",
+    "loot": [
+        {
+            "amount": "1",
+            "itemName": "Gold Coin"
+        },
+        {
+            "itemName": "Small Ruby"
+        },
+        {
+            "itemName": "Small Emerald"
+        },
+        {
+            "itemName": "Black Pearl"
+        },
+        {
+            "itemName": "Demonic Essence"
+        },
+        {
+            "itemName": "Death Ring"
+        },
+        {
+            "itemName": "Soul Orb"
+        },
+        {
+            "itemName": "Slightly Rusted Armor"
+        },
+        {
+            "itemName": "Abomination's Eye"
+        },
+        {
+            "itemName": "Abomination's Tail"
+        },
+        {
+            "itemName": "Abomination's Tongue"
+        },
+        {
+            "itemName": "Fiery Horseshoe"
+        },
+        {
+            "amount": "1-20",
+            "itemName": "Ultimate Mana Potion"
+        },
+        {
+            "itemName": "Violet Gem"
+        },
+        {
+            "amount": "1-39",
+            "itemName": "Crystal Coin"
+        },
+        {
+            "amount": "1-19",
+            "itemName": "Bullseye Potion"
+        },
+        {
+            "itemName": "Amber with a Dragonfly"
+        },
+        {
+            "amount": "1-19",
+            "itemName": "Berserk Potion"
+        },
+        {
+            "itemName": "Amber with a Bug"
+        },
+        {
+            "amount": "1-19",
+            "itemName": "Mastermind Potion"
+        },
+        {
+            "itemName": "Giant Emerald"
+        },
+        {
+            "amount": "1-11",
+            "itemName": "Supreme Health Potion"
+        },
+        {
+            "amount": "1-11",
+            "itemName": "Ultimate Spirit Potion"
+        },
+        {
+            "itemName": "Giant Ruby"
+        },
+        {
+            "itemName": "Giant Sapphire"
+        },
+        {
+            "itemName": "White Gem"
+        },
+        {
+            "itemName": "Gruesome Fan"
+        },
+        {
+            "itemName": "Diabolic Skull"
+        },
+        {
+            "itemName": "Brooch of Embracement"
+        },
+        {
+            "itemName": "Raw Watermelon Tourmaline"
+        }
+    ],
+    "walksaround": "None",
+    "exp": "1500000?",
+    "creatureclass": "Elementals",
+    "earthDmgMod": "50%?",
+    "physicalDmgMod": "50%?",
+    "bosstiaryclass": "Nemesis",
+    "primarytype": "Bio-Elementals",
+    "spawntype": [
+        "Raid"
+    ],
+    "race_id": "373",
+    "history": "The Abomination is a [[Defiler]] boss. It was [[summon]]ed by [[CipSoft]] members on [[Test Server]]s for Christmas Update 2007 and on some other test servers since then.\n\nThe Abomination, seen in Christmas [[Test Server]] 2007:\n<noinclude><gallery mode=\"packed-hover\">\nThe Abomination.png\nThe Abomination 2.png\nThe Abomination 3.png\nAbomination 4.jpg\nAbomination 5.jpg\nThe Abomination 6.jpg\n</gallery></noinclude>\n\nWith the [[Summer Update 2021]], The Abomination was revamped and introduced in the game as a raid boss that spawns approximately every 180 days.",
+    "senseinvis": "yes",
+    "actualname": "The Abomination",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "The Abomination",
+    "isboss": "yes",
+    "behaviour": "Unknown.",
+    "location": "The Abomination appears inside his own room under the Ice Islands, {{Mapper Coords|text=here|126.176|121.53|15|2|1|0.50.5}}. Information on how to get there is explained under ''Notes'' above.",
+    "iceDmgMod": "50%?",
+    "strategy": "Secondary blockers should lure [[Abominable Servant]]s and [[Abomination Cultist]]s to one side of the room (for example, the east side) while the main blocker lures The Abomination to the opposite side. It's important that nobody tries to block The Abomination and one or more Abominable Servants at the same time as their presence seems to increase The Abomination's attack power. The cultists must be kept away or else Abomination will devour them and refill his health. This way, shooters and healers will stay closer to the center of the room. It's advised to stand in diagonal of it in order to avoid its plus-shaped attack that goes along the entire room (if you are further from the Abomination, even outside of its vision, but still standing directly in front of it vertically or horizontally, you'll get hit).\n\nWhen The Abomination says a vocation's name, every character from that vocation should retreat for a few seconds (6-8?) until it casts an area spell that affects character from the said vocation. When it mentions the knight vocation, the main blocker is advised to retreat to the north, not luring it into the shooters and healers.\n\nWhen it says \"{{Sound|YOU ALL .. WILL .... DIE!!!}}\", a 10-second timer will be visible under its name and everyone should pay attention to it and retreat before the timer ends in order to avoid its special \"doom\" spell. This \"doom\" is UE-shaped and includes another plus-shape attack which will reach across the whole room, so once again do not stand directly in front of the boss, even if it is outside of your screen. It should be easier to avoid this AOE by running diagonally to the boss, since it also becomes very slow during this period. Additionally, the boss will reflect 300~400% of most damage types received while in this form.",
+    "energyDmgMod": "50%?",
+    "deathDmgMod": "50%?"
+}

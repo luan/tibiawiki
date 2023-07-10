@@ -1,0 +1,72 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "None.",
+    "walksthrough": "?",
+    "hp": "5550",
+    "speed": "?",
+    "abilities": "{{Ability List|{{Melee}}}}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "secondarytype": "Event Creatures",
+    "fireDmgMod": "100%?",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "?",
+    "pushable": "?",
+    "implemented": "8.50",
+    "loot": [
+        {
+            "amount": "0-151+",
+            "itemName": "Gold Coin"
+        },
+        {
+            "itemName": "Midnight Shard"
+        },
+        {
+            "amount": "0-2?",
+            "itemName": "Small Diamond"
+        },
+        {
+            "amount": "0-4?",
+            "itemName": "Small Ruby"
+        },
+        {
+            "amount": "0-2?",
+            "itemName": "Small Emerald"
+        },
+        {
+            "amount": "0-38?",
+            "itemName": "Platinum Coin"
+        },
+        {
+            "itemName": "Gold Ingot"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "4650",
+    "creatureclass": "Demons",
+    "earthDmgMod": "100%?",
+    "physicalDmgMod": "100%?",
+    "primarytype": "Imps",
+    "senseinvis": "?",
+    "article": "a",
+    "actualname": "weak eclipse knight",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Weak Eclipse Knight",
+    "isboss": "no",
+    "behaviour": "They chase until death.",
+    "location": "[[Temple of Light]], during certain circumstances in the [[Lightbearer]] event.",
+    "iceDmgMod": "100%?",
+    "strategy": "Unknown.",
+    "energyDmgMod": "100%?",
+    "deathDmgMod": "100%?",
+    "status": "deprecated"
+}

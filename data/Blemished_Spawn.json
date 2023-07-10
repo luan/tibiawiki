@@ -1,0 +1,144 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "walksthrough": "Energy, Poison",
+    "hp": "9000",
+    "lightcolor": "66",
+    "occurrence": "Common",
+    "bestiarytext": "The blemished spawn breeds in the most hostile and toxic environment to be encountered in the Tibian depths. The sulphurous chasms that are their habitat are rarely contested by other creatures so they can multiply in numbers that seem to concern even their masters below. The nests of the blemished spawns are often hit by exterminations by the forces of Those Below to keep their numbers somewhat in check. Seemingly some of the actions and expansions of Those Below in the past heavily disrupted the subterranean ecosystem and made the somewhat rare breed of chasm spawns an environmental hazard. It has yet to be seen how this hazard can be contained, if at all. With seemingly endless numbers of blemished spawns at hand, it seems obvious that some effort has to be put into turning them into a manageable army, else their presence on the battlefields would certainly be more prevalent. Still they are as unpredictable and destructive as the areas they use to dwell in. Only male specimens are taken into the hordes to prevent them from producing unmanageable offspring. In some rare occasions some blemished spawns are deployed in hostile territory to build colonies and multiply. In doing so their handlers hope to soften up resistance, slow down and disrupt hostile operations or make areas uninhabitable. Yet the blemished spawns are drawn to their toxic habitat and tend to leave if any more appropriate lair is around. Also outside their toxic habitat their reproduction rate and activity slows down more and more over time. So such tactics have proven ineffective and desperate at best. A new and alarming new theory of the renowned gnomish scientist Gnomespiracy sees a connection of chasm spawns and blemished spawns to the hive. The implications of such a connection would be devastating and put the identity of Those Below into a new light. As a source for such theories, Gnomespiracy has until now only cited dubious and unverifiable reports. Still, this theory has spread through the more uneducated communities like a wildfire and found many believers that claim that the authorities are supressing the truth.",
+    "speed": "140",
+    "abilities": "{{Ability List\n |{{Melee|0-300|poison=12}}\n |{{Ability|Poison Spit Ball|510-610|element=earth\n  |scene={{Scene|spell=1sqmballtarget|effect=Poison Effect 2|missile=Poison Missile|missile_direction=south-east|missile_distance=2/2|background=dirt_floor2|caster=Blemished Spawn|damage_effect=Unknown|edge_size=32}}}}\n |{{Ability|Poison Explosion|700-750|element=earth\n  |scene={{Scene|spell=2sqmballself|effect=Poison Effect 1|background=dirt_floor2|caster=Blemished Spawn|effect_on_caster=yes|edge_size=32}}}}\n}}",
+    "healMod": "100%",
+    "pushobjects": "yes",
+    "paraimmune": "yes",
+    "fireDmgMod": "115%",
+    "holyDmgMod": "100%",
+    "sounds": [],
+    "maxdmg": "{{Max Damage|physical=300|earth=1360}}",
+    "pushable": "no",
+    "usedelements": "?",
+    "lightradius": "3",
+    "runsat": "0",
+    "implemented": "12.70.10953",
+    "bestiaryclass": "Vermin",
+    "loot": [
+        {
+            "amount": "1-18",
+            "itemName": "Platinum Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Terra Rod",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Blue Crystal Shard",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Violet Crystal Shard",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Cyan Crystal Fragment",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Blemished Spawn Abdomen",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Violet Gem",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Hailstorm Rod",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Giant Shimmering Pearl (Green)",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Yellow Gem",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Wand of Cosmic Energy",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Ice Rapier",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Staff",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Knight Axe",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Diamond Sceptre",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Dragonbone Staff",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Northwind Rod",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Springsprout Rod",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Wand of Starstorm",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Sacred Tree Amulet",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Fur Armor",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Blemished Spawn Head",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Blemished Spawn Tail",
+            "rarity": "semi-rare"
+        }
+    ],
+    "walksaround": "Fire",
+    "exp": "5300",
+    "creatureclass": "Invertebrates",
+    "earthDmgMod": "90%",
+    "mitigation": "1.60",
+    "physicalDmgMod": "100%",
+    "primarytype": "Insects",
+    "race_id": "2093",
+    "bestiarylevel": "Hard",
+    "history": "On {{OfficialNewsArchive|6555|February 01, 2022}}, its loot was increased by 17%.",
+    "senseinvis": "yes",
+    "article": "a",
+    "actualname": "blemished spawn",
+    "illusionable": "no",
+    "armor": "61",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "bestiaryname": "blemishedspawn",
+    "name": "Blemished Spawn",
+    "behaviour": "They attack from distance.",
+    "location": "[[Antrum of the Fallen]].",
+    "iceDmgMod": "100%",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "90%"
+}

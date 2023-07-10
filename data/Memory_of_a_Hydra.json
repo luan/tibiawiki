@@ -1,0 +1,66 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "walksthrough": "?",
+    "hp": "3550",
+    "abilities": "{{Ability List|}}",
+    "pushobjects": "yes",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "100%?",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "?",
+    "pushable": "no",
+    "usedelements": "?",
+    "implemented": "12.85.11485",
+    "loot": [
+        {
+            "itemName": "Bottle of Champagne"
+        },
+        {
+            "itemName": "Gold Coin"
+        },
+        {
+            "itemName": "Platinum Coin"
+        },
+        {
+            "itemName": "Ham"
+        },
+        {
+            "itemName": "Small Sapphire"
+        },
+        {
+            "itemName": "Cucumber"
+        },
+        {
+            "itemName": "Stone Skin Amulet"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "1800",
+    "creatureclass": "Reptiles",
+    "earthDmgMod": "100%?",
+    "physicalDmgMod": "100%?",
+    "primarytype": "Hydras",
+    "spawntype": [
+        "Unblockable"
+    ],
+    "race_id": "2172",
+    "senseinvis": "yes",
+    "article": "a",
+    "actualname": "memory of a hydra",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Memory of a Hydra",
+    "isboss": "no",
+    "location": "[[Time Travel Dungeon]]",
+    "iceDmgMod": "100%?",
+    "energyDmgMod": "100%?",
+    "deathDmgMod": "100%?"
+}

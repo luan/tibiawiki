@@ -1,0 +1,155 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "Unknown.",
+    "walksthrough": "Fire, Poison",
+    "hp": "2800",
+    "abilities": "{{Ability List\n |{{Melee|0-325}}\n |{{Ability|Fire Ball|0-350|element=fire\n  |scene={{Scene|spell=3sqmball2self|effect=Fire Effect|look_direction=east}}}}\n |{{Ability|Holy Strike|0-425|element=holy\n  |scene={{Scene|spell=1sqmstrike|effect=Holy Cross Effect|damage_effect=Holy Effect|missile=Holy Missile (Small)|missile_direction=south-east|missile_distance=1/1}}}}\n |{{Ability|Holy Wave|0-250|element=holy\n  |scene={{Scene|spell=|effect=Trembling Effect|damage_effect=Holy Effect|look_direction=east}}}}\n |{{Haste}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "secondarytype": "Lycanthropes",
+    "holyDmgMod": "100%",
+    "maxdmg": "?",
+    "pushable": "no",
+    "implemented": "12.40.9997",
+    "loot": [
+        {
+            "itemName": "Platinum Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Great Spirit Potion",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Dark Armor",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Small Enchanted Ruby",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Meat",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Crystal Sword",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Lion's Mane",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Moonlight Crystals",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Silver Brooch",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Small Diamond",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "War Hammer",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Doublet",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Dark Shield",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Titan Axe",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Spiked Squelcher",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Glorious Axe",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Spirit Cloak",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Onyx Chip",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Coral Brooch",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Rainbow Quartz",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Ivory Carving",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Noble Axe",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "White Silk Flower",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Lion Figurine",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Energy",
+    "exp": "2200",
+    "mitigation": "0.91",
+    "attacktype": "Melee",
+    "history": "On {{OfficialNewsArchive|6555|February 01, 2022}}, its experience was decreased to 2,200 while its loot was decreased by 12%.",
+    "article": "a",
+    "actualname": "werelion",
+    "illusionable": "no",
+    "armor": "38",
+    "convince": "--",
+    "name": "Werelion",
+    "isboss": "no",
+    "iceDmgMod": "125%",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "55%",
+    "plural": "werelions",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "The werelions are fundamentally different from all other known were creatures: They have learned to control the curse. This means that in their were form they don't turn into wild beasts that mindlessly attack anyone who comes close. Rather, they have the same control over themselves in this form as they have as humans. They can also control their transformation and consciously turn into their werelion form or back into human shape. Gradually, the werelions got so used to the curse that they saw it as a gift rather than a burden. They therefore began to deliberately pass the curse on to others whom they considered worthy - and from then on no longer called it \"the Curse\" but \"the Gift\".",
+    "speed": "110",
+    "pushobjects": "?",
+    "fireDmgMod": "75%",
+    "sounds": [
+        ""
+    ],
+    "bestiaryclass": "Lycanthrope",
+    "creatureclass": "Mammals",
+    "earthDmgMod": "50%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Felines",
+    "spawntype": [
+        "Regular"
+    ],
+    "race_id": "1965",
+    "bestiarylevel": "Hard",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "werelion",
+    "behaviour": "Unknown.",
+    "location": "[[Lion Sanctum]].",
+    "strategy": "Unknown."
+}

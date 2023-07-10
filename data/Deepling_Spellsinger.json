@@ -1,0 +1,110 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "Visually, their ice wave sprites are less saturated, but they share the shape of sorcerers' [[Energy Wave]] and druids's [[Terra Wave]]. <br> {{JSpoiler|You gain the achievement [[Death Song]] by killing 300 Deepling Spellsingers.}}",
+    "isarenaboss": "no",
+    "walksthrough": "Fire",
+    "hp": "850",
+    "abilities": "{{Ability List\n |{{Melee|0-150}}\n |{{Ability|Mana Earth Strike|60-140|element=mana drain\n  |scene={{Scene|spell=3sqmstrike|effect=Plant Effect|caster=Deepling Spellsinger|missile=None}}}}\n |{{Ability|Life Earth Strike|0-100?|element=life drain\n  |scene={{Scene|spell=3sqmstrike|effect=Plant Effect|caster=Deepling Spellsinger|missile=None}}}}\n |{{Ability|Ice Wave|100-350|element=ice\n  |scene={{Scene|spell=5sqmwavechessnarrow|effect=Ice Tornado Effect NW|sprite_1=Ice Tornado Effect SE|caster=Deepling Spellsinger|look_direction=east}}}}\n |{{Ability|Water Bomb on target|50-130|element=ice\n  |scene={{Scene|spell=2sqmballtarget|effect=Bubbles Effect|caster=Deepling Spellsinger|damage_effect=Ice Explosion Effect|missile=Ice Missile|missile_direction=south-east|missile_distance=2/2|edge_size=32}}}}\n |{{Debuff2|Spark hit|melee=yes|distance=yes|value=35-65%|duration=8\n  |scene={{Scene|spell=3sqmstrike|effect=Stars Effect|caster=Deepling Spellsinger|missile=Death Missile (Large)|missile_direction=south-east|missile_distance=3/3}}}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "holyDmgMod": "100%",
+    "maxdmg": "{{Max Damage|physical=150|ice=480|manadrain=140}}",
+    "pushable": "no",
+    "implemented": "9.40",
+    "loot": [
+        {
+            "itemName": "Platinum Coin",
+            "rarity": "common"
+        },
+        {
+            "amount": "0-60",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Spellsinger's Seal",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Deepling Filet",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Key to the Drowned Library",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Fish",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Small Sapphire",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Eye of a Deepling",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Life Ring",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Deepling Staff",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Necklace of the Deep",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Fish Fin",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Ornate Crossbow",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Energy, Poison",
+    "exp": "1000",
+    "mitigation": "1.29",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "deepling spellsinger",
+    "illusionable": "no",
+    "armor": "42",
+    "convince": "--",
+    "name": "Deepling Spellsinger",
+    "isboss": "no",
+    "iceDmgMod": "0%",
+    "energyDmgMod": "110%",
+    "deathDmgMod": "50%",
+    "plural": "deepling spellsingers",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "The Deepling Spellsingers were once members of the priest caste. They were the librarians of the greatest treasure of the Deeplings - their amazingly vast knowledge and rich culture. Their turn to violence could be the result of the recent call to arms that made most members of the higher castes abandon their temples and obligations. They are also the keepers of most secrets of the forsaken Drowned Library. However, their vast knowledge of the workings of magic and the labyrinthine caves of the deep make them formidable foes who are not likely to part easily with their sacraments.",
+    "speed": "95",
+    "pushobjects": "no",
+    "fireDmgMod": "0%",
+    "sounds": [
+        "Jey Obu giotja!!",
+        "Mmmmmoooaaaaaahaaa!!"
+    ],
+    "runsat": "0",
+    "bestiaryclass": "Aquatic",
+    "creatureclass": "Amphibians",
+    "earthDmgMod": "110%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Deeplings",
+    "race_id": "772",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "drownDmgMod": "0%",
+    "bestiaryname": "deeplingspellsinger",
+    "behaviour": "They can spam the earth hit with the meele reduction ability at ths same time.",
+    "location": "[[Fiehonja]].",
+    "strategy": "Kill them before you focus on other Deeplings. Despite their health, they are threatening because of their skillset - strong manadrain and harsh skill reduction will make killing large groups difficult and expensive."
+}

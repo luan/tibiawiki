@@ -1,0 +1,148 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "It looks like a [[Minotaur Mage]] but it's much stronger and attacks at close range. You can skin its corpse using an [[Obsidian Knife]] to get a [[Minotaur Leather]].",
+    "walksthrough": "?",
+    "hp": "1700",
+    "abilities": "{{Ability List\n |{{Melee|0-200}}\n |{{Ability|Small Fire Ball|100-300|element=fire\n  |scene={{Scene|spell=1sqmballtarget|caster=Minotaur Cult Prophet|effect=Fireball Effect|damage_effect=Fire Effect|missile=Fire Missile|missile_direction=south-east|missile_distance=2/2}}}}\n |{{Ability|Energy Missile|200-350|element=energy\n  |scene={{Scene|spell=5sqmstrike|caster=Minotaur Cult Prophet|effect=Blue Electricity Effect|missile=Energy Missile|missile_direction=south-east|missile_distance=5/5}}}}\n |{{Ability|[[Mass Healing]] that also heals his allies|100-250|element=healing\n  |scene={{Scene|spell=2sqmballself|caster=Minotaur Cult Prophet|effect=Green Sparkles Effect|effect_on_caster=yes}}}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "secondarytype": "Cult Minotaurs",
+    "holyDmgMod": "90%",
+    "maxdmg": "800+",
+    "pushable": "no",
+    "usedelements": "Energy, Fire, Physical",
+    "implemented": "11.40.5409",
+    "loot": [
+        {
+            "amount": "1-150",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "Platinum Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Ham",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Cowbell",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Great Mana Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Minotaur Horn",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Minotaur Leather",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Cultish Robe",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Small Emerald",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Moonlight Rod",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Meat",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Small Topaz",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Great Health Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Small Ruby",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Small Amethyst",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Ring of Healing",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Gold Ingot",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Red Piece of Cloth",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Minotaur Trophy",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Red Gem",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Yellow Gem",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Fire, Energy, Poison",
+    "exp": "1100",
+    "mitigation": "1.10",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "minotaur cult prophet",
+    "illusionable": "no",
+    "armor": "28",
+    "convince": "--",
+    "name": "Minotaur Cult Prophet",
+    "isboss": "?",
+    "iceDmgMod": "110%",
+    "energyDmgMod": "80%",
+    "deathDmgMod": "105%",
+    "plural": "minotaur cult prophets",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "The Minotaur Cult Follower is a stronger version of [[Minotaur Mage]]s.",
+    "speed": "120",
+    "pushobjects": "yes",
+    "fireDmgMod": "100%",
+    "sounds": [
+        "Bow to the power of the iron bull!"
+    ],
+    "runsat": "0",
+    "bestiaryclass": "Humanoid",
+    "creatureclass": "Humanoids",
+    "earthDmgMod": "80%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Minotaurs",
+    "spawntype": [
+        "Regular"
+    ],
+    "race_id": "1509",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "minotaurcultprophet",
+    "behaviour": "Unlike [[Minotaur Mage]]s, they fight in close combat. They can heal themselves as well as their allies.",
+    "location": "[[Minotaurs Cult Cave]]",
+    "strategy": "If possible, keep your distance to avoid its melee attacks. Be careful because it can use high damage combos."
+}

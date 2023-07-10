@@ -1,0 +1,113 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "walksthrough": "None.",
+    "hp": "?",
+    "speed": "?",
+    "abilities": "{{Ability List|{{Melee}}|and more}}",
+    "pushobjects": "yes",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "secondarytype": "Canines",
+    "fireDmgMod": "100%?",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "?",
+    "pushable": "no",
+    "runsat": "0",
+    "implemented": "10.80",
+    "loot": [
+        {
+            "itemName": "Gold Coin"
+        },
+        {
+            "itemName": "Platinum Coin"
+        },
+        {
+            "itemName": "Small Sapphire"
+        },
+        {
+            "itemName": "Moonlight Crystals"
+        },
+        {
+            "itemName": "Blue Crystal Shard"
+        },
+        {
+            "itemName": "Stone Skin Amulet"
+        },
+        {
+            "itemName": "Ultimate Health Potion"
+        },
+        {
+            "itemName": "Small Topaz"
+        },
+        {
+            "itemName": "Small Diamond"
+        },
+        {
+            "itemName": "Violet Crystal Shard"
+        },
+        {
+            "itemName": "Green Crystal Splinter"
+        },
+        {
+            "itemName": "Brown Crystal Splinter"
+        },
+        {
+            "itemName": "Fur Armor"
+        },
+        {
+            "itemName": "Badger Boots"
+        },
+        {
+            "itemName": "Great Mana Potion"
+        },
+        {
+            "itemName": "Wand of Voodoo"
+        },
+        {
+            "itemName": "Green Crystal Shard"
+        },
+        {
+            "itemName": "Moonlight Rod"
+        },
+        {
+            "itemName": "Wereboar Loincloth"
+        },
+        {
+            "itemName": "Underworld Rod"
+        },
+        {
+            "itemName": "Werewolf Amulet"
+        },
+        {
+            "itemName": "Great Spirit Potion"
+        },
+        {
+            "itemName": "Blue Crystal Splinter"
+        }
+    ],
+    "walksaround": "Energy, Fire, Poison",
+    "exp": "?",
+    "creatureclass": "Humans",
+    "earthDmgMod": "100%?",
+    "physicalDmgMod": "100%?",
+    "primarytype": "Lycanthropes",
+    "senseinvis": "yes",
+    "actualname": "Feroxa",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Feroxa (Gloom Wolf)",
+    "isboss": "yes",
+    "behaviour": "Chases her target.",
+    "location": "Behind the teleport, {{Mapper Coords|130.177|123.42|11|8|text=here}}.",
+    "iceDmgMod": "100%?",
+    "strategy": "Unknown",
+    "energyDmgMod": "100%?",
+    "deathDmgMod": "100%?"
+}

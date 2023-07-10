@@ -1,0 +1,68 @@
+{
+    "summon": "260",
+    "templateType": "Creature",
+    "notes": "Winter wolves are almost indentical to a regular [[Wolf]], however they don't drop [[Wolf Paw]]s or run in low health.",
+    "walksthrough": "?",
+    "hp": "30",
+    "abilities": "{{Ability List|{{Melee|0-20}}}}",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "holyDmgMod": "90%",
+    "maxdmg": "{{Max Damage|physical=20}}",
+    "pushable": "?",
+    "usedelements": "Physical",
+    "implemented": "6.2",
+    "loot": [
+        {
+            "amount": "1-2",
+            "itemName": "Meat",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Winter Wolf Fur",
+            "rarity": "uncommon"
+        }
+    ],
+    "walksaround": "Fire, Energy, Poison",
+    "exp": "20",
+    "mitigation": "0.15",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "winter wolf",
+    "illusionable": "yes",
+    "armor": "2",
+    "convince": "260",
+    "name": "Winter Wolf",
+    "isboss": "no",
+    "iceDmgMod": "80%",
+    "energyDmgMod": "105%",
+    "deathDmgMod": "110%",
+    "plural": "winter wolves",
+    "hpDrainDmgMod": "100%",
+    "usespells": "no",
+    "occurrence": "Common",
+    "bestiarytext": "Winter Wolves are related to normal wolves, but they have a thicker, white coat and are a bit stronger. They live at the ice islands in the north-west of Tibia, where they hunt small animals. A single Winter Wolf is rather shy, but as a pride they can be quite dangerous. And when they are hungry they even attack humans.",
+    "speed": "85",
+    "pushobjects": "?",
+    "fireDmgMod": "90%",
+    "sounds": [
+        "Yoooohhuuuu!"
+    ],
+    "bestiaryclass": "Mammal",
+    "creatureclass": "Mammals",
+    "earthDmgMod": "100%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Canines",
+    "spawntype": [
+        "Regular",
+        "Raid"
+    ],
+    "race_id": "52",
+    "bestiarylevel": "Trivial",
+    "senseinvis": "no",
+    "drownDmgMod": "100%",
+    "bestiaryname": "winterwolf",
+    "behaviour": "Winter Wolves fight until death.",
+    "location": "[[Ice Islands]].",
+    "strategy": "Just attack them."
+}

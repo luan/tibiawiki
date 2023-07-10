@@ -1,0 +1,79 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "Deathstrike",
+    "hpDrainDmgMod": "90%",
+    "notes": "He is an overgrown [[Stone Devourer]].",
+    "isarenaboss": "no",
+    "walksthrough": "?",
+    "hp": "200000",
+    "speed": "?",
+    "abilities": "{{Ability List| {{Melee|0-2000}}|{{Ability|Mana Drain Wave|200-500|element=manadrain}}|{{Ability|Energy Missile|200-500|element=energy}}|{{Ability|[[Invisible]]|element=invisible}}|{{Ability|Fire Beam|500-1000|element=fire}}|{{Ability|[[Thunderstorm]]|400-600|element=?}}|{{Ability|Dizziness Bomb|paralysis|element=paralyze}}|{{Healing|range=often 1500-3500+}}|{{Ability|strong [[Self-Healing]]|rare 15000-23000+|element=healing}} }}",
+    "pushobjects": "yes",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "50%",
+    "holyDmgMod": "80%",
+    "sounds": [
+        "Deeestructiooon!",
+        "Maaahhhrrr!",
+        "I am carnage incarnate!",
+        "I've seen the light! And it was all engulfing fire!",
+        "Taaake... this!"
+    ],
+    "maxdmg": "3000",
+    "pushable": "no",
+    "runsat": "2000",
+    "implemented": "9.60",
+    "cooldown": "20",
+    "loot": [
+        {
+            "itemName": "Crystal Crossbow"
+        },
+        {
+            "itemName": "Crystalline Axe"
+        },
+        {
+            "itemName": "Crystalline Sword"
+        },
+        {
+            "itemName": "Mycological Bow"
+        },
+        {
+            "itemName": "Mycological Mace"
+        },
+        {
+            "itemName": "Shiny Blade"
+        },
+        {
+            "itemName": "Decorative Ribbon",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Deathstrike's Snippet",
+            "rarity": "always"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "40000",
+    "creatureclass": "Elementals",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "75%>?",
+    "bosstiaryclass": "Archfoe",
+    "primarytype": "Geo-Elementals",
+    "race_id": "892",
+    "senseinvis": "?",
+    "actualname": "Deathstrike",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%",
+    "convince": "--",
+    "name": "Deathstrike",
+    "isboss": "yes",
+    "behaviour": "Heals and goes invisible very often.",
+    "location": "[[Warzone 1]]",
+    "iceDmgMod": "60%",
+    "strategy": "Trap him in a corner and have your team shower him with [[Sudden Death Rune]]s.  Sorcerers should rotate energy beams & waves, along with sudden deaths. It is recommended to bring a team with 10 players at least. Good tip is for druid and sorcerer to do summon of fire elemental and fire devil for some more damage.",
+    "energyDmgMod": "60%",
+    "deathDmgMod": "60%"
+}

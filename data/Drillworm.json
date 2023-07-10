@@ -1,0 +1,129 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "Combines strong [[melee]] with nasty waves. Treat it like a [[Lizard High Guard]].",
+    "walksthrough": "Energy, Poison",
+    "hp": "1500",
+    "abilities": "{{Ability List| {{Melee|0-300|poison=5}}|{{Ability|Earth Bomb|0-150|element=earth}}|{{Ability|[[Paralyze]] beam|red sparkle; speed -46|element=paralyze}}|{{Ability|Earth beam|0-300|element=earth}} }}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "holyDmgMod": "85%",
+    "maxdmg": "750?",
+    "pushable": "no",
+    "usedelements": "Physical > Earth",
+    "implemented": "9.80",
+    "loot": [
+        {
+            "amount": "1-150",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Lump of Earth",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Coal",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Green Crystal Splinter",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Brown Crystal Splinter",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Blue Crystal Splinter",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Vein of Ore",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Terra Amulet",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Dwarven Ring",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Pick",
+            "rarity": "semi-rare"
+        },
+        {
+            "amount": "1-5",
+            "itemName": "Worm",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Iron Ore",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Pulverized Ore",
+            "rarity": "semi-rare"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Drill Bolt",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Spiked Squelcher",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Clay Lump",
+            "rarity": "rare"
+        }
+    ],
+    "walksaround": "Fire",
+    "exp": "858",
+    "mitigation": "1.26",
+    "attacktype": "Melee",
+    "history": "Its experience was decreased from 1,100 to 858 with [[Updates/12.31|Update 12.31]].",
+    "article": "a",
+    "actualname": "drillworm",
+    "illusionable": "no",
+    "armor": "41",
+    "convince": "--",
+    "name": "Drillworm",
+    "isboss": "no",
+    "iceDmgMod": "84%",
+    "energyDmgMod": "85%",
+    "deathDmgMod": "85%",
+    "plural": "drillworms",
+    "hpDrainDmgMod": "100%",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "Drillworms are aggressive beasts from the depths of the earth. It is assumed that they are a distant relative of the common rotworm, but no medical examination could prove this. In fact, studies have revealed that the Drillworm is, in fact, quite different from the rotworm regarding its movement, behaviour as well as its organs. It possesses two powerful legs which, in some circumstances, may also serve as arms. The Drillworm's set of teeth is only a secondary tool compared to the highly corrosive acid in its mouth, which serves as both saliva and digestion fluid. While the teeth usually are used to crush or get hold of something, the acid is used for quickly dissolving earth and stone, transforming it to a mud-like mass that can be gobbled up by the Drillworm, thus allowing it to pass through. The body of a Drillworm is quite resilient, despite its colourless, almost translucent skin through which its massive muscles can be seen. Although blind by normal standards, its eye-like organs are highly effective heat sensors, and its antennae, which are usually feeling the stone surfaces, can sense even the most slightest of vibrations. These organs grant the creature extremely sharp senses, giving it an edge in any subterranean environment. What is more, the Drillworm can retract the spikes on its tail and extend them so forcefully as to make a most effective anchor of it. Using this natural anchor, and forcefully twisting its body, the Drillworm sprays the stone in front of it with it corrosive saliva. Releasing the pent-up force of its twisted body in order to rotate forward at high speed, the beast puts itself into an actual drilling motion, enabling it to pass through the most massive barriers at frightening speed. Because of an obvious lack of predators and challenge in its natural habitat, the Drillworm is quite bold and, while not aggressive as such, still sees everything as food. Alarmingly, to the single-minded beast the movement and heat patterns of other living beings apparently indicate a favourite type of food, causing the Drillworm to attack. Only recently, Drillworms have emerged from the depths of the earth and are now to be found in layers that are already inhabited by the known underground-dwelling races. If the migration of the Drillworms continues, they might soon replace the known rotworm populations, as the rotworms pose no threat to the Drillworms and occupy quite a similar niche. Probable reasons for this migration are the rise of the heat and lava levels that can be witnessed all over the world, and which the gnomes refer to as 'global warming'. In light of these facts, not only an increase of Drillworm sightings is to be expected, but also the appearance of other subterranean creatures; and if the drillwom is to be any indicator of their threat level, this is dire news indeed.",
+    "speed": "110",
+    "pushobjects": "yes",
+    "fireDmgMod": "105%",
+    "sounds": [
+        "Krrrk!",
+        "Knarrrk!"
+    ],
+    "runsat": "0",
+    "bestiaryclass": "Vermin",
+    "creatureclass": "Invertebrates",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Annelids",
+    "spawntype": [
+        "Regular",
+        "Unblockable"
+    ],
+    "race_id": "878",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%",
+    "bestiaryname": "drillworm",
+    "behaviour": "Drillworms chase their opponents. They retarget very often.",
+    "location": "[[Drillworm Caves]] ({{Mapper Coords|127.142|125.21|15|2|text=here}}), [[Lower Spike]], [[Forsaken Mine/Lost Dwarves|Lost Dwarf]] version of the [[Forsaken Mine]], [[Oramond Factory Raids]] and [[Warzone 4]].",
+    "strategy": "Stay diagonal. Spawns in the vicinity of [[Giant Spider]]s, [[Earth Elemental]]s and [[Wyvern]]s.<br>\n'''[[Knight]]s''': Stay diagonal always. At 100+ with decent skills these are no problem. Make sure to heal constantly and try to avoid fighting multiples.\n'''[[Sorcerers]] and [[Druids]]''': Can easily bring them down by running them and using fire-based attacks. Remember not to stay in front of them because their poison beam deals very high damage. A good strategy is to throw [[Fire Wall]]s to run them safely and avoid luring more monsters. At 100+ you can run multiples and shoot GFBs at them."
+}

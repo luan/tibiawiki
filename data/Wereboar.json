@@ -1,0 +1,126 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "<p><noinclude>[[File:Wereboar Promoart.jpg|350px]]</noinclude></p>",
+    "walksthrough": "Energy, Poison",
+    "hp": "2200",
+    "abilities": "{{Ability List\n |{{Melee|0-300}}\n |{{Ability|Life Drain Berserk|0-250|element=lifedrain}}\n |{{Ability|Bleeding Beam||element=bleeding\n   |scene={{Scene|spell=3sqmbeam|effect=Explosion Effect|caster=Wereboar|look_direction=east}}}}\n |{{Debuff2|[[Sudden Death]]|shielding=yes}}\n |{{Ability|Puff Up|unknown maybe buff|element=?\n   |scene={{Scene|spell=buffspell|effect=Steam Effect|caster=Wereboar|look_direction=south|effect_on_caster=yes}}}}\n |{{Ability|[[Red Sparkles Effect|Red Sparkles Bomb]]|reduces [[Magic Level]] on mages; [[Melee]] skills on [[Knights]] and [[Distance Fighting]] on [[Paladins]] by 20-30%|element=debuff}}\n |{{Haste}}\n |{{Ability|Trembling|unknown maybe buff|element=?\n   |scene={{Scene|spell=buffspell|effect=Trembling Effect|caster=Wereboar|look_direction=south|effect_on_caster=yes}}}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "secondarytype": "Ungulates",
+    "holyDmgMod": "105%",
+    "maxdmg": "545+",
+    "pushable": "?",
+    "implemented": "10.80",
+    "loot": [
+        {
+            "amount": "1-75",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "Platinum Coin",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Brown Mushroom",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Wereboar Tusks",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Wereboar Hooves",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Moonlight Crystals",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Small Enchanted Ruby",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Strong Health Potion",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Ultimate Health Potion",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Wereboar Loincloth",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Berserk Potion",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Werewolf Amulet",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Furry Club",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Stone Skin Amulet",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Fur Armor",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Dreaded Cleaver",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Wereboar Trophy",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Fire",
+    "exp": "2000",
+    "mitigation": "0.78",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "wereboar",
+    "illusionable": "no",
+    "armor": "32",
+    "convince": "--",
+    "name": "Wereboar",
+    "isboss": "no",
+    "iceDmgMod": "95%",
+    "energyDmgMod": "85%",
+    "deathDmgMod": "50%",
+    "plural": "wereboars",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "Wereboars are humans under a curse - others claim infected with a disease - that causes them to transform into savage beasts. At the beginning, the transformation only takes place at full moon and the victim regains its human appearance the next morning. In the course of time, the transformation lasts longer and the full moon is no longer a necessary condition for the transformation. At a certain point, the beast takes over more and more often.\nWereboars are wild and boisterous, though a bit imprudent. They are not true predators, but in their ferocity and aggressiveness they are as dangerous as any beast of prey. Their appearance is a mix between a boar and a human being.\nThe curse of the Full Moon, as it is frequently called, is usually spread by the infectious bite or scratch of other were-creatures. Forbidden books also tell about methods that allow to turn somebody into a were-creature with the help of dark rites. Some twisted individuals even call the curse upon themselves in the hope of using their new powers to avenge an injustice or insult.",
+    "speed": "150",
+    "pushobjects": "?",
+    "fireDmgMod": "105%",
+    "sounds": [
+        "GRUNT"
+    ],
+    "bestiaryclass": "Lycanthrope",
+    "creatureclass": "Humans",
+    "earthDmgMod": "50%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Lycanthropes",
+    "race_id": "1143",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "wereboar",
+    "behaviour": "Wereboars are fast. They also retreat on low health.",
+    "location": "[[Grimvale]] underground, were-beasts cave south-west of [[Edron]] (accessed {{Mapper Coords|129.160|124.172|7|4|text=here}}) and in the [[Last Sanctum]] east of [[Cormaya]], {{Mapper Coords|130.72|125.3|7|4|text=here}}..",
+    "strategy": "Try to stand diagonal to them to avoid their [[Bleeding]] effect. Their [[Shielding]] reduction can be troublesome as it increases the damage outcome of both the Wereboar and other creatures, so be cautious."
+}

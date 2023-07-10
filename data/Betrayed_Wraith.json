@@ -1,0 +1,134 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "They can put [[Hydra]]s to shame with their healing abilities. They appeared in the [[Updates/7.9|Winter Update 2006]] haunting the deepest [[Pits of Inferno]]. Looks the same as a [[Sloth Wraith]].",
+    "walksthrough": "Fire, Energy, Poison",
+    "hp": "4200",
+    "abilities": "{{Ability List\n |{{Melee|0-455}}\n |{{Ability|[[Self Healing]]|very often|element=healing}}\n |{{Ability|[[Invisible]]|time to time|element=invisible}}\n |{{Debuff2|Poison Wave|distance=yes|duration=3|element=poison}}\n |{{Ability|[[Paralyze]]|looks like Sudden Death|element=paralyze}}\n |{{Ability|short [[Haste]]|element=haste}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "holyDmgMod": "120%",
+    "maxdmg": "455",
+    "pushable": "no",
+    "implemented": "7.9",
+    "loot": [
+        {
+            "amount": "1-200",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-8",
+            "itemName": "Platinum Coin",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-15",
+            "itemName": "Power Bolt",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Flask of Demonic Blood",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-5",
+            "itemName": "Assassin Star",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Demonic Essence",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "Great Mana Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Orichalcum Pearl",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-4",
+            "itemName": "Small Diamond",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Soul Orb",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Ultimate Health Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Unholy Bone",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Mercenary Sword",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Bloody Edge",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Death Ring",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Golden Figurine",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Skull Helmet",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "None",
+    "exp": "3500",
+    "mitigation": "1.46",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "betrayed wraith",
+    "illusionable": "no",
+    "armor": "42",
+    "convince": "--",
+    "name": "Betrayed Wraith",
+    "isboss": "no",
+    "iceDmgMod": "50%",
+    "energyDmgMod": "0%",
+    "deathDmgMod": "0%",
+    "plural": "betrayed wraiths",
+    "hpDrainDmgMod": "0%",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "Revenge is the drive of a Betrayed Wraith, revenge whose cause is long forgotten and whose source has likely died decades ago. Still trapped in their lust for revenge, they mindlessly attack everything they encounter. Mercy is no option and its futile to argue with these maddened ghosts. Their broken and twisted minds are constantly tormented by the ever-present memory of their gruesome death. Entrapped in their feelings and memories, they only find relief when inflicting some of those feelings on living beings. In an insane surge of joy, they attack the life force of others, feeding their pain and amplifying it by projecting their own agony and horror upon their victims. It is said that those who survived the attacks of a Betrayed Wraith are driven insane, they age before their time and turn into white-haired shadows of their former selves.",
+    "speed": "173",
+    "pushobjects": "yes",
+    "fireDmgMod": "0%",
+    "sounds": [
+        "Rrrah!",
+        "Gnarr!",
+        "Tcharrr!"
+    ],
+    "bestiaryclass": "Undead",
+    "creatureclass": "The Undead",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Skeletons",
+    "spawntype": [
+        "Regular"
+    ],
+    "race_id": "284",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "wraith",
+    "behaviour": "Cruel and fast, they still run away at low life.",
+    "location": "[[Pits of Inferno]], [[Helheim]], [[The Inquisition Quest]], [[Roshamuul Prison]], [[Oramond Fury Dungeon]]",
+    "strategy": "Due to their healing it's very hard to kill them solo. A medium level knight should have no problem blocking it as it's attacks aren't extremely powerful, however you will need 3-4 shooters (preferably [[Paladin]]s, as [[Mage]]s cannot deal much damage to these creatures), otherwise you will be wasting a lot of supplies. Be wary when group hunting, they will retarget relentlessly. Also, higher level paladins could kill them solo using [[Assassin Star]]s and [[Divine Missile]]. Try to stay always diagonal when killing it solo as a paladin, since the poison wave decreases 95% of your distance fighting for about 3-5 seconds."
+}

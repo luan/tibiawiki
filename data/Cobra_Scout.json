@@ -1,0 +1,119 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "walksthrough": "Fire, Energy, Poison",
+    "hp": "8500",
+    "abilities": "{{Ability List| {{Melee|0-350}}|{{Ability|[[Earth Damage|Earth Arrow]]|0-430|element=earth}} }}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "holyDmgMod": "100%",
+    "pushable": "no",
+    "implemented": "12.20.8834",
+    "loot": [
+        {
+            "amount": "1-9",
+            "itemName": "Platinum Coin",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-5",
+            "itemName": "Opal",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-28",
+            "itemName": "Earth Arrow",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Cobra Crest",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Cheesy Figurine",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Stone Skin Amulet",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Gold Ingot",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Sacred Tree Amulet",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Red Gem",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Yellow Gem",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Green Crystal Shard",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Small Emerald",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Green Gem",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Violet Gem",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Ring of Red Plasma",
+            "rarity": "rare"
+        }
+    ],
+    "walksaround": "None",
+    "exp": "7310",
+    "mitigation": "2.16",
+    "attacktype": "Distance",
+    "history": "Its experience was increased from 6600 to 7920 with the fourth batch of changes of [[Updates/12.31|Update 12.31]]. It was later increased to 8712 with the sixth batch of changes. Its loot was decreased in 25% with the ninth batch of changes of the Hunting Grounds Rebalancing.\n\nIts experience was decreased from 8712 to 7310 and its loot reduced in 4% with the balancing changes on {{OfficialNewsArchive|6086|April 15, 2021}}.",
+    "article": "a",
+    "actualname": "cobra scout",
+    "illusionable": "no",
+    "armor": "81",
+    "convince": "--",
+    "name": "Cobra Scout",
+    "isboss": "no",
+    "iceDmgMod": "100%",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "100%",
+    "plural": "cobra scouts",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "When Scarlett Etzel turned towards the shadows, her loyal followers turned away from her. Her change in tactics and the more covert approach has led to the hiring of shady characters to reinforce the order. Cobra Scouts are a vital backbone of Scarlett's forces. While they are often used for small errands and basic reconnaissance missions, their true purpose is to act as an extension of Scarlett's reach. They are sent out to all corners of the known world and receive their orders directly from her. They are often the first and probably last glimpse of the complex Cobra network for an outsider to witness.",
+    "speed": "150",
+    "pushobjects": "yes",
+    "fireDmgMod": "100%",
+    "sounds": [
+        "Think I can't see you? Think again...",
+        "You don't stand a chance!",
+        "What are you looking for?"
+    ],
+    "runsat": "0",
+    "bestiaryclass": "Human",
+    "creatureclass": "Humans",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Members of the Order of the Cobra",
+    "race_id": "1776",
+    "bestiarylevel": "Hard",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "cobrascout",
+    "behaviour": "They attack from distance.",
+    "location": "[[Cobra Bastion]].",
+    "strategy": "Knights should use [[Chivalrous Challenge]] to bring them into melee range and kill them, while other vocations should keep moving as ranged creatures attack less often in these cases."
+}

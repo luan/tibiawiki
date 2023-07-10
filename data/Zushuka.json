@@ -1,0 +1,156 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "This boss uses the revised reward system. Your rewards will vary depending on your participation in the fight. The [[Frost Spider]]s and [[Frost Servant]]s will not grant you participation points, nor will destroying the pillars or taking damage from the invincible Zushuka; only the killable Zushuka will yield rewards.",
+    "walksthrough": "?",
+    "hp": "15000",
+    "speed": "?",
+    "abilities": "{{Ability List| {{Melee|?}}|{{Ability|Ice Beam|750+|element=ice}}|{{Ability|strong [[Self Healing]] once when on red hp|7485-7515|element=healing}}|{{Ability|Frequent [[Self Healing]]|435-465|element=healing}}|{{Outfit|yes|Snowman}} }}",
+    "pushobjects": "yes",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "secondarytype": "Barbarians",
+    "fireDmgMod": "50%",
+    "holyDmgMod": "70%",
+    "sounds": [
+        "Cool down, will you?",
+        "And stay cool.",
+        "Your cold dead body will be a marvelous ice statue.",
+        "Pay for your ignorance!",
+        "Is this all you've got?",
+        "Freeze!"
+    ],
+    "maxdmg": "900+",
+    "pushable": "no",
+    "implemented": "10.20",
+    "loot": [
+        {
+            "amount": "100-200",
+            "itemName": "Gold Coin"
+        },
+        {
+            "itemName": "Silver Raid Token",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Shard"
+        },
+        {
+            "itemName": "Crystal Sword"
+        },
+        {
+            "amount": "0-5+",
+            "itemName": "Great Spirit Potion"
+        },
+        {
+            "itemName": "Bullseye Potion"
+        },
+        {
+            "itemName": "Glacier Shoes"
+        },
+        {
+            "itemName": "Ice Rapier"
+        },
+        {
+            "itemName": "Life Ring"
+        },
+        {
+            "itemName": "Platinum Coin"
+        },
+        {
+            "itemName": "Berserk Potion"
+        },
+        {
+            "itemName": "Blue Gem"
+        },
+        {
+            "itemName": "Mastermind Potion"
+        },
+        {
+            "itemName": "Mystic Turban"
+        },
+        {
+            "itemName": "White Piece of Cloth"
+        },
+        {
+            "itemName": "Glacier Amulet"
+        },
+        {
+            "amount": "0-5+",
+            "itemName": "Great Health Potion"
+        },
+        {
+            "amount": "0-5+",
+            "itemName": "Great Mana Potion"
+        },
+        {
+            "itemName": "Blue Piece of Cloth"
+        },
+        {
+            "itemName": "Crystal Mace"
+        },
+        {
+            "itemName": "Dragon Necklace"
+        },
+        {
+            "itemName": "Glacier Kilt"
+        },
+        {
+            "itemName": "Gold Ingot"
+        },
+        {
+            "itemName": "Pair of Earmuffs"
+        },
+        {
+            "itemName": "Skull Staff"
+        },
+        {
+            "itemName": "Boots of Haste"
+        },
+        {
+            "itemName": "Glacier Mask"
+        },
+        {
+            "itemName": "Glacier Robe"
+        },
+        {
+            "itemName": "Red Piece of Cloth"
+        },
+        {
+            "itemName": "Trapped Lightning"
+        },
+        {
+            "itemName": "Icy Culottes"
+        },
+        {
+            "itemName": "Queen's Sceptre"
+        }
+    ],
+    "walksaround": "Energy, Fire",
+    "exp": "9000",
+    "creatureclass": "Humans",
+    "earthDmgMod": "50%",
+    "physicalDmgMod": "100%",
+    "bosstiaryclass": "Nemesis",
+    "primarytype": "Sorcerers",
+    "spawntype": [
+        "Raid",
+        "Unique",
+        "Unblockable"
+    ],
+    "race_id": "969",
+    "senseinvis": "?",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Zushuka",
+    "isboss": "yes",
+    "behaviour": "Fights in close combat. Fully heals herself the first time she is low in health.",
+    "location": "[[Ice Witch Temple]] (bottom floor)",
+    "iceDmgMod": "0%",
+    "strategy": "This boss fight can be very hard, it is not recommended below level 150.\n\nThe battle of Zushuka has two stages. Throughout the entire battle, [[Frost Spider]]s will spawn along the horizontal line in the center of the temple and up to 4? [[Frost Servant]]s will spawn by the altar. These will stop spawning when Zushuka is dead, but the spawned monsters will not disappear when Zushuka is killed.\n\nIn the first stage, Zushuka is invincible and her clothing is of a lighter color. To progress to stage 2, the glowing ice cubes on the west and east side of the heart of the temple must be destroyed. To destroy the cubes, take a [[Thawing Ice Pick]] from the altar (center) and quickly run to the west or east side to use the pickaxe on the cubes. You must do this on 3 cubes on each side. Note that the thawing ice picks will vanish (and respawn) after 5 seconds, and the decaying starts immediately when it spawns. It is recommended to first move a thawing ice pick, wait for it to disappear and pick up the new one from the same spot on the altar, thus giving you maximum time to use it. You may also add it to a hotkey or action button. Keep in mind that while you run from the altar to the glowing ice cubes, there will be a massive amount of [[Frost Spider]]s which aim to slow you down and block your path. If you cannot manage, you can use [[Energy Bomb Rune]]s or [[Energy Wall]]s to create a clear path from the altar to the cubes. Alternatively, a knight can block the majority of the spiders while another player runs the thawing ice picks. Also keep in mind that Zushuka can deal a massive amount of damage herself. Since you can't do anything with her right now, it is recommended to lure her away from the center while you progress.\n\nIn the second stage, the invincible Zushuka will disappear and a new one, in a darker blue outfit, will spawn by the altar. Zushuka can now be killed. Hold off the minions and kill the boss. When Zushuka reaches low health, she will recover about half its health points (~7500 hp), but only once. This may be a long battle so it is recommended to bring plenty of supplies.",
+    "energyDmgMod": "110%",
+    "deathDmgMod": "110%"
+}

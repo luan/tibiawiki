@@ -1,0 +1,56 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "They're quite similar to a [[Giant Spider]].",
+    "walksthrough": "?",
+    "hp": "3750",
+    "abilities": "{{Ability List|}}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "110%",
+    "holyDmgMod": "100%",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "?",
+    "pushable": "?",
+    "usedelements": "?",
+    "implemented": "12.85.11485",
+    "loot": [
+        {
+            "itemName": "Special Fx Box"
+        },
+        {
+            "itemName": "Platinum Coin"
+        },
+        {
+            "itemName": "Candy Floss (Large)"
+        },
+        {
+            "itemName": "Ice Cream Cone (Sprinkles)"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "1720",
+    "creatureclass": "Invertebrates",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "100%?",
+    "primarytype": "Arachnids",
+    "senseinvis": "?",
+    "article": "an",
+    "actualname": "unwanted",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Unwanted",
+    "isboss": "no",
+    "location": "Spawned in Svargrond, Liberty Bay and Port Hope during [[:en:Tibia's_25th_Anniversary#Raids|25th Anniversary raids]].",
+    "iceDmgMod": "100%?",
+    "strategy": "Mind that you can be easily get surrounded by them because they spawn in groups, and they move quite fast.",
+    "energyDmgMod": "80%",
+    "deathDmgMod": "100%?",
+    "status": "unavailable"
+}

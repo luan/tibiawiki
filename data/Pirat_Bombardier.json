@@ -1,0 +1,89 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "They will only ever make two melee hits.",
+    "plural": "pirat bombardiers",
+    "hpDrainDmgMod": "100%?",
+    "walksthrough": "Energy, Fire",
+    "hp": "2300",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "It takes an unhealthy amount of foolishness or bravery to handle the unstable substance that green powder is. The pirat bombadiers seem to have plenty of both of them. Couple this with a love for fire and explosions and you get the dangerous mixture of which the pirat bombardiers consist. Whenever there is any task that involves fire, destruction and chaos, the bombardiers are the rats to be sent. And they are not shy to volunteer, as after a string of deadly mishaps before the heydays of pirat-dom, they are not allowed to handle their explosives without permission. So whenever they are ordered to employ their deadly weapons, their whole destructive potential is unleashed with glee. It is said that their favourite diet is the very cheese the green powder mold is growing on and over time the oldest bombardiers become explosive on their own. This myth is yet to be verified since the usual bombardiers behaviour isn't suited for a long live and old age. In fact the life of a bombardier is usually short and fiery. Even without bombs the bombardiers are discernable by burn marks, ashed fur and smouldered whiskers. Even without explosives at hand this pirats have a penchant for everything that burns. The most sane and stable bombardiers are employed as cannoneers and enjoy a certain amount of status amongst the crews. Other bombardiers though look upon them with disdain and have only contempt for this 'tamed fire'. In their spare time many bombardiers become cooks, although the only dish they serve is commonly coal.<br />\nTo some of them it's the epitome of their destructive existence, to cause as much destruction as possible in their final act and leave the mortal world in a blaze of glory. In the end they really love the smell of green powder in the morning.",
+    "speed": "185",
+    "abilities": "{{Ability List\n |{{Melee|0-350? at most 2 hits}}\n |{{Ability|Burst Arrow|80-160?|element=energy\n  |scene={{Scene|spell=3sqmstrike|effect=Purple Electricity Effect|caster=Pirat Bombardier|missile=Burst Arrow Missile|missile_direction=south-east|missile_distance=3/3}}}}\n |{{Ability|Energy Missile|110-160?|element=energy\n  |scene={{Scene|spell=3sqmstrike|effect=Energy Effect|caster=Pirat Bombardier|missile=Energy Ball Missile|missile_direction=south-east|missile_distance=3/3}}}}\n |{{Ability|Chain attack|70-120?|element=energy\n  |scene={{Scene|spell=chainspell|caster=Pirat Bombardier|effect=Blue Electricity Effect|look_direction=south|effect_on_caster=no|edge_size=0}}}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "fireDmgMod": "100%",
+    "holyDmgMod": "100%",
+    "sounds": [
+        ""
+    ],
+    "implemented": "12.60.10463",
+    "bestiaryclass": "Humanoid",
+    "loot": [
+        {
+            "amount": "1-2",
+            "itemName": "Great Mana Potion",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Terra Boots",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-10",
+            "itemName": "Pirate Coin",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Mouldy Powder",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Pirat's Tail",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Magma Boots",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Lightning Boots",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Ring of Blue Plasma",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Wood Cape",
+            "rarity": "semi-rare"
+        }
+    ],
+    "walksaround": "Poison",
+    "exp": "1700",
+    "creatureclass": "Humanoids",
+    "earthDmgMod": "120%",
+    "mitigation": "1.82",
+    "physicalDmgMod": "110%",
+    "primarytype": "Pirats",
+    "attacktype": "Distance",
+    "race_id": "2038",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "article": "a",
+    "actualname": "pirat bombardier",
+    "illusionable": "no",
+    "armor": "65",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "bestiaryname": "piratbombardier",
+    "name": "Pirat Bombardier",
+    "isboss": "no",
+    "behaviour": "Attacks from a distance. If you get into melee range, they use a strong physical attack, but their weapon breaks after two hits. After that, they only use [[Energy Damage]].",
+    "location": "[[Pirat Mine]], [[The Wreckoning]]",
+    "iceDmgMod": "100%",
+    "strategy": "Be careful of their strong melee attack at the start of the fight. Use [[Earth Damage]] against them, and consider using items with [[Energy Resistant|Energy Resistance]]. It is not clear if its chain attack hits more than one player, it may hit players diagonally up to 4sqm.",
+    "energyDmgMod": "90%",
+    "deathDmgMod": "100%"
+}

@@ -1,0 +1,86 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "{{JSpoiler|It's one of the bosses of [[Kilmaresh Quest]].}}",
+    "walksthrough": "Energy, Fire, Poison",
+    "hp": "38000",
+    "speed": "?",
+    "abilities": "{{Ability List|{{Melee|0-600?}}|{{Ability|Death Strike|300-600?|death}}|{{Ability|Death Ball on itself|300-600?|death}}|{{Ability|Fire Ball|300-600|fire}}|{{Ability|Energy Chain Attack|?|energy}}|{{Ability|Damage Reflection|reflects 95% of the [[Death Damage]] it takes|death}}}}",
+    "pushobjects": "yes",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "30%",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "{{Max Damage|physical=600?|death=1200?|fire-600|energy=?}}",
+    "pushable": "no",
+    "runsat": "0",
+    "implemented": "12.20.8834",
+    "loot": [
+        {
+            "amount": "2-12",
+            "itemName": "Flaming Arrow"
+        },
+        {
+            "amount": "1-8",
+            "itemName": "Platinum Coin"
+        },
+        {
+            "itemName": "Underworld Rod"
+        },
+        {
+            "itemName": "Stone Skin Amulet"
+        },
+        {
+            "itemName": "Giant Shimmering Pearl (Green)"
+        },
+        {
+            "itemName": "Magma Coat"
+        },
+        {
+            "itemName": "Red Gem"
+        },
+        {
+            "itemName": "Sea Horse Figurine"
+        },
+        {
+            "itemName": "Golden Mask"
+        },
+        {
+            "itemName": "Enchanted Theurgic Amulet"
+        },
+        {
+            "itemName": "Enchanted Blister Ring"
+        },
+        {
+            "itemName": "Winged Boots"
+        }
+    ],
+    "walksaround": "None",
+    "exp": "18000",
+    "creatureclass": "Demons",
+    "earthDmgMod": "100%",
+    "physicalDmgMod": "100%?",
+    "bosstiaryclass": "Bane",
+    "primarytype": "Demons",
+    "spawntype": [
+        "Regular"
+    ],
+    "race_id": "1828",
+    "senseinvis": "yes",
+    "actualname": "Bragrumol",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Bragrumol",
+    "isboss": "yes",
+    "location": "Under [[Kilmaresh]] Central Steppe {{Mapper Coords|text=here|132.15|123.110|8|4|1|0.250.25}}",
+    "iceDmgMod": "110%?",
+    "strategy": "Do not use [[Death Damage]] against it since the boss will reflect it.",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "50%?"
+}

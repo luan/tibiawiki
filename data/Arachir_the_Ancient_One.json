@@ -1,0 +1,91 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "Arachir the Ancient One",
+    "hpDrainDmgMod": "100%?",
+    "notes": "Vampire lord from Drefia. Spawns with up to 4 [[Vampire]]s.\n<gallery mode=\"nolines\">\nImage:Arachir_gallery.jpg|[[Paladin]] killing this strong vampire boss with help of [[Energy Bomb]] runes. This was before 10.1 update.\narachir.JPG|Paladin having killed Arachir in the revamped Vampire Crypts\narachirr.PNG|Arachir loot\n</gallery>",
+    "isarenaboss": "no",
+    "walksthrough": "?",
+    "hp": "1600",
+    "speed": "143",
+    "abilities": "{{Ability List|{{Melee|0-300}}|{{Ability|Sudden Death Berserk|0|death}}|{{Summon|Lich|2}}|{{Ability|[[Sudden Death]]|0-200|death}}|{{Ability|Casues [[Drunkness]]||drunk}}|{{Ability|Paralyze||slowed}}|{{Ability|Turns [[Invisible]]||invisible}}|{{Healing}}|{{Outfit|no|Bat}}}}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "yes",
+    "fireDmgMod": "101%>?",
+    "holyDmgMod": "105%?",
+    "sounds": [
+        "I was the shadow that haunted the cradle of humanity!",
+        "Your worthles existence will nourish something greater!",
+        "I exist since eons and you want to defy me?",
+        "Can you feel the passage of time, mortal?"
+    ],
+    "maxdmg": "{{Max Damage|physical=300|death=200|summons=1410}}",
+    "pushable": "?",
+    "implemented": "8.20",
+    "loot": [
+        {
+            "itemName": "Vampire Lord Token",
+            "rarity": "always"
+        },
+        {
+            "amount": "1-98?",
+            "itemName": "Gold Coin"
+        },
+        {
+            "amount": "1-5",
+            "itemName": "Platinum Coin"
+        },
+        {
+            "itemName": "Black Pearl"
+        },
+        {
+            "itemName": "Blood Preservation"
+        },
+        {
+            "itemName": "Strong Health Potion",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Ring of Healing",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Skull (Item)",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Vampire Shield",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Bloody Edge",
+            "rarity": "rare"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "1800",
+    "creatureclass": "The Undead",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "99%<?",
+    "bosstiaryclass": "Nemesis",
+    "primarytype": "Vampires",
+    "spawntype": [
+        "Raid"
+    ],
+    "race_id": "478",
+    "senseinvis": "yes",
+    "actualname": "Arachir the Ancient One",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Arachir the Ancient One",
+    "isboss": "yes",
+    "behaviour": "Turns [[Invisible]] really often and runs away in low health.",
+    "location": "[[Vampire Crypts]] ({{Mapper Coords|128.200|126.144|12|2|text=here}}).",
+    "iceDmgMod": "95%",
+    "strategy": "This boss often causes death for unprepared players, even high levels, so if you are planning to hunt in '''Vampire Crypts''', always be all ready in case this boss appears. Arachir often hits with paralyze + drunkeness combo, so you should always keep a [[Dwarven Ring]] ready in case you need to escape or you try to outrun it. \n\nThe best way to kill it is a simple formation of 2 [[Druid]]s healing the blocker and shooters killing fast, with [[Fire Wave]]s, [[Fireball]] runes and [[Divine Missile]]s. \n\n[[Mages]]: A possible strategy for mages would be to lure it to the rope hole while using [[Mana shield]]. Then use either [[Hell's Core]] ([[Sorcerers]]) or [[Eternal Winter]] ([[Druids]]) to kill this vampire lord and it's summoned [[Lich]]es. \n\nHigher levels can successfully kill this boss alone with help of field runes like [[Energy Bomb]]s or [[Energy Wall]]s, to keep summones [[Lich]]es or eventual [[Vampire]]s from attacking you.",
+    "energyDmgMod": "95%",
+    "deathDmgMod": "0%"
+}

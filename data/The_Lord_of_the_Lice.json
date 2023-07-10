@@ -1,0 +1,83 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "It looks like [[Mutated Rat]]s. It will yell {{Sound|Swarm forth, minions!}} when summoning creatures.",
+    "walksthrough": "?",
+    "hp": "80000",
+    "speed": "?",
+    "abilities": "{{Ability List\n |{{Melee|0-396|poison=?}}\n |{{Ability|Dizzy Missile||element=?\n  |scene={{Scene|spell=7sqmstrike|caster=The Lord of the Lice|look_direction=south|effect=Stars Effect|missile=Poison Missile|missile_direction=south-east|missile_distance=7/7}}}}  \n |{{Ability|Explosion Wave||element=?\n  |scene={{Scene|spell=4sqmtwave|caster=The Lord of the Lice|look_direction=east|effect=Explosion Effect}}}}\n |{{Ability|Summon 3 [[Brimstone Bug]]s or 3 [[Larva]]s at or 3 [[Insect Swarm]]s once|element=summon\n  |scene={{Scene|spell=3x3spell|caster=The Lord of the Lice|look_direction=east|effect=Poison Effect 3|effect_on_caster=yes}}}}\n |{{Ability|Sparkles Exori||element=?\n  |scene={{Scene|spell=3x3spell|caster=The Lord of the Lice|look_direction=east|effect=Red Sparkles Effect|effect_on_caster=yes}}}}\n}}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "secondarytype": "Glires",
+    "fireDmgMod": "100%?",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        "Feel the fever!",
+        "Feeling queasy? Heeheehee!",
+        "Swarm forth, minions!",
+        "Pox upon you!",
+        "Take your breath away!"
+    ],
+    "maxdmg": "?",
+    "pushable": "?",
+    "implemented": "10.90",
+    "loot": [
+        {
+            "itemName": "Platinum Coin"
+        },
+        {
+            "itemName": "Ultimate Health Potion"
+        },
+        {
+            "itemName": "Great Spirit Potion"
+        },
+        {
+            "itemName": "Great Mana Potion"
+        },
+        {
+            "itemName": "Small Topaz"
+        },
+        {
+            "itemName": "Life Ring"
+        },
+        {
+            "itemName": "Epee"
+        },
+        {
+            "itemName": "Terra Mantle"
+        },
+        {
+            "itemName": "Small Emerald"
+        },
+        {
+            "itemName": "Small Ruby"
+        },
+        {
+            "itemName": "Small Amethyst"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "0",
+    "creatureclass": "Mammals",
+    "earthDmgMod": "100%?",
+    "physicalDmgMod": "100%?",
+    "bosstiaryclass": "Bane",
+    "primarytype": "Mutated Mammals",
+    "race_id": "1179",
+    "senseinvis": "?",
+    "actualname": "The Lord of the Lice",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "The Lord of the Lice",
+    "isboss": "yes",
+    "behaviour": "?",
+    "location": "[[Ferumbras' Ascension Quest]] [[Verminor]] seal.",
+    "iceDmgMod": "100%?",
+    "strategy": "?",
+    "energyDmgMod": "100%?",
+    "deathDmgMod": "0%"
+}

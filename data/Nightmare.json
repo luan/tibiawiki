@@ -1,0 +1,129 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "Creature added in the Christmas 2006 update. Often hunted for [[Death Ring]]s and [[Demonic Essence]]s, since it's one of weakest monsters that can provide such items. It is good to take caution while hunting these creatures, as they can combo hard and do so unexpectedly.<br />\n{{JSpoiler|You may hunt 400 Nightmare and [[Nightmare Scion]] combined as a task of the [[Killing in the Name of... Quest]]. Upon completion of the task you will face [[Tormentor]].}}",
+    "walksthrough": "Poison",
+    "hp": "2700",
+    "abilities": "{{Ability List\n |{{Melee|0-150}}\n |{{Ability|Death Strike|120-170|element=death\n  |scene={{Scene|spell=2sqmstrike|caster=Nightmare|effect=Cloud Effect|missile=Death Missile|missile_direction=south-east|missile_distance=2/2}}}}\n |{{Ability|Poison Ball|150-500|element=poison\n  |scene={{Scene|spell=2sqmballtarget|caster=Nightmare|effect=Poison Effect 3|damage_effect=none|missile=Poison Missile|missile_direction=south-east|missile_distance=2/2}}}}\n |{{Healing|range=60-100\n  |scene={{Scene|spell=buffspell|effect=Blue Sparkles Effect|caster=Nightmare|look_direction=south|effect_on_caster=yes}}}}\n |{{Ability|Paralyze|element=paralyze}}\n |{{Haste}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "secondarytype": "Ungulates",
+    "holyDmgMod": "125%",
+    "maxdmg": "820",
+    "pushable": "no",
+    "implemented": "7.9",
+    "loot": [
+        {
+            "amount": "1-155",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Ham",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Soul Orb",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Flask of Demonic Blood",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Essence of a Bad Dream",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Demonic Essence",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Scythe Leg",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "Platinum Coin",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Death Ring",
+            "rarity": "semi-rare"
+        },
+        {
+            "amount": "1-4",
+            "itemName": "Power Bolt",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Ancient Shield",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Knight Legs",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Skeleton Decoration",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Boots of Haste",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "War Axe",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Mysterious Voodoo Skull",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Fire, Energy",
+    "exp": "1666",
+    "mitigation": "0.70",
+    "attacktype": "Melee",
+    "history": "Its experience was decreased from 2150 to 817 with the first batch of changes of [[Updates/12.31|Update 12.31]]. It was later increased to 1666 with the second batch.",
+    "article": "a",
+    "actualname": "nightmare",
+    "illusionable": "no",
+    "armor": "25",
+    "convince": "--",
+    "name": "Nightmare",
+    "isboss": "no",
+    "iceDmgMod": "90%",
+    "energyDmgMod": "80%",
+    "deathDmgMod": "0%",
+    "plural": "nightmares",
+    "hpDrainDmgMod": "0%",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "One thing that always eludes the demons and their powers are dreams. The gift of dreaming is only granted to mortals. Still some demons lurk at the borders of dreams, watching, drooling with hatred and greed. Sometimes a dreamer gets some distant feeling of those unwelcome spectators. Such dreams often turn into nightmares. The chaos and fear, that  is caused by nightmares, allow the lurking demons to steal some of the essence of these dreams. By eating more and more of this substance, demons gain certain characteristics which are normally not at disposal of demons. To some extent they are even able to haunt the dreams of the mortals, although their influence is only indirect and limited. Their physical form reflects their constant travel to a place they do not belong to and takes the shape of a ghostly horse creature. Their powers in the lands of the living are somewhat more substantial and often involve to weaken mortals and to steal their life force.",
+    "speed": "232",
+    "pushobjects": "yes",
+    "fireDmgMod": "80%",
+    "sounds": [
+        "Close your eyes... I want to show you something.",
+        "I will haunt you forever!",
+        "Pffffrrrrrrrrrrrr.",
+        "I will make you scream.",
+        "Take a ride with me.",
+        "Weeeheeheeeheee!"
+    ],
+    "bestiaryclass": "Magical",
+    "creatureclass": "Demons",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Dreamhaunters",
+    "race_id": "299",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "nightmare",
+    "behaviour": "Runs away at deep red, often using haste then.",
+    "location": "[[Pits of Inferno]], [[Formorgar Mines]], [[Cemetery Quarter]], [[Edron]] (In multiple places during [[The Inquisition Quest]]), [[Alchemist Quarter]], [[Vengoth/Castle|Vengoth Castle]], [[Deeper Banuta]] (small spawn, {{Mapper Coords|127.246|127.116|14|2|text=here}}), [[Krailos Ruins]] and [[Grounds of Deceit]].",
+    "strategy": "Don't try to outrun them, Nightmares are pretty fast, resembling the speed of a [[Level]] 110.  Their [[Creature Spells#Poison Ball|Poisonball]] attack is very strong, and can easily lead to death if you are not paying attention. Try to kill them in such a way that they will trap themselves when they begin to run. They run away when they have less than 300 hp. If you are a mid-to-high level vocation (especially paladins and mages) and you are hunting them at the [[Cemetery Quarter]] avoid getting multiple [[Nightmare Scion]]s while killing a Nightmare as they can combo very hard. If you're blocking a Nightmare and '''one''' [[Nightmare Scion]], try to kill the scion first. But, if the Nightmare is in red [[hp]] try to kill him fast. It is a good idea to bring a [[Terra Amulet]] since it will block 20% of all [[Earth Damage]] and will not wear off fast because nightmares do not [[Poisoned|poison]] you with their attacks.\n\n'''[[Knight]]s:''' Killing Nightmares as a knight has 2 good strategies.\nThe first and easiest way to kill Nightmares is having 2 or more knights of [[Level]] 80 or more simply lure it, then trap it and hit it until it dies.\nThe second way can require a bit more experience, having one knight of [[Level]] 85 or more and a [[Druid]] of [[Level]] 50 or more to [[Heal Friend|Sio]] you. Simply lure the Nightmare, try to trap it, and kill while a druid is healing you. Keep in mind that the Nightmare can rarely hit you for 700 damage in a nasty combo, so it is not a bad idea to bring some potions for the blocker and UHs for the mages to use on the knight. At about [[Level]] 95, [[knight]]s can solo Nightmares with ease. Note: [[Knights]], DO NOT HAVE CHASE OPPONENT ON! YOU CANNOT HEAL ALL THE TIME! If you have chase opponent on you are more likely to run into more creatures and get combo'd. If you are soloing these, try to combo your last attack with a [[Fierce Berserk]], so they don't have time to run away. Also Nightmares have extremely low defense, [[Exori]] attacks are very strong. Their melee is very weak (comparable to a [[Mutated Rat]] or a [[Dragon]]) and they don't have any wave so diagonal isn't necessary.<br />\n\n'''[[Paladin]]s:''' Level 80 recommended. [[Exura San]] at 700-800 hp don't let your hp go lower than 700. [[Royal Spear]]s, [[Enchanted Spear]]s or [[Assassin Star]]s are all that is needed besides 80 [[distance]] and 1 to 10 [[Strong Mana Potion]] per Nightmare and some Strong Health Potions for emergencies.<br />\n\n'''[[Mage]]s:''' Mages of [[Level]] 70+ can solo Nightmares with only [[Ice Strike]] for sorcerers and [[Physical Strike]] for druids, rod or wand and [[Utamo Vita]]. Levels 130+ can kill with just exura and using [[Terra Set]]. Sorcerers also have the option of the [[Robe of the Underworld]] to protect against [[Death Damage]] which is especially helpful if you are hunting in the [[Cemetery Quarter]] and are killing the [[Grim Reaper]]s as well. When it begins to run away at low health, you can use various runes or waves to bring it down (any with non-death damage)."
+}

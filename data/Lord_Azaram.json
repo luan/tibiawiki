@@ -1,0 +1,173 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "{{JSpoiler|It's one of the bosses of [[Grave Danger Quest]].}}",
+    "walksthrough": "Fire, Energy, Poison",
+    "hp": "?",
+    "speed": "?",
+    "abilities": "{{Ability List| {{Melee|0-1000?}}|{{Ability|[[Earth Damage|Rock Beam]]|500-1200?|element=earth}}|{{Ability|[[Earth Damage|Small Poison Wave]]|300-800?|element=earth}}|{{Ability|[[Earth Damage|Large Poison Wave]]|300-800?|element=earth}}|{{Ability|applies [[Hexed|Lesser Hex]] on target|element=hexed}} }}",
+    "pushobjects": "yes",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "110%",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "3000+",
+    "pushable": "no",
+    "implemented": "12.20.8834",
+    "cooldown": "20",
+    "loot": [
+        {
+            "amount": "5",
+            "itemName": "Platinum Coin"
+        },
+        {
+            "amount": "2",
+            "itemName": "Silver Token"
+        },
+        {
+            "amount": "6-20",
+            "itemName": "Ultimate Spirit Potion"
+        },
+        {
+            "amount": "6-14",
+            "itemName": "Ultimate Mana Potion"
+        },
+        {
+            "amount": "6-14",
+            "itemName": "Supreme Health Potion"
+        },
+        {
+            "amount": "10",
+            "itemName": "Bullseye Potion"
+        },
+        {
+            "itemName": "Blue Gem"
+        },
+        {
+            "itemName": "Red Gem"
+        },
+        {
+            "itemName": "Knight Armor"
+        },
+        {
+            "amount": "10",
+            "itemName": "Mastermind Potion"
+        },
+        {
+            "amount": "4",
+            "itemName": "Piece of Hell Steel"
+        },
+        {
+            "itemName": "Yellow Gem"
+        },
+        {
+            "amount": "10",
+            "itemName": "Berserk Potion"
+        },
+        {
+            "itemName": "Collar of Green Plasma"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Green Gem"
+        },
+        {
+            "itemName": "Lightning Headband"
+        },
+        {
+            "itemName": "Ring of Green Plasma"
+        },
+        {
+            "itemName": "Bear Skin"
+        },
+        {
+            "itemName": "Collar of Blue Plasma"
+        },
+        {
+            "itemName": "Crystal Coin"
+        },
+        {
+            "itemName": "Giant Ruby"
+        },
+        {
+            "itemName": "Gold Ingot"
+        },
+        {
+            "itemName": "Violet Gem"
+        },
+        {
+            "itemName": "Young Lich Worm"
+        },
+        {
+            "itemName": "Embrace of Nature"
+        },
+        {
+            "itemName": "Bear Skin"
+        },
+        {
+            "itemName": "Terra Helmet"
+        },
+        {
+            "itemName": "Ancient Liche Bone"
+        },
+        {
+            "itemName": "Rotten Heart"
+        },
+        {
+            "itemName": "Final Judgement"
+        },
+        {
+            "itemName": "Noble Cape"
+        },
+        {
+            "itemName": "Collar of Red Plasma"
+        },
+        {
+            "itemName": "Ring of Blue Plasma"
+        },
+        {
+            "itemName": "Ring of Red Plasma"
+        },
+        {
+            "itemName": "Huge Chunk of Crude Iron"
+        },
+        {
+            "itemName": "Haunted Blade"
+        },
+        {
+            "itemName": "Giant Emerald"
+        },
+        {
+            "itemName": "Giant Sapphire"
+        }
+    ],
+    "walksaround": "None",
+    "exp": "55000",
+    "creatureclass": "The Undead",
+    "earthDmgMod": "-260%",
+    "physicalDmgMod": "100%?",
+    "bosstiaryclass": "Archfoe",
+    "primarytype": "Undead Humanoids",
+    "spawntype": [
+        "Triggered"
+    ],
+    "race_id": "1756",
+    "senseinvis": "yes",
+    "actualname": "Lord Azaram",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Lord Azaram",
+    "isboss": "yes",
+    "behaviour": "Fights in close combat.",
+    "location": "[[Ghostlands]]",
+    "iceDmgMod": "100%?",
+    "strategy": "Attack it with standard attacks until it disappears and [[Azaram's Soul]] appears. When it does, Druids should use [[Mass Healing]] and Sorcerers [[UH]] runes on it. This strategy will work until its health is full, but afterwards you'll have to kill the [[Tainted Soul Splinter]]s and lure [[Azaram's Soul]] over the Purple Fire they become in order to make Lord Azaram appear again. \n\nIts stronger attacks are all waves and beams, so the blocker and the team should always stay diagonal to the boss. \n\n[[File:Grave Danger Quest - Lord Azaram|300px|left]]",
+    "energyDmgMod": "95%",
+    "deathDmgMod": "100%?"
+}

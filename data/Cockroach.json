@@ -1,0 +1,53 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "cockroaches",
+    "hpDrainDmgMod": "100%?",
+    "notes": "This creature is only found on the Tutorial isle of [[Rookgaard]], It is the first creature a newcomer will face, they will learn to loot the creature there, as well. They respawn up to 3 sqm away from where they last died. The spawn time is around 50 seconds. Their corpses can't be moved.",
+    "walksthrough": "None",
+    "hp": "1",
+    "speed": "?",
+    "abilities": "{{Ability List|None}}",
+    "pushobjects": "No",
+    "healMod": "100%?",
+    "paraimmune": "no",
+    "fireDmgMod": "100%?",
+    "holyDmgMod": "100%?",
+    "sounds": [],
+    "maxdmg": "0",
+    "pushable": "Yes",
+    "runsat": "1",
+    "implemented": "8.20",
+    "loot": [
+        {
+            "itemName": "Cockroach Leg",
+            "rarity": "always"
+        }
+    ],
+    "walksaround": "Fire, Energy, Poison",
+    "exp": "0",
+    "creatureclass": "Invertebrates",
+    "earthDmgMod": "100%?",
+    "physicalDmgMod": "100%",
+    "primarytype": "Insects",
+    "spawntype": [
+        "Regular",
+        "Unblockable"
+    ],
+    "race_id": "442",
+    "senseinvis": "no",
+    "article": "a",
+    "actualname": "cockroach",
+    "illusionable": "yes",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Cockroach",
+    "isboss": "no",
+    "location": "Tutorial island.",
+    "iceDmgMod": "100%?",
+    "strategy": "Just attack them, they won't harm you.",
+    "energyDmgMod": "100%?",
+    "deathDmgMod": "100%?",
+    "status": "deprecated"
+}

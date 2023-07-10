@@ -1,0 +1,139 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "two-headed turtles",
+    "hpDrainDmgMod": "100%?",
+    "notes": "<gallery captionalign=\"center\" mode=\"nolines\">\nTwo-headed Turtle Artwork.jpg|Official [[Creature Artwork]]\n</gallery>",
+    "hp": "5010",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "The two-headed turtle has its name for a rather obvious reason: it has two heads. As unusual as this is, the animal is otherwise a common, albeit very large, reptile. It is aquatic and lives mainly in the large reefs around and beneath Marapur. Although it feeds mainly on plants and fish, it can become aggressive and dangerous if you intrude on its territory. The territorial animals do not appreciate visitors. Naga mythology tells, why these turtles have two heads: In the conflict between asuri and nagas, they would not choose one side. While the nagas offered wisdom to the turtles, the asuri offered them food. Indecisive and hesitant, the animals turned their heads back and forth between the two parties so often that they ended up with two heads - and neither food nor wisdom.",
+    "speed": "170",
+    "abilities": "{{Ability List\n |{{Melee|0-391}}\n |{{Ability|Lightning Bomb|266-328|element=energy\n   |scene={{Scene|spell=2sqmballself|effect=Blue Electricity Effect|caster=Two-Headed Turtle|effect_on_caster=yes}}}}\n |{{Ability|Jaw Snap|342-364|element=life drain\n  |scene={{Scene|spell=1sqmballtarget|effect=Ghostly Bite Effect|caster=Two-Headed Turtle}}}}\n |{{Ability|Explosion Strike|231-328|element=physical\n  |scene={{Scene|spell=1sqmstrike|effect=Explosion Effect|caster=Two-Headed Turtle}}}}\n}}",
+    "pushobjects": "yes",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "fireDmgMod": "50%",
+    "holyDmgMod": "100%",
+    "sounds": [
+        "Krk! Krk!",
+        "BONK!"
+    ],
+    "maxdmg": "0",
+    "pushable": "no",
+    "implemented": "12.90.12182",
+    "bestiaryclass": "Reptile",
+    "loot": [
+        {
+            "amount": "1-27",
+            "itemName": "Platinum Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Strong Mana Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Great Health Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Bone",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Two-Headed Turtle Heads",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Hydrophytes",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Giant Shimmering Pearl (Green)",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Terra Amulet",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Glacier Shoes",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Lightning Headband",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Emerald Bangle",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Silver Brooch",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Knight Legs",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Cape",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Spellbook of Enlightenment",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Coral Brooch",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Gemmed Figurine",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Small Tropical Fish",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Gold Nugget",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Clay Lump",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "White Gem",
+            "rarity": "very rare"
+        }
+    ],
+    "exp": "2930",
+    "creatureclass": "Reptiles",
+    "earthDmgMod": "120%",
+    "mitigation": "2.02",
+    "physicalDmgMod": "100%",
+    "primarytype": "Tortoises",
+    "spawntype": [
+        "Unblockable"
+    ],
+    "attacktype": "Melee",
+    "race_id": "2258",
+    "bestiarylevel": "Hard",
+    "senseinvis": "yes",
+    "article": "a",
+    "actualname": "two-headed turtle",
+    "illusionable": "no",
+    "armor": "72",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "bestiaryname": "twoheadedturtle",
+    "name": "Two-Headed Turtle",
+    "isboss": "no",
+    "location": "[[Great Pearl Fan Reef]]",
+    "iceDmgMod": "50%",
+    "energyDmgMod": "90%",
+    "deathDmgMod": "110%"
+}

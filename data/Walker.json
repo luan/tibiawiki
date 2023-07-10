@@ -1,0 +1,109 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "Semi-rare spawn in Oramond. Can be [[Walker (Mount)|tamed]] with a [[Control Unit]]. Its been confirmed that respawn on some places with  a rotative respawn, for example after killing 3 times the respawn {{Mapper Coords|130.244|124.184|12|4|text=here}} (300 vote points required to acces this particular one).<br />\n<gallery position=\"center\" style=\"text-align:center\" captionalign=\"center\" mode=\"nolines\">\nTs5.png|A Walker in Oramond Sewers\n</gallery>",
+    "walksthrough": "Fire, Poison",
+    "hp": "3000",
+    "abilities": "{{Ability List\n |{{Melee|0-175+}}\n |{{Ability|Fire Beam|129-200+|element=fire\n  |scene={{Scene|spell=8sqmbeam|effect=Blast Effect|caster=Walker|look_direction=east}}}}\n |{{Debuff2|Big Red Sparkles Ball around itself|melee=yes|distance=yes|shielding=yes|value=45-55%\n  |scene={{Scene|spell=4sqmball2self|effect=Red Sparkles Effect|caster=Walker|casting_effect=Red Sparkles Effect}}}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "holyDmgMod": "60%",
+    "maxdmg": "?",
+    "pushable": "no",
+    "implemented": "10.50",
+    "loot": [
+        {
+            "amount": "1-199",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "Platinum Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Metal Toe",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Great Health Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Great Spirit Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Small Topaz",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Small Amethyst",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Small Emerald",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Metal Spats",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Gearwheel Chain",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Crystal Mace",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Steel Boots",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Energy",
+    "exp": "2200",
+    "mitigation": "1.62",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "walker",
+    "illusionable": "no",
+    "armor": "47",
+    "convince": "--",
+    "name": "Walker",
+    "isboss": "no",
+    "iceDmgMod": "95%",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "85%",
+    "plural": "walkers",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Uncommon",
+    "bestiarytext": "The walkers were once simple glooth driven machines that required an skilful operator to be used as transports. They were anther application of techniques learned in the creation of the glooth golems and similarly ill understood in their design principles. Yet they were by far more simple and reliable. This all changed when famous inventor Jaccus Maxxen returned from a years long travel through the world. The man that formerly was seen as shy and reclusive if not a bit strange returned as a changed man. People say a strange fire burnt in his eyes, a feverish shimmer that probably foreshadowed the things to come. He never spoke about the things he had seen or learned in his travels. All that he gave away were strange mocking comments about the futility of life and the things that foolish humanity had yet failed to grasp. In his first and last appearance before the conclave of scientists after his return he delivered a feverish speech so full of insults and hatred that he had to be removed after less then five minutes. He retreated into his laboratory never to be seen again. For month there was no contact with the outside world and by day and by night there was a constant noise of work and machinery. After a while the officials became more and more suspicious and sent a task force to bring Maxxen to the conclave. They went to his laboratory and demanded that he came out. After they git now answer they begun to pry the doors open, only to see them trust wide open from inside. What emerged though was not Maxxen himself but a veritable army of riderless walkers that were augmented with additional weaponry. The machines broke through the city guards and left a trail of blood and destruction through the city before they parted and vanished out of the city. Maxxen himself was never found, only a bunch of burned notes remained from him. Some assume that he vanished in the chaos, using one of the walkers as a mount. Others claim the guards found certain gruesome evidence that suggested otherwise but they were forbidden to talk about. The Maxxen walkers are still encountered at different places, seemingly following some discernible agenda. Although they are ordered to be destroyed on sight even after years there is a considerable number of them around so that it is impossible that all remaining walkers are part of the first batch that escaped the laboratory. How and where new autonomous walkers are built is yet another riddle in the strange story of Jaccus Maxxen.",
+    "speed": "150",
+    "pushobjects": "yes",
+    "fireDmgMod": "65%",
+    "sounds": [
+        "*clop clop*",
+        "*slosh*"
+    ],
+    "bestiaryclass": "Construct",
+    "creatureclass": "Misc",
+    "earthDmgMod": "50%",
+    "physicalDmgMod": "95%",
+    "primarytype": "Machines",
+    "spawntype": [
+        "Raid",
+        "Unblockable"
+    ],
+    "race_id": "1043",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "walker",
+    "behaviour": "Aggressive. Fights until death.",
+    "location": "A few spawns in the [[Underground Glooth Factory]] in [[Varying Monster Spawn]]s (for example {{Mapper Coords|130.240|124.189|12|4|text=here}} and {{Mapper Coords|130.240|124.233|12|4|text=here}}), [[Glooth Factory]], and [[Rathleton]] Sewers.",
+    "strategy": "'''[[Knight]]s''' are advised to avoid fighting these creatures, as their very constant [[Skills]] and [[Shielding]] reduction can be a serious problem, specially if [[Rustheap Golem]]s, [[Metal Gargoyle]]s or worse, [[Glooth Golem]]s are also present. If you insist in doing so, stay diagonal to avoid their strong [[Fire Damage|Fire Beam]]."
+}

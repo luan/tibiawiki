@@ -1,0 +1,155 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "{{JSpoiler|Part of [[The Secret Library Quest]].}}",
+    "walksthrough": "?",
+    "hp": "?",
+    "speed": "?",
+    "abilities": "{{Ability List|}}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "-100%",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "?",
+    "pushable": "?",
+    "cooldown": "20",
+    "implemented": "11.80.7048",
+    "loot": [
+        {
+            "itemName": "Knowledgeable Book"
+        },
+        {
+            "itemName": "Ominous Book"
+        },
+        {
+            "itemName": "Sinister Book"
+        },
+        {
+            "amount": "0-3",
+            "itemName": "Crystal Coin"
+        },
+        {
+            "amount": "0-32",
+            "itemName": "Platinum Coin"
+        },
+        {
+            "itemName": "Violet Gem"
+        },
+        {
+            "itemName": "Steel Boots"
+        },
+        {
+            "itemName": "Sulphurous Demonbone"
+        },
+        {
+            "itemName": "Chaos Mace"
+        },
+        {
+            "itemName": "Dreaded Cleaver"
+        },
+        {
+            "itemName": "Wand of Cosmic Energy"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "Bullseye Potion"
+        },
+        {
+            "amount": "0-4",
+            "itemName": "Ultimate Spirit Potion"
+        },
+        {
+            "itemName": "Ultimate Mana Potion"
+        },
+        {
+            "itemName": "Demon Horn"
+        },
+        {
+            "itemName": "Mastermind Potion"
+        },
+        {
+            "itemName": "Slightly Rusted Shield"
+        },
+        {
+            "itemName": "Yellow Gem"
+        },
+        {
+            "itemName": "Stone Skin Amulet"
+        },
+        {
+            "itemName": "Onyx Chip"
+        },
+        {
+            "itemName": "Berserk Potion"
+        },
+        {
+            "itemName": "Small Topaz"
+        },
+        {
+            "itemName": "Silver Token"
+        },
+        {
+            "itemName": "Small Diamond"
+        },
+        {
+            "itemName": "Green Gem"
+        },
+        {
+            "itemName": "Sturdy Book"
+        },
+        {
+            "itemName": "Nightmare Blade"
+        },
+        {
+            "itemName": "Magic Sulphur"
+        },
+        {
+            "itemName": "Small Ruby"
+        },
+        {
+            "itemName": "Curious Matter"
+        },
+        {
+            "itemName": "Supreme Health Potion"
+        },
+        {
+            "itemName": "Gold Token"
+        },
+        {
+            "itemName": "Muck Rod"
+        },
+        {
+            "itemName": "Crown Armor"
+        },
+        {
+            "itemName": "Blue Gem"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "?",
+    "creatureclass": "Demons",
+    "earthDmgMod": "100%",
+    "physicalDmgMod": "100%?",
+    "bosstiaryclass": "Archfoe",
+    "primarytype": "Demons",
+    "race_id": "1591",
+    "senseinvis": "?",
+    "actualname": "Gorzindel",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Gorzindel",
+    "isboss": "yes",
+    "behaviour": "Unknown",
+    "location": "[[The Secret Library]].",
+    "iceDmgMod": "100%?",
+    "strategy": "{{#lsth:The Secret Library Quest/Spoiler|Gorzindel}}",
+    "energyDmgMod": "95%",
+    "deathDmgMod": "100%?"
+}

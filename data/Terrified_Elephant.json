@@ -1,0 +1,80 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "Only appears during the [[Stampede Mini World Change]]. Terrified Elephants are extremely fast when charging (as fast as a [[level]] 200 player), but the [[charge]] only lasts for about 5 seconds, after which they go back to being rather slow.{{JSpoiler|Kill 5 of them to receive the [[achievement]] [[Trail of the Ape God]].}}",
+    "walksthrough": "None",
+    "hp": "320",
+    "abilities": "{{Ability List\n |{{Melee|0-100}}\n |{{Haste|[[Charge]]}}}}",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "holyDmgMod": "100%",
+    "maxdmg": "{{Max Damage|physical=100}}",
+    "pushable": "no",
+    "usedelements": "Physical",
+    "implemented": "9.40",
+    "loot": [
+        {
+            "amount": "1-3",
+            "itemName": "Ham",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-4",
+            "itemName": "Meat",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Tusk",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Tusk Shield",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Fire, Energy, Poison",
+    "exp": "160",
+    "mitigation": "0.41",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "terrified elephant",
+    "illusionable": "no",
+    "armor": "20",
+    "convince": "500",
+    "name": "Terrified Elephant",
+    "isboss": "no",
+    "iceDmgMod": "80%",
+    "energyDmgMod": "110%",
+    "deathDmgMod": "100%",
+    "status": "event",
+    "plural": "terrified elephants",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "speed": "105",
+    "pushobjects": "yes",
+    "fireDmgMod": "100%",
+    "sounds": [
+        "Hooooot-Toooooot!",
+        "Tooooot!",
+        "Trooooot!"
+    ],
+    "runsat": "0",
+    "bestiaryclass": "Mammal",
+    "creatureclass": "Mammals",
+    "earthDmgMod": "100%",
+    "physicalDmgMod": "90%",
+    "primarytype": "Ungulates",
+    "spawntype": [
+        "Regular",
+        "Event"
+    ],
+    "race_id": "771",
+    "bestiarylevel": "Easy",
+    "senseinvis": "no",
+    "drownDmgMod": "100%?",
+    "behaviour": "These creatures will kill monsters and move objects in their way to get to you. They can also [[retarget]].",
+    "location": "East of [[Port Hope]], close to the Deeper [[Banuta]] shortcut, {{Mapper Coords|128.84|127.168|7|2|text=here}}.",
+    "strategy": "'''[[Knight]]s''' should fight them with an one-handed weapon and shield.<br>\n'''[[Paladin]]s''' should attack them from a distance with a one handed weapon and shield, but will not be able to outrun them while they are actively charging. Be careful if running from them once their charge has worn off as you may run into more of them or other creatures like [[Carniphila]] that spawn nearby.\n<br>\n'''[[Mage]]s''' should use their best [[wand]]/[[rod]] and use [[Great Fireball]] or [[Thunderstorm]] if surrounded."
+}

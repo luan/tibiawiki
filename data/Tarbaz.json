@@ -1,0 +1,133 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "Tarbazes",
+    "hpDrainDmgMod": "100%?",
+    "notes": "He's the minion of [[Pumin]].",
+    "walksthrough": "?",
+    "hp": "290000?",
+    "speed": "?",
+    "abilities": "{{Ability List| {{Melee|?}}|{{Ability|Fire Wave|650-850|element=fire}}|{{Ability|Fire Explosion|150-350|element=death}}|{{Ability|Fire Beam|0-?|element=fire}}}}",
+    "pushobjects": "yes",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "100%?",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "1200?",
+    "pushable": "no",
+    "cooldown": "44",
+    "implemented": "10.90",
+    "loot": [
+        {
+            "itemName": "Maimer"
+        },
+        {
+            "itemName": "Shroud of Despair"
+        },
+        {
+            "itemName": "Silver Token",
+            "rarity": "always"
+        },
+        {
+            "itemName": "Platinum Coin"
+        },
+        {
+            "itemName": "Rift Shield"
+        },
+        {
+            "itemName": "Chaos Mace"
+        },
+        {
+            "itemName": "Blue Crystal Shard"
+        },
+        {
+            "itemName": "Great Mana Potion"
+        },
+        {
+            "itemName": "Yellow Gem"
+        },
+        {
+            "itemName": "Green Crystal Shard"
+        },
+        {
+            "itemName": "Gold Coin"
+        },
+        {
+            "itemName": "Flask of Demonic Blood"
+        },
+        {
+            "itemName": "Energy Ring"
+        },
+        {
+            "itemName": "Ultimate Health Potion"
+        },
+        {
+            "itemName": "Underworld Rod"
+        },
+        {
+            "itemName": "Demonic Essence"
+        },
+        {
+            "itemName": "Small Topaz"
+        },
+        {
+            "itemName": "Great Spirit Potion"
+        },
+        {
+            "itemName": "Green Gem"
+        },
+        {
+            "itemName": "Violet Crystal Shard"
+        },
+        {
+            "itemName": "Small Emerald"
+        },
+        {
+            "itemName": "Blue Gem"
+        },
+        {
+            "itemName": "Glacier Kilt"
+        },
+        {
+            "itemName": "Red Gem"
+        },
+        {
+            "itemName": "Small Diamond"
+        },
+        {
+            "itemName": "Glacier Robe"
+        },
+        {
+            "itemName": "Epee"
+        },
+        {
+            "itemName": "Glacier Amulet"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "55000",
+    "creatureclass": "Demons",
+    "earthDmgMod": "100%?",
+    "physicalDmgMod": "100%?",
+    "bosstiaryclass": "Archfoe",
+    "primarytype": "The Ruthless Seven Minions",
+    "race_id": "1188",
+    "senseinvis": "?",
+    "article": "a",
+    "actualname": "Tarbaz",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Tarbaz",
+    "isboss": "yes",
+    "behaviour": "Unknown",
+    "location": "[[Ferumbras' Ascension Quest]] area.",
+    "iceDmgMod": "100%?",
+    "strategy": "Unknown",
+    "energyDmgMod": "100%?",
+    "deathDmgMod": "100%?"
+}

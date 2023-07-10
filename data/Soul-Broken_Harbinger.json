@@ -1,0 +1,116 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "walksthrough": "Poison",
+    "hp": "6300",
+    "abilities": "{{Ability List\n |{{Melee|0-400}}\n |{{Ability|Snowball from distance|0-400|element=ice}}\n |{{Ability|Ice Berserk|100-300|element=ice}}\n |{{Ability|Ice Berserk on target|100-300|element=ice}}\n |{{Ability|Ice Beam|100-300|element=ice}}\n |{{Ability|Reflects Ice Damage|100%|element=ice}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "secondarytype": "Dreamelves",
+    "holyDmgMod": "100%",
+    "maxdmg": "?",
+    "pushable": "no",
+    "implemented": "12.00.7695",
+    "loot": [
+        {
+            "amount": "1-12",
+            "itemName": "Platinum Coin",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "Ice Flower (Item)",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Dream Essence Egg",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Elvish Talisman",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-2?",
+            "itemName": "Glacier Shoes",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Glacier Kilt",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Ice Rapier",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Knight Legs",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Crown Shield",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Tower Shield",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Wood Cape",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Spellbook of Mind Control",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Ring of Blue Plasma",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Collar of Green Plasma",
+            "rarity": "rare"
+        }
+    ],
+    "walksaround": "Fire, Energy",
+    "exp": "5800",
+    "mitigation": "2.08",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "soul-broken harbinger",
+    "illusionable": "no",
+    "armor": "76",
+    "convince": "--",
+    "name": "Soul-Broken Harbinger",
+    "isboss": "no",
+    "iceDmgMod": "45%",
+    "energyDmgMod": "105%",
+    "deathDmgMod": "80%",
+    "plural": "soul-broken harbingers",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "The dream-born are a reclusive race of creatures that are shrouded in mystery. Only recent events led to a contact that shed some light on these peculiar beings. There seem to be two distinctively different kinds of dream-born, that align themselves with either the winter or the summer. Though there are conflicting reports about that alignment, the current theory is that there are two rivaling courts exists though it's still possible that there is just one court that changes in accordance to the seasons. In the few recorded encounters, the dream-born claimed to live in realms that their god created with his dreams. Given their obvious kinship to the common elves it's of course far more likely that they are just descendants of elves that fled the godwars into some kind of pocket dimension. They usually shun outsiders and rarely leave their own realm at all. What little information could be gathered about them suggests a lifestyle akin that of the other elves, though they seem to lack a cast system and have a feudal oriented society. Due to their isolation they developed odd quirks like the overemphasising of seasons, that hints at a primitive, animistic world-view. It's still recommended to improve any contact and further the knowledge about them for the sake of science. All research of their behalves is hampered by what some kind of disease that drives them mad and violent. The dream-born claim that this is caused by 'nightmares' which may hint that a feverish episode is the precursor of this madness. Although this disease seemingly does not spread to other species, it is still recommended to keep these aggressive lunatics at distance. This behavior gives new credit to the old saying: If bitten by an elf, please see your doctor.<br />\nOf all the dream-born who fell prey to the nightmare, the sirens of the winter court retain the most of their original intelligence, abilities and beauty. All the more they are by far the most dangerous of them. Seemingly having accepted their nightmarish visions as reality, they indulge into their madness and become scions of carnage and pain. The only pleasure they know seems to come from the destruction of all that was dear to them in their former lives. Their eerie form of insanity bestows them with a certain aura that even their maddened kin can perceive and that commands their respect. It's a fearsome sight when they command a horde of ravening mad ones with a slight gesture of a finger into a frenzied attack only to join them screaming and slashing within a heartbeat.",
+    "speed": "210",
+    "pushobjects": "yes",
+    "fireDmgMod": "130%",
+    "sounds": [
+        ""
+    ],
+    "bestiaryclass": "Humanoid",
+    "creatureclass": "Humanoids",
+    "earthDmgMod": "100%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Elves",
+    "spawntype": [
+        "Regular"
+    ],
+    "race_id": "1734",
+    "bestiarylevel": "Hard",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "soulbrokenharbinger",
+    "behaviour": "Unknown.",
+    "location": "[[Court of Winter]].",
+    "strategy": "Unknown."
+}

@@ -1,0 +1,129 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "walksthrough": "Energy, Fire, Poison",
+    "hp": "2700",
+    "abilities": "{{Ability List| {{Melee|0-300|element=physical}}|{{Ability|[[Death Damage|Death Beam]]|225-275|element=death}}|{{Ability|[[Physical Damage]] [[Sudden Death]]|330-370}}|{{Ability|[[Earth Damage|Poison Berserk]]|150-250|element=earth}} }}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "secondarytype": "Lycanthropes",
+    "holyDmgMod": "125%",
+    "maxdmg": "1195",
+    "pushable": "no",
+    "implemented": "12.40.9997",
+    "loot": [
+        {
+            "itemName": "Great Health Potion",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Platinum Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Werehyaena Nose",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Small Enchanted Amethyst",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Life Preserver",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Moonlight Crystals",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Red Gem",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Combat Knife",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Yellow Gem",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Halberd",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Red Crystal Fragment",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Axe",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Meat",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Knife",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Green Crystal Fragment",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Ratana",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Werehyaena Talisman",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Werehyaena Trophy",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "None.",
+    "exp": "2200",
+    "mitigation": "0.88",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "werehyaena",
+    "illusionable": "no",
+    "armor": "36",
+    "convince": "--",
+    "name": "Werehyaena",
+    "isboss": "no",
+    "iceDmgMod": "120%",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "100%",
+    "plural": "werehyaenas",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "Werehyaenas are humans under a curse - others claim infected with a disease - that causes them to transform into savage beasts. At the beginning, the transformation only takes place at full moon, and the victim regains its human appearance the next morning. In the course of time, the transformation lasts longer and the full moon is no longer a necessary condition for the transformation. At a certain point, the beast takes over more and more often.<br />\nWerehyaenas are sly and tough, yet not too strong or coordinated. They are predators as well as carrion eaters and their appearance is a mix between a hyaena and a human being. Like hyaenas, Werehyaenas favour warm savannas and deserts as homesteads and are aggressive and cunning.<br />\nThe curse of the Full Moon, as it is frequently called, is usually spread by the infectious bite or scratch of other were-creatures. Forbidden books also tell about methods that allow to turn somebody into a were-creature with the help of dark rites. Some twisted individuals even call the curse upon themselves in the hope of using their new powers to avenge an injustice or insult.",
+    "speed": "120",
+    "pushobjects": "yes",
+    "fireDmgMod": "50%",
+    "sounds": [
+        "Snarl!"
+    ],
+    "runsat": "0",
+    "bestiaryclass": "Lycanthrope",
+    "creatureclass": "Mammals",
+    "earthDmgMod": "60%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Hyaenids",
+    "spawntype": [
+        "Regular"
+    ],
+    "race_id": "1963",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "werehyaena",
+    "location": "[[Darashia Wyrm Hills]] (only during night), [[Hyaena Lairs]].",
+    "strategy": "Unknown."
+}

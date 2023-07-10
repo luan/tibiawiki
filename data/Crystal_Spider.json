@@ -1,0 +1,133 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "They are similar to [[Giant Spider]]s, but have less attack power and more defense. You should be careful with them since they're found most of the time in groups and in small places, also they [[paralyze]] you very often, making it hard to keep distance. Since [[Summer Update 2010]], crystal spiders drop [[Jewelled Backpack]]s.\n\n{{JSpoiler|You may hunt 300 of these as a task of the [[Killing in the Name of... Quest]]. Upon completion of the task you will face [[The Bloodweb]].}}",
+    "walksthrough": "Fire, Poison",
+    "hp": "1250",
+    "abilities": "{{Ability List| {{Melee|0-250|poison=8}}|{{Ability|[[Ice Missile]]|50-100|element=ice}}|{{Ability|[[Paralyze|Paralyzing Ice Bomb]]|element=paralyze}}|{{Ability|[[Paralyze|Paralyzing snowball]]|element=paralyze}}|{{Haste}} }}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "holyDmgMod": "100%",
+    "maxdmg": "358",
+    "pushable": "no",
+    "implemented": "8.00",
+    "loot": [
+        {
+            "amount": "1-197",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Strong Mana Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Plate Armor",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-6",
+            "itemName": "Sniper Arrow",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Crystal Ring",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Crystal Necklace",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Time Ring",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Steel Helmet",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Spider Silk",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Ice Cube",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Crystal Sword",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Glacier Mask",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Knight Armor",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Knight Legs",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Shard",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Jewelled Backpack",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Platinum Amulet",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Sapphire Hammer",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Energy",
+    "exp": "900",
+    "mitigation": "1.60",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "crystal spider",
+    "illusionable": "no",
+    "armor": "43",
+    "convince": "--",
+    "name": "Crystal Spider",
+    "isboss": "no",
+    "iceDmgMod": "0%",
+    "energyDmgMod": "120%",
+    "deathDmgMod": "100%",
+    "plural": "crystal spiders",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "Crystal Spiders are a rare breed. Just like the frost dragons, the Crystal Spiders are also the results of a transformation, probably being descendants of Giant Spiders. However, the Crystal Spider was affected much more heavily than the frost dragon. Its body drastically changed to a crystalline or rather icy consistence, emitting an enormous cold. Its spiderwebs are not made of silk but of concentrated ice which is extremely cold. The cold alone is sufficient to freeze most creatures to the web which therefore does not need a gluey coating. The poison of the spider is like an injection of pure ice. It painfully freezes the flesh and numbs the extremities. The good resistance to cold that many creatures on the Ice Islands possess makes such advantage, however, redundant. For this reason, Crystal Spiders have specialised in hunting warm blooded creatures that are susceptible to their special abilities. This includes humans, elves and dwarfs. It is unknown if Crystal Spiders can survive in warmer climates. If they were able to adapt to warmer environment where much more prey is available that is susceptible to their attacks, they would easily spread through the lands like a plague.",
+    "speed": "115",
+    "pushobjects": "yes",
+    "fireDmgMod": "0%",
+    "sounds": [
+        "Screeech!"
+    ],
+    "bestiaryclass": "Magical",
+    "creatureclass": "Invertebrates",
+    "earthDmgMod": "80%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Arachnids",
+    "spawntype": [
+        "Regular",
+        "Triggered",
+        "Unblockable"
+    ],
+    "race_id": "330",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "crystalspider",
+    "behaviour": "Crystal spiders chase their enemy down and fight until death. Changes target frequently.",
+    "location": "Atop of the [[Formorgar Glacier]] and deep inside [[Formorgar Mines]], [[Frost Dragon Tunnel]], [[Ice Witch Temple]], [[Nibelor Ice Cave]], the Crystal Caves in [[The Inquisition Quest]], [[Mushroom Gardens]], [[Crystal Gardens]].",
+    "strategy": "Watch your step!  They are located in smaller areas along with [[Wyvern]]s, [[Ice Golem]]s and other Crystal Spiders, so you may have trouble outrunning them.  Strike hard and fast with a [[Knight]] blocking and have [[Paladin]]s or [[Mage]]s attacking with offensive spells to dispatch it quickly. Soloing them on a [[Knight]] can be risky. [[Mage]]s should use [[exori vis]] and while druids should use a death rod, sorcerers should use an energy wand. Keep in mind they are similar to [[Giant Spider]]s but use weaker melee attacks and paralyze, so running them is not needed. [[Paladin]]s should keep distance and use [[Ethereal Spear]] to kill them quicker therefore lowering the risk of running into other spawns."
+}

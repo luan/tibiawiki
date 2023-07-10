@@ -1,0 +1,130 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "These strange creatures can be found in a different dimension which can be accessed via a portal in a tower south-west of the [[Zao Steppe]].",
+    "walksthrough": "Fire, Poison",
+    "hp": "1500",
+    "abilities": "{{Ability List\n |{{Melee|0-200}}\n |{{Ability|Poisoning Spit||poisoned}}\n |{{Ability|Life Drain Wave|60-130|lifedrain}}\n |{{Ability|Poison Ball|150-250|earth\n  |scene={{Scene|spell=1sqmballtarget|effect=Poison Effect 2|caster=Yielothax|missile=Earth Missile Effect|missile_direction=south-east|missile_distance=2/2}}}}\n |{{Ability|Mana Drain Wave|50-150|manadrain\n  |scene={{Scene|spell=5sqmwavenarrow|effect=Red Sparkles Effect|caster=Yielothax|look_direction=east}}}}\n |{{Ability|Life Drain beam|100-130?|lifedrain\n   |scene={{Scene|spell=4sqmbeam|effect=Energy Effect|caster=Yielothax|look_direction=east}}}}\n |{{Healing|range=100-150}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "secondarytype": "Crustaceans",
+    "holyDmgMod": "100%",
+    "maxdmg": "{{Max Damage|physical=200|lifedrain=260?|earth=250|manadrain=150}}",
+    "pushable": "No",
+    "implemented": "9.10",
+    "loot": [
+        {
+            "amount": "0-227",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Strong Health Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Strong Mana Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "0-3",
+            "itemName": "Brown Mushroom",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "0-5",
+            "itemName": "Small Diamond",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Might Ring",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Lightning Pendant",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Lightning Legs",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Talon",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Wand of Cosmic Energy",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Epee",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Mastermind Potion",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Shockwave Amulet",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Broken Ring of Ending",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Yielocks",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Yielowax",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Energy",
+    "exp": "1250",
+    "mitigation": "0.99",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "yielothax",
+    "illusionable": "no",
+    "armor": "32",
+    "convince": "--",
+    "name": "Yielothax",
+    "isboss": "no",
+    "iceDmgMod": "105%",
+    "energyDmgMod": "105%",
+    "deathDmgMod": "50%",
+    "plural": "yielothax",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "lightcolor": "59",
+    "occurrence": "Common",
+    "bestiarytext": "It is hard to say when sightings of the Yielothax were first recorded. The creature seemed so bizarre and fantastic that encounters with them probably were dismissed as feverish illusions. That is when such an encounter was survived at all. It is safe to say that the Yielothax are not native to our world. They usually enter our world due to bizarre magical phenomenons, often the result of careless spell casting experiments. Sometimes dimensional travellers encounter them in what was perceived as their home dimension. Newer researches suggest that the Yielothax are an invasive life form that not unlike a swarm of locusts invades and occupies other dimensions or planes of existence while annihilating all native life. Since they change the environment in a certain way, it was often assumed that travellers meeting Yielothax in their 'native' habitat were visiting the same dimension. This was proven wrong by new scientific methods and insights, though. There are heated debates whether the Yielothax is more like carrion eaters, invading dimensions that have become weakened and fading, or if the Yielothax are the reason for the fading of those dimensions. Whatever theory might be true, it is a fact that dimensions in which the Yielothax are encountered in mass become more and more unstable and finally unreachable after a while. It is currently unknown if there is (still) such a thing as the Yielothax' home dimension at all. The Yielothax are very territorial and extremely aggressive to any non-Yielothax life forms. They can reach a surprising speed and attack rapidly, trying to rip their opponent apart. The Yielothax are omnivorous in the truest sense. They eat virtually anything. There are verified reports of Yielothax eating substances like rock, tar and even magic walls. Even if the Yielothax are probably sentient beings, they seem unwilling to communicate with any non-Yielothax life form. Since the rare cases of Yielothax sightings in our dimension are the forerunners of an impending invasion, everyone who encounters Yielothax in our realm is asked to report this to the scientific authorities immediately.",
+    "speed": "150",
+    "pushobjects": "Yes",
+    "fireDmgMod": "75%",
+    "sounds": [
+        "IIEEH!! Iiih iih ih iiih!!!",
+        "Bsssssssm Bssssssm Bsssssssssssm!"
+    ],
+    "lightradius": "5",
+    "runsat": "0",
+    "bestiaryclass": "Extra Dimensional",
+    "creatureclass": "Demons",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "110%",
+    "primarytype": "Demons",
+    "spawntype": [
+        "Regular",
+        "Event"
+    ],
+    "race_id": "717",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "yielothax",
+    "behaviour": "Chases opponent and fights with its powerful melee attack.",
+    "location": "In [[Yielothax Dimension|another dimension]], through a portal in the [[Raging Mage]] tower, southern [[Zao]].",
+    "strategy": "Mages should collect a few of them and shoot [[Explosion Rune]]s, [[Druid]]s complement this with [[Physical Strike]] while [[Sorcerer]]s settle with [[Energy Strike]] or [[Ice Strike]]. [[Paladin]]s run and shoot as usual, [[Burst Arrow]]s might be a good idea if it gets crowded. [[Knight]]s should grab 2-5 and cycle between [[Berserk]], [[Front Sweep]] and [[Fierce Berserk]], and use [[Great Health Potion|Great]] or [[Strong Health Potion]]s to heal. At least level 90 is recommended. All vocations should avoid getting hit by the annoying [[Mana Drain]] wave."
+}

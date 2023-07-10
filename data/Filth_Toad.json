@@ -1,0 +1,77 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "Appears around the lake at any time.",
+    "isarenaboss": "no",
+    "walksthrough": "None",
+    "hp": "185",
+    "abilities": "{{Ability List\n |{{Melee|0-55+|poison=1}}\n |{{Ability|Earth Strike|8-34|element=earth\n  |scene={{Scene|spell=3sqmstrike|effect=Poison Effect 1|caster=Filth Toad|missile=Poison Missile|missile_direction=south-east|missile_distance=3/3}}}}\n |{{Haste}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "holyDmgMod": "100%",
+    "maxdmg": "{{Max Damage|physical=55|earth=35}}",
+    "pushable": "yes",
+    "implemented": "9.10",
+    "loot": [
+        {
+            "amount": "1-24",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Fish",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Poisonous Slime",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Mace",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Two Handed Sword",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Fire, Energy, Poison",
+    "exp": "90",
+    "mitigation": "0.41",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "filth toad",
+    "illusionable": "yes",
+    "armor": "6",
+    "convince": "--",
+    "name": "Filth Toad",
+    "isboss": "no",
+    "iceDmgMod": "80%",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "100%",
+    "plural": "filth toads",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Uncommon",
+    "bestiarytext": "The swamps, bogs and ponds of Tibia are not exactly known to be the cleanest of places. Of course you can also find a lot of frogs, snakes and toads in those areas - but none of them is as vicious as the Filth Toad. It is a creature attracted by extremely dirty waters and it is somewhat tougher than a normal toad. Filth Toads are generally very old and quite possibly they have already fought for their survival since several decades.",
+    "speed": "105",
+    "pushobjects": "yes",
+    "fireDmgMod": "110%",
+    "sounds": [
+        ""
+    ],
+    "bestiaryclass": "Amphibic",
+    "creatureclass": "Amphibians",
+    "earthDmgMod": "80%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Frogs",
+    "race_id": "735",
+    "bestiarylevel": "Easy",
+    "senseinvis": "no",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "filthtoad",
+    "behaviour": "Same as a normal [[Toad]].",
+    "location": "[[Tiquanda]], around [[Lake Equivocolao]].",
+    "strategy": "Same as a normal [[Toad]]. Lower levels should stay away if they cannot outrun them."
+}

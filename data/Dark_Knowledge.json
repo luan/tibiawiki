@@ -1,0 +1,46 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "When it dies, it becomes a [[Parchment of Dark Knowledge]].\n\n{{JSpoiler|Part of [[The Secret Library Quest]].}}",
+    "walksthrough": "?",
+    "hp": "?",
+    "speed": "?",
+    "abilities": "{{Ability List|}}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "100%?",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "?",
+    "pushable": "?",
+    "implemented": "11.80.7048",
+    "loot": [
+        {
+            "itemName": "Parchment of Dark Knowledge"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "0",
+    "creatureclass": "Demons",
+    "earthDmgMod": "100%?",
+    "physicalDmgMod": "100%?",
+    "primarytype": "Possessed Objects",
+    "senseinvis": "?",
+    "actualname": "dark knowledge",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Dark Knowledge",
+    "isboss": "no",
+    "behaviour": "Unknown",
+    "location": "[[Lokathmor]]'s room inside [[The Secret Library]].",
+    "iceDmgMod": "100%?",
+    "strategy": "Destroy it as quickly as possible to use its corpse.",
+    "energyDmgMod": "100%?",
+    "deathDmgMod": "100%?"
+}

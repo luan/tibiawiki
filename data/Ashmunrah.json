@@ -1,0 +1,87 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "0%",
+    "notes": "This [[Pharaoh NPCs|pharaoh]] protects the chamber where you can merge all parts of [[Helmet of the Ancients]]. Has the ability to kill a level 120 knight with 1 strong combo. For a long time, he was considered the only [[Pharaoh]] who does not drop any [[Pharaoh Rares]], until a [[Holy Scarab]] was looted. He will spawn even with players in the room; you can see some animations on the tile in the middle of the room when he is about to spawn.\n\n{{JSpoiler|One of the Pharaohs of [[The Ancient Tombs Quest]].}}",
+    "walksthrough": "Energy",
+    "hp": "5000",
+    "speed": "215",
+    "abilities": "{{Ability List|{{Melee|0-1001+|poison=7}}|{{Ability|Death Hit|0-693+|death}}|{{Ability|Life Drain Wave|0-1000+|lifedrain}}|{{Summon|Green Djinn|4}}|{{Summon|Ancient Scarab|2}}|{{Outfit|no|Ancient Scarab}}|{{Ability|Turns invisible|2 seconds|invisible}}|{{Healing|range=200-450}}}}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "yes",
+    "secondarytype": "Shapeshifters",
+    "fireDmgMod": "105%",
+    "holyDmgMod": "110%",
+    "sounds": [
+        "No mortal or undead will steal my secrets!",
+        "Ahhhh all those long years.",
+        "My traitorous son has thee.",
+        "Come to me, my allys and underlings.",
+        "I might be trapped but not without power",
+        "Ages come, ages go. Ashmunrah remains.",
+        "You will be history soon."
+    ],
+    "maxdmg": "{{Max Damage|physical=1001?|earth=7|death=693?|lifedrain=1000?|summons=1916}}",
+    "pushable": "?",
+    "implemented": "7.3",
+    "loot": [
+        {
+            "amount": "0-319",
+            "itemName": "Gold Coin"
+        },
+        {
+            "itemName": "Great Mana Potion"
+        },
+        {
+            "itemName": "Silver Brooch",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Might Ring",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Crown Armor",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Mini Mummy",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Holy Scarab",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Hammer of Wrath",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Fire, Poison",
+    "exp": "3100",
+    "creatureclass": "The Undead",
+    "earthDmgMod": "75%",
+    "physicalDmgMod": "90%",
+    "bosstiaryclass": "Bane",
+    "primarytype": "Pharaohs",
+    "spawntype": [
+        "Regular",
+        "Unique",
+        "Unblockable"
+    ],
+    "race_id": "91",
+    "senseinvis": "yes",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Ashmunrah",
+    "isboss": "no",
+    "behaviour": "Malicious, will make all efforts to destroy intruders.",
+    "location": "Under the [[Ankrahmun Library Tomb]].",
+    "iceDmgMod": "80%",
+    "strategy": "He uses [[melee]] attack, so use [[blocker]]s to run around him and [[Distance Fighting|distance fighters]] to fire on him. He is guarded by a [[Behemoth]] and 4 [[Ghost]]s. Note that the 4 [[Plaguethrower]]s now shoot as the fences were removed with the summer 2007 update.",
+    "energyDmgMod": "80%",
+    "deathDmgMod": "0%"
+}

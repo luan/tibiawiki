@@ -1,0 +1,57 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "Robby the Reckless",
+    "hpDrainDmgMod": "100%?",
+    "notes": "Part of the [[Bank Robbery Mini World Change]]. Robby is the thief that robs the [[Carlin]] [[bank]].",
+    "walksthrough": "?",
+    "hp": "155",
+    "speed": "?",
+    "abilities": "{{Ability List|}}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "no",
+    "fireDmgMod": "100%?",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        "Banks are meant to be robbed. It's my job!",
+        "That bank chick was trembling in fear. I love it!",
+        "You won't get this gold!",
+        "This is MY gold now!"
+    ],
+    "maxdmg": "Unknown",
+    "pushable": "?",
+    "implemented": "9.40",
+    "loot": [
+        {
+            "amount": "0-100",
+            "itemName": "Platinum Coin"
+        },
+        {
+            "itemName": "Bag with Stolen Gold",
+            "rarity": "always"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "110",
+    "creatureclass": "Humans",
+    "earthDmgMod": "100%?",
+    "physicalDmgMod": "100%?",
+    "bosstiaryclass": "Nemesis",
+    "primarytype": "Outlaws",
+    "race_id": "764",
+    "senseinvis": "yes",
+    "actualname": "Robby the Reckless",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Robby the Reckless",
+    "isboss": "yes",
+    "behaviour": "Appears together with four [[Poacher]]s.",
+    "location": "[[Ghostlands]], {{Mapper Coords|text=here|125.199|124.65|9|4|1|0.250.25}}",
+    "iceDmgMod": "100%?",
+    "strategy": "Just kill him. He's not very strong.",
+    "energyDmgMod": "100%?",
+    "deathDmgMod": "100%?"
+}

@@ -1,0 +1,91 @@
+{
+    "summon": "320",
+    "templateType": "Creature",
+    "notes": "These creatures live in caves and mines. They're commonly used by low level [[knight]]s for training purposes.",
+    "walksthrough": "None",
+    "hp": "90",
+    "abilities": "{{Ability List|{{Melee|0-31}}}}",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "holyDmgMod": "100%",
+    "maxdmg": "{{Max Damage|physical=31}}",
+    "pushable": "Yes",
+    "usedelements": "Physical",
+    "implemented": "6.1",
+    "loot": [
+        {
+            "amount": "0-8",
+            "itemName": "Gold Coin"
+        },
+        {
+            "itemName": "White Mushroom"
+        },
+        {
+            "itemName": "Hatchet"
+        },
+        {
+            "itemName": "Axe"
+        },
+        {
+            "itemName": "Copper Shield"
+        },
+        {
+            "itemName": "Pick"
+        },
+        {
+            "itemName": "Leather Legs"
+        },
+        {
+            "itemName": "Studded Armor"
+        },
+        {
+            "itemName": "Letter"
+        },
+        {
+            "itemName": "Dwarven Ring",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Iron Ore",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Fire, Energy, Poison",
+    "exp": "45",
+    "mitigation": "0.36",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "dwarf",
+    "illusionable": "yes",
+    "armor": "8",
+    "convince": "320",
+    "name": "Dwarf",
+    "isboss": "no",
+    "iceDmgMod": "100%",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "105%",
+    "plural": "dwarfs",
+    "hpDrainDmgMod": "100%",
+    "usespells": "no",
+    "occurrence": "Common",
+    "bestiarytext": "Dwarfs are a very ancient human-like race. Once they were famous all over Tibia for their craftsmanship, but since the War over the Creation they only hide in their fortresses beneath the mountains and have discontinued all contact with humans. They are very suspicious towards any intruder and will vigorously try to repel him from their realms.",
+    "speed": "85",
+    "pushobjects": "No",
+    "fireDmgMod": "105%",
+    "sounds": [
+        "Hail Durin!"
+    ],
+    "runsat": "0",
+    "bestiaryclass": "Humanoid",
+    "creatureclass": "Humanoids",
+    "earthDmgMod": "90%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Dwarves",
+    "race_id": "69",
+    "bestiarylevel": "Easy",
+    "senseinvis": "no",
+    "drownDmgMod": "100%",
+    "bestiaryname": "dwarf",
+    "location": "[[Kazordoon]] [[Dwarf Mines]], [[Dwarf Bridge]], deep [[Elvenbane]], [[Tiquanda Dwarf Cave]], [[Cormaya Dwarf Cave]], [[Island of Destiny]] ([[Knight]]s area), [[Beregar]].",
+    "strategy": "Just attack them but be careful because they are usually found in groups and can be accompanied with [[Dwarf Soldier]]s and [[Dwarf Guard]]s."
+}

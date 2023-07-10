@@ -1,0 +1,89 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "He gets healed every time he steps on [[Stone Tile]] with lizard symbol.",
+    "walksthrough": "?",
+    "hp": "53500",
+    "speed": "?",
+    "abilities": "{{Ability List| {{Melee|0-400+}}|{{Ability|[[Death Hit]]|0-700+|element=death}}|{{Ability|[[Smoke|Smoke Beam]]|0-1100|element=?}}|{{Ability|[[Death Wave]]|0-1200+|element=death}}|{{Ability|[[Earth Damage|Poison Beam]]|0-800+|element=earth}}|{{Summon|Canopic Jar|8}} }}",
+    "pushobjects": "yes",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "100%",
+    "holyDmgMod": "100%",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "?",
+    "pushable": "no",
+    "implemented": "10.50",
+    "loot": [
+        {
+            "amount": "0-200+",
+            "itemName": "Gold Coin"
+        },
+        {
+            "amount": "0-15",
+            "itemName": "Platinum Coin"
+        },
+        {
+            "amount": "0-5",
+            "itemName": "Scarab Coin"
+        },
+        {
+            "amount": "0-5",
+            "itemName": "Black Pearl"
+        },
+        {
+            "amount": "0-5",
+            "itemName": "Great Mana Potion"
+        },
+        {
+            "amount": "0-5",
+            "itemName": "Great Health Potion"
+        },
+        {
+            "itemName": "Ancient Amulet"
+        },
+        {
+            "itemName": "Scarab Shield"
+        },
+        {
+            "itemName": "Silver Brooch"
+        },
+        {
+            "itemName": "Daramian Waraxe",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Rusty Armor"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "14980",
+    "creatureclass": "The Undead",
+    "earthDmgMod": "99%<?",
+    "physicalDmgMod": "100%?",
+    "bosstiaryclass": "Bane",
+    "primarytype": "Pharaohs",
+    "spawntype": [
+        "Unique",
+        "Triggered",
+        "Unblockable"
+    ],
+    "race_id": "1035",
+    "senseinvis": "?",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "The Ravager",
+    "isboss": "yes",
+    "behaviour": "Unknown.",
+    "location": "[[Oramond]], south in the [[Oramond Catacombs]].",
+    "iceDmgMod": "50%",
+    "strategy": "You can only fight this boss in teams of 4. It's recommended that your team consist of exactly 1 knight and 3 shooters. The Ravager spawns with 4 [[Greater Canopic Jar]]s in the room and can summon [[Canopic Jar]]s. Both of these will remain statically positioned but if The Ravager is moved away from the [[Canopic Jar]] he will summon new ones near him. To have any chance of defeating The Ravager, your shooters must defeat all the [[Greater Canopic Jar]]s while the knight forces The Ravager to bring all the [[Canopic Jar]]s closer to him. When all the [[Canopic Jar]]s are bunched together, the knight should move so that The Ravager is out of the healing range of the [[Canopic Jar]]s but is still in the range so that the jars will not despawn. When the positioning has been set up the team should focus on trapping and killing The Ravager. Do not allow him to move when set up. Preferably, the knight will be diagonal to The Ravager, and will have the boss trapped with [[Wild Growth Rune]]s or [[Magic Wall Rune]]s. The shooters should position themselves behind the knight when it is trapped, so that it will not escape the trap to attack another party member.",
+    "energyDmgMod": "90%",
+    "deathDmgMod": "0%"
+}

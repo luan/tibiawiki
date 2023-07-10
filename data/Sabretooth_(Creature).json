@@ -1,0 +1,90 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "<gallery captionalign=\"center\" mode=\"nolines\">\nSabretooth Artwork.jpg|Official [[Creature Artwork]]\n</gallery>",
+    "plural": "sabreteeth",
+    "hpDrainDmgMod": "100%?",
+    "hp": "17300",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "This huge cat would have been an apex predator at any other place. In Gnomeprona it's just another hunter, competing for food and sometimes ending up as such for other, even more vicious predators. Yet the sabretooth adapted quite well to the harsh environment, having numerous litters of kits frequently and being very protective towards their offspring, the predatory cats don't take long to reach adulthood.<br/>The young sabretooth's are extremely agile, fast and stealthy. Still a lot of them fall prey to one of the other primal hunters.<br/>Despite all their abilities and the protection provided by their mother, only a small fraction of them reaches adulthood at all.<br/>A fully grown Sabretooth, however, often lives a long life and has astonishing regenerative abilities that let them survive wounds that would have left other creatures dying or maimed. As such wounds still leave their distinctive marks, some of the more recognizable cats could be re-recognized and thereby verified to reach relatively long life spans. As the first expeditions to Gnomprona are a relatively recent things further date on that matter had to be gathered though.<br/>They tend to have small lairs hidden deeply in thickets and often hunt in small packs. Their hunting habits resemble more that of wolf packs then those of the larger cats on the ground. Now and then they seem to form super packs, in which several packs band together. It's a rare occurrence and seldom witnessed by an observer who lives to tell the tale. In fact it's so rare that it even might be a myth, based on coincidence. Anecdotical tales mention that such packs viciously attack each and everything in its way, bringing down even the most fierce foes by sheer strength in numbers.\nThere are hints that the sabretooth population almost spread to other subterranean areas in the past. Skeletons found in the caves in a wide area around Gnomprona prove, that now and then a sabretooth ventured deep into the surrounding tunnels. Yet as of now there are no verified reports of any other sabretooth populations in other caves explored by dwarfs or gnomes.<br/>There are still persistent rumours about white and blind cave tigers that might be related to more successful descendants of such endeavours by the gnomerean cats.",
+    "speed": "225",
+    "abilities": "{{Ability List\n |{{Melee}}\n |{{Ability|Wide Fire Wave||element=?\n  |scene={{Scene|spell=3sqmwaveultrawide|caster=Sabretooth (Creature)|caster_name=Sabretooth|look_direction=east|effect=Fire Effect}}}}\n}}",
+    "healMod": "100%",
+    "pushobjects": "yes",
+    "paraimmune": "yes",
+    "fireDmgMod": "110%",
+    "holyDmgMod": "100%",
+    "sounds": [
+        ""
+    ],
+    "pushable": "no",
+    "implemented": "12.90.12182",
+    "bestiaryclass": "Mammal",
+    "loot": [
+        {
+            "amount": "1-2",
+            "itemName": "Crystal Coin",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Sabretooth Fur",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Magma Coat",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Wand of Inferno",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Wand of Dragonbreath",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Elven Amulet",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Dragon Necklace",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Fire Sword",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Sacred Tree Amulet",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Metal Spats",
+            "rarity": "semi-rare"
+        }
+    ],
+    "exp": "11931",
+    "earthDmgMod": "110%",
+    "mitigation": "1.62",
+    "physicalDmgMod": "110%",
+    "attacktype": "Melee",
+    "race_id": "2267",
+    "bestiarylevel": "Challenging",
+    "history": "Its experience was decreased from 13,840 to 11,931 on {{OfficialNewsArchive|6875|July 28, 2022}}.\n\nOn [[Updates/12.91.12383|September 06, 2022]] its health points were increased from 15,940 to 17,300.",
+    "senseinvis": "yes",
+    "article": "a",
+    "actualname": "sabretooth",
+    "illusionable": "no",
+    "armor": "63",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "bestiaryname": "sabretooth",
+    "name": "Sabretooth (Creature)",
+    "isboss": "no",
+    "location": "[[Sparkling Pools]]",
+    "iceDmgMod": "110%",
+    "strategy": "Unknown.",
+    "energyDmgMod": "90%",
+    "deathDmgMod": "100%"
+}

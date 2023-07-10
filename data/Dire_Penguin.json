@@ -1,0 +1,74 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "dire penguins",
+    "hpDrainDmgMod": "100%?",
+    "notes": "They generally spawn around other penguins.\n<noinclude><gallery mode=\"nolines\">\nImage:Dire Penguin.jpg|[[Dire Penguin]]s appear unexpectedly in snowy areas.\nImage:Dire Penguin 2.jpg|[[Dire Penguin]]s are also a danger to afk players.\n</gallery></noinclude>",
+    "walksthrough": "None.",
+    "hp": "173",
+    "usespells": "yes",
+    "occurrence": "Very Rare",
+    "speed": "87",
+    "abilities": "{{Ability List\n |{{Melee|0-80}}\n |{{Ability|Explosive Stone|0-35|element=Physical|scene={{Scene|spell=3sqmstrike|effect=Explosion Effect|caster=Dire Penguin|look_direction=|missile=Small Stone Missile|missile_direction=south-east|missile_distance=3/3}}}}\n |{{Ability|Paralyse Bomb|element=slowed|scene={{Scene|spell=2sqmballself|effect=Poof Effect|caster=Dire Penguin|casting_effect=Poof Effect}}}}\n |{{Haste|[[Strong Haste]]}}\n}}",
+    "pushobjects": "Yes",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "fireDmgMod": "50%",
+    "holyDmgMod": "100%",
+    "sounds": [
+        "Grrrrrr"
+    ],
+    "maxdmg": "{{Max Damage|physical=115}}",
+    "pushable": "no",
+    "implemented": "8.00",
+    "bestiaryclass": "Bird",
+    "loot": [
+        {
+            "amount": "0-10",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "amount": "0-4",
+            "itemName": "Fish",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Green Perch",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Rainbow Trout",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Dragon Hammer",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Fire, Energy, Poison",
+    "exp": "119",
+    "creatureclass": "Misc",
+    "earthDmgMod": "50%",
+    "mitigation": "0.59",
+    "physicalDmgMod": "100%",
+    "primarytype": "Birds",
+    "race_id": "335",
+    "attacktype": "Melee",
+    "bestiarylevel": "Easy",
+    "senseinvis": "yes",
+    "article": "a",
+    "actualname": "dire penguin",
+    "illusionable": "no",
+    "armor": "16",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Dire Penguin",
+    "isboss": "no",
+    "behaviour": "Chases the opponent shooting stones and casting paralyze bomb around itself. It moves objects but doesn't kill weaker creatures.",
+    "location": "Many places with [[penguin]]s.\n* Up the [[Formorgar Glacier]] {{Mapper Coords|text=here|125.135|121.127|2|2|1|0.50.5}}, {{Mapper Coords|125.167|121.167|2|2|text=here}} and {{Mapper Coords|text=here|125.142|121.202|2|2|1|0.50.5}}\n* At [[Helheim]], {{Mapper Coords|126.224|121.184|7|2|text=here}}\n* [[Tyrsung]], {{Mapper Coords|126.86|121.236|7|4|text=here}}\n* West of [[Svargrond]] {{Mapper Coords|text=here|125.182|121.184|7|2|1|0.50.5}}, {{Mapper Coords|text=here|125.204|121.237|7|2|1|0.50.5}} and {{Mapper Coords|text=here|125.189|122.13|7|2|1|0.50.5}}\n* Way to [[Chyllfroest]] {{Mapper Coords|text=here|125.72|121.105|7|2|1|0.50.5}}, even though no regular penguins spawn there.\n* North of [[Bittermor]], {{Mapper Coords|124.242|121.205|7|4|text=here}}",
+    "iceDmgMod": "70%",
+    "strategy": "Kill them with melee or use energy based attacks.",
+    "energyDmgMod": "105%",
+    "deathDmgMod": "100%"
+}

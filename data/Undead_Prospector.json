@@ -1,0 +1,99 @@
+{
+    "summon": "440",
+    "templateType": "Creature",
+    "plural": "undead prospectors",
+    "hpDrainDmgMod": "0%",
+    "notes": "They are restless spirits of lost miners haunting a mine in [[Edron]]. Interesting enough, even though their location is connected to quest, everyone can enter the mine and face these creatures. Since they don't have the [[Life Drain]] spell and they heal like Ghouls, these creatures are perfect for training. They were added with the [[Updates/8.54|Christmas Update 2009]].",
+    "walksthrough": "None",
+    "hp": "100",
+    "usespells": "yes",
+    "occurrence": "Uncommon",
+    "speed": "72",
+    "abilities": "{{Ability List|{{Melee|0-50}}|{{Healing}}}}",
+    "pushobjects": "Yes",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "fireDmgMod": "100%",
+    "holyDmgMod": "125%",
+    "sounds": [
+        "Our mine... leave us alone.",
+        "Turn back...",
+        "These mine is ours... you shall not pass."
+    ],
+    "maxdmg": "{{Max Damage|physical=50}}",
+    "pushable": "No",
+    "implemented": "8.54",
+    "bestiaryclass": "Undead",
+    "loot": [
+        {
+            "amount": "0-30",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "amount": "0-6",
+            "itemName": "Worm",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Torch",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Brass Helmet",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Knife",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Scale Armor",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Skull (Item)",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Viking Helmet",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Brown Piece of Cloth",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Life Ring",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Fire, Energy, Poison",
+    "exp": "85",
+    "creatureclass": "The Undead",
+    "earthDmgMod": "80%",
+    "mitigation": "0.43",
+    "physicalDmgMod": "100%",
+    "primarytype": "Undead Humanoids",
+    "spawntype": [
+        "Regular"
+    ],
+    "race_id": "595",
+    "attacktype": "Melee",
+    "bestiarylevel": "Easy",
+    "senseinvis": "no",
+    "article": "an",
+    "actualname": "undead prospector",
+    "illusionable": "yes",
+    "armor": "8",
+    "drownDmgMod": "0%",
+    "convince": "?",
+    "name": "Undead Prospector",
+    "isboss": "no",
+    "behaviour": "In all aspects this creature is almost identical to [[Ghoul]]. So treat Undead Prospector the same as you would treat a normal [[Ghoul]].",
+    "location": "West of [[Edron]], in a some [[Lost Mines]].",
+    "iceDmgMod": "90%",
+    "strategy": "Since they don't appear in packs, they can be killed easily as you would kill a single [[Ghoul]].",
+    "energyDmgMod": "70%",
+    "deathDmgMod": "0%"
+}

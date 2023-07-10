@@ -1,0 +1,66 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "Energy Overlords",
+    "hpDrainDmgMod": "100%?",
+    "notes": "New creature in [[Updates/8.2|Summer Update 2008]].",
+    "isarenaboss": "no",
+    "walksthrough": "?",
+    "hp": "4000",
+    "lightcolor": "203",
+    "speed": "?",
+    "abilities": "{{Ability List| {{Melee|0-200+}}|{{Ability|[[Great Energy Beam]]|0-800+?|element=energy}}|{{Ability|[[Energy Strike]]|0-200+?|element=energy}}|{{Ability|[[Wrath of Nature]]|0-200?|element=?}}|{{Ability||[[Paralyze]]s|element=paralyze}} }}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "secondarytype": "Elemental Lords",
+    "fireDmgMod": "80%",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "1400+",
+    "pushable": "?",
+    "lightradius": "4",
+    "implemented": "8.20",
+    "loot": [
+        {
+            "amount": "0-100?",
+            "itemName": "Gold Coin"
+        },
+        {
+            "amount": "0-3",
+            "itemName": "Platinum Coin"
+        },
+        {
+            "itemName": "Voltage Armor",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Pure Energy",
+            "rarity": "always"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "2800",
+    "creatureclass": "Elementals",
+    "earthDmgMod": "110%",
+    "physicalDmgMod": "50%",
+    "primarytype": "Electro-Elementals",
+    "race_id": "452",
+    "senseinvis": "?",
+    "article": "an",
+    "actualname": "Energy Overlord",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Energy Overlord",
+    "isboss": "yes",
+    "behaviour": "Faster than [[Energy Elemental]]s, but slower than a [[Giant Spider]]. Fights to the death.",
+    "location": "[[The Elemental Spheres Quest]], [[Knight]]'s part - [[Energy Sphere]].",
+    "iceDmgMod": "0%",
+    "strategy": "Stay diagonal, it uses [[Great Energy Beam]] often.<br />\nIt is highly recommended to have 3 [[knight]]s killing in order to break its shield. \nFor solo hunting it is recommended to be level 130+. Use [[Fierce Berserk]] as often as possible as there is a time limit of two minutes inorder to kill it. Remember that with its high resistance to physical attacks, even a skilled knight can only do 150 damage on average with [[Fierce Berserk]]. It's not likely that you can kill more than one within the two minute time frame (if you are sword-wielding 250-level knight and use Tagralt Blade, you can kill up to 3 Energy Overlords at one time). Keep in mind that it paralyzes often with its [[Wrath of Nature]] attack, so its wise to heal every turn so that you can stay diagonal and avoid the lethal energy beam.\n\nSince [[Summer Update 2009]], it always drops [[Pure Energy]].",
+    "energyDmgMod": "0%",
+    "deathDmgMod": "100%?"
+}

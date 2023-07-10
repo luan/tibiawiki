@@ -1,0 +1,64 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "0%",
+    "notes": "You can obtain some [[Vampire Dust]] when you use a [[Blessed Wooden Stake]], also note you need to put 3 [[Garlic Necklace]]s on the counters around the coffin, and click in the coffin to challenge it.",
+    "walksthrough": "?",
+    "hp": "740",
+    "speed": "?",
+    "abilities": "{{Ability List| {{Melee|0-189}}|{{Ability|[[Life Drain]]|0-94|element=lifedrain}}|{{Ability|causes [[Paralysis]]|element=paralyze}}|{{Haste}}|{{Healing}} }}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "yes",
+    "fireDmgMod": "101%>?",
+    "holyDmgMod": "101%>?",
+    "sounds": [
+        "1... 2... 2... Uh, can't concentrate."
+    ],
+    "maxdmg": "283",
+    "pushable": "?",
+    "implemented": "8.20",
+    "loot": [
+        {
+            "amount": "0-92",
+            "itemName": "Gold Coin"
+        },
+        {
+            "itemName": "Skull (Item)"
+        },
+        {
+            "itemName": "Vampire Shield",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "The Ring of the Count",
+            "rarity": "always"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "450",
+    "creatureclass": "The Undead",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "99%<?",
+    "primarytype": "Vampires",
+    "spawntype": [
+        "Unique",
+        "Triggered",
+        "Unblockable"
+    ],
+    "race_id": "444",
+    "senseinvis": "yes",
+    "actualname": "The weakened Count",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "The Weakened Count",
+    "isboss": "yes",
+    "behaviour": "Confronts you in close range combat. Does not run at low health.",
+    "location": "Near [[Blood Herb Quest]].",
+    "iceDmgMod": "100%?",
+    "strategy": "It's like a normal [[Vampire]] so kill it as if you were killing a [[Vampire]].",
+    "energyDmgMod": "100%?",
+    "deathDmgMod": "0%"
+}

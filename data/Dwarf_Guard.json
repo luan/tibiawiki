@@ -1,0 +1,104 @@
+{
+    "summon": "650",
+    "templateType": "Creature",
+    "notes": "The strongest in [[Melee]] of the [[Dwarves]], they also have a high defence. They move items and kill weak creatures in their way.",
+    "walksthrough": "None",
+    "hp": "245",
+    "abilities": "{{Ability List|{{Melee|0-140}}}}",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "holyDmgMod": "100%",
+    "maxdmg": "{{Max Damage|physical=140}}",
+    "pushable": "No",
+    "implemented": "6.1",
+    "loot": [
+        {
+            "amount": "0-30",
+            "itemName": "Gold Coin"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "White Mushroom"
+        },
+        {
+            "itemName": "Leather Boots"
+        },
+        {
+            "itemName": "Scale Armor"
+        },
+        {
+            "itemName": "Battle Shield"
+        },
+        {
+            "itemName": "Battle Hammer",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Steel Helmet",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Double Axe",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Iron Ore",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Health Potion",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Coal",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Axe Ring",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Small Amethyst",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Fire, Energy, Poison",
+    "exp": "165",
+    "mitigation": "1.02",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "dwarf guard",
+    "illusionable": "yes",
+    "armor": "15",
+    "convince": "650",
+    "name": "Dwarf Guard",
+    "isboss": "no",
+    "iceDmgMod": "100%",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "105%",
+    "plural": "dwarf guards",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "no",
+    "occurrence": "Common",
+    "bestiarytext": "Dwarf Guards are a kind of militia among the dwarfs. They are very cunning and strong fighters and know the surroundings quite well. Their strategy is to lure small groups of intruders into traps that they have built using their astonishing craftsmanship.",
+    "speed": "103",
+    "pushobjects": "Yes",
+    "fireDmgMod": "105%",
+    "sounds": [
+        "Hail Durin!"
+    ],
+    "runsat": "0",
+    "bestiaryclass": "Humanoid",
+    "creatureclass": "Humanoids",
+    "earthDmgMod": "80%",
+    "physicalDmgMod": "80%",
+    "primarytype": "Dwarves",
+    "race_id": "70",
+    "bestiarylevel": "Easy",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "dwarfguard",
+    "behaviour": "Dwarf Guards are also known to retarget.",
+    "location": "[[Kazordoon]] [[Dwarf Mines]], [[Dwacatra]], [[Ferngrims Gate]], [[Cyclopolis]], [[Mount Sternum Undead Cave]], [[Stonehome]] [[Rotworm]] cave (near [[Edron]]), [[Maze of Lost Souls]], [[Tiquanda Dwarf Cave]], [[Beregar]], [[Cormaya Dwarf Cave]].",
+    "strategy": "'''[[Knight]]s''': A decent level and with good [[skill]]s are highly recomennded for these [[creatures]]. A level 20+ with 60/60 and with a knight set and dragon shield can kill one of these on defensive fighting, but will lose half of their health, if not healing. A level 45 with 75/75 would be able to kill these with little waste, although 85/85 is the ideal skill range. You might want use [[Berserk]] in case you become surrounded by these.<br>\n\n'''[[Paladin]]s''': Can kill these at low [[level]]s because they are slow and don't have [[Distance Fighting|distance attacks]]. But if you get trapped by other [[creatures]] then you will die fast. Using [[GFB]] should help to prevent this.<br>\n\n'''[[Mage]]s''': Similar to the paladins, using [[wand]]s or [[rod]]s of [[Fire Damage|fire]]/[[death Damage]]. On higher levels, with a good [[magic level]], you should use the level 33+ wands/rods and, if [[Premium Account]] use [[Flame Strike]]. A mage of level 35 and magic level 45 is recommended for those who wish not to waste."
+}

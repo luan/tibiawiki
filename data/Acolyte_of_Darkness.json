@@ -1,0 +1,63 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "Pretty weak, but has better hits in groups. Can only be found during the [[Lightbearer]] event.",
+    "walksthrough": "Fire, Poison",
+    "hp": "325",
+    "abilities": "{{Ability List\n |{{Melee|0-120}}\n |{{Ability|Death Hit|25-30+|element=death\n  |scene={{Scene|spell=3sqmstrike|caster=Acolyte of Darkness|effect=Cloud Effect|missile=Death Missile|missile_direction=south-east|missile_distance=3/3}}}}\n |{{Ability|Death Berserk|5-15|element=death\n  |scene={{Scene|spell=3x3spell|effect=Death Effect|caster=Acolyte of Darkness|effect_on_caster=yes}}}}\n |{{Healing}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "?",
+    "secondarytype": "Event Creatures",
+    "holyDmgMod": "125%",
+    "maxdmg": "120",
+    "pushable": "?",
+    "implemented": "8.50",
+    "loot": [
+        {
+            "itemName": "Midnight Shard",
+            "rarity": "semi-rare"
+        }
+    ],
+    "walksaround": "Energy",
+    "exp": "200",
+    "mitigation": "0.78",
+    "attacktype": "Melee",
+    "article": "an",
+    "actualname": "acolyte of darkness",
+    "illusionable": "no",
+    "armor": "19",
+    "convince": "--",
+    "name": "Acolyte of Darkness",
+    "isboss": "no",
+    "iceDmgMod": "100%",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "0%",
+    "status": "event",
+    "hpDrainDmgMod": "100%",
+    "usespells": "yes",
+    "occurrence": "Very Rare",
+    "speed": "90",
+    "pushobjects": "?",
+    "fireDmgMod": "0%",
+    "sounds": [
+        "Mine is the power of the night!",
+        "You can not hope to stop us all!",
+        "The power of darkness is with me!"
+    ],
+    "bestiaryclass": "Human",
+    "creatureclass": "Humans",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Necromancers",
+    "spawntype": [
+        "Event",
+        "Triggered"
+    ],
+    "race_id": "578",
+    "bestiarylevel": "Easy",
+    "senseinvis": "?",
+    "drownDmgMod": "100%",
+    "behaviour": "Unknown.",
+    "location": "[[Drefia]] around [https://tibia.fandom.com/wiki/Mapper?coords=128.247-126.130-11-2-1-1 the Lightbringer's basin].",
+    "strategy": "Kill it like any weak melee monster."
+}

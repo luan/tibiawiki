@@ -1,0 +1,51 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "sacred snakes",
+    "hpDrainDmgMod": "100%?",
+    "notes": "Similar to the [[Snake]], but it has loot and cannot be pushed by players.",
+    "walksthrough": "?",
+    "hp": "10",
+    "speed": "60",
+    "abilities": "{{Ability List| {{Ability|Same as a [[Snake]]?|element=?}} }}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "110%",
+    "holyDmgMod": "100%",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "?",
+    "pushable": "no",
+    "runsat": "0",
+    "implemented": "10.55",
+    "loot": [
+        {
+            "amount": "1-20",
+            "itemName": "Eggs of a Sacred Snake",
+            "rarity": "always"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "0",
+    "creatureclass": "Reptiles",
+    "earthDmgMod": "60%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Serpents",
+    "race_id": "1084",
+    "senseinvis": "?",
+    "article": "a",
+    "actualname": "sacred snake",
+    "illusionable": "yes",
+    "armor": "0",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Sacred Snake",
+    "isboss": "no",
+    "location": "[[Dawnport]], inside a dungeon at the southern beach.",
+    "iceDmgMod": "110%",
+    "strategy": "None.",
+    "energyDmgMod": "80%",
+    "deathDmgMod": "100%"
+}

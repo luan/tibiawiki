@@ -1,0 +1,102 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "They can only survive in vicinity of water, where they can appear in groups and overwhelm unprepared adventurers. Their corpses become a puddle of water, which can be looted but not moved. You can also [[Fishing|fish]] their fresh corpses to obtain one of the following:\n*Nothing\n*[[Giant Shimmering Pearl]]\n*[[White Pearl]]\n*[[Small Sapphire]]\n*[[Small Emerald]]\n*[[Leviathan's Amulet]]\n{{seealso|Water Elemental/Fishing Statistics}}",
+    "walksthrough": "Fire, Poison",
+    "hp": "550",
+    "abilities": "{{Ability List\n |{{Melee|0-165|poison=3}}\n |{{Ability|Water Explosion|125-235|element=drown\n  |scene={{Scene|spell=plusspelltarget|caster=Water Elemental|effect=Ripple Effect|damage_effect=none|missile=Snowball Missile|missile_direction=south-east|missile_distance=2/2}}}}\n |{{Ability|Icicle|88-150|element=ice\n  |scene={{Scene|spell=5sqmstrike|caster=Water Elemental|effect=Ice Explosion Effect|damage_effect=none|missile=Ice Shard Missile|missile_direction=south-east|missile_distance=5/5}}}}\n |{{Ability|Poisoning Ball|up to 13 [[hitpoints]] per turn|element=poisoned\n  |scene={{Scene|spell=3sqmball2self|caster=Water Elemental|look_direction=south|effect=Poison Effect 3|effect_on_caster=yes|damage_effect=none}}}}\n |{{Healing|range=25-40\n  |scene={{Scene|spell=buffspell|effect=Blue Sparkles Effect|caster=Water Elemental|look_direction=south|effect_on_caster=yes}}}}\n |{{Ability|Paralyze|element=paralyze}}\n |{{Haste}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "holyDmgMod": "50%",
+    "maxdmg": "{{Max Damage|physical=165|earth=13|drown=235|ice=150}}",
+    "pushable": "?",
+    "implemented": "7.8",
+    "loot": [
+        {
+            "amount": "0-100",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Platinum Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Fish",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Strong Health Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Strong Mana Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Small Diamond",
+            "rarity": "semi-rare"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "Small Emerald",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Energy Ring",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Green Perch",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Life Ring",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Rainbow Trout",
+            "rarity": "rare"
+        }
+    ],
+    "walksaround": "Energy",
+    "exp": "650",
+    "mitigation": "0.88",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "water elemental",
+    "illusionable": "yes",
+    "armor": "37",
+    "convince": "--",
+    "name": "Water Elemental",
+    "isboss": "no",
+    "iceDmgMod": "0%",
+    "energyDmgMod": "125%",
+    "deathDmgMod": "50%",
+    "plural": "water elementals",
+    "hpDrainDmgMod": "0%",
+    "usespells": "yes",
+    "lightcolor": "143",
+    "occurrence": "Common",
+    "bestiarytext": "Water Elementals are as powerful as a tidal wave and as moody as the sea that gave birth to them. Their interest in our existence is limited at best and they are usually summoned by sorcerers than materialising on their own. The apparently uncontrolled Water Elementals seem to follow no purpose that we mortals could comprehend. Some sorcerers believe that they react hostile to living creatures because they feel offended by all the water a living creature contains. Although enigmatic in their motivation, they are indisputably intelligent and possess an array of spells that centre around water, poison and cold.",
+    "speed": "115",
+    "pushobjects": "?",
+    "fireDmgMod": "0%",
+    "sounds": [
+        "Splish splash"
+    ],
+    "lightradius": "3",
+    "runsat": "0",
+    "bestiaryclass": "Elemental",
+    "creatureclass": "Elementals",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "70%",
+    "primarytype": "Hydro-Elementals",
+    "race_id": "236",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "drownDmgMod": "0%",
+    "bestiaryname": "waterelemental",
+    "location": "[[Tiquanda/Water Elemental Cave|Water Elemental Cave]] in [[Port Hope]], [[Water Elemental Dungeon]], [[Deeper Banuta]], [[Malada]], [[Ramoa]], [[Talahu]], [[Folda]] (7 spawn on the 3rd floor), [[Outlaw Camp/Water Elemental Dungeon|Water Elemental Cave]] in [[Outlaw Camp]] (only during the [[Down the Drain Mini World Change]]), [[Krailos Steppe]] underwater cave.",
+    "strategy": "If you don't have a [[Helmet of the Deep]], stay away from more than two water elementals, because they will drop lots of [[Hitpoints]] in a single combo. When facing one or two, simply kill as a normal monster. Try run and shoot [[Energy Damage|Energy-Based Attacks]]. Do not be afraid to use [[Thunderstorm Rune]]s or [[Energy Wave]] when facing three or more. If you are a low level [[Knight]], just run away.<br />\n'''All vocations''': Remember to bring your [[Helmet of the Deep]] when hunting these! It blocks 100% of their strongest attack, the water explosion. The heavy weight of the helmet will be easily compensated as it will save you from their most deadly combos.<br />\n'''Knights''': Stay away from these unless you feel like wasting to get fast exp. They are very resistant to physical. Skill rings are strongly recommended. Stay away from groups as you will waste a lot of potions for the mighty combos they deal. Even [[Fierce Berserk|exori gran]] doesn't hit them for that much damage.<br />\n'''Paladins''': Take your best bow, [[Flash Arrow]]s and potions - kill from a distance while being careful to not lure more than two water elementals.<br />\n'''Sorcerers and Druids''': Easy creature for mid to high level mages with good magic level. [[Sorcerer]] should take [[Wand of Starstorm]], when [[Druid]] can take [[Underworld Rod]] or no rod at all. It should usually be all to bring them down in no time. Alternatively use [[HMM]]s to hit them from afar. They drop strong mana potions quite frequently, which will help you hunting for longer time. [[Glacier Set]] will reduce [[Icicle]] damage, but it is not neccesary. You will need to heal after each hit to make sure you don't die to a higher combo."
+}

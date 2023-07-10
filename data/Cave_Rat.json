@@ -1,0 +1,79 @@
+{
+    "summon": "250",
+    "templateType": "Creature",
+    "notes": "They are a bit stronger than [[rat]]s, used by players in training.",
+    "walksthrough": "?",
+    "hp": "30",
+    "abilities": "{{Ability List|{{Melee|0-10}}}}",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "holyDmgMod": "100%",
+    "maxdmg": "{{Max Damage|physical=10}}",
+    "pushable": "yes",
+    "usedelements": "Physical",
+    "implemented": "7.1",
+    "loot": [
+        {
+            "amount": "1-2",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Cheese",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Worm",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Cookie",
+            "rarity": "rare"
+        }
+    ],
+    "walksaround": "Fire, Energy, Poison",
+    "exp": "10",
+    "mitigation": "0.10",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "cave rat",
+    "illusionable": "yes",
+    "armor": "1",
+    "convince": "250",
+    "name": "Cave Rat",
+    "isboss": "no",
+    "iceDmgMod": "100%",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "100%",
+    "plural": "cave rats",
+    "hpDrainDmgMod": "100%",
+    "usespells": "no",
+    "occurrence": "Common",
+    "bestiarytext": "Cave Rats live in deep holes and in dungeons. As they are bigger and more vicious than normal rats, they can be quite dangerous for badly equipped adventurers, especially when they crop up in packs.",
+    "speed": "75",
+    "pushobjects": "no",
+    "fireDmgMod": "110%",
+    "sounds": [
+        "Meep!",
+        "Meeeeep!"
+    ],
+    "runsat": "3",
+    "bestiaryclass": "Mammal",
+    "creatureclass": "Mammals",
+    "earthDmgMod": "100%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Glires",
+    "spawntype": [
+        "Regular",
+        "Raid",
+        "Unblockable"
+    ],
+    "race_id": "56",
+    "bestiarylevel": "Trivial",
+    "senseinvis": "no",
+    "drownDmgMod": "100%",
+    "bestiaryname": "caverat",
+    "location": "Almost everywhere in tibia, they seem to have a nest-like place in [[Greenshore]], a semi-large spawn at the entrance to the Port Hope troll cave and in cave near [[Ankrahmun]] ship. Also appears in [[Thais Raids#Rat Plague in Thais|Rat Plague in Thais]] and [[Rookgaard Raids#Rat Plague in Rookgaard|Rat Plague in Rookgaard]].",
+    "strategy": "'''Any Vocation''': Just attack them.<br>\n'''No Vocation''' ([[Rookgaard]]): They are usually found with groups of [[Rat]]s. Be careful and try to avoid getting trapped by them."
+}

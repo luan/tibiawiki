@@ -1,0 +1,62 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "0%",
+    "notes": "It is not possible to summon him from his coffin without the associated quest.",
+    "walksthrough": "?",
+    "hp": "1250",
+    "speed": "?",
+    "abilities": "{{Ability List| {{Summon|Banshee|1}}|{{Ability|[[Invisibility]]|element=invisible}}|{{Melee|0-420?}}|{{Ability|[[Life Drain]]|element=lifedrain}}|{{Ability|[[Energy Wave|Cloud Wave]]|0-130?|element=energy}} }}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "100%?",
+    "holyDmgMod": "101%>?",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "~500",
+    "pushable": "?",
+    "implemented": "8.20",
+    "loot": [
+        {
+            "amount": "0-94",
+            "itemName": "Gold Coin"
+        },
+        {
+            "amount": "0-1?",
+            "itemName": "Skull (Item)"
+        },
+        {
+            "itemName": "The Ring of the Count",
+            "rarity": "always"
+        },
+        {
+            "itemName": "War Hammer"
+        },
+        {
+            "itemName": "Vampire Shield"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "450",
+    "creatureclass": "The Undead",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "40%<?",
+    "primarytype": "Vampires",
+    "race_id": "443",
+    "senseinvis": "yes",
+    "actualname": "The Count",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "The Count",
+    "isboss": "yes",
+    "behaviour": "Unknown.",
+    "location": "[[Green Claw Swamp]], beneath the [[Blood Herb Quest]] area.",
+    "iceDmgMod": "100%?",
+    "strategy": "Kill him as fast as possible, since he does really high combos (up to 700) when a banshee is summoned. He probably isn't a creature to be hunted. He's strong, dangerous and doesn't drop any valuable item other than a [[Vampire Shield]].\n{{JSpoiler|If you release him and don't kill him, you can not release him again, so you will have to buy [[The Ring of the Count]] from a player or from [[Black Bert]] to continue [[The Inquisition Quest]]. If you put 3 [[garlic necklace]]s on the counters around the buried coffin, you can save yourself a lot of trouble. After that, you use the upper part of the coffin and [[The Weakened Count]] appears (looks the same as regular vampire and causes the same damage). '''This strategy is highly recommended to use!'''}}",
+    "energyDmgMod": "100%?",
+    "deathDmgMod": "0%"
+}

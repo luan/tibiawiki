@@ -1,0 +1,50 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "walksthrough": "?",
+    "hp": "50000",
+    "speed": "?",
+    "abilities": "{{Ability List| {{Melee|0-3000+}} }}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "secondarytype": "Event Creatures",
+    "fireDmgMod": "0%",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "3000+",
+    "pushable": "?",
+    "implemented": "8.50",
+    "loot": [
+        {
+            "amount": "0-56",
+            "itemName": "Gold Coin"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "6000",
+    "creatureclass": "Demons",
+    "earthDmgMod": "100%?",
+    "physicalDmgMod": "100%?",
+    "primarytype": "Demons",
+    "race_id": "571",
+    "senseinvis": "?",
+    "article": "a",
+    "actualname": "gloombringer",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Gloombringer",
+    "isboss": "no",
+    "behaviour": "They chase until death.",
+    "location": "[[Temple of Light]], during certain circumstances in the [[Lightbearer]] event.",
+    "iceDmgMod": "100%?",
+    "strategy": "It is not advised to kill this monster, they are not intended to do so and give bad loot and experience.",
+    "energyDmgMod": "100%?",
+    "deathDmgMod": "100%?",
+    "status": "unavailable"
+}

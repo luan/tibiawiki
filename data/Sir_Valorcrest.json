@@ -1,0 +1,80 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "Spawns with 0-4 [[Vampire]]s, you will notice FAR more vampires close to the stairs than usual at the [[Vampire]] cave when this creature spawns. You can use a [[blessed wooden stake]] on his corpse in order to get [[Vampire Dust]].",
+    "walksthrough": "?",
+    "hp": "1600",
+    "speed": "?",
+    "abilities": "{{Ability List| {{Melee|0-700}}|{{Ability|[[Summon]]s 4 [[Vampire]]s at once|element=summon}}|{{Healing}}|{{Ability|[[Invisibility]]|element=invisible}}|{{Haste}}|{{Ability|makes you [[Drunk]]|element=drunk}} }}",
+    "pushobjects": "yes",
+    "healMod": "100%?",
+    "paraimmune": "yes",
+    "fireDmgMod": "105%",
+    "holyDmgMod": "105%",
+    "sounds": [
+        "I challenge you!",
+        "A battle makes the blood so hot and sweet."
+    ],
+    "maxdmg": "700+ (1300+ with summons)",
+    "pushable": "no",
+    "implemented": "8.20",
+    "loot": [
+        {
+            "amount": "0-93",
+            "itemName": "Gold Coin"
+        },
+        {
+            "amount": "0-5",
+            "itemName": "Platinum Coin"
+        },
+        {
+            "itemName": "Vampire Lord Token",
+            "rarity": "always"
+        },
+        {
+            "itemName": "Skull (Item)"
+        },
+        {
+            "itemName": "Sword Ring"
+        },
+        {
+            "itemName": "Ring of Healing"
+        },
+        {
+            "itemName": "Strong Health Potion"
+        },
+        {
+            "itemName": "Vampire Shield",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Chaos Mace",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Black Pearl"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "1800",
+    "creatureclass": "The Undead",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "45%",
+    "bosstiaryclass": "Nemesis",
+    "primarytype": "Vampires",
+    "race_id": "476",
+    "senseinvis": "yes",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Sir Valorcrest",
+    "isboss": "yes",
+    "behaviour": "Summon as many [[Vampire]]s as he can and tries to kill his enemy with strong melee attacks and makes you [[drunk]]. He fights to the death and doesn't run away in low health - This could be because of the fact that he seems to be a [[Knight]] [[Vampire]] due to his high melee damage, name, and honorable fighting style (Fights to the death).",
+    "location": "[[Edron Undead Cave]] ({{Mapper Coords|129.242|124.24|10|4|text=here}}).",
+    "iceDmgMod": "100%?",
+    "strategy": "'''Knights:''' It IS possible to solo this creature for a knight of level 80+ (it's still not recommended, however) using defensive fighting, [[Great Health Potion]]s and [[Berserk|Exori]], just take around 150-200 [[Great Health Potion]] and about 50-80 [[Mana Potion]]s to do this, because killing him is expensive so do this only if you REALLY want to kill him, in order to do this lure him to the stairs, then make sure he's at melee range and attack him with your best weapon and use [[Berserk|Exori]] as often as you can to deal damage to him and get rid of the [[Vampire]]s surrounding you, as damage will decrease once you kill the [[Vampire]]s that regularly spawn in the cave as you will only have to fight his summons. It's best to make them run away, as they won't respawn and you can focus on fighting Sir Valorcrest, just keep using [[Great Health Potion]]s as often as you can, whether you need them or not, as a strong combo can give you a free trip to the [[Temple]]. If your [[health]] goes below 200 it's recommended to go upstairs to heal and then go back.<br/>\n'''Mages''' should have a blocker and shoot with fire spells, but other elements work too.<br/>\n'''[[Paladin]]s''': Same strategy as mage, blocker and shoot with [[bolts]]/[[Enchanted Spear]]s while using [[Divine Missile]]. <br/>\nHigher [[Level]] [[Knight]] can block it (100+) while a [[Paladin]]/[[Mage]] quickly kill it.",
+    "energyDmgMod": "105%",
+    "deathDmgMod": "0%"
+}

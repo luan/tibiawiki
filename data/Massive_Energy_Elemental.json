@@ -1,0 +1,104 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "This creature can make nasty combo's. In addition they are faster than a hasted [[Giant Spider]]. Not a very profitable creature to hunt, unless you are looking for a pair of [[Lightning Legs]].",
+    "isarenaboss": "no",
+    "walksthrough": "Fire, Energy",
+    "hp": "1100",
+    "abilities": "{{Ability List|{{Melee|0-220}}|{{Ability|Energy Explosion|270-615|energy}}|{{Ability|[[Heavy Magic Missile]]|175-205|energy}}|{{Ability|Spark Bomb on itself|electrifies you 25 [[hp]]/10 turns|electrified}}|{{Healing}}}}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "holyDmgMod": "80%",
+    "maxdmg": "{{Max Damage|physical=220|energy=845}}",
+    "pushable": "?",
+    "implemented": "8.20",
+    "loot": [
+        {
+            "amount": "0-191",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Strong Mana Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Great Mana Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "0-15",
+            "itemName": "Flash Arrow",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Rusted Armor",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "0-3",
+            "itemName": "Small Amethyst",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Spellbook of Warding",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Wand of Starstorm",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Lightning Legs",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Lightning Pendant",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Shockwave Amulet",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Poison",
+    "exp": "950",
+    "mitigation": "1.04",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "massive energy elemental",
+    "illusionable": "no",
+    "armor": "35",
+    "convince": "--",
+    "name": "Massive Energy Elemental",
+    "isboss": "no",
+    "iceDmgMod": "0%",
+    "energyDmgMod": "0%",
+    "deathDmgMod": "80%",
+    "plural": "massive energy elementals",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "lightcolor": "203",
+    "occurrence": "Uncommon",
+    "bestiarytext": "Obviously some of the sparks that are the core of Energy Elementals are significantly more powerful. They accumulate quite deadly and violent storms around them. They are strong and they are fast, and these are the most positive characteristics one can say about them. Massive Energy Elementals prey on every living being to chase and torment it. The Massive Energy Elemental is by far more malicious than its smaller cousin. It enjoys particularly the chase and often uses less power than it has on its disposal to extend the hunt.<br />Massive Energy Elementals often ride on real storms and hurricanes and enjoy the damage and destruction they are causing. Facing a Massive Energy Elemental is like facing a storm itself. They also enjoy to occur in groups and to cause a large path of destruction. You can also see them in greater numbers right before a storm is forming. So it is not surprising that they have always been seen as an evil omen.",
+    "speed": "215",
+    "pushobjects": "?",
+    "fireDmgMod": "0%",
+    "sounds": [
+        ""
+    ],
+    "lightradius": "4",
+    "bestiaryclass": "Elemental",
+    "creatureclass": "Elementals",
+    "earthDmgMod": "105%",
+    "physicalDmgMod": "50%",
+    "primarytype": "Electro-Elementals",
+    "race_id": "456",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "energyelementalmassive",
+    "behaviour": "Same as [[Energy Elemental]].",
+    "location": "North west of [[Ankrahmun]], you must [[Levitate]] {{Mapper Coords|129.25|127.246|7|4|text=here}} to hunt them.",
+    "strategy": "'''Note to all vocations''': Bring [[Parcel]]s and [[Potions]] to hunt them. Wearing energy resistant items will also help. When facing multiple of these elementals, you should use [[Stoneshower]] runes. It is possible to hunt these creatures using the old stairhop-method.<br>\n'''[[Knight]]s''': not good monster to hunt alone, but if you want to solo this, you should use earth-imbued weapons rather than non-imbued weapons. It's better to have a [[Druid]] or [[Sorcerer]] as shooter, using [[Terra Strike]].<br>\n'''[[Paladin]]s''': with a blocker, shoot [[Earth Arrow|Earth]] or [[Envenomed Arrow]]s; if you are taking much damage from their [[Melee]], use [[Assassin Star]]s, a shield, earth runes and the [[Divine Missile]]/[[Divine Caldera]] spell, as both will usually hit more on average than runes due to the vocation's low magic level.<br>\n'''[[Sorcerer]]s''': can use [[Earth]] strike to kill these elementals. Not recommended to hunt these creatures on a sorcerer, as sorcerers lack earth attacks.\n'''[[Druid]]s''': can use [[Earth]] attacks ([[Strong Terra Strike]], [[Terra Wave]], [[Terra Strike]]) to kill these elementals fast. It is possible to hunt them without [[Mana Shield]] if you wear [[Lightning Set]] and your level is above 75. You might need to use [[Haste]] spells if your level is below 90. Keep an eye on your health bar and try to have full hp at all times. Avoid melee attacks."
+}

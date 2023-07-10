@@ -1,0 +1,65 @@
+{
+    "summon": "250",
+    "templateType": "Creature",
+    "notes": "They are the same as [[sheep]], with the exception of their color.<br />{{JSpoiler|To tame this creature as a [[mount]] you have to use [[reins]] on it.}}",
+    "walksthrough": "None",
+    "hp": "20",
+    "abilities": "{{Ability List|None}}",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "holyDmgMod": "100%",
+    "maxdmg": "0",
+    "pushable": "?",
+    "implemented": "6.1",
+    "loot": [
+        {
+            "amount": "1-5",
+            "itemName": "Meat",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Black Wool",
+            "rarity": "rare"
+        }
+    ],
+    "walksaround": "Fire, Energy, Poison",
+    "exp": "0",
+    "mitigation": "0.05",
+    "attacktype": "Melee",
+    "history": "In the early years of Tibia, many myths surrounded the black sheep. They were fairly rare, with only a couple known spawns, the most famous being in the [[Femor Hills]].",
+    "article": "a",
+    "actualname": "black sheep",
+    "illusionable": "yes",
+    "armor": "1",
+    "convince": "250",
+    "name": "Black Sheep",
+    "isboss": "no",
+    "iceDmgMod": "100%",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "100%",
+    "plural": "black sheep",
+    "hpDrainDmgMod": "100%",
+    "usespells": "no",
+    "occurrence": "Uncommon",
+    "speed": "58",
+    "pushobjects": "?",
+    "fireDmgMod": "105%",
+    "sounds": [
+        "Maeh"
+    ],
+    "bestiaryclass": "Mammal",
+    "creatureclass": "Mammals",
+    "earthDmgMod": "100%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Ungulates",
+    "spawntype": [
+        "Regular"
+    ],
+    "race_id": "13",
+    "bestiarylevel": "Trivial",
+    "senseinvis": "no",
+    "drownDmgMod": "100%",
+    "behaviour": "Black sheep will always run.",
+    "location": "[[Femor Hills]] ({{Mapper Coords|127.88|124.58|4|4|text=here}}), cultist cave in [[Liberty Bay]] ({{Mapper Coords|126.192|127.255|7|2|text=here}}), [[Drefia]]",
+    "strategy": "Just attack them, they are slow."
+}

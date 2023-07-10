@@ -1,0 +1,136 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "They live underground and only show up on the surface during the night.",
+    "plural": "dark fauns",
+    "hpDrainDmgMod": "100%?",
+    "hp": "1100",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "Dark Fauns are stronger and more aggressive than common [[Faun]]s.",
+    "speed": "108",
+    "abilities": "{{Ability List\n |{{Melee|0-450}}\n |{{Ability|Earth Strike|76-105|element=earth\n  |scene={{Scene|spell=2sqmstrike|damage_effect=Poison Effect 1|effect=Stone Shower Effect|missile=Small Stone Missile|missile_direction=south-east|missile_distance=2/2}}}}\n |{{Ability|throws [[Leaf Star]]s|0-115|element=physical\n  |scene={{Scene|spell=2sqmstrike|effect_on_target=Green Smoke Effect|missile=Leaf Star Missile|missile_direction=south-east|missile_distance=2/2}}}}\n |{{Ability|Purple Notes Wave|causes [[drunkenness]] for 5 seconds|element=drunk\n  |scene={{Scene|spell=5sqmwavewide3|effect=Purple Notes Effect|caster=Dark Faun|look_direction=east}}}}\n |{{Healing|range=80-115}}\n |{{Haste}}\n |{{Ability|Green Note|unknown|element=?\n  |scene={{Scene|spell=buffspell|effect=Green Notes Effect|caster=Dark Faun|effect_on_caster=yes}}}}\n}}",
+    "healMod": "100%",
+    "pushobjects": "yes",
+    "paraimmune": "no",
+    "fireDmgMod": "105%",
+    "holyDmgMod": "110%",
+    "sounds": [
+        "This will be your last dance!",
+        "This is a nightmare and you won't wake up!",
+        "Blood, fight and rage!",
+        "You're a threat to this realm! You have to die!"
+    ],
+    "maxdmg": "~670",
+    "pushable": "no",
+    "runsat": "0",
+    "implemented": "11.40.5409",
+    "bestiaryclass": "Fey",
+    "loot": [
+        {
+            "amount": "0-149",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "Strong Health Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Goat Grass",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "Cave Turnip",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Shimmering Beetles",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Fairy Wings",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "0-8",
+            "itemName": "Leaf Star",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "Great Health Potion",
+            "rarity": "semi-rare"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "Small Enchanted Sapphire",
+            "rarity": "semi-rare"
+        },
+        {
+            "amount": "0-5",
+            "itemName": "Small Stone",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Panpipes",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Wood Cape",
+            "rarity": "semi-rare"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "Dark Mushroom",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Prismatic Quartz",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Leaf Legs",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Mandrake",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Die",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Wooden Spellbook",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Energy\nFire\nPoison",
+    "exp": "900",
+    "creatureclass": "Humanoids",
+    "earthDmgMod": "30%",
+    "mitigation": "1.21",
+    "physicalDmgMod": "90%",
+    "primarytype": "Fae",
+    "attacktype": "Melee",
+    "race_id": "1496",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "article": "a",
+    "actualname": "dark faun",
+    "illusionable": "no",
+    "armor": "50",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "bestiaryname": "darkfaun",
+    "name": "Dark Faun",
+    "isboss": "no",
+    "location": "[[Feyrist]] (nighttime) and its underground (all day).",
+    "iceDmgMod": "100%",
+    "strategy": "Avoid its melee hit, which is a Dark Faun's strongest attack and can easily combo a level 200 mage if more than one is present.",
+    "energyDmgMod": "110%",
+    "deathDmgMod": "60%"
+}

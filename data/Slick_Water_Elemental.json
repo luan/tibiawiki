@@ -1,0 +1,59 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "slick water elementals",
+    "hpDrainDmgMod": "100%?",
+    "walksthrough": "Fire, Poison",
+    "hp": "550",
+    "speed": "?",
+    "abilities": "{{Ability List\n |{{Melee|0-175+}}\n |{{Ability|Drown Explosion|180-242+|element=drown\n  |scene={{Scene|spell=plusspelltarget|caster=Slick Water Elemental|look_direction=south|effect=Ripple Effect|missile=Snowball Missile|missile_direction=south-east|missile_distance=2/2}}}}\n |{{Ability|Ice Missile|78-120|element=ice\n  |scene={{Scene|spell=7sqmstrike|caster=Slick Water Elemental|look_direction=south|effect=Ice Explosion Effect|missile=Ice Shard Missile|missile_direction=south-east|missile_distance=7/7}}}}\n |{{Ability|Poisoning Ball|up to 12[[hp]]/turn|element=poisoned\n   |scene={{Scene|spell=3sqmball2self|effect=Poison Effect 3|caster=Slick Water Elemental|look_direction=south|effect_on_caster=yes}}}}\n |{{Healing|range=31-35\n  |scene={{Scene|spell=buffspell|effect=Blue Sparkles Effect|caster=Slick Water Elemental|look_direction=south|effect_on_caster=yes}}}}\n}}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "yes",
+    "fireDmgMod": "0%",
+    "holyDmgMod": "60%",
+    "sounds": [
+        "BLUUUUB",
+        "SPLISH SPLASH"
+    ],
+    "maxdmg": "542+",
+    "pushable": "?",
+    "implemented": "8.20",
+    "loot": [
+        {
+            "amount": "0-130",
+            "itemName": "Gold Coin"
+        },
+        {
+            "itemName": "Iced Soil",
+            "rarity": "semi-rare"
+        },
+        {
+            "amount": "0-3",
+            "itemName": "Shiver Arrow",
+            "rarity": "semi-rare"
+        }
+    ],
+    "walksaround": "Energy",
+    "exp": "450",
+    "creatureclass": "Elementals",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "55%",
+    "primarytype": "Hydro-Elementals",
+    "race_id": "473",
+    "senseinvis": "yes",
+    "article": "a",
+    "actualname": "slick water elemental",
+    "illusionable": "yes",
+    "armor": "?",
+    "drownDmgMod": "0%",
+    "convince": "--",
+    "name": "Slick Water Elemental",
+    "isboss": "no",
+    "behaviour": "'''Slick Water Elementals''' fight until death.",
+    "location": "[[The Elemental Spheres Quest]], [[Paladin]]'s part - [[Ice Sphere]].",
+    "iceDmgMod": "0%",
+    "strategy": "If you don't mind using 210 cap you can use [[Helmet of the Deep]] to block water based attack. '''[[Paladin]]s''': You can hunt these easily using a combination of [[Enchanted Spear]]/[[Assassin Star]] and [[Divine Missile]]. Simply treat this as you would treat a [[Water Elemental]].",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "99%<?"
+}

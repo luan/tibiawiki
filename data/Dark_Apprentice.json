@@ -1,0 +1,90 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "New creature in the [[Winter Update 2007]]. They seem to be a parody of low [[level]] [[Sorcerers]]. Note that if they turn you into a cyclops or a broom they will cancel your invisibility and dismount you.",
+    "walksthrough": "None",
+    "hp": "225",
+    "abilities": "{{Ability List\n |{{Melee|0-30}}\n |{{Ability|Throws small stones|0-24|physical\n  |scene={{Scene|spell=7sqmstrike|caster=Dark Apprentice|missile=Small Stone Missile|missile_direction=south-east|missile_distance=7/7|effect=None}}}}\n |{{Ability|Energy Missile|10-20|energy\n  |scene={{Scene|spell=7sqmstrike|caster=Dark Apprentice|missile=Energy Missile|missile_direction=south-east|missile_distance=7/7|effect=Blue Electricity Effect}}}}\n |{{Ability|Fire Missile|2-26|fire\n  |scene={{Scene|spell=7sqmstrike|caster=Dark Apprentice|missile=Fire Missile|missile_direction=south-east|missile_distance=7/7|effect=Fire Effect}}}}\n |{{Healing|range=10-40|scene={{Scene|spell=buffspell|effect=Green Sparkles Effect|caster=Dark Apprentice|effect_on_caster=yes}}}}\n |{{Outfit|yes|Broom|scene={{Scene|spell=3sqmball2self|effect=Blue Sparkles Effect|caster=Dark Apprentice|effect_on_caster=yes}}}}\n |{{Outfit|yes|Cyclops|scene={{Scene|spell=7sqmstrike|caster=Dark Apprentice|missile=Energy Missile|missile_direction=south-east|missile_distance=7/7|effect=Blue Sparkles Effect}}}}\n |{{Outfit|no|Green Frog|scene={{Scene|spell=buffspell|effect=Green Sparkles Effect|caster=Dark Apprentice|effect_on_caster=yes}}}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "holyDmgMod": "100%",
+    "maxdmg": "{{Max Damage|physical=54|fire=26|energy=20}}",
+    "pushable": "No",
+    "implemented": "8.10",
+    "loot": [
+        {
+            "amount": "0-45",
+            "itemName": "Gold Coin"
+        },
+        {
+            "amount": "0-3",
+            "itemName": "Blank Rune",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Dead Frog (Item)",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Health Potion",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Mana Potion",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Wand of Dragonbreath",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Wand of Decay",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Reins",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Fire, Energy, Poison",
+    "exp": "100",
+    "mitigation": "0.30",
+    "attacktype": "Distance",
+    "article": "a",
+    "actualname": "dark apprentice",
+    "illusionable": "no",
+    "armor": "16",
+    "convince": "--",
+    "name": "Dark Apprentice",
+    "isboss": "no",
+    "iceDmgMod": "100%",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "105%",
+    "plural": "dark apprentices",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "Some of the fallen dark magicians take their apprentices with them when being cast out of the magic orders. Others take apprentices later to have compliant henchmen at their disposal. The Dark Apprentices are nothing than a shadow of their masters who greedily hide their secrets and only share small parts of their knowledge if there is no choice. Kept in line by the promise to gain forbidden knowledge and parts of their master's power, they are just as scrupulous as their masters. Sometimes a dark magician has several apprentices and enjoys their rivalry for his attention. This way, the Dark Apprentices usually focus their scheming minds on other apprentices instead on their master. Being constantly treated badly by their masters, they use every opportunity to demonstrate their own malice over other beings. Usually more ambitious than competent,  they are minor threats only. However, several apprentices that are trying to support and impress their master can still be fatal for badly prepared adventurers though.",
+    "speed": "86",
+    "pushobjects": "Yes",
+    "fireDmgMod": "100%",
+    "sounds": [
+        "Outch!",
+        "I must dispose of my masters enemies!",
+        "Oops, I did it again.",
+        "From the spirits that I called Sir, deliver me!"
+    ],
+    "bestiaryclass": "Human",
+    "creatureclass": "Humans",
+    "earthDmgMod": "100%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Sorcerers",
+    "race_id": "372",
+    "bestiarylevel": "Easy",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "darkapprentice",
+    "behaviour": "Keeps distance from the opponent.",
+    "location": "[[Magician Tower]], [[Dark Cathedral]], [[Hero Cave]], [[Magician Quarter]]",
+    "strategy": "Be sure to kill the [[Dark Magician]]s first when they are together. Consider them as a stronger bandit. As a knight, you can kill one with skills 55/55."
+}

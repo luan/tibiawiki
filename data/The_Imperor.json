@@ -1,0 +1,105 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "The Imperor is the [[Diabolic Imp]] boss. It was killed first time on [[Solera]], later on [[Pacera]] and [[Refugia]].\n<noinclude><gallery mode=\"nolines\">\nImage:Imperor2.png|[[The Imperor's Trident]] on [[Refugia]].\nImage:Imperor.jpg|The Imperor in action on [[Harmonia]].\n</gallery></noinclude>",
+    "walksthrough": "?",
+    "hp": "15000",
+    "speed": "?",
+    "abilities": "{{Ability List|{{Melee|0-500}}|{{Summon|Diabolic Imp|2}}|{{Healing}}|{{Ability|[[Great Fireball]]|100-800|element=fire}}|{{Ability|Fire Hit|100-800|element=fire}}|{{Ability|[[Fire Bomb]]|element=fire}}|{{Ability|[[Fire Wave]]|?|element=fire}}|{{Ability|Some kind of energy bomb around itself with unknown effect|element=?}} }}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "yes",
+    "fireDmgMod": "0%",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        "Poke! Poke! <chuckle>",
+        "Let me tickle you with my trident!",
+        "I am so bad today"
+    ],
+    "maxdmg": "2000?",
+    "pushable": "?",
+    "implemented": "7.9",
+    "loot": [
+        {
+            "amount": "0-150",
+            "itemName": "Gold Coin"
+        },
+        {
+            "amount": "0-3",
+            "itemName": "Platinum Coin"
+        },
+        {
+            "itemName": "Demonic Essence"
+        },
+        {
+            "itemName": "Soul Orb"
+        },
+        {
+            "amount": "0-4",
+            "itemName": "Small Amethyst"
+        },
+        {
+            "itemName": "Fire Axe"
+        },
+        {
+            "itemName": "Crown Legs"
+        },
+        {
+            "itemName": "Pitchfork"
+        },
+        {
+            "itemName": "Guardian Shield"
+        },
+        {
+            "itemName": "Golden Legs"
+        },
+        {
+            "itemName": "Magma Coat"
+        },
+        {
+            "itemName": "Demonbone Amulet"
+        },
+        {
+            "itemName": "Death Ring"
+        },
+        {
+            "amount": "0-4",
+            "itemName": "Small Ruby"
+        },
+        {
+            "itemName": "The Imperor's Trident",
+            "rarity": "always"
+        },
+        {
+            "itemName": "Tempest Shield",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "8000",
+    "creatureclass": "Demons",
+    "earthDmgMod": "100%?",
+    "physicalDmgMod": "100%?",
+    "bosstiaryclass": "Nemesis",
+    "primarytype": "Imps",
+    "spawntype": [
+        "Raid",
+        "Unique",
+        "Unblockable"
+    ],
+    "race_id": "304",
+    "senseinvis": "yes",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "The Imperor",
+    "isboss": "yes",
+    "behaviour": "It moves extremely fast, and it spams you with all kinds of hits.",
+    "location": "[[Pits of Inferno]] in [[Infernatil]]'s Throneroom.",
+    "iceDmgMod": "100%?",
+    "strategy": "Trap it in a corner and SD it really quickly. Avoid letting it escape, you will get lured in really big spawns. When it heals it can do really high damage together with the normal spawn when it starts with attacking again.",
+    "energyDmgMod": "100%?",
+    "deathDmgMod": "100%?"
+}

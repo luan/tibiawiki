@@ -1,0 +1,91 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "They appeared in the [[Thais Raids#Primitive raid on Thais|raids of Primitives]]. These raids no longer exist as they were a special raid to celebrate [[Tibia's 10th Anniversary]].",
+    "walksthrough": "?",
+    "hp": "200",
+    "speed": "?",
+    "abilities": "{{Ability List\n |{{Melee|0-35}}\n |{{Ability|Creates Fire Fields|element=fire field|scene={{Scene|spell=plusspelltarget|effect=Fire|caster=Primitive|missile=Fire Missile|missile_direction=south-east|missile_distance=2/2|effect_on_target=Fire}}}}\n |{{Ability|Bubble Berserk|element=drunk\n  |scene={{Scene|spell=3x3spell|caster=Primitive|look_direction=south|effect=Bubbles Effect|effect_on_caster=yes}}}}\n |{{Outfit|yes|Primitive|scene={{Scene|spell=2sqmballself|caster=Primitive|look_direction=south|effect=Confetti Effect|effect_on_caster=yes}}}}\n |{{Ability|Firework Missile|element=none\n  |scene={{Scene|spell=2sqmstrike|caster=Primitive|look_direction=south|effect_on_target=Yellow Confetti Effect|missile=Fire Missile|missile_direction=south-east|missile_distance=2/2}}}}\n |{{Healing|scene={{Scene|spell=buffspell|effect=Blue Sparkles Effect|caster=Primitive|look_direction=south|effect_on_caster=yes}}}}\n |{{Haste|scene={{Scene|spell=buffspell|effect=Red Sparkles Effect|caster=Primitive|look_direction=south|effect_on_caster=yes}}}}\n}}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "no",
+    "secondarytype": "Outlaws",
+    "fireDmgMod": "0%",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        "We don't need a future!",
+        "I'll rook you all!",
+        "They thought they'd beaten us!",
+        "You are history!",
+        "There can only be one world!",
+        "Guido who?",
+        "Die noob!",
+        "There are no dragons!",
+        "I'll quit forever! Again ...",
+        "You all are noobs!",
+        "Beware of the cyclops!",
+        "Just had a disconnect.",
+        "Magic is only good for girls!",
+        "We'll be back!",
+        "I need some vitamins!",
+        "Uh, I can't hear anymore. I am deaf!",
+        "They've ruined it! I can't cheat anymore!",
+        "This world is ours!",
+        "Back to the roots!",
+        "Kill all magic users!"
+    ],
+    "maxdmg": "90",
+    "pushable": "?",
+    "implemented": "7.92",
+    "loot": [
+        {
+            "amount": "0-10",
+            "itemName": "Gold Coin"
+        },
+        {
+            "itemName": "Studded Shield"
+        },
+        {
+            "itemName": "Studded Helmet"
+        },
+        {
+            "itemName": "Studded Armor"
+        },
+        {
+            "itemName": "Axe"
+        },
+        {
+            "itemName": "Sabre"
+        },
+        {
+            "itemName": "Surprise Bag (Blue)"
+        },
+        {
+            "itemName": "Surprise Bag (Red)",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "45",
+    "creatureclass": "Special",
+    "earthDmgMod": "100%?",
+    "physicalDmgMod": "100%?",
+    "primarytype": "Event Creatures",
+    "senseinvis": "no",
+    "article": "a",
+    "actualname": "primitive",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Primitive",
+    "isboss": "no",
+    "behaviour": "Runs in low [[hp|health]] and has a random selection order of attacks.",
+    "location": "Raid on [[Thais]].",
+    "iceDmgMod": "100%?",
+    "strategy": "Use melee attacks or [[Force Strike]] and watch out for the fire bombs, especially in the raids where there are several of them.",
+    "energyDmgMod": "0%",
+    "deathDmgMod": "100%?",
+    "status": "deprecated"
+}

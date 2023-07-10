@@ -1,0 +1,107 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "cave devourers",
+    "hpDrainDmgMod": "100%",
+    "walksthrough": "?",
+    "hp": "4500",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "While we can only make vague assumptions how the deepest depths of the world might look like, it's inhabitants that were encountered in service of those below, might hint at a hostile environment in which predatory species rout our the weak and survival of the fittest takes place in extremes. The devourer is an extraordinary example of such principles. It is living machine of teeth and muscle, ready to chew and devour everything in its path. The sheer appetite of the devourer seems absurd to a level that borders magical abilities. Dwarfs claim, that devourers were observed that devoured piles of rocks, five times of more mass then themselves, without changing size of mass on their own. This lead to over the top tales of dwarfish explorers that assume that the individual devourers are just remote parts of a bigger organism that is magically connected to them and feeding on all that his remote maws devour. Wherever these stories came from, they have spread through the dwarfen troops and handled as common knowledge. There is yet no scientific evidence of such claims and attempts to capture a devourer only lead to the entrapped devourer turning it inside out, devouring itself, so to say and dying. Devourers diet seems to contain of everything. When left alone they devour minerals, though they don't tend to burrow tunnels while eating and rely instead on loose rocks. Given their appetite, it's remarkable, that they actually can concentrate on battle when needed and put their hunger aside for a while. When the battle is done though they scour the battlefield for corpses and everything that is too wounded to fight back. The dwarfs that fought them the most have another tale about them, claiming the devourers developed a special taste for rust and seem to see it as a delicacy. \nThe devourers eternal hunger seems to rule all their actions so they know no fear or mercy in battle. They are constantly biting and gnawing, and almost enthusiastically employ this in battle to mangle their enemies.",
+    "speed": "120",
+    "abilities": "{{Ability List|}}",
+    "healMod": "100%",
+    "pushobjects": "yes",
+    "paraimmune": "no",
+    "fireDmgMod": "120%",
+    "holyDmgMod": "100%",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "?",
+    "pushable": "no",
+    "implemented": "11.50.6055",
+    "bestiaryclass": "Vermin",
+    "loot": [
+        {
+            "itemName": "Cave Devourer Eyes",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Cave Devourer Maw",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Small Enchanted Sapphire",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Small Enchanted Ruby",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-40",
+            "itemName": "Crystalline Arrow",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Blue Crystal Shard",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Green Crystal Shard",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Cyan Crystal Fragment",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-4",
+            "itemName": "Slime Heart",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Cave Devourer Legs",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Violet Crystal Shard",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Stealth Ring",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Suspicious Device",
+            "rarity": "semi-rare"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "2380",
+    "creatureclass": "Elementals",
+    "earthDmgMod": "100%",
+    "mitigation": "2.02",
+    "physicalDmgMod": "100%",
+    "primarytype": "Bio-Elementals",
+    "attacktype": "Melee",
+    "race_id": "1544",
+    "bestiarylevel": "Hard",
+    "history": "Its loot was changed on {{OfficialNewsArchive|4411|December 7, 2017}}.\n\nOn {{OfficialNewsArchive|4592|April 18, 2018}}, its HP was increase from 4200 to 5400 in order to increase its strength.\n\nIts experience was decreased from 2800 to 2380 with the eighth batch of changes of [[Updates/12.31|Update 12.31]].",
+    "senseinvis": "yes",
+    "article": "a",
+    "actualname": "cave devourer",
+    "illusionable": "no",
+    "armor": "70",
+    "drownDmgMod": "100%",
+    "convince": "305",
+    "bestiaryname": "cavedevourer",
+    "name": "Cave Devourer",
+    "isboss": "no",
+    "location": "[[Warzone 5]]",
+    "iceDmgMod": "100%",
+    "strategy": "Unknown",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "100%"
+}

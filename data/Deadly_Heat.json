@@ -1,0 +1,30 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "hp": "?",
+    "abilities": "{{Ability List|}}",
+    "fireDmgMod": "100%?",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        ""
+    ],
+    "implemented": "12.70.10953",
+    "loot": [],
+    "exp": "0",
+    "creatureclass": "Elementals",
+    "earthDmgMod": "100%?",
+    "physicalDmgMod": "100%?",
+    "primarytype": "Pyro-Elementals",
+    "article": "a",
+    "actualname": "deadly heat",
+    "illusionable": "no",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Deadly Heat",
+    "isboss": "no",
+    "location": "[[Dwelling of the Forgotten]], at the [[Too_Hot_to_Handle_Quest#Gnomish Explorer|Too Hot to Handle]] The Lost Structure mission.",
+    "iceDmgMod": "100%?",
+    "energyDmgMod": "100%?",
+    "deathDmgMod": "100%?"
+}

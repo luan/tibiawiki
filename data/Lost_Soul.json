@@ -1,0 +1,154 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "They may look rather harmless but do not underestimate this fearsome creature. Usually avoided in mines due to the fact it has very high hitpoints, so it takes a longer time to kill, increasing the chance of being swarmed by [[respawn]]s of other creatures. It is common to see these creatures left at low red health by someone hunting in the area in which they spawn - this is so that players can avoid wasting supplies on the Lost Souls as they have high points, deal fairly good damage, and rarely drop good loot. \nAfter the [[Updates/8.5]], their hp was lowered from 8500 to 5800.",
+    "walksthrough": "Fire, Poison",
+    "hp": "5800",
+    "abilities": "{{Ability List| {{Melee|0-429}}|{{Ability|[[Death Damage|Death Beam]]|0-210|element=death}}|{{Ability|[[Paralyze|Paralyzing Death UE]]|element=paralyze}} }}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "holyDmgMod": "125%",
+    "maxdmg": "630",
+    "pushable": "?",
+    "implemented": "7.9",
+    "loot": [
+        {
+            "amount": "0-198",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "amount": "0-7",
+            "itemName": "Platinum Coin",
+            "rarity": "common"
+        },
+        {
+            "amount": "0-3",
+            "itemName": "Blank Rune",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Unholy Bone",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Soul Orb",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "Great Mana Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "Great Health Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "0-3",
+            "itemName": "White Pearl",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "0-3",
+            "itemName": "Black Pearl",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Demonic Essence",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Ruby Necklace",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Red Gem",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Stone Skin Amulet",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Silver Goblet",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Death Ring",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Skeleton Decoration",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Titan Axe",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Slightly Rusted Armor",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Skull Staff",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Tower Shield",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Haunted Blade",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Skull Helmet",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Rusted Armor"
+        }
+    ],
+    "walksaround": "Energy",
+    "exp": "4000",
+    "mitigation": "1.60",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "lost soul",
+    "illusionable": "no",
+    "armor": "28",
+    "convince": "--",
+    "name": "Lost Soul",
+    "isboss": "no",
+    "iceDmgMod": "50%",
+    "energyDmgMod": "90%",
+    "deathDmgMod": "0%",
+    "plural": "lost souls",
+    "hpDrainDmgMod": "0%",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "Some people die in so much agony and pain that they rise again in a ghostly form. They are by far more powerful than ordinary ghosts, fuelled by the memory of those painful emotions. Roaming the place of their death, they seek revenge, not distinguishing between guilty and innocent. Usually they haunt crypts, graveyards or places of torture and great pain.Sometimes though, these Lost Souls are snatched away by demons and forced into their service by the use of magical powers. Although the demons do not consider the Lost Souls as really useful, they enjoy to have an incarnation of suffering and pain around. Some of the more powerful and cruel demons even enjoy to 'breed' such ghosts on their own. They subjugate abducted mortals and expose them to unspeakable procedures which culminate in the painful death of their victims. Sometimes a demon is able to 'harvest' one of those unfortunates out of the procedure to make an especially impressive exemplar of a Lost Soul which it can brag about to other demons.",
+    "speed": "190",
+    "pushobjects": "?",
+    "fireDmgMod": "0%",
+    "sounds": [
+        "Mouuuurn meeee!",
+        "Forgive Meee!",
+        "Help meee!"
+    ],
+    "bestiaryclass": "Undead",
+    "creatureclass": "The Undead",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Skeletons",
+    "race_id": "283",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "lostsoul",
+    "behaviour": "Runs away in low [[hitpoints|health]].",
+    "location": "[[Pits of Inferno]], [[Formorgar Mines]], [[Helheim]], [[Roshamuul Prison]] and in '''The Arcanum''' (Part of the [[Inquisition quest]]), [[Oramond Fury Dungeon]]",
+    "strategy": "Though dangerous, they aren't overly powerful so a decent blocker with decent skills will suffice to keep '''Lost Soul''' at bay. However, they can retarget a lot so any shooters from the back row should keep their guard up at all times. \nYou should try to trap them in somewhere, since they run at low health and can be seen in dangerous places with more monsters..."
+}

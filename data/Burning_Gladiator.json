@@ -1,0 +1,133 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "walksthrough": "Fire, Energy, Poison",
+    "hp": "10000",
+    "abilities": "{{Ability List\n |{{Melee|0-550}}\n |{{Ability|Fire Ring around itself|300-500?|element=fire\n    |scene={{Scene|spell=2sqmring|effect=Flame Effect|caster=Burning Gladiator|effect_on_caster=no|damage_effect=Fire Effect}}}}\n |{{Ability|Fire Plus around itself|300-500|element=fire\n   |scene={{Scene|spell=plusspell|effect=Flame Effect|caster=Burning Gladiator|effect_on_caster=yes|damage_effect=Fire Effect}}}}\n |{{Ability|Fire X around itself|300-500|element=fire\n    |scene={{Scene|spell=xspell|effect=Flame Effect|caster=Burning Gladiator|effect_on_caster=no|damage_effect=Fire Effect}}}}\n |{{Ability|Energy Beam|300-500|element=energy\n  |scene={{Scene|spell=3sqmbeam|effect=Blue Electricity Effect|caster=Burning Gladiator|look_direction=east}}}}\n |{{Ability|[[Damage Reflection]]|Fire; about 33%|element=fire}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "holyDmgMod": "100%",
+    "maxdmg": "1500+",
+    "pushable": "no",
+    "usedelements": "Fire, Physical, Energy",
+    "implemented": "12.20.8834",
+    "loot": [
+        {
+            "amount": "1-4",
+            "itemName": "Platinum Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Fafnar Symbol",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Dragon Necklace",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Strange Talisman",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Secret Instruction (Gryphon)",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Secret Instruction (Mirror)",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Secret Instruction (Silver)",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Magma Amulet",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Magma Boots",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Lightning Headband",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Elven Amulet",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Empty Honey Glass",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Spellweaver's Robe",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Lightning Legs",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Lightning Pendant",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Lightning Boots",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Sea Horse Figurine",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Golden Mask",
+            "rarity": "rare"
+        }
+    ],
+    "walksaround": "None",
+    "exp": "7350",
+    "mitigation": "2.45",
+    "attacktype": "Melee",
+    "history": "Its experience was decreased from 10,500 to 7,350 on [[Updates/12.31.9434|Update 12.31.9434]].",
+    "article": "a",
+    "actualname": "burning gladiator",
+    "illusionable": "no",
+    "armor": "89",
+    "convince": "--",
+    "name": "Burning Gladiator",
+    "isboss": "no",
+    "iceDmgMod": "120%",
+    "energyDmgMod": "80%",
+    "deathDmgMod": "100%",
+    "plural": "burning gladiators",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "Once, the inhabitants of Kilmaresh worshipped the two sun gods Suon and Fafnar and attached great importance to the fact that the worship of both deities was always in balance. However, there came a time when a group of Fafnar's adherers became more and more influential and aggressive until this sect postulated the sole worship of Fafnar. This resulted in a religious war between the Fafnar followers and those who fought for the duality of the two sun gods. Ultimately, the war was ended by a major natural disaster that split off the eastern peninsula from the western part of the land mass. This was interpreted as a demonstration of divine wrath. It was rumoured that Suon had shattered the continent in his anger about the humans' misdeeds. From that day on, the old empire was in shambles and the worship of Fafnar is now forbidden in the new empire.<br/>But the cult of Fafnar still exists on Kilmaresh, albeit in secret. Her followers go to great lengths to strengthen Fafnar's influence and try to re-establish her worship. To achieve their goals they are not above using either infiltration or violence. The Burning Gladiators are a special part of the the Wild Sun's cult. They are fierce warriors who seek to enforce Fafnar's will with a vengeance. If necessary they also protect the Priestesses of the Wild Sun on their rather subtle missions.",
+    "speed": "145",
+    "pushobjects": "yes",
+    "fireDmgMod": "70%",
+    "sounds": [
+        "Burn, infidel!",
+        "Only the Wild Sun shall shine down on this world!",
+        "Praised be Fafnar, the Smiter!"
+    ],
+    "bestiaryclass": "Human",
+    "creatureclass": "Humans",
+    "earthDmgMod": "100%",
+    "physicalDmgMod": "80%",
+    "primarytype": "Fafnar Cultists",
+    "spawntype": [
+        "Regular"
+    ],
+    "race_id": "1798",
+    "bestiarylevel": "Hard",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "burninggladiator",
+    "behaviour": "They attack in close range and retarget often.",
+    "location": "[[Issavi Sewers]], [[Kilmaresh Catacombs]] and [[Kilmaresh Mountains]] (above and under ground).",
+    "strategy": "Fire protection is very good against them, but you should also take care not to increase the damage taken from the other elements used by the other [[Fafnar Cultists]] that are also together with Burning Gladiators."
+}

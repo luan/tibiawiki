@@ -1,0 +1,67 @@
+{
+    "summon": "250",
+    "templateType": "Creature",
+    "notes": "Sheep are very useful to get [[meat]] from to regain [[Hit Points|hp]] or [[Mana Points|mp]]. They are cousins of the [[Black Sheep]] found around [[Tibia]].",
+    "walksthrough": "None",
+    "hp": "20",
+    "abilities": "{{Ability List|{{Melee|0-1+}} (summons)}}",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "holyDmgMod": "100%",
+    "maxdmg": "1+",
+    "pushable": "yes",
+    "implemented": "5.1",
+    "loot": [
+        {
+            "amount": "1-4",
+            "itemName": "Meat",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Wool",
+            "rarity": "rare"
+        }
+    ],
+    "walksaround": "Fire, Energy, Poison",
+    "exp": "0",
+    "mitigation": "0.05",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "sheep",
+    "illusionable": "yes",
+    "armor": "1",
+    "convince": "250",
+    "name": "Sheep",
+    "isboss": "no",
+    "iceDmgMod": "100%",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "100%",
+    "plural": "sheep",
+    "hpDrainDmgMod": "100%",
+    "usespells": "no",
+    "occurrence": "Common",
+    "bestiarytext": "Sheep are domestic animals which are kept by farmers and herdsmen. They have been raised by humans for a long time to gain meat and wool. They are absolutely peaceable and live as herds in sheepfolds or on pastures. However, the owners will be upset if you kill one of them. A Tibian saying states that there is a black sheep in every herd.",
+    "speed": "58",
+    "pushobjects": "no",
+    "fireDmgMod": "105%",
+    "sounds": [
+        "Maeh"
+    ],
+    "runsat": "20",
+    "bestiaryclass": "Mammal",
+    "creatureclass": "Mammals",
+    "earthDmgMod": "100%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Ungulates",
+    "spawntype": [
+        "Regular",
+        "Unblockable"
+    ],
+    "race_id": "14",
+    "bestiarylevel": "Trivial",
+    "senseinvis": "no",
+    "drownDmgMod": "100%",
+    "bestiaryname": "sheep",
+    "location": "In [[Rookgaard]] Sheep field, [[Greenshore]] and other farms like the one in [[Thais]], east of [[Carlin]]. They can also be found wandering the fields of [[Edron]], and some can be found along with a [[Black Sheep]] with the [[Hunter]] in [[Femor Hills]].",
+    "strategy": "Just attack them, they are slow."
+}

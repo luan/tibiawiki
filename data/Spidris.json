@@ -1,0 +1,119 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "Usually found with a large amount of [[Spitter]]s and other Spidris, occasionally also a couple of [[Kollos]].",
+    "isarenaboss": "no",
+    "walksthrough": "Poison",
+    "hp": "3700",
+    "abilities": "{{Ability List| {{Melee|0-315}}|{{Ability|[[Earth Damage|Poison Burst Arrow]]|150-310|element=earth}}|{{Haste|[[Strong Haste]]}}|{{Healing}} }}",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "secondarytype": "Hive Born",
+    "holyDmgMod": "110%",
+    "maxdmg": "610",
+    "pushable": "?",
+    "implemented": "9.40",
+    "loot": [
+        {
+            "amount": "1-200",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-4",
+            "itemName": "Platinum Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Compound Eye",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Great Mana Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Spidris Mandible",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-5",
+            "itemName": "Small Ruby",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Ultimate Health Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Death Ring",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Giant Shimmering Pearl (Green)",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Carapace Shield",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Hive Scythe",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Titan Axe",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Violet Gem",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Calopteryx Cape",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Fire, Energy",
+    "exp": "2600",
+    "mitigation": "1.62",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "spidris",
+    "illusionable": "no",
+    "armor": "53",
+    "convince": "--",
+    "name": "Spidris",
+    "isboss": "no",
+    "iceDmgMod": "103%",
+    "energyDmgMod": "105%",
+    "deathDmgMod": "90%",
+    "plural": "spidris",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Rare",
+    "bestiarytext": "The Spidris serve several purposes in the hive. They act as guardians and warriors and also as garbage disposal. They are known to devour any refuse and corpses in the range of the hive. The distinction between their purposes seems artificial, though. For the hive their purpose is probably only one - to get rid of unwanted stuff. They fulfil all their tasks with frightening precision and diligence. Their endless assaults wear down any resistance and their senses are even more keen than those of other hive creatures. They are perfect war machines that know no fear or mercy, yet, they display some cunning traits to retreat or to lure an opponent into ambushes when outnumbered or hard-pressed. The enigmatic appearance of the Spidris touches something subconsciously in the human mind and strikes fear into the hearts of those who encounter them on the battlefield. The fighting style of the Spidris is considered exceedingly cruel and unnecessarily destructive. They are known to waste a considerable amount of time to mutilate the bodies of slain enemies before continuing the fight.<br />In the fight against the Deeplings, the Spidris are often used in the later phases. When the enemy is weakened and tired, the arrival of the Spidris on the battlefield alone may turn the tides of battle. With quick strikes and fast advances, the Spidris are most effective when fighting smaller groups of opponents whose formation has been shattered. The main body of the Spidris is usually hold back until the battle turns either in favour or against the Hive Born. Then the Spidris rush in to either achieve victory in a most gruesome and bloody manner, or they are sent to throw back the probably overconfident enemy.",
+    "speed": "195",
+    "pushobjects": "?",
+    "fireDmgMod": "85%",
+    "sounds": [
+        "Eeeeeeyyyyh!",
+        "Iiiiieeeeeeh!"
+    ],
+    "runsat": "0",
+    "bestiaryclass": "Vermin",
+    "creatureclass": "Invertebrates",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Arachnids",
+    "race_id": "787",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "spidris",
+    "behaviour": "Fights in close combat, similar to a [[Destroyer]] or [[Behemoth]].",
+    "location": "[[Hive]], [[Hive Outpost]].",
+    "strategy": "Treat it like a [[Destroyer]]. Since they are rarely found alone, it is recommended for players to hunt them in a team. Mages are recommended to use [[Energy Wave|Energy]] or [[Strong Ice Wave]] together with [[Avalanche]]s when they come in hoards. Retargets fairly often, so blockers need to be alert. Watch out for other [[Hive Born]] that may emerge from any direction!"
+}

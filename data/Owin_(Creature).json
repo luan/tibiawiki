@@ -1,0 +1,101 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "You might encounter [[Owin]] like this when it is full moon on [[Grimvale]].",
+    "walksthrough": "Poison",
+    "hp": "9600",
+    "speed": "?",
+    "abilities": "{{Ability List\n |{{Melee|0-300}}\n |{{Ability|Bleeding Beam||element=bleeding\n  |scene={{Scene|spell=3sqmbeam|effect=Explosion Effect|caster=Owin (Creature)|caster_name=Owin|look_direction=east}}}}\n |{{Debuff2|[[Sudden Death]]|shielding=yes}}\n |{{Ability|Puff Up|unknown maybe buff|element=?\n  |scene={{Scene|spell=buffspell|effect=Steam Effect|caster=Owin (Creature)|caster_name=Owin|look_direction=south|effect_on_caster=yes}}}}\n |{{Debuff2|Red Sparkles Bomb|melee=yes|distance=yes\n  |scene={{Scene|spell=2sqmballtarget|effect=Red Sparkles Effect|caster=Owin (Creature)|caster_name=Owin}}}}\n |{{Haste\n  |scene={{Scene|spell=buffspell|effect=Green Sparkles Effect|caster=Wereboar|look_direction=south|effect_on_caster=yes}}}}\n}}",
+    "pushobjects": "yes",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "secondarytype": "Ungulates",
+    "fireDmgMod": "100%",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "?",
+    "pushable": "no",
+    "implemented": "10.80",
+    "loot": [
+        {
+            "amount": "1-117+",
+            "itemName": "Gold Coin"
+        },
+        {
+            "amount": "1-7",
+            "itemName": "Platinum Coin"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Ultimate Health Potion"
+        },
+        {
+            "amount": "1-5",
+            "itemName": "Strong Health Potion"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Brown Mushroom"
+        },
+        {
+            "itemName": "Wereboar Hooves"
+        },
+        {
+            "itemName": "Wereboar Tusks"
+        },
+        {
+            "itemName": "Moonlight Crystals"
+        },
+        {
+            "itemName": "Fur Armor"
+        },
+        {
+            "itemName": "Furry Club"
+        },
+        {
+            "itemName": "Stone Skin Amulet"
+        },
+        {
+            "itemName": "Werewolf Amulet"
+        },
+        {
+            "itemName": "Wereboar Trophy"
+        },
+        {
+            "itemName": "Wereboar Loincloth"
+        },
+        {
+            "itemName": "Berserk Potion"
+        }
+    ],
+    "walksaround": "Fire, Energy",
+    "exp": "5000",
+    "creatureclass": "Humans",
+    "earthDmgMod": "80%",
+    "physicalDmgMod": "100%?",
+    "bosstiaryclass": "Archfoe",
+    "primarytype": "Lycanthropes",
+    "spawntype": [
+        "Regular",
+        "Event"
+    ],
+    "race_id": "1156",
+    "senseinvis": "yes",
+    "actualname": "Owin",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Owin (Creature)",
+    "isboss": "yes",
+    "behaviour": "Fights like a [[Wereboar]].",
+    "location": "[[Grimvale]], during [[Grimvale Mini World Change|Full Moon]] (12<sup>th</sup>-15<sup>th</sup> of each month), {{Mapper Coords|130.88|123.127|9|2|text=here}}.",
+    "iceDmgMod": "90%",
+    "strategy": "Face it like a stronger [[Wereboar]].",
+    "energyDmgMod": "80%",
+    "deathDmgMod": "50%?",
+    "status": "event"
+}

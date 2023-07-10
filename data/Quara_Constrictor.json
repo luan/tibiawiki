@@ -1,0 +1,93 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "It is a fusion of [[quara]] and a squid. After update 8.5 they became profitable (they drop more gps now).\n{{JSpoiler|You may hunt 600 Quara Constrictor, [[Quara Hydromancer]], [[Quara Mantassin]], [[Quara Pincher]], [[Quara Predator]] combined, as a task of the [[Killing in the Name of... Quest]]. Upon completion of the task you will face [[Thul]].}}",
+    "walksthrough": "Fire",
+    "hp": "450",
+    "abilities": "{{Ability List\n |{{Melee|0-150|poison=1}}\n |{{Ability|Berserk|50-90|element=life drain\n  |scene={{Scene|spell=3x3spell|effect=Trembling Effect|caster=Quara Constrictor|casting_effect=Trembling Effect}}}}\n |{{Ability|Poison Berserk|freezing status, 8hp for 10 turns|element=ice\n  |scene={{Scene|spell=3x3spell|effect=Poison Effect 1|caster=Quara Constrictor|casting_effect=Poison Effect 1}}}}\n |{{Ability|Ice Ball (around itself)|40-70|element=ice\n  |scene={{Scene|spell=2sqmballself|effect=Ice Explosion Effect|caster=Quara Constrictor|effect on caster=yes|casting_effect=Ice Explosion Effect}}}}\n |{{Ability|Close Range Electrify|25 hp for 3 turns|electrified}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "holyDmgMod": "100%",
+    "maxdmg": "{{Max Damage|physical=150|earth=1|lifedrain=90|ice=78|energy=25}}",
+    "pushable": "?",
+    "implemented": "7.8",
+    "loot": [
+        {
+            "amount": "1-100",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Quara Tentacle",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Longsword",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-5",
+            "itemName": "Shrimp",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Brass Armor",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Small Amethyst",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Fish Fin",
+            "rarity": "rare"
+        }
+    ],
+    "walksaround": "Energy, Poison",
+    "exp": "250",
+    "mitigation": "0.94",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "quara constrictor",
+    "illusionable": "yes",
+    "armor": "14",
+    "convince": "--",
+    "name": "Quara Constrictor",
+    "isboss": "no",
+    "iceDmgMod": "0%",
+    "energyDmgMod": "125%",
+    "deathDmgMod": "100%",
+    "plural": "quara constrictors",
+    "hpDrainDmgMod": "0%",
+    "usespells": "yes",
+    "lightcolor": "35",
+    "occurrence": "Common",
+    "bestiarytext": "The strange Quara Constrictors have kraken or squid like qualities due to manipulations that are found on all members of the quara race. They are quite intelligent and seem to be, together with the quara hydromancer, the leaders of this sinister race. Their tentacles make them dangerous foes. They allow the Quara Constrictor to attack more than one target at once and to grapple or strangle their helpless prey. Using the same abilities like electric eels, they are also able to stun their enemies for a short time. To stand a better chance to defeat them, you should try to fight them on land where they are somewhat weaker than swimming in water.<br />Only few of them exist and since they are somewhat cowardly by nature, you don't meet them too often in combat. If forced to fight, they are quite capable to defend themselves. They often surprise their enemies with dirty tricks and an iron resolve. This subspecies seems to be somehow responsible for modifying and altering the other quara. How exactly this is done and to which extent the Quara Constrictor is involved in these transformation processes is unknown.",
+    "speed": "190",
+    "pushobjects": "?",
+    "fireDmgMod": "0%",
+    "sounds": [
+        "Boohaa!",
+        "Tssss!",
+        "Gluh! Gluh!",
+        "Gaaahhh!"
+    ],
+    "lightradius": "2",
+    "bestiaryclass": "Aquatic",
+    "creatureclass": "Amphibians",
+    "earthDmgMod": "110%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Quara",
+    "spawntype": [
+        "Regular",
+        "Unblockable"
+    ],
+    "race_id": "239",
+    "bestiarylevel": "Medium",
+    "senseinvis": "no",
+    "drownDmgMod": "0%",
+    "bestiaryname": "quaraconstrictor",
+    "behaviour": "Quara Constrictors are slow, and run away at 30 [[hp]]. Sometimes they use more than two of their abilities at once.",
+    "location": "[[Calassa]], [[Frozen Trench]] underwater sites, [[Yalahar]] ([[Sunken Quarter]]).",
+    "strategy": "Kill them first as they are the weakest among other [[Quaras]] but deal a lot of damage with magical attacks. Since they're slow, shooters won't need much space to run.<br />\n'''[[Knight]]s''': Try to avoid other quaras and just melee it. Exori if you are surrounded by 3 or more quaras.<br />\n'''[[Mage]]s''': You can take it down pretty quickly with [[energy strike]] and [[HMM]]s, but be ready to cast a [[Healing Spells|healing spell]].<br />\n'''[[Paladin]]s''': Attack from distance or use shield and throwing weapon."
+}

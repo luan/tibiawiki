@@ -1,0 +1,116 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "This creature was added in the [[Updates/8.54|Christmas Update 2009]]. This lizard ''cannot'' be skinned.\n<gallery hideaddbutton=\"true\" position=\"center\" style=\"text-align:center\" captionalign=\"center\" mode=\"nolines\">\nLizard Chosen Artwork.jpg|Official Artwork\n</gallery>",
+    "walksthrough": "Poison",
+    "hp": "3050",
+    "abilities": "{{Ability List| {{Melee|0-360}}|{{Ability|[[Berserk|Poison Exori]]|190-340|element=poison}}|{{Ability|[[Poison Beam]]|90-180|element=poison}}|{{Ability|[[Poison Wave]]|poisons you starting at 12hp per turn|element=poisoned}}|{{Healing|range=100}} }}",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "secondarytype": "The Undead",
+    "holyDmgMod": "100%",
+    "maxdmg": "880",
+    "pushable": "?",
+    "implemented": "8.54",
+    "loot": [
+        {
+            "amount": "0-236",
+            "itemName": "Gold Coin"
+        },
+        {
+            "amount": "0-5",
+            "itemName": "Platinum Coin"
+        },
+        {
+            "itemName": "Cursed Shoulder Spikes"
+        },
+        {
+            "amount": "0-3",
+            "itemName": "Great Health Potion"
+        },
+        {
+            "itemName": "Spiked Iron Ball"
+        },
+        {
+            "itemName": "Corrupted Flag",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Lizard Leather",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Scale of Corruption",
+            "rarity": "semi-rare"
+        },
+        {
+            "amount": "0-5",
+            "itemName": "Small Diamond",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Lizard Scale",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Tower Shield",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Zaoan Armor",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Zaoan Legs",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Zaoan Shoes",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Zaoan Helmet",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Fire, Energy",
+    "exp": "2200",
+    "mitigation": "0.94",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "lizard chosen",
+    "illusionable": "no",
+    "armor": "28",
+    "convince": "--",
+    "name": "Lizard Chosen",
+    "isboss": "no",
+    "iceDmgMod": "90%",
+    "energyDmgMod": "80%",
+    "deathDmgMod": "100%",
+    "plural": "lizard chosens",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "Tainted by the contaminated land and driven into madness, the society of the lizard people look at these individuals as blessed. Their mad ramblings, often combined with odd behaviour, are often interpreted as prophecies. Lizard Chosen are often the centre of festivities and part of complicated rituals which they barely understand. Strangely enough, these wretched creatures seldom show any excessive aggression towards their own race. Still, they are aggressive towards outsiders and take delight in destroying pure nature just as if it they intended to spread their taint onto the land. Even though the lizard people give the Lizard Chosen a somewhat 'holy' status, they are not reluctant to use them for tasks that equal those of watchdogs.<br />Their aggression towards outsiders combined with the remarkable abilities their tainted bodies have acquired, they make formidable foes. Knowing no fear and seemingly not caring for wounds, they are only focused on the destruction of their enemies. Although the Lizard Chosen have become more and more over the last decades, they are still rarely encountered in greater numbers. Although, there are rumours of whole colonies of Lizard Chosen behind the great dragon wall.<br />Sometimes one of the Lizard Chosen goes on a killing spree in the southern lands. It is known that these creatures never stop or retreat and can only be stopped by killing them. The reason for these rampages is yet unknown, but the lizard people believe that the Lizard Chosen fulfil the wish of their emperor this way.",
+    "speed": "136",
+    "pushobjects": "?",
+    "fireDmgMod": "90%",
+    "sounds": [
+        "Grzzzzzzz!",
+        "Kzzzzzzz!",
+        "Garrrblarrrrzzzz!"
+    ],
+    "bestiaryclass": "Reptile",
+    "creatureclass": "Reptiles",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "100%",
+    "primarytype": "High Class Lizards",
+    "race_id": "620",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "lizardchosen",
+    "behaviour": "Runs away at 50 [[hp]].",
+    "location": "[[Temple of Equilibrium]] ([[Zao]]) Hidden stairs, [[Fire Dragon Dojo]], [[Corruption Hole]], [[Razachai]].",
+    "strategy": "Mages: Run away while using your [[Wand of Voodoo]]/[[Underworld Rod]] and use [[Death Strike]]/ [[Physical Strike]].\n<br />[[Paladin]]s: Hunt them with a [[Mycological Bow]] and [[Crystalline Arrow]]s after level 130. [[Assassin Star]]s are usually recommended for precaution and may be used to hunt them.\n<br />[[Knight]]s: You will usually waste, unless you are lucky. Simply stay diagonal and heal constantly until it's dead. You may want to use [[Berserk]] or [[Brutal Strike]] to help kill it faster. As a knight you want to hunt them in company of druids, luring many Lizards while druid shoots [[Avalanche Rune]] and uses [[Heal Friend]] on you, this way can bring great exp and loot."
+}

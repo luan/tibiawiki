@@ -1,0 +1,99 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "walksthrough": "None",
+    "hp": "1650",
+    "abilities": "{{Ability List\n |{{Melee|0-200}}\n |{{Ability|[[Sudden Death]]|150-200|element=physical\n  |scene={{Scene|spell=5sqmstrike|effect=Death Effect|caster=Cult Scholar|look_direction=south|missile=Death Missile|missile_direction=south-east|missile_distance=5/5}}}}\n  |{{Ability|Poison Beam|150-200|earth\n   |scene={{Scene|spell=8sqmbeam|effect=Poison Effect 3|caster=Cult Scholar|look_direction=east}}}}\n |{{Healing|range=150-200}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "holyDmgMod": "70%",
+    "maxdmg": "{{Max Damage|physical=200|death=200|earth=200}}",
+    "pushable": "no",
+    "usedelements": "Physical,Death,Earth",
+    "implemented": "11.40.5409",
+    "loot": [
+        {
+            "amount": "1-70",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Meat",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Cultish Robe",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Great Health Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Small Amethyst",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Small Emerald",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Small Diamond",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Scarf",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Might Ring",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Piggy Bank",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Fire, Poison, Energy",
+    "exp": "1100",
+    "mitigation": "1.18",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "cult scholar",
+    "illusionable": "no",
+    "armor": "30",
+    "convince": "--",
+    "name": "Cult Scholar",
+    "isboss": "no",
+    "iceDmgMod": "70%",
+    "energyDmgMod": "70%",
+    "deathDmgMod": "70%",
+    "plural": "cult scholars",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Uncommon",
+    "bestiarytext": "The Cult Scholar is a stronger version of [[Adept of the Cult|Adepts Of The Cult]].",
+    "speed": "130",
+    "pushobjects": "yes",
+    "fireDmgMod": "70%",
+    "sounds": [
+        "The Secrets are ours alone!"
+    ],
+    "runsat": "0",
+    "bestiaryclass": "Human",
+    "creatureclass": "Humans",
+    "earthDmgMod": "70%",
+    "physicalDmgMod": "80%",
+    "primarytype": "Outlaws",
+    "spawntype": [
+        "Regular"
+    ],
+    "race_id": "1514",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "cultscholar",
+    "behaviour": "Fights in close combat.",
+    "location": "[[Forbidden Temple (Carlin)]]",
+    "strategy": "Avoid standing in front of it because of its strong beam."
+}

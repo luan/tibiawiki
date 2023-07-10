@@ -1,0 +1,73 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "They will spawn when an excessive amount of [[White Deer]] has been killed the previous day. You can lure them into a [[Magic Wolf Trap]], which will turn it into a [[Captured Wolf]]. You can hand these in with [[Benevola]].",
+    "isarenaboss": "No",
+    "walksthrough": "?",
+    "hp": "85",
+    "abilities": "{{Ability List|{{Melee|0-25}}}}",
+    "healMod": "100%",
+    "paraimmune": "?",
+    "holyDmgMod": "70%",
+    "maxdmg": "{{Max Damage|physical=25}}",
+    "pushable": "Yes",
+    "usedelements": "Physical",
+    "implemented": "9.10",
+    "loot": [
+        {
+            "itemName": "Dirty Fur",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Meat",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Wolf Paw",
+            "rarity": "rare"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "65",
+    "mitigation": "0.33",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "starving wolf",
+    "illusionable": "Yes",
+    "armor": "2",
+    "convince": "--",
+    "name": "Starving Wolf",
+    "isboss": "No",
+    "iceDmgMod": "110%",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "105%",
+    "status": "event\n<!--",
+    "plural": "starving wolves",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes-->",
+    "occurrence": "Rare",
+    "speed": "94",
+    "pushobjects": "No",
+    "fireDmgMod": "100%",
+    "sounds": [
+        "Gaarrrrrr",
+        "Gnoorrr",
+        "Yoooohhuuuu!"
+    ],
+    "runsat": "8",
+    "bestiaryclass": "Mammal",
+    "creatureclass": "Mammals",
+    "earthDmgMod": "100%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Canines",
+    "spawntype": [
+        "Regular"
+    ],
+    "race_id": "723",
+    "bestiarylevel": "Easy",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "behaviour": "Behaves like a normal [[Wolf]].",
+    "location": "East, west and south-west of the [[Femor Hills]].",
+    "strategy": "Unknown."
+}

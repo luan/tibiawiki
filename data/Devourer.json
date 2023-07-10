@@ -1,0 +1,153 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "walksthrough": "Poison",
+    "hp": "1900",
+    "abilities": "{{Ability List|{{Melee|0-260|poison=18}}|{{Ability|Earth Strike|0-150|earth}}|{{Ability|Earth Wave|0-150|earth}}|{{Ability|Poison Ball|0-200|earth}}|{{Ability|Poison Berserk|slowed}}|{{Healing|range=0-136+}}}}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "holyDmgMod": "100%",
+    "maxdmg": "{{Max Damage|physical=260|earth=518}}",
+    "pushable": "no",
+    "implemented": "10.50",
+    "loot": [
+        {
+            "amount": "1-165",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Platinum Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Glob of Glooth",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "Small Diamond",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "Small Sapphire",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "Small Topaz",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "Small Ruby",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "Small Amethyst",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "Small Emerald",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Glooth Blade",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Glooth Club",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Glooth Axe",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Talon",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Glooth Spear",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Springsprout Rod",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Glooth Amulet",
+            "rarity": "rare"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "Yellow Gem",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Terra Rod",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Glooth Cape",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Green Gem",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Energy, Fire",
+    "exp": "1755",
+    "mitigation": "1.46",
+    "attacktype": "Melee",
+    "history": "Its experience was decreased from 1800 to 1404 on the first batch of changes of [[Updates/12.31|Update 12.31]]. It was later increased to 1755 on the fifth batch of changes.",
+    "article": "a",
+    "actualname": "devourer",
+    "illusionable": "no",
+    "armor": "45",
+    "convince": "--",
+    "name": "Devourer",
+    "isboss": "no",
+    "iceDmgMod": "85%",
+    "energyDmgMod": "105%",
+    "deathDmgMod": "90%",
+    "plural": "devourers",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "lightcolor": "139",
+    "occurrence": "Common",
+    "bestiarytext": "The source of the devourers are slime creatures of unknown origin that over the cause of generation have soaked that much glooth residue that they became something new. The driving force of these creatures is an insatiable hunger and their digestion relies on incredible strong fluids. In the past the tiny ancestors of the devourers were used in Rathleton in waste disposal and they were deliberately allowed to roam the sewer system. First incidents with the nearly mindless creatures brought the officials to rethink that strategy. But it was already too late to stop the spread of the devourers. Even worse several extermination campaigns lead to an increased survival of the fittest evolution of the devourers and in few generations the slime creatures had doubled in size and fierceness. As a cannibalistic species they begun to further their own evolution by eradicating the weak and sick which lead to further selection. Some scientists speculate that the devourers are still evolving with each generation and that they will eventually grow even further with no limits. There are rumours about devourers that fused together is fearsome fights and continued as even larger and more dangerous versions of themselves. Even more alarming is the fact that the devourers are seemingly no longer dependent on glooth residue as they have not only spread outside of Rathleton but newly hatched devourers have travelled as blind passengers on ships and in cargo to different places and created new colonies. Wherever devourers are encountered officials are eager to exterminate the threat to prevent them from gaining a hold in populated areas. Devourers are not picky in their diet. Their powerful digestion system enables them to dissolve almost everything and they seemingly know no fear or pain. For some reason they prefer living food over dead matter nd attack most beings without hesitation. Since they have some kind of preference chain they will ignore anything else if they deem something as 'tasty'. As it seems, humans are considered as incredibly tasty by their primitive instincts. Devourers are considered as extremely dangerous and the words 'run, the devourer comes' has become a common phrases in plagued areas. Given his resilient nature and omnivorous appetite only caution has yet prevented further spread of the vile creatures but it's sadly just a matter of time when this threat to everything becomes commonplace.",
+    "speed": "100",
+    "pushobjects": "yes",
+    "fireDmgMod": "100%",
+    "sounds": [
+        "*gulp*",
+        "*Bruaarrr!*",
+        "*omnnommm nomm*"
+    ],
+    "lightradius": "4",
+    "runsat": "0",
+    "bestiaryclass": "Slime",
+    "creatureclass": "Elementals",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Bio-Elementals",
+    "spawntype": [
+        "Regular",
+        "Triggered",
+        "Unblockable"
+    ],
+    "race_id": "1056",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "devourer",
+    "behaviour": "Fights in close combat.",
+    "location": "[[Rathleton Sewers]], [[Lower Rathleton]], [[Oramond/Western Plains]], [[Underground Glooth Factory]], [[Jaccus Maxxen's Dungeon]].",
+    "strategy": "Devourer's will usually apear together with many other Glooth creatures, so the best strategy is using area spells and attacks to kill all of them at once. Other than that, simply attack it using anything but Earth damage."
+}

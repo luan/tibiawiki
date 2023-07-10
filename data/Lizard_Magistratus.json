@@ -1,0 +1,86 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "lizard magistratuses",
+    "hpDrainDmgMod": "100%?",
+    "walksthrough": "Fire, Poison",
+    "hp": "6250",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "speed": "128",
+    "abilities": "{{Ability List| {{Melee|0-60}}|{{Ability|[[Cursed]] 20 rounds|start from 2; up to 43|element=cursed}}|{{Healing}} }}",
+    "pushobjects": "yes",
+    "healMod": "100%",
+    "paraimmune": "?",
+    "fireDmgMod": "15%",
+    "holyDmgMod": "100%",
+    "sounds": [
+        "Shhhhhhhh.",
+        "I can't work wizh zuch dizturbancez!"
+    ],
+    "maxdmg": "60",
+    "pushable": "no",
+    "implemented": "8.60",
+    "bestiaryclass": "Reptile",
+    "loot": [
+        {
+            "amount": "1-50",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-20",
+            "itemName": "Platinum Coin",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-5",
+            "itemName": "Small Ruby",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Strong Mana Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Great Mana Potion",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Lizard Leather",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Lizard Scale",
+            "rarity": "rare"
+        }
+    ],
+    "walksaround": "Energy",
+    "exp": "2000",
+    "creatureclass": "Reptiles",
+    "earthDmgMod": "0%",
+    "mitigation": "1.18",
+    "physicalDmgMod": "100%",
+    "primarytype": "High Class Lizards",
+    "spawntype": [
+        "Regular"
+    ],
+    "race_id": "655",
+    "attacktype": "Distance",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "article": "a",
+    "actualname": "lizard magistratus",
+    "illusionable": "no",
+    "armor": "25",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Lizard Magistratus",
+    "isboss": "no",
+    "behaviour": "'''Lizard Magistratus''' fight until death and [[Self Healing|heal]] themselves very often.",
+    "location": "[[Razachai]].",
+    "iceDmgMod": "100%",
+    "strategy": "Depending on the size of your team, there are two strategies to killing these quickly for the 5th mission of [[Wrath of the Emperor Quest]]. One strategy is camping a single spawn on the ground floor of the palace in Razachai. The '''Lizard Magistratus''' respawns in less than a minute so you can block the spawn and constantly check to see if it has appeared. The second strategy is to go up to the second floor with your team and clear the area around the stairs. There are at least four '''Lizard Magistratus''' upstairs and with their quick respawn you should be able to kill four per person in no time.",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "100%"
+}

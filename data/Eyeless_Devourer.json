@@ -1,0 +1,140 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "walksthrough": "Fire, Energy, Poison",
+    "hp": "10000",
+    "occurrence": "Common",
+    "bestiarytext": "The eyeless devourers are no natural species in itself but seemingly something created out of cave devourers or even their streaked versions. Their eyestalks are purposely cut and they were probably put on a special diet or ores and organic material to enhance them further. This was quite obviously combined with some heavy conditioning. The whole purpose of those processes seems to be to create a strain of devourers that is more focused on battle than on feeding and more keen to devour organic enemies than to be distracted by their constant hunger for stones and ores. And indeed they seem more focused and battle-ready than their cousins. Their lack of eyes that supposedly enabled them to see sources of heat and magnetic fields was offset by a more keen sense of vibrations so they are not hindered much in combat at all. They tend to tag along with packs of other minions and attack in unison with them. It is rare to encounter eyeless devourers on their own without accompanying others as their entourage. Actually there are cases in which abandoned eyeless devourers had starved to death, waiting for someone to lead them along. Be mindful to approach such a lonely creature, however, as the presence of prey certainly will awake them from their inactivity and drive them into a hated frenzy.<br/>Another strange phenomenon that has been observed is the fact that other devourers will go to great lengths to devour dead eyeless devourers that have fallen in battle. While they usually don't shun to eat corpses of their brethren, they do so only by chance when stumbling over them after a battle. But every other devourer and other eyeless devourers are obviously eager to prey upon their corpses. This lead dwarfish prospectors to assume that their bodies ae rich of some unknown mineral and there was put some effort of metallurgists into obtaining and dissecting and melting their corpses. Said efforts have yet to yield any results, though.",
+    "speed": "165",
+    "abilities": "{{Ability List\n |{{Melee|0-400}}\n |{{Ability|Energy Strike|700-800|element=energy\n  |scene={{Scene|spell=2sqmstrike|caster=Eyeless Devourer|missile=Energy Ball Missile|missile_direction=south-east|missile_distance=2/2|effect=Blue Electricity Effect|background=dirt_floor2}}}}\n |{{Ability|Energy Berserk|500-700|element=energy\n  |scene={{Scene|spell=3x3spell|caster=Eyeless Devourer|effect=Energy Effect|effect_on_caster=yes|background=dirt_floor2}}}}\n |{{Ability|Poison Beam|500-560|element=earth\n  |scene={{Scene|spell=5sqmbeam|caster=Eyeless Devourer|effect=Poison Effect 1|look_direction=east|background=dirt_floor2}}}}\n}}",
+    "healMod": "100%",
+    "pushobjects": "yes",
+    "paraimmune": "yes",
+    "fireDmgMod": "100%",
+    "holyDmgMod": "100%",
+    "sounds": [],
+    "maxdmg": "{{Max Damage|physical=400|earth=560|energy=1450}}",
+    "pushable": "no",
+    "usedelements": "?",
+    "implemented": "12.70.10953",
+    "bestiaryclass": "Vermin",
+    "loot": [
+        {
+            "amount": "1-21",
+            "itemName": "Platinum Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Ultimate Health Potion",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Green Gem",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Blue Crystal Shard",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Violet Crystal Shard",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Green Crystal Shard",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Eyeless Devourer Maw",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Eyeless Devourer Legs",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Glacier Amulet",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Crystal Mace",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "War Axe",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Relic Sword",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Mercenary Sword",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Noble Axe",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Sacred Tree Amulet",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Warrior's Axe",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Ornate Crossbow",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Eyeless Devourer Tongue",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Giant Sword",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Jade Hammer",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Shadow Sceptre",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Metal Bat",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Execowtioner Axe",
+            "rarity": "rare"
+        }
+    ],
+    "walksaround": "None",
+    "exp": "6000",
+    "creatureclass": "Invertebrates",
+    "earthDmgMod": "90%",
+    "mitigation": "1.82",
+    "physicalDmgMod": "110%",
+    "primarytype": "Insects",
+    "race_id": "2092",
+    "bestiarylevel": "Hard",
+    "history": "On {{OfficialNewsArchive|6555|February 01, 2022}}, its loot was increased by 17%.",
+    "senseinvis": "yes",
+    "article": "an",
+    "actualname": "eyeless devourer",
+    "illusionable": "no",
+    "armor": "63",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "bestiaryname": "eyelessdevourer",
+    "name": "Eyeless Devourer",
+    "location": "[[Antrum of the Fallen]].",
+    "iceDmgMod": "100%",
+    "energyDmgMod": "95%",
+    "deathDmgMod": "100%"
+}

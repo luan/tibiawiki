@@ -1,0 +1,77 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "Earth Overlords",
+    "hpDrainDmgMod": "100%?",
+    "notes": "New creature in [[Updates/8.2|Summer Update 2008]].",
+    "isarenaboss": "no",
+    "walksthrough": "?",
+    "hp": "4000",
+    "speed": "?",
+    "abilities": "{{Ability List| {{Melee|0-400}}|{{Ability|[[Groundshaker]] Beam|0-930?|element=?}}|{{Ability|[[Paralyze]]|element=paralyze}}|{{Ability|a kind of earth UE spell|makes you poisoned starting from 25|element=poisoned}} }}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "secondarytype": "Elemental Lords",
+    "fireDmgMod": "125%>?",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "1500+?",
+    "pushable": "?",
+    "implemented": "8.20",
+    "loot": [
+        {
+            "amount": "0-168",
+            "itemName": "Gold Coin"
+        },
+        {
+            "amount": "0-3",
+            "itemName": "Platinum Coin"
+        },
+        {
+            "itemName": "Lump of Earth"
+        },
+        {
+            "itemName": "Shiny Stone"
+        },
+        {
+            "itemName": "Coal"
+        },
+        {
+            "itemName": "Terra Mantle",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Swamplair Armor",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Mother Soil",
+            "rarity": "always"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "2800",
+    "creatureclass": "Elementals",
+    "earthDmgMod": "0%?",
+    "physicalDmgMod": "100%?",
+    "primarytype": "Geo-Elementals",
+    "race_id": "451",
+    "senseinvis": "?",
+    "article": "an",
+    "actualname": "Earth Overlord",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Earth Overlord",
+    "isboss": "yes",
+    "behaviour": "Unknown",
+    "location": "[[The Elemental Spheres Quest]], [[Druid]]'s part - [[Earth Sphere]].",
+    "iceDmgMod": "80%",
+    "strategy": "Keep a good distance, try to stand diagonal from it (even if you try to outrun it). Use [[mana shield]] for  your own safety and it is preferred to use [[sudden death]] runes as you want to kill as many as you possibly can in the given time.",
+    "energyDmgMod": "100%?",
+    "deathDmgMod": "80%"
+}

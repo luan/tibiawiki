@@ -1,0 +1,112 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "As the magic user of the quaras, it wields powerful cold bubble attacks which deal [[Ice Damage]]. In addition, it uses distance [[Life Drain]] and a [[Life Drain]] beam.\n\n{{JSpoiler|You may hunt 600 [[Quara Constrictor]], Quara Hydromancer, [[Quara Mantassin]], [[Quara Pincher]], [[Quara Predator]] combined, as a task of the [[Killing in the Name of... Quest]]. Upon completion of the task you will face [[Thul]].}}",
+    "walksthrough": "Fire",
+    "hp": "1100",
+    "abilities": "{{Ability List\n |{{Melee|0-80|poison=5}}\n |{{Ability|Cold Bubble Beam|100-180|element=ice\n  |scene={{Scene|spell=8sqmbeam|effect=Bubbles Effect|caster=Quara Hydromancer|look_direction=east}}}}\n |{{Ability|Cold Bubble Berserk|90-150|element=ice\n  |scene={{Scene|spell=3x3spell|effect=Bubbles Effect|caster=Quara Hydromancer|effect_on_cater=yes}}}}\n |{{Ability|Green Life Drain Beam|170-240|element=life drain\n  |scene={{Scene|spell=8sqmbeam|effect=Poison Effect 2|caster=Quara Hydromancer|look_direction=east}}}}\n |{{Ability|Distance Life Drain|0-170|element=life drain\n  |scene={{Scene|spell=3sqmstrike|effect=Red Sparkles Effect|caster=Quara Hydromancer|casting_effect=Red Sparkles Effect|missile_direction=south-east|missile_distance=3/3}}}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "holyDmgMod": "100%",
+    "maxdmg": "{{Max Damage|physical=80|earth=5|ice=330|lifedrain=410}}",
+    "pushable": "?",
+    "implemented": "7.8",
+    "loot": [
+        {
+            "amount": "1-110",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Quara Eye",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Small Emerald",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "White Pearl",
+            "rarity": "semi-rare"
+        },
+        {
+            "amount": "1-5",
+            "itemName": "Shrimp",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Black Pearl",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Great Mana Potion",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Fish Fin",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Ring of Healing",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Wand of Cosmic Energy",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Knight Armor",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Energy, Poison",
+    "exp": "800",
+    "mitigation": "1.04",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "quara hydromancer",
+    "illusionable": "no",
+    "armor": "30",
+    "convince": "--",
+    "name": "Quara Hydromancer",
+    "isboss": "no",
+    "iceDmgMod": "0%",
+    "energyDmgMod": "125%",
+    "deathDmgMod": "100%",
+    "plural": "quara hydromancers",
+    "hpDrainDmgMod": "0%",
+    "usespells": "yes",
+    "lightcolor": "35",
+    "occurrence": "Common",
+    "bestiarytext": "Although less altered than the other quara subspecies, the Quara Hydromancer poses no smaller threat. People often underestimate them for their bloated bodies. However, their strength lies not in exotic body traits but in their dark minds. They are the priests and witchdoctors of the quara. Their legacy is the dark magic of their long extinct masters. Although their power is only a fraction of the power that once ruled the murky depths of the ocean, it is still enough to be more than a match for the unsuspecting adventurer. The only chance of a more balanced fight is to challenge them ashore where they are somewhat weaker than in their maritime habitat. They wield powerful curses with ease and they can combine their sinister powers for old, forbidden rituals that call upon darkness and doom to do their bidding.",
+    "speed": "245",
+    "pushobjects": "?",
+    "fireDmgMod": "0%",
+    "sounds": [
+        "Qua hah tsh!",
+        "Teech tsha tshul!",
+        "Quara tsha Fach!",
+        "Tssssha Quara!",
+        "Blubber.",
+        "Blup."
+    ],
+    "lightradius": "2",
+    "bestiaryclass": "Aquatic",
+    "creatureclass": "Amphibians",
+    "earthDmgMod": "110%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Quara",
+    "spawntype": [
+        "Regular",
+        "Unblockable"
+    ],
+    "race_id": "243",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "drownDmgMod": "0%",
+    "bestiaryname": "quarahydromancer",
+    "behaviour": "Quara Hydromancers fight until death. They use [[paralyze]] pretty often which can be deadly, considering you are already very slow underwater.",
+    "location": "[[Calassa]], [[Frozen Trench]], [[Yalahar]] ([[Sunken Quarter]]).",
+    "strategy": "All vocations should stay diagonal.<br>'''[[Knight]]s''': should run up to it and use a good two handed weapon and full attack because of the Hydromancers weak defense and melee. Stay diagonal to avoid its beam attack. Heal if paralyzed.<br>'''[[Mage]]s''': should run out of its range and use [[Energy Strike]]/[[Terra Strike]].<br>'''[[Paladin]]s''': should run away from it, hitting it with [[Bolt]]s or [[Royal Spears]].  Be careful though, you might run into other [[Quara]]s."
+}

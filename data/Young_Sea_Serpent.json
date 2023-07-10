@@ -1,0 +1,109 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "New creature in [[Updates/8.2|Summer Update 2008]]. After changing the looktype of this creature, CipSoft made a mistake, causing the items within the corpse to end up outside at the moment of disappearing (when rotting/decaying). This bug was fixed in [[Updates/8.41‎]].\n{{JSpoiler|You may hunt 900 [[Sea Serpent]]s and Young Sea Serpents combined as a task of the [[Killing in the Name of... Quest]]. Upon completion of the task you will face [[Leviathan]].}}",
+    "walksthrough": "Fire, Energy, Poison",
+    "hp": "1050",
+    "abilities": "{{Ability List\n |{{Melee|0-200+}}\n |{{Healing|Frequent Self-Healing|25-175}}\n |{{Ability|Earth Wave|10-250|element=earth}}\n |{{Ability|Ice Wave|80-250|element=ice}}\n |{{Ability|Drowning Bomb|20 [[hp]]/turn|element=drowning}}\n |{{Haste}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "holyDmgMod": "100%",
+    "maxdmg": "700",
+    "pushable": "No",
+    "implemented": "8.20",
+    "loot": [
+        {
+            "amount": "1-174",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Morning Star",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Battle Axe",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Heavily Rusted Armor",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Strong Health Potion",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Sea Serpent Scale",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Battle Hammer",
+            "rarity": "semi-rare"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Small Sapphire",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Strong Mana Potion",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Rusted Armor",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Stealth Ring",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Life Crystal",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "None",
+    "exp": "1000",
+    "mitigation": "0.78",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "young sea serpent",
+    "illusionable": "no",
+    "armor": "20",
+    "convince": "--",
+    "name": "Young Sea Serpent",
+    "isboss": "no",
+    "iceDmgMod": "0%",
+    "energyDmgMod": "110%",
+    "deathDmgMod": "115%",
+    "plural": "young sea serpents",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "The first lesson a newly hatched sea serpent has to learn is the survival of the fittest. Amongst a flock of other hungry baby serpents, only the strongest survive the ferocious appetite of their siblings. While fighting for food with each other, they have to elude the occasional attacks of their uncaring parents. Quickly, the fight for survival becomes natural to the Young Sea Serpent. It's not such a surprise that Young Sea Serpents are aggressive and predatory. To reach the  immense size of an adult sea serpent, a Young Sea Serpent has to eat almost constantly. Always driven by hunger, they are often more daring and aggressive than adult serpents. Gladly they are too small to pose a threat to ships but they may attack small fisher boats.<br /><br />They often follow fish schools to devour as much of them as they can. When doing so, it is not uncommon that they cross the path of a fisherman. Lucky are those who come out of such meetings with nothing worse than ruined nets. Often the ferocious attacks of the Young Sea Serpents capsize whole boats and the fishermen lose their catch and sometimes also their lives.<br />Given their appetite and the aggressiveness of their species towards each other,  it is not astonishing that Young Sea Serpents often are loners. In the rare cases they stick together, they have hatched from the same nest and have established a strict hacking order that is necessary to avoid bloodshed and cannibalism.",
+    "speed": "240",
+    "pushobjects": "Yes",
+    "fireDmgMod": "70%",
+    "sounds": [
+        "HISSSS",
+        "CHHHRRRR"
+    ],
+    "bestiaryclass": "Reptile",
+    "creatureclass": "Reptiles",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "120%",
+    "primarytype": "Serpents",
+    "spawntype": [
+        "Regular",
+        "Unblockable"
+    ],
+    "race_id": "439",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "drownDmgMod": "0%",
+    "bestiaryname": "youngseaserpent",
+    "behaviour": "Swims away at 400 hp and heals fast.",
+    "location": "[[Sea Serpent Area]].",
+    "strategy": "'''For all vocations:''' Their wave attacks cover more area than other monsters wave attacks so is harder avoid, still standing diagonally is your best option. They run and heal fast so kill them against a wall so they can't escape. <br>'''Also:''' You need to go up and down a lot to hunt them so levitate spell is a must or bring [[Ice Cube]]s or [[Pot]]s (monsters don't push them) and you can use them to do [[Ledgehopping]] to reduce the damage you take.<br>'''[[Mage]]s:'''Run At them while casting Exori vis or more effective Exori Mort, beware of running into more monsters. <br>'''[[Paladin]]s:''' Stair hop or use shield and throwing weapons (running from them is very hard), you need decent skills to solo them (around 70/60 skills), they're weak to melee so [[Ethereal Spear]] can do more damage than [[Divine Missile]].<br>'''[[Knight]]s:''' At level 65 with skills 70/70 you can easily hunt them using Scrapper arena weapon or any Twohanded weapon with 45+ attacking 2 Young Sea serpents isn't a big problem just [[Exori]] (easily 200+ with magic level 6 and level 70) or [[exori gran]] (easily 400+ with ml 6 and level 70) Just watch out so you don't get a [[Sea Serpent]] attacking you while killing a young one because then you have to waste a lot of [[Mana potion]] and [[Strong Health Potion]] to make sure you won't die, try to avoid the waves and prepare for no profit."
+}

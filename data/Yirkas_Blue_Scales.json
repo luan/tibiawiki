@@ -1,0 +1,132 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "It's part of the {{Spoiler Section|Grimvale Quest|An Ancient Feud}}.",
+    "walksthrough": "?",
+    "hp": "6300",
+    "speed": "?",
+    "abilities": "{{Ability List\n |{{Melee|0-100}}\n |{{Ability|Energy Strike|400-500|element=energy\n  |scene={{Scene|spell=1sqmstrike|effect=Blue Electricity Effect|missile=Energy Missile|missile_direction=south-east|missile_distance=1/1}}}}\n |{{Ability|Energy Ball|250-350|element=energy\n  |scene={{Scene|spell=1sqmballtarget|effect=Blue Electricity Effect|missile=Energy Missile|missile_direction=south-east|missile_distance=2/2}}}}\n |{{Ability|Energy Bomb|200-300|element=energy\n  |scene={{Scene|spell=2sqmballself|effect=Energy Effect|effect_on_caster=yes}}}}\n |{{Ability|Earth Wave|400-500|element=earth}}\n}}",
+    "healMod": "100%?",
+    "paraimmune": "yes",
+    "fireDmgMod": "90%",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "?",
+    "pushable": "no",
+    "runsat": "0",
+    "implemented": "12.40.9997",
+    "cooldown": "20",
+    "loot": [
+        {
+            "itemName": "Yirkas' Egg"
+        },
+        {
+            "amount": "1-4",
+            "itemName": "Blue Goanna Scale"
+        },
+        {
+            "amount": "9",
+            "itemName": "Platinum Coin"
+        },
+        {
+            "amount": "3",
+            "itemName": "Ultimate Health Potion"
+        },
+        {
+            "itemName": "Gold Ingot"
+        },
+        {
+            "itemName": "Blue Gem"
+        },
+        {
+            "itemName": "Red Silk Flower"
+        },
+        {
+            "itemName": "Gemmed Figurine"
+        },
+        {
+            "itemName": "Lizard Heart"
+        },
+        {
+            "itemName": "Demon Shield"
+        },
+        {
+            "itemName": "Giant Sword"
+        },
+        {
+            "itemName": "Gold Ring"
+        },
+        {
+            "itemName": "Mastermind Potion"
+        },
+        {
+            "itemName": "Ring of Green Plasma"
+        },
+        {
+            "itemName": "Spellweaver's Robe"
+        },
+        {
+            "itemName": "Raw Watermelon Tourmaline"
+        },
+        {
+            "itemName": "Alloy Legs"
+        },
+        {
+            "itemName": "Magma Legs"
+        },
+        {
+            "itemName": "Skull Helmet"
+        },
+        {
+            "itemName": "Jade Hammer"
+        },
+        {
+            "itemName": "War Axe"
+        },
+        {
+            "itemName": "Assassin Dagger"
+        },
+        {
+            "itemName": "Green Gem"
+        },
+        {
+            "itemName": "Magic Plate Armor"
+        },
+        {
+            "itemName": "Demonrage Sword"
+        },
+        {
+            "itemName": "Spellbook of Mind Control"
+        },
+        {
+            "itemName": "Ornate Crossbow"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "4900",
+    "creatureclass": "Reptiles",
+    "earthDmgMod": "60%",
+    "physicalDmgMod": "100%?",
+    "bosstiaryclass": "Archfoe",
+    "primarytype": "Varanidae",
+    "spawntype": [
+        "Triggered"
+    ],
+    "race_id": "1982",
+    "senseinvis": "yes",
+    "actualname": "Yirkas Blue Scales",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Yirkas Blue Scales",
+    "isboss": "yes",
+    "location": "[[Lion Sanctum]].",
+    "iceDmgMod": "100%?",
+    "strategy": "'''[[Knights]]''': Standing diagonally will not make you evade the [[Poison|Terra Wave]], because it's very wide (the same size as [[Mutated Human]]'s wave). This boss can also deal high combos, so [[Energy_Damage#Energy_Protection|Energy Protection]] is recommended.<br>\n'''Other Vocations''': Stay away and attack from distance to avoid most of it's abilities. There are two big pillars in the boss room, so you can use them to your advantage.",
+    "energyDmgMod": "85%",
+    "deathDmgMod": "100%?"
+}

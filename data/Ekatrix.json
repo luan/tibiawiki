@@ -1,0 +1,84 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "She is the witch responsible for [[Tainted Soul|tainting souls]].\n{{JSpoiler|Part of [[The Tainted Souls Quest]].}}",
+    "walksthrough": "Energy",
+    "hp": "500",
+    "speed": "?",
+    "abilities": "{{Ability List| {{Ability|[[Fireball]]|30-60|element=fire}}|{{Ability|[[Fire Field]]|element=fire field}} }}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "secondarytype": "Amazons",
+    "fireDmgMod": "100%",
+    "holyDmgMod": "105%",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "?",
+    "pushable": "?",
+    "implemented": "10.80",
+    "cooldown": "20",
+    "loot": [
+        {
+            "amount": "1-60",
+            "itemName": "Gold Coin"
+        },
+        {
+            "itemName": "Broom"
+        },
+        {
+            "itemName": "Witch Broom"
+        },
+        {
+            "amount": "1-10",
+            "itemName": "Cookie"
+        },
+        {
+            "itemName": "Cape"
+        },
+        {
+            "itemName": "Wolf Tooth Chain"
+        },
+        {
+            "itemName": "Coat"
+        },
+        {
+            "itemName": "Star Herb"
+        },
+        {
+            "itemName": "Necrotic Rod"
+        },
+        {
+            "itemName": "Bag of Apple Slices"
+        },
+        {
+            "itemName": "Garlic Necklace"
+        }
+    ],
+    "walksaround": "Fire, Poison",
+    "exp": "200",
+    "creatureclass": "Humans",
+    "earthDmgMod": "80%",
+    "physicalDmgMod": "105%",
+    "bosstiaryclass": "Archfoe",
+    "primarytype": "Sorcerers",
+    "spawntype": [
+        "Unique"
+    ],
+    "race_id": "1140",
+    "senseinvis": "?",
+    "illusionable": "yes",
+    "armor": "10",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Ekatrix",
+    "isboss": "yes",
+    "behaviour": "Like a [[Witch]], will try to stay away from her attacker.",
+    "location": "[[Tainted Caves]] in the [[Green Claw Swamp]].",
+    "iceDmgMod": "100%",
+    "strategy": "Unknown",
+    "energyDmgMod": "0%",
+    "deathDmgMod": "100%?"
+}

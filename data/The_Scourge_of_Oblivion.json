@@ -1,0 +1,247 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "{{JSpoiler|Last boss of [[The Secret Library Quest]]. You will earn the [[achievement]] [[Library Liberator]] upon killing it for the first time.}}",
+    "walksthrough": "?",
+    "hp": "?",
+    "speed": "?",
+    "abilities": "{{Ability List|}}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "secondarytype": "Electro-Elementals",
+    "fireDmgMod": "100%?",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        "The Scourge Of Oblivion prepares a devestating attack!",
+        "The Scourge Of Oblivion activates its reflective shields!"
+    ],
+    "maxdmg": "?",
+    "pushable": "?",
+    "implemented": "11.80.7048",
+    "cooldown": "20",
+    "loot": [
+        {
+            "amount": "100",
+            "itemName": "Royal Star"
+        },
+        {
+            "amount": "3-13",
+            "itemName": "Crystal Coin"
+        },
+        {
+            "amount": "5-15",
+            "itemName": "Platinum Coin"
+        },
+        {
+            "amount": "14-20?",
+            "itemName": "Ultimate Spirit Potion"
+        },
+        {
+            "amount": "12",
+            "itemName": "Small Amethyst"
+        },
+        {
+            "amount": "12",
+            "itemName": "Small Diamond"
+        },
+        {
+            "amount": "12",
+            "itemName": "Small Emerald"
+        },
+        {
+            "amount": "12",
+            "itemName": "Small Ruby"
+        },
+        {
+            "amount": "6-12",
+            "itemName": "Silver Token"
+        },
+        {
+            "amount": "10",
+            "itemName": "Bullseye Potion"
+        },
+        {
+            "amount": "10",
+            "itemName": "Mastermind Potion"
+        },
+        {
+            "amount": "4-8",
+            "itemName": "Gold Token"
+        },
+        {
+            "amount": "6",
+            "itemName": "Supreme Health Potion"
+        },
+        {
+            "amount": "6",
+            "itemName": "Ultimate Mana Potion"
+        },
+        {
+            "amount": "3",
+            "itemName": "Blue Crystal Shard"
+        },
+        {
+            "amount": "3",
+            "itemName": "Green Crystal Shard"
+        },
+        {
+            "amount": "3",
+            "itemName": "Violet Crystal Shard"
+        },
+        {
+            "itemName": "Giant Emerald"
+        },
+        {
+            "itemName": "Giant Sapphire"
+        },
+        {
+            "itemName": "Giant Ruby"
+        },
+        {
+            "itemName": "Red Gem"
+        },
+        {
+            "itemName": "Green Gem"
+        },
+        {
+            "itemName": "Collar of Blue Plasma"
+        },
+        {
+            "itemName": "Rift Shield"
+        },
+        {
+            "itemName": "Giant Shimmering Pearl (Brown)"
+        },
+        {
+            "itemName": "Arcane Staff"
+        },
+        {
+            "itemName": "Huge Chunk of Crude Iron"
+        },
+        {
+            "itemName": "Magic Sulphur"
+        },
+        {
+            "itemName": "Ring of the Sky"
+        },
+        {
+            "itemName": "Skullcracker Armor"
+        },
+        {
+            "itemName": "Chaos Mace"
+        },
+        {
+            "itemName": "Spark Sphere"
+        },
+        {
+            "itemName": "Plasmatic Lightning"
+        },
+        {
+            "itemName": "Emerald Bangle"
+        },
+        {
+            "itemName": "Cat's Paw"
+        },
+        {
+            "itemName": "Piggy Bank"
+        },
+        {
+            "itemName": "Mysterious Remains"
+        },
+        {
+            "itemName": "Energy Bar"
+        },
+        {
+            "itemName": "Collar of Green Plasma"
+        },
+        {
+            "itemName": "Gold Ingot"
+        },
+        {
+            "itemName": "Yellow Gem"
+        },
+        {
+            "itemName": "Collar of Red Plasma"
+        },
+        {
+            "itemName": "Soul Stone"
+        },
+        {
+            "itemName": "Small Topaz"
+        },
+        {
+            "itemName": "Ring of Blue Plasma"
+        },
+        {
+            "itemName": "Void Boots"
+        },
+        {
+            "itemName": "Berserk Potion"
+        },
+        {
+            "itemName": "Skull Staff"
+        },
+        {
+            "itemName": "Blue Gem"
+        },
+        {
+            "itemName": "Ring of Red Plasma"
+        },
+        {
+            "itemName": "Rift Crossbow"
+        },
+        {
+            "itemName": "Ring of Green Plasma"
+        },
+        {
+            "itemName": "Rift Lance"
+        },
+        {
+            "itemName": "Rift Bow"
+        },
+        {
+            "itemName": "Violet Gem"
+        },
+        {
+            "itemName": "Library Ticket",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "The Calamity",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Spellbook of Lost Souls"
+        },
+        {
+            "itemName": "Abyss Hammer"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "75000",
+    "creatureclass": "Invertebrates",
+    "earthDmgMod": "100%?",
+    "physicalDmgMod": "100%?",
+    "bosstiaryclass": "Archfoe",
+    "primarytype": "Cnidarians",
+    "spawntype": [
+        "Triggered"
+    ],
+    "race_id": "1642",
+    "senseinvis": "?",
+    "actualname": "The Scourge Of Oblivion",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "The Scourge of Oblivion",
+    "isboss": "yes",
+    "behaviour": "Unknown",
+    "location": "[[Secret Library]].",
+    "iceDmgMod": "100%?",
+    "strategy": "This boss is part of the [[The Secret Library Quest#Final Battle|final battle]] of [[the Secret Library Quest]], check it for more context.\n{{#lst:The Secret Library Quest/Spoiler|the_scourge_of_oblivion}}",
+    "energyDmgMod": "100%?",
+    "deathDmgMod": "100%?"
+}

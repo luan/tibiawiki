@@ -1,0 +1,109 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "walksthrough": "Fire, Energy, Poison",
+    "hp": "8600",
+    "occurrence": "Common",
+    "bestiarytext": "Carnisylvans were once humans, exposed to a dark ritual at birth they unwillingly abandoned their former lives to morph into tree-like shadow beings. Some time after coming of age they wander away to fall into a neverending slumber deep underground. Standing in pitch-black darkness, sleeping still, dreaming quaint dreams of death they await the time of joint uprising. Some are born to be chosen custodians of their siblings, awake and sentient. Hulking carnisylvans have the strongest bark and endure an intangible amount of pain. Their attacks are devastating but they need to get close to their victims.",
+    "speed": "110",
+    "abilities": "{{Ability List\n |{{Melee|0-300}}\n |{{Ability|Poison Strike|350-450|earth\n  |scene={{Scene|spell=1sqmstrike|effect=Poison Effect 1|missile=Small Stone Missile|missile_direction=south-east|missile_distance=1/1|caster=Hulking Carnisylvan}}}}\n |{{Ability|Explosion|600-800|physical|scene={{Scene|spell=2sqmballself|effect=Fireball Effect|caster=Hulking Carnisylvan}}}}\n |{{Ability|Explosion Beam|350-400|physical|scene={{Scene|spell=4sqmbeam|effect=Fireball Effect|look_direction=east|caster=Hulking Carnisylvan}}}}}}",
+    "healMod": "100%",
+    "pushobjects": "yes",
+    "paraimmune": "yes",
+    "fireDmgMod": "120%",
+    "holyDmgMod": "100%",
+    "sounds": [],
+    "maxdmg": "{{Max Damage|physical=1500|earth=450}}",
+    "pushable": "no",
+    "usedelements": "?",
+    "implemented": "12.70.10953",
+    "bestiaryclass": "Human",
+    "loot": [
+        {
+            "amount": "1-19",
+            "itemName": "Platinum Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Bone",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Great Health Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Terra Hood",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-?",
+            "itemName": "Carnisylvan Finger",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-?",
+            "itemName": "Carnisylvan Bark",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Terra Boots",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Lightning Headband",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "War Hammer",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Knight Axe",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Epee",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Diamond Sceptre",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Dragonbone Staff",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Human Teeth",
+            "rarity": "rare"
+        }
+    ],
+    "walksaround": "None",
+    "exp": "4700",
+    "creatureclass": "Elementals",
+    "earthDmgMod": "80%",
+    "mitigation": "1.32",
+    "physicalDmgMod": "100%",
+    "primarytype": "Bio-Elementals",
+    "race_id": "2107",
+    "bestiarylevel": "Hard",
+    "history": "On {{OfficialNewsArchive|6555|February 01, 2022}}, its experience was increased to 4700 while its loot was increased by 18%.",
+    "senseinvis": "yes",
+    "article": "a",
+    "actualname": "hulking carnisylvan",
+    "illusionable": "no",
+    "armor": "51",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "bestiaryname": "carnisylvanhulking",
+    "name": "Hulking Carnisylvan",
+    "behaviour": "Unknown.",
+    "location": "[[Forest of Life]].",
+    "iceDmgMod": "110%",
+    "strategy": "Unknown.",
+    "energyDmgMod": "85%",
+    "deathDmgMod": "90%"
+}

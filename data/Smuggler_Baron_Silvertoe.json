@@ -1,0 +1,62 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "Can be found during [[The Thieves Guild Quest]].",
+    "walksthrough": "?",
+    "hp": "280",
+    "speed": "?",
+    "abilities": "{{Ability List| {{Melee|0-50|element=physical}}|{{Ability|[[Throwing Knives]]|0-?}}|{{Summon|Wild Warrior|3}}|{{Healing}} }}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "100%?",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        "I will make your death look like an accident!",
+        "You should not have interferred with my business!",
+        "Bribes are expensive, murder ist cheap!",
+        "I see some profit in your death!",
+        "I expect you to die!"
+    ],
+    "maxdmg": "50+ (210+ with 3 summons)",
+    "pushable": "?",
+    "implemented": "8.20",
+    "loot": [
+        {
+            "amount": "0-30",
+            "itemName": "Gold Coin"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "Meat"
+        },
+        {
+            "itemName": "Mace"
+        },
+        {
+            "itemName": "Short Sword"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "170",
+    "creatureclass": "Humans",
+    "earthDmgMod": "100%?",
+    "physicalDmgMod": "100%?",
+    "bosstiaryclass": "Nemesis",
+    "primarytype": "Outlaws",
+    "race_id": "436",
+    "senseinvis": "yes",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Smuggler Baron Silvertoe",
+    "isboss": "yes",
+    "behaviour": "Unknown.",
+    "location": "[[Tiquanda Bandit Caves]] ({{Mapper Coords|127.43|127.167|7|3|text=here}}).",
+    "iceDmgMod": "100%?",
+    "strategy": "Unknown, you could try to go invisible.",
+    "energyDmgMod": "100%?",
+    "deathDmgMod": "100%?"
+}

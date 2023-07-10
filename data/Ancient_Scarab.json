@@ -1,0 +1,118 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "[[Larva]]'s final stage. They are almost as powerful as a [[Giant Spider]], but can be more dangerous since they can [[paralyze]] you.  It is not uncommon to get 2 or 3 on you at once in the [[Larva Cave]]s.\n\n{{JSpoiler|You may hunt 250 of these as a task of the [[Killing in the Name of... Quest]]. Upon completion of the task you will face [[Fleshcrawler]].}}",
+    "walksthrough": "Poison",
+    "hp": "1000",
+    "abilities": "{{Ability List\n |{{Melee|0-225|poison=5}}\n |{{Ability|Earth Missile|15-135|earth\n  |scene={{Scene|spell=7sqmstrike|effect=Poison Effect 3|caster=Ancient Scarab|missile=Poison Missile|missile_direction=south-east|missile_distance=7/7|damage_effect=Unknown}}}}\n |{{Ability|Poisoning Storm|starting up to 25 hp/turn|poisoned\n  |scene={{Scene|spell=3sqmball2self|effect=Poison Effect 3|caster=Ancient Scarab|effect_on_caster=yes}}}}\n |{{Ability|paralyze|200-220 points for 25 seconds|paralyze\n  |scene={{Scene|spell=7sqmstrike|effect=Poison Effect 3|caster=Ancient Scarab|missile=Poison Missile|missile_direction=south-east|missile_distance=7/7|damage_effect=Unknown}}}}\n |{{Haste\n  |scene={{Scene|spell=buffspell|effect=Red Sparkles Effect|caster=Ancient Scarab|effect_on_caster=yes}}}}\n |{{Summon|Larva|3}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "holyDmgMod": "100%",
+    "maxdmg": "{{Max Damage|physical=210|earth=171|summons=105}}.",
+    "pushable": "No",
+    "implemented": "7.3",
+    "loot": [
+        {
+            "amount": "1-187",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Magic Light Wand",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Scarab Coin",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "Small Emerald",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-4",
+            "itemName": "Small Amethyst",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Scarab Pincers",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Plate Armor",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Scarab Amulet",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Ancient Amulet",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Strong Health Potion",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Scarab Shield",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Springsprout Rod",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Daramian Waraxe",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Terra Hood",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Fire, Energy",
+    "exp": "720",
+    "mitigation": "0.86",
+    "attacktype": "Melee",
+    "article": "an",
+    "actualname": "ancient scarab",
+    "illusionable": "no",
+    "armor": "36",
+    "convince": "--",
+    "name": "Ancient Scarab",
+    "isboss": "no",
+    "iceDmgMod": "105%",
+    "energyDmgMod": "80%",
+    "deathDmgMod": "100%",
+    "plural": "ancient scarabs",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "The Ancient Scarab is ancient indeed - it is said that there are specimens that are aeons old. Rumours say that unless killed, a scarab will not die of old age but continue to grow and grow to enormous proportions. Their usual pace of movement is not impressively fast, but they are capable of doing sudden charges to catch their opponents off guard. Even more dangerous, their poison is strong enough to allow these creatures to emit large clouds of stinking death and mayhem around themselves. Ancient Scarabs are said to be the keepers of mysterious secrets swallowed by the sands long time ago. So don't be surprised if some of them might display even more cunning tactics and devastating magic.",
+    "speed": "109",
+    "pushobjects": "Yes",
+    "fireDmgMod": "120%",
+    "sounds": [
+        ""
+    ],
+    "bestiaryclass": "Vermin",
+    "creatureclass": "Invertebrates",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "90%",
+    "primarytype": "Insects",
+    "spawntype": [
+        "Regular",
+        "Raid"
+    ],
+    "race_id": "79",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "ancientscarab",
+    "behaviour": "Ancient Scarabs chase the enemy and use poison storms that can paralyze or poison players as well as poison missiles. They will fight until death, and can [[retarget]].",
+    "location": "[[Ankrahmun Library Tomb]], [[Stone Tomb]], [[Peninsula Tomb]], [[Mother of Scarabs Lair]], [[Kha'zeel Scarab Lair]], deep in [[Larva Cave]]s (found beneath steps underground), [[Lion's Rock]], [[Arena and Zoo Quarter]] and beneath [[Fenrock]].",
+    "strategy": "A hunting team should consist of a single blocker and one or more shooters. [[Paladin]]s with [[Distance Fighting]] of 65+ are welcome. [[Mage]]s should attack using a [[Rod]]/[[Wand]], together or optionally with [[Summon Creature|summoned]] [[Demon Skeleton]]s, [[Flame Strike]], or [[Fireball]]/[[Icicle (Rune)|Icicle]] runes. In case the team decides to use Demon Skeletons and there is no [[Druid]], or the druid is not yet on the required level to [[Mass Healing|mass heal]] on the [[Party]], don't forget to bring some [[Intense Healing Rune|IHs]] to heal the Demon Skeletons from time to time. Low level blockers should consider wearing a [[Silver Amulet]] to reduce part of the [[Earth]] damage received when hunting Ancient Scarabs.<br>A [[Sorcerer]] with a [[blocker]] can hunt these easily and get a lot of [[experience]] in a short amount of time. The [[Knight]] lures 2+ Ancient Scarabs then the [[Sorcerer]] uses [[Fire Wave]] to kill. [[Druid]] can use this tactic too by using [[Ice Wave]]. A high level mage can also block healing with just exura, Fire Walls can also be shot to make sure the ancient scarab doesn't switch to the shooter.<br />\n\n'''[[Mage]]s''' Since the update, [[Fireball]] runes can be used to kill these creatures effectively. A 50+ mage can solo Ancient Scarabs rather easily by running them and hitting them with [[Flame Strike]]. High Magic Level is recommended. Always keep [[Exura]] handy in case you get paralyzed. You should be ready to heal if your [[HP]] goes under 300, since otherwise you can die by an unfortunate combo. If more than 1 Ancient Scarab is lured, then you should use [[Great Fireball|GFBs]] or [[Avalanche (Rune)|Avalanches]] to kill it fast, since 2 at a time can kill you in the blink of an eye. You should also keep some [[Great Fireball|GFBs]] or [[Avalanche (Rune)|Avalanches]] handy in case you get two or more [[larva]]e or [[scarab]]s on you which will break your shielding. [[Druid]]s can hunt these as soon as they are able to cast the [[Mass Healing]] spell: [[Summon Creature|summon]] two [[Demon Skeleton]]s, get a strongest [[Rod]] (i.e [[Hailstorm Rod]]) ready and attack the target; heal the [[Demon Skeleton|DS]] on low [[Hit Points|hp]] with Mass Healing. [[High Level]] [[Sorcerer]]s can hunt these using [[Energy Wave]] to kill 2 or 3 at a time. Mid to High [[Level]] [[Sorcerer]]s can also lure large amounts of Ancient Scarabs to the stairs before using [[Hell's Core]], gaining large amounts of [[experience]] at once, though there is relatively high risk.<br />\nTo lower earth damage you receive you can wear some parts of [[Terra Set]] and a [[Silver Amulet]].<br />\n\n'''[[Knight]]s''' May hunt these solo at the same level you would hunt [[Giant Spider]]s, but only at higher levels will get profit out of the hunting because of their resistance to physical attacks. [[High Level]] knights can [[Luring|lure]] some Ancient Scarabs and finish them all off with [[Exori]]'s. Most damage a knight will receive is from the [[Poisoned|Poison]]."
+}

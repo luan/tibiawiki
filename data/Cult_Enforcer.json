@@ -1,0 +1,119 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "walksthrough": "?",
+    "hp": "1150",
+    "abilities": "{{Ability List\n |{{Melee|0-250}}\n |{{Ability|Throws [[Spears]]|50-100|element=physical\n  |scene={{Scene|spell=5sqmstrike|background=canvas|caster=Cult Enforcer|look_direction=south|missile=Spear Missile|missile_direction=south-east|missile_distance=5/5}}}}\n |{{Healing|range=150-200}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "holyDmgMod": "100%",
+    "maxdmg": "{{Max Damage|physical=350}}",
+    "pushable": "no",
+    "usedelements": "Physical",
+    "implemented": "11.40.5409",
+    "loot": [
+        {
+            "amount": "1-70",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Meat",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Great Health Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Cultish Robe",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Small Diamond",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Small Amethyst",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Small Emerald",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Halberd",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Scarf",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "War Hammer",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Might Ring",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Guardian Shield",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Knight Legs",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Warrior Helmet",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Piggy Bank",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Fire, Energy, Poison",
+    "exp": "1000",
+    "mitigation": "1.24",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "cult enforcer",
+    "illusionable": "no",
+    "armor": "30",
+    "convince": "--",
+    "name": "Cult Enforcer",
+    "isboss": "no",
+    "iceDmgMod": "100%",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "100%",
+    "plural": "cult enforcers",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "The Cult Enforcer is a stronger version of [[Adept of the Cult|Adepts Of The Cult]].",
+    "speed": "130",
+    "pushobjects": "yes",
+    "fireDmgMod": "100%",
+    "sounds": [
+        "No one will stop us!"
+    ],
+    "runsat": "0",
+    "bestiaryclass": "Human",
+    "creatureclass": "Humans",
+    "earthDmgMod": "100%",
+    "physicalDmgMod": "90%",
+    "primarytype": "Outlaws",
+    "spawntype": [
+        "Regular"
+    ],
+    "race_id": "1513",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "cultenforcer",
+    "behaviour": "They fight in close combat.",
+    "location": "[[Forbidden Temple (Carlin)]]",
+    "strategy": "Treat it like a [[Vicious Squire]]."
+}

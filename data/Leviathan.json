@@ -1,0 +1,83 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "New creature in [[Updates/8.5|Summer Update 2009]].<p>\n{{JSpoiler|Part of the [[Killing in the Name of... Quest]].<br>[[Image:Leviathan Location.png]]<br>}}</p>",
+    "walksthrough": "?",
+    "hp": "6000",
+    "speed": "?",
+    "abilities": "{{Ability List| {{Melee|0-500}}|{{Ability|[[Terra Wave|Earth Wave]]|130-460|element=earth}}|{{Ability|[[Ice Wave]]|365-491|element=ice}}|{{Ability|[[Drowning|Drowning Bomb]] 20 [[hp]]/6 turns|element=drowning}}|{{Ability|[[Self Healing|Frequent Self-Healing]]|0-500+|element=healing}} }}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "yes",
+    "fireDmgMod": "70%",
+    "holyDmgMod": "100%",
+    "sounds": [
+        "CHHHRRRR",
+        "HISSSS"
+    ],
+    "maxdmg": "1471 maybe more",
+    "pushable": "?",
+    "implemented": "8.50",
+    "loot": [
+        {
+            "amount": "0-7",
+            "itemName": "Platinum Coin"
+        },
+        {
+            "amount": "0-5",
+            "itemName": "Small Sapphire"
+        },
+        {
+            "itemName": "Strong Mana Potion"
+        },
+        {
+            "itemName": "Rusted Armor"
+        },
+        {
+            "itemName": "Rusted Legs"
+        },
+        {
+            "itemName": "Bonebreaker"
+        },
+        {
+            "itemName": "Moon Backpack",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Frozen Plate",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Sea Serpent Trophy",
+            "rarity": "always"
+        },
+        {
+            "itemName": "Leviathan's Amulet",
+            "rarity": "always"
+        },
+        {
+            "itemName": "Crystalline Armor"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "5000",
+    "creatureclass": "Reptiles",
+    "earthDmgMod": "100%",
+    "physicalDmgMod": "115%",
+    "primarytype": "Serpents",
+    "race_id": "551",
+    "senseinvis": "yes",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "0%",
+    "convince": "--",
+    "name": "Leviathan",
+    "isboss": "yes",
+    "behaviour": "Heals as quickly as a [[Hydra]] and stronger, also runs away in deep red health.",
+    "location": "[[Sea Serpent Area]] (look at spoiler for more info).",
+    "iceDmgMod": "0%",
+    "strategy": "'''To all vocations:''' Keep yourself diagonal and wear a [[Protection Amulet]] or [[Leviathan's Amulet]] since most of the damage you will receive comes from their melee.<br>Treat it like a strong [[Sea Serpent]] with more hit points, stronger attacks, and faster healing. You have 10 minutes to kill and loot it or you will be kicked out.<br>'''Knights:''' kill it using [[Berserk]], [[Fierce Berserk]] and [[Whirlwind Throw]] when it starts to run. It is highly recommended to cast [[Blood Rage]] and [[Annihilation]], then combine with [[Berserk]], [[Fierce Berserk]], [[Brutal Strike]] and [[Front Sweep]]. <br>'''Paladins:''' Paladins should use [[Assassin Stars]] and use your best potions to heal.",
+    "energyDmgMod": "110%",
+    "deathDmgMod": "110%<?"
+}

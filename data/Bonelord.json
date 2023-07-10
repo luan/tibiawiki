@@ -1,0 +1,104 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "Bonelords give good [[loot]] and are profitable for skilled [[player]]s to kill at low [[level]]s. They are one of the four sources of the [[Bonelord Shield]].",
+    "walksthrough": "Poison",
+    "hp": "260",
+    "abilities": "{{Ability List\n |{{Melee|0-28}}\n |{{Ability|Fire Strike|25-45|fire\n  |scene={{Scene|spell=7sqmstrike|caster=Bonelord|missile=Fire Missile|missile_direction=south-east|missile_distance=7/7|effect=Fire Effect}}}}\n |{{Ability|Energy Strike|15-45|energy\n  |scene={{Scene|spell=7sqmstrike|caster=Bonelord|missile=Energy Missile|missile_direction=south-east|missile_distance=7/7|effect=Blue Electricity Effect}}}}\n |{{Ability|Earth Strike|5-45|earth\n  |scene={{Scene|spell=7sqmstrike|caster=Bonelord|missile=Poison Missile|missile_direction=south-east|missile_distance=7/7|effect=Poison Effect 1}}}}\n |{{Ability|Death Strike|30-50|death\n  |scene={{Scene|spell=7sqmstrike|effect=Death Effect|caster=Bonelord|missile=Death Missile|missile_direction=south-east|missile_distance=7/7}}}}\n |{{Ability|Life Drain Strike|35-45|life drain\n  |scene={{Scene|spell=7sqmstrike|effect=Red Sparkles Effect|caster=Bonelord|missile_direction=south-east|missile_distance=7/7}}}}\n |{{Ability|Mana Drain Strike|5-25|mana drain\n  |scene={{Scene|spell=7sqmstrike|effect=Red Sparkles Effect|caster=Bonelord|missile_direction=south-east|missile_distance=7/7}}}}\n |{{Summon|skeleton|6}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "holyDmgMod": "100%",
+    "maxdmg": "{{Max Damage|physical=5|fire=45|energy=45|earth=45|death=50|lifedrain=45|manadrain=35|summons=180}}",
+    "pushable": "no",
+    "implemented": "4.0",
+    "loot": [
+        {
+            "amount": "0-48",
+            "itemName": "Gold Coin"
+        },
+        {
+            "itemName": "Longsword"
+        },
+        {
+            "itemName": "Morning Star"
+        },
+        {
+            "itemName": "Small Flask of Eyedrops",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Spellbook",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Steel Shield",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Two Handed Sword",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Bonelord Eye",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Terra Rod",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Mana Potion",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Bonelord Shield",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Fire, Energy",
+    "exp": "170",
+    "mitigation": "0.51",
+    "attacktype": "Distance",
+    "history": "With a small patch on {{OfficialNewsArchive|1437|August 23, 2010}} [[CipSoft]] changed the name of this many-eyed creature from the former '''Beholder''' to a new name '''Bonelord'''. The reason for this change is hinted in the [https://www.tibia.com/news/?subtopic=newsarchive&id=1437 newspost on tibia.com as an interference of ''some wizards of the coast of a remote kingdom full of dungeons and dragons'']. It is not officially confirmed, but very likely a copyright infringement claim by the company [[wikipedia:Wizards of the Coast|Wizards of the Coast]], makers of [[wikipedia:Dungeons & Dragons|Dungeons & Dragons]], since they see the term ''Beholder'' as part of their ''product identity''.<ref>http://en.wikipedia.org/wiki/Beholder</ref><ref>http://www.d20srd.org/faq.htm</ref>\n\n<references />",
+    "article": "a",
+    "actualname": "bonelord",
+    "illusionable": "yes",
+    "armor": "5",
+    "convince": "--",
+    "name": "Bonelord",
+    "isboss": "no",
+    "iceDmgMod": "80%",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "100%",
+    "plural": "bonelords",
+    "hpDrainDmgMod": "0%",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "Bonelords are members of an ancient race that once ruled vast parts of the world. The days of this ancient glory are long gone but unlike other races of the past, the Bonelords managed to survive the decline of their power. Parts of their former power exist along with small groups or loners who took refuge in some ruins or caves. Some reluctantly allied themselves with other races or enslaved weaker creatures to do their bidding. Using bribes or threats, some overlords managed to hire Bonelords into their rank. Such 'labour contracts' are only temporary at best and chances are that a Bonelord is more concerned about plotting revenge or betrayal on its 'master' than to do his bidding.<br />Bonelords are accomplished magicians of great intellect. The latter is rather alien to human standards and it is not easy to understand a Bonelord's motivations and philosophy. With their natural affinity to the necromantic arts, the Bonelords still claim some areas of land as their own and guard them with the help of their undead minions. They are hostile to most other races which they consider as upstarts and primitive. They fiercely defend their realms or places they claim for their own, and their interest in fresh corpses for their necromantic studies makes them a threat for each human community. Since their population grows only slowly, they envy and hate the more fertile races which, in their eyes, stole the power that rightfully belonged to the Bonelords. Seeing themselves as a superior 'conqueror race', they gather their undead forces and pursue their studies aiming at the day on which they will raise an unstoppable army of powerful undead creatures to lead them to another war to conquer the world.",
+    "speed": "75",
+    "pushobjects": "yes",
+    "fireDmgMod": "110%",
+    "sounds": [
+        "You've got the look!",
+        "Let me take a look at you.",
+        "Eye for eye!",
+        "I've got to look!",
+        "Here's looking at you!"
+    ],
+    "bestiaryclass": "Magical",
+    "creatureclass": "Invertebrates",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Bonelords",
+    "spawntype": [
+        "Regular"
+    ],
+    "race_id": "17",
+    "bestiarylevel": "Easy",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "bonelord",
+    "behaviour": "The bonelord, a.k.a. Beholder in earlier versions of the game, will back away from its opponent, trying to keep a distance from the target while using a variety of [[Creature Spells|spells]], and usually [[summon]]s [[Skeleton]]s which will attempt to surround the attacker. After [[Updates/8.0|Update 8.0]], Bonelords do less damage per turn.",
+    "location": "[[Ancient Temple]], [[Alatar Lake]], [[Mount Sternum Undead Cave]], [[Desert Dungeon]], [[Hellgate]], [[Helheim]], [[Fibula Dungeon]], [[Villa Scapula]], [[Hero Cave]] before [[Dragons]], Eastern [[Drefia]], [[Folda]] hidden cave, [[Maze of Lost Souls]], way to [[Mintwallin]], before [[Kazordoon]] city entrance, abandoned building east of [[Venore]], [[Green Claw Swamp]], north of the [[Amazon Camp (Venore)|Venore Amazon Camp]], Below Point of No Return in [[Outlaw Camp]], [[Vandura Bonelord Cave]], [[Triangle Tower]], Hidden cave north of [[Port Hope]], [[Deeper Banuta]], [[Dark Cathedral]], [[Shadow Tomb]], [[Ancient Ruins Tomb]], [[Tarpit Tomb]], [[Mountain Tomb]], [[Peninsula Tomb]], [[Oasis Tomb]] and beneath [[Fenrock]].",
+    "strategy": "It's recommended for low levels hunting them to bring health potions, as groups of them quickly chew health.<br />\n'''[[Knight]]s''': Chase the Bonelord down and attack it. It has virtually no melee skills, so using a shield is obsolete. If you get surrounded by [[Skeleton]]s, a direct path will be difficult, so quickly kill them and break through rather than trying to navigate around them. Another way is to wait for the Bonelord to approach behind a corner and then attack it.<br />\n'''[[Paladin]]s''': At level 14 or higher, you can just shoot it from a distance with 50+ skills.<br />\n'''[[Sorcerer]]s''': You can kill these at level 13 using the [[Wand of Dragonbreath]] and a few mana potions, although this is not recommended. At level 22, hunting Bonelords with the [[Wand of Draconia]] should be easy. Just remember to keep using the [[Light Healing]] spell as needed and to corner them. This will help increasing the chance of them using their weak melee attack, rather then a magic based attack. Try to avoid being trapped by their summons.<br />\n'''[[Druid]]s''': You will spend more mana at [[Level]] 13, because they are strong against [[ice]]. At any higher level, use the same strategy as the sorcerer."
+}

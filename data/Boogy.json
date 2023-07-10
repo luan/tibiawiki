@@ -1,0 +1,131 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "<gallery mode=\"nolines\">\nFile:Boogy Artwork.jpg|Official [[Creature Artwork]]\n</gallery>",
+    "walksthrough": "None",
+    "hp": "1300",
+    "abilities": "{{Ability List\n |{{Melee|0-465}}\n |{{Ability|Blood Ball|115 hit +5 bleeding|element=Bleeding\n  |scene={{Scene|spell=2sqmballtarget|effect=Blood Effect|missile=Earth Missile (Appearance)|missile_direction=south-east|missile_distance=2/2}}}}\n |{{Ability|Rock Strike|element=physical\n  |scene={{Scene|spell=2sqmstrike|effect_on_target=Purple Electricity Effect|damage_effect=Red Sparkles Effect|missile=Rocks Missile|missile_direction=south-east|missile_distance=2/2}}}}\n |{{Ability|Large Stone Strike|element=physical\n  |scene={{Scene|spell=2sqmstrike|damage_effect=Explosion Effect|missile=Stone Missile|missile_direction=south-east|missile_distance=2/2}}}}\n |{{Haste}}\n |{{Healing|range=40-120}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "holyDmgMod": "60%",
+    "maxdmg": "585",
+    "pushable": "?",
+    "implemented": "11.40.5409",
+    "loot": [
+        {
+            "amount": "1-193",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Shimmering Beetles",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Strong Health Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Fairy Wings",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-7",
+            "itemName": "Leaf Star",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Wood Mushroom",
+            "rarity": "semi-rare"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Prismatic Quartz",
+            "rarity": "semi-rare"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Red Crystal Fragment",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Sling Herb",
+            "rarity": "semi-rare"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "Small Enchanted Emerald",
+            "rarity": "semi-rare"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "Ancient Coin",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Terra Amulet",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Berserk Potion",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Golden Sickle",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Wooden Spellbook",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Mandrake",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Crystal of Power",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Fire, Energy, Poison",
+    "exp": "950",
+    "mitigation": "1.24",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "boogy",
+    "illusionable": "no",
+    "armor": "35",
+    "convince": "--",
+    "name": "Boogy",
+    "isboss": "no",
+    "iceDmgMod": "90%",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "80%",
+    "plural": "boogies",
+    "hpDrainDmgMod": "100%",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "Boogies are a rather twisted kind of fae. They have a chubby body covered in shaggy fur, a tasseled tail, short legs and very long, clawed arms that are almost touching the floor. Their maw is huge compared to their body and a spiky, menacing horn protrudes from their foreheads. Other than pixies, nymphs or fauns they favour underground caves and tunnels over forests or lush meadows. Only at night, they are roaming the surface, chasing other fae and visitors to Feyrist alike. Boogies devour smaller animals like squirrels, rabbits or badgers but on the quiet the fae tell that they also feed on fairies or pookas if they catch them. As the fae emerge from mortals' pleasant dreams the boogies don't really fit into the mould. In fact they were once clumsy yet peaceful fae, but they are now twisted and tainted by a mysterious, sinister force that is threatening Feyrist as well as the rest of Tibia. Boogies initially emerged from mortals' dreams about tasty food.",
+    "speed": "105",
+    "pushobjects": "?",
+    "fireDmgMod": "100%",
+    "sounds": [
+        "Go to sleep!"
+    ],
+    "bestiaryclass": "Fey",
+    "creatureclass": "Humanoids",
+    "earthDmgMod": "30%",
+    "physicalDmgMod": "90%",
+    "primarytype": "Fae",
+    "spawntype": [
+        "Regular"
+    ],
+    "race_id": "1439",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%",
+    "bestiaryname": "boogy",
+    "behaviour": "?",
+    "location": "[[Feyrist]] (night time) and its underground (all day)",
+    "strategy": "?"
+}

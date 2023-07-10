@@ -1,0 +1,54 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "0%",
+    "notes": "'''Deathslicers''' are immune to all known damage types that players can attack with. However, if someone manages to kill one of them, it will respawn immediately after dieing. Note that they are '''pushable'''.",
+    "walksthrough": "Fire, Energy, Poison",
+    "hp": "8200",
+    "speed": "?",
+    "abilities": "{{Ability List\n| {{Melee|0-500}}\n| {{Ability|Energy Berserk|200-400|energy|scene={{Scene|spell=3x3spell|effect=Sparks Effect|effect_on_caster=yes|caster=Deathslicer}}}}\n| {{Ability|Red Shimmering Beam|100-200|energy|scene={{Scene|spell=5sqmbeam|effect=Red Sparkles Effect|caster=Deathslicer|look_direction=east}}}}\n}}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "yes",
+    "secondarytype": "Machines",
+    "fireDmgMod": "0%",
+    "holyDmgMod": "0%",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "{{Max Damage|physical=500|energy=800}}",
+    "pushable": "yes",
+    "runsat": "20",
+    "implemented": "7.4",
+    "loot": [
+        {
+            "itemName": "Wooden Trash"
+        }
+    ],
+    "walksaround": "None.",
+    "exp": "0",
+    "creatureclass": "Special",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "0%",
+    "primarytype": "Traps",
+    "spawntype": [
+        "Regular",
+        "Unblockable"
+    ],
+    "race_id": "102",
+    "senseinvis": "yes",
+    "article": "a",
+    "actualname": "deathslicer",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "0%",
+    "convince": "--",
+    "name": "Deathslicer",
+    "isboss": "no",
+    "behaviour": "'''Deathslicers''' will get as close as possible to you, attacking with its strong [[Melee]] and heavy [[Energy Damage|Energy-Based Spells]].",
+    "location": "Deep in [[Tarpit Tomb]], Formorgar Mines during Ghazbaran's raid.",
+    "iceDmgMod": "0%",
+    "strategy": "Use a stronger monster such as a [[Demon]] to destroy it, when it's trapped. You can push it.",
+    "energyDmgMod": "0%",
+    "deathDmgMod": "0%"
+}

@@ -1,0 +1,97 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "isarenaboss": "no",
+    "walksthrough": "None.",
+    "hp": "70",
+    "abilities": "{{Ability List|{{Melee|0-10|earth|poison=1}}|{{Healing|Slow [[Self-Healing]]|range=0-4+}}}}",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "holyDmgMod": "100%",
+    "maxdmg": "{{Max Damage|earth=11}}",
+    "pushable": "Yes",
+    "implemented": "9.80",
+    "loot": [
+        {
+            "amount": "0-15",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "amount": "0-5",
+            "itemName": "Insectoid Eggs",
+            "rarity": "common"
+        },
+        {
+            "amount": "0-3",
+            "itemName": "Arrow",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Rope",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Health Potion",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Mace",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Brass Helmet",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Scimitar",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Bow",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Insectoid Egg"
+        }
+    ],
+    "walksaround": "Energy, Fire, Poison",
+    "exp": "25",
+    "mitigation": "0.13",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "salamander",
+    "illusionable": "no",
+    "armor": "3",
+    "convince": "--",
+    "name": "Salamander",
+    "isboss": "no",
+    "iceDmgMod": "100%",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "100%",
+    "plural": "salamanders",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "no",
+    "occurrence": "Common",
+    "bestiarytext": "The Salamander is a creature that is quite common in swamp areas. In this harsh environment only the most aggressive and capable individuals can survive, so that the relatively harmless Salamander has evolved into a creature that can scare off at least some attackers. However, a Salamander is still an easy prey and so it often relies on the protection granted by its colouring. The diet of the Salamanders are smaller insects that are often found in abundance in their habitat. Only this allows for the continued survival of the Salamander species while surrounded by more powerful predators. The Salamanders are considered very distant relatives of the dragons, an assumption that is based solely on the fact that they are lizards and have a penchant to collect hoards. The so-called 'hoards' of the Salamanders usually consist only of a few shiny things they have gathered in the swamp, typically junk discarded or lost by adventurers in the area. Still, sometimes they are hunted by foolhardy soldiers of fortune who dream about an easy way to acquire some exotic treasure. Due to their tasting odd, Salamanders are hunted by trolls and orcs for food when times are dire. Sometimes local witches breed Salamanders as familiars, or as ingredients for their cooking or even alchemical usage.",
+    "speed": "60",
+    "pushobjects": "No",
+    "fireDmgMod": "100%",
+    "sounds": [
+        "Chrrch!"
+    ],
+    "runsat": "10",
+    "bestiaryclass": "Amphibic",
+    "creatureclass": "Amphibians",
+    "earthDmgMod": "90%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Salamanders",
+    "race_id": "913",
+    "bestiarylevel": "Easy",
+    "senseinvis": "no",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "salamander",
+    "behaviour": "Fights in close combat.",
+    "location": "[[Venore]] swamp area, [[Venore Salamander Cave]], [[Drefia]].",
+    "strategy": "Similar to but considerably weaker than [[Larva]]s."
+}

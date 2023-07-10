@@ -1,0 +1,140 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "Werewolves are men (male humans) that are under a curse and were transformed into wolves. However, they are altogether much stronger than a man or a wolf. Once they die, they are freed from the curse and their corpses will take a human form.<br>\nContrary to popular belief, their bites do not transform their victims into werewolves. On rare occasions, the victims can have their bodies metamorphosed, but this effect is only temporary.\n\n{{JSpoiler|You may hunt 300 of these as a task of the [[Killing in the Name of... Quest]]. Upon completion of the task you will face [[Hemming]].}}",
+    "walksthrough": "Energy, Poison",
+    "hp": "1955",
+    "abilities": "{{Ability List\n |{{Melee|0-350}}\n |{{Ability|Life Drain Berserk looks like musical notes|0-165+|element=lifedrain}}\n |{{Ability|White Notes|[[Summon]]s 2 [[War Wolf|War Wolves]] at once |element=summon}}\n |{{Ability|Blue Notes|Turns you into a Werewolf|element=shapeshifting}}\n |{{Debuff2|Red Notes|melee=yes|distance=yes|value=35%|duration=3~}}\n |{{Healing|range=10-125\n  |scene={{Scene|spell=buffspell|effect=Green Sparkles Effect|caster=Werewolf|look_direction=south|effect_on_caster=yes}}}}\n |{{Ability|Purple Notes|[[Haste]]|element=haste}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "secondarytype": "Canines",
+    "holyDmgMod": "105%",
+    "maxdmg": "515+ (without [[summon]]s), 615+ (with [[summon]]s)",
+    "pushable": "No",
+    "implemented": "8.40",
+    "loot": [
+        {
+            "amount": "1-225",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Werewolf Fur",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Werewolf Fangs",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Plate Shield",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Rusted Armor",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Brown Mushroom",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Moonlight Crystals",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Troll Green",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Strong Health Potion",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Wolf Paw",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Halberd",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Ultimate Health Potion",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Berserk Potion",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Stone Skin Amulet",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Platinum Amulet",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Time Ring",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Epee",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Relic Sword",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Bonebreaker",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Dreaded Cleaver",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Fire",
+    "exp": "1900",
+    "mitigation": "0.83",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "werewolf",
+    "illusionable": "no",
+    "armor": "36",
+    "convince": "--",
+    "name": "Werewolf",
+    "isboss": "no",
+    "iceDmgMod": "105%",
+    "energyDmgMod": "85%",
+    "deathDmgMod": "45%",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "Werewolves are humans under a curse that causes them to lose control over their inner beasts.  At the beginning, the transformation takes only place at full moon and the victim retransforms to its human appearance at the next morning. In the course of time, the transformation starts more and more early and lasts for a longer time. At a certain point, the beast takes over and there is no return. The human part is washed away by rage and primal instincts. The cursed person has turned into a savage Werewolf permanently.<br />Werewolves are ferocious beasts who enjoy the thrill of a hunt. They are unnatural born hunters that have many traits of a wolf, but much more dangerous and lethal. Like wolves, a Werewolf claims a large hunting ground as its own and everything alive is seen as a suitable prey. Unlike wolves, werewolves do not only hunt for food, but also for the thrill of the hunt itself. Their magical nature makes them extremely resistant and their regeneration powers are legendary.<br />The curse of the Werewolf is usually spread by the infectious bite of other werewolves. Forbidden books tell about methods that allow to turn somebody into a Werewolf with the help of dark rites. Some rotten individuals even call the curse upon themselves in the hope to use their new powers in order to take revenge for some injustice or insult.",
+    "speed": "140",
+    "pushobjects": "Yes",
+    "fireDmgMod": "105%",
+    "sounds": [
+        "GRRR",
+        "GRROARR"
+    ],
+    "runsat": "red",
+    "bestiaryclass": "Lycanthrope",
+    "creatureclass": "Humans",
+    "earthDmgMod": "25%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Lycanthropes",
+    "spawntype": [
+        "Regular"
+    ],
+    "race_id": "510",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "werewolf",
+    "behaviour": "Usually, they do not kill or push their [[Summoned Creature|summons]], but, sometimes, for reasons yet to be known, they will kill a war wolf if it is impeding them to attack their target.<br>\nThey are always howling different notes, constantly healing themselves and summoning War Wolves (as soon as one is killed). They are as slow as their summons, but with [[Haste]] they become very fast.",
+    "location": "[[Vengoth Castle]], [[Vengoth Werewolf Cave]], [[Grimvale]], were-beasts cave south-west of [[Edron]], {{Mapper Coords|129.160|124.172|7|4|text=here}}.",
+    "strategy": "Try to kill its [[Summoned Creature|summon]]s first as they can nearly double the damage to a [[Player]] if their [[shielding]] is broken. Since Werewolves can respawn War Wolves again very fast the best idea is to use [[Ice Wave]] or [[Fire Wave]] by mage, while knight is blocking.<br>\nA simple strategy for mid level shooters is to shoot a [[Fire Bomb]] field, lure a werewolf, position themselves in the middle of the field and attack the werewolf. It will eventually enter the field to attack the shooter, but the summoned War Wolves and other Werewolves will stay out of it.<br>\nKnights hunting solo are advised to take advantage of the environment as much as possible in order to prevent their shielding from being broken."
+}

@@ -1,0 +1,186 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "{{JSpoiler|Part of the [[Dangerous Depths Quest]].}}",
+    "walksthrough": "Fire, Energy, Poison",
+    "hp": "?",
+    "speed": "?",
+    "abilities": "{{Ability List| {{Melee|0-2000}}|{{Ability|life drain [[Wrath of Nature]]|500-2000 |element=lifedrain}}|{{Ability|Large [[Poison Berserk]]|300-500|element=poison}}|{{Ability|[[Death Damage|Death Beam]]|400-800|element=death}}|{{Ability|[[Life Drain Beam]]|500-1000|element=lifedrain}} }}",
+    "pushobjects": "yes",
+    "healMod": "100%?",
+    "paraimmune": "yes",
+    "fireDmgMod": "-100%",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "3500+",
+    "pushable": "no",
+    "cooldown": "4",
+    "implemented": "11.50.6055",
+    "loot": [
+        {
+            "amount": "1-49",
+            "itemName": "Platinum Coin"
+        },
+        {
+            "itemName": "Crystal Coin"
+        },
+        {
+            "amount": "10",
+            "itemName": "Great Mana Potion"
+        },
+        {
+            "amount": "1-10",
+            "itemName": "Ultimate Health Potion"
+        },
+        {
+            "amount": "8",
+            "itemName": "Great Spirit Potion"
+        },
+        {
+            "amount": "2",
+            "itemName": "Mastermind Potion"
+        },
+        {
+            "amount": "12",
+            "itemName": "Small Diamond"
+        },
+        {
+            "amount": "12",
+            "itemName": "Small Emerald"
+        },
+        {
+            "amount": "4",
+            "itemName": "Violet Crystal Shard"
+        },
+        {
+            "itemName": "Green Gem"
+        },
+        {
+            "itemName": "Blue Gem"
+        },
+        {
+            "itemName": "Stone Skin Amulet"
+        },
+        {
+            "itemName": "Huge Chunk of Crude Iron"
+        },
+        {
+            "itemName": "Wand of Inferno"
+        },
+        {
+            "itemName": "Magic Sulphur"
+        },
+        {
+            "itemName": "Badger Boots"
+        },
+        {
+            "itemName": "Fire Sword"
+        },
+        {
+            "itemName": "Crystal Mace"
+        },
+        {
+            "itemName": "Slightly Rusted Shield"
+        },
+        {
+            "itemName": "Chitinous Mouth (Baron from Below)"
+        },
+        {
+            "itemName": "Huge Shell"
+        },
+        {
+            "itemName": "Longing Eyes"
+        },
+        {
+            "itemName": "Slimy Leg"
+        },
+        {
+            "itemName": "Small Amethyst"
+        },
+        {
+            "itemName": "Slightly Rusted Helmet"
+        },
+        {
+            "itemName": "Calopteryx Cape"
+        },
+        {
+            "itemName": "Magma Coat"
+        },
+        {
+            "itemName": "Luminous Orb"
+        },
+        {
+            "itemName": "Small Ruby"
+        },
+        {
+            "itemName": "Yellow Gem"
+        },
+        {
+            "itemName": "Gold Ingot"
+        },
+        {
+            "itemName": "Heavy Crystal Fragment"
+        },
+        {
+            "itemName": "Red Gem"
+        },
+        {
+            "itemName": "Small Topaz"
+        },
+        {
+            "itemName": "Silver Token"
+        },
+        {
+            "itemName": "Gold Token"
+        },
+        {
+            "itemName": "Gnome Sword"
+        },
+        {
+            "itemName": "Gnome Shield"
+        },
+        {
+            "itemName": "Gnome Armor"
+        },
+        {
+            "itemName": "Plan for a Makeshift Armour"
+        },
+        {
+            "itemName": "Mallet Head"
+        },
+        {
+            "itemName": "Violet Gem"
+        },
+        {
+            "itemName": "Spellbook of Warding"
+        },
+        {
+            "itemName": "Candle Stump"
+        }
+    ],
+    "walksaround": "None",
+    "exp": "?",
+    "creatureclass": "Invertebrates",
+    "earthDmgMod": "100%?",
+    "physicalDmgMod": "100%",
+    "bosstiaryclass": "Bane",
+    "primarytype": "Mollusks",
+    "race_id": "1518",
+    "senseinvis": "yes",
+    "actualname": "The Baron From Below",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "The Baron from Below",
+    "isboss": "yes",
+    "behaviour": "It retargets often so the blocker should try to constantly [[Challenge]] it.",
+    "location": "[[Warzone 4]].",
+    "iceDmgMod": "100%?",
+    "strategy": "It's recommended to have at least two blockers that will keep boss away from shooters. Every 15 seconds, an [[Organic Matter]] will appear in the room and the boss will become [[The Hungry Baron from Below]], which is immune to all damage. You have 10 seconds to kill the Organic Matter or the boss will eat it and recover half of its maximum HP. After the [[Organic Matter]] is killed, 4 [[Aggressive Matter]]s will spawn. Kill them quickly as well because they deal considerable damage. Repeat this process until you finally kill boss. Due to the lava geysers (explode dealing 1500 [[Fire Damage]]) and [[Aggressive Lava]] around the room, it's recommended for all players to use equipment that provide fire protection. Blockers should use [[Life Drain#Life Drain Protection|Life Drain Protection]], they will receive more this type of damage than any other type.",
+    "energyDmgMod": "100%?",
+    "deathDmgMod": "100%"
+}

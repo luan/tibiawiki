@@ -1,0 +1,113 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "'''Spidris Elite''' are rarely met in [[The Hive]]. They are also summoned by [[Hive Overseer]]s.",
+    "isarenaboss": "no",
+    "walksthrough": "Fire, Energy, Poison",
+    "hp": "5000",
+    "abilities": "{{Ability List| {{Melee|0-350}}|{{Ability|[[Earth Damage|Poison Burst Arrow]]|150-310?|element=earth}}|{{Haste|[[Strong Haste]]}}|{{Healing|range=175-225}} }}",
+    "healMod": "100%",
+    "paraimmune": "?",
+    "secondarytype": "Hive Born",
+    "holyDmgMod": "110%",
+    "maxdmg": "660",
+    "pushable": "no",
+    "implemented": "9.40",
+    "loot": [
+        {
+            "amount": "1-200",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-6",
+            "itemName": "Platinum Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Spidris Mandible",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Compound Eye",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Great Mana Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-5",
+            "itemName": "Small Ruby",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Ultimate Health Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Death Ring",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Giant Shimmering Pearl (Green)",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Calopteryx Cape",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Hive Scythe",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Titan Axe",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Violet Gem",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Carapace Shield",
+            "rarity": "rare"
+        }
+    ],
+    "walksaround": "None.",
+    "exp": "4000",
+    "mitigation": "1.74",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "spidris elite",
+    "illusionable": "no",
+    "armor": "55",
+    "convince": "--",
+    "name": "Spidris Elite",
+    "isboss": "no",
+    "iceDmgMod": "103%",
+    "energyDmgMod": "105%",
+    "deathDmgMod": "90%",
+    "plural": "spidris elite",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Rare",
+    "speed": "197",
+    "pushobjects": "yes",
+    "fireDmgMod": "85%",
+    "sounds": [
+        ""
+    ],
+    "bestiaryclass": "Vermin",
+    "creatureclass": "Invertebrates",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Arachnids",
+    "race_id": "797",
+    "bestiarylevel": "Medium",
+    "senseinvis": "?",
+    "drownDmgMod": "100%?",
+    "behaviour": "Same as a [[Spidris]].",
+    "location": "[[The Hive]]: east tower (beyond gates), west tower (including beyond gates), also anywhere [[Hive Overseer]]s are found (as summons), [[Hive Outpost]].",
+    "strategy": "Take care of them as you would with a normal [[Spidris]], only with stronger attacks."
+}

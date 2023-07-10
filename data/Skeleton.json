@@ -1,0 +1,95 @@
+{
+    "summon": "300",
+    "templateType": "Creature",
+    "notes": "They can be found in various regions (including [[Rookgaard]]) and are a excellent source of [[loot]]. Also, they can be summoned by an angry [[bonelord]] or by a [[mage]] using either the [[Animate Dead]] or [[Summon Creature]] spells.",
+    "walksthrough": "?",
+    "hp": "50",
+    "abilities": "{{Ability List|{{Melee|0-17}}|{{Ability|[[Life Drain]]|7-13|lifedrain}}}}",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "holyDmgMod": "125%",
+    "maxdmg": "{{Max Damage|physical=17|lifedrain=13}}",
+    "pushable": "yes",
+    "implemented": "4.0",
+    "loot": [
+        {
+            "amount": "0-10",
+            "itemName": "Gold Coin"
+        },
+        {
+            "itemName": "Bone"
+        },
+        {
+            "itemName": "Torch"
+        },
+        {
+            "itemName": "Pelvis Bone"
+        },
+        {
+            "itemName": "Viking Helmet"
+        },
+        {
+            "itemName": "Hatchet",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Heavy Old Tome",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Mace",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Brass Shield",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Sword",
+            "rarity": "rare"
+        }
+    ],
+    "walksaround": "Fire, Energy, Poison",
+    "exp": "35",
+    "mitigation": "0.23",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "skeleton",
+    "illusionable": "yes",
+    "armor": "2",
+    "convince": "300",
+    "name": "Skeleton",
+    "isboss": "no",
+    "iceDmgMod": "100%",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "0%",
+    "plural": "skeletons",
+    "hpDrainDmgMod": "0%",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "Skeletons are undead monsters that live in the dungeons of Tibia. It is rumoured that they are the bodies of dead adventurers that have been revived by some evil power. Cropping up in packs and occasionally accompanied by other undead creatures like ghouls, they are quite nasty opponents, particularly because they are able to drain life energy off their opponents.",
+    "speed": "77",
+    "pushobjects": "no",
+    "fireDmgMod": "100%",
+    "sounds": [
+        ""
+    ],
+    "bestiaryclass": "Undead",
+    "creatureclass": "The Undead",
+    "earthDmgMod": "100%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Skeletons",
+    "spawntype": [
+        "Regular",
+        "Raid",
+        "Unblockable"
+    ],
+    "race_id": "33",
+    "bestiarylevel": "Easy",
+    "senseinvis": "no",
+    "drownDmgMod": "0%",
+    "bestiaryname": "skeleton",
+    "behaviour": "Skeletons are weak and easy for any player with decent armor. Can be blocked by both [[parcel]]s and [[God Flower]]s.",
+    "location": "In many dungeons around [[Tibia]], like the [[Ancient Temple]] and [[Ghostlands]]. Also found in [[Rookgaard]] tombs and north east of [[Port Hope]], in the jungle of [[Tiquanda]], beneath [[Fenrock]] and in the desert [[Tombs]], [[Vengoth|Vengoth Castle]].",
+    "strategy": "Every item they drop besides torches and [[bone]]s can be sold to [[NPC]]s for a good amount. Be sure to add them to your [[lootbag]], especially the helmets. In Rookgaard, they are the best possible creatures to hunt (for both money and experience) at [[level]] 6 and above."
+}

@@ -1,0 +1,57 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "misguided shadows",
+    "hpDrainDmgMod": "100%",
+    "notes": "This demon possesses the [[Misguided Bully|Misguided Bullies]] and the [[Misguided Thief|Misguided Thieves]].",
+    "walksthrough": "?",
+    "hp": "3000",
+    "speed": "?",
+    "abilities": "{{Ability List|{{Melee|0-?}}|{{Healing}}}}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "yes",
+    "fireDmgMod": "100%",
+    "holyDmgMod": "100%",
+    "sounds": [
+        "Yooooouuuuu..."
+    ],
+    "maxdmg": "?",
+    "pushable": "no",
+    "implemented": "11.40.5409",
+    "loot": [
+        {
+            "itemName": "Strong Mana Potion"
+        },
+        {
+            "itemName": "Red Gem"
+        },
+        {
+            "itemName": "Strong Health Potion"
+        },
+        {
+            "itemName": "Onyx Chip"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "1500",
+    "creatureclass": "Demons",
+    "earthDmgMod": "100%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Demons",
+    "senseinvis": "yes",
+    "article": "a",
+    "actualname": "misguided shadow",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%",
+    "convince": "--",
+    "name": "Misguided Shadow",
+    "isboss": "no",
+    "behaviour": "Fights in close combat until death.",
+    "location": "The Humans Cult hideout under the [[Outlaw Camp]].",
+    "iceDmgMod": "100%",
+    "strategy": "Unknown",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "100%"
+}

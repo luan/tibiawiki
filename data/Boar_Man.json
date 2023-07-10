@@ -1,0 +1,91 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "boar men",
+    "hpDrainDmgMod": "100%?",
+    "notes": "<gallery captionalign=\"center\" mode=\"nolines\">\nBoar Man Artwork.jpg|Official [[Creature Artwork]]\n</gallery>",
+    "walksthrough": "Energy, Poison",
+    "hp": "9200",
+    "usespells": "yes",
+    "bestiarytext": "Whether the boar men consist of more than a boar and human parts is not known. It rather seems they are a stable product of Dr. Marrow's most early experiments and the first of his successes he built upon. Therefore it seems likely, that they are the result of the mixture of humans and a single animal, similar to the harpies.As the longest established breed of Marrow's mutants, the boar men are relatively intelligent, yet brutish. They are capable of speech and planned thoughts. They can and will use tools and weaponry. Dr. Marrow uses them as the bulk of his servants and workers, as they are robust and strong. Fits of anger let them clash with each other and other mutants occasionally, but to their creator their utility seemingly outweighs the damage they might cause.Of all of Marrows creatures it's the boar men, wo keep up something at least resembling organisation and a more complicated hierarchy. They often serve as trainers and handlers of other mutants an take great pride in it.They are the most versatile of Dr. Marrows creations and used in numerous tasks like foragers, craftsmen, farmers, fishermen and even assistants in menial laboratory tasks. All this lead to a form of pride they developed and they see themselves above the other creations which led to an arrogant and dismissive behaviour to their peers.Aside from a few human assistants they encounter humans only as material.",
+    "occurrence": "Common",
+    "speed": "160",
+    "abilities": "{{Ability List\n |{{Melee|0-498}}\n |{{Ability|Throwing Knife Strike|375-392|element=life drain\n  |scene={{Scene|spell=7sqmstrike|caster=Boar Man|look_direction=south|effect=Red Sparkles Effect|missile=Throwing Knife Missile|missile_direction=south-east|missile_distance=7/7}}}}\n |{{Ability|Death Strike|386-480|element=death\n  |scene={{Scene|spell=2sqmstrike|caster=Boar Man|look_direction=south|effect=Cloud Effect|missile=Death Missile (Large)|missile_direction=south-east|missile_distance=2/2}}}}\n |{{Ability|Explosion Bomb|300~|element=physical\n  |scene={{Scene|spell=2sqmballself|caster=Boar Man|look_direction=south|effect=Explosion Effect|effect_on_caster=yes|damage_effect=Blood Effect}}}}\n |{{Ability|Energy Wave|311-400|element=energy\n  |scene={{Scene|spell=6sqmtwave|caster=Boar Man|look_direction=east|effect=Blue Electricity Effect}}}}\n |{{Ability|Blood Spurt|unknown|element=?\n  |scene={{Scene|spell=buffspell|effect=Blood Effect|caster=Boar Man|look_direction=south|effect_on_caster=yes}}}}\n}}",
+    "pushobjects": "yes",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "fireDmgMod": "85%",
+    "holyDmgMod": "110%",
+    "sounds": [
+        "Oink!",
+        "Hungerrrr!",
+        "Grunt!"
+    ],
+    "pushable": "no",
+    "implemented": "13.10.12852",
+    "bestiaryclass": "Humanoid",
+    "loot": [
+        {
+            "itemName": "Platinum Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Red Gem",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Red Crystal Fragment",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Boar Man Hoof",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Great Health Potion",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Crystal Mace",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Sapphire Hammer",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Crystal Sword",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Tower Shield",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Crystal Ring",
+            "rarity": "rare"
+        }
+    ],
+    "exp": "7720",
+    "creatureclass": "Misc",
+    "earthDmgMod": "95%",
+    "mitigation": "2.16",
+    "physicalDmgMod": "85%",
+    "primarytype": "Hybrids",
+    "attacktype": "Melee",
+    "race_id": "2339",
+    "bestiarylevel": "Hard",
+    "senseinvis": "yes",
+    "article": "a",
+    "actualname": "boar man",
+    "illusionable": "no",
+    "armor": "72",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Boar Man",
+    "isboss": "no",
+    "location": "[[Ingol]]",
+    "iceDmgMod": "95%",
+    "energyDmgMod": "85%",
+    "deathDmgMod": "95%"
+}

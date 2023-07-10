@@ -1,0 +1,109 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "deepling master librarians",
+    "hpDrainDmgMod": "100%?",
+    "notes": "Stronger version of the [[Deepling Spellsinger]]. Their wave is less sprite-saturated than the one shown while hovering the mouse pointer on the attack.",
+    "isarenaboss": "no",
+    "walksthrough": "?",
+    "hp": "1700",
+    "usespells": "yes",
+    "occurrence": "Rare",
+    "speed": "115",
+    "abilities": "{{Ability List\n |{{Melee}}\n |{{Ability|Mana Earth Strike|?|element=mana drain\n  |scene={{Scene|spell=3sqmstrike|effect=Plant Effect|caster=Deepling Master Librarian||missile=|missile_direction=south-east|missile_distance=3/3}}}}\n |{{Ability|Life Earth Strike|?|element=life drain\n  |scene={{Scene|spell=3sqmstrike|effect=Plant Effect|caster=Deepling Master Librarian|missile=None}}}}\n |{{Ability|Ice Wave|?|element=ice\n  |scene={{Scene|spell=5sqmwavenarrow|effect=Ice Tornado Effect|caster=Deepling Master Librarian|look_direction=east}}}}\n |{{Ability|Water Bomb on target|?|element=ice\n  |scene={{Scene|spell=2sqmballtarget|effect=Bubbles Effect|caster=Deepling Master Librarian||missile=Ice Missile|missile_direction=south-east|missile_distance=2/2|edge_size=32}}}}\n |{{Debuff2|Spark hit|melee=yes|distance=yes\n  |scene={{Scene|spell=3sqmstrike|effect=Stars Effect|caster=Deepling Master Librarian||missile=Death Missile (Large)|missile_direction=south-east|missile_distance=3/3}}}}\n}}",
+    "pushobjects": "?",
+    "healMod": "100%",
+    "paraimmune": "?",
+    "fireDmgMod": "0%",
+    "holyDmgMod": "100%",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "?",
+    "pushable": "?",
+    "implemented": "9.50",
+    "bestiaryclass": "Aquatic",
+    "loot": [
+        {
+            "amount": "1-100",
+            "itemName": "Gold Coin",
+            "rarity": "always"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "Platinum Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Spellsinger's Seal",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "Small Sapphire",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Fish",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Eye of a Deepling",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Key to the Drowned Library",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Deepling Filet",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Life Ring",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Fish Fin",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Deepling Staff",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Necklace of the Deep",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Ornate Crossbow",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Energy, Poison",
+    "exp": "1900",
+    "creatureclass": "Amphibians",
+    "earthDmgMod": "110%",
+    "mitigation": "1.37",
+    "physicalDmgMod": "100%",
+    "primarytype": "Deeplings",
+    "race_id": "860",
+    "attacktype": "Melee",
+    "bestiarylevel": "Medium",
+    "senseinvis": "?",
+    "article": "a",
+    "actualname": "deepling master librarian",
+    "illusionable": "no",
+    "armor": "45",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Deepling Master Librarian",
+    "isboss": "no",
+    "behaviour": "Same as a [[Deepling Spellsinger]]. It gains advantage in battle by weakening its opponent.",
+    "location": "[[Fiehonja]] ({{Mapper Coords|130.177|121.220|13|4|text=here}} and {{Mapper Coords|130.173|121.200|11|4|text=here}}).",
+    "iceDmgMod": "0%",
+    "strategy": "Kill it quickly before any other Deepling, just as you would for a [[Deepling Spellsinger]]. Its skill reduction will render you helpless and its mana drain will make you incapable of healing.",
+    "energyDmgMod": "110%",
+    "deathDmgMod": "50%"
+}

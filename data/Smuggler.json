@@ -1,0 +1,100 @@
+{
+    "summon": "390",
+    "templateType": "Creature",
+    "walksthrough": "?",
+    "hp": "130",
+    "abilities": "{{Ability List|{{Melee|0-60}}}}",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "holyDmgMod": "100%",
+    "maxdmg": "{{Max Damage|physical=60}}",
+    "pushable": "No",
+    "usedelements": "Physical",
+    "implemented": "7.5",
+    "loot": [
+        {
+            "amount": "0-10",
+            "itemName": "Gold Coin"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "Torch"
+        },
+        {
+            "itemName": "Knife",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Short Sword",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Leather Helmet",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Leather Legs",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Ham",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Sword",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Combat Knife",
+            "rarity": "semi-rare"
+        },
+        {
+            "amount": "0-5",
+            "itemName": "Raspberry",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Deer Trophy",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Fire, Energy, Poison",
+    "exp": "48",
+    "mitigation": "0.33",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "smuggler",
+    "illusionable": "yes",
+    "armor": "8",
+    "convince": "390",
+    "name": "Smuggler",
+    "isboss": "no",
+    "iceDmgMod": "100%",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "105%",
+    "plural": "smugglers",
+    "hpDrainDmgMod": "100%",
+    "usespells": "no",
+    "occurrence": "Common",
+    "bestiarytext": "Although the main goal of the common Smuggler is easy profit by circumventing taxes and embargoes, or by trading forbidden goods, they do not flinch from murdering and robbing those who find out about their operations. Smugglers can be found at hidden spots close to larger cities or in remote hideouts where they store their goods. Even though they are usually not well equipped for combat, their determination not to lose profit makes them still opponents to be reckoned with. Only lightly armoured, they usually try to retreat if they get seriously hurt or outnumbered.",
+    "speed": "88",
+    "pushobjects": "Yes",
+    "fireDmgMod": "100%",
+    "sounds": [
+        "You saw something you shouldn't!",
+        "I will silence you forever!"
+    ],
+    "bestiaryclass": "Human",
+    "creatureclass": "Humans",
+    "earthDmgMod": "100%",
+    "physicalDmgMod": "105%",
+    "primarytype": "Outlaws",
+    "race_id": "222",
+    "bestiarylevel": "Easy",
+    "senseinvis": "no",
+    "drownDmgMod": "100%",
+    "bestiaryname": "smuggler",
+    "behaviour": "Smugglers run in low health. Smugglers will occasionally change targets; although this only occurs if another player is close to the Smuggler. They can also move parcels, crates or boxes that are in their way.",
+    "location": "Around [[Dark Cathedral]], [[Tiquanda Bandit Caves]], the [[Outlaw Camp]], [[Tyrsung]], [[Yalahar]], [[Nargor]] and [[The Cave]].",
+    "strategy": "Same as [[Wild Warrior]] but a bit weaker. Like [[Wild Warrior]]s and [[Bandit]]s (all 3 found in [[Dark Cathedral]]) these are easy to kill one at a time, but in large groups they can damage low levels fast."
+}

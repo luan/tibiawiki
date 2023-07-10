@@ -1,0 +1,65 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "ghosts of a planegazer",
+    "hpDrainDmgMod": "100%?",
+    "walksthrough": "Energy, Poison",
+    "hp": "1450",
+    "speed": "?",
+    "abilities": "{{Ability List\n |{{Melee|0-30}}\n |{{Ability|Fire Missile|135-185|element=fire\n  |scene={{Scene|spell=7sqmstrike|caster=Ghost of a Planegazer|look_direction=south|effect=Fire Effect|missile=Fire Missile|missile_direction=south-east|missile_distance=7/7}}}}\n |{{Healing|range=115-330}}\n |{{Ability|Electrified Strike|6 turns; 25 HP|element=electrified\n  |scene={{Scene|spell=7sqmstrike|caster=Ghost of a Planegazer|look_direction=south|effect=Green Chain Effect|missile=Ethereal Spear Missile|missile_direction=south-east|missile_distance=7/7}}}}\n |{{Ability|[[Invisibility]]|4 seconds|element=invisible}}\n}}",
+    "pushobjects": "yes",
+    "healMod": "100%?",
+    "paraimmune": "yes",
+    "fireDmgMod": "10%",
+    "holyDmgMod": "0%",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "185",
+    "pushable": "no",
+    "implemented": "11.50.6055",
+    "loot": [
+        {
+            "amount": "1-172",
+            "itemName": "Gold Coin"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Small Amethyst"
+        },
+        {
+            "itemName": "Platinum Coin"
+        },
+        {
+            "itemName": "Strong Mana Potion"
+        },
+        {
+            "itemName": "Great Mana Potion"
+        },
+        {
+            "itemName": "Life Ring"
+        }
+    ],
+    "walksaround": "Fire",
+    "exp": "1100",
+    "creatureclass": "The Undead",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "0%",
+    "primarytype": "Ghosts",
+    "race_id": "1564",
+    "senseinvis": "yes",
+    "article": "a",
+    "actualname": "ghost of a planegazer",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Ghost of a Planegazer",
+    "isboss": "no",
+    "behaviour": "Stays at a distance shooting its magic.",
+    "location": "[[Headquarters of the Planegazers]], {{Mapper Coords|132.122|125.109|15|2|text=here}}.",
+    "iceDmgMod": "0%",
+    "strategy": "If you decide to kill it, get a team of 3+ players using [[Fire]] spells and weapons (such as [[Flaming Arrow]]s), as well as [[Fire Elemental]]s.",
+    "energyDmgMod": "0%",
+    "deathDmgMod": "0%"
+}

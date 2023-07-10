@@ -1,0 +1,71 @@
+{
+    "summon": "390",
+    "templateType": "Creature",
+    "plural": "minotaur poachers",
+    "hpDrainDmgMod": "100%?",
+    "notes": "They are a weaker [[Minotaur Archer]]. Unlike the [[Minotaur Archer]] however it does not keep a distance. It will shoot bolts but try to fight in close combat.",
+    "walksthrough": "?",
+    "hp": "160",
+    "speed": "80",
+    "abilities": "{{Ability List|}}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "80%",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "?",
+    "pushable": "?",
+    "implemented": "10.55",
+    "loot": [
+        {
+            "amount": "0-28",
+            "itemName": "Gold Coin"
+        },
+        {
+            "amount": "0-18",
+            "itemName": "Bolt"
+        },
+        {
+            "itemName": "Chain Armor"
+        },
+        {
+            "itemName": "Studded Armor"
+        },
+        {
+            "itemName": "Meat"
+        },
+        {
+            "itemName": "Crossbow",
+            "rarity": "rare"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "55",
+    "creatureclass": "Humanoids",
+    "earthDmgMod": "80%",
+    "physicalDmgMod": "100%?",
+    "primarytype": "Minotaurs",
+    "spawntype": [
+        "Regular",
+        "Unblockable"
+    ],
+    "race_id": "1075",
+    "senseinvis": "?",
+    "article": "a",
+    "actualname": "minotaur poacher",
+    "illusionable": "yes",
+    "armor": "6",
+    "drownDmgMod": "100%?",
+    "convince": "390",
+    "name": "Minotaur Poacher",
+    "isboss": "no",
+    "behaviour": "Unknown",
+    "location": "[[Dawnport Crystal Dungeon]]",
+    "iceDmgMod": "100%?",
+    "strategy": "Unknown",
+    "energyDmgMod": "80%",
+    "deathDmgMod": "100%?"
+}

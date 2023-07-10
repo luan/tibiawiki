@@ -1,0 +1,90 @@
+{
+    "summon": "300",
+    "templateType": "Creature",
+    "notes": "They are stronger than regular [[Troll]]s.",
+    "walksthrough": "None",
+    "hp": "55",
+    "abilities": "{{Ability List\n |{{Melee|0-20}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "holyDmgMod": "90%",
+    "maxdmg": "{{Max Damage|physical=20}}",
+    "pushable": "Yes",
+    "usedelements": "Physical",
+    "implemented": "6.2",
+    "loot": [
+        {
+            "amount": "1-12",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Fish",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Rapier",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Spear",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Twigs",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Wooden Shield",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Frosty Ear of a Troll",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Coat",
+            "rarity": "semi-rare"
+        }
+    ],
+    "walksaround": "Fire, Energy, Poison",
+    "exp": "23",
+    "mitigation": "0.23",
+    "attacktype": "Melee",
+    "history": "Frost Trolls first appeared when the southern ice islands ([[Folda]], [[Vega]], etc.) were discovered. Before the [[Updates/8.1|8.1 Update]], frost trolls looked like this:<br />\n[[File:Frost Troll (before 8.1).gif]].",
+    "article": "a",
+    "actualname": "frost troll",
+    "illusionable": "yes",
+    "armor": "6",
+    "convince": "300",
+    "name": "Frost Troll",
+    "isboss": "no",
+    "iceDmgMod": "100%",
+    "energyDmgMod": "115%",
+    "deathDmgMod": "110%",
+    "plural": "frost trolls",
+    "hpDrainDmgMod": "100%",
+    "usespells": "no",
+    "occurrence": "Common",
+    "bestiarytext": "Frost Trolls are a variety of normal trolls that live in the holes and dungeons of the ice islands in the north-west of Tibia. Like their cousins, they hunt animals and seek treasures. But they are a bit stronger than them and can be quite dangerous to inexperienced adventurers.",
+    "speed": "70",
+    "pushobjects": "No",
+    "fireDmgMod": "60%",
+    "sounds": [
+        "Brrr",
+        "Broar!"
+    ],
+    "bestiaryclass": "Humanoid",
+    "creatureclass": "Humanoids",
+    "earthDmgMod": "110%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Trolls",
+    "race_id": "53",
+    "bestiarylevel": "Trivial",
+    "senseinvis": "no",
+    "drownDmgMod": "100%",
+    "bestiaryname": "frosttroll",
+    "behaviour": "'''Frost Trolls''' retreat in [[Health|low health]].",
+    "location": "[[Ice Islands]], [[Svargrond]] and [[Edron]].",
+    "strategy": "Just attack them, there's no big difference between them and [[Troll]]s. They are strong to [[Fire Damage]] so be careful. '''Frost Trolls''' usually appear with other monsters, such as [[Badger]]s, [[Polar Bear]]s, [[Winter Wolf|Winter Wolves]] and [[Mammoth]]s."
+}

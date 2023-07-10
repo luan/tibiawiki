@@ -1,0 +1,67 @@
+{
+    "summon": "255",
+    "templateType": "Creature",
+    "notes": "They are sometimes summoned by [[Werefox]]es.",
+    "walksthrough": "None?",
+    "hp": "22",
+    "abilities": "{{Ability List| {{Melee|?}} }}",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "holyDmgMod": "70%",
+    "maxdmg": "?",
+    "pushable": "yes",
+    "implemented": "11.50.6055",
+    "loot": [
+        {
+            "amount": "1-2?",
+            "itemName": "Meat",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Fox Paw",
+            "rarity": "semi-rare"
+        }
+    ],
+    "walksaround": "Fire, Poison, Energy?",
+    "exp": "15",
+    "mitigation": "0.18",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "fox",
+    "illusionable": "yes",
+    "armor": "2",
+    "convince": "255",
+    "name": "Fox",
+    "isboss": "no",
+    "iceDmgMod": "100%",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "100%",
+    "plural": "foxes",
+    "hpDrainDmgMod": "100%",
+    "usespells": "no",
+    "occurrence": "Common",
+    "bestiarytext": "Foxes are medium-sized, omnivorous mammals that live in the forests and mountains of Tibia. They are smaller than wolves and unlike many canids, foxes are not always pack animals. Typically, they live in small family groups, but some are known to be solitary. They eat insects, small reptiles, birds, mice, eggs and berries.",
+    "speed": "85",
+    "pushobjects": "no",
+    "fireDmgMod": "105%",
+    "sounds": [
+        "Grrrrrrr",
+        "Yip! Yip!"
+    ],
+    "bestiaryclass": "Mammal",
+    "creatureclass": "Mammals",
+    "earthDmgMod": "95%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Canines",
+    "spawntype": [
+        "Regular"
+    ],
+    "race_id": "1548",
+    "bestiarylevel": "Trivial",
+    "senseinvis": "no",
+    "drownDmgMod": "100%",
+    "bestiaryname": "fox",
+    "behaviour": "They fight in close combat until death.",
+    "location": "Forests of [[Edron]], [[Cormaya]], possibly other places.",
+    "strategy": "Just kill them like you would kill a [[Wolf]]."
+}

@@ -1,0 +1,205 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "?",
+    "hpDrainDmgMod": "100%?",
+    "notes": "This is one of the bosses in the [[Forgotten Knowledge Quest]]. It looks like a [[Crystal Warlord Outfits|Crystal Warlord]] and is one form of the [[Thorn Knight]].",
+    "walksthrough": "?",
+    "hp": "?",
+    "speed": "?",
+    "abilities": "{{Ability List| {{Melee|?}} }}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "100%?",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        "You've killed my only friend!",
+        "You will pay for this!",
+        "NOOOOO!"
+    ],
+    "maxdmg": "?",
+    "pushable": "?",
+    "runsat": "0",
+    "implemented": "11.02.4128",
+    "cooldown": "20",
+    "loot": [
+        {
+            "amount": "0-100",
+            "itemName": "Gold Coin"
+        },
+        {
+            "amount": "0-30",
+            "itemName": "Platinum Coin"
+        },
+        {
+            "amount": "0-3",
+            "itemName": "Blue Crystal Shard"
+        },
+        {
+            "amount": "0-3",
+            "itemName": "Green Crystal Shard"
+        },
+        {
+            "amount": "0-3",
+            "itemName": "Violet Crystal Shard"
+        },
+        {
+            "amount": "0-10",
+            "itemName": "Great Mana Potion"
+        },
+        {
+            "amount": "0-10",
+            "itemName": "Great Spirit Potion"
+        },
+        {
+            "amount": "0-5",
+            "itemName": "Ultimate Health Potion"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "Piece of Royal Steel"
+        },
+        {
+            "amount": "0-10",
+            "itemName": "Small Amethyst"
+        },
+        {
+            "amount": "0-10",
+            "itemName": "Small Diamond"
+        },
+        {
+            "amount": "0-10",
+            "itemName": "Small Emerald"
+        },
+        {
+            "amount": "0-10",
+            "itemName": "Small Ruby"
+        },
+        {
+            "amount": "0-10",
+            "itemName": "Small Topaz"
+        },
+        {
+            "itemName": "Berserk Potion"
+        },
+        {
+            "itemName": "Bullseye Potion"
+        },
+        {
+            "itemName": "Blue Gem"
+        },
+        {
+            "itemName": "Green Gem"
+        },
+        {
+            "itemName": "Red Gem"
+        },
+        {
+            "itemName": "Yellow Gem"
+        },
+        {
+            "itemName": "Bright Sword"
+        },
+        {
+            "itemName": "Demonic Essence"
+        },
+        {
+            "itemName": "Executioner"
+        },
+        {
+            "itemName": "Forbidden Fruit"
+        },
+        {
+            "itemName": "Giant Shimmering Pearl"
+        },
+        {
+            "itemName": "Mandrake"
+        },
+        {
+            "itemName": "Medusa Shield"
+        },
+        {
+            "itemName": "Ring of Healing"
+        },
+        {
+            "itemName": "Sacred Tree Amulet"
+        },
+        {
+            "itemName": "Sniper Gloves"
+        },
+        {
+            "itemName": "Spirit Container"
+        },
+        {
+            "itemName": "Swamplair Armor"
+        },
+        {
+            "itemName": "Trapped Bad Dream Monster"
+        },
+        {
+            "itemName": "Thorn Seed",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Part of a Rune (One)"
+        },
+        {
+            "itemName": "Silver Token"
+        },
+        {
+            "itemName": "Gold Token"
+        },
+        {
+            "itemName": "Green Piece of Cloth"
+        },
+        {
+            "itemName": "Haunted Blade"
+        },
+        {
+            "itemName": "Knight Axe"
+        },
+        {
+            "itemName": "Royal Helmet"
+        },
+        {
+            "itemName": "Rusted Armor"
+        },
+        {
+            "itemName": "Spiked Squelcher"
+        },
+        {
+            "itemName": "Flask of Warrior's Sweat"
+        },
+        {
+            "itemName": "Violet Gem"
+        },
+        {
+            "itemName": "Ruthless Axe"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "30000",
+    "creatureclass": "Mammals",
+    "earthDmgMod": "100%?",
+    "physicalDmgMod": "100%?",
+    "bosstiaryclass": "Archfoe",
+    "primarytype": "Humans",
+    "spawntype": [
+        "Triggered"
+    ],
+    "race_id": "1297",
+    "senseinvis": "?",
+    "actualname": "the enraged Thorn Knight",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "The Enraged Thorn Knight",
+    "isboss": "yes",
+    "location": "A dungeon {{Mapper Coords|127.111|128.113|14|2|text=here}}, accessible through the [[Desecrated Glade]].",
+    "iceDmgMod": "100%?",
+    "strategy": "Do not use [[Death Damage]] against it otherwise it will heal 10 times the damage it was supposed to receive.",
+    "energyDmgMod": "100%?",
+    "deathDmgMod": "-1000%"
+}

@@ -1,0 +1,94 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "<gallery captionalign=\"center\" mode=\"nolines\">\nCarnivostrich Artwork.jpg|Official [[Creature Artwork]]\n</gallery>",
+    "plural": "carnivostriches",
+    "hpDrainDmgMod": "100%?",
+    "walksthrough": "Poison, Energy, Fire",
+    "hp": "8250",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "The most striking feature of the carnivostrich is his erratic behaviour. Of all of Dr. Marrows creation they have the least human elements and the most bestial behaviour. In some of them the bestial ostrich part is so strong, that they are found dead, suffocated with their heads buried into the soil. The roaming carnivostriches are supposed to lean more heavily on their wolf part. Their bestial nature means though, that they can be domesticated and trained by more sophisticated mutants and Marrows assistants. They often serve others as beasts of burden, guardian creatures or even pets. Despite their carnivorous elements, the Carnovostrich can rely solely on seeds and herbs for indefinite periods of time, when needed. On Ingol the local carnivostriches are put on a strict plant based diet and the exposure to raw meat often send them into a frenzy. By far most of the eggs that carnoviostriches lay are infertile and those are sorted out and used to sustain other mutants, that don't rely on plant fibres.In some decadent circles of society, the carnivostrich eggs are highly valued as a delicacy, which lead to the 'forgery' of carnivostrich eggs, by the sale of more readily available hydra eggs to unsuspecting and inexperienced connoisseurs. Some clues hint at the carnivostriches as just a steppingstone in Dr. Marrows experiments, to create a way more formidable and dangerous mount for his own use.",
+    "speed": "168",
+    "abilities": "{{Ability List\n |{{Melee|?|poison=32}}\n |{{Ability|Death Chain|348-495|death\n  |scene={{Scene|spell=chainspell|caster=Carnivostrich|look_direction=south|effect=Black Smoke Effect|damage_effect=Cloud Effect}}}}\n |{{Ability|Energy Chain|302-309|energy\n  |scene={{Scene|spell=chainspell|caster=Carnivostrich|look_direction=south|effect=Purple Chain Effect|damage_effect=Blue Electricity Effect}}}}\n |{{Ability|Thunderstorm Ring|326-411|energy}}\n |{{Ability|Small stone|101-133|physical\n  |scene={{Scene|spell=4sqmstrike|caster=Carnivostrich|look_direction=south|effect=Blood Effect|missile=Small Stone Missile|missile_direction=south-east|missile_distance=4/4}}}}\n |{{Ability|Large stone|453-527|physical\n  |scene={{Scene|spell=4sqmstrike|caster=Carnivostrich|look_direction=south|effect=Blood Effect|missile=Stone Missile|missile_direction=south-east|missile_distance=4/4}}}}\n |{{Ability|Sparkles|unknown|element=?\n   |scene={{Scene|spell=buffspell|effect=Blue Sparkles Effect|caster=Carnivostrich|look_direction=south|effect_on_caster=yes}}}}\n}}",
+    "healMod": "100%",
+    "pushobjects": "yes",
+    "paraimmune": "yes",
+    "fireDmgMod": "110%",
+    "holyDmgMod": "120%",
+    "sounds": [
+        "Yooohhouuu!",
+        "GRROARR",
+        "Grrrrrrr!",
+        "Yoooohhuuuu!"
+    ],
+    "pushable": "no",
+    "runsat": "deep red",
+    "implemented": "13.10.12852",
+    "bestiaryclass": "Bird",
+    "loot": [
+        {
+            "itemName": "Platinum Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Small Ruby",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Small Emerald",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Strong Mana Potion",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Blue Gem",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Underworld Rod",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Wand of Voodoo",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Carnivostrich Feather",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Boots of Haste",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Spellbook of Mind Control",
+            "rarity": "rare"
+        }
+    ],
+    "walksaround": "None",
+    "exp": "7290",
+    "creatureclass": "Misc",
+    "earthDmgMod": "100%",
+    "mitigation": "1.94",
+    "physicalDmgMod": "110%",
+    "primarytype": "Birds",
+    "attacktype": "distance",
+    "race_id": "2341",
+    "bestiarylevel": "Hard",
+    "senseinvis": "yes",
+    "article": "a",
+    "actualname": "carnivostrich",
+    "illusionable": "no",
+    "armor": "63",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Carnivostrich",
+    "isboss": "no",
+    "location": "[[Ingol]]",
+    "iceDmgMod": "110%",
+    "energyDmgMod": "85%",
+    "deathDmgMod": "95%"
+}

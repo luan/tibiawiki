@@ -1,0 +1,124 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "It's part of the [[Soul War Quest]].",
+    "walksthrough": "?",
+    "hp": "?",
+    "usespells": "yes",
+    "speed": "?",
+    "abilities": "{{Ability List\n |{{Melee}}\n |{{Ability|Ice Wave|?|?}}\n |{{Ability|Ice Beam|?|?}}\n |{{Ability|Ice Bomb on self|?|?}}\n}}",
+    "healMod": "100%?",
+    "paraimmune": "yes",
+    "fireDmgMod": "85%",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "?",
+    "pushable": "no",
+    "runsat": "0",
+    "cooldown": "20",
+    "implemented": "12.40.9997",
+    "loot": [
+        {
+            "itemName": "Figurine of Malice"
+        },
+        {
+            "itemName": "Malice's Horn"
+        },
+        {
+            "itemName": "Malice's Spine"
+        },
+        {
+            "itemName": "The Skull of a Beast"
+        },
+        {
+            "itemName": "Ultimate Mana Potion"
+        },
+        {
+            "itemName": "Giant Amethyst"
+        },
+        {
+            "itemName": "White Gem"
+        },
+        {
+            "itemName": "Crystal Coin"
+        },
+        {
+            "itemName": "Giant Shimmering Pearl"
+        },
+        {
+            "itemName": "Bullseye Potion"
+        },
+        {
+            "itemName": "Mastermind Potion"
+        },
+        {
+            "itemName": "Gold Ingot"
+        },
+        {
+            "itemName": "Giant Topaz"
+        },
+        {
+            "itemName": "Yellow Gem"
+        },
+        {
+            "itemName": "Supreme Health Potion"
+        },
+        {
+            "itemName": "Ultimate Spirit Potion"
+        },
+        {
+            "itemName": "Berserk Potion"
+        },
+        {
+            "itemName": "Blue Gem"
+        },
+        {
+            "itemName": "Giant Sapphire"
+        },
+        {
+            "itemName": "Green Gem"
+        },
+        {
+            "itemName": "Bag You Desire"
+        },
+        {
+            "itemName": "Red Gem"
+        },
+        {
+            "itemName": "Dragon Figurine"
+        },
+        {
+            "itemName": "Spectral Horseshoe"
+        },
+        {
+            "itemName": "Spectral Saddle"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "75000",
+    "creatureclass": "The Undead",
+    "earthDmgMod": "85%?",
+    "physicalDmgMod": "100%?",
+    "bosstiaryclass": "Archfoe",
+    "primarytype": "Ghosts",
+    "spawntype": [
+        "Triggered"
+    ],
+    "attacktype": "Melee",
+    "race_id": "1901",
+    "senseinvis": "yes",
+    "actualname": "Goshnar's Malice",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Goshnar's Malice",
+    "isboss": "yes",
+    "location": "Accessed through [[Zarganash]].",
+    "iceDmgMod": "100%?",
+    "energyDmgMod": "85%?",
+    "deathDmgMod": "100%?"
+}

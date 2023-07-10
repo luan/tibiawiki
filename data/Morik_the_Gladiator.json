@@ -1,0 +1,52 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "Spawns when using the armor decoration in Morik's room. {{JSpoiler|Part of the [[In Service of Yalahar Quest]].}}\n<gallery mode=\"nolines\">\nImage: Morik the gladiator room.JPG | Morik The Gladiator's Room.\n</gallery>",
+    "walksthrough": "?",
+    "hp": "1235",
+    "speed": "?",
+    "abilities": "{{Ability List| {{Melee|0-200}}|{{Ability|[[Berserk]]|0-110|element=?}}|{{Summon|Gladiator|2}}|{{Ability|[[Whirlwind Throw]] makes you [[Drunk]]|element=drunk}}|{{Ability|[[Party Buffs|Party Buffs Wave]]|increase all your or monsters melee skills for some seconds|element=buff}} }}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "90%",
+    "holyDmgMod": "90%",
+    "sounds": [
+        "To be the one you'll have to beat the one!",
+        "Where did I put my ultimate health potion again?",
+        "I am the best!",
+        "I'll take your ears as a trophy!"
+    ],
+    "maxdmg": "310 (490 with summons)",
+    "pushable": "?",
+    "implemented": "8.40",
+    "loot": [
+        {
+            "itemName": "Morik's Helmet"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "160",
+    "creatureclass": "Humans",
+    "earthDmgMod": "90%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Outlaws",
+    "spawntype": [
+        "Triggered"
+    ],
+    "race_id": "487",
+    "senseinvis": "yes",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Morik the Gladiator",
+    "isboss": "yes",
+    "behaviour": "Same as a [[Gladiator]]. Runs at very [[Health|Low Health]].",
+    "location": "The Arena Quarter. Arena second floor east area, {{Mapper Coords|127.173|122.10|6|2|text=here}}.",
+    "iceDmgMod": "90%",
+    "strategy": "Shoot from the door so you can only get hit by 2 monsters. Recommended to wear a [[Protection Amulet]] to lower the physical damage he inflicts.<br>\n'''[[Knight]]''': Can easily kill him with lvl 40 and skills 65/65. Bring your best weapon and shield, as Morik hits quite hard, it's best to fight him in balance as he tends to hit for quite some damage, exori whenever he summons a gladiator to hit both at the same time, DO NOT LET HIM HAVE 2 SUMMONS!!! 2 summons will break your shielding quite easily and Morik will hit you for major damage, make sure to bring him down fast or you will waste many potions.<br>",
+    "energyDmgMod": "90%",
+    "deathDmgMod": "101%>?"
+}

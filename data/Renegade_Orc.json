@@ -1,0 +1,94 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "renegade orcs",
+    "hpDrainDmgMod": "100%?",
+    "notes": "This creature was added with the [[Updates/8.54|Christmas Update 2009]].<br />{{JSpoiler|Part of [[An Uneasy Alliance Quest]].}}",
+    "walksthrough": "?",
+    "hp": "450",
+    "speed": "?",
+    "abilities": "{{Ability List\n |{{Melee|0-130}}\n |{{Ability|[[Throwing Star]]s|0-50|element=physical\n  |scene={{Scene|spell=5sqmstrike|background=canvas|caster=Renegade Orc|look_direction=south|missile=Throwing Star Missile|missile_direction=south-east|missile_distance=5/5}}}}\n}}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "0%",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        "Harga puchak muhmak!"
+    ],
+    "maxdmg": "{{Max Damage|physical=180}}",
+    "pushable": "?",
+    "usedelements": "Physical",
+    "implemented": "8.54",
+    "loot": [
+        {
+            "amount": "0-29",
+            "itemName": "Gold Coin"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "Throwing Knife"
+        },
+        {
+            "itemName": "Fish"
+        },
+        {
+            "itemName": "Brown Mushroom"
+        },
+        {
+            "itemName": "Orc Leather"
+        },
+        {
+            "itemName": "Scimitar"
+        },
+        {
+            "itemName": "Plate Shield"
+        },
+        {
+            "itemName": "Broadsword"
+        },
+        {
+            "itemName": "Sword Ring"
+        },
+        {
+            "itemName": "Longsword"
+        },
+        {
+            "itemName": "Orc Tooth"
+        },
+        {
+            "itemName": "Health Potion"
+        },
+        {
+            "itemName": "Plate Legs"
+        },
+        {
+            "itemName": "Warrior Helmet"
+        },
+        {
+            "itemName": "Royal Spear"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "270",
+    "creatureclass": "Humanoids",
+    "earthDmgMod": "100%?",
+    "physicalDmgMod": "100%?",
+    "primarytype": "Orcs",
+    "race_id": "622",
+    "senseinvis": "?",
+    "article": "a",
+    "actualname": "renegade orc",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Renegade Orc",
+    "isboss": "yes",
+    "behaviour": "Somewhat like an [[Orc Leader]].",
+    "location": "[[Zao Orc Land]] in the basement of the northern fort. {{Mapper Coords|129.33|122.73|7|4|text=here}}",
+    "iceDmgMod": "100%?",
+    "strategy": "[[Knight]] and [[Paladin]] must have [[skills]] over 65/65, better if 75/75, so you don't risk wasting. And use the same strategy like for an [[Orc Leader]].",
+    "energyDmgMod": "100%?",
+    "deathDmgMod": "100%?"
+}

@@ -1,0 +1,84 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "Very rare monsters, not considered a boss, although they spawn irregularly and don't appear in the Tibian Library. On [[Folda]], they spawn in small groups, from 1 to 3. One '''Yeti''' group spawns close to the shovel hole, second group spawns little bit north east of the shovel hole and the third group spawns east of the shovel hole.\n\nOn [[Chyllfroest]], they spawn very rarely on the fourth floor of the mountain.\n\n<gallery hideaddbutton=\"true\" position=\"center\" style=\"text-align:center\" captionalign=\"center\" widths=\"165\" heights=\"165\" mode=\"nolines\">\nYeti Dropping Bunyslippers.png|Yeti Dropping Bunyslippers on Isle of Merriment, 2019\nYeti Bestiary Entry.png|Full Yeti Bestiary Entry\nYeti wiki.png|Yeti on Folda (Harmonia)\n</gallery>",
+    "walksthrough": "None",
+    "hp": "950",
+    "usespells": "yes",
+    "occurrence": "Very Rare",
+    "speed": "125",
+    "abilities": "{{Ability List| {{Melee|0-200}}|{{Ability|[[Distance Fighting|Snowball]]|0-180|element=?}}|{{Ability|[[Ice Damage|Snow Wave]]|0-175|element=ice}} }}",
+    "pushobjects": "?",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "secondarytype": "Giants",
+    "fireDmgMod": "110%",
+    "holyDmgMod": "100%",
+    "sounds": [
+        "Yooodelaaahooohooo",
+        "Yooodelaaaheehee"
+    ],
+    "maxdmg": "555",
+    "pushable": "no",
+    "implemented": "7.4",
+    "bestiaryclass": "Mammal",
+    "loot": [
+        {
+            "amount": "1-30",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-4",
+            "itemName": "Meat",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-6",
+            "itemName": "Ham",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-22",
+            "itemName": "Snowball",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Wolf Tooth Chain",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Bunnyslippers",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Fire, Energy, Poison",
+    "exp": "460",
+    "creatureclass": "Mammals",
+    "earthDmgMod": "100%",
+    "mitigation": "1.13",
+    "physicalDmgMod": "100%",
+    "primarytype": "Apes",
+    "spawntype": [
+        "Raid"
+    ],
+    "race_id": "110",
+    "attacktype": "Melee",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "article": "a",
+    "actualname": "yeti",
+    "illusionable": "no",
+    "armor": "28",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Yeti",
+    "isboss": "no",
+    "behaviour": "'''Yetis''' fight until death.",
+    "location": "[[Folda]], [[Chyllfroest]], [[Isle of Merriment]].",
+    "iceDmgMod": "100%",
+    "strategy": "While blocking '''Yetis''', try to keep at one of their diagonals to avoid the [[Ice Damage|Snow Wave]]. [[Paladin]]s can kill them with [[Assassin Star]]s and [[Ethereal Spear]]. [[Mage]]s should use [[Magic Shield]] and [[Sudden Death|Sudden Death Runes]] to take them down quickly.",
+    "energyDmgMod": "108%",
+    "deathDmgMod": "100%"
+}

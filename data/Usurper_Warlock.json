@@ -1,0 +1,123 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "Unknown.",
+    "walksthrough": "Fire, Energy, Poison",
+    "hp": "7500",
+    "abilities": "{{Ability List| {{Melee|0-500}}|{{Ability|[[Ice Damage|Avalanche]]|0-450|element=ice}}|{{Ability|[[Death Damage|Chain Attack]]|0-530|element=death}}|{{Ability||element=?}} }}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "holyDmgMod": "68%",
+    "maxdmg": "?",
+    "pushable": "no",
+    "implemented": "12.40.9997",
+    "loot": [
+        {
+            "amount": "1-4",
+            "itemName": "Platinum Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Lion Cloak Patch",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Lion Crest",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Terra Hood",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Gold Ingot",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Black Pearl",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Ham",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Wand of Cosmic Energy",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Springsprout Rod",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Wand of Starstorm",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Giant Shimmering Pearl (Green)",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Underworld Rod",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Lightning Headband",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Green Gem",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Magma Monocle",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Knight Legs",
+            "rarity": "semi-rare"
+        }
+    ],
+    "walksaround": "None.",
+    "exp": "7000",
+    "mitigation": "2.25",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "usurper warlock",
+    "illusionable": "no",
+    "armor": "80",
+    "convince": "--",
+    "name": "Usurper Warlock",
+    "isboss": "no",
+    "iceDmgMod": "70%",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "110%",
+    "plural": "usurper warlocks",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "The usurpers to the throne of the Lion laid siege to the town of Bounac. Their main goal being the fall of king Kesar, they are trying everything in their might to breach the old walls of the castle. Shamefully disregarding the very life and well-being of its inhabitants. The warlocks are trained in battle-magic and well-versed in a variety of war tactics. There are fewer warlocks in the ranks of the usurpers but what they lack in numbers they make up for in ruthlessness.",
+    "speed": "165",
+    "pushobjects": "yes",
+    "fireDmgMod": "95%",
+    "sounds": [
+        "What, are you afraid? So you should be!",
+        "Die in the flames of true righteousness!"
+    ],
+    "runsat": "0",
+    "bestiaryclass": "Human",
+    "creatureclass": "Humans",
+    "earthDmgMod": "100%",
+    "physicalDmgMod": "90%",
+    "primarytype": "Members of the Order of the Lion",
+    "spawntype": [
+        "Regular"
+    ],
+    "race_id": "1974",
+    "bestiarylevel": "Hard",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "usurperwarlock",
+    "behaviour": "Attacks from close range.",
+    "location": "[[Bounac]], the [[Order of the Lion]] settlement."
+}

@@ -1,0 +1,186 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "The False God",
+    "hpDrainDmgMod": "100%?",
+    "notes": "{{JSpoiler|Part of the [[Cults of Tibia Quest]].}}",
+    "walksthrough": "?",
+    "hp": "300000~",
+    "speed": "?",
+    "abilities": "{{Ability List| {{Melee|0-1000+|element=physical}}|{{Ability|physical damage Stone Shower Wave|100-200?}} }}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "90%",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        "CREEEAK!"
+    ],
+    "maxdmg": "?",
+    "pushable": "?",
+    "implemented": "11.40.5409",
+    "cooldown": "20",
+    "loot": [
+        {
+            "amount": "200",
+            "itemName": "Gold Coin",
+            "rarity": "always"
+        },
+        {
+            "amount": "1",
+            "itemName": "Necromantic Rust",
+            "rarity": "always"
+        },
+        {
+            "amount": "1",
+            "itemName": "Mysterious Remains",
+            "rarity": "always"
+        },
+        {
+            "amount": "5",
+            "itemName": "Energy Bar",
+            "rarity": "always"
+        },
+        {
+            "amount": "0-30?",
+            "itemName": "Platinum Coin"
+        },
+        {
+            "amount": "0-10",
+            "itemName": "Small Amethyst"
+        },
+        {
+            "amount": "0-10",
+            "itemName": "Small Diamond"
+        },
+        {
+            "amount": "0-10",
+            "itemName": "Small Emerald"
+        },
+        {
+            "amount": "0-10",
+            "itemName": "Small Sapphire"
+        },
+        {
+            "amount": "0-10",
+            "itemName": "Small Topaz"
+        },
+        {
+            "amount": "0-1",
+            "itemName": "Piece of Royal Steel"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "Piece of Draconian Steel"
+        },
+        {
+            "amount": "0-9",
+            "itemName": "Piece of Hell Steel"
+        },
+        {
+            "amount": "0-1",
+            "itemName": "Huge Chunk of Crude Iron"
+        },
+        {
+            "amount": "0-9?",
+            "itemName": "Red Piece of Cloth"
+        },
+        {
+            "amount": "0-5",
+            "itemName": "Great Mana Potion"
+        },
+        {
+            "amount": "0-5",
+            "itemName": "Great Spirit Potion"
+        },
+        {
+            "amount": "0-5",
+            "itemName": "Ultimate Health Potion"
+        },
+        {
+            "amount": "0-1",
+            "itemName": "Iron Ore"
+        },
+        {
+            "amount": "0-1",
+            "itemName": "Magic Sulphur"
+        },
+        {
+            "itemName": "Red Gem"
+        },
+        {
+            "itemName": "Yellow Gem"
+        },
+        {
+            "itemName": "Green Gem"
+        },
+        {
+            "itemName": "Blue Gem"
+        },
+        {
+            "itemName": "Violet Gem"
+        },
+        {
+            "itemName": "Underworld Rod"
+        },
+        {
+            "itemName": "War Axe"
+        },
+        {
+            "itemName": "Pair of Iron Fists"
+        },
+        {
+            "itemName": "Silver Token"
+        },
+        {
+            "itemName": "Gold Token"
+        },
+        {
+            "itemName": "Relic Sword"
+        },
+        {
+            "itemName": "Maimer",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Velvet Mantle",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Blood of the Mountain (Item)",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Giant Sword",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Giant Shimmering Pearl"
+        },
+        {
+            "itemName": "Mino Shield"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "50000",
+    "creatureclass": "Humanoids",
+    "earthDmgMod": "100%?",
+    "physicalDmgMod": "90%",
+    "bosstiaryclass": "Archfoe",
+    "primarytype": "Minotaurs",
+    "race_id": "1409",
+    "senseinvis": "?",
+    "actualname": "The False God",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "The False God",
+    "isboss": "yes",
+    "behaviour": "The False God will fight in close combat until death.",
+    "location": "Minotaur Cult hideout near [[Mintwallin]].",
+    "iceDmgMod": "100%?",
+    "strategy": "Focus all your firepower on it while running around the room to avoid the [[Sphere of Wrath]].",
+    "energyDmgMod": "90%",
+    "deathDmgMod": "50%?"
+}

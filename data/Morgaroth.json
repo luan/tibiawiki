@@ -1,0 +1,303 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "'''Morgaroth''', the schemer, is an [[Archdemon]] and also a member of the [[Triangle of Terror]].\n\n<gallery mode=\"nolines\">\nMorgaroth1.jpg|Morgaroth has been sighted for the first time. Before Summer Update 2007 (old Morgaroth).\nMorgarothhit.JPG|Jackwalker dies by a melee hit of 2013 hitpoints. After Summer Update 2007 (new Morgaroth).\nMorgaroth.jpg|Nottinghster dies by an insane combo of 2766. After Winter Update 2007 (new Morgaroth)\nMorgSDexplosion.JPG|New Morgaroth's spell. After 2008 summer update (new Morgaroth).\n</gallery>\n\nMorgaroth was first sighted on [[Arcania]], Aug 07th 2006.\nHe was first killed on [[Aldora]] and [[Titania]], Sept 6th 2006.\n\nWhen it appears all players on the world receive 3 messages that are broadcasted in white text, just like when [[Orshabaal]] appears or when a raid happens. The messages appear exactly 6 minutes apart. Morgaroth spawns when the last message appears, exactly 12 minutes after the first message.\n{{Raid Message|00:00:00|The ancient volcano on Goroma slowly becomes active once again.|00:06:00|There is an evil presence at the volcano of Goroma.|00:12:00|Evil Cultists have called an ancient evil into the volcano on Goroma. Beware of its power mortals.}}</noinclude>",
+    "walksthrough": "?",
+    "hp": "55000",
+    "speed": "305",
+    "abilities": "{{Ability List\n |{{Melee|0-2250}}\n |{{Ability|Fire Ball|100-900|fire\n  |scene={{Scene|spell=5sqmballtarget|effect=Fireball Effect|caster=Morgaroth|missile=Fire Missile|missile_direction=south-east|missile_distance=5/5}}}}\n |{{Ability|Death Beam|500-850|?\n  |scene={{Scene|spell=8sqmbeam|effect=Death Effect|caster=Morgaroth|look_direction=east}}}}\n |{{Ability|Paralyze|200-220 points for 30 seconds|paralyze\n  |scene={{Scene|spell=6sqmballself|effect=Red Notes Effect|caster=Morgaroth|effect_on_caster=yes}}}}\n |{{Ability|Mana drain bomb|400-700|mana drain\n  |scene={{Scene|spell=6sqmballself|effect=Green Sparkles Effect|caster=Morgaroth|effect_on_caster=yes}}}}\n |{{Ability|[[Sudden_Death_Explosion|Armageddon]]|500-800|death\n  |scene={{Scene|spell=6sqmballself|effect=Death Effect|caster=Morgaroth|look_direction=|effect_on_caster=yes}}}}\n |{{Ability|Mana drain strike|100-1000|mana drain\n  |scene={{Scene|spell=7sqmstrike|effect=Poof Effect|caster=Morgaroth|missile=Energy Missile|missile_direction=south-east|missile_distance=7/7}}}}\n |{{Haste|scene={{Scene|spell=buffspell|effect=Red Sparkles Effect|caster=Morgaroth|effect_on_caster=yes}}}}\n |{{Healing|frequent self-healing|800-1200\n  |scene={{Scene|spell=buffspell|effect=Blue Sparkles Effect|caster=Morgaroth|effect_on_caster=yes}}}}\n |{{Healing|infrequent stronger self-healing|3000-6000\n  |scene={{Scene|spell=buffspell|effect=Blue Sparkles Effect|caster=Morgaroth|effect_on_caster=yes}}}}\n |{{Summon|demon|6}}\n |{{Debuff2|Exori Debuff|distance=yes|value=50-90%|duration=7\n  |scene={{Scene|spell=3sqmball2self|effect=Trembling Effect|caster=Morgaroth|effect_on_caster=yes}}}}\n |{{Debuff2|Strike Debuff|yes|shielding=yes|value=70-100%|duration=3\n  |scene={{Scene|spell=7sqmstrike|effect=Teleport Effect|caster=Morgaroth|missile=Stone Missile|missile_direction=south-east|missile_distance=7/7}}}}\n}}",
+    "pushobjects": "Yes",
+    "healMod": "100%?",
+    "paraimmune": "yes",
+    "secondarytype": "Archdemons",
+    "fireDmgMod": "0%",
+    "holyDmgMod": "105%",
+    "sounds": [
+        "I AM MORGAROTH, LORD OF THE TRIANGLE... AND YOU ARE LOST!",
+        "MY SEED IS FEAR AND MY HARVEST ARE YOUR SOULS!",
+        "ZATHROTH! LOOK AT THE DESTRUCTION I AM CAUSING IN YOUR NAME!",
+        "THE TRIANGLE OF TERROR WILL RISE!"
+    ],
+    "maxdmg": "6500 (with a strong combo) (+ 6x 1200 with summons)",
+    "pushable": "No",
+    "runsat": "2500",
+    "implemented": "7.8",
+    "loot": [
+        {
+            "amount": "0-295",
+            "itemName": "Gold Coin"
+        },
+        {
+            "amount": "0-74",
+            "itemName": "Platinum Coin"
+        },
+        {
+            "amount": "0-5",
+            "itemName": "Demonic Essence"
+        },
+        {
+            "amount": "0-18",
+            "itemName": "Small Amethyst"
+        },
+        {
+            "amount": "0-7",
+            "itemName": "Small Emerald"
+        },
+        {
+            "amount": "0-5",
+            "itemName": "Small Diamond"
+        },
+        {
+            "amount": "0-11",
+            "itemName": "White Pearl"
+        },
+        {
+            "amount": "0-9",
+            "itemName": "Small Sapphire"
+        },
+        {
+            "amount": "0-13",
+            "itemName": "Black Pearl"
+        },
+        {
+            "amount": "0-7",
+            "itemName": "Talon"
+        },
+        {
+            "amount": "0-1",
+            "itemName": "Gold Ingot"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "Demon Horn"
+        },
+        {
+            "amount": "0-100",
+            "itemName": "Infernal Bolt"
+        },
+        {
+            "amount": "0-35",
+            "itemName": "Assassin Star"
+        },
+        {
+            "itemName": "Ancient Amulet"
+        },
+        {
+            "itemName": "Blue Gem"
+        },
+        {
+            "itemName": "Boots of Haste"
+        },
+        {
+            "itemName": "Crystal Ball"
+        },
+        {
+            "itemName": "Gold Ring"
+        },
+        {
+            "itemName": "Crystal Ring"
+        },
+        {
+            "itemName": "Death Ring"
+        },
+        {
+            "itemName": "Demon Shield"
+        },
+        {
+            "itemName": "Demonbone"
+        },
+        {
+            "itemName": "Devil Helmet"
+        },
+        {
+            "itemName": "Double Axe"
+        },
+        {
+            "itemName": "Energy Ring"
+        },
+        {
+            "itemName": "Fire Axe"
+        },
+        {
+            "itemName": "Giant Sword"
+        },
+        {
+            "itemName": "Golden Legs"
+        },
+        {
+            "itemName": "Golden Mug"
+        },
+        {
+            "itemName": "Great Health Potion"
+        },
+        {
+            "itemName": "Great Mana Potion"
+        },
+        {
+            "itemName": "Great Spirit Potion"
+        },
+        {
+            "itemName": "Green Gem"
+        },
+        {
+            "itemName": "Ice Rapier"
+        },
+        {
+            "itemName": "Life Crystal"
+        },
+        {
+            "itemName": "Magic Light Wand"
+        },
+        {
+            "itemName": "Two Handed Sword"
+        },
+        {
+            "itemName": "Magic Plate Armor"
+        },
+        {
+            "itemName": "Magma Coat"
+        },
+        {
+            "itemName": "Mastermind Shield"
+        },
+        {
+            "itemName": "Might Ring"
+        },
+        {
+            "itemName": "Mind Stone"
+        },
+        {
+            "itemName": "Moonlight Rod"
+        },
+        {
+            "itemName": "Necrotic Rod"
+        },
+        {
+            "itemName": "Onyx Flail"
+        },
+        {
+            "itemName": "Orb"
+        },
+        {
+            "itemName": "Platinum Amulet"
+        },
+        {
+            "itemName": "Purple Tome"
+        },
+        {
+            "itemName": "Red Tome"
+        },
+        {
+            "itemName": "Ring of Healing"
+        },
+        {
+            "itemName": "Ring of the Sky"
+        },
+        {
+            "itemName": "Silver Amulet"
+        },
+        {
+            "itemName": "Silver Dagger"
+        },
+        {
+            "itemName": "Skull Staff"
+        },
+        {
+            "itemName": "Stealth Ring"
+        },
+        {
+            "itemName": "Stone Skin Amulet"
+        },
+        {
+            "itemName": "Strange Symbol"
+        },
+        {
+            "itemName": "Ultimate Health Potion"
+        },
+        {
+            "itemName": "Steel Boots",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Chain Bolter",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Dark Lord's Cape",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Dragon Robe",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Fireborn Giant Armor",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Great Shield",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Molten Plate",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Morgaroth's Heart",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Obsidian Truncheon",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Royal Crossbow",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Teddy Bear",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "The Devileye",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "The Ironworker",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "The Stomper",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Thunder Hammer",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Magma Legs"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "15000",
+    "creatureclass": "Demons",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "50%?",
+    "bosstiaryclass": "Nemesis",
+    "primarytype": "The Triangle of Terror",
+    "race_id": "229",
+    "history": "As of the summer [[update]] of 2007 Morgaroth has had a make over. Prior to the update Morgaroth looked the same as a normal [[demon]]:<br />\n[[File:Morgaroth(old).gif|Old Morgaroth Appearance]]",
+    "senseinvis": "yes",
+    "illusionable": "no",
+    "armor": "130",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Morgaroth",
+    "isboss": "yes",
+    "location": "Underground [[Goroma]] Volcano.",
+    "iceDmgMod": "105%",
+    "strategy": "Don't try to go near him unless your level is high (100+ recommended). To block it a knight ideally needs around 2,500 hitpoints (at least level 185+) and as many [[Stone Skin Amulet|stone skin amulets]] and [[Might Ring|might rings]] as possible. Preferably, have at least 15 shooters or more. Shooters should all wait in the same square upstairs while the knight lures Morgaroth to the left or right side of the stairs (to avoid demons from the south). Then, all shooters should go down in the same square (to be able to go up fast in case of retarget) while mages shoot [[Icicle]]s or [[Avalanche]]s, paladins preferably shoot [[Shiver Arrow]]s and [[Holy Missile|Holy Missile Runes]] (only if you have a bow with a range of 6+ sqms).<br />\n\nAfter [[Update 8.1]] the boss became strong against [[Death Damage]] making [[SD]]s a bad option. Also, since it is strong against [[Physical Damage]] melee weapons like [[Assassin Star]]s or [[Bolt]]s should be the second option only.<br />\n\nThe [[Knight]] will need constantly heal, at least 3 to 6 [[Druid]]s casting straight [[Exura Sio]], and sorcerers can help healing with [[Ultimate Healing Rune]]s. Druids can use [[Wild Growth]] runes and other vocations [[Magic Wall]]s around the Knight to make Morgaroth stay diagonal and to keep away summoned Demons. This is a dangerous technique if Morgaroth retarget shooters, the knight can get surrounded by non-summoned demons, making him unreachable to Morgaroth, consequently Morgaroth will keep attacking shooters.\n\nOn [[Optional PvP]] worlds, a group of players may try to help Morgaroth kill the knight blocking by making a line of magic walls between the blocker and shooters, so that the blocker cannot be healed by the druids and ends up dying. There is one simple way to avoid this, by having a few high level players stand guard for magic walls and running into them (while not taking part with the [[War System|war mode]]), which would cause the magic walls to disappear. This can also work for removing the magic walls around the knight blocking. Provided that the player removing the magic walls is not in [[War System|war mode]] and being shot at by others in same war.\n\nAnother strategy is that a second group of 1 or 2 knights go south from the stairs and protects the shooters while they heal the blocker from a different position.",
+    "energyDmgMod": "20%",
+    "deathDmgMod": "20%<?"
+}

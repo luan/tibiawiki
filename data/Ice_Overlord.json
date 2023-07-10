@@ -1,0 +1,63 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "New creature in [[Updates/8.2|Summer Update 2008]]. It looks the same as [[Massive Water Elemental]].",
+    "isarenaboss": "no",
+    "walksthrough": "Fire, Poison",
+    "hp": "4000",
+    "lightcolor": "143",
+    "speed": "?",
+    "abilities": "{{Ability List\n |{{Melee|0-400+}}\n |{{Ability|Ice Beam|400-1000|element=ice\n  |scene={{Scene|spell=8sqmbeam|effect=Icicle Effect|caster=Ice Overlord|look_direction=east}}}}\n |{{Ability|Freezing Strike|8 [[hp]]/90 turns for a total of 720[[hp]]|element=freezing\n  |scene={{Scene|spell=7sqmstrike|caster=Ice Overlord|look_direction=south|effect=Ice Explosion Effect|missile=Ice Missile|missile_direction=south-east|missile_distance=7/7}}}}\n |{{Ability|Paralyzing Windstorm|Reduces 530-710 speed points|element=paralyze\n  |scene={{Scene|spell=6sqmballself|effect=Ice Tornado Effect|caster=Ice Overlord|look_direction=south|effect_on_caster=yes}}}}\n |{{Ability|Paralyzing Strike|Reduces 710-850 speed points for 10s|element=paralyze\n  |scene={{Scene|spell=7sqmstrike|caster=Ice Overlord|look_direction=south|effect=Ice Explosion Effect|missile=Ice Missile|missile_direction=south-east|missile_distance=7/7}}}}\n |{{Ability|Ice Wind on himself|unknown effect|element=?\n  |scene={{Scene|spell=buffspell|effect=Ice Tornado Effect|caster=Ice Overlord|look_direction=south|effect_on_caster=yes}}}}\n}}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "secondarytype": "Elemental Lords",
+    "fireDmgMod": "0%",
+    "holyDmgMod": "100%",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "1408+",
+    "pushable": "?",
+    "lightradius": "4",
+    "implemented": "8.20",
+    "loot": [
+        {
+            "amount": "0-100",
+            "itemName": "Gold Coin"
+        },
+        {
+            "amount": "0-3",
+            "itemName": "Platinum Coin"
+        },
+        {
+            "itemName": "Crystalline Armor",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Flawless Ice Crystal",
+            "rarity": "always"
+        }
+    ],
+    "walksaround": "Energy",
+    "exp": "2800",
+    "creatureclass": "Elementals",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "50%?",
+    "primarytype": "Cryo-Elementals",
+    "race_id": "450",
+    "senseinvis": "?",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "0%",
+    "convince": "--",
+    "name": "Ice Overlord",
+    "isboss": "yes",
+    "behaviour": "'''Ice Overlord''' attacks the enemy in close combat.",
+    "location": "[[The Elemental Spheres Quest]], [[Paladin]]'s part - [[Ice Sphere]].",
+    "iceDmgMod": "0%",
+    "strategy": "Stay diagonal to avoid its ice beam. Use [[Assassin Star]]s and [[Exori San]]. A team of 2 or 3 is recommended so you can kill 3 or more '''Ice Overlords'''. A paladin normally has time to solo 2 overlords per 8 ice soils. There is a spot in the south-east corner where you can go diagonal and the overlord can't hit you with the beam. It's better to kill the last overlord in there.",
+    "energyDmgMod": "125%",
+    "deathDmgMod": "100%"
+}

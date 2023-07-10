@@ -1,0 +1,105 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "None.",
+    "walksthrough": "Energy, Poison",
+    "hp": "500",
+    "abilities": "{{Ability List| {{Melee|0-130}}|{{Ability|[[Life Drain|Distance Life Drain]]|15-24 |element=lifedrain}}|{{Ability|[[Mana Drain]]|14-23|element=manadrain}}|{{Ability|[[Death Hit]]|30-49|element=death}} }}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "holyDmgMod": "100%",
+    "maxdmg": "203",
+    "pushable": "no",
+    "implemented": "8.40",
+    "loot": [
+        {
+            "amount": "0-65",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Mace",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Battle Hammer",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Brass Helmet",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Half-Eaten Brain",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Heavily Rusted Armor",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Halberd",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Steel Helmet",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Mana Potion",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Life Ring",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Simple Dress",
+            "rarity": "rare"
+        }
+    ],
+    "walksaround": "Fire",
+    "exp": "280",
+    "mitigation": "0.83",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "zombie",
+    "illusionable": "no",
+    "armor": "20",
+    "convince": "--",
+    "name": "Zombie",
+    "isboss": "no",
+    "iceDmgMod": "0%",
+    "energyDmgMod": "0%",
+    "deathDmgMod": "0%",
+    "plural": "zombies",
+    "hpDrainDmgMod": "0%",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "Necromancy knows many forms of zombiefication. There are potions, spells and even apparatuses to raise the dead to serve their masters. While it is quite easy to raise a Zombie, it is more complicated to gain control. A good deal of aspiring zombie masters have died at the  rotting hands of a creature that was meant to become their minion.<br />Zombies have hardly any intelligence. If they do not have somebody controlling them, they tend to follow primal instincts such as eating and hunting. The undead state makes Zombies resilient and quite strong. However, their process of decomposing never stops and so sooner or later, a Zombie turns into a skeleton, losing strength and resilience, but strangely enough, gaining some intelligence.<br /><br />Sometimes the ingredients for zombiefication potions are set free in disadvantageous environments such as town wells through which the Zombie plague spreads like an infection. If this happens, whole towns are overrun by transformed Zombies that later haunt the surrounding area for months, or even years. For such incidents, all potential zombie masters are chased by the inquisition. In some years, the popularity to burn suspicious alchemists even outstripped the popularity of witch trials.",
+    "speed": "90",
+    "pushobjects": "yes",
+    "fireDmgMod": "50%",
+    "sounds": [
+        "Mst.... klll....",
+        "Whrrrr... ssss.... mmm.... grrrrl",
+        "Dnnnt... cmmm... clsrrr....",
+        "Httt.... hmnnsss..."
+    ],
+    "bestiaryclass": "Undead",
+    "creatureclass": "The Undead",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Undead Humanoids",
+    "spawntype": [
+        "Regular"
+    ],
+    "race_id": "512",
+    "bestiarylevel": "Medium",
+    "senseinvis": "no",
+    "drownDmgMod": "0%",
+    "bestiaryname": "zombie",
+    "behaviour": "'''Zombies''' fight to the death and are more dangerous than [[Crypt Shambler]]s.",
+    "location": "[[Cemetery Quarter]], [[Drefia]], [[Vampire Castle]], [[Treasure Island]], [[Isle of Evil]], [[Upper Spike]].",
+    "strategy": "'''Knights:''' should attack on full attack to kill them before they can drain your mana. When facing more than three, try to reposition yourself so only two of them can attack you. These monsters drop enough loot that can be sold to make hunting them with 75/75+ skills worthwhile. [[Stealth Ring]]s may be useful to kill them when there are three or more.<br><br>\n'''Paladins:''' should keep distance and kill it like a [[Demon Skeleton]], however keep an eye on your mana as you may die if it drops too low. Bringing some health potions is recommended.<br><br>\n'''Mages:''' would have the worst time hunting, as they're immune to most elements and resistant to fire, if you do wish to hunt them it's a good idea to summon two demon skeletons, as they won't take much damage and let them do the work. You can add support them from the back using [[Explosion]] runes to speed the kill.<br><br>\nIt is recommended that you use your mana as often as you can because it will be wasted by mana drain."
+}

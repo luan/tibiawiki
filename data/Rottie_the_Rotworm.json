@@ -1,0 +1,82 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%",
+    "notes": "Boss monster that sometimes spawns on [[Rookgaard]], introduced in [[Updates/8.5|Summer Update 2009]].\n\n<gallery widths=\"184\" heights=\"184\" mode=\"nolines\">\nImage:RottieTheRotworm VoF.jpg|[[Rottie The Rotworm]] has been sighted by [http://www.tibia.com/community/?subtopic=characters&name=Vanessa+of+Furora Vanessa of Furora] on [[Test Server]], before Summer Update 2009.\nrottie the rotworm.JPG|rottie the rotworm in katana quest\nRottierotworm.jpg|[http://www.tibia.com/community/?subtopic=characters&name=Boba+the+Fett Boba the Fett] fights [[Rottie The Rotworm]] in Rookgaard on Unitera early 2014.\n</gallery>",
+    "walksthrough": "?",
+    "hp": "65",
+    "speed": "?",
+    "abilities": "{{Ability List|{{Melee|0-25}}}}",
+    "pushobjects": "no",
+    "healMod": "100%?",
+    "paraimmune": "no",
+    "fireDmgMod": "100%",
+    "holyDmgMod": "100%",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "{{Max Damage|physical=25}}",
+    "pushable": "?",
+    "usedelements": "Physical",
+    "implemented": "8.50",
+    "loot": [
+        {
+            "amount": "0-27",
+            "itemName": "Gold Coin"
+        },
+        {
+            "amount": "0-5",
+            "itemName": "Worm"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "Ham"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "Meat"
+        },
+        {
+            "itemName": "Mace"
+        },
+        {
+            "itemName": "Sword"
+        },
+        {
+            "itemName": "Legion Helmet",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Copper Shield",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Katana",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Lump of Dirt",
+            "rarity": "always"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "40",
+    "creatureclass": "Invertebrates",
+    "earthDmgMod": "100%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Annelids",
+    "race_id": "592",
+    "senseinvis": "no",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%",
+    "convince": "--",
+    "name": "Rottie the Rotworm",
+    "isboss": "yes",
+    "behaviour": "Weaker than a [[Rotworm]]. Does not push objects nor kill weaker creatures. It is not immune to earth, therefore you can kill it with poison arrows.",
+    "location": "May spawn in the [[Poison Spider]] cave or in the [[Katana Quest]] on [[Rookgaard]]. Seems to spawn often but for short periods of time.",
+    "iceDmgMod": "100%",
+    "strategy": "This creature is very similar to [[Rotworm]].",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "100%"
+}

@@ -1,0 +1,76 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%",
+    "notes": "Gnomevil was a member of the [[Gnomes]] who turned evil. It is said that his size \"grew with evilness\".",
+    "isarenaboss": "no",
+    "walksthrough": "?",
+    "hp": "250000",
+    "speed": "?",
+    "abilities": "{{Ability List\n |{{Melee|0-1639+?}}\n |{{Ability|Ice Strike|400-750|element=ice}}\n |{{Ability|Terra Strike|400-750|element=earth}}\n |{{Ability|Mana Drain Energy Beam|350-750+?|element=manadrain}}\n |{{Ability|Mana Drain Icicle|element=manadrain}}\n |{{Ability|Electrifying Energy Beam|electrifies for 36 turns|element=electrified}}\n |{{Ability|Burning Fire Wave|burns for 159 turns|element=burning}}\n |{{Ability|Invisibility|element=invisible}}\n |{{Ability|Very Frequent [[Self-Healing]]|0-1500|element=healing}}\n |{{Ability|Frequent [[Self-Healing]]|0-20000|element=healing}}\n |{{Debuff2|distance=yes|value=60-90%}}\n |{{Debuff2|melee=yes|distance=yes|shielding=yes|magic=yes}}\n |{{Haste}}\n |and more\n}}",
+    "pushobjects": "yes",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "50%",
+    "holyDmgMod": "50%?",
+    "sounds": [
+        "I'm feeling grrrreat!",
+        "I've seen the light! And it was all engulfing fire!",
+        "No more Mr. Nicegnome!",
+        "Taste the power of the dark side!"
+    ],
+    "maxdmg": "2000",
+    "pushable": "no",
+    "implemented": "9.60",
+    "cooldown": "20",
+    "loot": [
+        {
+            "itemName": "Crystalline Sword"
+        },
+        {
+            "itemName": "Mycological Mace"
+        },
+        {
+            "itemName": "Crystal Crossbow"
+        },
+        {
+            "itemName": "Crystalline Axe"
+        },
+        {
+            "itemName": "Mycological Bow"
+        },
+        {
+            "itemName": "Shiny Blade"
+        },
+        {
+            "itemName": "Decorative Ribbon",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Gnomevil's Hat",
+            "rarity": "always"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "45000",
+    "creatureclass": "Humanoids",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "90%<?",
+    "bosstiaryclass": "Archfoe",
+    "primarytype": "Gnomes",
+    "race_id": "893",
+    "senseinvis": "?",
+    "actualname": "Gnomevil",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%",
+    "convince": "--",
+    "name": "Gnomevil",
+    "isboss": "yes",
+    "behaviour": "Gnomevil attacks the player dealing the most damage.",
+    "location": "[[Warzone 2]] boss room.",
+    "iceDmgMod": "50%",
+    "strategy": "Gnomevil's low healing capabilities and relatively weak offensive make him the easiest [[warzone]] boss to kill, despite being the boss of the second.\n\nGnomevil's toughest move is his melee. His beams cause [[Mana Drain|mana drain]], [[Electrified|electrification]] and [[burning]], making him easier for knights to block. If trapped, Gnomevil's damage can be countered with relative ease. The general strategy is to have 3-4 players (preferably knights) block Gnomevil's adjacent squares and have the shooters fire until he's dead. The player being attacked by Gnomevil (usually the highest level mage) should position themselves behind the main blocking knight, so that Gnomevil is most commonly facing them, absorbing the beams for the other knights to save mana. [[Challenge]] is probably a bad idea while Gnomevil is trapped because it would direct strong melee damage to the knight for a single turn, before Gnomevil again retargets to the highest damage dealer.\n\nFor small team,it's recommended to trap boss where he spawn with 1 or 2 blockers and all shooters should stay north west of boss,this way boss wont chase them if one of blockers stand 1sqm north of his spawn position.",
+    "energyDmgMod": "0%",
+    "deathDmgMod": "73%"
+}

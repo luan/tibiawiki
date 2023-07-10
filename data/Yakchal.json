@@ -1,0 +1,115 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "The [[Ice Witch]]es Boss, talked about in [[The Holy Coffin (Book)|this book]].",
+    "walksthrough": "?",
+    "hp": "5750",
+    "usespells": "yes",
+    "speed": "?",
+    "abilities": "{{Ability List\n |{{Melee|0-389?}}\n |{{Summon|Ice Golem|4}} (Trembling effect on self)\n |{{Ability|Frequent [[Self Healing]]|337-574|element=healing}}\n |{{Ability|Ice Wave|309-430|element=ice\n  |scene={{Scene|spell=6sqmwavewide|caster=Yakchal|look_direction=east|effect=Ice Tornado Effect|effect_on_target=Ice Tornado Effect}}}}\n |{{Ability|Paralyze|5secs~|element=paralyze\n  |scene={{Scene|spell=7sqmstrike|caster=Yakchal|look_direction=south|effect_on_target=Trembling Effect|missile=Ice Missile|missile_direction=south-east|missile_distance=7/7}}}}\n |{{Ability|Ice Missile|182-207|element=ice\n  |scene={{Scene|spell=7sqmstrike|caster=Yakchal|look_direction=south|effect_on_target=Ice Explosion Effect|missile=Ice Missile|missile_direction=south-east|missile_distance=7/7}}}}\n |{{Outfit|yes|Snowman (Decorated)|scene={{Scene|spell=7sqmstrike|caster=Yakchal|look_direction=south|effect_on_target=Blue Confetti Effect|missile=Snowball Missile|missile_direction=south-east|missile_distance=7/7}}}}\n}}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "secondarytype": "Barbarians",
+    "fireDmgMod": "100%?",
+    "holyDmgMod": "50%",
+    "sounds": [
+        "YOU BETTER DIE TO MY MINIONS BECAUSE YOU'LL WISH YOU DID IF I COME FOR YOU!",
+        "DESTROY THE INFIDELS",
+        "You are mine!",
+        "I will make you all pay!",
+        "No one will stop my plans!",
+        "You are responsible for this!"
+    ],
+    "maxdmg": "1000+",
+    "pushable": "?",
+    "runsat": "deep red",
+    "implemented": "8.00",
+    "loot": [
+        {
+            "amount": "0-224",
+            "itemName": "Gold Coin"
+        },
+        {
+            "itemName": "Blue Piece of Cloth"
+        },
+        {
+            "itemName": "Mastermind Potion"
+        },
+        {
+            "itemName": "Gold Ingot"
+        },
+        {
+            "itemName": "Crystal Sword"
+        },
+        {
+            "itemName": "Dragon Necklace"
+        },
+        {
+            "itemName": "Glacier Kilt"
+        },
+        {
+            "itemName": "Glacier Robe"
+        },
+        {
+            "itemName": "Great Mana Potion"
+        },
+        {
+            "itemName": "Bullseye Potion"
+        },
+        {
+            "itemName": "Berserk Potion"
+        },
+        {
+            "itemName": "Skull Staff"
+        },
+        {
+            "itemName": "Pair of Earmuffs"
+        },
+        {
+            "itemName": "Queen's Sceptre"
+        },
+        {
+            "itemName": "Life Ring",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Boots of Haste",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Green Mushroom",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Crystal Mace",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Shard",
+            "rarity": "always"
+        }
+    ],
+    "walksaround": "Energy",
+    "exp": "4400",
+    "creatureclass": "Humans",
+    "earthDmgMod": "20%",
+    "physicalDmgMod": "100%?",
+    "bosstiaryclass": "Nemesis",
+    "primarytype": "Sorcerers",
+    "attacktype": "distance",
+    "race_id": "336",
+    "senseinvis": "yes",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Yakchal",
+    "isboss": "yes",
+    "location": "[[Yakchal Crypt]].",
+    "iceDmgMod": "100%?",
+    "strategy": "If you are using a blocker, they should stay near the [[Sarcophagus]] when it gets summoned, and will need to use a lot of [[Great Health Potion]]s. The shooters should be spread out through the room, and should use [[SD]] runes on Yakchal. Be careful when waking her, because you will also wake up a huge number of [[Ice Witch]]es, [[Ice Golem]]s, [[Crystal Spider]]s and [[Frost Dragon]]s. (In four 'waves', approximately 6-8 [[Frost Dragon]]s, 10~ [[Crystal Spider]]s, 15~ [[Ice Witch]]es, 20-30 [[Ice Golem]]s and the Yakchal will spawn '''in only the south of the room'''! More monsters, mainly [[Ice Golem]]s and [[Crystal Spider]]s, will spawn in the west, north and east in the room.) Those creatures will not all come at the same time.\n\n<gallery mode=\"nolines\">\nImage:Deadzor.JPG|Dying by Yakchal's summons on a 140+ master sorcerer.\n</gallery>\n\nOne strategy is to use the south-east corner of the room as a retreat-point when a lot of monsters are summoned. First make sure to kill all the summons, then trap Yakchal with an [[Energy Bomb Rune]], so she won't move. Then finish her off with SD:s. Another strategy is having 1 person awaken her, and then rush to the south doors. Use a [[Frozen Starlight]] on the sarcophagus to awaken her (The [[Frozen Starlight]] can break when it's used on the sarcophagus to awake the Yakchal, but usually it won't. You can awaken Yakchal many times, but the delay between awakenings is random.\n\n[[Image:Starlight broken.JPG‎]]\n\nTo be compared with:\n\n[[Image:Not broken.JPG‎‎]]\n\nMake sure somebody blocks respawn on the other side, otherwise there could be a [[Demon]], [[Plaguesmith]]s and [[Nightmare]]s. If you're fast enough, you won't have to go to the other side of the door to be safe from the most of the creatures that will spawn with the awakening.\nFrom those doors, you can then slowly lure all creatures one by one, and sooner or later Yakchal will come too. Unless your team has a lot of firepower, try to trap her in a corner somewhere, she will run away in very low health.\nShoot at her with [[Sudden Death]] runes and/or [[Assassin Star]]s.<br>\n'''Be aware that she will disappear in (approximately 10) minutes after the awakening!'''",
+    "energyDmgMod": "105%",
+    "deathDmgMod": "100%?"
+}

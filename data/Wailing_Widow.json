@@ -1,0 +1,95 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "It can be [[Widow Queen|tamed]] by using a [[Sweet Smelling Bait]] with a chance of fail, or by using a [[Music Box]] with a 100% succes rate. These can be found with [[Lancer Beetle]]s in the [[Zao Wailing Widow Cave]]. These creatures can be particularly dangerous when you are fighting other creatures because they make you [[Drunkenness|Drunk]]. The only rare item a Wailing Widow drops is the [[Wailing Widow's Necklace]], which is useless aside from the fact that it is sellable for 3000 gold.\n\n{{JSpoiler|You may hunt 400 of these as a task of the [[Killing in the Name of... Quest]].}}",
+    "walksthrough": "Poison",
+    "hp": "850",
+    "abilities": "{{Ability List\n |{{Melee|0-120|poison=?}}\n |{{Healing}}\n |{{Ability|Earth Strike|60-110|element=earth\n  |scene={{Scene|spell=7sqmstrike|caster=Wailing Widow|look_direction=south|effect=Poison Effect 3|missile=Poison Missile|missile_direction=south-east|missile_distance=7/7}}}}\n |{{Ability|Life Drain Berserk|40-70|element=lifedrain\n   |scene={{Scene|spell=3x3spell|effect=Red Sparkles Effect|caster=Wailing Widow|look_direction=south|effect_on_caster=yes}}}}\n |{{Ability|Musical Explosion|causes Drunkenness|element=drunk\n   |scene={{Scene|spell=2sqmballself|effect=Red Notes Effect|caster=Wailing Widow|look_direction=south|effect_on_caster=yes}}}}\n |{{Haste|[[Strong Haste]]}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "holyDmgMod": "90%",
+    "maxdmg": "230",
+    "pushable": "No",
+    "implemented": "8.54",
+    "loot": [
+        {
+            "amount": "1-140",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Widow's Mandibles",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Mana Potion",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Health Potion",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Halberd",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Green Mushroom",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Plate Shield",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Zaoan Halberd",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Wailing Widow's Necklace",
+            "rarity": "rare"
+        }
+    ],
+    "walksaround": "Fire, Energy",
+    "exp": "450",
+    "mitigation": "0.86",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "wailing widow",
+    "illusionable": "no",
+    "armor": "31",
+    "convince": "--",
+    "name": "Wailing Widow",
+    "isboss": "no",
+    "iceDmgMod": "100%",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "0%",
+    "plural": "wailing widows",
+    "hpDrainDmgMod": "0%",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "The Wailing Widow gained its name from its unusual hunting and attack methods. By letting its opisthosoma vibrate, the spider creates a variety of sounds that are used to lure or stun its prey. In addition to other more 'spider-like' abilities, they use this sonic manipulation in a way that reminds frighteningly of intelligence and purpose. Although they can survive in some kind of hibernation for unknown periods of time, they are known to be ravenously hungry whenever the opportunity arises. Such devoured extra food is almost immediately used for reproduction, and when such a population increase used up all food sources, they proceed to cannibalism, which is mirrored in their moniker 'widow'.<br />With the decline of the lizard empire, also the regular extermination campaigns against spider nests were stopped. This and the population growth of their favourite prey, the lancer beetle, let the number of Wailing Widows steadily increase. Strangely enough, accompanied by their growth the once reclusive spiders became more and more bold, raiding settlements and attacking far greater prey than before. It is debated if they are influenced by the land's corruption itself, or by digesting the obviously corrupted lancer beetles. Whatever theory might be correct, in the end both mean that the Wailing Widows have turned into a considerable threat to explorers of unknown areas and also to some remote settlements.",
+    "speed": "127",
+    "pushobjects": "Yes",
+    "fireDmgMod": "110%",
+    "sounds": [
+        ""
+    ],
+    "runsat": "0",
+    "bestiaryclass": "Vermin",
+    "creatureclass": "Invertebrates",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Arachnids",
+    "spawntype": [
+        "Regular"
+    ],
+    "race_id": "632",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%",
+    "bestiaryname": "wailingwidow",
+    "behaviour": "Fights in close combat and uses abilities pretty often.",
+    "location": "[[Zao Wailing Widow Cave]], [[Northern Zao Plantations]], Northern [[Brimstone Bug Caves|Brimstone Bug Cave]], [[Razachai]], [[Chyllfroest]], [[Krailos Spider Lair]]<nowiki>, Rookgaard (unreachable).</nowiki>",
+    "strategy": "These creatures are typically found in groups. They aren't particularly strong so just focus on dealing damage quick.\n[[Knight]]s: Knights are the best vocation as far as hunting these profitably goes. They use fairly weak attacks and their melee is pretty benign against a knight leveled 60 to 85.\n\n[[Paladin]]s: Paladins should kill these last while hunting in the [[Zao Wailing Widow Cave]] or any other place with both [[Lancer Beetle]]s and focus on their firepower on the Lancer Beetles first as they decrease distance fighting heavily. Aside from that, these should be very easy to kill and hunting them with [[Royal Spear]]s should prove to be profitable.\n\n[[Mage]]s: Sorcerers and Druids should group these creatures up along with other creatures nearby and use area spells and runes (such as [[Fire Wave]], [[Ice Wave]], and [[Great Fireball]]). When killing a lone Wailing Widow, Mages should use [[Fire Damage|Fire Based]] attacks (such as [[Flame Strike]] and [[Fireball]])"
+}

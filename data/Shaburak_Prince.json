@@ -1,0 +1,117 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "These creatures will only spawn when their side in on the winning hand in the [[Arak War]]. {{JSpoiler|Killing 100 of these will grant you the [[Shaburak Nemesis]] [[achievement]].}}",
+    "isarenaboss": "no",
+    "walksthrough": "Fire, Energy",
+    "hp": "2600",
+    "abilities": "{{Ability List \n |{{Melee|0-320}}\n |{{Ability|Fire Explosion around itself|40-90|element=fire\n  |scene={{Scene|spell=4sqmball2self|effect=Flame Effect|caster=Shaburak Prince|casting_effect=Flame Effect}}}}\n |{{Ability|Fire Wave|100-200|element=fire\n  |scene={{Scene|spell=4sqmtwave|effect=Fire Effect|caster=Shaburak Prince|look_direction=east}}}}\n |{{Ability|Fire Beam|150-250|element=fire\n  |scene={{Scene|spell=5sqmbeam|effect=Fire Effect|caster=Shaburak Prince|look_direction=east}}}}\n |{{Ability|[[Paralysis|Paralyze]]|element=paralyze\n  |scene={{Scene|spell=3sqmstrike|caster=Shaburak Prince|effect=Red Sparkles Effect|missile_direction=south-east|missile_distance=3/3}}}}\n |{{Healing|range=100-150}}}}",
+    "healMod": "100%",
+    "paraimmune": "?",
+    "holyDmgMod": "105%",
+    "maxdmg": "{{Max Damage|physical=320|fire=540}}",
+    "pushable": "no",
+    "implemented": "9.10",
+    "loot": [
+        {
+            "amount": "0-173",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "amount": "0-4",
+            "itemName": "Platinum Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Strong Health Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Strong Mana Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "0-5",
+            "itemName": "Small Ruby",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Brown Mushroom",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Stealth Ring",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Magma Coat",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Wand of Inferno",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Magic Sulphur",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Bullseye Potion",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Butcher's Axe",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Steel Boots",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Demonic Finger",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Poison",
+    "exp": "1700",
+    "mitigation": "1.32",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "shaburak prince",
+    "illusionable": "no",
+    "armor": "45",
+    "convince": "--",
+    "name": "Shaburak Prince",
+    "isboss": "no",
+    "iceDmgMod": "30%",
+    "energyDmgMod": "30%",
+    "deathDmgMod": "100%",
+    "status": "event",
+    "plural": "shaburak princes",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Rare",
+    "speed": "125",
+    "pushobjects": "yes",
+    "fireDmgMod": "0%",
+    "sounds": [
+        "GREEN IS MEAN!",
+        "WE RULE!",
+        "POWER TO THE SHABURAK!",
+        "DEATH TO THE ASKARAK!",
+        "ONLY WE ARE TRUE DEMONS!"
+    ],
+    "bestiaryclass": "Demon",
+    "creatureclass": "Arak Demons",
+    "earthDmgMod": "115%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Shaburak Demons",
+    "race_id": "726",
+    "bestiarylevel": "Medium",
+    "senseinvis": "?",
+    "drownDmgMod": "100%?",
+    "behaviour": "Does not run in red health. Attacks with melee and fire-based spells.",
+    "location": "[[Demonwar Crypt]]",
+    "strategy": "Unknown."
+}

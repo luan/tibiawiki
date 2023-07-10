@@ -1,0 +1,109 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "These are the only creatures known to have an area spell that deals different damage depending on the target's distance from the center of the attack, its Energy Ball attack. The target at the center of the spell always receives 500 base damage, those right adjacent to the target receive 225% of that (1125 base damage) and those at the edge of the spell receive 337,5% damage (1687).",
+    "walksthrough": "?",
+    "hp": "3900",
+    "abilities": "{{Ability List| {{Melee|0-350+}}|{{Ability|[[Life Drain]] on target|300-400|element=lifedrain}}|{{Ability|[[Energy Beam]]|300-400|element=energy}}|{{Ability|[[Holy Damage|Holy Berserk]]|?|element=holy}}|{{Ability|[[Energy Damage|Energy Ball]] on target|500; 1125 or 1687; depending on the distance from the center of the attack|element=energy}}|{{Ability|[[Holy Missile]]|500-600; also chains to multiple players if they are within ~4 sqm on its target whenever Prospector receives any [[Parry]]-like damage ;around 50% chance to trigger|element=holy}} }}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "holyDmgMod": "50%",
+    "maxdmg": "3000",
+    "pushable": "no",
+    "implemented": "12.30.9287",
+    "loot": [
+        {
+            "amount": "1-5",
+            "itemName": "Platinum Coin",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-5",
+            "itemName": "Flash Arrow",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Spectral Silver Nugget",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Great Spirit Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Spectral Gold Nugget",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Emerald Bangle",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Lightning Boots",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Diamond",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Lightning Robe",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Lightning Legs",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Shockwave Amulet",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Elven Amulet",
+            "rarity": "rare"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "5250",
+    "mitigation": "2.40",
+    "attacktype": "Distance",
+    "history": "Its experience was increased from 4200 to 5250 with [[Updates/12.31|Update 12.31]].",
+    "article": "a",
+    "actualname": "cursed prospector",
+    "illusionable": "no",
+    "armor": "85",
+    "convince": "--",
+    "name": "Cursed Prospector",
+    "isboss": "no",
+    "iceDmgMod": "100%",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "100%",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "Long deceased miners, cursed to roam the hollows of drifts and mines. Some of them humble and diligent in life, others greedy and ungrateful until death and beyond. They are ghost-like creatures with devious attacks and tend to call for the aid of other ghosts when in distress.",
+    "speed": "210",
+    "pushobjects": "yes",
+    "fireDmgMod": "100%",
+    "sounds": [
+        ""
+    ],
+    "runsat": "0",
+    "bestiaryclass": "Undead",
+    "creatureclass": "The Undead",
+    "earthDmgMod": "100%",
+    "physicalDmgMod": "40%",
+    "primarytype": "Ghosts",
+    "spawntype": [
+        "Regular"
+    ],
+    "race_id": "1880",
+    "bestiarylevel": "Hard",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "cursedprospector",
+    "behaviour": "It attacks from a distance.",
+    "location": "[[Barren Drift]].",
+    "strategy": "Prospectors aren't worth killing for experience or loot, but some players may want to kill them for their bestiary. In those cases, you must be extremely careful with their energy ball attacks which can deal massive combos to players near the attack's target, as described above."
+}

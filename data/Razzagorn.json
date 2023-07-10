@@ -1,0 +1,133 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "Razzagorns",
+    "hpDrainDmgMod": "100%?",
+    "notes": "He's the minion of [[Apocalypse]].",
+    "walksthrough": "?",
+    "hp": "290000",
+    "speed": "?",
+    "abilities": "{{Ability List| {{Melee|0-1250}}|{{Ability|[[Death Damage|Death Beam]]|500-1000|element=death}}|{{Ability|[[Fire Damage|Fire Explosion]]|300-700|element=fire}}|{{Ability|[[Fire Wave]]|300-1000|element=fire}}|{{Ability|[[Energy Wave]]|50-800|element=energy}}|{{Healing|range=0-?}}|{{Summon|Eruption of Destruction|?}} }}",
+    "pushobjects": "yes",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "60%",
+    "holyDmgMod": "90%",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "4750+",
+    "pushable": "no",
+    "cooldown": "44",
+    "implemented": "10.90",
+    "loot": [
+        {
+            "itemName": "Maimer"
+        },
+        {
+            "itemName": "Great Shield"
+        },
+        {
+            "itemName": "Visage of the End Days"
+        },
+        {
+            "itemName": "Rift Lance"
+        },
+        {
+            "itemName": "Red Gem"
+        },
+        {
+            "amount": "0-5",
+            "itemName": "Small Emerald"
+        },
+        {
+            "amount": "0-5",
+            "itemName": "Great Mana Potion"
+        },
+        {
+            "amount": "0-200+",
+            "itemName": "Gold Coin"
+        },
+        {
+            "amount": "0-5",
+            "itemName": "Opal"
+        },
+        {
+            "amount": "0-5",
+            "itemName": "Onyx Chip"
+        },
+        {
+            "amount": "0-5",
+            "itemName": "Great Spirit Potion"
+        },
+        {
+            "itemName": "Demonic Essence"
+        },
+        {
+            "amount": "0-25",
+            "itemName": "Platinum Coin"
+        },
+        {
+            "itemName": "Silver Token",
+            "rarity": "always"
+        },
+        {
+            "itemName": "Flask of Demonic Blood"
+        },
+        {
+            "itemName": "Ultimate Health Potion"
+        },
+        {
+            "itemName": "Blue Gem"
+        },
+        {
+            "itemName": "Small Diamond"
+        },
+        {
+            "itemName": "Violet Gem"
+        },
+        {
+            "itemName": "Small Ruby"
+        },
+        {
+            "itemName": "Orichalcum Pearl"
+        },
+        {
+            "itemName": "Rift Crossbow"
+        },
+        {
+            "itemName": "Green Gem"
+        },
+        {
+            "itemName": "Small Sapphire"
+        },
+        {
+            "itemName": "Bullseye Potion"
+        },
+        {
+            "itemName": "Yellow Gem"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "50000",
+    "creatureclass": "Demons",
+    "earthDmgMod": "100%?",
+    "physicalDmgMod": "100%?",
+    "bosstiaryclass": "Archfoe",
+    "primarytype": "The Ruthless Seven Minions",
+    "race_id": "1177",
+    "senseinvis": "?",
+    "actualname": "Razzagorn",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Razzagorn",
+    "isboss": "yes",
+    "behaviour": "Unknown",
+    "location": "[[Ferumbras' Ascension Quest]] area.",
+    "iceDmgMod": "100%",
+    "strategy": "When he summons [[Eruption of Destruction]]s kill them first, otherwise Razzagorn becomes stronger.",
+    "energyDmgMod": "100%?",
+    "deathDmgMod": "100%?"
+}

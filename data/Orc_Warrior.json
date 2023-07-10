@@ -1,0 +1,93 @@
+{
+    "summon": "360",
+    "templateType": "Creature",
+    "notes": "A Strong and better armored [[orc]].",
+    "walksthrough": "None",
+    "hp": "125",
+    "abilities": "{{Ability List|{{Melee|0-60}}}}",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "holyDmgMod": "90%",
+    "maxdmg": "{{Max Damage|physical=60}}",
+    "pushable": "Yes",
+    "implemented": "5.1",
+    "loot": [
+        {
+            "amount": "0-15",
+            "itemName": "Gold Coin"
+        },
+        {
+            "itemName": "Broken Helmet"
+        },
+        {
+            "itemName": "Chain Armor"
+        },
+        {
+            "itemName": "Meat"
+        },
+        {
+            "itemName": "Orc Leather",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Copper Shield",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Heavy Old Tome",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Orc Tooth",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Skull Belt",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Poison Dagger",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Fire, Energy, Poison",
+    "exp": "50",
+    "mitigation": "0.36",
+    "attacktype": "Melee",
+    "article": "an",
+    "actualname": "orc warrior",
+    "illusionable": "yes",
+    "armor": "8",
+    "convince": "360",
+    "name": "Orc Warrior",
+    "isboss": "no",
+    "iceDmgMod": "100%",
+    "energyDmgMod": "70%",
+    "deathDmgMod": "110%",
+    "plural": "orc warriors",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "no",
+    "occurrence": "Common",
+    "bestiarytext": "Orc Warriors are the simple fighters among the orcs. They are weaker than berserkers, but using their sabres or daggers they can be quite dangerous in the small corridors of the dungeons. Watch out for other types of orcs - like spearmen or shamans - which might hide in the second row.",
+    "speed": "95",
+    "pushobjects": "No",
+    "fireDmgMod": "100%",
+    "sounds": [
+        "Alk!",
+        "Trak grrrr brik.",
+        "Grow truk grrrr."
+    ],
+    "runsat": "10",
+    "bestiaryclass": "Humanoid",
+    "creatureclass": "Humanoids",
+    "earthDmgMod": "110%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Orcs",
+    "race_id": "7",
+    "bestiarylevel": "Easy",
+    "senseinvis": "no",
+    "drownDmgMod": "100%",
+    "bestiaryname": "orcwarrior",
+    "location": "[[Ancient Temple]] in [[Thais]], [[Orc Fort]], below Point of No Return in [[Outlaw Camp]] and inside a mountain north of it, [[Orc Peninsula]], [[Folda]], [[Edron]] [[Orc]] cave, [[Maze of Lost Souls]], [[Elvenbane|Elvenbane Castle]], [[Foreigner Quarter]], [[Zao Orc Land]].",
+    "strategy": "Dangerous for ill-equiped or lower levels.<br />\n'''[[Knight]]s''', from level 10 with decent skills (50/50) these should be easy.<br />\n'''[[Paladin]]s''', just kill these while running to get hit less, and heal when needed.<br />\n'''[[Mage]]s''', could do with decent equipment, and a level 13 [[wand]] or [[rod]], just run them around and try to avoid their melee, have exura and exura gran to heal when needed."
+}

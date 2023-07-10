@@ -1,0 +1,127 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "walksthrough": "Energy, Poison",
+    "hp": "1000",
+    "abilities": "{{Ability List\n |{{Melee|0-230}}\n |{{Ability|[[Distance Fighting|Bolts]]|0-110|element=physical\n  |scene={{Scene|spell=5sqmstrike|background=canvas|caster=Vicious Squire|look_direction=south|missile=Bolt Missile|missile_direction=south-east|missile_distance=5/5}}}}\n |{{Healing|range=150-200}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "holyDmgMod": "50%",
+    "maxdmg": "{{Max Damage|physical=340}}",
+    "pushable": "no",
+    "usedelements": "Physical",
+    "implemented": "10.80",
+    "loot": [
+        {
+            "amount": "1-70",
+            "itemName": "Gold Coin",
+            "rarity": "always"
+        },
+        {
+            "amount": "1-10",
+            "itemName": "Bolt",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Crossbow",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Meat",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Great Health Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Small Amethyst",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Small Diamond",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Small Emerald",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Halberd",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "War Hammer",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Scarf",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Might Ring",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Guardian Shield",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Knight Legs",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Warrior Helmet",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Piggy Bank",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Fire",
+    "exp": "900",
+    "mitigation": "1.24",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "vicious squire",
+    "illusionable": "no",
+    "armor": "30",
+    "convince": "--",
+    "name": "Vicious Squire",
+    "isboss": "no",
+    "iceDmgMod": "90%",
+    "energyDmgMod": "60%",
+    "deathDmgMod": "120%",
+    "plural": "vicious squires",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "Lowlifes, bandits and cutthroats make up the bulk of the followers of the fallen knights and robber barons. With little regard for law and honour, these scrupulous beings follow profit, power and promises. Usually already on the run from some local law, they seek out the protection that the villainous knights offer them. They are the disposable muscle and arrow fodder their masters rely on for their crimes. They are equipped with the left-over scraps that their superiors don't mind about, and are easy prey for the whimsical justice of their dark lords. Still, they look down on the ordinary bandit and tend to justify their miserable existence by boasting of the accomplishments of their leaders, taking a perverted sort of pride in their services, and especially in the exploits of their leaders. This pride means nothing as soon as it is seriously tested, though. The so-called 'vicious squires' tend to flee from battle if there's not an immediate victory at hand; and should one of their superiors shows any sign of weakness, it is surely exploited in one way or another. Regardless of their similar behaviour to bandits, it has to be acknowledged that they are indeed better equipped, fed and prepared for battle than their ordinary brethren in spirit. To be accepted as a squire and survive more than a few weeks requires some battle prowess and cunning which only veteran bandits posses. Usually, a wandering robber knight assimilates the local bandit gangs in his troops. On rare occasions, a knight and his followers take over some remote settlement for a while and empty the prison to acquire new recruits. After a short time, only the suitable candidates are left over. These are more or less formally accepted as new squires and are under nominal protection and legislation of the knights. All in all, though, they are left to fend on their own as long as they follow orders. Usually, where the squires are encountered, their masters are not far away; but sometimes they are sent on long-range reconnaissance or have been abandoned by their leaders for some reason. After losing their leaders, they usually disperse quickly, mostly looking for another knight to follow, some founding their own bandit gangs, reverting to old customs. Sadly, it is not unheard of that roaming squires are allowed into official armies or city guards for their experience and training. For most of them, though, there are only a few options left open at the end of their dubious career. Most end their lives as squires in one of their masters' raids. A significant number falls prey to internal struggles for power and loot. A few gather some renown and are finally 'knighted' by their leader. It is not known that any of them have ever accumulated enough money to retire peacefully - then again, probably no one would boast of such a criminal past.",
+    "speed": "130",
+    "pushobjects": "yes",
+    "fireDmgMod": "70%",
+    "sounds": [
+        "Your stuff will be mine soon!",
+        "I'll cut you a bloody grin!",
+        "For hurting me, my sire will kill you!",
+        "You shouldn't have come here!"
+    ],
+    "runsat": "0",
+    "bestiaryclass": "Human",
+    "creatureclass": "Humans",
+    "earthDmgMod": "50%",
+    "physicalDmgMod": "90%",
+    "primarytype": "Outlaws",
+    "spawntype": [
+        "Regular"
+    ],
+    "race_id": "1145",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "vicioussquire",
+    "behaviour": "Fights in close combat.",
+    "location": "[[Old Fortress]] (north of [[Edron]]), [[Old Masonry]], [[Forbidden Temple (Carlin)]]",
+    "strategy": "Usually found in groups alongside [[Renegade Knight]]s and [[Vile Grandmaster]]s, so area spells like [[Avalanche]] and [[Berserk]] might be a good idea in order to finish them off quickly so one can focus on the stronger creatures."
+}

@@ -1,0 +1,101 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "Usually appears in large groups with [[Tortoise]]s and [[Blood Crab]]s.\n{{JSpoiler|You may hunt 300 of these as a task of the [[Killing in the Name of... Quest]].}}",
+    "walksthrough": "None.",
+    "hp": "300",
+    "abilities": "{{Ability List| {{Melee|0-110}}|{{Ability|Poisons|up to 2 [[hp]]/turn|element=poisoned}} }}",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "holyDmgMod": "100%",
+    "maxdmg": "112",
+    "pushable": "No",
+    "implemented": "7.8",
+    "loot": [
+        {
+            "amount": "0-48",
+            "itemName": "Gold Coin"
+        },
+        {
+            "itemName": "Thorn"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "Fish"
+        },
+        {
+            "itemName": "Health Potion",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "White Pearl",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "White Mushroom",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Turtle Shell",
+            "rarity": "rare"
+        },
+        {
+            "amount": "0-3",
+            "itemName": "Tortoise Egg",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Black Pearl",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Brown Mushroom",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "War Hammer",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Fire, Energy, Poison",
+    "exp": "150",
+    "mitigation": "0.70",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "thornback tortoise",
+    "illusionable": "yes",
+    "armor": "24",
+    "convince": "490",
+    "name": "Thornback Tortoise",
+    "isboss": "no",
+    "iceDmgMod": "80%",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "100%",
+    "plural": "thornback tortoises",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "no",
+    "occurrence": "Common",
+    "bestiarytext": "Everything that their more peaceful cousins lack in fighting prowess, the warlike Thornback Tortoises own all the more. Incredibly armed they come with a small but efficient array of distance attacks that compensate their lack of agility. Even though Thornback Tortoises are quite slow, they often manage to catch their enemies in close combat by incapacitating them. If it comes to one-to-one battles, they can face even the strongest opponents due to their incredible armor and their sheer strength.",
+    "speed": "75",
+    "pushobjects": "yes",
+    "fireDmgMod": "110%",
+    "sounds": [
+        ""
+    ],
+    "bestiaryclass": "Reptile",
+    "creatureclass": "Reptiles",
+    "earthDmgMod": "80%",
+    "physicalDmgMod": "70%",
+    "primarytype": "Tortoises",
+    "spawntype": [
+        "Regular"
+    ],
+    "race_id": "259",
+    "bestiarylevel": "Easy",
+    "senseinvis": "no",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "thornbacktortoise",
+    "behaviour": "Thornback Tortoises fight until death.",
+    "location": "[[Laguna Islands]], [[Meriana Gargoyle Cave]] and one on [[Nargor]].",
+    "strategy": "'''Knights''':You should bring some bps of Fire Fields, Just go down the hole and put Fire Fields beside you so only 1 creature can attack you at a time,  you can be there forever if you bring enough supplies and are skilled enough. You should bring some [[Mana potions]], they are cheap to heal with and you get some Magic Level % with them, Bringing health potions is advised too incase you get swarmed. Using a Fire Axe on this creature produces more damage than a royal axe and almost as much damage as a stonecutter axe due to this creatures high physical resistance and weakness to fire. Thornback Tortoises mostly attacks in groups with [[Tortoise]]s and [[Blood Crab]]s, so be careful when jumping down holes. Not very good to hunt for mages because they will use a lot of mana/runes to deplete its high hitpoints. '''Mages''' should use summons. Mages could bring alot of [[Great Fireball]] runes with them, and try to gather a big group of monsters and fire them down. You can easily gain 700-1500 exp like this."
+}

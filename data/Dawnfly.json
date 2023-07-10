@@ -1,0 +1,76 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "dawnflies",
+    "hpDrainDmgMod": "100%?",
+    "notes": "A weaker [[Emerald Damselfly]].",
+    "isarenaboss": "no",
+    "walksthrough": "None.",
+    "hp": "90",
+    "speed": "100",
+    "abilities": "{{Ability List|{{Melee|0-20?|poison=1}}|{{Ability|earth missile|4?-8?|element=earth}} }}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "no",
+    "fireDmgMod": "110%?",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "?",
+    "pushable": "yes",
+    "runsat": "0",
+    "implemented": "10.55",
+    "loot": [
+        {
+            "amount": "0-12",
+            "itemName": "Gold Coin"
+        },
+        {
+            "amount": "0-16",
+            "itemName": "Simple Arrow"
+        },
+        {
+            "amount": "0-8",
+            "itemName": "Poison Arrow"
+        },
+        {
+            "itemName": "Doublet",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Mana Potion",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Health Potion",
+            "rarity": "semi-rare"
+        }
+    ],
+    "walksaround": "Energy, Fire, Poison",
+    "exp": "35",
+    "creatureclass": "Invertebrates",
+    "earthDmgMod": "100%?",
+    "physicalDmgMod": "100%?",
+    "primarytype": "Insects",
+    "spawntype": [
+        "Regular",
+        "Unblockable"
+    ],
+    "race_id": "1070",
+    "senseinvis": "no",
+    "article": "a",
+    "actualname": "dawnfly",
+    "illusionable": "no",
+    "armor": "3",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Dawnfly",
+    "isboss": "no",
+    "behaviour": "Fights in close combat.",
+    "location": "[[Dawnport]].",
+    "iceDmgMod": "100%?",
+    "strategy": "Unknown",
+    "energyDmgMod": "100%?",
+    "deathDmgMod": "100%?"
+}

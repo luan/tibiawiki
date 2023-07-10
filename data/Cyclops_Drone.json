@@ -1,0 +1,104 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "Creature added in the [[Updates/8.1|Christmas Update 2007]]. A subspecies of cyclops with four arms. Judging from the rocks that they carry, they are the workers of cyclops society.",
+    "walksthrough": "None",
+    "hp": "325",
+    "abilities": "{{Ability List\n |{{Melee|0-110?}}\n |{{Ability|Boulder throw|0-80?|element=physical\n  |scene={{Scene|spell=5sqmstrike|background=canvas|caster=Cyclops Drone|look_direction=south|missile=Stone Missile|missile_direction=south-east|missile_distance=5/5}}}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "holyDmgMod": "80%",
+    "maxdmg": "{{Max Damage|physical=190?}}",
+    "pushable": "No",
+    "usedelements": "Physical",
+    "implemented": "8.10",
+    "loot": [
+        {
+            "amount": "1-30",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Meat",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Short Sword",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Cyclops Toe",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Plate Shield",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Battle Shield",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Halberd",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Strong Health Potion",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Dark Helmet",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Cyclops Trophy",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Club Ring",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Fire, Energy, Poison",
+    "exp": "200",
+    "mitigation": "0.72",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "cyclops drone",
+    "illusionable": "yes",
+    "armor": "25",
+    "convince": "525",
+    "name": "Cyclops Drone",
+    "isboss": "no",
+    "iceDmgMod": "80%",
+    "energyDmgMod": "90%",
+    "deathDmgMod": "105%",
+    "plural": "cyclops drones",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "no",
+    "occurrence": "Common",
+    "bestiarytext": "The so-called Cyclops Drones are the workers among the cyclops society. They are born physically different from their kin. The most prominent feature of a Cyclops Drone are its four muscular arms. They are stronger and more persistent than the ordinary cyclops, though they lack considerably on intelligence. They are usually calm, but their fellow cyclopes train and condition them in order to ensure that their passive attitude changes quickly when facing one of the 'lesser' races. Conditioned Cyclops Drones usually attack on sight. Fortunately, they hardly seem to understand what they are doing and therefore rarely use the full strength of their imposing arms. Still, the sheer force of a thoughtless blow can crush bones and break weapons and armour. Cyclops Drones are not numerous, and as they are also not much valued among the cyclops, they are usually found deep underground working under supervision of other cyclops.",
+    "speed": "99",
+    "pushobjects": "yes",
+    "fireDmgMod": "100%",
+    "sounds": [
+        "Fee! Fie! Foe! Fum!",
+        "Luttl pest!",
+        "Me makking you pulp!",
+        "Humy tasy! Hum hum!"
+    ],
+    "runsat": "0",
+    "bestiaryclass": "Giant",
+    "creatureclass": "Humanoids",
+    "earthDmgMod": "110%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Giants",
+    "race_id": "391",
+    "bestiarylevel": "Medium",
+    "senseinvis": "no",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "cyclopsdrone",
+    "behaviour": "Cyclops drones have strong melee and distance attacks. They can throw boulders even off screen.",
+    "location": "[[Cyclopolis]], [[Mount Sternum]], [[Mistrock]] and in the [[Forsaken Mine/Cyclopes|Cyclops]] version of the [[Forsaken Mine]].",
+    "strategy": "[[Knights]]: They are stronger than [[cyclops]], it is recommended to have skills 65/65 and level 20 or higher to hunt them. They are never found alone and are usually together with other kinds of cyclops.<br />[[Paladins]] should have about 50 distance to hunt them, try to run them in a circle and not in a straight line so that you do not run into more of them. Bow is not advised because of their distance melee attacks, so you may better use shield and throwing weapons.<br />\n[[Mages]]: Try to keep a little distance from them as their melee is quite strong. If you are a [[Druid]] try to use [[Terra Rod|Terra rod]] or, if possible, [[Springsprout Rod]] as they are weak to [[earth damage|Earth Damage]]."
+}

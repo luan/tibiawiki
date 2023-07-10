@@ -1,0 +1,79 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "humans",
+    "hpDrainDmgMod": "100%?",
+    "notes": "Some of this creature's stats such as its speed and hitpoints suggests it was designed to simulate a level 1 character. Its outfit sprite was probably used as a placeholder which was never replaced due to this creature never being intended to be added to the game's player-shared content.",
+    "hp": "150",
+    "speed": "110",
+    "abilities": "{{Ability List|{{Melee|0-7}}}}",
+    "pushobjects": "no",
+    "healMod": "100%?",
+    "paraimmune": "no",
+    "fireDmgMod": "100%?",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        ""
+    ],
+    "pushable": "yes",
+    "runsat": "20",
+    "implemented": "7.55",
+    "loot": [
+        {
+            "amount": "1-20",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "Bread",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "Meat",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Backpack",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Cheese",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Leather Armor",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Sword",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Leather Helmet",
+            "rarity": "uncommon"
+        }
+    ],
+    "exp": "50",
+    "creatureclass": "Humans",
+    "earthDmgMod": "100%?",
+    "physicalDmgMod": "100%?",
+    "primarytype": "Outlaws",
+    "race_id": "1",
+    "senseinvis": "no",
+    "article": "a",
+    "actualname": "human",
+    "illusionable": "no",
+    "armor": "0",
+    "drownDmgMod": "100%?",
+    "convince": "350",
+    "name": "Human (Creature)",
+    "isboss": "no",
+    "location": "This creature cannot be found anywhere in the game.",
+    "iceDmgMod": "100%?",
+    "strategy": "Unknown.",
+    "energyDmgMod": "100%?",
+    "deathDmgMod": "100%?",
+    "status": "unavailable"
+}

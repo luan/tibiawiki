@@ -1,0 +1,68 @@
+{
+    "summon": "305",
+    "templateType": "Creature",
+    "notes": "They travel quite fast and have decent attack. Their defense rather high for a [[creature]] of this level, so you may have trouble hitting them if your skills are low.",
+    "walksthrough": "Poison",
+    "hp": "55",
+    "abilities": "{{Ability List|{{Melee|0-20}}}}",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "holyDmgMod": "100%",
+    "maxdmg": "{{Max Damage|physical=20}}",
+    "pushable": "yes",
+    "usedelements": "Physical",
+    "implemented": "7.5",
+    "loot": [
+        {
+            "amount": "0-10",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Fish",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Crab Pincers",
+            "rarity": "uncommon"
+        }
+    ],
+    "walksaround": "Fire, Energy",
+    "exp": "30",
+    "mitigation": "0.78",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "crab",
+    "illusionable": "yes",
+    "armor": "28",
+    "convince": "305",
+    "name": "Crab",
+    "isboss": "no",
+    "iceDmgMod": "80%",
+    "energyDmgMod": "110%",
+    "deathDmgMod": "100%",
+    "plural": "crabs",
+    "hpDrainDmgMod": "100%",
+    "usespells": "no",
+    "occurrence": "Common",
+    "bestiarytext": "Sailors often call the Crabs the 'knights of the sea', on the other hand, sailors drink plenty and no one should care much about what they have to say. In fact Crabs live on the beach or in the sea. Their natural armour is very thick and their pinchers are suited to crush shells. Obviously, Crabs are well prepared to defend themselves and they surely will if they feel threatened. Usually they try to scare away intruders from their territory, but they do not pursuit trespassers for long. The taste of their flesh is rather unusual but not bad, some call it even a delicacy.",
+    "speed": "100",
+    "pushobjects": "no",
+    "fireDmgMod": "110%",
+    "sounds": [
+        ""
+    ],
+    "bestiaryclass": "Aquatic",
+    "creatureclass": "Invertebrates",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Crustaceans",
+    "race_id": "112",
+    "bestiarylevel": "Easy",
+    "senseinvis": "no",
+    "drownDmgMod": "0%",
+    "bestiaryname": "crab",
+    "behaviour": "Fights to the death. They walk sideways, just like a real crab.",
+    "location": "Various locations like [[Goroma]], [[Edron]], [[Port Hope]], [[Nargor]] and other [[Shattered Isles]]. There is also one located underwater by [[The Tibianic]], however it is unreachable.",
+    "strategy": "Just attack them."
+}

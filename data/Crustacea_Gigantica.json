@@ -1,0 +1,87 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "Crustacea Gigantica are a semi-rare spawn in wet and sunken areas. You can [[Titanica|tame]] them using a [[Giant Shrimp]].\n<gallery orientation=\"square\" mode=\"nolines\">\nTitanica MEP.png|Calassa\nCrustaceaFresiel.JPG|Treasure Island\nCrustacea Gigantica on Galana.JPG|Calassa - Northeast Corner\nCrustacea Gigantica - Oramond.png|Seacrest Grounds\n</gallery>",
+    "walksthrough": "?",
+    "hp": "1600",
+    "abilities": "{{Ability List\n |{{Melee|0-160}}\n |{{Ability|Ice Wave|0-200|element=ice\n  |scene={{Scene|spell=8sqmwavewide|effect=Ice Explosion Effect|caster=Crustacea Gigantica|look_direction=east}}}}\n |{{Ability|Ice Strike|0-160|element=ice\n  |scene={{Scene|spell=3sqmstrike|effect=Ice Explosion Effect|caster=Crustacea Gigantica|missile=Ice Shard Missile|missile_direction=south-east|missile_distance=3/3}}}}\n |{{Healing|range=75-245}}\n |{{Ability|Splash Bomb|makes you drowning|element=drowning\n  |scene={{Scene|spell=1sqmballtarget|effect=Water Splash Effect|caster=Crustacea Gigantica|missile=Energy Ball Missile|missile_direction=south-east|missile_distance=2/2|edge_size=32}}}} }}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "holyDmgMod": "100%",
+    "maxdmg": "540",
+    "pushable": "?",
+    "implemented": "8.70",
+    "loot": [
+        {
+            "amount": "0-175",
+            "itemName": "Gold Coin"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "Giant Crab Pincer",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Strong Mana Potion",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Strong Health Potion",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Ring of Healing",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Great Mana Potion",
+            "rarity": "rare"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "1800",
+    "mitigation": "0.91",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "crustacea gigantica",
+    "illusionable": "no",
+    "armor": "40",
+    "convince": "--",
+    "name": "Crustacea Gigantica",
+    "isboss": "no",
+    "iceDmgMod": "0%",
+    "energyDmgMod": "105%",
+    "deathDmgMod": "90%",
+    "plural": "crustaceae giganticae",
+    "hpDrainDmgMod": "100%",
+    "usespells": "yes",
+    "occurrence": "Very Rare",
+    "bestiarytext": "The discovery of the Crustacea Gigantica came to the scientific community like a thunderbolt. A creature like that was not even assumed to exist. Neither did it match any description of mythical creatures. All the more it is astonishing that considering their formerly unknown status sightings of Crustaceae Giganticae have become more and more common nowadays. These dwellers of the deep seem to leave their ancient habitats for unknown reasons and seek new areas to live in. Given the warlike nature of the Crustacea Gigantica it is somewhat unsettling to think what might have driven them away from their old realms. As of today, there are no valid theories about this occurrence, and although the quara are often mentioned as a possible cause, it seems more likely that the real cause is a new threat that lurks in the depths of the ocean.<br />The Crustacea Gigantica itself is not necessarily destructive but very territorial. When something enters their habitat, the simple-minded beasts distinguish only between food and robber. Both are to be eliminated by their powerful pincers. Their armoured shell serves for more than adequate defence in such cases.",
+    "speed": "240",
+    "pushobjects": "?",
+    "fireDmgMod": "100%",
+    "sounds": [
+        "Chrchrchr",
+        "Klonklonk",
+        "Chrrrrr",
+        "Crunch crunch"
+    ],
+    "bestiaryclass": "Aquatic",
+    "creatureclass": "Invertebrates",
+    "earthDmgMod": "100%",
+    "physicalDmgMod": "80%",
+    "primarytype": "Crustaceans",
+    "spawntype": [
+        "Raid",
+        "Unique",
+        "Unblockable"
+    ],
+    "race_id": "697",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%",
+    "bestiaryname": "crustaceagigantica",
+    "behaviour": "Attacks with [[Physical Damage|melee]], uses [[Ice Strike]] and [[Ice Wave]].",
+    "location": "[[Calassa]] ({{Mapper Coords|125.108|128.17|12|1|text=here}} and [http://tibia.wikia.com/wiki/Mapper?coords{{=}}125.110-127.228-12-2-1-1 here]), [[Treasure Island]] ([http://tibia.wikia.com/wiki/Mapper?coords{{=}}125.183,128.172,9,4,1,1 here]),\n[[Seacrest Grounds]] ({{Mapper Coords|130.188|123.168|15|4|text=here}}, {{Mapper Coords|130.161|123.231|15|4|text=here}}, {{Mapper Coords|131.19|124.43|14|2|text=here}}, {{Mapper Coords|130.230|123.136|14|2|text=here}} and {{Mapper Coords|130.237|124.57|15|2|text=here}}).\nIn the Seacrest Grounds the spawns are [[Varying Monster Spawn]]s in which the common creature is an [[Abyssal Calamary]]. The chance to spawn a Crustacea Gigantica seems to be around 1%-2%.",
+    "strategy": "Stand diagonal and kill/tame it."
+}

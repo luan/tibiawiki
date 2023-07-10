@@ -1,0 +1,92 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "hulking prehemoths",
+    "hpDrainDmgMod": "100%?",
+    "notes": "<gallery captionalign=\"center\" mode=\"nolines\">\nHulking Prehemoth Artwork.jpg|Official [[Creature Artwork]]\n</gallery>",
+    "hp": "20700",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "The discovery of the Hulking Prehemoth sent shockwaves through the entire scientific community. Especially it's unique bone structure turned many things taken for granted upside down. Many of the bones that were found in the deepest caves and the bowels of Tibia, for years have been assumed to be the fossilized remains of the modern Behemoths. Yet the recent discoveries in Gnomprona now hint that they rather belonged to the Hulking Prehemoths that once seemed to have roamed the whole depths of Tibia. It now seems likely that the Hulking Prehemoths arose in times when food was abundant in their native underground habitat. Later when such sources of nourishment became scarce, they were slowly replaced by their more specialised mineral-eating children.\nUnlike his descendant the ordinary Behemoth, who adapted mostly to a diet of minerals, the primal ancestor relies on a diet of flesh and bones. Some point out that their digesting of creatures as a whole ultimately enabled their offspring's adaption to a diet of minerals. As such scientists point out the difference of bones and minerals seems minor.\nIn Gomprona the Hulking Prehemoth is a comparatively peaceful creature. Though perfectly able to hunt for the bone and marrow it needs, it's relatively docile when well-fed. Yet given their sheer mass and muscle in fact they are rarely if ever well-fed aside from the controlled environment of captured Hulking Prehemoths. All attempts to tame the creatures resulted in utter and sometimes fatal failure so the gnomes gave up on wasting valuable crystals on such endeavours.\nThe area that currently houses operation challenger has been cut off from the main island by a relatively new lava stream. Said area seemingly was the breeding and hatching ground of the local Prehemoths population and it has yet to be seen how the Hulking Prehemothes adapt to this - or if the lava foreshadowed their inevitable extinction. As for now the Hulking Prehemoth population has suffered and competing creatures prospered, but slowly the number of Behemoth's seem to be stabilising and reaching a new equilibrium.",
+    "speed": "191",
+    "abilities": "{{Ability List\n |{{Melee|0-455}}\n |{{Ability|Boulder throw|400|element=physical\n  |scene={{Scene|spell=7sqmstrike|caster=Hulking Prehemoth|look_direction=south|missile=Stone Missile|missile_direction=south-east|missile_distance=7/7|effect=None}}}}\n}}",
+    "pushobjects": "yes",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "fireDmgMod": "60%",
+    "holyDmgMod": "130%",
+    "sounds": [
+        "SMAASH!"
+    ],
+    "pushable": "no",
+    "implemented": "12.90.12182",
+    "bestiaryclass": "Giant",
+    "loot": [
+        {
+            "itemName": "Crystal Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Furry Club",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Ultimate Health Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Prehemoth Horns",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Prehemoth Claw",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Emerald Bangle",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Silver Brooch",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "War Hammer",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "War Axe",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Doublet",
+            "rarity": "semi-rare"
+        }
+    ],
+    "exp": "12690",
+    "creatureclass": "Humanoids",
+    "earthDmgMod": "100%",
+    "mitigation": "2.51",
+    "physicalDmgMod": "95%",
+    "primarytype": "Giants",
+    "attacktype": "Melee",
+    "race_id": "2271",
+    "bestiarylevel": "Challenging",
+    "history": "Its experience was decreased from 14,720 to 12,690 on {{OfficialNewsArchive|6875|July 28, 2022}}.\n\nOn [[Updates/12.91.12383|September 06, 2022]] its health points were increased from 19,090 to 20,700.",
+    "senseinvis": "yes",
+    "article": "a",
+    "actualname": "hulking prehemoth",
+    "illusionable": "no",
+    "armor": "84",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "bestiaryname": "hulkingprehemoth",
+    "name": "Hulking Prehemoth",
+    "isboss": "no",
+    "location": "[[Sparkling Pools]]",
+    "iceDmgMod": "130%",
+    "strategy": "Unknown.",
+    "energyDmgMod": "70%",
+    "deathDmgMod": "100%"
+}

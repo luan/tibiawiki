@@ -1,0 +1,288 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "Ghazbaran - the \"Lord of Blades\", is a member of the [[Triangle of Terror]]. The [[cult]]ists in the [[Formorgar Mines]] are said to be trying to revive the frozen demons in there to conjure the mighty [[archdemon]]. They are melting the ice in his name.\n{{Raid Message|00:00:00|An ancient evil is awakening in the mines beneath Hrodmir.|00:10:00|Demonic entities are entering the mortal realm in the Hrodmir mines.|00:20:00|The demonic master has revealed itself in the mines of Hrodmir.}}\n\nThe first time he appeared after the test server was on the server of [[Julera]] on July 4, 2007.<br />\nThe first time he died was on the server of [[Candia]] on September 22, 2007.\n\nGhazbaran can be seen with at least '''5''' [[Deathslicer]]s, '''2''' [[Juggernaut]]s, '''2''' [[Fury|Furies]], and '''1''' [[Demon]]. The furies and demon appear to spawn with Ghazbaran, along with some of the deathslicers. Some of the deathslicer are summoned by Ghazbaran.",
+    "walksthrough": "Fire, Poison, Energy",
+    "hp": "77000",
+    "speed": "?",
+    "abilities": "{{Ability List\n |{{Melee|0-3000}}\n |{{Ability|Mana Drain|525-1000|manadrain\n  |scene={{Scene|spell=3sqmball2self|caster=Ghazbaran|look_direction=south|effect=Ripple Effect|effect_on_caster=yes}}}}\n |{{Ability|[[Whirlwind Throw]] (Swords)|0-2000}}\n |{{Ability|[[Wrath of Nature]]|625-800|ice\n  |scene={{Scene|spell=6sqmballself|caster=Ghazbaran|look_direction=south|effect=Large Plant Effect|effect_on_caster=yes|damage_effect=Ice Explosion Effect}}}}\n |{{Ability|Paralyzing Throwing Knives||slowed}}\n |{{Summon|Deathslicer|4}}\n |{{Healing|Fast [[Self-Healing]]|400-6046}}\n}}",
+    "pushobjects": "Yes",
+    "healMod": "100%?",
+    "paraimmune": "yes",
+    "secondarytype": "Archdemons",
+    "fireDmgMod": "0%",
+    "holyDmgMod": "105%",
+    "sounds": [
+        "COME AND GIVE ME SOME AMUSEMENT",
+        "IS THAT THE BEST YOU HAVE TO OFFER, TIBIANS?",
+        "I AM GHAZBARAN OF THE TRIANGLE... AND I AM HERE TO CHALLENGE YOU ALL.",
+        "FLAWLESS VICTORY!"
+    ],
+    "maxdmg": "{{Max Damage|physical=5000|manadrain=1000|ice=800|summons=5200}}",
+    "pushable": "No",
+    "implemented": "8.00",
+    "loot": [
+        {
+            "amount": "0-200",
+            "itemName": "Gold Coin"
+        },
+        {
+            "amount": "0-73",
+            "itemName": "Platinum Coin"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "Crystal Coin"
+        },
+        {
+            "amount": "0-15",
+            "itemName": "Small Amethyst"
+        },
+        {
+            "amount": "0-6",
+            "itemName": "Small Emerald"
+        },
+        {
+            "amount": "0-5",
+            "itemName": "Small Diamond"
+        },
+        {
+            "amount": "0-4",
+            "itemName": "Small Sapphire"
+        },
+        {
+            "amount": "0-4",
+            "itemName": "Talon"
+        },
+        {
+            "amount": "0-15",
+            "itemName": "White Pearl"
+        },
+        {
+            "amount": "0-15",
+            "itemName": "Black Pearl"
+        },
+        {
+            "amount": "0-500",
+            "itemName": "Demonic Essence"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "Demon Horn"
+        },
+        {
+            "amount": "0-82",
+            "itemName": "Onyx Arrow"
+        },
+        {
+            "amount": "0-47",
+            "itemName": "Assassin Star"
+        },
+        {
+            "itemName": "Gold Ingot"
+        },
+        {
+            "itemName": "Crystal Ball"
+        },
+        {
+            "itemName": "Green Gem"
+        },
+        {
+            "itemName": "Blue Gem"
+        },
+        {
+            "itemName": "Life Crystal"
+        },
+        {
+            "itemName": "Orb"
+        },
+        {
+            "itemName": "Magic Plate Armor"
+        },
+        {
+            "itemName": "Oceanborn Leviathan Armor"
+        },
+        {
+            "itemName": "Robe of the Ice Queen"
+        },
+        {
+            "itemName": "Frozen Plate"
+        },
+        {
+            "itemName": "Crystalline Armor"
+        },
+        {
+            "itemName": "Mastermind Shield"
+        },
+        {
+            "itemName": "Giant Sword"
+        },
+        {
+            "itemName": "Spellscroll of Prophecies"
+        },
+        {
+            "itemName": "Spellbook of Warding"
+        },
+        {
+            "itemName": "Spellbook of Dark Mysteries"
+        },
+        {
+            "itemName": "Spellbook of Lost Souls"
+        },
+        {
+            "itemName": "Spellbook of Mind Control"
+        },
+        {
+            "itemName": "Glacier Kilt"
+        },
+        {
+            "itemName": "Demon Shield"
+        },
+        {
+            "itemName": "Double Axe"
+        },
+        {
+            "itemName": "Skull Staff"
+        },
+        {
+            "itemName": "Twin Axe"
+        },
+        {
+            "itemName": "Glorious Axe"
+        },
+        {
+            "itemName": "Havoc Blade"
+        },
+        {
+            "itemName": "Bonebreaker"
+        },
+        {
+            "itemName": "Demonbone"
+        },
+        {
+            "itemName": "Golden Armor"
+        },
+        {
+            "itemName": "Golden Legs"
+        },
+        {
+            "itemName": "Golden Boots"
+        },
+        {
+            "itemName": "Golden Mug"
+        },
+        {
+            "itemName": "Big Bone"
+        },
+        {
+            "itemName": "Strange Symbol"
+        },
+        {
+            "itemName": "Mind Stone"
+        },
+        {
+            "itemName": "Magic Light Wand"
+        },
+        {
+            "itemName": "Silver Amulet"
+        },
+        {
+            "itemName": "Protection Amulet"
+        },
+        {
+            "itemName": "Platinum Amulet"
+        },
+        {
+            "itemName": "Ancient Amulet"
+        },
+        {
+            "itemName": "Ring of the Sky"
+        },
+        {
+            "itemName": "Energy Ring"
+        },
+        {
+            "itemName": "Might Ring"
+        },
+        {
+            "itemName": "Gold Ring"
+        },
+        {
+            "itemName": "Death Ring"
+        },
+        {
+            "itemName": "Ring of Healing"
+        },
+        {
+            "itemName": "Stealth Ring"
+        },
+        {
+            "itemName": "Crystal Ring"
+        },
+        {
+            "itemName": "Ultimate Health Potion"
+        },
+        {
+            "itemName": "Great Spirit Potion"
+        },
+        {
+            "itemName": "Great Health Potion"
+        },
+        {
+            "itemName": "Great Mana Potion"
+        },
+        {
+            "itemName": "Strong Health Potion"
+        },
+        {
+            "itemName": "Berserk Potion"
+        },
+        {
+            "itemName": "Teddy Bear"
+        },
+        {
+            "itemName": "Blue Tome"
+        },
+        {
+            "itemName": "Ruthless Axe"
+        },
+        {
+            "itemName": "Ravenwing"
+        },
+        {
+            "itemName": "Mythril Axe"
+        },
+        {
+            "itemName": "Shiver Arrow"
+        },
+        {
+            "itemName": "Flash Arrow"
+        },
+        {
+            "itemName": "Sniper Arrow"
+        }
+    ],
+    "walksaround": "None",
+    "exp": "15000",
+    "creatureclass": "Demons",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "70%?",
+    "bosstiaryclass": "Nemesis",
+    "primarytype": "The Triangle of Terror",
+    "race_id": "312",
+    "senseinvis": "yes",
+    "actualname": "Ghazbaran",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Ghazbaran",
+    "isboss": "yes",
+    "behaviour": "Ghazbaran runs away in low [[Hit Points|health]]. He also casts a defense spell on himself which will temporarily reduce every attacker's skill (depending on what he hits with) to 0. He will only remain in the realm for 4 hours.",
+    "location": "[[Formorgar Mines]], in the pit with the Juggernaut.",
+    "iceDmgMod": "0%",
+    "strategy": "A pair of high levels knights can lure the monsters, one by one, until remain only the boss. Many high level knights are needed to block all [[Deathslicer]]s ((also recommended to lure a monster and make it destroy the [[Deathslicer]]s, the same way a [[Orc Berserker]] can kill other orcs to come near you) this can also be done with summoned [[Demon Skeleton]]'s on pvp or pvp-enforced worlds. Simply trap the Knight blocking the [[Deathslicer]] with Magic Walls and then attack the Knight with the summons to kill the [[Deathslicer]].) and other knights (about 3) to block Ghazbaran ([[Stone Skin Amulet]]s are strongly recommended, cause this powerful creature can even kill a [[knight]] of [[level]] 200+ with one [[combo]]). The main blocker will need a lot of healers, usually some blockers die trying to block with their own healing. The main blocker can also use [[Challenge]] to make sure Ghazbaran does not retarget on the shooters and healers. Then, just have many shooters to banish the Archdemon from our realm. This monster has extremely hard defense, it's immune to [[Ice Damage]] - and '''Sudden Deaths''' or '''Energy''' spells are best choice.",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "99%?"
+}

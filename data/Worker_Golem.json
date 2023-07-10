@@ -1,0 +1,143 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "None.",
+    "walksthrough": "Poison",
+    "hp": "1470",
+    "abilities": "{{Ability List\n |{{Melee|0-236+}}\n |{{Ability|Throws [[Small Stone]]|85-125|element=physical\n  |scene={{Scene|spell=5sqmstrike|background=canvas|caster=Worker Golem|look_direction=south|missile=Small Stone Missile|missile_direction=south-east|effect=Blood Effect|missile_distance=5/5}}}}\n |{{Healing|range=200-250}} (slow)\n}}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "holyDmgMod": "50%",
+    "maxdmg": "{{Max Damage|physical=361}}",
+    "pushable": "?",
+    "usedelements": "Physical",
+    "implemented": "8.40",
+    "loot": [
+        {
+            "amount": "1-140",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Great Mana Potion",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Great Health Potion",
+            "rarity": "semi-rare"
+        },
+        {
+            "amount": "1-5",
+            "itemName": "Nail",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Rusted Armor",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Gear Crystal",
+            "rarity": "semi-rare"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Small Diamond",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Might Ring",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Life Crystal",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "War Hammer",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Iron Ore",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Berserk Potion",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Spiked Squelcher",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Great Spirit Potion",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Gear Wheel",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Rusted Legs",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Bonebreaker",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Crystal Pedestal",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Crystal Pedestal (Cyan)"
+        }
+    ],
+    "walksaround": "Fire, Energy",
+    "exp": "1250",
+    "mitigation": "1.32",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "worker golem",
+    "illusionable": "no",
+    "armor": "35",
+    "convince": "--",
+    "name": "Worker Golem",
+    "isboss": "no",
+    "iceDmgMod": "90%",
+    "energyDmgMod": "105%",
+    "deathDmgMod": "90%",
+    "plural": "worker golems",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "lightcolor": "35",
+    "occurrence": "Common",
+    "bestiarytext": "In ancient times the mago-mechanic Worker Golems used to be a common sight in Yalahar. They made a major contribution to Yalahar's wealth and luxury, ensuring that at least the upper classes had not to worry about mundane tasks.<br />They are constructs made of a variety of magical artefacts. Moreover, Worker Golems own some sort of intelligence gained in a ritual not too different from the one which modern wizards use to create stone golems. With powerful runes and enchantments, some spirit have been called into the golems. Worker Golems are much more limited and specialised than other golems but they are also more precise and easier to control.<br />The Worker Golems came in many varieties, serving as construction machines, transporters, guards and butlers. In the course of the centuries, more and more of the Worker Golems malfunctioned and deteriorated. Nowadays, not many of the old golems are left. Although some cunning magicians figured out how to repair, control and even create such constructs, the processes involved are extremely time-consuming and expensive. For this reason, Worker Golems outside of Yalahar are a rather rare sight, and many of the still functioning ones are badly affected. Such Damaged Worker Golems are of course much weaker and less durable than the repaired and intact versions.<br />Though the initial commands of the golems prevented that they attacked a Yalahari, this instructions seem not to be valid  for outsiders such as humans. This is probably caused by the fact that outsiders were very rare in the glorious past of the city, nonetheless, nowadays it poses a threat and often leads to fatal attacks. Of course, this is another point while Worker Golem are  hardly in usage nowadays.<br />Although the Worker Golem has become rare over the centuries, there are still some old factories were an unsuspecting explorer might encounter some of these golems mindlessly doing some kind of work.  Worker Golems attack intruders with different built-in magic tools using them quite effectively as weapons.",
+    "speed": "80",
+    "pushobjects": "?",
+    "fireDmgMod": "100%",
+    "sounds": [
+        "INTRUDER ALARM!",
+        "klonk klonk klonk",
+        "Rrrtttarrrttarrrtta",
+        "Awaiting orders.",
+        "Secret objective complete."
+    ],
+    "lightradius": "3",
+    "bestiaryclass": "Construct",
+    "creatureclass": "Misc",
+    "earthDmgMod": "50%",
+    "physicalDmgMod": "90%",
+    "primarytype": "Machines",
+    "spawntype": [
+        "Regular",
+        "Unblockable"
+    ],
+    "race_id": "503",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "workergolem",
+    "behaviour": "Fights until death.",
+    "location": "[[Factory Quarter]].",
+    "strategy": "'''Paladins:'''  These can be hunted at about level 35 with 70+ distance skill by running them, they are fairly slow so running from them is easy. Beware of their very powerful melee and defence. Also note that they have self-healing so speed is important when hunting these. They can be safely soloed without running at about level 60 with 70+ distance.<br />\n'''Mages:'''  Given the opportunity for running space, mages can solo these monsters around level 45 using energy attacks.  [[Sorcerer]]s are recommended to use a [[Wand of Starstorm]]/[[Wand of Cosmic Energy|Cosmic Energy]] in combination with [[Energy Strike]].  [[Druids]] can use a rod, but for mana savings, it's probably best to not use one and just use [[Energy Strike]].  Be careful to not run into more of them, as 2-3 of them trapping you can give you a free trip to the temple quickly. For Mages level 45 and lower it is recommend to take a shield with defence 30 or higher, making it easier to out-heal the attacks, and do more combo attacks.<br />\n'''Knights:'''  It's recommended that knights not hunt these solo at lower levels, mainly because of its strength to physical attacks, and for higher levels, the damage you'll receive will make profiting nearly impossible. If you intend to hunt them, bring a mage or pally along as a shooter and share the loot."
+}

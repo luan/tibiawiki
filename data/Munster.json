@@ -1,0 +1,70 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%",
+    "notes": "It is a [[Rat]] Boss that is generally made for lower levels to kill. Looks like a regular [[Cave Rat]]. Spawns with 2 [[Rat]]s and 3 [[Cave Rat]]s.",
+    "walksthrough": "?",
+    "hp": "58",
+    "speed": "?",
+    "abilities": "{{Ability List|{{Melee|0-15}}|{{Summon|Rat|2}}}}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "no",
+    "fireDmgMod": "100%",
+    "holyDmgMod": "100%",
+    "sounds": [
+        "Meep!",
+        "Meeeeep!"
+    ],
+    "maxdmg": "{{Max Damage|physical=15||summons=16}}",
+    "pushable": "?",
+    "usedelements": "Physical",
+    "implemented": "7.9",
+    "loot": [
+        {
+            "amount": "0-24",
+            "itemName": "Gold Coin"
+        },
+        {
+            "amount": "0-4",
+            "itemName": "Worm"
+        },
+        {
+            "amount": "0-4",
+            "itemName": "Cheese"
+        },
+        {
+            "itemName": "Bone Club"
+        },
+        {
+            "itemName": "Cookie"
+        },
+        {
+            "itemName": "Die",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "35",
+    "creatureclass": "Mammals",
+    "earthDmgMod": "100%?",
+    "physicalDmgMod": "100%",
+    "primarytype": "Glires",
+    "spawntype": [
+        "Raid"
+    ],
+    "race_id": "307",
+    "senseinvis": "no",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%",
+    "convince": "--",
+    "name": "Munster",
+    "isboss": "yes",
+    "behaviour": "Munster runs when seriously injured also moves object that are in his way. If a weak creature is blocking its path, Munster will kill it in order to reach target.",
+    "location": "[[Rookgaard]], Free Account Main Rat Caves, on the second floor.\n<noinclude><gallery mode=\"nolines\">\nMunster_Spawn.GIF|Spawn location\nMunsterAttack.png|Munster's melee attack\nMunsterSummon.png|Munster summoning two rats\nmunster grimera.JPG|Munster with [[Bone Club]] in loot\n</gallery></noinclude>",
+    "iceDmgMod": "100%",
+    "strategy": "Kill the summoned [[Rat]]s, then proceed to kill [[Munster]].",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "100%"
+}

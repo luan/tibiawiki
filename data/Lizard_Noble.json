@@ -1,0 +1,87 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "They respawn fairly quickly.",
+    "walksthrough": "Fire, Poison",
+    "hp": "7000",
+    "abilities": "{{Ability List| {{Melee|0-80}}|{{Ability|[[Mana Drain]]|0-100|element=manadrain}}|{{Ability|[[Earth Damage]]|0-250~|element=earth}}|{{Healing}} }}",
+    "healMod": "100%",
+    "paraimmune": "?",
+    "holyDmgMod": "100%",
+    "maxdmg": "430+",
+    "pushable": "no",
+    "implemented": "8.60",
+    "loot": [
+        {
+            "amount": "1-100",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-20",
+            "itemName": "Platinum Coin",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-5",
+            "itemName": "Small Ruby",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Strong Health Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Great Health Potion",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Lizard Leather",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Lizard Scale",
+            "rarity": "rare"
+        }
+    ],
+    "walksaround": "Energy",
+    "exp": "2000",
+    "mitigation": "1.02",
+    "attacktype": "Distance",
+    "article": "a",
+    "actualname": "lizard noble",
+    "illusionable": "no",
+    "armor": "27",
+    "convince": "--",
+    "name": "Lizard Noble",
+    "isboss": "no",
+    "iceDmgMod": "100%",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "100%",
+    "plural": "lizard nobles",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "speed": "128",
+    "pushobjects": "yes",
+    "fireDmgMod": "15%",
+    "sounds": [
+        "Where are zhe guardz when you need zhem!"
+    ],
+    "runsat": "80",
+    "bestiaryclass": "Reptile",
+    "creatureclass": "Reptiles",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "100%",
+    "primarytype": "High Class Lizards",
+    "spawntype": [
+        "Regular"
+    ],
+    "race_id": "656",
+    "bestiarylevel": "Hard",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "behaviour": "They [[Self Healing|heal]] themselves quite often.",
+    "location": "[[Razachai]].",
+    "strategy": "If you want to save supplies, there is a building to the west of the green palace with three floors above ground and some [[Lizard Dragon Priest]] in it. If you kill the '''Lizard Noble''' at the top and then block the respawn on the floor below, you will save a lot of supplies compared to running around killing all the lizards; thus giving yourself the ability to solo this quest at a lower level.<br><br>\n'''All Vocations:''' Beware when soloing this creature, the Lizard Noble constantly shoots its Earth attack hitting for 250~s.<br><br>"
+}

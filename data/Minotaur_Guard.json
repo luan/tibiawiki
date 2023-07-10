@@ -1,0 +1,107 @@
+{
+    "summon": "550",
+    "templateType": "Creature",
+    "notes": "Besides the bosses, Minotaur Guards have the strongest [[melee]] of the classic [[Minotaurs]]. These creatures can be skinned with an [[Obsidian Knife]]. See also: [[Minotaur Leather/Skinning]].",
+    "walksthrough": "None",
+    "hp": "185",
+    "abilities": "{{Ability List|{{Melee|0-100}}}}",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "holyDmgMod": "90%",
+    "maxdmg": "{{Max Damage|physical=100}}",
+    "pushable": "No",
+    "implemented": "5.1",
+    "loot": [
+        {
+            "amount": "1-20",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Minotaur Horn",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Battle Shield",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Piece of Warrior Armor",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Brass Armor",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Chain Armor",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Fishing Rod",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Minotaur Leather",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Double Axe",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Health Potion",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Minotaur Trophy",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Fire, Energy, Poison",
+    "exp": "160",
+    "mitigation": "0.83",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "minotaur guard",
+    "illusionable": "yes",
+    "armor": "15",
+    "convince": "550",
+    "name": "Minotaur Guard",
+    "isboss": "no",
+    "iceDmgMod": "110%",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "110%",
+    "plural": "minotaur guards",
+    "hpDrainDmgMod": "100%",
+    "usespells": "no",
+    "occurrence": "Common",
+    "bestiarytext": "Minotaur Guards form the heavy troops of the minotaurs' army. They are tough short-range fighters but vulnerable by distance fighting weapons. Watch out for archers that are usually placed in the second row behind them.",
+    "speed": "95",
+    "pushobjects": "Yes",
+    "fireDmgMod": "80%",
+    "sounds": [
+        "Kirrl Karrrl!",
+        "Kaplar"
+    ],
+    "runsat": "0",
+    "bestiaryclass": "Humanoid",
+    "creatureclass": "Humanoids",
+    "earthDmgMod": "100%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Minotaurs",
+    "spawntype": [
+        "Regular",
+        "Raid",
+        "Unblockable"
+    ],
+    "race_id": "29",
+    "bestiarylevel": "Easy",
+    "senseinvis": "no",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "minotaurguard",
+    "behaviour": "'''Minotaur Guards''' will kill weaker [[creatures]] to reach a player. They can also [[retarget]].",
+    "location": "[[Ancient Temple]], [[Mintwallin]], [[Minotaur Pyramid]], [[Maze of Lost Souls]], [[Folda]], [[Cyclopolis]], Deeper [[Fibula Dungeon]] (level 50+ to open the door), [[Hero Cave]], underground of [[Elvenbane]], [[Plains of Havoc]], [[Kazordoon|Kazordoon Minotaur Cave]], [[Foreigner Quarter]].",
+    "strategy": "'''[[Knight]]s:''' should have good [[skills]] (over 55/55) and decent equipment to kill one of these. Minotaur Guards may be accompanied with [[Minotaur Archer]]s and [[Minotaur Mage]]s.<br />\n'''[[Paladin]]s:''' can just attack them and try to avoid melee hits. It's really easy to outrun them while shooting [[Arrow]]s, [[Bolt]]s and [[Spear]]s.<br />\n'''[[Mage]]s''': can use [[Invisible]] and then attack them with [[Rune]]s or just running and shooting. Using a [[Rod]] or [[Wand]] is also as effective and saves runes. If your [[Level]] is a little higher, you can also combine a wand or rod with [[Ice Strike]]. You should have fairly good equipment."
+}

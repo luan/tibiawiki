@@ -1,0 +1,98 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "One of the Hive Bosses<br/>\n{{JSpoiler|Part of the [[War Against the Hive Quest]]}}",
+    "walksthrough": "Fire, Energy, Poison",
+    "hp": "8200",
+    "speed": "?",
+    "abilities": "{{Ability List| {{Melee|?}}|{{Ability|short [[Groundshaker]] beam|500-700|element=?}}|{{Ability|physical hit|175-300+|element=physical}}|{{Ability|[[Self Healing]]|5-15; frequent|element=healing}}|{{Ability|[[Self Healing]]|500-600; infrequent|element=healing}} }}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "secondarytype": "Insects",
+    "fireDmgMod": "50%",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        "Kropp!"
+    ],
+    "maxdmg": "?",
+    "pushable": "?",
+    "implemented": "9.50",
+    "loot": [
+        {
+            "amount": "0-144",
+            "itemName": "Gold Coin"
+        },
+        {
+            "amount": "0-6",
+            "itemName": "Platinum Coin"
+        },
+        {
+            "itemName": "Compound Eye"
+        },
+        {
+            "itemName": "Kollos Shell"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "Dung Ball (Quest)"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "Great Mana Potion"
+        },
+        {
+            "itemName": "Ultimate Health Potion"
+        },
+        {
+            "amount": "0-4",
+            "itemName": "Black Pearl"
+        },
+        {
+            "amount": "0-4",
+            "itemName": "Small Ruby"
+        },
+        {
+            "itemName": "Giant Shimmering Pearl",
+            "rarity": "very rare"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "Gooey Mass"
+        },
+        {
+            "itemName": "Gold Ingot",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Red Gem",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Hive Bow",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "None.",
+    "exp": "6500",
+    "creatureclass": "Invertebrates",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "40%",
+    "bosstiaryclass": "Bane",
+    "primarytype": "Hive Born",
+    "race_id": "857",
+    "senseinvis": "?",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Maw",
+    "isboss": "yes",
+    "behaviour": "Keeps distance while shooting low amounts of damage and healing himself.",
+    "location": "Underground [[Hive]], around {{Mapper Coords|130.225|122.12|8|2|text=here}}",
+    "iceDmgMod": "50%",
+    "strategy": "Separate him from other monsters and treat him as weak [[Hive Overseer]] without summons.",
+    "energyDmgMod": "50%",
+    "deathDmgMod": "60%?"
+}

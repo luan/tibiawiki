@@ -1,0 +1,137 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "It's the boss of the [[Undead Dragon]]s. {{JSpoiler|Part of the [[Killing in the Name of... Quest]].}}",
+    "walksthrough": "?",
+    "hp": "13000",
+    "speed": "?",
+    "abilities": "{{Ability List| {{Ability|Same as an [[Undead Dragon]]'s|element=?}} }}",
+    "pushobjects": "yes",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "secondarytype": "Skeletons",
+    "fireDmgMod": "0%",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        "I SENSE LIFE",
+        "FEEEED MY ETERNAL HUNGER!"
+    ],
+    "maxdmg": "2000+",
+    "pushable": "no",
+    "implemented": "9.50",
+    "loot": [
+        {
+            "amount": "0-100",
+            "itemName": "Gold Coin",
+            "rarity": "always"
+        },
+        {
+            "amount": "0-10",
+            "itemName": "Platinum Coin",
+            "rarity": "always"
+        },
+        {
+            "itemName": "Death Ring",
+            "rarity": "always"
+        },
+        {
+            "itemName": "Dragonbone Staff",
+            "rarity": "always"
+        },
+        {
+            "itemName": "Golden Mug",
+            "rarity": "always"
+        },
+        {
+            "amount": "0-3",
+            "itemName": "Unholy Bone",
+            "rarity": "always"
+        },
+        {
+            "itemName": "Gold Ingot"
+        },
+        {
+            "itemName": "Demonic Essence"
+        },
+        {
+            "itemName": "Knight Armor"
+        },
+        {
+            "itemName": "Crown Helmet"
+        },
+        {
+            "itemName": "Jade Hat"
+        },
+        {
+            "amount": "0-3",
+            "itemName": "Great Spirit Potion"
+        },
+        {
+            "amount": "0-4",
+            "itemName": "Great Health Potion"
+        },
+        {
+            "amount": "0-5",
+            "itemName": "Small Sapphire"
+        },
+        {
+            "amount": "0-5",
+            "itemName": "Hardened Bone"
+        },
+        {
+            "amount": "0-3",
+            "itemName": "Great Mana Potion",
+            "rarity": "semi-rare"
+        },
+        {
+            "amount": "0-5",
+            "itemName": "Small Emerald",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Slightly Rusted Armor",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Golden Armor",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Skull Helmet",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Maxilla Maximus",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Royal Helmet",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Divine Plate",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Energy",
+    "exp": "9900",
+    "creatureclass": "Reptiles",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "80%?",
+    "primarytype": "Dragons",
+    "race_id": "849",
+    "senseinvis": "?",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Zanakeph",
+    "isboss": "yes",
+    "behaviour": "It behaves like a normal [[Undead Dragon]], which means it will run in deep red hp.",
+    "location": "[[Razachai]], behind the teleport located {{Mapper Coords|129.71|121.101|12|4|text=here}} (access gained during {{Spoiler Section|Wrath of the Emperor Quest|Mission 08: Uninvited Guests}}).",
+    "iceDmgMod": "50%?",
+    "strategy": "This boss is one of the hardest of the [[Killing in the Name of... Quest|quest]], so be careful. '''[[Knight]]s''' should stand diagonal and spam attack spells, whilst '''[[Paladin]]s''' should kite him around the room. '''[[Mage]]s''' should use energy-based spells such as [[Energy Wave]], [[Great Energy Beam]], [[Ultimate Energy Strike]] and kite him around the room until he's dead. [[Energy Wall]]s can be utilized to keep him at bay.",
+    "energyDmgMod": "110%?",
+    "deathDmgMod": "0%"
+}

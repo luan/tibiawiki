@@ -1,0 +1,196 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "The walls of the room is filled with [[Magicthrower]]s, [[Flamethrower]]s, [[Plaguethrower]]s and [[Shredderthrower]]s. Also [[Golgordan]], his brother, is in the same room.\n\n{{JSpoiler|It's one of the bosses of [[The Inquisition Quest]].}}",
+    "walksthrough": "?",
+    "hp": "25000",
+    "speed": "195",
+    "abilities": "{{Ability List\n |{{Melee|0-1+}}\n |{{Ability|Fire Wave|0-850|element=fire}}\n |{{Ability|Fire Beam|271|element=fire}}\n |{{Ability|Death Strike|457-600|element=death\n  |scene={{Scene|spell=7sqmstrike|caster=Latrivan|look_direction=south|effect=Cloud Effect|damage_effect=None|missile=Death Missile|missile_direction=south-east|missile_distance=7/7}}}}\n |{{Ability|Death Wave|302-600|element=death\n  |scene={{Scene|spell=5sqmwavewide2|caster=Latrivan|look_direction=east|effect=Death Effect|damage_effect=Cloud Effect}}}}\n |{{Ability|Fire Bomb|112-200+|element=fire\n  |scene={{Scene|spell=2sqmballself|caster=Latrivan|effect=Flame Effect|effect_on_caster=yes|damage_effect=Fire Effect}}}}\n |{{Ability|Poisoning Beam|element=poisoned\n  |scene={{Scene|spell=10sqmbeam|caster=Latrivan|look_direction=east|effect=Poison Effect 3|damage_effect=Unknown}}}}\n |{{Ability|Smoke Beam||?}}\n |{{Debuff2|Teleport Beam|melee=yes|value=25-40%|duration=45\n  |scene={{Scene|spell=9sqmbeam|caster=Latrivan|look_direction=east|effect=Poof Effect|damage_effect=Unknown}}}}\n |{{Healing|range=346-518\n  |scene={{Scene|spell=buffspell|effect=Blue Sparkles Effect|caster=Latrivan|effect_on_caster=yes}}}}\n}}",
+    "pushobjects": "Yes",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "secondarytype": "Archdemons",
+    "fireDmgMod": "0%",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        "I might reward you for killing my brother ~ with a swift death!",
+        "Colateral damage is so fun!",
+        "Golgordan you fool!",
+        "We are the brothers of fear!"
+    ],
+    "maxdmg": "1800",
+    "pushable": "No",
+    "implemented": "8.20",
+    "loot": [
+        {
+            "amount": "0-150?",
+            "itemName": "Gold Coin"
+        },
+        {
+            "amount": "0-6",
+            "itemName": "Platinum Coin"
+        },
+        {
+            "amount": "0-13",
+            "itemName": "Talon"
+        },
+        {
+            "amount": "0-15",
+            "itemName": "Small Amethyst"
+        },
+        {
+            "amount": "0-4",
+            "itemName": "Small Emerald"
+        },
+        {
+            "amount": "0-9",
+            "itemName": "Small Sapphire"
+        },
+        {
+            "amount": "0-4",
+            "itemName": "Small Diamond"
+        },
+        {
+            "amount": "0-28",
+            "itemName": "Black Pearl"
+        },
+        {
+            "amount": "0-13",
+            "itemName": "White Pearl"
+        },
+        {
+            "amount": "0-7",
+            "itemName": "Onyx Arrow"
+        },
+        {
+            "itemName": "Demonic Essence"
+        },
+        {
+            "itemName": "Gold Ingot"
+        },
+        {
+            "itemName": "Protection Amulet"
+        },
+        {
+            "itemName": "Silver Amulet"
+        },
+        {
+            "itemName": "Platinum Amulet"
+        },
+        {
+            "itemName": "Stone Skin Amulet"
+        },
+        {
+            "itemName": "Gold Ring"
+        },
+        {
+            "itemName": "Stealth Ring"
+        },
+        {
+            "itemName": "Energy Ring"
+        },
+        {
+            "itemName": "Might Ring"
+        },
+        {
+            "itemName": "Death Ring"
+        },
+        {
+            "itemName": "Magic Light Wand"
+        },
+        {
+            "itemName": "Wand of Decay"
+        },
+        {
+            "itemName": "Necrotic Rod"
+        },
+        {
+            "itemName": "Snakebite Rod"
+        },
+        {
+            "itemName": "Ring of Healing"
+        },
+        {
+            "itemName": "Blue Gem"
+        },
+        {
+            "itemName": "Green Gem"
+        },
+        {
+            "itemName": "Ice Rapier"
+        },
+        {
+            "itemName": "Mastermind Potion"
+        },
+        {
+            "itemName": "Devil Helmet"
+        },
+        {
+            "itemName": "Fire Axe"
+        },
+        {
+            "itemName": "Double Axe"
+        },
+        {
+            "itemName": "Great Health Potion"
+        },
+        {
+            "itemName": "Silver Dagger"
+        },
+        {
+            "itemName": "Skull Staff"
+        },
+        {
+            "itemName": "Boots of Haste"
+        },
+        {
+            "itemName": "Golden Legs"
+        },
+        {
+            "itemName": "Demon Shield"
+        },
+        {
+            "itemName": "Giant Sword"
+        },
+        {
+            "itemName": "Mastermind Shield"
+        },
+        {
+            "itemName": "Golden Sickle"
+        },
+        {
+            "itemName": "Crystal Ball"
+        },
+        {
+            "itemName": "Assassin Star"
+        },
+        {
+            "itemName": "Mind Stone"
+        },
+        {
+            "itemName": "Moonlight Rod"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "10000",
+    "creatureclass": "Demons",
+    "earthDmgMod": "100%?",
+    "physicalDmgMod": "100%?",
+    "bosstiaryclass": "Bane",
+    "primarytype": "The Ruthless Seven Minions",
+    "race_id": "417",
+    "senseinvis": "?",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Latrivan",
+    "isboss": "yes",
+    "behaviour": "Walls of the room is lines with [[shredderthrower]]s. Also [[Golgordan]], his brother, is in the same room.",
+    "location": "Through the teleport in [[The Battlefields]].",
+    "iceDmgMod": "101%>?",
+    "strategy": "Unknown",
+    "energyDmgMod": "99%<?",
+    "deathDmgMod": "0%"
+}

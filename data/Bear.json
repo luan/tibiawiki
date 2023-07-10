@@ -1,0 +1,77 @@
+{
+    "summon": "300",
+    "templateType": "Creature",
+    "notes": "Bears are fairly strong and can kill poorly equipped players quickly.<br />{{JSpoiler|To [[War Bear|tame]] this creature, one must use a [[Slingshot]] on it.}}",
+    "walksthrough": "?",
+    "hp": "80",
+    "abilities": "{{Ability List|{{Melee|0-25}}}}",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "holyDmgMod": "90%",
+    "maxdmg": "{{Max Damage|physical=25}}",
+    "pushable": "no",
+    "usedelements": "Physical",
+    "implemented": "4.0",
+    "loot": [
+        {
+            "amount": "0-4",
+            "itemName": "Meat"
+        },
+        {
+            "amount": "0-3",
+            "itemName": "Ham"
+        },
+        {
+            "itemName": "Bear Paw",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Honeycomb",
+            "rarity": "rare"
+        }
+    ],
+    "walksaround": "Fire, Energy, Poison",
+    "exp": "23",
+    "mitigation": "0.15",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "bear",
+    "illusionable": "yes",
+    "armor": "6",
+    "convince": "300",
+    "name": "Bear",
+    "isboss": "no",
+    "iceDmgMod": "110%",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "105%",
+    "plural": "bears",
+    "hpDrainDmgMod": "100%",
+    "usespells": "no",
+    "occurrence": "Common",
+    "bestiarytext": "Bears live in the holes and forests of Tibia. They are pacific animals, but they can get quite aggressive when you enter their habitat. Their stroke can be very strong, but as Bears are slow you should be able to flee. It is recommended to attack Bears with distance fighting weapons.",
+    "speed": "78",
+    "pushobjects": "no",
+    "fireDmgMod": "100%",
+    "sounds": [
+        "Grrrr",
+        "Groar"
+    ],
+    "runsat": "15",
+    "bestiaryclass": "Mammal",
+    "creatureclass": "Mammals",
+    "earthDmgMod": "100%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Bears",
+    "spawntype": [
+        "Regular",
+        "Raid",
+        "Unblockable"
+    ],
+    "race_id": "16",
+    "bestiarylevel": "Easy",
+    "senseinvis": "no",
+    "drownDmgMod": "100%",
+    "bestiaryname": "bear",
+    "location": "Several spawns near [[Kazordoon]], [[Femor Hills]], north  of [[Thais]], near the [[White Flower Temple]], [[Rookgaard Bear Cave]], [[Bear Room Quest]] in Rookgaard, Rookgaard Bear Mountain, South of [[Villa Scapula]], [[Ferngrims Gate]], North of [[Carlin]], [[Fields of Glory]], [[Edron Troll Cave]], south of [[Venore]], [[Desert Dungeon]], first floor of the [[Orc Fort]] mountain and west of [[Outlaw Camp]].",
+    "strategy": "If you are on [[Rookgaard]], be careful because they are strong [[creatures]]. Do not enter the [[Rookgaard Bear Cave|Bear Cave]] if you don't have good equipment as you can die very fast. Also, never let yourself get trapped in a corner as you cannot push bears."
+}

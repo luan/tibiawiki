@@ -1,0 +1,98 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "They glow slightly green.",
+    "walksthrough": "None",
+    "hp": "1300",
+    "abilities": "{{Ability List|{{Melee|0-180|poison=4}}|{{Ability|Distance Life Drain|90-140|lifedrain}}|{{Ability|Bubble Berserk|100-175}}|{{Ability|Stalagmite|96-110|earth}}|{{Ability|Distance Paralyze||slowed}}|{{Healing|range=around 100}}}}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "holyDmgMod": "105%",
+    "maxdmg": "{{Max Damage|physical=365|earth=114|lifedrain=140}}",
+    "pushable": "no",
+    "implemented": "8.20",
+    "loot": [
+        {
+            "amount": "1-105",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Boggy Dreads",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Great Health Potion",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Great Spirit Potion",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Plate Legs",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Belted Cape",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Springsprout Rod",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Ultimate Health Potion",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Paladin Armor",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Fire, Energy, Poison",
+    "exp": "800",
+    "mitigation": "0.78",
+    "attacktype": "Melee",
+    "history": "Because Bog Raiders used to be a relatively weak monster, and gave relatively too much experience, in the [[Updates/8.4|Winter Update 2008]] (half a year after their implementation) they became stronger and less profitable (loot is more rare now). They also glow green slightly since then. Their melee attack increased with approx. 60 damage and they received a [[Stalagmite]]-like attack dealing approx. 100 damage.",
+    "article": "a",
+    "actualname": "bog raider",
+    "illusionable": "no",
+    "armor": "20",
+    "convince": "--",
+    "name": "Bog Raider",
+    "isboss": "no",
+    "iceDmgMod": "105%",
+    "energyDmgMod": "110%",
+    "deathDmgMod": "95%",
+    "plural": "bog raiders",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "lightcolor": "30",
+    "occurrence": "Common",
+    "bestiarytext": "The Bog Raider is neither a living creature, nor an undead, nor a ghost. Rather, it is a ghastly mix of all of them. Whenever someone dies in the bogs, he is often in great fear or desperation. In many cases, these fears tie the spirit to the world of the living. Trapped between the worlds, these spirits become more and more desperate. They contaminate the environment by spreading their fear and desperation, and they bind rotten plants to the bones of their mortal remains. After several years, the spirit combines with its newly formed body and a new creature is born - a dreadful Bog Raider rises from the swamps. The new body consists of the skeleton that belonged to the living being the spirit used to be, wrapped round with masses of rotten plants, leaves and vines.<br />Still driven by fear and often completely mad, Bog Raiders walk the swamps. However, their mad and frightening wailing warns all creatures of their approach. Hungry for life, Bog Raiders attack every living being that crosses their way, vainly trying to gain their enemy's life force to satisfy their tormenting hunger. Bog Raiders are rather driven by madness than by intelligence which makes them to dangerous enemies. However, there are also reports of Bog Raiders who overcame their madness and actually help nearby settlements or look after their former families from a distance.",
+    "speed": "125",
+    "pushobjects": "yes",
+    "fireDmgMod": "15%",
+    "sounds": [
+        "Tchhh!",
+        "Slurp!"
+    ],
+    "lightradius": "4",
+    "runsat": "0",
+    "bestiaryclass": "Magical",
+    "creatureclass": "Elementals",
+    "earthDmgMod": "70%",
+    "physicalDmgMod": "105%",
+    "primarytype": "Bio-Elementals",
+    "spawntype": [
+        "Regular"
+    ],
+    "race_id": "460",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "bograider",
+    "location": "Underneath [[Malada]] and [[Talahu]], [[Edron Bog Raider Cave]] in [[Stonehome]], [[Edron Earth Elemental Cave]], [[Alchemist Quarter]], [[Vengoth/Castle|Vengoth Castle]], [[Robson Isle]]. [[Oramond Hydra/Bog Raider Cave]].",
+    "strategy": "'''[[Mage]]s:''' Attack them, run them around using [[Ice Damage|Ice]], [[Energy Damage|Energy]] or [[Physical Damage|Physical]] attacks while trying to not get swarmed by other Bog Raiders. With more risk you can stand still and just use strike attacks but their [[Melee]] is quite good. This has more mana waste, but less chance of luring more of these, just keep healing and there will be of little problem.\n\n'''[[Knight]]s:''' Use melee, [[Whirlwind Throw]] and [[Brutal Strike]], better stand and fight since the respawn is fast and more can be lured, diagonal is not necessary. You can attempt them at level 55, skills 75/75. To really profit you would need better skills to kill them faster. Strange as it sounds, a [[Garlic Necklace]] is a better choice than [[Silver Amulet]], as it blocks a large amount of their strong life drain and will last longer, while [[Silver Amulet]] will wear off really fast due to the fact you're always poisoned when fighting them. Be careful if you run into 4+ of them as they can combo pretty hard. Do not forget to use [[Berserk]] and [[Fierce Berserk]] in these situations.\n\n'''[[Paladin]]s:''' Run and kill it as fast as possible with a strong distance weapon ([[Enchanted Spear]]s, [[Assassin Star]]s or [[Power Bolt]]s) to avoid running in another spawn. Level 50+ and skill 75+ is recommended. They are weak to physical damage, so [[Ethereal Spear]] may work better than [[Divine Missile]], depending on your skills and level."
+}

@@ -1,0 +1,92 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "It's part of the [[Feaster of Souls Quest]].",
+    "walksthrough": "?",
+    "hp": "28000",
+    "speed": "?",
+    "abilities": "{{Ability List| {{Melee|?}} }}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "fireDmgMod": "100%",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "?",
+    "pushable": "no",
+    "runsat": "0",
+    "cooldown": "20",
+    "implemented": "12.30.9287",
+    "loot": [
+        {
+            "itemName": "Skull Coin"
+        },
+        {
+            "amount": "5",
+            "itemName": "Platinum Coin"
+        },
+        {
+            "itemName": "Ivory Comb"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Moonstone"
+        },
+        {
+            "itemName": "Diamond"
+        },
+        {
+            "itemName": "Machete"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Red Gem"
+        },
+        {
+            "itemName": "Death Toll"
+        },
+        {
+            "itemName": "Pair of Nightmare Boots"
+        },
+        {
+            "itemName": "Silver Hand Mirror"
+        },
+        {
+            "itemName": "Skull Staff"
+        },
+        {
+            "itemName": "Warrior's Axe"
+        },
+        {
+            "itemName": "Fire Axe"
+        },
+        {
+            "itemName": "Mercenary Sword"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "22000",
+    "creatureclass": "The Undead",
+    "earthDmgMod": "100%",
+    "physicalDmgMod": "50%?",
+    "bosstiaryclass": "Archfoe",
+    "primarytype": "Ghosts",
+    "spawntype": [
+        "Triggered"
+    ],
+    "race_id": "1891",
+    "senseinvis": "yes",
+    "actualname": "Unaz the Mean",
+    "illusionable": "yes",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Unaz the Mean",
+    "isboss": "yes",
+    "location": "[[Netherworld]]",
+    "iceDmgMod": "110%",
+    "energyDmgMod": "50%",
+    "deathDmgMod": "0%"
+}

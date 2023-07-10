@@ -1,0 +1,47 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "tentacles of the Deep Terror",
+    "hpDrainDmgMod": "100%?",
+    "notes": "After a few waves of [[Glooth Anemone]], 4 tentacles will spawn together in the boss room.",
+    "walksthrough": "Energy, Fire, Poison",
+    "hp": "~25500",
+    "speed": "?",
+    "abilities": "{{Ability List|{{Melee|0-?}}|{{Healing|range=0-715?}}|and more}}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "50%",
+    "holyDmgMod": "130%?",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "{{Max Damage|physical=?}}",
+    "pushable": "no",
+    "implemented": "10.70",
+    "loot": [
+        {
+            "itemName": "Platinum Coin"
+        }
+    ],
+    "walksaround": "None.",
+    "exp": "0?",
+    "creatureclass": "Demons",
+    "earthDmgMod": "0%?",
+    "physicalDmgMod": "100%?",
+    "primarytype": "Demons",
+    "senseinvis": "?",
+    "actualname": "tentacle of the Deep Terror",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "?",
+    "name": "Tentacle of the Deep Terror",
+    "isboss": "no",
+    "behaviour": "Unknown",
+    "location": "[[Underground Glooth Factory]] - Boss Room 1.",
+    "iceDmgMod": "100%?",
+    "strategy": "To spawn the first boss, [[Deep Terror]], you must slay all 4 tentacles within 10 seconds of the first kill. This means that you shouldn't focus on a single tentacle but instead weaken all of them equally. First and foremost, make sure all 4 tentacles are near each other. They can spawn away from each other and/or target different people; the knights should group the tentacles so that they are not far apart. When they are grouped, the team should use area attacks as much as possible. Single-target attacks (e.g. [[Paladin]] shots, wand/rod/melee attacks) should be directed at the tentacle with the highest health, which would mean changing targets every few seconds. The tentacles will retreat at low health which can make things harder, so when the tentacles are low in health the mages are recommended to use their ultimate spells to cover a big area and weaken the running tentacles. If this fails to kill the tentacles, chase them and finish them off individually. If you fail to kill them all within the 10 seconds, they will spawn anew and you have another chance. However, keep in mind that you have '''10 minutes''' inside the room, which does not get reset and does include the fight with the [[Deep Terror]].",
+    "energyDmgMod": "80%?",
+    "deathDmgMod": "100%?"
+}

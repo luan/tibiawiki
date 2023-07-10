@@ -1,0 +1,177 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "isarenaboss": "no",
+    "walksthrough": "Poison",
+    "hp": "7200",
+    "abilities": "{{Ability List\n |{{Melee|0-300+}}\n |{{Ability|Groundshaker Beam|0-1500|element=earth\n  |scene={{Scene|spell=7sqmbeam|effect=Stone Shower Effect|caster=Orewalker|look_direction=east}}}}\n |{{Ability|Life Drain Spark Berserk|200-400?|element=life drain\n  |scene={{Scene|spell=3x3spell|effect=Sparks Effect|caster=Orewalker|casting_effect=Sparks Effect}}}}\n |{{Ability|Death Mana Drain Wave|200-400?|element=mana drain\n  |scene={{Scene|spell=4sqmtwave2|effect=Death Effect|caster=Orewalker|look_direction=east}}}}\n |{{Ability|[[Viper Star]] Bomb|causes [[Poison]] at 54hp/turn|element=poisoned\n  |scene={{Scene|spell=1sqmballtarget|effect=Plant Effect|caster=Orewalker|missile=Viper Star Missile|missile_direction=south-east|missile_distance=2/2}}}}\n |{{Ability|Musical Drunk Bomb|element=drunk\n  |scene={{Scene|spell=2sqmballself|effect=Purple Notes Effect|caster=Orewalker|casting_effect=Purple Notes Effect}}}}\n |{{Ability|Spark wave|Unknown effect, maybe [[Paralysis|paralyzes]] you|element=?\n  |scene={{Scene|spell=5sqmtwavenarrow|effect=Sparks Effect|caster=Orewalker|look_direction=east}}}}\n |{{Ability|Red Sparkles Explosion on self|Unknown effect|element=?\n  |scene={{Scene|spell=plusspell|effect=Red Sparkles Effect|caster=Orewalker|casting_effect=Red Sparkles Effect}}}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "holyDmgMod": "100%",
+    "maxdmg": "1800",
+    "pushable": "no",
+    "implemented": "9.60",
+    "loot": [
+        {
+            "amount": "7-198",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-10",
+            "itemName": "Platinum Coin",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Blue Crystal Splinter",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Cyan Crystal Fragment",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Great Mana Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Green Crystal Shard",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Iron Ore",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-4",
+            "itemName": "Mana Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-5",
+            "itemName": "Prismatic Bolt",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Pulverized Ore",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Shiny Stone",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "Small Topaz",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Strong Health Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Strong Mana Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Sulphurous Stone",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Ultimate Health Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Vein of Ore",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Dwarven Ring",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Glorious Axe",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Magic Sulphur",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Titan Axe",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Crown Helmet",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Knight Legs",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Wand of Defiance",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Yellow Gem",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Crown Armor",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Crystal Crossbow",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Crystalline Armor",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Energy, Fire",
+    "exp": "4800",
+    "mitigation": "2.31",
+    "attacktype": "Melee",
+    "article": "an",
+    "actualname": "orewalker",
+    "illusionable": "no",
+    "armor": "79",
+    "convince": "--",
+    "name": "Orewalker",
+    "isboss": "no",
+    "iceDmgMod": "95%",
+    "energyDmgMod": "105%",
+    "deathDmgMod": "75%",
+    "plural": "orewalkers",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Uncommon",
+    "bestiarytext": "The Orewalker is a creature of fire and heat. To be more precise, what seems to be the physical body of the Orewalker is just magma, stone and ores, held together by a spirit of heat and fire. The non-corporeal beings create the bodies by sheer force of will, which in turn serve as some kind of anchor in the physical world. If their bodies are destroyed, they are hurled back into the spirit realm from which they originate. It is hard to comment on the Orewalkers' intelligence and intentions, since they seem to be so unfamiliar with the world. Given the fact that they serve in the armies of those below, it is assumed that the Orewalker spirits are called from beyond and more or less forced into a physical body before being unleashed with some rudimentary orders. The spirits are probably highly intelligent, but given the differences between the worlds it seems impossible for any form of communication other than forcing them to do something. It is not known whether they follow those below for their own unfathomable reasons or are reluctant, perhaps even rebellious helpers. Given the treatment of other minions by those below, a form of slavery seems most likely, but an unholy alliance of sorts cannot be ruled out. Any experiments to call and bind such a spirit are futile as long as so little is known about those spirits and their world.<br />In battle, the Orewalkers are somewhat clumsy. Only few of them seem to remain in our world long enough to get some sense of coordination. What they lack in manoeuvrability, they make up for in brutal strength of their snakelike bodies and the heat of the blood-like magma that flows within their veins.",
+    "speed": "190",
+    "pushobjects": "yes",
+    "fireDmgMod": "35%",
+    "sounds": [
+        "CLONK!"
+    ],
+    "runsat": "0",
+    "bestiaryclass": "Construct",
+    "creatureclass": "Elementals",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "75%",
+    "primarytype": "Geo-Elementals",
+    "race_id": "883",
+    "bestiarylevel": "Hard",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "orewalker",
+    "behaviour": "Orewalkers will fight in close combat.",
+    "location": "[[Warzone 3]].",
+    "strategy": "'''[[Druid]]s and [[Sorcerer]]s''' should use a [[Gill Coat]], a [[Gill Gugel]], [[Gill Legs]] and a [[Terra Amulet]] for protection because his [[Groundshaker]] beam always does a lot of damage.<br>'''[[Paladin]]s''' should avoid his spark [[Berserk]] because it drains [[Distance Fighting]] skill and make sure to avoid his [[Groundshaker]] beam as well."
+}

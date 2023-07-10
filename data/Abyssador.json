@@ -1,0 +1,84 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%",
+    "notes": "Abyssador is the hardest of the [[Warzone]] bosses.",
+    "isarenaboss": "no",
+    "walksthrough": "?",
+    "hp": "340000",
+    "speed": "230",
+    "abilities": "{{Ability List\n |{{Melee|0-1400+}}\n |{{Ability|[[Invisible]]||invisible}}\n |{{Ability|Poisoning Bomb||poisoned}}\n |{{Ability|Earth Wave|500-1100+|earth}}\n |{{Ability|Earth Bomb around itself|300-700+|earth}}\n |{{Ability|Distance Explosion Attack|300-600+|physical}}\n |{{Ability|Stone Shower Beam|500-1200+}}\n |{{Ability|Death Bomb|?|manadrain}}\n |{{Healing|Ultimate [[Self-Healing]]|range=50000-300000, rare}}\n |{{Healing|Medium [[Self-Healing]]|30000-40000, semi-rarely}}\n |{{Healing|Light [[Self-Healing]]|3000-10000, often}}\n |{{Debuff2|distance=yes}}\n |{{Debuff2|melee=yes}}\n}}",
+    "pushobjects": "yes",
+    "healMod": "100%?",
+    "paraimmune": "yes",
+    "secondarytype": "Myriapods",
+    "fireDmgMod": "85%",
+    "holyDmgMod": "100%",
+    "sounds": [
+        "*** STEALTH ***",
+        "*** TIME ***",
+        "*** IMPORTANT ***",
+        "*** BRAINS *** SMALL ***",
+        "*** DEATH ***",
+        "*** FIRE *** HOME *** VICTORY ***",
+        "*** EXISTENCE *** FUTILE ***"
+    ],
+    "maxdmg": "{{Max Damage|physical=2000+|earth=3000+|manadrain=?}}",
+    "pushable": "no",
+    "implemented": "9.60",
+    "cooldown": "20",
+    "loot": [
+        {
+            "itemName": "Abyssador's Lash",
+            "rarity": "always"
+        },
+        {
+            "itemName": "Crystal Crossbow"
+        },
+        {
+            "itemName": "Crystalline Axe"
+        },
+        {
+            "itemName": "Crystalline Sword"
+        },
+        {
+            "itemName": "Decorative Ribbon"
+        },
+        {
+            "itemName": "Mycological Bow"
+        },
+        {
+            "itemName": "Mycological Mace"
+        },
+        {
+            "itemName": "Shiny Blade"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "50000",
+    "creatureclass": "Elementals",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "100%<?",
+    "bosstiaryclass": "Archfoe",
+    "primarytype": "Bio-Elementals",
+    "spawntype": [
+        "Unique",
+        "Triggered",
+        "Unblockable"
+    ],
+    "race_id": "887",
+    "senseinvis": "yes",
+    "actualname": "Abyssador",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%",
+    "convince": "--",
+    "name": "Abyssador",
+    "isboss": "yes",
+    "behaviour": "Has a very erratic retargeting behavior. Goes invisible often.",
+    "location": "[[Warzone 3]].",
+    "iceDmgMod": "85%",
+    "strategy": "Trap it in the western part of his dungeon.<br />'''[[Mage]]s''' should use [[Sudden Death Rune]]s and summon [[Fire Elemental]]s or [[Fire Devil]]s to deal more damage.<br />'''[[Paladin]]s''' should use [[Infernal Bolt]]s and [[Sharpshooter]] but have to be wary of the distance attacks.",
+    "energyDmgMod": "85%",
+    "deathDmgMod": "85%"
+}

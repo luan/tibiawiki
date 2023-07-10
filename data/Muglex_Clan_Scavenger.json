@@ -1,0 +1,86 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "muglex clan scavengers",
+    "hpDrainDmgMod": "100%?",
+    "notes": "Spawns with other Muglex Clan goblins ([[Muglex Clan Footman|Footmen]], [[Muglex Clan Assassin|Assassins]]) and, on the deeper floors of their cave, [[Lesser Fire Devil]]s, [[Crazed Dwarf|Crazed Dwarves]] and [[Dwarf Miner]]s. They aren't particularly strong but they do come in groups.",
+    "walksthrough": "None",
+    "hp": "60",
+    "speed": "66",
+    "abilities": "{{Ability List| {{Melee|?}}|{{Ability|possibly more|element=?}} }}",
+    "pushobjects": "No",
+    "healMod": "100%?",
+    "paraimmune": "no",
+    "fireDmgMod": "100%?",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "?",
+    "pushable": "Yes",
+    "implemented": "10.55",
+    "loot": [
+        {
+            "amount": "0-12",
+            "itemName": "Gold Coin"
+        },
+        {
+            "itemName": "Dagger"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "Small Stone"
+        },
+        {
+            "amount": "0-3",
+            "itemName": "Fish"
+        },
+        {
+            "itemName": "Small Axe"
+        },
+        {
+            "itemName": "Bone Club"
+        },
+        {
+            "itemName": "Short Sword"
+        },
+        {
+            "itemName": "Bone"
+        },
+        {
+            "itemName": "Mouldy Cheese"
+        },
+        {
+            "itemName": "Leather Armor"
+        },
+        {
+            "itemName": "Leather Helmet"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "37",
+    "creatureclass": "Humanoids",
+    "earthDmgMod": "100%?",
+    "physicalDmgMod": "100%?",
+    "primarytype": "Goblins",
+    "spawntype": [
+        "Regular",
+        "Unblockable"
+    ],
+    "race_id": "1079",
+    "senseinvis": "no",
+    "article": "a",
+    "actualname": "muglex clan scavenger",
+    "illusionable": "yes",
+    "armor": "7",
+    "drownDmgMod": "100%?",
+    "convince": "310",
+    "name": "Muglex Clan Scavenger",
+    "isboss": "no",
+    "behaviour": "Unknown",
+    "location": "[[Dawnport]].",
+    "iceDmgMod": "100%?",
+    "strategy": "Focus on the [[Muglex Clan Assassin|assassins]] first because they are more threatening. Otherwise, just kill them using your standard technique.",
+    "energyDmgMod": "100%?",
+    "deathDmgMod": "100%?"
+}

@@ -1,0 +1,63 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "Appears during [[The Lightbearer]] event.",
+    "walksthrough": "Fire",
+    "hp": "3550",
+    "abilities": "{{Ability List\n |{{Melee|0-350}} \n |{{Ability|Life Drain Sudden Death|200-250?|element=life drain\n  |scene={{Scene|spell=3sqmstrike|caster=Duskbringer|effect=Death Effect|missile=Death Missile (Large)|missile_direction=south-east|missile_distance=3/3}}}}\n |{{Ability|Life Drain Hit|200-300?|element=life drain\n  |scene={{Scene|spell=3sqmstrike|caster=Duskbringer|effect=Blood Effect|missile=Death Missile|damage_effect=Red Sparkles Effect|missile_direction=south-east|missile_distance=3/3}}}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "?",
+    "secondarytype": "Event Creatures",
+    "holyDmgMod": "70%",
+    "maxdmg": "900?",
+    "pushable": "?",
+    "implemented": "8.50",
+    "loot": [
+        {
+            "itemName": "Midnight Shard",
+            "rarity": "uncommon"
+        }
+    ],
+    "walksaround": "Energy",
+    "exp": "2600",
+    "mitigation": "1.04",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "duskbringer",
+    "illusionable": "no",
+    "armor": "42",
+    "convince": "--",
+    "name": "Duskbringer",
+    "isboss": "no",
+    "iceDmgMod": "110%",
+    "energyDmgMod": "90%",
+    "deathDmgMod": "105%",
+    "status": "event",
+    "plural": "duskbringers",
+    "hpDrainDmgMod": "100%",
+    "usespells": "yes",
+    "occurrence": "Very Rare",
+    "speed": "185",
+    "pushobjects": "?",
+    "fireDmgMod": "60%",
+    "sounds": [
+        "Death!",
+        "Come a little closer!",
+        "The end is near!"
+    ],
+    "bestiaryclass": "Demon",
+    "creatureclass": "The Undead",
+    "earthDmgMod": "20%",
+    "physicalDmgMod": "90%",
+    "primarytype": "Undead Humanoids",
+    "spawntype": [
+        "Event"
+    ],
+    "race_id": "581",
+    "bestiarylevel": "Medium",
+    "senseinvis": "?",
+    "drownDmgMod": "100%",
+    "behaviour": "They retarget easily and will run through fire to get to their target.",
+    "location": "[[Magician Quarter]] ([[Yalahar]]) one floor down around the [https://tibia.fandom.com/wiki/Mapper?coords=128.58-121.54-8-4-1-1 the lightbringer's basin].",
+    "strategy": "They don't pass through energy, so bring some walls or bombs to help clearing the place. Be careful while going down the stairs, sometimes they do nasty combos when there are a lot of them spawned and it can become a dangerous situation. Mages should use [[Mana Shield]] and [[Paladin]]s can go down with an [[Energy Ring]] equipped to evaluate the situation. If it is the case enter through [https://tibia.fandom.com/wiki/Mapper?coords=128.72-121.58-7-4-1-1 the other stairs], fight your way around and lure with caution to get to the [[Lightbringer's Basin|basin]]."
+}

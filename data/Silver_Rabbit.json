@@ -1,0 +1,67 @@
+{
+    "summon": "220",
+    "templateType": "Creature",
+    "notes": "Winter version of the [[Rabbit]]. In the days surrounding the [[Wikipedia:Easter|Easter]] holiday, silver rabbits can also drop [[Coloured Egg (Blue)|Blue]], [[Coloured Egg (Green)|Green]], [[Coloured Egg (Purple)|Purple]], [[Coloured Egg (Red)|Red]] and [[Coloured Egg (Yellow)|Yellow Coloured Eggs]].",
+    "walksthrough": "None",
+    "hp": "15",
+    "abilities": "{{Ability List|{{Haste}}}}",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "holyDmgMod": "100%",
+    "maxdmg": "{{Max Damage|physical=0}}",
+    "pushable": "?",
+    "implemented": "8.00",
+    "loot": [
+        {
+            "amount": "1-2",
+            "itemName": "Meat",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Silky Fur",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Carrot",
+            "rarity": "uncommon"
+        }
+    ],
+    "walksaround": "Fire, Energy, Poison",
+    "exp": "0",
+    "mitigation": "0.05",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "silver rabbit",
+    "illusionable": "yes",
+    "armor": "1",
+    "convince": "220",
+    "name": "Silver Rabbit",
+    "isboss": "no",
+    "iceDmgMod": "100%",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "100%",
+    "plural": "silver rabbits",
+    "hpDrainDmgMod": "100%",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "The Silver Rabbit is the northern cousin of the common brown rabbit. It's a harmless and peaceful herbivore that survives even the hazards of the icy north. Its survivability is actually that good that it might have had become a plague in this area were it not for the numerous hunters that prey on this species.",
+    "speed": "92",
+    "pushobjects": "?",
+    "fireDmgMod": "100%",
+    "sounds": [
+        ""
+    ],
+    "bestiaryclass": "Mammal",
+    "creatureclass": "Mammals",
+    "earthDmgMod": "100%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Glires",
+    "race_id": "327",
+    "bestiarylevel": "Trivial",
+    "senseinvis": "no",
+    "drownDmgMod": "100%",
+    "bestiaryname": "silverrabbit",
+    "behaviour": "Runs away from you.",
+    "location": "A lot of places on the [[Ice Islands]] and one on [[Rookgaard]] (unreachable).",
+    "strategy": "Catch them if you can."
+}

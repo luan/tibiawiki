@@ -1,0 +1,118 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "walksthrough": "?",
+    "hp": "1500",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "The Orc Cult Inquisitor is a stronger version of [[Orc Berserker]]s.",
+    "speed": "125",
+    "abilities": "{{Ability List|{{Melee|0-400?}}|{{Haste}}}}",
+    "pushobjects": "?",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "fireDmgMod": "100%",
+    "holyDmgMod": "90%",
+    "sounds": [
+        "You unorcish scum will die!"
+    ],
+    "maxdmg": "{{Max Damage|physical=400}}",
+    "pushable": "?",
+    "implemented": "11.40.5409",
+    "bestiaryclass": "Humanoid",
+    "loot": [
+        {
+            "amount": "1-228",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Strong Health Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Bug Meat",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Orcish Gear",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Cultish Robe",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Halberd",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Ham",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Orcish Axe",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "Red Mushroom",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Orc Leather",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Orc Tooth",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Battle Axe",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Black Pearl",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-5",
+            "itemName": "Small Ruby",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Berserk Potion",
+            "rarity": "semi-rare"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "1150",
+    "creatureclass": "Humanoids",
+    "earthDmgMod": "110%",
+    "mitigation": "1.46",
+    "physicalDmgMod": "100%",
+    "primarytype": "Orcs",
+    "spawntype": [
+        "Regular"
+    ],
+    "race_id": "1505",
+    "attacktype": "Melee",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "article": "an",
+    "actualname": "orc cult inquisitor",
+    "illusionable": "no",
+    "armor": "40",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "bestiaryname": "orccultinquisitor",
+    "name": "Orc Cult Inquisitor",
+    "behaviour": "They are similar to [[Orc Berserker]]s but much stronger. They fight to the death.",
+    "location": "[[Edron Orc Cave]].",
+    "iceDmgMod": "100%",
+    "strategy": "Unknown",
+    "energyDmgMod": "85%",
+    "deathDmgMod": "110%"
+}

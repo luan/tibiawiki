@@ -1,0 +1,74 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "You can [[Draptor (Mount)|tame]] them using a [[Harness]] or [[Music Box]]. \n<gallery captionalign=\"center\" widths=\"300\" heights=\"300\" mode=\"nolines\">\nKilled Draptors!.jpg|Dead Draptors\n</gallery>",
+    "walksthrough": "Energy, Fire",
+    "hp": "3000",
+    "abilities": "{{Ability List| {{Melee|0-230}}|{{Ability|[[Energy Damage|Energy Hit]]|197-300?|element=energy}}|{{Ability|[[Berserk|Yellow Energy Berserk]]|130-210+|element=energy}}|{{Ability|Infrequent [[Fire Wave]]|98-120?|element=fire}}|{{Healing|range=200-250}}|{{Ability|[[Haste]]|red music?|element=haste}} }}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "holyDmgMod": "100%",
+    "maxdmg": "600+",
+    "pushable": "no",
+    "implemented": "8.70",
+    "loot": [
+        {
+            "amount": "1-214",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Draptor Scales",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Strong Health Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Strong Mana Potion",
+            "rarity": "uncommon"
+        }
+    ],
+    "walksaround": "Poison",
+    "exp": "2400",
+    "mitigation": "0.91",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "draptor",
+    "illusionable": "no",
+    "armor": "40",
+    "convince": "--",
+    "name": "Draptor",
+    "isboss": "no",
+    "iceDmgMod": "100%",
+    "energyDmgMod": "0%",
+    "deathDmgMod": "100%",
+    "plural": "draptors",
+    "hpDrainDmgMod": "100%",
+    "usespells": "yes",
+    "occurrence": "Very Rare",
+    "bestiarytext": "The Draptor is a dangerous predator that is another result of the Zaoan breeding techniques. In the past it was common that proud leaders rode on powerful bred Draptors into battle or on parades. With the rise of the dragon kings it was seen as unfitting that a lizard would ride on a creature that somewhat resembled a majestic dragon.<br />Nowadays, the Draptor is mostly a beast of war. Sometimes the trained Draptors are used to boost the ranks of the lizard armies. Since a Draptor is prone to fits of berserk rage, this is not a strategy which should be applied lightly. When the Draptor can be kept in line though, it is a powerful addition to the troops. With shredding claws and dreadful jaws, they tear and bite through the ranks of their enemies.<br />Since the Draptors lay eggs but do not breed them, they seek out hidden spots to place their clutches. Again and again such hidden eggs are found by travelling adventurers who take them with them as food or out of curiosity without knowing what they have found there. That way the eggs of the Draptors sometimes travel to foreign lands. It is only a question of time until this aggressive predator will conquer new areas where it will assert its instinctive behaviour and cause great damage.",
+    "speed": "340",
+    "pushobjects": "yes",
+    "fireDmgMod": "50%",
+    "sounds": [
+        "EEHEEHEEHEEH",
+        "SCREEEEECH",
+        "GRRR"
+    ],
+    "runsat": "997, 1055",
+    "bestiaryclass": "Reptile",
+    "creatureclass": "Reptiles",
+    "earthDmgMod": "120%",
+    "physicalDmgMod": "120%",
+    "primarytype": "Dragons",
+    "race_id": "695",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%",
+    "bestiaryname": "draptor",
+    "behaviour": "Very fast, comparable to a level 180 [[character]].",
+    "location": "North east of [[Dragonblaze Peaks]] in [[Zao]] during the announced dragons raid, up to 10 draptors per raid in [http://tibia.wikia.com/wiki/Mapper?coords=129.235-121.223-7-2-1-0&mark1=129.210-121.212-7-9&mark2=129.194-121.251-7-9&mark3=129.165-122.4-7-9&mark4=130.6-122.17-7-9&mark5=130.51-121.210-7-9&mark6=129.230-121.186-7-9&mark7=130.11-121.182-7-9 these spots]. Furthermore, 2 to 4 Draptors may also appear inside the [[Emperor's Castle]] in [[Razachai]] in two diferent [https://tibia.fandom.com/wiki/Mapper?coords=129.55-121.127-10-4-1-1&mark1=129.84-121.105-10-9&mark2=129.31-121.140-10-9 rooms]. This raid is independent of Dragons raid and happens every 5 to 7 days.",
+    "strategy": "They are somewhat similar to [[Wyrms]], but a bit stronger and faster."
+}

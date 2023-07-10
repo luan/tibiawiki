@@ -1,0 +1,87 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "The Bloodweb",
+    "hpDrainDmgMod": "100%?",
+    "notes": "[[Crystal Spider]]'s boss. Part of the [[Paw and Fur Society]] tasks of [[Grizzly Adams]].\n{{JSpoiler|\nPart of the [[Killing in the Name of... Quest]].<br />\nWhen you kill The [[Bloodweb]] you'll receive the achievement [[Arachnoise]].<br />\nThe portal which leads to the boss is inside the [[Formorgar Glacier]], [http://tibia.wikia.com/wiki/Mapper?coords{{=}}125.123-121.210-4-2-1-1 here].\n}}",
+    "walksthrough": "Fire, Poison",
+    "hp": "1750",
+    "speed": "?",
+    "abilities": "{{Ability List| {{Melee|0-280|poison=8}}|{{Ability|[[Ice Missile]]|50-210|element=ice}}|{{Ability|[[Paralyze|Paralyzing Ice Bomb]]|element=paralyze}}|{{Ability|[[Paralyze|Paralyzing snowball]]|element=paralyze}}|{{Haste}} }}",
+    "pushobjects": "yes",
+    "healMod": "100%?",
+    "paraimmune": "yes",
+    "fireDmgMod": "0%?",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        "Screeech!"
+    ],
+    "maxdmg": "?",
+    "pushable": "no",
+    "runsat": "0",
+    "implemented": "9.20",
+    "loot": [
+        {
+            "amount": "1-9",
+            "itemName": "Platinum Coin",
+            "rarity": "always"
+        },
+        {
+            "itemName": "Ice Cube"
+        },
+        {
+            "itemName": "Strong Mana Potion"
+        },
+        {
+            "amount": "0-3",
+            "itemName": "Spider Silk"
+        },
+        {
+            "itemName": "Knight Armor"
+        },
+        {
+            "itemName": "Knight Legs"
+        },
+        {
+            "itemName": "Sapphire Hammer"
+        },
+        {
+            "itemName": "Glacier Kilt"
+        },
+        {
+            "itemName": "Glacier Mask"
+        },
+        {
+            "itemName": "Sai"
+        },
+        {
+            "itemName": "Jewelled Backpack"
+        },
+        {
+            "itemName": "Shard"
+        },
+        {
+            "itemName": "Time Ring"
+        }
+    ],
+    "walksaround": "Energy",
+    "exp": "1450",
+    "creatureclass": "Invertebrates",
+    "earthDmgMod": "80%?",
+    "physicalDmgMod": "100%?",
+    "primarytype": "Arachnids",
+    "race_id": "756",
+    "senseinvis": "yes",
+    "actualname": "The Bloodweb",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "The Bloodweb",
+    "isboss": "yes",
+    "location": "[[Formorgar Glacier]].",
+    "iceDmgMod": "0%?",
+    "strategy": "Treat it like a [[Crystal Spider]] with twice its usual strength. It will be easier for [[Mage]]s and [[Paladin]]s to defeat it if they use an [[Energy Wall Rune]].",
+    "energyDmgMod": "120%?",
+    "deathDmgMod": "100%?"
+}

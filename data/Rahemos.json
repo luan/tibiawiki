@@ -1,0 +1,93 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "Rahemos, a great conjurer, was sentenced to be locked away, after his part in the conspiracies against the pharaoh. He is guarded by a [[Warlock]] and a [[Magicthrower]]. He spawns even with players in his room.\n\n{{JSpoiler|One of the Pharaohs of [[The Ancient Tombs Quest]].}}",
+    "walksthrough": "Fire, Energy, Poison",
+    "hp": "3700",
+    "speed": "220",
+    "abilities": "{{Ability List\n |{{Melee|0-130|poison=4}}\n |{{Ability|Life drain strike|50-750|life drain\n  |scene={{Scene|spell=1sqmstrike|caster=Rahemos|missile_direction=south-east|missile_distance=2/2}}}}\n |{{Ability|Energy Missile|200-600|energy\n  |scene={{Scene|spell=7sqmstrike|effect=Blue Electricity Effect|caster=Rahemos|missile=Energy Missile|missile_direction=south-east|missile_distance=7/7}}}}\n |{{Ability|Death Missile|200-600|death\n  |scene={{Scene|spell=7sqmstrike|effect=Death Effect|caster=Rahemos|missile=Death Missile|missile_direction=south-east|missile_distance=7/7}}}}\n |{{Summon|demon|1}}\n |{{Ability|Drunkenness|50 seconds|drunk\n  |scene={{Scene|spell=7sqmstrike|effect=Teleport Effect|caster=Rahemos|missile=Energy Missile|missile_direction=south-east|missile_distance=7/7}}}}\n |{{Ability|Paralyze|210-230 points for 50 seconds|paralyze\n  |scene={{Scene|spell=7sqmstrike|effect=Red Sparkles Effect|caster=Rahemos|missile_direction=south-east|missile_distance=7/7}}}}\n |{{Outfit|no|demon|scene={{Scene|spell=buffspell|effect=Blue Sparkles Effect|caster=Rahemos|effect_on_caster=yes}}}}\n |{{Outfit|yes|pig|scene={{Scene|spell=7sqmstrike|effect=Blue Sparkles Effect|caster=Rahemos|missile_direction=south-east|missile_distance=7/7}}}}\n |{{Healing|range=200-500|scene={{Scene|spell=buffspell|effect=Blue Sparkles Effect|caster=Rahemos|effect_on_caster=yes}}}}\n}}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "yes",
+    "secondarytype": "Shapeshifters",
+    "fireDmgMod": "5%",
+    "holyDmgMod": "101%>?",
+    "sounds": [
+        "It's not a trick, it's Rahemos.",
+        "Abrah Kadabrah!",
+        "It's a kind of magic.",
+        "Meet my friend from hell!",
+        "I will make you believe in magic.",
+        "Nothing hidden in my wrappings."
+    ],
+    "maxdmg": "{{Max Damage|physical=800|energy=600|death=500|earth=3|summons=1530}}",
+    "pushable": "?",
+    "implemented": "7.3",
+    "loot": [
+        {
+            "amount": "0-242",
+            "itemName": "Gold Coin"
+        },
+        {
+            "itemName": "Ancient Rune",
+            "rarity": "always"
+        },
+        {
+            "itemName": "Great Mana Potion"
+        },
+        {
+            "amount": "0-3",
+            "itemName": "Small Amethyst"
+        },
+        {
+            "itemName": "Ring of Healing",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Magician Hat",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Violet Gem",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Mini Mummy",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Orb",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Twin Axe",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Crystal Wand",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "None.",
+    "exp": "3100",
+    "creatureclass": "The Undead",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "140%",
+    "bosstiaryclass": "Bane",
+    "primarytype": "Pharaohs",
+    "race_id": "88",
+    "senseinvis": "yes",
+    "illusionable": "no",
+    "armor": "40",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Rahemos",
+    "isboss": "no",
+    "behaviour": "Malicious, he will make all efforts to destroy intruders.",
+    "location": "[[Oasis Tomb]].",
+    "iceDmgMod": "0%",
+    "strategy": "He uses strong magic attacks, so use [[blocker]]s to run around him and [[distance]] fighters to fire on him. Due to his high magic resistance and notable weakness to physical damage, it is highly recommended for mages to use [[Explosion]] runes (Druids can combine this with [[Physical Strike]]). Higher level knights can easily solo Rahemos with a couple of quick [[Fierce Berserk]]s, [[Front Sweep]]s and an [[Annihilation]] spell. A [[Demon Skeleton]] can be summoned to draw attention from the [[Magicthrower]] as well as deal extra damage to Rahemos.",
+    "energyDmgMod": "5%",
+    "deathDmgMod": "0%"
+}

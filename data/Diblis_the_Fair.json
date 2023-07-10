@@ -1,0 +1,87 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "Diblis The Fair",
+    "hpDrainDmgMod": "0%",
+    "notes": "May spawn with 0-3 [[Banshee]]s.<gallery mode=\"nolines\">File:Diblis The Fair.jpg|[[Diblis The Fair]].\nFile:Spellbook lost soul.jpg|[[Diblis The Fair]] with a [[Spellbook of Lost Souls]] in the loot. \n</gallery>",
+    "walksthrough": "?",
+    "hp": "1500",
+    "speed": "?",
+    "abilities": "{{Ability List|{{Melee|0-300}}|{{Summon|Banshee|4}}|{{Healing}}|{{Ability|Paralyze||slowed}}|{{Ability|Invisibility||invisible}}|{{Ability|Makes you drunk||drunk}}|{{Ability|Sudden Death|0-200|death}}}}",
+    "pushobjects": "yes",
+    "healMod": "100%?",
+    "paraimmune": "yes",
+    "fireDmgMod": "100%",
+    "holyDmgMod": "105%",
+    "sounds": [
+        "Not in my face you barbarian!",
+        "I envy you to be slain by someone as beautiful as me.",
+        "I will drain your ugly corpses of the last drop of blood.",
+        "My brides will feast on your souls!"
+    ],
+    "maxdmg": "{{Max Damage|physical=300|death=200|summons=2600}}",
+    "pushable": "no",
+    "implemented": "8.20",
+    "loot": [
+        {
+            "amount": "0-99",
+            "itemName": "Gold Coin"
+        },
+        {
+            "amount": "0-5",
+            "itemName": "Platinum Coin"
+        },
+        {
+            "itemName": "Blood Preservation"
+        },
+        {
+            "itemName": "Skull (Item)"
+        },
+        {
+            "itemName": "Black Pearl",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Ring of Healing",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Strong Health Potion",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Vampire Shield",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Spellbook of Lost Souls",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Vampire Lord Token",
+            "rarity": "always"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "1800",
+    "creatureclass": "The Undead",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "60%",
+    "bosstiaryclass": "Nemesis",
+    "primarytype": "Vampires",
+    "race_id": "477",
+    "senseinvis": "yes",
+    "actualname": "Diblis The Fair",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Diblis the Fair",
+    "isboss": "yes",
+    "behaviour": "Run when is on yellow health.",
+    "location": "[[Nargor Undead Cave]] ({{Mapper Coords|125.9|128.28|10|2|text=here}}).",
+    "iceDmgMod": "100%",
+    "strategy": "'''[[Mage]]s''' should have a blocker while using [[Energy Damage]]/[[Fire Damage]] based [[Spells]] and [[Magic Shield]].<br />\n'''[[Paladin]]s''' should also have a blocker and use [[Divine Missile]] to kill it fast.<br />\n'''[[Knight]]s''' should have a shooter and use using either [[Berserk]] or [[Fierce Berserk]] when the banshees reach you. Use [[Inflict Wound]] on him right away because he will go invisible a lot and run with a lot of health left.",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "0%"
+}

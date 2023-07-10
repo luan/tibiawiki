@@ -1,0 +1,191 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "The most powerful regular creature between the December Updates of 2006 and 2013, this spot has been taken over by [[Sight of Surrender]]. In the official website it says that it can slash the head of a [[Dragon]] with one hit, while fighting back a half-dozen of other [[Dragon]]s.",
+    "walksthrough": "Fire, Poison",
+    "hp": "20000",
+    "abilities": "{{Ability List\n |{{Melee|0-700}}\n |{{Ability|Throws [[Boulders]]|0-600|element=physical\n  |scene={{Scene|spell=3sqmstrike|caster=Juggernaut|effect=Explosion Effect|missile=Stone Missile |damage_effect=Blood Effect|missile_direction=south-east|missile_distance=3/3}}}}\n |{{Healing|Slow [[Self-Healing]]|400-700}}\n |{{Haste|[[Strong Haste]]}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "holyDmgMod": "105%",
+    "maxdmg": "{{Max Damage|physical=1300}}",
+    "pushable": "?",
+    "implemented": "7.9",
+    "loot": [
+        {
+            "amount": "1-194",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-15",
+            "itemName": "Platinum Coin",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-8",
+            "itemName": "Ham",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Demonic Essence",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Soul Orb",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "Great Mana Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "Great Health Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-15",
+            "itemName": "Onyx Arrow",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-10",
+            "itemName": "Assassin Star",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-4",
+            "itemName": "Flask of Demonic Blood",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-5",
+            "itemName": "Small Topaz",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-5",
+            "itemName": "Small Ruby",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-5",
+            "itemName": "Small Amethyst",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-5",
+            "itemName": "Small Emerald",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-5",
+            "itemName": "Small Diamond",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Giant Shimmering Pearl (Green)",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Red Gem",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Gold Ingot",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Spiked Squelcher",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Titan Axe",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Knight Armor",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Green Gem",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "War Axe",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Violet Gem",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Golden Armor",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Mastermind Shield",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Demonbone Amulet",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Closed Trap",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Heavy Mace",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Energy",
+    "exp": "11200",
+    "mitigation": "1.74",
+    "attacktype": "Melee",
+    "history": "During update {{Update|10.3}} the following changes to its loot were made:\n* Juggernauts now drop up to 15 [[Platinum Coin]]s. Previously they dropped up to 7.\n* Juggernauts now drop [[War Axe]]s.\n\nIts experience was decreased from 14,000 to 4,900 with the first batch of changes of [[Updates/12.31|Update 12.31]]. It was later increased to 11,200 with the second batch of changes.",
+    "article": "a",
+    "actualname": "juggernaut",
+    "illusionable": "no",
+    "armor": "70",
+    "convince": "--",
+    "name": "Juggernaut",
+    "isboss": "no",
+    "iceDmgMod": "90%",
+    "energyDmgMod": "110%",
+    "deathDmgMod": "100%",
+    "plural": "juggernauts",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "If there is a seemingly unstoppable force in the ranks of demon kind, it is the infamous Juggernaut. Thought to become extinct in the great wars of the gods, recent sightings of Juggernauts have proven those rumours wrong. Raised in the playpens of the deepest hells, where only the most powerful can survive, about 90% of the Juggernaut population is killed before it reaches adulthood. Those who are not torn into pieces by their merciless brethren or other creatures, grow to enormous, frightening killing machines. Juggernauts are known to be able to slash the head of a dragon with one hit, while fighting back a half-dozen of other dragons. The earth trembles where a Juggernaut walks, heralding the incoming of doom. Seemingly being made up only of armor and muscles, the Juggernaut is incredibly powerful and fast, killing the first opponent and walking to the next in a mere blink. Serving as one-creature armies, the Juggernauts are some of the most powerful weapons at the disposal of the demonlords.",
+    "speed": "170",
+    "pushobjects": "?",
+    "fireDmgMod": "70%",
+    "sounds": [
+        "RAAARRR!",
+        "GRRRRRR!",
+        "WAHHHH!"
+    ],
+    "bestiaryclass": "Demon",
+    "creatureclass": "Demons",
+    "earthDmgMod": "80%",
+    "physicalDmgMod": "70%",
+    "primarytype": "Demons",
+    "spawntype": [
+        "Regular",
+        "Unblockable"
+    ],
+    "race_id": "296",
+    "bestiarylevel": "Hard",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "juggernaut",
+    "behaviour": "It only wishes death to intruders of it's domain, so it will charge on you with all haste.",
+    "location": "Deep in [[Pits of Inferno]] ([[Apocalypse]]'s throne room), [[Demon Forge#The_Dark_Path:_Ushuriel|The Dark Path]], [[Demon Forge#The_Blood_Halls:_Madareth|The Blood Halls]], [[Demon Forge#The_Vats:_Latrivan_.26_Golgordan|The Vats]], [[Demon Forge#The_Hive:_Hellgorak|The Hive]], [[Demon Forge#The_Shadow_Nexus|The Shadow Nexus]], a room deep in [[Formorgar Mines]], [[Roshamuul Prison]], [[Oramond Dungeon]], [[Grounds of Destruction]] and [[Halls of Ascension]].",
+    "strategy": "The Juggernaut's strategy is fairly easy. All that is needed is a blocker with very high skills, health over 2500, and a mage to heal the blocker with [[Ultimate Healing|UH]] or a [[druid]] with [[Heal Friend]] spell, while the rest of party attacks the Juggernaut with [[SD]] or energy based spells. Also the knight can use [[Protector]] and have 190+ shielding, then the hits go down to an average of 450~ and can heal with [[Wound Cleansing]] and some [[Great Health Potion|great potions]], while the team kills it. They are found in proximity of [[Fury|Furies]], [[Destroyer]]s and [[Demon]]s, so you can't hunt only Juggernauts. The best place to hunt plain Juggernauts would be the single spawn. They are also very fast, but since they have no wave [[attack]]s you can let the blocker [[lure]] them to a small 1sqm wide bridge in the [[Apocalypse]]'s throne room, and just let the shooters attack it with [[SD]]s.  The Juggernaut's boss is [[Massacre]] also located in [[Ruthless Seven|Apocalypse's]] throne room."
+}

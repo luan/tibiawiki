@@ -1,0 +1,119 @@
+{
+    "summon": "620",
+    "templateType": "Creature",
+    "notes": "This is an excellent [[summon]] because its immune to many elements, its used a lot for hunting [[Dragon]]s, [[Wyvern]]s, [[Djinn]]s, [[Necromancer]]s, [[Hydra]]s, [[Infernalist]]s and [[Nightmare]]s.",
+    "walksthrough": "Fire, Poison",
+    "hp": "400",
+    "abilities": "{{Ability List\n |{{Melee|0-185}}\n |{{Ability|Death Hit|30-50|death|scene={{Scene|spell=1sqmstrike|caster=Demon Skeleton|missile_direction=south-east|missile_distance=2/2|effect=Cloud Effect}}}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "holyDmgMod": "125%",
+    "maxdmg": "{{Max Damage|physical=185|death=50}}",
+    "pushable": "no",
+    "usedelements": "Physical > Death",
+    "implemented": "5.0",
+    "loot": [
+        {
+            "amount": "1-75",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Demonic Skeletal Hand",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "Throwing Star",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Health Potion",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Mana Potion",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Torch",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Battle Shield",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Iron Helmet",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Battle Hammer",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Black Pearl",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Small Ruby",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Mysterious Fetish",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Mind Stone",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Guardian Shield",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Energy",
+    "exp": "240",
+    "mitigation": "0.91",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "demon skeleton",
+    "illusionable": "yes",
+    "armor": "25",
+    "convince": "620",
+    "name": "Demon Skeleton",
+    "isboss": "no",
+    "iceDmgMod": "100%",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "0%",
+    "plural": "demon skeletons",
+    "hpDrainDmgMod": "0%",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "Demon Skeletons are undead monsters that live in the deepest dungeons of Tibia. Nobody knows where these creatures come from. They are much stronger and faster than normal skeletons - from which they differ externally only by colour. Like them, they can drain life energy off their opponents.",
+    "speed": "90",
+    "pushobjects": "yes",
+    "fireDmgMod": "0%",
+    "sounds": [
+        ""
+    ],
+    "bestiaryclass": "Undead",
+    "creatureclass": "The Undead",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Skeletons",
+    "spawntype": [
+        "Regular",
+        "Raid",
+        "Unblockable"
+    ],
+    "race_id": "37",
+    "bestiarylevel": "Medium",
+    "senseinvis": "no",
+    "drownDmgMod": "0%",
+    "bestiaryname": "demonskeleton",
+    "behaviour": "They are quite slow. This creature will retarget, kill weaker monsters and push objects to get to you.",
+    "location": "[[Triangle Tower]], [[Hellgate]], [[Draconia]], [[Plains of Havoc]], [[Pits of Inferno]], [[Thais]] [[Ancient Temple]], [[Fibula Dungeon]], [[Mintwallin]], [[Mount Sternum]] hidden cave, [[Drefia]], [[Ghost Ship]], [[Edron]] [[Hero Cave]], [[Shadowthorn]], [[Elvenbane]], [[Ghostlands]], [[Femor Hills]], [[White Flower Temple]], [[Isle of the Kings]], [[Dark Cathedral]], [[Ankrahmun Tombs]], [[Ramoa]], [[Helheim]], [[Vengoth]], [[Upper Spike]], [[Lion's Rock]].",
+    "strategy": "If a '''[[Knight]]''' is using a one-handed weapon, he/she can kill a Demon Skeleton on level 30 and skills 65/65 quite easily. Just bring a few [[Health Potion]]s for safety reasons.<br> \nA '''[[Paladin]]''' could hunt these with a distance [[level]] of 60. Demon Skeletons are slow, so lower [[skills]] wouldn't be a safety concern; you'd merely waste too many [[bolt]]s for the [[loot]] they give. To reduce the waste, you can use [[Enchanted Spear]], because it has a stronger attack and is hard to break. The [[Divine Missile]] spell works great against Demon Skeletons. Have a [[Divine Healing]] spell ready to use if they actually touch you.<br>\nA '''[[Druid]]''' or '''[[Sorcerer]]''' should either use [[Heavy Magic Missile]]s or [[Energy strike]], perhaps combined with an appropriate [[Wand]] or [[Rod]]. The [[Invisible]] spell is also useful and can save your life, since they can not see invisible creatures.<br> A [[Druid]] of [[level]] 35 or more can get much [[experience]] killing demon skeletons with [[Hailstorm Rod]] while being [[Invisible]]. [[Sorcerer]]s can do the same thing but with a [[Wand of Cosmic Energy]] or [[Wand of Starstorm]]."
+}

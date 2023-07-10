@@ -1,0 +1,64 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "It's as fast as a tarantula with haste, and has a high defense.\n<br />\n{{JSpoiler|\nPart of the [[Killing in the Name of... Quest]].\n}}",
+    "walksthrough": "?",
+    "hp": "500",
+    "speed": "?",
+    "abilities": "{{Ability List\n |{{Melee|0-140+}} (poisons up to 4hp/turn)\n |{{Haste}}\n}}",
+    "pushobjects": "yes",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "115%",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "144+",
+    "pushable": "No",
+    "implemented": "8.50",
+    "loot": [
+        {
+            "itemName": "Time Ring"
+        },
+        {
+            "itemName": "Steel Helmet"
+        },
+        {
+            "amount": "0-8",
+            "itemName": "Platinum Coin"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "Spider Silk"
+        },
+        {
+            "itemName": "Knight Legs"
+        },
+        {
+            "itemName": "Terra Hood",
+            "rarity": "semi-rare"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "240",
+    "creatureclass": "Invertebrates",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "60%?",
+    "primarytype": "Arachnids",
+    "race_id": "546",
+    "senseinvis": "yes",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Hide",
+    "isboss": "yes",
+    "behaviour": "Fights till death, like a [[Tarantula]].",
+    "location": "Its teleporter is located {{Mapper Coords|128.54|127.181|8|4|text=here}}. '''It can be very dangerous''' for lower levels to go to Hide because it is possible that 2 [[Carniphilas]] and 2 [[Tarantula]]s surround the hole.",
+    "iceDmgMod": "115%?",
+    "strategy": "Kill her like a [[Tarantula]], but be aware that she is quite a bit stronger.<br>\n'''[[Sorcerers]] & [[Druids]]''': This is an easy boss for a mage level 33 or higher, if using either wand of inferno or hailstorm rod, combined with [[Flame Strike]]. You may need to use [[Light Healing]] or [[Intense Healing]] when your health drops below 150. This creature uses [[Haste]] making it difficult to outrun, not recommended for level 20 or below. You should bring [[Mana Potion]]s as a precaution for lower levels.\n\n'''[[Paladins]]''': Just run around and kill it with [[Royal Spear]]s. When it hastes, keep running and heal with [[Light Healing|Exura]] or [[Intense Healing|Exura Gran]]. You might need some [[Mana potions]] for lower levels.\n\n'''[[Knights]]''': Stand still and kill it using [[Melee]]. It is strong to [[Physical Damage]], so it is recommended to use a fire-enchanted weapon. Knights with skills 60/60 or more shouldn't have a problem killing Hide, but it is recommended to take mana potions for [[Wound Cleansing]].",
+    "energyDmgMod": "90%",
+    "deathDmgMod": "100%?"
+}

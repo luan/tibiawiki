@@ -1,0 +1,76 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "isarenaboss": "no",
+    "walksthrough": "None.",
+    "hp": "90",
+    "abilities": "{{Ability List|{{Melee|0-40?}}|{{Ability|Earth Berserk||slowed}}|{{Ability|Throws [[Small Stone|small stones]]|0-15?}}}}",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "holyDmgMod": "100%",
+    "maxdmg": "{{Max Damage|physical=55?}}",
+    "pushable": "No",
+    "implemented": "10.10",
+    "loot": [
+        {
+            "amount": "0-27?",
+            "itemName": "Gold Coin"
+        },
+        {
+            "itemName": "Fir Cone"
+        },
+        {
+            "itemName": "Dowser"
+        },
+        {
+            "amount": "0-3",
+            "itemName": "White Mushroom"
+        },
+        {
+            "itemName": "Swampling Club"
+        },
+        {
+            "itemName": "Small Emerald"
+        }
+    ],
+    "walksaround": "Energy, Fire, Poison",
+    "exp": "45",
+    "mitigation": "0.41",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "leaf golem",
+    "illusionable": "yes",
+    "armor": "11",
+    "convince": "--",
+    "name": "Leaf Golem",
+    "isboss": "no",
+    "iceDmgMod": "105%",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "100%",
+    "plural": "leaf golems",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "Leaf Golems are a compilation of twigs, leaves and bark that are inhabited by lesser spirits of nature. Sometimes the spirits create the golems on their own, to act as a vehicle or tool to interact with the physical world. More often tough Leaf Golems are spirits that have been bound into such constructs by some druidic power. Mighty druids often employ the help of leaf golems spontaneously. They are created on the fly and often are discarded when a task has been performed. such discarded golems often disassemble on their own and the spirit is set free, sometimes they decide to roam the world on their own. Leave Golems are intelligent, but their thinking is based on the spiritual world and completely alien to the denizens of the physical world. Therefore it is impossible to communicate with them in any form. As spirits they seem to care little for the integrity of a physical body and they often seek to destroy living beings, presumably to set their seemingly entrapped spirit free. Even if they might mean no true harm, their attacks are threatening and lethal nonetheless.<br />The leaf golem is a random and undecided fighter, oblivious to what might be most effective in a given situation. On the other hand it knows little fear and does not truly understand how to stay out of harms way.<br />Sometimes druids that feel their live force wanning and their end near, choose to transfer their spirits into a prepared Leaf Golem. This golems are considerably more powerful but it is said that the inhabiting druid will eventually loose his grasp on the physical world and become a nature spirit on it's own.",
+    "speed": "68",
+    "pushobjects": "Yes",
+    "fireDmgMod": "105%",
+    "sounds": [
+        "*crackle*",
+        "*swwwwishhhh*"
+    ],
+    "runsat": "0",
+    "bestiaryclass": "Plant",
+    "creatureclass": "Elementals",
+    "earthDmgMod": "60%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Bio-Elementals",
+    "race_id": "979",
+    "bestiarylevel": "Easy",
+    "senseinvis": "no",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "leafgolem",
+    "behaviour": "They fight in close range, and push weaker creatures.",
+    "location": "Leaf dungeon in [[Hellgate]], [[Lair of the Treeling Witch]], [[Forest Fury Camp]] and in the [[Forsaken Mine/Forest Furies|Forest Fury]] version of the [[Forsaken Mine]].",
+    "strategy": "It's a rather weak creature, roughly comparable to a [[Swampling]]. Players will have little to no trouble taking it down, however, low level [[Druid]]s should avoid hunting them as they are pretty strong to earth damage."
+}

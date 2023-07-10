@@ -1,0 +1,126 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "It only drops a [[Bag You Desire]] for players with at least one of [[Goshnar's Taints]]. The more taints you have, the higher the chance. The Bag is always dropped inside a [[Reward Container]] so there's no risk of leaving it behind in the creature's corpse.",
+    "walksthrough": "Fire, Poison",
+    "hp": "32000",
+    "abilities": "{{Ability List\n |{{Melee|0-2000}}\n |{{Ability|Poison Beam|400-800|physical}}\n |{{Ability|Fire Strike|700-1500|fire}}\n |{{Healing|range=500-800}}\n |{{Ability|Death Ball|800-1300|death}}\n |{{Ability|Diagonal Death Beam|1000-1500|death}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "holyDmgMod": "125%",
+    "maxdmg": "{{Max Damage|physical=2800|fire=1500|death=2800}}",
+    "pushable": "no",
+    "implemented": "12.40.9997",
+    "loot": [
+        {
+            "itemName": "Crystal Coin",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-4?",
+            "itemName": "Ultimate Health Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Small Diamond",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Gold Ingot",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Blue Crystal Shard",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Cyan Crystal Fragment",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Red Crystal Fragment",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Magma Amulet",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Magma Boots",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Blue Gem",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Giant Sword",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "War Axe",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Mercenary Sword",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Green Crystal Fragment",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Onyx Chip",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Stone Skin Amulet",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Bag You Desire",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Energy",
+    "exp": "17430",
+    "mitigation": "3.34",
+    "attacktype": "Melee",
+    "history": "On [[Updates/12.60.10468|December 01, 2020]], its experience was decreased from 32,500 to 26,000, and its loot drop rate was decreased in 15%.\n\nIts experience was reduced from 26,000 to 22,100 and its loot in 5% with the balancing changes on {{OfficialNewsArchive|6086|April 15, 2021}}. Its experience was further reduced to 19,450 with the [[Updates/12.66.10866|changes]] on {{OfficialNewsArchive|6159|June 01, 2021}}. Its experience was later decreased to 15,560 on [[Updates/12.67.10934 (2)|July 06, 2021]]. Its loot was decreased by 10% on the same patch.\n\nOn {{OfficialNewsArchive|6555|February 01, 2022}}, its experience was increased to 17,430 while its loot was increased by 8%.",
+    "article": "an",
+    "actualname": "infernal demon",
+    "illusionable": "no",
+    "armor": "120",
+    "convince": "--",
+    "name": "Infernal Demon",
+    "isboss": "no",
+    "iceDmgMod": "120%",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "50%",
+    "plural": "infernal demons",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "The infernal demons are fresh shock troops that arrived in Zarganash only recently. Mostly oblivious to the hostile environment and haughty with the self-image of superiority, these demons fear nothing and no one and see themselves as the new rulers of the realm by right, born out of might. Little do they know yet, about the transforming horrors that await them and will erode even their arrogance. For now they delight the torture and mayhem that they can wreak in the plane, seemingly mostly unsupervised by their superiors. More often than not those superiors used the assignment to Zarganash as a method to get rid of troublemakers and malcontents of all kinds. Of course this leads to high levels of internal power struggles and its quite common that small cabals are formed to acquire some temporary power, only to be on each other's throats as soon they notice the slightest weakness of their so-called allies. While evil and treacherous in their core anyway, the madness that gets an ever growing hold on them makes them dangerous even to their own kind. While they retain their conscience they more and more become victims of sudden urges, ideas that are not entirely their own but the whispers of the realm itself. Once a demon has stayed for some time in Zarganash he is no longer welcome amongst their outside brethren and not allowed to leave. As the demonic hierarchy uses assignments to Zarganash as a means to dispose unwanted minions in a subtle and sinister way, sooner or later the consequences of an assignment to Zarganash become obvious. The more the infernal demons become aware of their abandonment, the more they indulge in orgy's of destruction and rage, often aimed at new arrivals in the realm. Whatever the original purpose of their mission might have been, it has long become meaningless to them and most of them are actively sabotaging the efforts of their former masters out of sheer spite - at least this is what they perceive as their motivation.\n\nOver time most infernal demons become permanently bound to Zarganash and transform into brachiodemoms.",
+    "speed": "200",
+    "pushobjects": "yes",
+    "fireDmgMod": "60%",
+    "sounds": [
+        "The smell of fear follows you.",
+        "Your soul will burn."
+    ],
+    "runsat": "0",
+    "bestiaryclass": "Demon",
+    "creatureclass": "Demons",
+    "earthDmgMod": "100%",
+    "physicalDmgMod": "70%",
+    "primarytype": "Demons",
+    "race_id": "1938",
+    "bestiarylevel": "Challenging",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "infernaldemon",
+    "behaviour": "It retargets very frequently and usually on the character with the lowest heal its view, in most cases, a [[Sorcerer]] or a [[Druid]].",
+    "location": "[[Claustrophobic Inferno]].",
+    "strategy": "As with other Soul War creatures, they hit extremely hard, so maximum Fire and Death Damage Protection should be used."
+}

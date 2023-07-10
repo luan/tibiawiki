@@ -1,0 +1,79 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "Weaker version of a [[Hellhound]]. Usually there's 1 [[Surprise Bag (Red)|red surprise bag]] and 0-4 [[Surprise Bag (Blue)|blue surprise bags]] in the loot.",
+    "walksthrough": "?",
+    "hp": "4500",
+    "usespells": "yes",
+    "speed": "?",
+    "abilities": "{{Ability List\n |{{Melee|0-200}}\n |{{Ability|Earth Missile|219|earth\n  |scene={{Scene|spell=7sqmstrike|caster=Fluffy|look_direction=south|effect_on_target=Poison Effect 2|missile=Poison Missile|missile_direction=south-east|missile_distance=7/7}}}}\n |{{Ability|Distance [[Fire]] attack|0-200|fire}}\n |{{Ability|[[Creature_Spells#Poison_Ball|Poisonball]]|0-350|earth}}\n |{{Ability|[[Fire Wave]]|0-?|fire}}\n |{{Ability|[[Poison Wave]]|0-?|earth}}\n}}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "secondarytype": "Canines",
+    "fireDmgMod": "100%?",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        "Wooof!"
+    ],
+    "maxdmg": "750",
+    "pushable": "?",
+    "runsat": "0",
+    "implemented": "7.92",
+    "loot": [
+        {
+            "amount": "0-109",
+            "itemName": "Gold Coin"
+        },
+        {
+            "itemName": "Bone"
+        },
+        {
+            "amount": "0-8",
+            "itemName": "Ham"
+        },
+        {
+            "amount": "0-4",
+            "itemName": "Surprise Bag (Blue)"
+        },
+        {
+            "itemName": "Surprise Bag (Red)"
+        },
+        {
+            "itemName": "Demonic Essence"
+        },
+        {
+            "itemName": "Flask of Demonic Blood"
+        },
+        {
+            "itemName": "Knight Axe"
+        },
+        {
+            "itemName": "Soul Orb"
+        },
+        {
+            "itemName": "Spike Sword"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "3550",
+    "creatureclass": "Special",
+    "earthDmgMod": "100%?",
+    "physicalDmgMod": "100%?",
+    "primarytype": "Event Creatures",
+    "attacktype": "Melee",
+    "senseinvis": "yes",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Fluffy",
+    "isboss": "yes",
+    "location": "Appeared in a raid on [[Darashia]] during [[Tibia's 10th Anniversary]], along with [[Undead Minion]]s, [[Bones]] and [[Minishabaal]].",
+    "iceDmgMod": "100%?",
+    "strategy": "Keep yourself diagonal from it to avoid the waves and shoot him with [[ammunition]] or [[runes]].",
+    "energyDmgMod": "100%?",
+    "deathDmgMod": "100%?",
+    "status": "deprecated"
+}

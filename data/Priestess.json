@@ -1,0 +1,129 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "These strong [[creatures]] are similar to [[Necromancer]]s. They can [[summon]] the [[undead]] as well.  {{JSpoiler|You may hunt 4000 of these along with [[Necromancer]]s, [[Blood Hand]]s, [[Blood Priest]]s and [[Shadow Pupil]]s as a [[Killing in the Name of... Quest/Spoiler#Unranked Tasks|task for Lugri]]. Upon completion of the task you will face [[Necropharus]]. The task can be repeated several times but only grants you 40,000 [[Experience|experience points]] from the second time and onwards.}}",
+    "walksthrough": "None",
+    "hp": "390",
+    "abilities": "{{Ability List\n |{{Melee|0-75}}\n |{{Ability|[[Sudden Death]]|0-120|element=death}}\n |{{Ability|Mana Drain|2-170|element=manadrain}}\n |{{Healing|range=34-56}}\n |{{Ability|[[Envenom]]|10 [[hp]]/turn|element=poisoned}}\n |{{Summon|Ghoul|2}}\n }}",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "holyDmgMod": "110%",
+    "maxdmg": "{{Max Damage|physical=75|death=120|manadrain=170|earth=10|summons=194}}",
+    "pushable": "?",
+    "implemented": "6.4",
+    "loot": [
+        {
+            "itemName": "Dark Rosary",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Goat Grass",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Powder Herb",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Red Apple",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Sling Herb",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Black Hood",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Wood Mushroom",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Clerical Mace",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Crystal Ball",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Cultish Robe",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Wooden Flute",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Crystal Necklace",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Hailstorm Rod",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Mana Potion",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Book (Orange)",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Talon",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Black Shield",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Piggy Bank",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Fire, Energy, Poison",
+    "exp": "420",
+    "mitigation": "1.32",
+    "attacktype": "Distance",
+    "article": "a",
+    "actualname": "priestess",
+    "illusionable": "yes",
+    "armor": "30",
+    "convince": "--",
+    "name": "Priestess",
+    "isboss": "no",
+    "iceDmgMod": "100%",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "90%",
+    "plural": "priestesses",
+    "hpDrainDmgMod": "100%",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "Priestesses came to Edron together with the monks. They are also followers of the evil god Zathroth but they roam the dungeons instead of having a home. Like the monks, they will fiercely attack every intruder into their holy realm. They are weak fighters, but have a lot of magic abilities. They shoot magic missiles at their enemies and drain mana off them, summon ghouls as reinforcements, and heal themselves.",
+    "speed": "85",
+    "pushobjects": "?",
+    "fireDmgMod": "60%",
+    "sounds": [
+        "Your energy is mine.",
+        "Now your life is come to the end, hahahaha!",
+        "Throw the soul on the altar!"
+    ],
+    "bestiaryclass": "Human",
+    "creatureclass": "Humans",
+    "earthDmgMod": "30%",
+    "physicalDmgMod": "110%",
+    "primarytype": "Necromancers",
+    "race_id": "58",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%",
+    "bestiaryname": "priestess",
+    "behaviour": "Priestesses attack enemies from distance.",
+    "location": "[[Hero Cave]], [[Drefia]] ruins, [[Lich Hell]], [[Tombs]], [[Magician Quarter]] in [[Yalahar]], [[Vengoth|Vengoth Castle]], [[Hellgorge]].",
+    "strategy": "If you are planning to use [[runes]], [[Explosion]]s are a good choice because Priestesses are weak to [[Physical Damage]]. Also, beware of the [[Mana Drain]] ability. [[Bronze Amulet]]s can be helpful if you're going to hunt them. A Priestess will drain an average of 100 [[mana]] per hit, which can be ''very'' annoying."
+}

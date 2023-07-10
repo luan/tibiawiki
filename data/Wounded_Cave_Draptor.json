@@ -1,0 +1,52 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "wounded cave draptors",
+    "hpDrainDmgMod": "100%?",
+    "notes": "They look exactly the same as their close [[Draptor]] relatives, but with a different skin colour.{{JSpoiler|Part of the [[Tutorial]].}}",
+    "walksthrough": "?",
+    "hp": "5",
+    "lightcolor": "142",
+    "speed": "?",
+    "abilities": "{{Ability List| {{Melee|1-3}}|{{Ability|[[Energy Wave]]|27|element=energy}}|{{Ability|[[Fire Field]]|element=fire field}}|{{Ability|[[Great Fireball]]|element=fire}}|{{Ability|[[Fire Wave]]|element=fire}} }}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "100%?",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "30",
+    "pushable": "?",
+    "lightradius": "4",
+    "runsat": "4",
+    "implemented": "10.32",
+    "loot": [
+        {
+            "amount": "3",
+            "itemName": "Gold Coin",
+            "rarity": "always"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "50",
+    "creatureclass": "Reptiles",
+    "earthDmgMod": "100%?",
+    "physicalDmgMod": "100%?",
+    "primarytype": "Dragons",
+    "senseinvis": "?",
+    "article": "a",
+    "actualname": "wounded cave draptor",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Wounded Cave Draptor",
+    "isboss": "no",
+    "location": "Beneath [[Dawnport]] (floor -6), {{Mapper Coords|125.67|124.105|13|2|text=here}}.",
+    "iceDmgMod": "100%?",
+    "strategy": "Left-click it to attack. There is no real strategy needed.",
+    "energyDmgMod": "100%?",
+    "deathDmgMod": "100%?"
+}

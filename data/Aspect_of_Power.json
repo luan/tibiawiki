@@ -1,0 +1,32 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "This creature constantly changes appearance between the bosses [[Goshnar's Spite]], [[Goshnar's Hatred]], [[Goshnar's Malice]], [[Goshnar's Cruelty]], [[Goshnar's Greed]] and a [[Branchy Crawler]].",
+    "abilities": "{{Ability List|}}",
+    "healMod": "100%",
+    "fireDmgMod": "100%?",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        ""
+    ],
+    "implemented": "12.40.9997",
+    "loot": [],
+    "creatureclass": "The Undead",
+    "earthDmgMod": "100%?",
+    "physicalDmgMod": "100%?",
+    "primarytype": "Ghosts",
+    "article": "an",
+    "actualname": "aspect of power",
+    "illusionable": "no",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Aspect of Power",
+    "isboss": "no",
+    "behaviour": "Unknown.",
+    "location": "Together with [[Goshnar's Megalomania]] in its room of the [[Soul War Quest]].",
+    "iceDmgMod": "100%?",
+    "strategy": "See [[Soul War Quest]].",
+    "energyDmgMod": "100%?",
+    "deathDmgMod": "100%?"
+}

@@ -1,0 +1,89 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "Often found with other earth-based creatures like [[Wiggler]]s, [[Wyvern]]s and [[Earth Elemental]]s. They play a critical role in the [[Bigfoot's Burden Quest|Bigfoot's Burden]] quest line.",
+    "isarenaboss": "no",
+    "walksthrough": "Poison",
+    "hp": "570",
+    "abilities": "{{Ability List| {{Melee|0-170}}|{{Ability|[[Poison Bomb]]|110-270|element=poison}}|{{Ability|weak [[Self-Healing]]|5-15; often|element=healing}}|{{Ability|strong [[Self-Healing]]|120-180; occasionally|element=healing}} }}",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "secondarytype": "Crocodilians",
+    "holyDmgMod": "110%",
+    "maxdmg": "400",
+    "pushable": "no",
+    "implemented": "9.60",
+    "loot": [
+        {
+            "amount": "0-90",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "amount": "0-3",
+            "itemName": "Crystalline Arrow",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Green Crystal Splinter",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Brown Crystal Splinter",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Blue Crystal Splinter",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Crystalline Spikes",
+            "rarity": "semi-rare"
+        }
+    ],
+    "walksaround": "Energy, Fire",
+    "exp": "500",
+    "mitigation": "1.29",
+    "attacktype": "Melee",
+    "history": "[[Fleshslicer]] was used as a template for the Crystalcrusher. On the [[Test Server]] for update {{Update|9.6}} these were introduced in, CipSoft had forgotten to alter the loot of the crystalcrusher, and e.g. [[Dung Ball (Quest)|Dung Balls]] could be looted from them.",
+    "article": "a",
+    "actualname": "crystalcrusher",
+    "illusionable": "No",
+    "armor": "48",
+    "convince": "--",
+    "name": "Crystalcrusher",
+    "isboss": "no",
+    "iceDmgMod": "103%",
+    "energyDmgMod": "105%",
+    "deathDmgMod": "90%",
+    "plural": "crystalcrushers",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "The Crystalcrusher is more commonly known as 'Gembane' since it seems to be magically drawn towards cut gems, which are their favourite diet. It is not known by which means they can find cut gems or why they would specialise on a food resource that cannot to be found in nature. It is probable that this fondness is connected to crystal resonances and light reflection, though even the masters of these arts, the gnomes, cannot tell for sure how these factors influence the crystalcrushers' hunger or even their life cycles. On their constant search for new food, they often settle for other minerals in lack of greater amounts of cut gems. It seems that the crystals are used in the digestive system of the creature to pulverise other minerals. Given the Crystalcrusher's appetite, such digestive gems are used up quite fast which might explain its constant search for more gems and crystals. On their hunt they usually see everything either as food or competition for food and become quite dangerous.",
+    "speed": "195",
+    "pushobjects": "yes",
+    "fireDmgMod": "85%",
+    "sounds": [
+        "Creak!",
+        "Crackle!"
+    ],
+    "runsat": "0",
+    "bestiaryclass": "Magical",
+    "creatureclass": "Elementals",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Geo-Elementals",
+    "spawntype": [
+        "Regular",
+        "Unblockable"
+    ],
+    "race_id": "869",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "crystalcrusher",
+    "behaviour": "Crystalcrushers prefer to fight in close combat.",
+    "location": "[[Crystal Grounds]], [[Mushroom Farms]], [[Middle Spike]].",
+    "strategy": "Kill them as quickly as possible, rather than trying to run them, since they hit harder and run faster than one would expect. Always try to kill them one by one. An encounter with more than one of these could easily send you to your death."
+}

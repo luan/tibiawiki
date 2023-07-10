@@ -1,0 +1,140 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "{{JSpoiler|You may hunt 900 Sea Serpents and [[Young Sea Serpent]]s combined as a task of the [[Killing in the Name of... Quest]]. Upon completion of the task you will face [[Leviathan]].}}",
+    "walksthrough": "Fire, Energy, Poison",
+    "hp": "1950",
+    "abilities": "{{Ability List| {{Melee|0-250}}|{{Ability|[[Terra Wave|Earth Wave]]|60-300|element=earth}}|{{Ability|[[Ice Wave]]|101-300|element=ice}}|{{Ability|[[Drowning|Drowning Bomb]]|20 [[hp]]/6 turns|element=drowning}}|{{Haste}}|{{Ability|[[Self Healing|Frequent Self-Healing]]|70-273+|element=healing}} }}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "holyDmgMod": "100%",
+    "maxdmg": "800",
+    "pushable": "No",
+    "implemented": "8.20",
+    "loot": [
+        {
+            "amount": "0-236",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "Dragon Ham",
+            "rarity": "common"
+        },
+        {
+            "amount": "0-3",
+            "itemName": "Platinum Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Sea Serpent Scale",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Plate Legs",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "0-3",
+            "itemName": "Small Sapphire",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Strong Health Potion",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Serpent Sword",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Strong Mana Potion",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Spirit Cloak",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Ring of Healing",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Northwind Rod",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Great Mana Potion",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Glacier Amulet",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Glacier Kilt",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Stealth Ring",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Focus Cape",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Leviathan's Amulet",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Crystalline Armor",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "None",
+    "exp": "2300",
+    "mitigation": "1.04",
+    "attacktype": "Melee",
+    "history": "[[File:Sea Serpent.jpg|thumb|Sea Serpent artwork]]It was first mentioned on this {{OfficialNewsArchive|754|update teaser}}. It comes from a proposal by a player, the name of the proposal is: ''The Undersea Kingdom''. It was introduced in the [[Updates/8.2|Summer Update 2008 (8.2)]]. After [[Updates/8.21|Update 8.21]], it was widely debated if Sea Serpents continued dropping their old rares. In [[Updates/8.5|Summer Update 2009 (8.5)]], its loot was changed again to be more profitable. It used to drop [[Frozen Plate]].",
+    "article": "a",
+    "actualname": "sea serpent",
+    "illusionable": "no",
+    "armor": "25",
+    "convince": "--",
+    "name": "Sea Serpent",
+    "isboss": "no",
+    "iceDmgMod": "0%",
+    "energyDmgMod": "105%",
+    "deathDmgMod": "90%",
+    "plural": "sea serpents",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "The legendary Sea Serpent is a mysterious and powerful creature. For a long time Sea Serpents were exiled into the world of fairy tales just like the bogeyman or the man in the cave. However, during the years of the serpents, it became shockingly clear that Sea Serpents are a horrible reality. For many years, hordes of Sea Serpents made the ship passage between Carlin and Svargrond impassable. Then, almost over night, they vanished as suddenly as they had appeared. Still, sightings of Sea Serpents are not uncommon nowadays. Sea Serpents are omnivores but prefer meat over seaweed and tang. They hunt seals, sharks, octopuses and small whales, and occasionally also quara. The quara are in a strange relationship with the Sea Serpents. Some of them worship single Sea Serpents like gods, while others organise large hunting parties to exterminate Sea Serpents that enter their territory.<br />Normally, Sea Serpents are afraid of the strange ships humans tend to travel with. Some of them, however, seem to have overcome their fear. Those Sea Serpents attack ships with all their strength, and they are able to destroy even the biggest ships that cruise the seas. If they are able to wreck a whole ship, one can imagine what a single diver or swimmer has to expect from these beasts. While most Sea Serpents avoid the noisy big ships, a single human is always a welcome snack. Sea Serpents attack immediately, and only the fact that they are not used to meet with resistance might be an advantage of their victims.",
+    "speed": "240",
+    "pushobjects": "Yes",
+    "fireDmgMod": "70%",
+    "sounds": [
+        "CHHHRRRR",
+        "HISSSS"
+    ],
+    "bestiaryclass": "Reptile",
+    "creatureclass": "Reptiles",
+    "earthDmgMod": "100%",
+    "physicalDmgMod": "110%",
+    "primarytype": "Serpents",
+    "spawntype": [
+        "Regular",
+        "Unblockable"
+    ],
+    "race_id": "438",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "drownDmgMod": "0%",
+    "bestiaryname": "seaserpent",
+    "behaviour": "It heals very fast, fights to death. They are really fast when they use their haste.",
+    "location": "[[Sea Serpent Area]] and [[Seacrest Grounds]].",
+    "strategy": "'''Sorcerers:''' Stay diagonal at all times, and use a [[Wand of Starstorm]]/[[Wand of Voodoo]]/[[Wand of Defiance]] with [[Energy Strike]].  If you see a second or third appear, run to a safe location where you can easily levitate or go up a floor in case it gets too dangerous.  You can also use [[Great Energy Beam]] and/or [[Energy Wave]] if you see more than one, but be careful not to get waved by both too often, because two or more can drop even the most experienced mages quickly. Recommended for levels 90+, possible with [[magic shield]] at 60+, solo.\n\n'''Druids:''' Stay diagonal at all times, and use a [[Springsprout Rod]]/[[Underworld Rod]] with [[Physical Strike]]. If you see a second or third appear, run to a safe location where you can easily levitate or go up a floor in case it gets too dangerous. You can also use [[Terra Wave]] if you see more than one, but be careful not to get waved by both too often, because two or more can drop even the most experienced mages quickly. Recommended for levels 90+, possible with [[magic shield]] at 60+, solo.\n\n'''Paladins:''' You'll need decent skills to solo these monsters, somewhere around 80/70.  Since they're weak to physical damage, use [[Ethereal Spear]] over your [[Divine Missile]], because it will hit harder.  It's recommended mostly that this vocation hunt with a blocker partner since there is no fast way to kill these monsters if you get into trouble.  Keep [[Assassin Stars]] handy in case it gets too dangerous, if you're a high enough level to use them.\n\n'''Knights:''' Since these monsters are weak to physical attacks, you'll fare well here, if you have the skills to kill them. Follow the tactics of mages; stay diagonal whenever possible, and be weary of two or more. Though you will hit harder than many vocations will, it's still best to hunt conservatively to make the most profit. If you should get more than one serpent on you, you can use [[Exori]] and [[Exori Gran]] to deal massive damage and drop them more quickly.\n\n'''All vocations:''' These monsters are tricky not because of their attacks or behaviors, but because of the spawn they're in. Within each floor you go to, you can expect to find at least 2 at a time, and it's difficult to run since you're underwater. Do the best you can to lure only one out at a time, and ''never'' hunt them on HP unless you have more than 700; they commonly wave with both terra and ice at the same time, which can hit for up to 600, as well as their melee.<br />\n''Important:'' If you loot a [[Glacier Amulet|glacier amulet]], wear it until it gets low on charges. You can still sell it to [[Rashid]] with minimal charges."
+}

@@ -1,0 +1,147 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "lavafungi",
+    "hpDrainDmgMod": "100%?",
+    "walksthrough": "Fire, Energy, Poison",
+    "hp": "7200",
+    "lightcolor": "192",
+    "occurrence": "Common",
+    "bestiarytext": "Though probably a naturally occurring creature, the lavafungi are abominations in gnomish eyes. The fungi are a somewhat civilised race that allied with Those Below for their own sinister purposes, The lavafungi obviously propagate in the deepest bowels of earth where its usually so hot, that they are never encountered by races not accustomed to such an intense heat. Only recently, howevr, they have been forced to leave their breeding grounds and to join the forces of Those Below. The constant exposure to an environment that is significantly too cold for their taste puts the already dangerous lavafungi into a constant bad mood that they tend to vent off on their opponents. The fungi that are encountered in battle are only the lowest ranking members of their race and there are hints that colonies of more advanced lavafungi exist in the realm of Those Below. It is speculated that the fungi that are part of the army and advance forms are part of a lower, less educated caste of the fungi and the 'real' lavafungi wield sophisticated weaponry and armour. The lava fungi encountered in the armies of Those Below are seen as disposable and easily replaced.<br/>They are often used as garrison forces rather than as shock troops. Lava fungi are often seen in undertaking manual labour in garrisons and camps, to which they are more suited then most other subterranean minions. In greater depth and at locations of great heat they completely replace the lost as a workforce. All in all their relationship with the lost seems strained at best for some unknown reason, though it has been observed that the lost consider fallen fungi as a delicacy.<br/>Especially in recent times there was a surge of lava fungi troops in the armies of Those Below. It seems that the upper casts of the fungi have decided to take a more active role in the war. The reason for this paradigm shift is completely unknown, as so much concerning Those Below their allies and their minions.",
+    "speed": "115",
+    "abilities": "{{Ability List| {{Melee|0-810}}|{{Ability|Death Beam|560-650|element=death}}|{{Ability|Sudden Death|720-810|element=death}}|{{Ability|[[Fire Damage|Fire Ring]]|450-610 around itself|element=fire}}|{{Ability|[[Flame Strike]]|490-720|element=fire}}|{{Ability|[[Fire Damage|Fire X]]|640-730 around itself|element=fire}} }}",
+    "healMod": "100%",
+    "pushobjects": "yes",
+    "paraimmune": "yes",
+    "fireDmgMod": "90%",
+    "holyDmgMod": "100%",
+    "sounds": [],
+    "maxdmg": "{{Max Damage|physical=810|death=810?|fire=730?}}",
+    "pushable": "no",
+    "usedelements": "?",
+    "lightradius": "3",
+    "implemented": "12.70.10953",
+    "bestiaryclass": "Plant",
+    "loot": [
+        {
+            "amount": "1-18",
+            "itemName": "Platinum Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Terra Rod",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Red Gem",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Hailstorm Rod",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Blue Crystal Shard",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Lavafungus Ring",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Green Gem",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Magma Amulet",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Violet Gem",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Yellow Gem",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Wand of Inferno",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Dwarven Ring",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Crystal Mace",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Focus Cape",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Spellbook of Warding",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Wand of Starstorm",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Violet Crystal Shard",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Cyan Crystal Fragment",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Red Crystal Fragment",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Green Crystal Fragment",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Metal Spats",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Onyx Chip",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Rainbow Quartz",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Lavafungus Head",
+            "rarity": "semi-rare"
+        }
+    ],
+    "walksaround": "None",
+    "exp": "6200",
+    "creatureclass": "Humanoids",
+    "earthDmgMod": "100%",
+    "mitigation": "1.60",
+    "physicalDmgMod": "100%",
+    "primarytype": "Fungi",
+    "race_id": "2095",
+    "bestiarylevel": "Hard",
+    "history": "On {{OfficialNewsArchive|6555|February 01, 2022}}, its loot was increased by 17%.",
+    "senseinvis": "yes",
+    "article": "a",
+    "actualname": "lavafungus",
+    "illusionable": "no",
+    "armor": "70",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "bestiaryname": "lavafungus",
+    "name": "Lavafungus",
+    "location": "[[Grotto of the Lost]].",
+    "iceDmgMod": "120%",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "80%"
+}

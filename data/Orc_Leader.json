@@ -1,0 +1,129 @@
+{
+    "summon": "640",
+    "templateType": "Creature",
+    "notes": "These dangerous creatures can throw strong [[Throwing Knife|Knives]] to kill the enemy if they try to escape.<br />{{JSpoiler|Orc Leaders can also drop [[Orc Tusk]]s during raids of the [[Machinery of War Quest]].}}",
+    "walksthrough": "Fire",
+    "hp": "450",
+    "abilities": "{{Ability List|{{Melee|0-185}}|{{Ability|[[Throwing Knife|Throwing Knives]]|0-70}}}}",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "holyDmgMod": "80%",
+    "maxdmg": "{{Max Damage|physical=255}}",
+    "pushable": "No",
+    "implemented": "6.0",
+    "loot": [
+        {
+            "amount": "1-35",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Fish",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Brown Mushroom",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Orc Leather",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Plate Shield",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-4",
+            "itemName": "Throwing Knife",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Brass Legs",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Longsword",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Royal Spear",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Sword Ring",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Plate Armor",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Scimitar",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Skull Belt",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Broadsword",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Orc Tooth",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Health Potion",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Plate Legs",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Warrior Helmet",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Energy, Poison",
+    "exp": "270",
+    "mitigation": "1.18",
+    "attacktype": "Melee",
+    "history": "Although the sprites for orc leader were implemented on [[Updates/6.0|Update 6.0]], the first known spawns of this creature were possibly only implemented with the [[Ulderek's Rock]] on [[Updates/6.1|Update 6.1]].",
+    "article": "an",
+    "actualname": "orc leader",
+    "illusionable": "yes",
+    "armor": "20",
+    "convince": "640",
+    "name": "Orc Leader",
+    "isboss": "no",
+    "iceDmgMod": "100%",
+    "energyDmgMod": "80%",
+    "deathDmgMod": "110%",
+    "plural": "orc leaders",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "no",
+    "occurrence": "Common",
+    "bestiarytext": "Orc Leaders are the commanders of the orcs' army. They are quite clever and know how to arrange the different troops - warriors, berserkers, spearmen, and shamans - to form powerful squads. They themselves are quite strong fighters that use even throwing knives.",
+    "speed": "115",
+    "pushobjects": "Yes",
+    "fireDmgMod": "0%",
+    "sounds": [
+        "Ulderek futgyr human!"
+    ],
+    "bestiaryclass": "Humanoid",
+    "creatureclass": "Humanoids",
+    "earthDmgMod": "110%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Orcs",
+    "race_id": "59",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "orcleader",
+    "behaviour": "Orc leaders fight to the death and chase their enemies while throwing [[Throwing Knife|Throwing Knives]] at them.",
+    "location": "[[Orc Fort]], [[Edron Orc Cave]], South of the [[temple]] in [[PoH]], [[Maze of Lost Souls]], [[Cyclopolis]], [[Zao Orc Land]].",
+    "strategy": "'''[[Knight]]s''': you should have skills 75/75 to hunt them. Low levels with low skills should stay away from these but if necessary to fight then combine your melee with [[Whirlwind Throw]] or [[Berserk]].<br/>\n'''[[Paladin]]s''': you should run while shooting [[royal spear]]s, and [[Ethereal Spear]]. <br/>\n'''[[Mage]]s''': you should use [[Earth Damage|earth]] or [[Death Damage|death]] or [[wand]]s/[[rod]]s to kill them. If you are [[premium]] you should use [[Terra Strike]] or [[Death Strike]] to help minimize waste. <br/>"
+}

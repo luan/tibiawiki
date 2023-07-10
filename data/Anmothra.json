@@ -1,0 +1,55 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%",
+    "notes": "Its speech, ''sanguis meus et anima mea in gratiam illorum quas diligo'', is Latin for ''my blood and soul for those that I love.''<noinclude>{{JSpoiler|All players who sufficiently damage it during the last minute of the fight will receive the [[Slayer of Anmothra]] [[achievement]].}}</noinclude>",
+    "isarenaboss": "no",
+    "walksthrough": "?",
+    "hp": "7000",
+    "speed": "100",
+    "abilities": "{{Ability List\n |{{Melee|100-170}}\n |{{Ability|Fire Wave|100-250|fire\n  |scene={{Scene|spell=8sqmwave|effect=Fireball Effect|caster=Anmothra|look_direction=east|damage_effect=Fire Effect}}}}\n |{{Ability|Great Fireball|100-160|fire\n  |scene={{Scene|spell=2sqmballtarget|effect=Fireball Effect|caster=Anmothra|missile=Fire Missile|missile_direction=south-east|missile_distance=2/2|damage_effect=Unknown}}}}\n |{{Ability|Creates Fire Fields|element=fire field\n  |scene={{Scene|spell=2sqmballtarget|effect=Fire|caster=Anmothra|missile=Fire Missile|missile_direction=south-east|missile_distance=2/2}}}}\n |{{Healing|range=227-322}}\n}}",
+    "pushobjects": "no",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "secondarytype": "Insects",
+    "fireDmgMod": "0%",
+    "holyDmgMod": "90%",
+    "sounds": [
+        "Sanguis meus et anima mea in gratiam illorum quas diligo.",
+        "And death for those who do not see."
+    ],
+    "maxdmg": "{{Max Damage|physical=170|fire=420}}",
+    "pushable": "yes",
+    "runsat": "0",
+    "implemented": "8.61",
+    "loot": [
+        {
+            "itemName": "Talon"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "15000",
+    "creatureclass": "Invertebrates",
+    "earthDmgMod": "110%",
+    "physicalDmgMod": "100%",
+    "bosstiaryclass": "Nemesis",
+    "primarytype": "Event Creatures",
+    "spawntype": [
+        "Event"
+    ],
+    "race_id": "646",
+    "senseinvis": "?",
+    "actualname": "Anmothra",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%",
+    "convince": "--",
+    "name": "Anmothra",
+    "isboss": "yes",
+    "behaviour": "It follows its target (sometimes re-targeting).",
+    "location": "[[Plains of Havoc]], north-west from [[Dark Cathedral]] and south of [[Outlaw Camp]], inside a portal for levels 20-40 ({{Mapper Coords|127.123|126.74|7|1|text=here}}), during the [[Rise of Devovorga]] [[World Quest]]. Can be fought on [[Vengoth]] during [[Devovorga's Essence Mini World Change]].",
+    "iceDmgMod": "100%",
+    "strategy": "Treat it like a [[Dragon Lord]]. Easy for level 28 mages to kill using two demon skeletons, or team with one knight level 25 or higher as blocker and any shooter.",
+    "energyDmgMod": "75%",
+    "deathDmgMod": "110%"
+}

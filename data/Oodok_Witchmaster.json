@@ -1,0 +1,94 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "walksthrough": "Poison",
+    "hp": "450",
+    "speed": "?",
+    "abilities": "{{Ability List| {{Melee|0-20}}|{{Ability|melee [[Life Drain]]|1-40|element=lifedrain}}|{{Ability|[[Poison Storm]]|0-25 on himself|element=poison}}|{{Outfit|yes|Chicken}}|{{Ability|Intoxicate|element=drunk}}|{{Ability|Poison Field|element=poison field}}|{{Ability|[[Paralysis]]|element=paralyze}}|{{Healing}}|{{Haste}}|{{Ability|[[Invisibility]]|element=invisible}} }}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "105%",
+    "holyDmgMod": "65%",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "90",
+    "pushable": "?",
+    "implemented": "10.80",
+    "loot": [
+        {
+            "amount": "0-98",
+            "itemName": "Gold Coin"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "Platinum Coin"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "Black Pearl"
+        },
+        {
+            "amount": "0-3",
+            "itemName": "Health Potion"
+        },
+        {
+            "amount": "0-3",
+            "itemName": "Mana Potion"
+        },
+        {
+            "itemName": "Green Piece of Cloth"
+        },
+        {
+            "itemName": "Red Piece of Cloth"
+        },
+        {
+            "itemName": "Terra Rod"
+        },
+        {
+            "itemName": "Poison Dagger"
+        },
+        {
+            "itemName": "Strange Symbol"
+        },
+        {
+            "itemName": "Tribal Mask"
+        },
+        {
+            "itemName": "Big Bone"
+        },
+        {
+            "itemName": "Mastermind Potion"
+        },
+        {
+            "itemName": "Leather Armor"
+        },
+        {
+            "itemName": "Bone"
+        }
+    ],
+    "walksaround": "Fire, Energy",
+    "exp": "550",
+    "creatureclass": "Humanoids",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "100%?",
+    "bosstiaryclass": "Nemesis",
+    "primarytype": "Dworcs",
+    "race_id": "1129",
+    "senseinvis": "?",
+    "actualname": "Oodok Witchmaster",
+    "illusionable": "yes",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Oodok Witchmaster",
+    "isboss": "yes",
+    "behaviour": "Similar to a [[Dworc Voodoomaster]].",
+    "location": "[[Dworc Camp]].",
+    "iceDmgMod": "80%",
+    "strategy": "Unknown",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "100%?"
+}

@@ -1,0 +1,141 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "walksthrough": "Fire",
+    "hp": "2800",
+    "abilities": "{{Ability List|{{Melee|0-302+}}|{{Ability|Paralyze|1sqm range|slowed}}}}",
+    "healMod": "100%",
+    "paraimmune": "?",
+    "holyDmgMod": "100%",
+    "maxdmg": "{{Max Damage|physical=302}}",
+    "pushable": "no",
+    "implemented": "10.70",
+    "loot": [
+        {
+            "amount": "1-5",
+            "itemName": "Platinum Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Quara Pincers",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Great Mana Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Great Health Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Small Ruby",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Small Diamond",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Mind Stone",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Red Gem",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Shrimp",
+            "rarity": "semi-rare"
+        },
+        {
+            "amount": "1-5",
+            "itemName": "Vortex Bolt",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Giant Shimmering Pearl (Brown)",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Warrior Helmet",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Fish Fin",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Crown Armor",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Time Ring",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Glacier Robe",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Giant Shrimp",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Talon",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Twiceslicer",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Energy, Poison",
+    "exp": "2200",
+    "mitigation": "1.26",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "renegade quara pincher",
+    "illusionable": "no",
+    "armor": "85",
+    "convince": "--",
+    "name": "Renegade Quara Pincher",
+    "isboss": "no",
+    "iceDmgMod": "0%",
+    "energyDmgMod": "125%",
+    "deathDmgMod": "100%",
+    "status": "event",
+    "plural": "renegade quara pinchers",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "lightcolor": "35",
+    "occurrence": "Rare",
+    "speed": "198",
+    "pushobjects": "yes",
+    "fireDmgMod": "0%",
+    "sounds": [
+        ""
+    ],
+    "lightradius": "2",
+    "bestiaryclass": "Aquatic",
+    "creatureclass": "Amphibians",
+    "earthDmgMod": "110%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Quara",
+    "spawntype": [
+        "Regular",
+        "Event",
+        "Unblockable"
+    ],
+    "race_id": "1100",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "drownDmgMod": "0%",
+    "behaviour": "Unknown",
+    "location": "[[Seacrest Grounds]] when [[Seacrest Serpent]]s are not spawning.",
+    "strategy": "The same used for a regular [[Quara Pincher]]"
+}

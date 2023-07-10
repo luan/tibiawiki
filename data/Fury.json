@@ -1,0 +1,140 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "A creature of hatred and destruction fueled by insatiable rage. These creatures are able to use [[Strong Haste|strong haste]] and thus become incredibly fast and almost IMPOSSIBLE to outrun. In 2008 winter update a bug made Furies buff the players which increased the skills with about 25-55+ for few seconds. People believe they have orange hair, but they actually have red hair.",
+    "walksthrough": "Fire",
+    "hp": "4100",
+    "abilities": "{{Ability List\n |{{Melee|0-509}}\n |{{Ability|Death [[Throwing Star]]s|0-250|element=death\n  |scene={{Scene|spell=3sqmstrike|effect=Death Effect|caster=Fury|missile=Throwing Star Missile|missile_direction=south-east|missile_distance=3/3}}}}\n |{{Ability|[[Throwing Star]]s|[[Paralysis|paralyzes]] you|element=paralyze\n  |scene={{Scene|spell=3sqmstrike|effect=Death Effect|caster=Fury|missile=Throwing Star Missile|missile_direction=south-east|missile_distance=3/3}}}}\n |{{Ability|Life Drain Berserk|0-300|life drain\n  |scene={{Scene|spell=3x3spell|effect=Trembling Effect|caster=Fury|effect_on_caster=yes}}}}\n |{{Ability|Explosion Wave|200-300|fire\n  |scene={{Scene|spell=8sqmwave|effect=Explosion Effect|caster=Fury|look_direction=east}}}}\n |{{Ability|Blood Beam|0-700|death\n  |scene={{Scene|spell=9sqmbeam|effect=Blood Effect|caster=Fury|look_direction=east}}}}\n |{{Ability|Self Blood Ball|0-300|death\n  |scene={{Scene|spell=2sqmballself|effect=Blood Effect|caster=Fury|effect_on_caster=yes}}}}\n |{{Debuff2|Music Bomb around itself|shielding=yes\n  |scene={{Scene|spell=3sqmball2self|effect=Yellow Notes Effect|caster=Fury|effect_on_caster=yes}}}}\n |{{Debuff2|Music Bomb around itself|melee=yes\n  |scene={{Scene|spell=3sqmball2self|effect=Yellow Notes Effect|caster=Fury|effect_on_caster=yes}}}}\n |{{Debuff2|Music Bomb around itself|distance=yes\n  |scene={{Scene|spell=3sqmball2self|effect=Yellow Notes Effect|caster=Fury|effect_on_caster=yes}}}}\n |{{Haste|[[Strong Haste]]}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "holyDmgMod": "70%",
+    "maxdmg": "{{Max Damage|physical=809|death=950|lifedrain=300|fire=300}}",
+    "pushable": "no",
+    "implemented": "7.9",
+    "loot": [
+        {
+            "amount": "1-269",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "Flask of Demonic Blood",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-4",
+            "itemName": "Jalapeno Pepper",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Demonic Essence",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Soul Orb",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Terra Rod",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Great Health Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Slightly Rusted Legs",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "Small Amethyst",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Red Piece of Cloth",
+            "rarity": "semi-rare"
+        },
+        {
+            "amount": "1-4",
+            "itemName": "Platinum Coin",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Noble Axe",
+            "rarity": "semi-rare"
+        },
+        {
+            "amount": "1-4",
+            "itemName": "Orichalcum Pearl",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Steel Boots",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Assassin Dagger",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Crystal Ring",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Death Ring",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Golden Legs",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Assassin Star",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Energy, Poison",
+    "exp": "3600",
+    "mitigation": "1.32",
+    "attacktype": "Melee",
+    "history": "Its experience was decreased from 4500 to 1575 with the first batch of changes of [[Updates/12.31|Update 12.31]]. It was later increased to 3600 with the second batch.",
+    "article": "a",
+    "actualname": "fury",
+    "illusionable": "no",
+    "armor": "35",
+    "convince": "--",
+    "name": "Fury",
+    "isboss": "no",
+    "iceDmgMod": "70%",
+    "energyDmgMod": "110%",
+    "deathDmgMod": "110%",
+    "plural": "furies",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "These female demons are known to enrage themselves into such hatred and fury that their hair starts to burn and tiny flames sprout all over their body. Although of deceptive beauty, the Fury is a bloodthirsty monster that knows no remorse. A Fury will not listen to logical arguments or accept surrender. Fight is everything they think about and care for. Her hands can turn into fiery claws that can shred a shield to pieces with ease and their incredible strength belies their slender and fragile stature. A Fury's hatred is so strong that it provides them with an unearthly resilience which can only be stopped by death. Literally too hot-headed to lead any sizeable force into battle, the demons employ them on missions of carnage and chaos. Even when not in combat, they tend to destroy things just for the fun of it. After all a Fury is a creature of hatred and destruction. Some demons employing the services of Furies keep them chained until the very last moment. Needless to say that this treatment drives the Fury in an even greater frenzy. Other demons enjoy to lock up prisoners in a cell with a handful of Furies and to watch the spectacle.",
+    "speed": "200",
+    "pushobjects": "yes",
+    "fireDmgMod": "0%",
+    "sounds": [
+        "Ahhhhrrrr!",
+        "Waaaaah!",
+        "Caaarnaaage!",
+        "Dieee!"
+    ],
+    "bestiaryclass": "Demon",
+    "creatureclass": "Demons",
+    "earthDmgMod": "110%",
+    "physicalDmgMod": "110%",
+    "primarytype": "Demons",
+    "race_id": "291",
+    "bestiarylevel": "Hard",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "fury",
+    "behaviour": "Its most distinctive behavior is its high speed which helps it reach its target very quickly.",
+    "location": "[[Pits of Inferno]] ([[Apocalypse]]'s Throne Room), [[The Inquisition Quest]] (The Shadow Nexus, Battlefield), [[Vengoth]], [[Fury Dungeon]], [[Oramond Fury Dungeon]], [[The Extension Site]], [[Grounds of Destruction]] and [[Halls of Ascension]].",
+    "strategy": "When you hunt Furies in PoI area, have a blocker lure them to a small 1 SQM wide bridge in the Apocalypse's throne room. Then have at least 3 shooters using SD runes, Explosion runes or energy/earth based attacks. If you face them in an open area, make sure the blocker stays clear of the wave attacks."
+}

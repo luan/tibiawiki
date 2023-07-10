@@ -1,0 +1,131 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "walksthrough": "Fire, Energy, Poison",
+    "hp": "9800",
+    "abilities": "{{Ability List| {{Melee|0-450}}|{{Ability|[[Fire Damage|Great Fire Wave]]|350-500|element=fire}}|{{Ability|[[Energy Damage|Great Energy Ball]]|300-500; on itself|element=energy}}|{{Ability|[[Holy Damage|Holy Wave]]|0-461+|element=holy}}|{{Ability|[[Fire Damage|Fire Strike]]|350-550|element=fire}} }}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "holyDmgMod": "80%",
+    "maxdmg": "1500+",
+    "pushable": "no",
+    "usedelements": "Fire, Energy, Holy, Physical",
+    "implemented": "12.20.8834",
+    "loot": [
+        {
+            "amount": "1-3",
+            "itemName": "Platinum Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Sphinx Feather",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Dragon Necklace",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Magma Amulet",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Wand of Inferno",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Small Sapphire",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Red Gem",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Green Crystal Shard",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Cyan Crystal Fragment",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Magma Boots",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Magma Legs",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Fire Axe",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Magma Monocle",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Wand of Draconia",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Sphinx Tiara",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Small Enchanted Emerald",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Blue Gem",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Green Gem",
+            "rarity": "semi-rare"
+        }
+    ],
+    "walksaround": "None",
+    "exp": "8800",
+    "mitigation": "2.69",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "feral sphinx",
+    "illusionable": "no",
+    "armor": "90",
+    "convince": "--",
+    "name": "Feral Sphinx",
+    "isboss": "no",
+    "iceDmgMod": "115%",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "115%",
+    "plural": "feral sphinxes",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "Feral Sphinxes are more aggressive than [[Sphinx]]es.",
+    "speed": "160",
+    "pushobjects": "yes",
+    "fireDmgMod": "80%",
+    "sounds": [
+        "I am not as kind as my sisters!"
+    ],
+    "runsat": "0",
+    "bestiaryclass": "Magical",
+    "creatureclass": "Misc",
+    "earthDmgMod": "100%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Anuma",
+    "spawntype": [
+        "Regular"
+    ],
+    "race_id": "1807",
+    "bestiarylevel": "Hard",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "feralsphinx",
+    "behaviour": "Fights in close combat.",
+    "location": "[[Kilmaresh]], south of [[Issavi]].",
+    "strategy": "They can deal nasty combos, specially when the Holy Beam and Fire Wave are used together, thus, avoid staying in front of them. Even then, their melee, Fire Strike and large Energy attack can be dangerous, so keeping a long distance is the safest strategy for mages and paladins. Knights should use an Ice weapon and a mix of Fire and Energy protection to minimize the damage from their spells."
+}

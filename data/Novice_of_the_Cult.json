@@ -1,0 +1,101 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "They usually come 1-2 at a time, certain areas can have up to 5 Novices at a time, with [[Tarantula]]s, a [[Dark Monk]], and very often with one or two [[Witch]]es. If you are a free account user and want to look as if wearing a premium outfit, just use the [[Creature Illusion]] spell.",
+    "walksthrough": "None",
+    "hp": "285",
+    "abilities": "{{Ability List\n |{{Melee|0-65 (poisons you 1 [[hp]]/10 turn)}}\n |{{Ability|Distance Life Drain|20-80|element=lifedrain\n  |scene={{Scene|spell=4sqmstrike|caster=Acolyte of the Cult|effect=Poison Effect 3|missile=Poison Missile|missile_direction=south-east|missile_distance=4/4|damage_effect=Red Sparkles Effect}}}}\n |{{Summon|Chicken|1}}\n |{{Healing|range=20-40}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "holyDmgMod": "90%",
+    "maxdmg": "270",
+    "pushable": "?",
+    "implemented": "7.8",
+    "loot": [
+        {
+            "amount": "1-40",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Rope Belt",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Scarf",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Cultish Robe",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Dwarven Ring",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Music Sheet (First Verse)",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Book (Orange)",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Pirate Voodoo Doll",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Garlic Necklace",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Wand of Vortex",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Small Diamond",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Fire, Energy, Poison",
+    "exp": "100",
+    "mitigation": "0.62",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "novice of the cult",
+    "illusionable": "yes",
+    "armor": "15",
+    "convince": "--",
+    "name": "Novice of the Cult",
+    "isboss": "no",
+    "iceDmgMod": "90%",
+    "energyDmgMod": "108%",
+    "deathDmgMod": "108%",
+    "plural": "novices of the cult",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "The members of the lowest rank of the sinister cult still lack any greater powers but are eager to prove themselves worthy. Their inherent cowardice is somewhat compensated by first signs of fanaticism. Determined to protect their cult, they are capable but not too impressive opponents. What they lack in strength, they try to make up with quantity. Usually Novices of the Cult band together for a fight, often accompanied by a member of a higher rank whom they protect with their lives. Quite clueless about the true agendas and teachings of the cults, they are seen as disposable shock troops by their superiors.",
+    "speed": "100",
+    "pushobjects": "?",
+    "fireDmgMod": "105%",
+    "sounds": [
+        "Fear us!",
+        "You will not tell anyone what you have seen!",
+        "Your curiosity will be punished!"
+    ],
+    "bestiaryclass": "Human",
+    "creatureclass": "Humans",
+    "earthDmgMod": "90%",
+    "physicalDmgMod": "110%",
+    "primarytype": "Voodoo Cultists",
+    "race_id": "255",
+    "bestiarylevel": "Easy",
+    "senseinvis": "no",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "cultnovice",
+    "behaviour": "Runs when low on [[hp]], can't be pushed.",
+    "location": "[[Liberty Bay]] [[Cult Cave]], [[Formorgar Mines]], [[Yalahar]] [[Magician Quarter]], in the caves on top of the [[Hrodmir]] mountains.",
+    "strategy": "Knights just hit with weapon, pally/mages shoot with rod/wand or distance weapon. Sometimes [[HMM]] or even [[LMM]] can help loads. Summoning a [[Fire Elemental]] or a [[Demon Skeleton]] will help alot if you are low level [[mage]]."
+}

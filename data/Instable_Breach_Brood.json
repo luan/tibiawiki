@@ -1,0 +1,109 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "walksthrough": "Fire, Poison",
+    "hp": "2200",
+    "abilities": "{{Ability List| {{Melee|0-240|element=physical}}|{{Ability|[[Energy Damage|Heavy Magic Missile]]|160-250|element=energy}}|{{Ability|[[Physical Damage|Spark Bomb]] on self|80-150}}|{{Ability|[[Burst Arrow]]|reducing [[Magic Level]]|element=?}} }}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "secondarytype": "Electro-Elementals",
+    "holyDmgMod": "100%",
+    "maxdmg": "640",
+    "pushable": "no",
+    "implemented": "10.94",
+    "loot": [
+        {
+            "amount": "1-100",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Platinum Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Plasma Pearls",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Crystal Bone",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Energy Drink",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Great Spirit Potion",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Great Health Potion",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Great Mana Potion",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Green Crystal Shard",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Energy Bar",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Cyan Crystal Fragment",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Blue Crystal Splinter",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Blue Crystal Shard",
+            "rarity": "semi-rare"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "1100",
+    "mitigation": "1.32",
+    "attacktype": "Melee",
+    "article": "an",
+    "actualname": "instable breach brood",
+    "illusionable": "no",
+    "armor": "43",
+    "convince": "--",
+    "name": "Instable Breach Brood",
+    "isboss": "no",
+    "iceDmgMod": "70%",
+    "energyDmgMod": "25%",
+    "deathDmgMod": "90%",
+    "plural": "instable breach broods",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "The Instable Breach Brood is a weaker version of [[Breach Brood]]s.",
+    "speed": "135",
+    "pushobjects": "yes",
+    "fireDmgMod": "60%",
+    "sounds": [
+        "Hisss!"
+    ],
+    "runsat": "0",
+    "bestiaryclass": "Extra Dimensional",
+    "creatureclass": "Invertebrates",
+    "earthDmgMod": "115%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Cnidarians",
+    "race_id": "1265",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "instablebreachbrood",
+    "behaviour": "Fights in close combat",
+    "location": "[[Otherworld (Dwarf Bridge)]]",
+    "strategy": "Be careful not to lure too many creatures as the dungeon has lots of them. Use Earth damage if possible or Holy/Physical otherwise."
+}

@@ -1,0 +1,53 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%",
+    "notes": "None.",
+    "walksthrough": "?",
+    "hp": "80",
+    "speed": "?",
+    "abilities": "{{Ability List| {{Melee|?|poison=5}}|{{Ability|[[Ice Wave]]|1-15|element=ice}}|{{Ability|small [[Terra Wave]]|1-10|element=earth}}|{{Ability|[[Explosion|Explosion Wave]]|0-12?|element=?}}|{{Ability|[[Sudden Death]]|0-8|element=death}}|{{Ability|[[Paralysis]]|element=paralyze}}|{{Outfit|yes|Sheep}}|{{Summon|Weakened Demon|1}} }}",
+    "pushobjects": "yes",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "100%",
+    "holyDmgMod": "100%",
+    "sounds": [
+        "KRAK ORC DEMON",
+        "???!!!",
+        "Grak brrretz gulu."
+    ],
+    "maxdmg": "25?",
+    "pushable": "no",
+    "runsat": "red",
+    "implemented": "9.10",
+    "loot": [
+        {
+            "amount": "0-15",
+            "itemName": "Gold Coin"
+        },
+        {
+            "itemName": "Orc Leather"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "300",
+    "creatureclass": "Humanoids",
+    "earthDmgMod": "100%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Orcs",
+    "race_id": "714",
+    "senseinvis": "?",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%",
+    "convince": "--",
+    "name": "Kraknaknork",
+    "isboss": "yes",
+    "behaviour": "Kraknaknork tries to keep distance.",
+    "location": "[[Rookgaard Orc Fortress]] (during a [[The Rookie Guard Quest|quest]]), and in his own dimension, accessed only once after the [[The Beginning Quest|tutorial]].",
+    "iceDmgMod": "100%",
+    "strategy": "Trap him in a corner and kill him.",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "100%"
+}

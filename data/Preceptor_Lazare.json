@@ -1,0 +1,162 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "isevent": "no",
+    "plural": "Preceptor Lazare",
+    "hpDrainDmgMod": "100%?",
+    "notes": "It's a boss of the [[Order of the Falcon]]. He is Mentioned in [[Grey Plague Research (Book)]].\n{{JSpoiler|Part of [[The Secret Library Quest]].}}",
+    "isarenaboss": "no",
+    "walksthrough": "?",
+    "hp": "16000?",
+    "speed": "?",
+    "abilities": "{{Ability List\n |{{Melee|0-500+}}\n |{{Ability|Explosion Bolt|734-1241|element=?\n  |scene={{Scene|spell=7sqmstrike|background=canvas|caster=Preceptor Lazare|look_direction=south|effect=Explosion Effect|missile=Power Bolt Missile|missile_direction=south-east|missile_distance=7/7}}}}\n |{{Ability|Energy Bolt|400-500|element=energy\n  |scene={{Scene|spell=7sqmstrike|background=canvas|caster=Preceptor Lazare|look_direction=south|effect=Blue Electricity Effect|missile=Infernal Bolt Missile|missile_direction=south-east|missile_distance=7/7}}}}\n |{{Ability|Holy Ball|549-561|element=holy\n  |scene={{Scene|spell=2sqmballself|effect=Holy Effect|caster=Preceptor Lazare|look_direction=south|effect_on_caster=yes}}}}\n |{{Haste|[[Strong Haste]]}}\n |{{Healing|range=500-800?}}\n}}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "secondarytype": "Members of the Order of the Falcon",
+    "fireDmgMod": "50%",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        "There is nothing here for you and you will die alone.",
+        "You will obey and you will kneel and you will BOW TO US."
+    ],
+    "maxdmg": "?",
+    "pushable": "?",
+    "runsat": "0",
+    "implemented": "11.80.7048",
+    "loot": [
+        {
+            "amount": "1-182",
+            "itemName": "Gold Coin"
+        },
+        {
+            "amount": "1-15",
+            "itemName": "Platinum Coin"
+        },
+        {
+            "amount": "1-8",
+            "itemName": "Assassin Star"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "Great Health Potion"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "Great Mana Potion"
+        },
+        {
+            "itemName": "Ham"
+        },
+        {
+            "itemName": "Demonic Essence"
+        },
+        {
+            "itemName": "Violet Gem"
+        },
+        {
+            "itemName": "Green Gem"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Small Diamond"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Small Emerald"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Small Topaz"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Gold Ingot"
+        },
+        {
+            "itemName": "Spiked Squelcher"
+        },
+        {
+            "itemName": "Golden Armor"
+        },
+        {
+            "itemName": "Knight Armor"
+        },
+        {
+            "itemName": "Titan Axe"
+        },
+        {
+            "itemName": "Patch of Fine Cloth"
+        },
+        {
+            "itemName": "Mastermind Shield"
+        },
+        {
+            "itemName": "Falcon Greaves",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Falcon Rod",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Small Ruby"
+        },
+        {
+            "itemName": "War Axe"
+        },
+        {
+            "itemName": "Soul Orb"
+        },
+        {
+            "itemName": "Flask of Demonic Blood"
+        },
+        {
+            "itemName": "Giant Shimmering Pearl"
+        },
+        {
+            "itemName": "Small Amethyst"
+        },
+        {
+            "itemName": "Small Enchanted Amethyst"
+        },
+        {
+            "itemName": "Red Gem"
+        },
+        {
+            "itemName": "Onyx Arrow"
+        },
+        {
+            "itemName": "Demonbone Amulet"
+        },
+        {
+            "itemName": "Heavy Mace",
+            "rarity": "rare"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "10000",
+    "creatureclass": "Humans",
+    "earthDmgMod": "50%",
+    "physicalDmgMod": "80%",
+    "bosstiaryclass": "Bane",
+    "primarytype": "Monks",
+    "spawntype": [
+        "Regular"
+    ],
+    "race_id": "1583",
+    "senseinvis": "yes",
+    "actualname": "Preceptor Lazare",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Preceptor Lazare",
+    "isboss": "yes",
+    "behaviour": "Fights in close combat.",
+    "location": "[[Falcon Bastion]].",
+    "iceDmgMod": "50%",
+    "strategy": "Unknown",
+    "energyDmgMod": "50%",
+    "deathDmgMod": "50%"
+}

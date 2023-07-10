@@ -1,0 +1,119 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "One of the elite deepling forces, along [[Deepling Master Librarian]] and [[Deepling Elite]]. The tyrant drops the same loot as a [[Deepling Guard]] (including [[Foxtail]]) although the drop rate for rares is slightly higher to accommodate the boosted health and strength of the tyrant. There are only 8 tyrant spawns in-game.",
+    "isarenaboss": "no",
+    "walksthrough": "?",
+    "hp": "4500",
+    "abilities": "{{Ability List\n |{{Melee|0-500+}}\n |{{Ability|Axe Throw|375+|element=physical|scene={{Scene|spell=3sqmstrike|effect=Blood Effect|caster=Deepling Tyrant|missile=Throwing Axe Missile|missile_direction=south-east|missile_distance=3/3}}}}\n |{{Ability|Throws [[Spear]]|215+|element=physical|scene={{Scene|spell=3sqmstrike|effect=Blood Effect|caster=Deepling Tyrant|missile=Spear Missile|missile_direction=south-east|missile_distance=3/3}}}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "?",
+    "holyDmgMod": "100%",
+    "maxdmg": "{{Max Damage|physical=1090}}",
+    "pushable": "no",
+    "implemented": "9.50",
+    "loot": [
+        {
+            "amount": "1-200",
+            "itemName": "Gold Coin",
+            "rarity": "always"
+        },
+        {
+            "amount": "1-4",
+            "itemName": "Platinum Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Deepling Breaktime Snack",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "Great Health Potion",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "Great Mana Potion",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Deepling Claw",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Eye of a Deepling",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Deepling Guard Belt Buckle",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-5",
+            "itemName": "Small Sapphire",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Heavy Trident",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Deepling Squelcher",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Guardian Axe",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Deepling Backpack",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Ornate Crossbow",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Foxtail",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Energy, Poison",
+    "exp": "4200",
+    "mitigation": "1.65",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "deepling tyrant",
+    "illusionable": "no",
+    "armor": "54",
+    "convince": "--",
+    "name": "Deepling Tyrant",
+    "isboss": "no",
+    "iceDmgMod": "0%",
+    "energyDmgMod": "110%",
+    "deathDmgMod": "90%",
+    "plural": "deepling tyrants",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Rare",
+    "speed": "155",
+    "pushobjects": "yes",
+    "fireDmgMod": "0%",
+    "sounds": [
+        "QJELL NETA NA!!"
+    ],
+    "runsat": "20",
+    "bestiaryclass": "Aquatic",
+    "creatureclass": "Amphibians",
+    "earthDmgMod": "110%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Deeplings",
+    "race_id": "861",
+    "bestiarylevel": "Hard",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "behaviour": "Almost exactly the same as a [[Deepling Guard]], though it moves faster and deals more damage with each of its attacks.",
+    "location": "[[Fiehonja]] ({{Mapper Coords|130.175|121.219|14|4|text=here}}, {{Mapper Coords|130.250|121.225|14|4|text=here}}, {{Mapper Coords|130.225|122.25|11|4|text=here}}, {{Mapper Coords|130.234|122.4|12|4|text=here}}, {{Mapper Coords|131.2|122.37|13|4|text=here}}, {{Mapper Coords|131.28|122.74|13|4|text=here}}, {{Mapper Coords|130.216|122.65|11|4|text=here}}, {{Mapper Coords|130.173|122.2|11|4|text=here}}).",
+    "strategy": "Treat it as you would a [[Deepling Guard]]. Be aware that the tyrant has more than 2.5x the health of a deepling guard so the battle will inevitably be longer."
+}

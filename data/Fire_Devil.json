@@ -1,0 +1,96 @@
+{
+    "summon": "530",
+    "templateType": "Creature",
+    "notes": "Usually found close to stronger fire-type creatures like [[Dragon]]s or [[Fire Elemental]]s. They are good [[summon]]s for blocking creatures with fire-type distance attacks, like [[Diabolic Imp]]s. \nBe careful with these though, as their [[Explosion]] can hit you or hit other players which may give you a [[White Skull]] in PVP worlds. They used to give 110 [[exp]] before [[Updates/8.5|Update 8.5]]",
+    "walksthrough": "Fire",
+    "hp": "200",
+    "abilities": "{{Ability List|{{Melee|0-35}}\n |{{Ability|Plus-shaped fireball|60-95|element=fire\n  |scene={{Scene|spell=plusspelltarget|effect=Flame Effect|caster=Fire Devil|damage_effect=Fire Effect|missile=Fire Missile|missile_direction=south-east|missile_distance=2/2|edge_size=32}}}}\n |{{Ability|Fire Ball|60-95|element=fire\n  |scene={{Scene|spell=2sqmballtarget|effect=Fireball Effect|caster=Fire Devil|damage_effect=Fire Effect|missile=Fire Missile|missile_direction=south-east|missile_distance=2/2|edge_size=32}}}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "holyDmgMod": "110%",
+    "maxdmg": "{{Max Damage|physical=35|fire=145}}",
+    "pushable": "No",
+    "implemented": "5.1",
+    "loot": [
+        {
+            "itemName": "Blank Rune",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Small Pitchfork",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "Torch",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Double Axe",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Scimitar",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Necrotic Rod",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Cleaver",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Small Amethyst",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Guardian Shield",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Energy, Poison",
+    "exp": "145",
+    "mitigation": "0.38",
+    "attacktype": "Distance",
+    "history": "If you were extremely lucky, you could loot a pair of [[Steel Boots]] in a Fire Devil before update 2004. The biggest spawn with Fire Devils were, back then, in the [[Jakundaf Desert]]. Every now and then, people went to the Jakundaf Desert for several days to hunt Fire Devils. When they returned they had a couple of Steel Boots in loot.",
+    "article": "a",
+    "actualname": "fire devil",
+    "illusionable": "yes",
+    "armor": "13",
+    "convince": "530",
+    "name": "Fire Devil",
+    "isboss": "no",
+    "iceDmgMod": "120%",
+    "energyDmgMod": "70%",
+    "deathDmgMod": "80%",
+    "plural": "fire devils",
+    "hpDrainDmgMod": "100%",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "Fire Devils are very ugly creatures that have been spotted in the deserts of Tibia. Nobody knows where these beings came from. Just like the devils from the myths, they carry a pitchfork with them and one of their feet is that of a goat. But are they real devils? However, their pungent gaze makes the experienced traveller shaken and their fireballs are quite dangerous.",
+    "speed": "90",
+    "pushobjects": "Yes",
+    "fireDmgMod": "0%",
+    "sounds": [
+        "Hot, eh?",
+        "Hell, oh, hell!"
+    ],
+    "bestiaryclass": "Demon",
+    "creatureclass": "Demons",
+    "earthDmgMod": "80%",
+    "physicalDmgMod": "90%",
+    "primarytype": "Demons",
+    "spawntype": [
+        "Regular"
+    ],
+    "race_id": "40",
+    "bestiarylevel": "Easy",
+    "senseinvis": "no",
+    "drownDmgMod": "100%",
+    "bestiaryname": "firedevil",
+    "behaviour": "They like to keep distance between themselves and their target while using strong distance attacks, this can be dangerous for low [[level]] players.",
+    "location": "[[Desert Dungeon]], [[Ancient Temple]], [[Magician Tower]], [[Shadow Tomb]], [[Ghostlands]], [[Goroma]], [[Plains of Havoc]] at [[Ornamented Shield Quest]], [[Spike Sword Quest]].",
+    "strategy": "They wont come to you, you will have to go to them. [[Knight]]s, should rush up to them and attack with full power, since they are weak to physical attacks.<br />\nLow level [[Mage]]s, should try fighting them with a [[Stealth Ring]] or, if learnt, the [[Invisible]] spell. You can kill Fire Devils fairly easily with [[Ice Damage|ice attacks]], but if you have no ice attacks then [[Death Damage|death attacks]] should be your next choice, as they have less resistance to death than to other elements. [[Magic Shield]] may also be helpful.<br />\nIf you are a [[Paladin]] with skills of 40 or higher and some healing potions, it should be  easy for you to kill Fire Devils, if you are using a shield you can try to trap them, this way they will use their melee and do less distance attacks."
+}

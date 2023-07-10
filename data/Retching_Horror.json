@@ -1,0 +1,139 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "walksthrough": "Poison",
+    "hp": "5300",
+    "abilities": "{{Ability List| {{Melee|0-500}}|{{Ability|Arrows|0-300|element=?}}|{{Ability|large groggy explosion|[[Paralyze]]s you|element=paralyze}}|{{Ability|green shimmering effect fire wave|200-450|element=fire}}|{{Ability|[[Drunkenness|drunken hit]]|element=drunk}}|{{Ability|[[Groundshaker]]|50-300|element=?}}|{{Healing}} }}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "holyDmgMod": "100%",
+    "maxdmg": "1000",
+    "pushable": "No",
+    "implemented": "10.30",
+    "loot": [
+        {
+            "amount": "1-100",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-9",
+            "itemName": "Platinum Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Goosebump Leather",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "Brown Mushroom",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Pool of Chitinous Glue",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Great Health Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Great Mana Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Beastslayer Axe",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Broken Dream",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Underworld Rod",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Mercenary Sword",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Crown Shield",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Spiked Squelcher",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Wand of Starstorm",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Fire Sword",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Tower Shield",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Onyx Flail",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Butcher's Axe",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Steel Boots",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Cluster of Solace",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Fire, Energy",
+    "exp": "4100",
+    "mitigation": "2.19",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "retching horror",
+    "illusionable": "no",
+    "armor": "74",
+    "convince": "--",
+    "name": "Retching Horror",
+    "isboss": "no",
+    "iceDmgMod": "85%",
+    "energyDmgMod": "90%",
+    "deathDmgMod": "80%",
+    "plural": "retching horrors",
+    "hpDrainDmgMod": "100%",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "The Retching Horror is an abomination of dreams, twisted and contorted. It feeds on smaller dreams and creatures like a parasite, creeping up on them and swallowing them whole. Retching Horrors do not digest their prey, but absorb it, building it into themselves and perverting everything about it, trying to block out the eternal pain they are suffering, but only adding to it with every new victim. Occasionally, they cough up horrible diseased dreams and pains, items, flies, arrows; and if they wish, they speak with different voices to ensnare and terrify their prey. Their fingers are live white worms that they use to plunge into living flesh and suck out body fluids, filling the victim afterwards with their own chitinous glue before swallowing it. Their mouth is surrounded by pallid tendril-feelers that they use to sniff out particular delicacies, and they can smell prey several miles off. As their flesh is raw, they dislike being touched, being constantly in pain, and so keep a little distance to their victims.",
+    "speed": "180",
+    "pushobjects": "Yes",
+    "fireDmgMod": "15%",
+    "sounds": [
+        "Wait for us, little maggot...",
+        "We will devour you...",
+        "My little beetles, go forth, eat, feast!"
+    ],
+    "runsat": "0",
+    "bestiaryclass": "Magical",
+    "creatureclass": "Demons",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "95%",
+    "primarytype": "Dreamhaunters",
+    "race_id": "1018",
+    "bestiarylevel": "Hard",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%",
+    "bestiaryname": "retchinghorror",
+    "behaviour": "Follows the target.",
+    "location": "All over the surface of [[Upper Roshamuul]] and [[Nightmare Isles]].",
+    "strategy": "Similar to a [[Choking Fear]], with which they are often in company. Might look strong from its many abilities, but rarely utilizes half of them. [[Knight]]s are best suited to deal with these."
+}

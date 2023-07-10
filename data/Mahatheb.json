@@ -1,0 +1,68 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "You can read more about Mahatheb in [[Mahatheb the Vizier (Book)|this book]]. This boss spawns quite rarely in the last chamber of the [[Forgotten Tomb]] on floor -6.",
+    "walksthrough": "Fire",
+    "hp": "650",
+    "speed": "?",
+    "abilities": "{{Ability List\n |{{Melee|?|poison=?}}\n |{{Ability|Paralysis|element=paralyze}}\n |{{Ability|Death Hit|element=death}}\n |{{Ability|Blood Ball|element=?}}\n |{{Summon|Blue Djinn|9}} (Very rare)\n |{{Healing|range=50-80}}\n}}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "100%?",
+    "holyDmgMod": "100%?",
+    "sounds": [],
+    "maxdmg": "?",
+    "pushable": "?",
+    "implemented": "10.80",
+    "loot": [
+        {
+            "amount": "0-?",
+            "itemName": "Gold Coin"
+        },
+        {
+            "itemName": "Flask of Embalming Fluid"
+        },
+        {
+            "itemName": "Gauze Bandage"
+        },
+        {
+            "itemName": "Magic Light Wand"
+        },
+        {
+            "amount": "0-3",
+            "itemName": "Worm"
+        },
+        {
+            "itemName": "Strange Talisman"
+        },
+        {
+            "itemName": "Silver Brooch"
+        },
+        {
+            "itemName": "Crystal Ring"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "600",
+    "creatureclass": "The Undead",
+    "earthDmgMod": "100%?",
+    "physicalDmgMod": "100%?",
+    "bosstiaryclass": "Nemesis",
+    "primarytype": "Undead Humanoids",
+    "race_id": "1133",
+    "senseinvis": "?",
+    "actualname": "Mahatheb",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Mahatheb",
+    "isboss": "yes",
+    "location": "Bottom floor of the [[Forgotten Tomb]] in a [[Varying Monster Spawn]] in which the common creatures are a [[Vampire]] and a [[Bonebeast]], {{Mapper Coords|130.114|123.214|13|4|text=here}}. The respawn time of this spawn point is roughly every 5 to 6 minutes.",
+    "iceDmgMod": "100%?",
+    "strategy": "Kill the [[Vampire]] or [[Bonebeast]] at the end of the tomb until Mahatheb spawns. The boss itself is not much stronger than the regular monsters in the tomb.",
+    "energyDmgMod": "100%?",
+    "deathDmgMod": "100%?"
+}

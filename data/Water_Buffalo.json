@@ -1,0 +1,71 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "Use [[Leech]] on a Water Buffalo to [[Water Buffalo (Mount)|tame]] it.",
+    "isarenaboss": "no",
+    "walksthrough": "None.",
+    "hp": "390",
+    "abilities": "{{Ability List|{{Melee|0-40+}}}}",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "holyDmgMod": "100%",
+    "maxdmg": "{{Max Damage|physical=40+}}",
+    "pushable": "yes",
+    "usedelements": "Physical",
+    "implemented": "9.80",
+    "loot": [
+        {
+            "amount": "0-20",
+            "itemName": "Gold Coin"
+        },
+        {
+            "amount": "0-3",
+            "itemName": "Ham"
+        },
+        {
+            "amount": "0-4",
+            "itemName": "Meat"
+        }
+    ],
+    "walksaround": "Energy, Fire, Poison",
+    "exp": "20",
+    "mitigation": "1.04",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "water buffalo",
+    "illusionable": "no",
+    "armor": "35",
+    "convince": "--",
+    "name": "Water Buffalo",
+    "isboss": "no",
+    "iceDmgMod": "100%",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "100%",
+    "plural": "water buffalos",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "no",
+    "occurrence": "Very Rare",
+    "bestiarytext": "Water buffaloes were once common inhabitants of swamps, but the large buffalo population proved to be an easy prey for the humanoid races. Against their long-ranged weapons, the slow buffaloes were defenceless. Hundreds of buffaloes were slaughtered notably during the construction of Venore. The vast buffalo population dwindled almost to the point of extinction, leaving only small packs. But what happened then is subject to speculation. The irrefutable facts are that from one day to the next, the remaining buffaloes simply had gone, vanished without a trace. Where just the day before buffaloes had been grazing, their footprints were found to end suddenly, as if they had disappeared into thin air. While this report was dismissed and the buffaloes simply thought extinct, all of a sudden they reappeared... in greater numbers and more healthy and aggressive than before. People began to form hunting parties to drive the aggressive animals away. But the hunt did not go too well and after a while, the buffaloes disappeared again, dissolving into rising mists, sometimes even right in front of the astonished hunters. Up to this day, there is no rational explanation for this occurrence. Again and again, the ghostly herds reappeared in numbers that belied the casualties they must have suffered during their last appearance. However, if a buffalo was killed, its body remained when the others vanished again and even if a buffalo had been befriended or tamed, it remained in the known world indefinitely. Still, there is no clue whereto the buffaloes vanish, and what happens there to them. The strange behaviour of the buffaloes has led to many superstitions and it is deemed  unwise to hunt buffaloes or eat their meat lest it should anger some unknown force. Some speculate that Crunor himself guards the buffaloes and grants them refuge in a mystical realm outside of space and time, while others believe the buffaloes learned some instinctive magic which provided them a magical shelter. Others again have theories about an extra-dimensional race abducting the buffaloes for experiments. In any case, someone seen riding a buffalo is regarded as either extremely brave, or extremely foolhardy as it is still considered possible that the buffalo, along with its rider, may some day vanish forever into an unknown world.",
+    "speed": "75",
+    "pushobjects": "no",
+    "fireDmgMod": "100%",
+    "sounds": [
+        "Gnarrr!",
+        "Gnoorr!",
+        "Mrrr!",
+        "<snort>"
+    ],
+    "bestiaryclass": "Mammal",
+    "creatureclass": "Mammals",
+    "earthDmgMod": "100%",
+    "physicalDmgMod": "80%",
+    "primarytype": "Ungulates",
+    "race_id": "872",
+    "bestiarylevel": "Easy",
+    "senseinvis": "no",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "waterbuffalo",
+    "behaviour": "Chases opponents.",
+    "location": "It raids every four hours, starting at server save, in groups of one to three at various places around [[Venore]] swamp, especially near the southern production site. Some sightings have been {{Mapper Coords|128.96|125.143|7|4|text=here}}, {{Mapper Coords|128.108|125.201|7|4|text=here}}, {{Mapper Coords|128.123|125.236|7|4|text=here}}, {{Mapper Coords|128.183|126.5|7|4|text=here}}, {{Mapper Coords|128.193|125.224|7|4|text=here}}, {{Mapper Coords|128.52|125.171|7|7|text=here}}, {{Mapper Coords|129.69|125.76|7|7|text=here}}, and {{Mapper Coords|129.38|125.143|7|7|text=here}}.",
+    "strategy": "Just kill it."
+}

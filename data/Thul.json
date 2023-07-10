@@ -1,0 +1,91 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "0%",
+    "notes": "The [[Quara]] boss, it looks the same as a [[Quara Constrictor]] but is stronger. It always spawns with 2 [[Quara Hydromancer]]s and 2 [[Quara Mantassin]]s, except in the quest room where it spawns alone.\n\n{{JSpoiler|Thul is a boss of the [[Killing in the Name of... Quest]]. The portal which leads to the boss is under the boat of [[Coral Comb]] in [[Calassa]], {{Mapper Coords|125.85|128.15|12|text=here}}.}}\n\n<gallery widths=\"150\" heights=\"150\" captionalign=\"left\" mode=\"nolines\">\nImage:Thul3.JPG|Thul on [[Candia]].\nImage:Thul.jpg|Thul on [[Luminera]] Oct. 3, 2010.\nThul lair.png|Thul quest room\nKrowka383 thul.jpg|Thul on Secura 10'2011\n</gallery>",
+    "walksthrough": "Fire, Poison",
+    "hp": "2950",
+    "lightcolor": "35",
+    "speed": "?",
+    "abilities": "{{Ability List|{{Melee|0-285}}|{{Ability|Ice Ball on himself|108-137|ice}}|{{Ability|[[Berserk]]|0-170}}|{{Ability|[[Poison Bomb]]|on himself|earth}}|{{Ability|Paralyzing Snow Ball||slowed}}|{{Summon|Massive Water Elemental|2}}|{{Healing|range=0-293+}}}}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "100%?",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        "Gaaahhh!",
+        "Boohaa!"
+    ],
+    "maxdmg": "{{Max Damage|physical=355|ice=137|summons=1822}}",
+    "pushable": "no",
+    "lightradius": "2",
+    "runsat": "40 <!--between 11 and 302 hp for sure -->",
+    "implemented": "7.8",
+    "loot": [
+        {
+            "amount": "0-10",
+            "itemName": "Platinum Coin"
+        },
+        {
+            "amount": "0-4",
+            "itemName": "Small Amethyst"
+        },
+        {
+            "itemName": "Great Mana Potion"
+        },
+        {
+            "itemName": "Marlin"
+        },
+        {
+            "itemName": "Relic Sword"
+        },
+        {
+            "itemName": "Wand of Cosmic Energy",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Crown Armor",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Crusader Helmet",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Skull Helmet",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Fish Fin",
+            "rarity": "always"
+        }
+    ],
+    "walksaround": "Energy",
+    "exp": "2700",
+    "creatureclass": "Amphibians",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "100%?",
+    "primarytype": "Quara",
+    "spawntype": [
+        "Raid",
+        "Unique",
+        "Triggered",
+        "Unblockable"
+    ],
+    "race_id": "280",
+    "history": "Thul's loot has drastically been improved in the [[Updates/9.2|9.2 Update]] to make him a more desirable boss to hunt.",
+    "senseinvis": "yes",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Thul",
+    "isboss": "yes",
+    "behaviour": "When he uses poison bomb he will poison himself but he is not weak or strong against earth damage. Thul will run at about 40 health (tested at 37, note that [[Quara Constrictor]]s run at 40).",
+    "location": "[[Calassa]], near and underneath the ship with the [[Coral Comb]] (two spawns), {{Mapper Coords|125.82|128.14|13|2|text=here}}.",
+    "iceDmgMod": "0%",
+    "strategy": "Thul can be found in two areas: he is in the quest room when someone enters it and he can spawn just west of the teleport to it. Thul and his [[Massive Water Elemental]] summons do not cross energy fields unless they cannot reach you otherwise. It can be handy for paladins and mages to throw an energy wall toward the teleport (quest room Thul) and run over it to avoid close-combat attacks (they will all run around the coral). Note that Thul can poison bomb over energy walls, but will do so very rarely while chasing you around them.",
+    "energyDmgMod": "115%>",
+    "deathDmgMod": "100%?"
+}

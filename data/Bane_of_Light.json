@@ -1,0 +1,62 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "Only appears during [[The Lightbearer]] event.",
+    "walksthrough": "Fire",
+    "hp": "1100",
+    "abilities": "{{Ability List\n |{{Melee|0-366|poison=6}}\n |{{Ability|Death Missile|50-250|element=death\n  |scene={{Scene|spell=3sqmstrike|caster=Bane of Light|effect=Death Effect|missile=Death Missile|missile_direction=south-east|missile_distance=3/3}}}}\n |{{Ability|Paralyze Ball|element=paralyze\n  |scene={{Scene|spell=5sqmballself|effect=Cloud Effect|caster=Bane of Light|casting_effect=Cloud Effect}}}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "?",
+    "secondarytype": "Event Creatures",
+    "holyDmgMod": "100%",
+    "maxdmg": "?",
+    "pushable": "?",
+    "implemented": "8.50",
+    "loot": [
+        {
+            "itemName": "Midnight Shard",
+            "rarity": "uncommon"
+        }
+    ],
+    "walksaround": "Energy, Poison",
+    "exp": "750",
+    "mitigation": "1.46",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "bane of light",
+    "illusionable": "no",
+    "armor": "38",
+    "convince": "--",
+    "name": "Bane of Light",
+    "isboss": "no",
+    "iceDmgMod": "0%",
+    "energyDmgMod": "120%",
+    "deathDmgMod": "100%",
+    "status": "event",
+    "plural": "banes of light",
+    "hpDrainDmgMod": "0%?",
+    "usespells": "yes",
+    "occurrence": "Very Rare",
+    "speed": "115",
+    "pushobjects": "?",
+    "fireDmgMod": "0%",
+    "sounds": [
+        ""
+    ],
+    "runsat": "20<!--?-->",
+    "bestiaryclass": "Undead",
+    "creatureclass": "The Undead",
+    "earthDmgMod": "80%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Vampires",
+    "spawntype": [
+        "Event"
+    ],
+    "race_id": "580",
+    "bestiarylevel": "Medium",
+    "senseinvis": "?",
+    "drownDmgMod": "0%?",
+    "behaviour": "Unknown.",
+    "location": "[[Svargrond]] around [https://tibia.fandom.com/wiki/Mapper?coords=125.79-121.148-1-4-1-1 the Lightbringer's basin].",
+    "strategy": "Run from them while shooting, Since they come in groups and can hit sometimes pretty hard."
+}

@@ -1,0 +1,71 @@
+{
+    "summon": "315",
+    "templateType": "Creature",
+    "notes": "They are a bit stronger than [[Bear]]s.",
+    "walksthrough": "?",
+    "hp": "85",
+    "abilities": "{{Ability List\n |{{Melee|0-30}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "holyDmgMod": "100%",
+    "maxdmg": "{{Max Damage|physical=30}}",
+    "pushable": "no",
+    "usedelements": "Physical",
+    "implemented": "5.1",
+    "loot": [
+        {
+            "amount": "0-2",
+            "itemName": "Ham"
+        },
+        {
+            "amount": "0-4",
+            "itemName": "Meat"
+        },
+        {
+            "itemName": "Polar Bear Paw",
+            "rarity": "rare"
+        }
+    ],
+    "walksaround": "Fire, Energy, Poison",
+    "exp": "28",
+    "mitigation": "0.25",
+    "attacktype": "Melee",
+    "history": "Although the sprites for polar bears were implemented on [[Updates/5.1|Update 5.1]], the first known spawns of this creature were only implemented with [[Ice Islands#Southern Ice Islands|Southern Ice Islands]] on [[Updates/6.2|Update 6.2]].<br />From [[Updates/8.0|Summer Update 2007]] till [[Updates/8.54|Christmas Update 2009]], polar bears dropped normal [[Bear Paw]]s. These were then replaced by [[Polar Bear Paw]]s.",
+    "article": "a",
+    "actualname": "polar bear",
+    "illusionable": "yes",
+    "armor": "7",
+    "convince": "315",
+    "name": "Polar Bear",
+    "isboss": "no",
+    "iceDmgMod": "80%",
+    "energyDmgMod": "105%",
+    "deathDmgMod": "110%",
+    "plural": "polar bears",
+    "hpDrainDmgMod": "100%",
+    "usespells": "no",
+    "occurrence": "Common",
+    "bestiarytext": "Polar Bears live at the ice islands in the north-west of Tibia. They are nourished by fish and small animals. They are stronger and more aggressive than their brown cousins. Avoid their powerful stroke and attack them with distance fighting weapons.",
+    "speed": "78",
+    "pushobjects": "no",
+    "fireDmgMod": "90%",
+    "sounds": [
+        "GROARRR!"
+    ],
+    "bestiaryclass": "Mammal",
+    "creatureclass": "Mammals",
+    "earthDmgMod": "100%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Bears",
+    "spawntype": [
+        "Regular"
+    ],
+    "race_id": "42",
+    "bestiarylevel": "Easy",
+    "senseinvis": "no",
+    "drownDmgMod": "100%",
+    "bestiaryname": "polarbear",
+    "behaviour": "Polar Bears run at 5 health (red).",
+    "location": "[[Ice Islands]].",
+    "strategy": "They are weak, but be careful when they attack in groups if you are low level."
+}

@@ -1,0 +1,98 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "<noinclude><p>[[File:Forest Fury.jpg|200px]]</p></noinclude>",
+    "isarenaboss": "no",
+    "walksthrough": "None.",
+    "hp": "480",
+    "abilities": "{{Ability List\n |{{Melee|0-50?}}\n |{{Ability|[[Distance Fighting|Spears]]|0-100?|element=?}}\n |{{Debuff2|shielding=yes|value=50%}}\n |{{Debuff2|distance=yes|value=50%}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "secondarytype": "Ungulates",
+    "holyDmgMod": "90%",
+    "maxdmg": "150?",
+    "pushable": "No",
+    "implemented": "10.10",
+    "loot": [
+        {
+            "amount": "1-55",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Meat",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-15",
+            "itemName": "Bolt",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Venison",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-5",
+            "itemName": "Piercing Bolt",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Elven Hoof",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Crossbow",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Small Topaz",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Elvish Bow",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Energy, Fire, Poison",
+    "exp": "235",
+    "mitigation": "0.80",
+    "attacktype": "Distance",
+    "article": "a",
+    "actualname": "forest fury",
+    "illusionable": "yes",
+    "armor": "19",
+    "convince": "--",
+    "name": "Forest Fury",
+    "isboss": "no",
+    "iceDmgMod": "100%",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "60%",
+    "plural": "forest furies",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "The forest furies are the tragic product of careless experiments with the waters of Ashar'tel. Inspired by the rebellious amazons of Carlin, some young and restless elven maiden founded a sisterhood of their own. The futility of their protest against the rigid elven society and it's rule soon drove them to foolhardy dangerous ways of protest that bordered on criminal acts and endangered them of becoming outcasts. In an desperate attempt to hold her sisterhood together, their leader Emana Greenskull staged the theft of several amphora with the waters of Ashar'tel, branding the sisterhood as outcasts and binding her followers to her by taking from them the option to peacefully return to the society. With little knowledge about the water, but convinced it contained power, the elders refused the younger ones, Emana and her sisters inhibited themselves with the water. At first they truly felt the surge of power that they expected. But the water became like a drug the them and slowly changed their very nature and mutated them into something else. Convinced that the voices they heard in their inhibition were revelation from nature itself, the sisters embraced their change and even enforced it. The change though left them mutated not only in body but also in mind and after the last water has been used up, and symptoms of withdrawal begun to torture them, the remaining sisters were completely driven into madness. Renaming themselves as forest furies they see themselves as the chosen of nature and enacting it's revenge on the people misusing it - which is, in their twisted thinking, almost everyone bit themselves and a few allies. The furies are unpredictable but hatefully. They can not be reasoned with and the best one can hope for is, that they might be that absorbed in some holy mission, that they might simply ignore them. In battle the furies employ not only the physical force of their changed bodies, but also a variety of druidic spells, which are strangely enough often intuitive abilities, rather then spells and are unknown to other users of druidic magic.",
+    "speed": "110",
+    "pushobjects": "?",
+    "fireDmgMod": "105%",
+    "sounds": [
+        "To arms, sisters!",
+        "Feel the wrath of mother forest!",
+        "By the power of Greenskull!"
+    ],
+    "runsat": "0",
+    "bestiaryclass": "Magical",
+    "creatureclass": "Humanoids",
+    "earthDmgMod": "100%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Elves",
+    "race_id": "980",
+    "bestiarylevel": "Medium",
+    "senseinvis": "no",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "forestfury",
+    "behaviour": "They keep a distance from their targets.",
+    "location": "[[Forest Fury Camp]], [[Dryad Gardens]] and in the [[Forsaken Mine/Forest Furies|Forest Fury]] version of the [[Forsaken Mine]].",
+    "strategy": "Similar to a [[Hunter]] (albeit more durable), but has two annoying debuff attacks that are especially harmful to [[Paladin]]s, who are recommended to take it out before any [[Wilting Leaf Golem]]. [[Mage]]s should kill it with fire. For [[knight]]s it is recommended to use a two handed weapon because of their shielding skill reduction that makes shields almost useless and furies are usually accompanied by [[Wilting Leaf Golem]]s, which fight in close combat."
+}

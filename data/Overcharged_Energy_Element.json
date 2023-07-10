@@ -1,0 +1,73 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "overcharged energy elements",
+    "hpDrainDmgMod": "100%?",
+    "notes": "Expensive and hard to kill for low level knights, after [[Updates/8.5|Summer Update 2009]] it is not strong against [[Physical Damage]] anymore but it is still not so easy to hunt because of combos for over 600 hitpoints.\n<gallery mode=\"nolines\">\nFile:Energy sphere2.jpg|It is usually a bad idea to fight more than one solo.\n</gallery>",
+    "isarenaboss": "no",
+    "walksthrough": "?",
+    "hp": "1200",
+    "speed": "?",
+    "abilities": "{{Ability List\n |{{Melee|0-200}}\n |{{Ability|Energy Missile|150-420|element=energy}}\n |{{Ability|Energy Strike|100-250|element=energy}}\n |{{Ability|Electrifies you|25 [[Damage]] per 4 turns|element=electrified}}\n}}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "0%",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        "BZZZZZZZZZZ"
+    ],
+    "maxdmg": "895",
+    "pushable": "?",
+    "implemented": "8.20",
+    "loot": [
+        {
+            "amount": "0-175",
+            "itemName": "Gold Coin"
+        },
+        {
+            "itemName": "Energy Soil"
+        },
+        {
+            "itemName": "Great Health Potion"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "Small Amethyst"
+        },
+        {
+            "itemName": "Berserk Potion",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Ring of Healing",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Wand of Starstorm",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "1300",
+    "creatureclass": "Elementals",
+    "earthDmgMod": "120%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Electro-Elementals",
+    "race_id": "468",
+    "senseinvis": "?",
+    "article": "an",
+    "actualname": "overcharged energy element",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Overcharged Energy Element",
+    "isboss": "no",
+    "behaviour": "A bit fast. It fights until death.",
+    "location": "[[Energy Sphere]]",
+    "iceDmgMod": "0%",
+    "strategy": "Attack it with melee and [[Whirlwind Throw]], [[Berserk]] or even [[Fierce Berserk]] when more elementals come. Be careful and try to lure one at a time (move forward slowly, and when you see it run back few squares). Do the [[quest]] with friends - at least 3 people so one of you will break elemental's shielding to speed up killing. Remember to bring [[food]], because they don't drop any food.",
+    "energyDmgMod": "0%",
+    "deathDmgMod": "100%?"
+}

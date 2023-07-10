@@ -1,0 +1,79 @@
+{
+    "summon": "300",
+    "templateType": "Creature",
+    "plural": "roast porks",
+    "hpDrainDmgMod": "100%?",
+    "walksthrough": "Fire",
+    "hp": "420",
+    "usespells": "yes",
+    "occurrence": "Rare",
+    "speed": "90",
+    "abilities": "{{Ability List| {{Melee|0-30?}}|{{Ability|[[Fire Damage|Fire Hit]]|35-70?|element=fire}}|{{Ability|[[Fire Damage|Fire Beam]]|30-100?|element=fire}} }}",
+    "healMod": "100%",
+    "pushobjects": "No",
+    "paraimmune": "no",
+    "fireDmgMod": "0%",
+    "holyDmgMod": "100%",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "200",
+    "pushable": "Yes",
+    "usedelements": "Fire",
+    "runsat": "15",
+    "implemented": "12.20.9066",
+    "bestiaryclass": "Mammal",
+    "loot": [
+        {
+            "amount": "1-10",
+            "itemName": "Meat",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-20",
+            "itemName": "Ham",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-10",
+            "itemName": "Roasted Meat",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Beer Tap",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Leberkassemmel",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Energy, Poison",
+    "exp": "280",
+    "creatureclass": "Mammals",
+    "earthDmgMod": "110%",
+    "mitigation": "0.78",
+    "physicalDmgMod": "100%",
+    "primarytype": "Ungulates",
+    "spawntype": [
+        "Regular",
+        "Unblockable"
+    ],
+    "attacktype": "Melee",
+    "race_id": "1855",
+    "bestiarylevel": "Medium",
+    "senseinvis": "Yes",
+    "article": "a",
+    "actualname": "roast pork",
+    "illusionable": "Yes",
+    "armor": "28",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Roast Pork",
+    "isboss": "no",
+    "location": "[[Orcsoberfest Island]].",
+    "iceDmgMod": "100%",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "110%",
+    "status": "event"
+}

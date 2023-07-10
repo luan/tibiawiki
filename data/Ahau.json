@@ -1,0 +1,136 @@
+{
+    "summon": "no",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "{{JSpoiler|Part of the [[Adventures of Galthen Quest]].}}",
+    "walksthrough": "Energy, Fire, Poison",
+    "hp": "9000",
+    "usespells": "yes",
+    "abilities": "{{Ability List\n |{{Melee|0-456|poison=4}}\n |{{Ability|Earth Strike|354-422|element=earth\n  |scene={{Scene|spell=1sqmstrike|caster=Ahau|effect=Poison Effect 1}}}}\n |{{Ability|Fire Beam|411-511|element=fire\n  |scene={{Scene|spell=5sqmbeam|caster=Ahau|look_direction=east|effect=Fire Effect|damage_effect=None}}}}\n |{{Ability|Chain Fire|230-275|element=fire\n  |scene={{Scene|spell=chainspell|caster=Ahau|effect=Orange Chain Effect|damage_effect=Fire Effect}}}}\n |{{Ability|Boulder Bomb|419-570|earth\n  |scene={{Scene|spell=2sqmballself|caster=Ahau|effect=Stone Shower Effect|effect_on_caster=yes|damage_effect=Unknown}}}}\n |{{Ability|Boulder Ring|468-493|earth\n  |scene={{Scene|spell=6sqmring|caster=Ahau|effect=Stone Shower Effect|damage_effect=Unknown}}}}\n}}",
+    "pushobjects": "yes",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "95%",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        "WAAAHNGH!!!",
+        "Awrrrgh!",
+        "IKSPUTUTU!!",
+        "Hwaaarrrh!!!",
+        "Wraaahgh?!",
+        "AAAAAH!!"
+    ],
+    "maxdmg": "0",
+    "runsat": "0",
+    "cooldown": "20",
+    "implemented": "13.10.12852",
+    "loot": [
+        {
+            "amount": "1",
+            "itemName": "The Living Idol of Tukh"
+        },
+        {
+            "amount": "1-100",
+            "itemName": "Gold Coin"
+        },
+        {
+            "amount": "1-5",
+            "itemName": "Great Health Potion"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "Rotten Feather"
+        },
+        {
+            "amount": "1",
+            "itemName": "Amber with a Bug"
+        },
+        {
+            "amount": "1",
+            "itemName": "Amber (Item)"
+        },
+        {
+            "amount": "1",
+            "itemName": "Ritual Tooth"
+        },
+        {
+            "amount": "1-5",
+            "itemName": "Great Mana Potion"
+        },
+        {
+            "amount": "1",
+            "itemName": "Ring of Green Plasma"
+        },
+        {
+            "amount": "1",
+            "itemName": "Ring of Red Plasma"
+        },
+        {
+            "amount": "1",
+            "itemName": "Collar of Green Plasma"
+        },
+        {
+            "amount": "1",
+            "itemName": "Collar of Red Plasma"
+        },
+        {
+            "amount": "1",
+            "itemName": "Collar of Blue Plasma"
+        },
+        {
+            "amount": "1",
+            "itemName": "Gold-Brocaded Cloth"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Bar of Gold"
+        },
+        {
+            "amount": "1-8",
+            "itemName": "Diamond"
+        },
+        {
+            "amount": "1",
+            "itemName": "Broken Iks Headpiece"
+        },
+        {
+            "amount": "1",
+            "itemName": "Broken Iks Faulds"
+        },
+        {
+            "itemName": "Great Spirit Potion"
+        },
+        {
+            "itemName": "Ring of Blue Plasma"
+        },
+        {
+            "itemName": "Broken Macuahuitl"
+        },
+        {
+            "itemName": "Broken Iks Cuirass"
+        }
+    ],
+    "exp": "17500",
+    "creatureclass": "The Undead",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "100%?",
+    "bosstiaryclass": "Archfoe",
+    "primarytype": "Iks",
+    "spawntype": [
+        "Triggered"
+    ],
+    "attacktype": "melee",
+    "race_id": "2346",
+    "senseinvis": "yes",
+    "actualname": "Ahau",
+    "illusionable": "no",
+    "drownDmgMod": "100%?",
+    "convince": "no",
+    "name": "Ahau",
+    "isboss": "yes",
+    "behaviour": "Yells {{Message|type=sound|Hwaaarrrh!!!}}, {{Message|type=sound|Wraaahgh?!}}, or {{Message|type=sound|AAAAAH!!}} when being reborn",
+    "location": "[[Iksupan]]",
+    "iceDmgMod": "100%?",
+    "energyDmgMod": "95%",
+    "deathDmgMod": "0%"
+}

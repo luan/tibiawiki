@@ -1,0 +1,57 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%",
+    "notes": "Obujos, Defensor Profundis, is one of the three depth lords. Reachable in third stage of [[Liquid Black Quest]]. He is the second strongest [[Deeplings|deepling]] boss.<br />{{Seealso|Obujos/Treasure Statistics}}",
+    "isarenaboss": "no",
+    "walksthrough": "?",
+    "hp": "35000",
+    "speed": "?",
+    "abilities": "{{Ability List\n |{{Melee|0-1200|poison=18}}\n |{{Ability|Great Cloud-Energy Bomb|200-600|manadrain}}\n |{{Ability|Ice Beam|600-1300|ice}}\n |{{Ability|Eternal Winter Wave|600-1500|lifedrain}}\n |{{Ability|Great Sudden Death Bomb|200-800|death}}\n |{{Ability|Distance Earth Attack (Assassin star/arrow)|0-800|earth}}\n |{{Debuff2|Sudden Death|distance=yes|value=60%}}\n |{{Healing|Extremely fast [[Self-Healing]]|1000-2000+}}\n}}",
+    "pushobjects": "yes",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "40%",
+    "holyDmgMod": "100%",
+    "sounds": [
+        "QJELL KEJH!!",
+        "JN OBU!!"
+    ],
+    "maxdmg": "{{Max Damage|physical=1200|earth=818|manadrain=600|ice=1300|lifedrain=1500|death=800}}",
+    "pushable": "no",
+    "runsat": "deep red",
+    "implemented": "9.40",
+    "loot": [
+        {
+            "itemName": "Deepling Axe"
+        },
+        {
+            "itemName": "Depth Scutum"
+        },
+        {
+            "itemName": "Ornate Legs"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "20000",
+    "creatureclass": "Amphibians",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "75%",
+    "bosstiaryclass": "Bane",
+    "primarytype": "Deeplings",
+    "race_id": "774",
+    "senseinvis": "yes",
+    "actualname": "Obujos",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%",
+    "convince": "--",
+    "name": "Obujos",
+    "isboss": "yes",
+    "behaviour": "He walks on all kinds of fields, he has strong ice beam/wave.",
+    "location": "[[Fiehonja]], spawns {{Mapper Coords|130.154|122.32|11|8|text=here}}.",
+    "iceDmgMod": "80%",
+    "strategy": "Trap him in narrow path in south part of his arena and block him with [[Wild Growth]] to avoid retarget. Don't let him walk around, because he may recover his health quickly. [[Bronze Amulet]] is highly recommended as Obujos does mana drain attack about every second turn. Druids should use their strongest ice spells because this boss is weak on ice.",
+    "energyDmgMod": "85%",
+    "deathDmgMod": "40%"
+}

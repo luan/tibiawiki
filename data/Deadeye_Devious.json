@@ -1,0 +1,102 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "Deadeye Devious",
+    "hpDrainDmgMod": "100%?",
+    "notes": "Responsible for raiding the [[Liberty Bay]] [[depot]] in ''some'' [[raid]]s.\n\n<gallery mode=\"nolines\">\nImage:Deadeye.JPG|Deadeye Devious and his crew at Liberty Bay Depot.\n</gallery>\n\n{{JSpoiler|\nYou get a chance to kill him in the [[Killing in the Name of... Quest]] after killing '''3000 pirates''' for [[Raymond Striker]]. The teleporter is located [http://tibia.wikia.com/wiki/Mapper?coords{{=}}124.233-128.85-1-4-1-1 here].}}<br>",
+    "walksthrough": "None.",
+    "hp": "1450",
+    "speed": "?",
+    "abilities": "{{Ability List| {{Healing}}|{{Ability|[[Distance]]|Throwing Knives|?|element=physical}}|{{Melee|?}} }}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "100%?",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        "Let's kill 'em",
+        "Arrrgh!",
+        "You'll never take me alive!",
+        "§%§&§! #*$§$!!",
+        "You won't get me alive!"
+    ],
+    "maxdmg": "250",
+    "pushable": "?",
+    "implemented": "7.8",
+    "loot": [
+        {
+            "amount": "0-140",
+            "itemName": "Gold Coin",
+            "rarity": "always"
+        },
+        {
+            "itemName": "Deadeye Devious' Eye Patch",
+            "rarity": "always"
+        },
+        {
+            "itemName": "Plate Armor"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "Skull (Item)"
+        },
+        {
+            "amount": "0-3",
+            "itemName": "Meat"
+        },
+        {
+            "itemName": "Dagger",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Knight Armor",
+            "rarity": "semi-rare"
+        },
+        {
+            "amount": "0-1",
+            "itemName": "Small Diamond",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Great Health Potion",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Double Axe",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Pirate Backpack",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Very Old Piece of Paper",
+            "rarity": "rare"
+        }
+    ],
+    "walksaround": "Fire, Energy, Poison",
+    "exp": "750",
+    "creatureclass": "Humans",
+    "earthDmgMod": "100%?",
+    "physicalDmgMod": "100%?",
+    "primarytype": "Pirates",
+    "spawntype": [
+        "Raid",
+        "Triggered"
+    ],
+    "race_id": "275",
+    "senseinvis": "?",
+    "actualname": "Deadeye Devious",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Deadeye Devious",
+    "isboss": "yes",
+    "behaviour": "Keeps a distance and runs away in low health.",
+    "location": "Just outside the south exit of the Liberty Bay depot.",
+    "iceDmgMod": "100%?",
+    "strategy": "GFB's are a must - the amount of pirates that swarm this area is phenomenal. So try and pick them off and weaken Deadeye at the same time. Try [[Magic Shield]] and running in and out of the depot - or up and down stairs.",
+    "energyDmgMod": "100%?",
+    "deathDmgMod": "100%?"
+}

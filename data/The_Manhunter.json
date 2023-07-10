@@ -1,0 +1,75 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "the manhunter",
+    "hpDrainDmgMod": "100%?",
+    "notes": "Rare [[Spidris]] boss found on the bottom of the [[Hive Outpost]] in [[Liberty Bay]], in a ~20-minute [[Varying Monster Spawn]] in which the common creatures are a [[Hive Overseer]] and a [[Spidris Elite]], and the possible rare bosses are [[The Hungerer]], [[The Manhunter]], and [[The Mean Masher]]. This respawn point can be blocked if you stay in the spawn room.",
+    "walksthrough": "?",
+    "hp": "4500",
+    "speed": "?",
+    "abilities": "{{Ability List| {{Melee|0-300}}|{{Ability|[[Earth Damage|Poison Burst Arrow]]|0-300|element=earth}}|{{Healing|range=200-260}} }}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "secondarytype": "Arachnids",
+    "fireDmgMod": "100%?",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "600",
+    "pushable": "?",
+    "implemented": "10.80",
+    "loot": [
+        {
+            "amount": "57-136",
+            "itemName": "Gold Coin"
+        },
+        {
+            "amount": "2-4",
+            "itemName": "Platinum Coin"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "Great Mana Potion"
+        },
+        {
+            "amount": "0-1",
+            "itemName": "Ultimate Health Potion"
+        },
+        {
+            "amount": "0-1",
+            "itemName": "Compound Eye"
+        },
+        {
+            "amount": "0-1",
+            "itemName": "Spidris Mandible"
+        },
+        {
+            "amount": "0-1",
+            "itemName": "Small Ruby"
+        }
+    ],
+    "walksaround": "Fire",
+    "exp": "3000",
+    "creatureclass": "Invertebrates",
+    "earthDmgMod": "100%?",
+    "physicalDmgMod": "100%?",
+    "bosstiaryclass": "Nemesis",
+    "primarytype": "Hive Born",
+    "race_id": "1126",
+    "senseinvis": "?",
+    "actualname": "the manhunter",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "The Manhunter",
+    "isboss": "yes",
+    "behaviour": "Approaches the target very fast.",
+    "location": "[[Hive Outpost]] -2, {{Mapper Coords|125.166|128.97|9|2|text=here}}.",
+    "iceDmgMod": "100%?",
+    "strategy": "Separate it from other monsters, stand diagonally and take it down.",
+    "energyDmgMod": "100%?",
+    "deathDmgMod": "100%?"
+}

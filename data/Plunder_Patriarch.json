@@ -1,0 +1,109 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "plunder patriarchs",
+    "hpDrainDmgMod": "100%?",
+    "notes": "Whenever a creature in [[Gnomprona]] is defeated, there is a small chance of a plunder patriarch spawning. This chance increases with higher [[Hazard System|hazard levels]].\n\nA plunder patriarch always yields at least one of the [[Primal Set]] equipments. There's a rare chance of it yielding a second one.\n<gallery captionalign=\"center\" mode=\"nolines\">\nPlunder Patriarch Artwork 2.jpg|Official Sketch\n</gallery>",
+    "walksthrough": "None",
+    "hp": "?",
+    "abilities": "{{Ability List}}",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "100%?",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "0",
+    "implemented": "12.90.12182",
+    "loot": [
+        {
+            "itemName": "Raw Watermelon Tourmaline"
+        },
+        {
+            "itemName": "Royal Almandine"
+        },
+        {
+            "itemName": "Giant Amethyst"
+        },
+        {
+            "itemName": "Giant Sapphire"
+        },
+        {
+            "itemName": "Fiery Tear"
+        },
+        {
+            "itemName": "Amber with a Bug"
+        },
+        {
+            "itemName": "Amber with a Dragonfly"
+        },
+        {
+            "amount": "1-45",
+            "itemName": "Crystal Coin"
+        },
+        {
+            "itemName": "Spiritthorn Helmet"
+        },
+        {
+            "itemName": "Spiritthorn Armor"
+        },
+        {
+            "itemName": "Charged Spiritthorn Ring"
+        },
+        {
+            "itemName": "Alicorn Headguard"
+        },
+        {
+            "itemName": "Alicorn Quiver"
+        },
+        {
+            "itemName": "Charged Alicorn Ring"
+        },
+        {
+            "itemName": "Arboreal Crown"
+        },
+        {
+            "itemName": "Arboreal Tome"
+        },
+        {
+            "itemName": "Charged Arboreal Ring"
+        },
+        {
+            "itemName": "Arcanomancer Regalia"
+        },
+        {
+            "itemName": "Arcanomancer Folio"
+        },
+        {
+            "itemName": "Charged Arcanomancer Sigil"
+        },
+        {
+            "itemName": "Alicorn Ring"
+        },
+        {
+            "itemName": "Arboreal Ring"
+        },
+        {
+            "itemName": "Arcanomancer Sigil"
+        },
+        {
+            "itemName": "Spiritthorn Ring"
+        }
+    ],
+    "exp": "0",
+    "earthDmgMod": "100%?",
+    "physicalDmgMod": "100%?",
+    "senseinvis": "?",
+    "article": "a",
+    "actualname": "plunder patriarch",
+    "illusionable": "no",
+    "drownDmgMod": "100%?",
+    "convince": "?",
+    "name": "Plunder Patriarch",
+    "isboss": "no",
+    "location": "[[Gnomprona]].",
+    "iceDmgMod": "100%?",
+    "energyDmgMod": "100%?",
+    "deathDmgMod": "100%?"
+}

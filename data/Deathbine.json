@@ -1,0 +1,88 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "Deathbine",
+    "hpDrainDmgMod": "100%?",
+    "notes": "[[Carniphila]]'s boss. Part of the [[Paw and Fur Society]] tasks of [[Grizzly Adams]].\n{{JSpoiler|Part of the [[Killing in the Name of... Quest]].}}",
+    "walksthrough": "Poison",
+    "hp": "525",
+    "speed": "?",
+    "abilities": "{{Ability List|{{Melee|0-100|poison=5}}|{{Ability|[[Paralyze]]|heavy|element=paralyze}}|{{Ability|[[Stalagmite]]|60-95|element=earth}}|{{Ability|[[Berserk|Terra Berserk]]|40-130|element=earth}} }}",
+    "pushobjects": "yes",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "120%?",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "330",
+    "pushable": "No",
+    "runsat": "0",
+    "implemented": "9.20",
+    "loot": [
+        {
+            "amount": "1-5",
+            "itemName": "Platinum Coin",
+            "rarity": "always"
+        },
+        {
+            "amount": "0-5",
+            "itemName": "Carniphila Seeds",
+            "rarity": "always"
+        },
+        {
+            "itemName": "Shadow Herb",
+            "rarity": "always"
+        },
+        {
+            "amount": "0-4",
+            "itemName": "Small Emerald",
+            "rarity": "always"
+        },
+        {
+            "itemName": "Dark Mushroom"
+        },
+        {
+            "itemName": "Seeds"
+        },
+        {
+            "itemName": "Springsprout Rod"
+        },
+        {
+            "itemName": "Terra Amulet"
+        },
+        {
+            "itemName": "Terra Boots"
+        },
+        {
+            "itemName": "Mandrake",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Sweet Smelling Bait",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Fire, Energy",
+    "exp": "340",
+    "creatureclass": "Elementals",
+    "earthDmgMod": "0%?",
+    "physicalDmgMod": "100%?",
+    "primarytype": "Bio-Elementals",
+    "race_id": "753",
+    "senseinvis": "yes",
+    "actualname": "Deathbine",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Deathbine",
+    "isboss": "yes",
+    "behaviour": "It will try to get close by paralyzing you, in order to attack with its earth and melee attacks.",
+    "location": "[[Tiquanda]], going down {{Mapper Coords|127.219|127.253|7|2|text=this hole}} and entering {{Mapper Coords|127.210|127.250|8|4|text=this portal}}.",
+    "iceDmgMod": "65%?",
+    "strategy": "Just treat it like a somewhat stronger Carniphila.",
+    "energyDmgMod": "90%?",
+    "deathDmgMod": "100%?"
+}

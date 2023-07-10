@@ -1,0 +1,78 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "Recently several citizens of Port Hope have vanished. It is rumoured that they were killed by a crocodile. The people call it 'Snapper'.\n\n{{JSpoiler|Part of the [[Killing in the Name of... Quest]]. It cannot be killed until [[Grizzly Adams]] lets you enter the teleporter.}}",
+    "walksthrough": "?",
+    "hp": "300",
+    "speed": "?",
+    "abilities": "{{Ability List\n |{{Melee|0-60}}\n}}",
+    "pushobjects": "yes",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "110%",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "{{Max Damage|physical=60}}",
+    "pushable": "No",
+    "usedelements": "Physical",
+    "implemented": "8.50",
+    "loot": [
+        {
+            "amount": "0-194",
+            "itemName": "Gold Coin"
+        },
+        {
+            "itemName": "Life Ring"
+        },
+        {
+            "amount": "0-4",
+            "itemName": "Small Emerald"
+        },
+        {
+            "amount": "0-5",
+            "itemName": "Health Potion"
+        },
+        {
+            "itemName": "Plate Armor"
+        },
+        {
+            "itemName": "Plate Legs"
+        },
+        {
+            "itemName": "Crocodile Boots",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Knight Armor",
+            "rarity": "semi-rare"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "150",
+    "creatureclass": "Reptiles",
+    "earthDmgMod": "85%<?",
+    "physicalDmgMod": "105%?",
+    "primarytype": "Crocodilians",
+    "spawntype": [
+        "Unique",
+        "Triggered",
+        "Unblockable"
+    ],
+    "race_id": "545",
+    "senseinvis": "yes",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "The Snapper",
+    "isboss": "yes",
+    "behaviour": "The Snapper is a [[melee]] combatant so chases its opponent, but runs in very low [[health]].",
+    "location": "1 floor down in the [[Tiquanda Reptile and Crustacean Caves]], in its own room accessible through a teleporter, which is located {{Mapper Coords|127.96|127.202|8|4|text=here}}.<br/>",
+    "iceDmgMod": "90%?",
+    "strategy": "Kill it like a normal [[Crocodile]].<br>\n[[Paladin]]s and [[Mage]]s: There is a big rock in the middle they can run around and shoot at him from.<br/>\n[[Knight]]s: If your level is lower than 20, bring potions because he has a high defense and you won't hit too much.\n\n<gallery perrow=\"0\" widths=\"120\" heights=\"120\" captionalign=\"left\" mode=\"nolines\">\nImage:The_Snapper.jpg|The Snapper being killed\nImage:The_Snapper_room.png|The Snapper's entire room\n</gallery>",
+    "energyDmgMod": "105%",
+    "deathDmgMod": "100%?"
+}

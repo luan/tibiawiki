@@ -1,0 +1,133 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "It only drops a [[Bag You Desire]] for players with at least one of [[Goshnar's Taints]]. The more taints you have, the higher the chance. The Bag is always dropped inside a [[Reward Container]] so there's no risk of leaving it behind in the creature's corpse.",
+    "walksthrough": "Fire, Energy, Poison",
+    "hp": "26000",
+    "abilities": "{{Ability List|}}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "holyDmgMod": "120%",
+    "maxdmg": "?",
+    "pushable": "no",
+    "implemented": "12.40.9997",
+    "loot": [
+        {
+            "itemName": "Crystal Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Terra Rod",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Hailstorm Rod",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Ultimate Health Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Fire Axe",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Crystal Mace",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "War Axe",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Titan Axe",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Chaos Mace",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Glorious Axe",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Underworld Rod",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Springsprout Rod",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Wand of Starstorm",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Wand of Voodoo",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Warrior's Axe",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Infernal Heart",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Infernal Robe",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Bag You Desire",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "None",
+    "exp": "15770",
+    "mitigation": "2.45",
+    "attacktype": "Distance",
+    "history": "On [[Updates/12.60.10468|December 01, 2020]], its experience was decreased from 28,600 to 22,880, and its loot drop rate was decreased in 15%. It didn't walk over Poison Fields until [[Updates/12.64.10672|March 09, 2021]], when this behavior was changed.\n\nIts experience was reduced from 22,8800 to 20,000 and its loot in 5% with the balancing changes on {{OfficialNewsArchive|6086|April 15, 2021}}. Its experience was further reduced to 17,600 with the [[Updates/12.66.10866|changes]] on {{OfficialNewsArchive|6159|June 01, 2021}}. Its experience was later decreased to 14,080 on [[Updates/12.67.10934 (2)|July 06, 2021]]. Its loot was decreased by 10% on the same patch.\n\nOn {{OfficialNewsArchive|6555|February 01, 2022}}, its experience was increased to 15,770 while its loot was increased by 8%.",
+    "article": "an",
+    "actualname": "infernal phantom",
+    "illusionable": "no",
+    "armor": "100",
+    "convince": "--",
+    "name": "Infernal Phantom",
+    "isboss": "no",
+    "iceDmgMod": "120%",
+    "energyDmgMod": "99%",
+    "deathDmgMod": "0%",
+    "plural": "infernal phantoms",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "Zarganashs hostile environment gave birth to an own breed of phantom that differs by the hazards that help to form them from the tormented souls they once were. The infernal phantom absorbed that much demonic energy that there is little to distinguish them from demons at all. With demonic incursion in Zarganash the amount to demonic residue has increased dramatically and what was once a rare occurrence is now a common sight in certain areas. Though their form follows that of other phantoms for all other regards they are more a demon than ghost. Yet as anything, Zarganash got a hold of, they can never break free from the realm and are trapped not only in the depths of the nether realms but also in their accursed state of ghostly denizens of Zarganash. Some described them as demonic entities trapped in ghostly bodies but in the end it's only a twisted mimicry that drives them. Ironically their emulation of demonic cruelty and behaviour doesn't differentiate them much from other phantoms at all. The key difference towards demons is that they lack any allegiance to the demonic hoards and the essence that fuels them is something entirely different. In combat their comparatively high intelligence and awareness is set off by their hatred and anger. Though in theory they are some of the more stable and intelligent phantom breeds, there is little chance for any meaningful conversation. Even if outnumbered and cornered, the infernal phantom will still attack suicidal instead of participating in negotiation. It is said though that stealthy observers witnessed gatherings of infernal phantoms in which they conversed with hushed voices in conspiratorial manner. If this hints to any greater plan or agenda of these phantoms or if it's just another mimicry of the demons is yet unknown.",
+    "speed": "200",
+    "pushobjects": "yes",
+    "fireDmgMod": "20%",
+    "sounds": [
+        "Ashes to ashes.",
+        "Burn, baby! Burn!"
+    ],
+    "runsat": "0",
+    "bestiaryclass": "Undead",
+    "creatureclass": "The Undead",
+    "earthDmgMod": "110%",
+    "physicalDmgMod": "110%",
+    "primarytype": "Ghosts",
+    "spawntype": [
+        "Regular"
+    ],
+    "race_id": "1933",
+    "bestiarylevel": "Challenging",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "infernalphantom",
+    "behaviour": "It attacks from distance.",
+    "location": "[[Claustrophobic Inferno]].",
+    "strategy": "As with other Soul War creatures, they hit extremely hard, so maximum Fire and Death Damage Protection should be used."
+}

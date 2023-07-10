@@ -1,0 +1,54 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%",
+    "notes": "Tanjis, ''Expeditus Profundis'', is one of the three depth lords. He is the most harmless but most frequently appearing of the [[Deeplings|deepling]] guardians. Access to his lair is earned by helping to repair the ramp to the Ancestral Grounds, during the [[Liquid Black Quest]]. Teams may enter each guardian's lair once for each time they make a sufficient attempt to repair the ramp to the Ancestral Grounds. However, access to any further guardians is revoked if players open any treasure chest outside of their lairs.\n\nTanjis spawns each 3-10 minutes depending on players online, and cannot be blocked from spawning (same as the inquisition bosses, pharaohs and the black knight). Teams can stay in Tanjis' room for 20 minutes, the timer starting when they enter the teleport. Reentry is denied after players gain experience from Tanjis. Thus, teams can earn a few minutes by jumping out and in Tanjis' lair when the first Tanjis is on his last hitpoints.\n\nTanjis always drops exactly one item: [[Depth Ocrea]], [[Ornate Mace]], or [[Ornate Shield]]. Players who receive experience from killing Tanjis will be able to open the treasure chest outside of his lair, to receive [[Trophy of Tanjis]], 20 [[Platinum Coin]]s, [[Necklace of the Deep]], [[Warrior's Shield]] and either [[Tanjis' Sight]] or 10 [[Black Pearl]]s. {{seealso|Tanjis/Treasure Statistics}}",
+    "isarenaboss": "no",
+    "walksthrough": "Fire, Energy, Poison",
+    "hp": "30000",
+    "speed": "?",
+    "abilities": "{{Ability List\n |{{Melee|0-600}}\n |{{Ability|[[Avalanche]]|200-400|element=?}}\n |{{Ability|[[Paralyze]]|element=paralyze}}\n |{{Ability|Throws [[Stone (Medium) |Boulder]]|100-400|element=physical}}\n |{{Ability|Drowning Bomb|200-500|element=drowning}}\n |{{Ability|Great Bubble Bomb|200-600|element=manadrain}}\n |{{Ability|Mana drain Earth Bomb|200-600|element=manadrain}}\n |{{Ability|Energy Wave|200-500|element=energy}}\n |{{Ability|Curse Beam|300-800|element=cursed}}\n |{{Debuff2|Confusion strike|distance=yes|value=60%}}\n |{{Ability|[[Self Healing]] about once per turn|0-1000+|element=healing}}\n}}",
+    "pushobjects": "yes",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "0%",
+    "holyDmgMod": "100%",
+    "sounds": [
+        "JAU QJELL, JAKHN JEH KENH!!"
+    ],
+    "maxdmg": "2000",
+    "pushable": "no",
+    "implemented": "9.40",
+    "loot": [
+        {
+            "itemName": "Depth Ocrea"
+        },
+        {
+            "itemName": "Ornate Mace"
+        },
+        {
+            "itemName": "Ornate Shield"
+        }
+    ],
+    "walksaround": "None.",
+    "exp": "15000",
+    "creatureclass": "Amphibians",
+    "earthDmgMod": "105%",
+    "physicalDmgMod": "101%>",
+    "bosstiaryclass": "Bane",
+    "primarytype": "Deeplings",
+    "race_id": "775",
+    "senseinvis": "yes",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%",
+    "convince": "--",
+    "name": "Tanjis",
+    "isboss": "yes",
+    "behaviour": "Tanjis will target the player hitting him for the most damage. Typically, this is a high level [[Paladin]]. He will not retarget to a player blocking his path.",
+    "location": "[[Fiehonja]] [[Ancestral Grounds]], eastern pit (teleport {{Mapper Coords|131.113|122.29|11|4|text=here}}).",
+    "iceDmgMod": "0%",
+    "strategy": "[[File:Tanjis' Lair.png|thumb|250px|Tanjis' lair with his spawn location marked.]] You will need a lot of firepower, perhaps 4 or more players of level 150+. It's highly recommended all team members use [[Bronze Amulet]]s due to his retargeting behavior. The general strategy is to trap Tanjis and fire at him until he is dead.\n\nTrapping Tanjis can be difficult. Because of his retargeting behavior, the shooters are advised to stand away from Tanjis while the blocker lures and traps him. The environment makes trapping him difficult also, knights will almost always be forced to stand in waves/beams because [[Wild Growth]] will not last long enough.\n\nOnce trapped, it's a battle against his healing.\n\nTanjis will attack shooters very frequently, even when trapped. Shooters can expect to be hit with strong [[Mana Drain]] and [[Ice Damage|Ice]]-based attacks every 2-5 turns. Shooters are recommended to position themselves away from other team members, or move to another location when they find themselves being targeted (but be mindful of his waves). This avoids unnecessary mana/health loss for the other members.",
+    "energyDmgMod": "90%",
+    "deathDmgMod": "50%"
+}

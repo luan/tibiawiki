@@ -1,0 +1,150 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "Although this creature was implemented in [[Updates/7.5|Summer Update 2005]], players could only face it after [[Updates/7.6|Christmas Update 2005]]. It was possible to cast [[Creature Illusion]] on this monster between these two major updates.\n\n{{JSpoiler|You may hunt 800 of these as a task of the [[Killing in the Name of... Quest]]. Upon completion of the task you will face [[The Noxious Spawn]].}}",
+    "walksthrough": "Poison",
+    "hp": "3000",
+    "abilities": "{{Ability List\n |{{Melee|0-286}}\n |{{Ability|Earth Wave|50-500|earth\n  |scene={{Scene|spell=8sqmwave|effect=Poison Effect 3|caster=Serpent Spawn|look_direction=east}}}}\n |{{Ability|Poison Hit|100-300|earth\n  |scene={{Scene|spell=7sqmstrike|effect=Poison Effect 2|caster=Serpent Spawn|missile=Poison Missile|missile_direction=south-east|missile_distance=7/7}}}}\n |{{Ability|Life drain beam|150-400|life drain\n  |scene={{Scene|spell=8sqmbeam|effect=Red Notes Effect|caster=Serpent Spawn|look_direction=east}}}}\n |{{Ability|Paralyze|175-195 points for 120 seconds|paralyze\n  |scene={{Scene|spell=2sqmballtarget|effect=Poison Effect 1|caster=Serpent Spawn|missile=Poison Missile|missile_direction=south-east|missile_distance=2/2}}}}\n |{{Haste|scene={{Scene|spell=buffspell|effect=Red Sparkles Effect|caster=Serpent Spawn|effect_on_caster=yes}}}}\n |{{Healing|range=300-400|scene={{Scene|spell=buffspell|effect=Blue Sparkles Effect|caster=Serpent Spawn|effect_on_caster=yes}}}}\n |{{Outfit|yes|worm|{{Scene|spell=7sqmstrike|effect=Blue Sparkles Effect|caster=Serpent Spawn|missile_direction=south-east|missile_distance=7/7}}}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "holyDmgMod": "100%",
+    "maxdmg": "{{Max Damage|physical=250|earth=800|lifedrain=500}}",
+    "pushable": "?",
+    "implemented": "7.5",
+    "loot": [
+        {
+            "amount": "1-239",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Green Mushroom",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Snake Skin",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Small Sapphire",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Life Ring",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Power Bolt",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Energy Ring",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Golden Mug",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Mercenary Sword",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Great Mana Potion",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Winged Tail",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Snakebite Rod",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Tower Shield",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Life Crystal",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Noble Axe",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Strange Helmet",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Old Parchment",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Warrior Helmet",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Crown Armor",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Charmer's Tiara",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Royal Helmet",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Spellbook of Mind Control",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Swamplair Armor",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Fire, Energy",
+    "exp": "3050",
+    "mitigation": "1.04",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "serpent spawn",
+    "illusionable": "no",
+    "armor": "35",
+    "convince": "--",
+    "name": "Serpent Spawn",
+    "isboss": "no",
+    "iceDmgMod": "80%",
+    "energyDmgMod": "110%",
+    "deathDmgMod": "100%",
+    "plural": "serpent spawns",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "The hideous Serpent Spawn is rumoured to be the creation of some ancient serpent god once worshipped by the lizardmen of Tiquanda. In ancient times, this creature, chosen by the gods, was a vital part of the lizard culture and the centre of numerous gruesome rituals. With the downfall of the lizard civilisation, the Serpent Spawn became more and more uncontrollable, and finally started to become a threat to the lizards themselves. As if their minds had been darkened by a madness that mirrored the turmoil in the lizard society, they made no difference between friend or foe and their lethal wrath struck both. By making the most holy places of the lizards inaccessible, they sealed the fate of the lizard civilisation during the apes' revolt.<br />It is rumoured there are still species of the Serpent Spawn around. Still guarding the sacred places with eternal vigilance, they are waiting for their creator to rise again and to lead them once more to reign the jungle of Tiquanda on the god's behalf. Being servants of the serpent god, they are blessed with magic abilities and their serpent heritage grants them enormous physical strength and constitution.",
+    "speed": "117",
+    "pushobjects": "?",
+    "fireDmgMod": "110%",
+    "sounds": [
+        "HISSSS",
+        "I bring you deathhhh, mortalssss",
+        "Sssssouls for the one",
+        "Tsssse one will risssse again"
+    ],
+    "bestiaryclass": "Reptile",
+    "creatureclass": "Reptiles",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Serpents",
+    "race_id": "220",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "serpentspawn",
+    "behaviour": "Serpent Spawns run in low [[health]], and often [[retarget]].",
+    "location": "[[Deeper Banuta]], [[Forbidden Islands]]: [[Talahu]] ([[Medusa Cave]]) and [[Kharos]] (at level -1), [[Razachai]], Deep below the [[Crystal Lakes]] in [[Foreigner Quarter]], Cult's cave in the [[Magician Quarter]], [[Medusa Tower]].",
+    "strategy": "They hit hard with their waves, so try to keep diagonal to avoid [[Creature Spells#Earth Wave|Earth Wave]] and [[Musical Notes]], a good idea is to bring [[Garlic Necklace]], since Musical Notes do [[Life Drain]] damage. Blockers should use a [[firebomb]] or [[energybomb]] while shooters stay away of its beams, as the creature [[retarget]]s very often and runs on low health, try to finish them quickly when they start running, as following them into a group of Serpent Spawns could be lethal.\n\n'''Paladins:'''  A level 150+ [[Paladin]] should have no problem soloing these. Just use [[Assassin Stars]] and [[Divine Missile]] combined with [[Light Healing]] and [[Divine Healing]] if your hp runs too low. It can be hard to avoid the waves by running, especially in the narrow passages of some of the places where they reside so it may be easier to just sit there and take the melee hits so you don't get waved. They run in low hp, but this isn't really a problem for [[Paladin]]s. There will usually be profit in loot.\n\n'''Knights:'''  If you're a level 150+ [[Knight]], you should be able to solo these quite comfortably. Always stay diagonal so you don't take their waves, then just combine your melee with [[Whirlwind Throw]] to take them down in reasonable time, heal with [[Wound Cleansing]] and if you get really low, heal with [[Ultimate Health Potion]]s. Be careful when it runs, try to get it to run in a direction from which you've already cleared all the monsters so you don't get swarmed with them. If there's 2 at once, use [[Berserk]] to try to get rid of one as fast as possible while still damaging the other one. If you're a really high level, 200+, a good strategy is to find a [[Druid]] to heal you, gather 3-4 at once and use [[Fierce Berserk]]. Great experience can be gained this way. If you just use [[Whirlwind Throw]], you should profit in loot. If you are using [[Fierce Berserk]], you will probably break even."
+}

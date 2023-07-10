@@ -1,0 +1,86 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "This is the most commonly hunted monster in [[Tibia]] and you will never be very far from a rotworm cave. You can buy rotworms from [[Humgolf]] in [[Kazordoon]], although you need a drilling license to do so. Also common for [[training]] at lower [[skill]] levels.",
+    "walksthrough": "?",
+    "hp": "65",
+    "abilities": "{{Ability List|{{Melee|0-40}}}}",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "holyDmgMod": "100%",
+    "maxdmg": "{{Max Damage|physical=40}}",
+    "pushable": "no",
+    "usedelements": "Physical",
+    "implemented": "Pre-6.0",
+    "loot": [
+        {
+            "amount": "0-17",
+            "itemName": "Gold Coin"
+        },
+        {
+            "itemName": "Ham"
+        },
+        {
+            "itemName": "Lump of Dirt"
+        },
+        {
+            "itemName": "Meat"
+        },
+        {
+            "itemName": "Mace",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Sword",
+            "rarity": "semi-rare"
+        },
+        {
+            "amount": "0-3",
+            "itemName": "Worm",
+            "rarity": "semi-rare"
+        }
+    ],
+    "walksaround": "Fire, Energy, Poison",
+    "exp": "40",
+    "mitigation": "0.28",
+    "attacktype": "Melee",
+    "history": "==== Graphic Change ====\nBefore the [[Updates/7.8|2006 Summer Update]] rotworms looked like this: [[File:Rotworm (Old).gif]]\n\n==== Loot ====\nWith [[Christmas Update 2009]], [[Lump of Dirt|Lumps of Dirt]] replaced [[Legion Helmet]]s, [[Copper Shield]]s and [[Katana]]s, increasing the rarity of all these items on [[Rookgaard]] as they are now only available in quests. [[Legion Helmet]]s more so, in that they are now only dropped by [[Lost Soul]]s and thus, somewhat bizarrely, a rare item.",
+    "article": "a",
+    "actualname": "rotworm",
+    "illusionable": "no",
+    "armor": "8",
+    "convince": "305",
+    "name": "Rotworm",
+    "isboss": "no",
+    "iceDmgMod": "100%",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "100%",
+    "plural": "rotworms",
+    "hpDrainDmgMod": "100%",
+    "usespells": "no",
+    "occurrence": "Common",
+    "bestiarytext": "Rotworms are a very ancient race that lives in the dungeons of Tibia. They dig in the earth and wait for unconscious victims which they devour in one piece. In packs they are quite dangerous even for experienced adventurers.",
+    "speed": "58",
+    "pushobjects": "no",
+    "fireDmgMod": "100%",
+    "sounds": [
+        ""
+    ],
+    "bestiaryclass": "Vermin",
+    "creatureclass": "Invertebrates",
+    "earthDmgMod": "100%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Annelids",
+    "spawntype": [
+        "Regular",
+        "Unblockable"
+    ],
+    "race_id": "26",
+    "bestiarylevel": "Easy",
+    "senseinvis": "no",
+    "drownDmgMod": "100%",
+    "bestiaryname": "rotworm",
+    "behaviour": "Rotworms move slowly and have no distance attack, so they are not very deadly unless you are surrounded. In large groups they can be dangerous.",
+    "location": "Almost everywhere, like [[Ancient Temple]], [[Vandura]], [[Folda]] dungeon, [[Fibula Dungeon]], caves connecting [[Edron]] and [[Cormaya]], [[Venore]] [[Swamp Troll]] cave, [[Thais]] [[Troll]] cave, [[Ferngrims Gate]], [[Dwarf Mines]], [[Hellgate]], below the graves in eastern [[Rookgaard]], spider cave in western [[Rookgaard]], cave northeast of [[Ab'Dendriel]], [[Darashia Rotworm Caves]], [[Liberty Bay]], [[Fenrock]], below [[Green Claw Swamp]] and some other places.",
+    "strategy": "If you cannot kill them fast or withstand attacks from several rotworms at once, never let yourself get trapped in a corner, as you cannot [[push]] rotworms. Really easy to hunt for all [[Vocation]]s.\n[[Druid]]s and [[Sorcerer]]s can hunt them easily with [[Snakebite Rod]] or [[Wand Of Vortex]] because these use very little [[Mana]] and rotworms drop [[food]] so you can constantly regenerate.<br>[[Knight]]s and [[Paladin]]s can hunt them with no great trouble even at 30/30, but low-leveled characters (for example players at level 8 who can't use [[Exura]] or [[Exura Ico]] yet) should be careful not to get trapped, as rotworms are not pushable. These vocations also often use rotworms for training, but they may quickly become insufficient because of their weak [[defense]].<br>If you are in [[Rookgaard]], do not hunt them alone without good equipment like [[Chain Armor]], [[Legion Helmet]] and a [[Copper Shield]]. It also helps to bring [[parcel]]s (or [[box]]es, while in [[Rookgaard]]) with you, since then you can take only one or two at a time by blocking them with objects.. Using [[Bow]] or [[Spear]]s instead of melee is also a good strategy."
+}

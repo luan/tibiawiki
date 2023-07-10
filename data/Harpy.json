@@ -1,0 +1,104 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "harpies",
+    "hpDrainDmgMod": "100%?",
+    "notes": "<gallery captionalign=\"center\" mode=\"nolines\">\nHarpy Artwork.jpg|Official [[Creature Artwork]]\n</gallery>",
+    "walksthrough": "Fire, Poison, Energy",
+    "hp": "7700",
+    "usespells": "yes",
+    "bestiarytext": "The harpy is a strange creature that resembles a mix of a female human mixed with some great bird. Harpies were mentioned in some of the earliest records of human myths and sometimes are featured in the myth of other creatures too. So the origin of these creatures is shrouded in the past. Since harpies are aggressive and vile creatures that attack settlements and abduct villagers to their nests, harpies are hunted and several times in history have seemingly been driven to extinction, just to resurface out of seemingly nowhere. Over the course of the centuries there have been several attempts to replicate harpies by using alchemy or magic. The results were of mixed successes but it seems there are a couple of master formulars making the round in certain circles, that allow a reliable creation of harpies. As harpies are aggressive and destructive by nature, such experiments are usually done out of careless curiosity or with destructive intent. Only a few scientists managed to breed harpy strains that were controllable by them to at least some extend. Again Dr. Marrow had outclassed his peers in this regard, which proves that his sophisticated techniques do more than a simple fusing of creatures on his whims. Harpies are intelligent but most never get a grasp at the concept of language or build anything more sophisticated than simple nests. Even the usage of tools is rare yet not unseen amongst harpies. Though there are some loners amongst them, most harpies prefer to band together in flocks that claim wide Swarts of land as their own territory in which they hunt indiscriminately and that they fiercely protect. Their common tactics against significantly smaller enemies is, to lift them into the air and drop them to death from a greater height. They try these tactics even on larger opponents. Though this proves ineffective, their nasty, sharp claws sill are able to cause grievous wounds during such attempts.",
+    "occurrence": "Common",
+    "speed": "175",
+    "abilities": "{{Ability List\n |{{Melee|0-344}}\n |{{Ability|Scratch|296-346|element=physical\n  |scene={{Scene|spell=2sqmstrike|caster=Harpy|look_direction=south|effect=Big Scratching Effect|damage_effect=Blood Effect}}}}\n |{{Ability|Harpy Screech|308-405|element=energy\n  |scene={{Scene|spell=7sqmwavewide2|caster=Harpy|look_direction=east|effect=Blue Notes Effect|damage_effect=Blue Electricity Effect}}}}\n |{{Ability|Energy Ball|319-417|element=energy\n  |scene={{Scene|spell=2sqmballtarget|caster=Harpy|look_direction=south|effect=Blue Electricity Effect|damage_effect=None}}}}\n |{{Ability|Energy Ring|?|element=energy\n  |scene={{Scene|spell=5sqmring|caster=Harpy|look_direction=south|effect=Energy Effect}}}}\n |{{Ability|Chain Attack|155-249|energy\n  |scene={{Scene|spell=chainspell|caster=Harpy|look_direction=south|effect=Purple Chain Effect|damage_effect=Blue Electricity Effect}}}}\n |{{Debuff2|melee=yes|distance=yes|value=55-75%|duration=11\n  |scene={{Scene|spell=3sqmball2self|caster=Harpy|look_direction=south|effect=Purple Smoke Effect|effect_on_caster=yes|damage_effect=None}}}}\n |{{Ability|Earth Strike|436-546|earth\n  |scene={{Scene|spell=3sqmstrike|caster=Harpy|look_direction=south|effect=Poison Effect 1|damage_effect=Poison Effect 3}}}}\n}}",
+    "pushobjects": "yes",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "fireDmgMod": "105%",
+    "holyDmgMod": "100%",
+    "sounds": [
+        "Blood will flow!",
+        "Shriek!",
+        "Screech!"
+    ],
+    "pushable": "no",
+    "implemented": "13.10.12852",
+    "bestiaryclass": "Bird",
+    "loot": [
+        {
+            "itemName": "Platinum Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Harpy Feathers",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Blue Crystal Shard",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Violet Crystal Shard",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Gold Ring",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Great Spirit Potion",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Wand of Defiance",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Ornate Crossbow",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Violet Gem",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Focus Cape",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Magic Plate Armor",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Shockwave Amulet",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Crystalline Sword",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "None",
+    "exp": "5720",
+    "creatureclass": "Misc",
+    "earthDmgMod": "90%",
+    "mitigation": "1.85",
+    "physicalDmgMod": "105%",
+    "primarytype": "Birds",
+    "attacktype": "Distance",
+    "race_id": "2340",
+    "bestiarylevel": "Hard",
+    "senseinvis": "yes",
+    "article": "a",
+    "actualname": "harpy",
+    "illusionable": "no",
+    "armor": "58",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Harpy",
+    "isboss": "no",
+    "location": "[[Ingol]]",
+    "iceDmgMod": "110%",
+    "energyDmgMod": "75%",
+    "deathDmgMod": "105%"
+}

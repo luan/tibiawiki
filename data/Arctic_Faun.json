@@ -1,0 +1,133 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "They are the cold-region relatives of regular [[Faun]]s.",
+    "walksthrough": "None",
+    "hp": "300",
+    "abilities": "{{Ability List|}}",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "holyDmgMod": "70%",
+    "maxdmg": "?",
+    "pushable": "?",
+    "implemented": "11.80.7048",
+    "loot": [
+        {
+            "amount": "1-105",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Strong Health Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-5",
+            "itemName": "Cookie",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Goat Grass",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-2?",
+            "itemName": "Fresh Fruit",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Shimmering Beetles",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Dandelion Seeds",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "Leaf Star",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Great Health Potion",
+            "rarity": "semi-rare"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Small Stone",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Panpipes",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Grapes",
+            "rarity": "semi-rare"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Rainbow Quartz",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Wood Cape",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Leaf Legs",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Wooden Spellbook",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Die",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Fire, Energy, Poison",
+    "exp": "300",
+    "mitigation": "0.83",
+    "attacktype": "Melee",
+    "article": "an",
+    "actualname": "arctic faun",
+    "illusionable": "no",
+    "armor": "30",
+    "convince": "--",
+    "name": "Arctic Faun",
+    "isboss": "no",
+    "iceDmgMod": "20%",
+    "energyDmgMod": "110%",
+    "deathDmgMod": "80%",
+    "plural": "arctic fauns",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Uncommon",
+    "bestiarytext": "Arctic fauns are half-human, half-beast nature spirits. Just as their brethren they are strongly built with flat noses, large pointed ears, goats' legs and horns on their foreheads. However, they are inhabiting colder regions than the regular fauns and thus have white pelts rather than brown or black fur. Lately, some arctic fauns appeared outside of Feyrist on one of the small ice islands. They try to grow fresh grass and flowers in this snowy environment - with some success, as it seems. Yet, the reasons for their doings outside of Feyrist are unknown so far. As there are no arctic fauns on Feyrist, one can assume that they were somehow transformed - be it by environmental adaptation or by the power of dream magic.",
+    "speed": "105",
+    "pushobjects": "?",
+    "fireDmgMod": "115%",
+    "sounds": [
+        "Dance with me!",
+        "In vino veritas! Hahaha!",
+        "Wine, women and song!"
+    ],
+    "runsat": "0",
+    "bestiaryclass": "Fey",
+    "creatureclass": "Humanoids",
+    "earthDmgMod": "30%",
+    "physicalDmgMod": "90%",
+    "primarytype": "Fae",
+    "spawntype": [
+        "Unblockable"
+    ],
+    "race_id": "1626",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "arcticfaun",
+    "location": "[[Arctic Faun's Island]].",
+    "strategy": "Unknown"
+}

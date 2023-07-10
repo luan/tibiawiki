@@ -1,0 +1,84 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "One of the two bosses of [[Rotworm]]s, the other being the [[Rotworm Queen]].\n<gallery>\nWhite Pale Edron.png\n</gallery>",
+    "walksthrough": "?",
+    "hp": "500",
+    "speed": "?",
+    "abilities": "{{Ability List| {{Melee|?}}|{{Ability|[[Wrath of Nature]]|~100|element=?}}|{{Ability|Spark Wave|?|element=?}}|{{Ability|Summons 2 [[Carrion Worm]]s at once|element=summon}}|{{Healing|range=400}}|{{Ability|[[Paralyze]]s|element=paralyze}}|{{Ability|[[Poisoned|Poison]]s|element=poisoned}} }}",
+    "pushobjects": "yes",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "100%?",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "150+",
+    "pushable": "no",
+    "implemented": "10.20",
+    "loot": [
+        {
+            "amount": "20-70",
+            "itemName": "Gold Coin"
+        },
+        {
+            "itemName": "Carrion Worm Fang"
+        },
+        {
+            "itemName": "Lump of Dirt",
+            "rarity": "always"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Meat"
+        },
+        {
+            "itemName": "Silver Raid Token"
+        },
+        {
+            "itemName": "Albino Plate"
+        },
+        {
+            "itemName": "Spiked Squelcher"
+        },
+        {
+            "itemName": "Horn (Ring)"
+        },
+        {
+            "itemName": "Life Ring"
+        },
+        {
+            "itemName": "Small Diamond"
+        },
+        {
+            "itemName": "Daramian Mace"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "390",
+    "creatureclass": "Invertebrates",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "100%?",
+    "bosstiaryclass": "Nemesis",
+    "primarytype": "Annelids",
+    "spawntype": [
+        "Raid",
+        "Unique"
+    ],
+    "race_id": "965",
+    "senseinvis": "Yes",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "White Pale",
+    "isboss": "yes",
+    "behaviour": "Similar to a Rotworm, but stronger.",
+    "location": "[[Edron Rotworm Cave]] ({{Mapper Coords|129.245|124.126|11|4|text=here}}), [[Darashia Rotworm Caves]] ({{Mapper Coords|129.107|126.174|9|4|text=here}}), [[Vandura Rotworm Cave]]({{Mapper Coords|125.224|127.248|10|2|text=here}}).",
+    "iceDmgMod": "100%?",
+    "strategy": "Just kill it.",
+    "energyDmgMod": "100%?",
+    "deathDmgMod": "100%?"
+}

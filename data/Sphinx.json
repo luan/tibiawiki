@@ -1,0 +1,116 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "walksthrough": "Energy, Poison, Fire",
+    "hp": "8500",
+    "abilities": "{{Ability List\n |{{Melee|0-400}}\n |{{Ability|Fire Beam|200-500|element=fire\n  |scene={{Scene|spell=5sqmbeam|effect=Fire Effect|look_direction=east}}}}\n |{{Ability|Holy Ball|100-350|element=holy\n  |scene={{Scene|spell=1sqmballtarget|effect=Holy Cross Effect|damage_effect=Holy Effect|missile=Holy Missile (Appearance)|missile_direction=south-east|missile_distance=2/2}}}}\n |{{Ability|Energy Berserk|200-400|element=energy\n  |scene={{Scene|spell=3x3spell|effect=Energy Effect|effect_on_caster=yes|damage_effect=Blue Electricity Effect|missile_direction=south-east|missile_distance=1/1}}}}\n\n}}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "holyDmgMod": "85%",
+    "maxdmg": "1600",
+    "pushable": "no",
+    "usedelements": "Fire, Energy, Holy, Physical",
+    "implemented": "12.20.8834",
+    "loot": [
+        {
+            "amount": "1-3",
+            "itemName": "Platinum Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Magma Amulet",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Sphinx Feather",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Sphinx Tiara",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Green Gem",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Magma Boots",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Lightning Headband",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Wand of Starstorm",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Lightning Pendant",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Wand of Defiance",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Magma Monocle",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Magma Legs",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "White Pearl",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Blue Gem",
+            "rarity": "semi-rare"
+        }
+    ],
+    "walksaround": "None",
+    "exp": "7500",
+    "mitigation": "2.45",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "sphinx",
+    "illusionable": "no",
+    "armor": "82",
+    "convince": "--",
+    "name": "Sphinx",
+    "isboss": "no",
+    "iceDmgMod": "115%",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "120%",
+    "plural": "sphinxes",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "Sphinxes have a leonine body, big feathered wings and human heads with their faces being a mix of humanoid and feline. The enigmatic creatures are a subspecies of the Anuma, magical beasts that inhabit the continent Kilmaresh and were created by the sun gods Suon and Fafnar.<br/>It is said that the entire continent was once given to them by the gods. But the Anuma conferred the dominance over Kilmaresh to the humans, in an effort to let them take responsibility of their own. However, after the religious war between the worshippers of Suon and Fafnar and the cataclysm that severed the continent, the Anuma took the reign over Kilmaresh back - for the humans' own benefit as they said.<br/>As all Anuma, sphinxes are highly intelligent and allegedly immortal, though they can die by lethal violence. Some of them love riddles, others are more interested in stories, poems or songs. Many sphinxes are benevolent, yet some are rather merciless and dangerous. All of them can be short-tempered if they feel that a human being will not accept their well-meant guidance. Sphinxes are physically powerful but possess inherent magical skills as well. They tend to test the worth of those seeking their help by asking them riddles or intricate philosophical questions. Mortals will encounter sphinxes in the vast steppe of Kilmaresh as well as in the ruins of ancient sites where they guard the treasures and secrets of the lost empire.",
+    "speed": "145",
+    "pushobjects": "yes",
+    "fireDmgMod": "90%",
+    "sounds": [
+        "Don't disturb the holiness of this sacred site!",
+        "Mortals are not tolerated here!",
+        "No riddles. No puzzles. We are way beyond that!"
+    ],
+    "runsat": "10",
+    "bestiaryclass": "Magical",
+    "creatureclass": "Misc",
+    "earthDmgMod": "100%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Anuma",
+    "spawntype": [
+        "Regular"
+    ],
+    "race_id": "1808",
+    "bestiarylevel": "Hard",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "sphinx",
+    "location": "[[Nykri Delta]], [[Kilmaresh Central Steppe]], [[Kilmaresh Southern Steppe]], [[Kilmaresh Catacombs]]",
+    "strategy": "Unknown."
+}

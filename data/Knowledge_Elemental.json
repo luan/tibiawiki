@@ -1,0 +1,158 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "<gallery captionalign=\"center\" mode=\"nolines\">\nKnowledge Elemental Artwork.jpg|Official [[Creature Artwork]]\n</gallery>",
+    "walksthrough": "Fire, Energy, Poison",
+    "hp": "10500",
+    "abilities": "{{Ability List\n |{{Melee|0-600}}\n |{{Ability|Energy Strike|600-900|element=energy|scene={{Scene|spell=3sqmstrike|caster=Knowledge Elemental|effect=Energy Effect|missile=Energy Ball Missile|missile_direction=south-east|missile_distance=3/3|background=slate_floor}}}}\n |{{Ability|Energy Cross|600-900|element=energy|scene={{Scene|spell=plusspell|caster=Knowledge Elemental|effect_on_caster=yes|effect=Purple Electricity Effect|background=slate_floor|edge_size=32}}}}\n |{{Ability|Holy Ball|600-800|element=holy|scene={{Scene|spell=1sqmballtarget|caster=Knowledge Elemental|effect=Holy Effect|missile=Holy Missile (Appearance)|missile_direction=south-east|missile_distance=2/2|background=slate_floor|edge_size=32}}}}\n |{{Ability|Holy Beam|500-700|element=holy|scene={{Scene|spell=5sqmbeam|caster=Knowledge Elemental|effect=Yellow Electricity Effect|background=slate_floor|look_direction=east}}}}\n |{{Ability|Holy Cross|700-750|element=holy|scene={{Scene|spell=plusspell|caster=Knowledge Elemental|effect_on_caster=yes|effect=Yellow Electricity Effect|background=slate_floor|edge_size=32}}}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "holyDmgMod": "50%",
+    "maxdmg": "{{Max Damage|physical=600|energy=1800|holy=1350}}",
+    "pushable": "no",
+    "implemented": "11.80.7048",
+    "loot": [
+        {
+            "amount": "1-15",
+            "itemName": "Platinum Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Silken Bookmark",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-5",
+            "itemName": "Book Page",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-10",
+            "itemName": "Glowing Rune",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-6",
+            "itemName": "Small Amethyst",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Quill",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Energy Ring",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-15",
+            "itemName": "Flash Arrow",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Guardian Shield",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Mana Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-15",
+            "itemName": "Throwing Star",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Crystal Sword",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Ultimate Health Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Wand of Cosmic Energy",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Ultimate Mana Potion",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Wand of Defiance",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Obsidian Lance",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Silver Amulet",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Might Ring",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Crystal Ring",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Lightning Pendant",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Spellweaver's Robe",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "None",
+    "exp": "10603",
+    "mitigation": "2.08",
+    "attacktype": "Melee",
+    "history": "Its experience was decreased from 12,600 to 10,710 with the first batch of changes of [[Updates/12.31|Update 12.31]]. It was later increased to 11,781 with the seventh batch of changes. Then, it was decreased again to 10,603 with [[Updates/12.50.10135|Update 12.50.10135]].",
+    "article": "a",
+    "actualname": "knowledge elemental",
+    "illusionable": "no",
+    "armor": "76",
+    "convince": "--",
+    "name": "Knowledge Elemental",
+    "isboss": "no",
+    "iceDmgMod": "100%",
+    "energyDmgMod": "0%",
+    "deathDmgMod": "120%",
+    "plural": "knowledge elementals",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "lightcolor": "71",
+    "occurrence": "Uncommon",
+    "bestiarytext": "Some knowledge is so powerful it can't be contained within a single mind. Even if contained in specially created books, a bit of the knowledge always leaks out. It is said that even minor books leak their knowledge a little. If enough books in an area leak such knowledge, it interacts with other sublime knowledge in an area. Eventually the concentration of knowledge leads to the existence of what in lack of better terms is called a knowledge elemental. It is raw knowledge and power set free. It has only a mockery of sentience, truly no more than an irritating and misleading mirroring of knowledge fragments. The knowledge has only one purpose: to be known. Yet it's heavily fractured and raw, not fathomable to an ordinary mind at all. In their attempts to insert itself to others, the knowledge elemental becomes an aggressive threat, as it attempts are harmful and even lethal. The sudden outbursts of knowledge are disrupting and destructive, often taking the shape of spell-like effects. Magicians usually have to exorcise such manifested knowledge from their libraries. Given the relative commonness at certain areas, many libraries accept then as a given and rather use spells to ward them away from their bodies, instead of dispersing them. Though such wards are relatively complicated they are usually permanent and less of an effort than to fight knowledge manifestations again and again. As it occurs an area can only sustain a given number of knowledge elementals at all, so if one manifested another is highly unlikely. A place that could create more then a few knowledge elementals at a time, would have to contain absurdly high levels of knowledge and can be discarded to the realm of pure fantasy and wishful thinking of knowledge seekers and cultists.",
+    "speed": "230",
+    "pushobjects": "yes",
+    "fireDmgMod": "100%",
+    "sounds": [
+        "Did you know... there are over 200 bones in your body to break?",
+        "Did you know... a lot of so-called trivia facts aren't even remotely true?",
+        "Did you know... fear can be smelled?",
+        "Did you know... you could die in 1.299.223 ways within the next ten seconds?"
+    ],
+    "lightradius": "4",
+    "runsat": "0",
+    "bestiaryclass": "Elemental",
+    "creatureclass": "Elementals",
+    "earthDmgMod": "100%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Electro-Elementals",
+    "spawntype": [
+        "Regular"
+    ],
+    "race_id": "1670",
+    "bestiarylevel": "Hard",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "knowledgeelemental",
+    "location": "[[Secret Library]] energy section.",
+    "strategy": "Knowledge Elementals have many different spells of both Energy and Holy damage. They can combo these spells in any combinations of two spells at once, meaning they can deal combos of both elements of a mix of both. Thus, protection against these two elements is recommended. They have a relatively low amount of health compared to the creatures they spawn with and half of their attacks can be avoided by staying diagonal or running from them, which can make a big difference when dealing with pulls of multiple creatures during a hunt."
+}

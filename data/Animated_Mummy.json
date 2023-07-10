@@ -1,0 +1,75 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "Similar to a [[Mummy]].",
+    "walksthrough": "?",
+    "hp": "240",
+    "speed": "?",
+    "abilities": "{{Ability List|{{Melee|0-85|poison=4}}|{{Ability|Death Hit|30-40|death}}|{{Ability|Ranged Paralysis|Reduces 53-113 speed levels|slowed}}}}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "100%?",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "{{Max Damage|physical=85|earth=4|death=40}}",
+    "pushable": "?",
+    "implemented": "11.40.5409",
+    "loot": [
+        {
+            "amount": "0-75",
+            "itemName": "Gold Coin"
+        },
+        {
+            "itemName": "Gauze Bandage"
+        },
+        {
+            "itemName": "Flask of Embalming Fluid"
+        },
+        {
+            "itemName": "Magic Light Wand"
+        },
+        {
+            "itemName": "Worm"
+        },
+        {
+            "itemName": "Silver Brooch"
+        },
+        {
+            "itemName": "Strange Talisman"
+        },
+        {
+            "itemName": "Crystal Ring"
+        },
+        {
+            "itemName": "Yellow Piece of Cloth"
+        },
+        {
+            "itemName": "Black Pearl"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "150",
+    "creatureclass": "The Undead",
+    "earthDmgMod": "100%?",
+    "physicalDmgMod": "100%?",
+    "primarytype": "Undead Humanoids",
+    "senseinvis": "?",
+    "article": "an",
+    "actualname": "animated mummy",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Animated Mummy",
+    "isboss": "?",
+    "behaviour": "Unknown",
+    "location": "[[Museum of Tibian Arts]] (only at [[Night]])",
+    "iceDmgMod": "100%?",
+    "strategy": "Unknown",
+    "energyDmgMod": "100%?",
+    "deathDmgMod": "100%?"
+}

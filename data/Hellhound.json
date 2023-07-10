@@ -1,0 +1,222 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "The '''hellhound''' was conceived based on ideologies of Greek and Roman mythology. Cerberus is a three-headed hound who guards the gates of Hades. In Tibia, they guard a path to the throne room of [[Infernatil]]. From this, the sprite was created. The name however came from both the description of Cerberus, and from clever wordplay: '''hellhound''' is also a demonic entity. These hellish minions are often considered to be guardians of the entrance to world of the dead or afterlife. Similarly in [[Tibia]], they reside in the fiery depths of [[Pits of Inferno]]. These creatures appeared in the [[Updates/7.9|Winter Update 2006]] when the Pits of Inferno were opened.\n\n{{JSpoiler|You may hunt 250 of these as a task of the [[Killing in the Name of... Quest]]. Upon completion of the task you will face [[Kerberos]].}}",
+    "walksthrough": "Fire, Energy, Poison",
+    "hp": "7500",
+    "abilities": "{{Ability List\n |{{Melee|0-508+|poison=40}}\n |{{Ability|Earth wave|300-700|element=earth\n  |scene={{Scene|spell=8sqmwave|effect=Carnivorous Plant Effect|caster=Hellhound|look_direction=east}}}}\n |{{Ability|Life Drain wave|250-657+|element=life drain\n  |scene={{Scene|spell=8sqmwave|effect=Red Sparkles Effect|caster=Hellhound|look_direction=east}}}}\n |{{Ability|Fire Wave|50-662+|element=fire\n  |scene={{Scene|spell=8sqmwave|effect=Fireball Effect|caster=Hellhound|look_direction=east}}}}\n |{{Ability|Death Missile|395-498?|element=death\n  |scene={{Scene|spell=3sqmstrike|caster=Hellhound|effect=Death Effect|missile=Death Missile (Large)|missile_direction=south-east|missile_distance=3/3}}}}\n |{{Ability|Poison Strike|100-549?|element=earth\n  |scene={{Scene|spell=3sqmstrike|caster=Hellhound|effect=Poison Effect 1|missile=Poison Missile|missile_direction=south-east|missile_distance=3/3}}}}\n |{{Ability|Fire Missile|100-403+|element=fire\n  |scene={{Scene|spell=3sqmstrike|caster=Hellhound|effect=Fireball Effect|missile=Fire Missile|damage_effect=Fire Effect|missile_direction=south-east|missile_distance=3/3}}}}\n |{{Healing|range=250-450}}\n |{{Haste}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "secondarytype": "Demons",
+    "holyDmgMod": "105%",
+    "maxdmg": "{{Max Damage|physical=508?|earth=1289?|lifedrain=676?|fire=1065?|death=498?}}",
+    "pushable": "no",
+    "implemented": "7.9",
+    "loot": [
+        {
+            "amount": "1-7",
+            "itemName": "Platinum Coin",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "Great Mana Potion",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-14",
+            "itemName": "Ham",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-10",
+            "itemName": "Assassin Star",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Great Spirit Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Hellhound Slobber",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Soul Orb",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Demonic Essence",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Flask of Demonic Blood",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Ultimate Health Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "Small Ruby",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Blazing Bone",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Fiery Heart",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Wand of Inferno",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-4",
+            "itemName": "Black Pearl",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "Small Emerald",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "Small Topaz",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Hardened Bone",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Yellow Piece of Cloth",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Knight Axe",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Fire Sword",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Green Piece of Cloth",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Red Gem",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Yellow Gem",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Magma Boots",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Red Piece of Cloth",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Amber Staff",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Gold Ingot",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Magma Amulet",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Magma Legs",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Ruthless Axe",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Green Gem",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Giant Sword",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Magma Coat",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Magma Monocle",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Onyx Flail",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Big Bone",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Explorer Brooch",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "None.",
+    "exp": "5440",
+    "mitigation": "2.75",
+    "attacktype": "Melee",
+    "history": "Its experience was decreased from 6800 to 2380 with the first batch of changes of [[Updates/12.31|Update 12.31]]. It was later increased to 5440 with the second batch.",
+    "article": "a",
+    "actualname": "hellhound",
+    "illusionable": "no",
+    "armor": "60",
+    "convince": "--",
+    "name": "Hellhound",
+    "isboss": "no",
+    "iceDmgMod": "105%",
+    "energyDmgMod": "90%",
+    "deathDmgMod": "100%",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "lightcolor": "206",
+    "occurrence": "Common",
+    "bestiarytext": "There are things that roam the realms of the otherworlds that give even demons a shiver. The Hellhound is one of those creatures. Being worse than beast or demon, it combines the most fearsome and most dangerous traits of both kinds to an amalgam of fearsome power. Containing the malice and ferocity of three demons, the Hellhound uses the malignant abilities of its three heads to cause as much damage as it can.<br />Said to be three times meaner than the average hellbeast, its three heads are so frightening in their hellish rage that lesser men are said to have died already on sight of this walking menace of ichor and fangs. Sometimes one of these demon beasts is captured and trained by powerful demons to something that could be vaguely called a forced loyalty to their fearsome masters. As long as they respect their masters as the stronger one, they are relatively obedient. Still, nobody can tell when they might turn on their master or when they are driven into a frenzy that let them forget any bonds they might have shared. Hellhounds are known to get in such a rage that they not seldom heavily wound their own heads. Still large numbers of those beasts are bred and captured on order of several demonlords. They are as often employed to frighten an enemy or a rival as they are used as a status symbol to prove their might and disregard of danger ... and the lives of their other minions as well.",
+    "speed": "180",
+    "pushobjects": "yes",
+    "fireDmgMod": "0%",
+    "sounds": [
+        "GROOOOWL!"
+    ],
+    "lightradius": "3",
+    "runsat": "0",
+    "bestiaryclass": "Demon",
+    "creatureclass": "Mammals",
+    "earthDmgMod": "80%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Canines",
+    "spawntype": [
+        "Regular",
+        "Unblockable"
+    ],
+    "race_id": "294",
+    "bestiarylevel": "Hard",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "hellhound",
+    "location": "[[Pits of Inferno|Infernatil's Throneroom]] [[The Inquisition Quest|The Inquisition Quest Area]], [[Hellgorge]], [[Roshamuul Prison]], [[Chyllfroest]], [[Oramond Dungeon]], [[The Extension Site]] and [[Asura Vaults]].",
+    "strategy": "Their melee attack is considerable weaker than their wave attacks (which are fatal if shot together) so it's best to have a knight blocking it while standing diagonal. [[Magic Wall]]s and [[Wild Growth]] can be used to help the knight in staying diagonal and preventing it from retargeting. These creatures are very strong so don't underestimate them: always have a good blocker and more than three shooters to slay them quickly. Use [[Ice Damage|Ice]] and [[Holy Damage|Holy]] based attacks."
+}

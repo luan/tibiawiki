@@ -1,0 +1,56 @@
+{
+    "summon": "250",
+    "templateType": "Creature",
+    "plural": "dawn bats",
+    "hpDrainDmgMod": "100%",
+    "notes": "Usually found in small groups with other creatures. They look the same as [[bat]]s. Unlike bats, dawn bats do not drop [[Bat Wing]]s.",
+    "walksthrough": "None",
+    "hp": "30",
+    "speed": "100",
+    "abilities": "{{Ability List\n |{{Melee|0-8}}\n}}",
+    "pushobjects": "no",
+    "healMod": "100%?",
+    "paraimmune": "no",
+    "fireDmgMod": "100%",
+    "holyDmgMod": "100%",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "{{Max Damage|physical=8}}",
+    "pushable": "yes",
+    "usedelements": "Physical",
+    "runsat": "3<!-- ? -->",
+    "implemented": "10.96",
+    "loot": [
+        {
+            "amount": "1-3",
+            "itemName": "Gold Coin",
+            "rarity": "uncommon"
+        }
+    ],
+    "walksaround": "Fire, Energy, Poison",
+    "exp": "10",
+    "creatureclass": "Mammals",
+    "earthDmgMod": "110%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Bats",
+    "spawntype": [
+        "Regular"
+    ],
+    "race_id": "1285",
+    "history": "They replaced ordinary [[bat]]s in [[Dawnport]] with [[Updates/10.96|Update 10.96]].",
+    "senseinvis": "no",
+    "article": "a",
+    "actualname": "dawn bat",
+    "illusionable": "yes",
+    "armor": "1",
+    "drownDmgMod": "100%",
+    "convince": "250",
+    "name": "Dawn Bat",
+    "isboss": "no",
+    "location": "[[Dawnport]].",
+    "iceDmgMod": "100%",
+    "strategy": "Just attack them. They are a bit stronger than [[rat]]s.",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "100%"
+}

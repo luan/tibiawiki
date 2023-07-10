@@ -1,0 +1,104 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "isevent": "yes",
+    "plural": "bellicose orgers",
+    "hpDrainDmgMod": "100%?",
+    "walksthrough": "?",
+    "hp": "700",
+    "usespells": "yes",
+    "occurrence": "Rare",
+    "speed": "126",
+    "abilities": "{{Ability List|}}",
+    "healMod": "100%",
+    "pushobjects": "?",
+    "paraimmune": "?",
+    "fireDmgMod": "100%",
+    "holyDmgMod": "90%",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "?",
+    "pushable": "No",
+    "usedelements": "?",
+    "implemented": "12.20.9066",
+    "bestiaryclass": "Giant",
+    "loot": [
+        {
+            "itemName": "Platinum Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Leather Helmet",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Leather Legs",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Energy Ring",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Dark Armor",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Dark Shield",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Cape",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Glorious Axe",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Metal Spats",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Battle Axe",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Decorative Green Sheet",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Decorative Red Sheet",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Decorative Blue Sheet",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "500",
+    "creatureclass": "Humanoids",
+    "earthDmgMod": "110%",
+    "mitigation": "0.78",
+    "physicalDmgMod": "100%",
+    "primarytype": "Giants",
+    "attacktype": "Melee",
+    "race_id": "1858",
+    "bestiarylevel": "Medium",
+    "senseinvis": "?",
+    "article": "a",
+    "actualname": "bellicose orger",
+    "illusionable": "no",
+    "armor": "35",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Bellicose Orger",
+    "isboss": "no",
+    "location": "[[Orcsoberfest Island]].",
+    "iceDmgMod": "100%",
+    "energyDmgMod": "80%",
+    "deathDmgMod": "110%",
+    "status": "event"
+}

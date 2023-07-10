@@ -1,0 +1,146 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "<noinclude>[[File:Ogre Shaman Artwork.jpg|350px]]</noinclude>",
+    "walksthrough": "Poison",
+    "hp": "800",
+    "abilities": "{{Ability List\n |{{Melee|0-150}}\n |{{Ability|Poison shot|80-110|element=earth}}\n |{{Ability|[[Terra Wave]]|[[Poisoned|poisons]] starting at 14 hp|element=poisoned}}\n |{{Ability|Death Explosion on itself|unknown effect|element=?}}\n |{{Outfit|yes|Chicken}}\n |{{Summon|Terror Bird|1|Dworc Voodoomaster|Dworc Fleshhunter}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "holyDmgMod": "110%",
+    "maxdmg": "200+",
+    "pushable": "no",
+    "implemented": "10.90",
+    "loot": [
+        {
+            "amount": "1-90",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Broken Shamanic Staff",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Ogre Nose Ring",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Prickly Pear",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Strong Mana Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Skull (Item)",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Skull Fetish",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Ogre Ear Stud",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Shamanic Talisman",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Black Pearl",
+            "rarity": "semi-rare"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "Small Ruby",
+            "rarity": "semi-rare"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Opal",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Onyx Chip",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Waterskin",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Necrotic Rod",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Bone Fetish",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Wand of Decay",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Shamanic Mask",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Didgeridoo",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Ogre Scepta",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Voodoo Doll",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Energy, Fire",
+    "exp": "625",
+    "mitigation": "1.04",
+    "attacktype": "Distance",
+    "article": "an",
+    "actualname": "ogre shaman",
+    "illusionable": "no",
+    "armor": "30",
+    "convince": "--",
+    "name": "Ogre Shaman",
+    "isboss": "no",
+    "iceDmgMod": "80%",
+    "energyDmgMod": "80%",
+    "deathDmgMod": "0%",
+    "plural": "ogre shamans",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "Ogres are large, downright monstrous in appearance, considerably dwarfing even tall orcs. They have a plump, corpulent body, chunky hands and feet and a small, seemingly neckless head. An average adult ogre stands over twelve feet tall, and his waist circumference is almost the half of his height. Most ogres are bald and only rarely have facial hair. They use wooden clubs as weapons, banded, studded or spiked with iron; but stone hatchets or fork-like weapons are also common. While missile combat with bows or crossbows is too difficult for them, they are good at throwing heavy things, particularly boulders. They mature more quickly than humans, reaching adulthood at the age of twelve.\n\nOgres live in tribes that inhabit the steppe and grassland of Krailos, for the most part dwelling in big leather tents or stone huts, though some ogre tribes still have nomadic tendencies. Leader of a tribe is usually the strongest male ogre. The chieftain is supported by an ogre-shaman. If the shaman is female, the two are often, but not necessarily, a couple. The chieftain is responsible for all decisions concerning the hunt and martial matters while the shaman is responsible for all affairs spiritual and social. \n\nAlthough the ogres are a warlike, often brutal people, they are mostly interested in good food rather than in anything else. Ogres worship the Great Hunger, a kind of spirit being they believe will eat up the entire world if not fed regularly. Therefore they often perform rites of sacrifice (of food and of living creatures) to feed this entity. \n\nWandering ogre shamans summon the power of the Great Hunger in self-defense or to catch prey for their rituals. Though still enormous in size, ogre shamans are no fighters as such and prefer to keep at a distance, sending out their minions to fend off unwanted acquaintances while they slink away.",
+    "speed": "105",
+    "pushobjects": "yes",
+    "fireDmgMod": "80%",
+    "sounds": [
+        "Stay here, soul food!",
+        "You more delicate than clomp!",
+        "The spirits hunger!",
+        "A sacrifice for Great Hunger!"
+    ],
+    "runsat": "0",
+    "bestiaryclass": "Giant",
+    "creatureclass": "Humanoids",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Giants",
+    "race_id": "1163",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "ogreshaman",
+    "behaviour": "Keeps a distance.",
+    "location": "[[Krailos Steppe]].",
+    "strategy": "Paladins can use [[Holy Damage]] attacks, since it is weak to this type. Other vocations should just chase and kill it."
+}

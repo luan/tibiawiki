@@ -1,0 +1,112 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "In [[Goroma]], they appear in large numbers often with [[Adepts of the Cult]] in [[Formorgar Mines]] appear in smaller groups.",
+    "walksthrough": "None",
+    "hp": "390",
+    "abilities": "{{Ability List\n |{{Melee|0-100|poison=2}}\n |{{Ability|Distance Life Drain|60-120|element=lifedrain\n  |scene={{Scene|spell=4sqmstrike|caster=Acolyte of the Cult|effect=Poison Effect 3|missile=Poison Missile|missile_direction=south-east|missile_distance=4/4|damage_effect=Red Sparkles Effect}}}}\n |{{Summon|Skeleton}}\n |{{Ability|Weak Drunkenness|3 seconds|element=drunk\n  |scene={{Scene|spell=4sqmstrike|caster=Acolyte of the Cult|effect=Holy Effect|missile=Holy Missile (Small)|missile_direction=south-east|missile_distance=4/4|damage_effect=None}}}}\n |{{Healing|range=50\n  |scene={{Scene|spell=buffspell|effect=Blue Sparkles Effect|caster=Acolyte of the Cult|look_direction=south|effect_on_caster=yes}}}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "holyDmgMod": "80%",
+    "maxdmg": "220",
+    "pushable": "?",
+    "implemented": "7.8",
+    "loot": [
+        {
+            "amount": "1-40",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Cultish Robe",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Rope Belt",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Morning Star",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Dragon Necklace",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Life Ring",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Book (Orange)",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Pirate Voodoo Doll",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Small Emerald",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Music Sheet (Second Verse)",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Terra Rod",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Broken Key Ring",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Cultish Symbol",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Fire, Energy, Poison",
+    "exp": "300",
+    "mitigation": "1.13",
+    "attacktype": "Distance",
+    "article": "an",
+    "actualname": "acolyte of the cult",
+    "illusionable": "no",
+    "armor": "30",
+    "convince": "--",
+    "name": "Acolyte of the Cult",
+    "isboss": "no",
+    "iceDmgMod": "80%",
+    "energyDmgMod": "110%",
+    "deathDmgMod": "105%",
+    "plural": "acolytes of the cult",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "The Acolytes of the Cult received some training in the dark arts, at disposal to the cult. They are proud of their status and are usually quite fanatic about the cult. Acolytes of the Cult feel superior to outsiders and often think the powers bestowed upon them make them invincible. They only respect higher ranks of the cult whom they obey like slaves their masters. Their magic is still fairly weak and does by far not match their ego. Having gained a glimpse at the work of the cult, it is not easy to sacrifice their curiosity and so they use their whole energy to strive for the higher ranks. Acolytes of the Cult are only involved in affairs if they are considered of importance for the cult.",
+    "speed": "100",
+    "pushobjects": "?",
+    "fireDmgMod": "100%",
+    "sounds": [
+        "Praise the voodoo!",
+        "Power to the cult!",
+        "Feel the power of the cult!"
+    ],
+    "runsat": "0",
+    "bestiaryclass": "Human",
+    "creatureclass": "Humans",
+    "earthDmgMod": "80%",
+    "physicalDmgMod": "110%",
+    "primarytype": "Voodoo Cultists",
+    "spawntype": [
+        "Regular"
+    ],
+    "race_id": "253",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "cultacolyte",
+    "location": "[[Goroma]], [[Cult Cave#Deeper Cult Cave|Deeper Cult Cave]], [[Formorgar Mines]], [[Magician Quarter]], [[Forbidden Temple]].",
+    "strategy": "[[Thunderstorm]] runes work well. It would be a good idea to bring a [[Dwarven Ring]] with you and use [[Garlic Necklace]]."
+}

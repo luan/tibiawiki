@@ -1,0 +1,106 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "walksthrough": "Energy, Poison",
+    "hp": "7500",
+    "occurrence": "Common",
+    "bestiarytext": "Carnisylvans were once humans, exposed to a dark ritual at birth they unwillingly abandoned their former lives to morph into tree-like shadow beings. Some time after coming of age they wander away to fall into a neverending slumber deep underground. Standing in pitch-black darkness, sleeping still, dreaming quaint dreams of death they await the time of joint uprising. Some are born to be chosen custodians of their siblings, awake and sentient. Dark carnisylvans are tainted by corrupted magic and try to enchant their victims with bizarre spells. It is not easy to escape the clutches of a dark carnisylvan as most of its spells are also instantly affecting the mind.",
+    "speed": "120",
+    "abilities": "{{Ability List|}}",
+    "healMod": "100%",
+    "pushobjects": "yes",
+    "paraimmune": "yes",
+    "fireDmgMod": "120%",
+    "holyDmgMod": "100%",
+    "sounds": [],
+    "maxdmg": "?",
+    "pushable": "no",
+    "usedelements": "?",
+    "implemented": "12.70.10953",
+    "bestiaryclass": "Human",
+    "loot": [
+        {
+            "amount": "1-19",
+            "itemName": "Platinum Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Bone",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Great Mana Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-?",
+            "itemName": "Carnisylvan Finger",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-?",
+            "itemName": "Carnisylvan Bark",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Spellbook",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Hailstorm Rod",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Spellbook of Warding",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Underworld Rod",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Springsprout Rod",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Wand of Starstorm",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Gold Ring",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Butterfly Ring",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Human Teeth",
+            "rarity": "rare"
+        }
+    ],
+    "walksaround": "Fire",
+    "exp": "4400",
+    "creatureclass": "Elementals",
+    "earthDmgMod": "90%",
+    "mitigation": "0.91",
+    "physicalDmgMod": "100%",
+    "primarytype": "Bio-Elementals",
+    "race_id": "2109",
+    "bestiarylevel": "Hard",
+    "history": "On {{OfficialNewsArchive|6555|February 01, 2022}}, its experience was increased to 4400 while its loot was increased by 18%.",
+    "senseinvis": "yes",
+    "article": "a",
+    "actualname": "dark carnisylvan",
+    "illusionable": "no",
+    "armor": "41",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "bestiaryname": "carnisylvandark",
+    "name": "Dark Carnisylvan",
+    "location": "[[Forest of Life]].",
+    "iceDmgMod": "110%",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "80%"
+}

@@ -1,0 +1,106 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "He looks like a [[Moohtant]]. You can only face this boss if it was the most voted one in the [[Rathleton Quest]]. Talk to [[Flora]] {{Mapper Coords|131.167|124.112|7|4|text=here}} to enter its room.",
+    "walksthrough": "Earth",
+    "hp": "72000",
+    "speed": "?",
+    "abilities": "{{Ability List\n |{{Melee|0-1000}}\n |{{Ability|[[Berserk]]|0-?|element=?}}\n |{{Ability|[[Stone Shower]]|300-500|element=?}}\n |{{Ability|[[Stone (Medium)|Distance Boulder]] 21 fields|300-5400|element=?}}\n |{{Healing|range=2000-5000}}\n |{{Ability|[[Ice Bomb]]|unknown effect|element=ice}}\n |{{Summon|Moohtant|4}} (Frequent)\n}}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "secondarytype": "Oramond Minotaurs",
+    "fireDmgMod": "95%",
+    "holyDmgMod": "100%",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "?",
+    "pushable": "?",
+    "runsat": "0",
+    "cooldown": "0.28",
+    "implemented": "10.50",
+    "loot": [
+        {
+            "amount": "0-200+",
+            "itemName": "Gold Coin"
+        },
+        {
+            "amount": "0-5",
+            "itemName": "Platinum Coin"
+        },
+        {
+            "amount": "0-5",
+            "itemName": "Small Diamond"
+        },
+        {
+            "amount": "0-5",
+            "itemName": "Small Amethyst"
+        },
+        {
+            "amount": "0-5",
+            "itemName": "Great Health Potion"
+        },
+        {
+            "amount": "0-5",
+            "itemName": "Great Mana Potion"
+        },
+        {
+            "itemName": "Meat"
+        },
+        {
+            "itemName": "Ham"
+        },
+        {
+            "itemName": "Giant Pacifier"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "Moohtant Horn"
+        },
+        {
+            "itemName": "Minotaur Leather"
+        },
+        {
+            "itemName": "Moohtant Cudgel"
+        },
+        {
+            "itemName": "Red Piece of Cloth"
+        },
+        {
+            "itemName": "Mooh'tah Plate"
+        },
+        {
+            "itemName": "One Hit Wonder",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Small Topaz"
+        },
+        {
+            "itemName": "Great Spirit Potion"
+        }
+    ],
+    "walksaround": "Energy, Fire",
+    "exp": "22000",
+    "creatureclass": "Humanoids",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "100%",
+    "bosstiaryclass": "Bane",
+    "primarytype": "Minotaurs",
+    "race_id": "1060",
+    "senseinvis": "?",
+    "actualname": "Bullwark",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Bullwark",
+    "isboss": "yes",
+    "location": "[[Oramond Minotaur Camp]], {{Mapper Coords|131.166|124.85|7|4|text=here}}.",
+    "iceDmgMod": "85%",
+    "strategy": "Avoid its melee damage (unless you are a blocker). The boss can kept at distance using [[Fire Wall Rune]]s, but be careful not to get trapped by its summons. Do not waste time trying to kill the summons since Bullwark will replace them immediately.",
+    "energyDmgMod": "85%",
+    "deathDmgMod": "90%"
+}

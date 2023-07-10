@@ -1,0 +1,70 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "It's the [[Kongra]]'s [[Boss]]. It spawns with one [[Kongra]].\n<gallery mode=\"nolines\">\nImage:Hairman The Huge.jpg\n</gallery>",
+    "walksthrough": "?",
+    "hp": "600",
+    "speed": "?",
+    "abilities": "{{Ability List\n |{{Melee|0-110}}\n |{{Ability|Throws small stones|30-100|physical}}\n {{Healing|range=25-50?}}\n}}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "no",
+    "fireDmgMod": "75%?",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        "Hugah!",
+        "Huaauaauaauaa!",
+        "Ungh! Ungh!"
+    ],
+    "maxdmg": "110",
+    "pushable": "?",
+    "usedelements": "Physical",
+    "implemented": "8.20",
+    "loot": [
+        {
+            "amount": "0-60?",
+            "itemName": "Gold Coin"
+        },
+        {
+            "amount": "0-2?",
+            "itemName": "Banana"
+        },
+        {
+            "itemName": "Ape Fur"
+        },
+        {
+            "itemName": "Plate Armor"
+        },
+        {
+            "itemName": "Power Ring"
+        },
+        {
+            "itemName": "Protection Amulet"
+        },
+        {
+            "itemName": "Club Ring"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "335",
+    "creatureclass": "Mammals",
+    "earthDmgMod": "80%?",
+    "physicalDmgMod": "99%<?",
+    "bosstiaryclass": "Nemesis",
+    "primarytype": "Apes",
+    "race_id": "425",
+    "senseinvis": "no",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Hairman the Huge",
+    "isboss": "yes",
+    "behaviour": "This boss fights until death.",
+    "location": "[[Banuta]] underground, around {{Mapper Coords|128.78|126.254|8|2|text=here}}.",
+    "iceDmgMod": "101%>?",
+    "strategy": "Kill as a normal Kongra, but if you are a low skilled [[Knight]] or [[Paladin]] be careful because it has a good [[defense]] against [[Physical Damage]]. You can try to run him, but you can lure more [[apes]].",
+    "energyDmgMod": "80%?",
+    "deathDmgMod": "101%>?"
+}

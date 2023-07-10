@@ -1,0 +1,69 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "{{JSpoiler|It's one of the bosses of [[Kilmaresh Quest]].}}",
+    "walksthrough": "Fire, Energy, Poison",
+    "hp": "28000",
+    "lightcolor": "206",
+    "speed": "?",
+    "abilities": "{{Ability List|{{Melee|0-600?}}|{{Ability|Death Bomb|666|death}}|{{Ability|Death Wave|400-500?|death|}}|{{Ability|Fireball|400-600?|fire}}|{{Ability|Fire Explosion on itself|300-500|fire}}}}",
+    "pushobjects": "yes",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "secondarytype": "Demons",
+    "fireDmgMod": "0%",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "{{Max Damage|physical=600?|death=1166?|fire=1100?}}",
+    "pushable": "no",
+    "lightradius": "3",
+    "runsat": "0",
+    "implemented": "12.20.8834",
+    "loot": [
+        {
+            "itemName": "Red Gem"
+        },
+        {
+            "itemName": "Golden Mask"
+        },
+        {
+            "itemName": "Sea Horse Figurine"
+        },
+        {
+            "itemName": "Enchanted Blister Ring"
+        },
+        {
+            "itemName": "Enchanted Theurgic Amulet"
+        },
+        {
+            "itemName": "Winged Boots"
+        }
+    ],
+    "walksaround": "None",
+    "exp": "21000",
+    "creatureclass": "Mammals",
+    "earthDmgMod": "100%",
+    "physicalDmgMod": "100%",
+    "bosstiaryclass": "Bane",
+    "primarytype": "Mammals",
+    "spawntype": [
+        "Regular"
+    ],
+    "race_id": "1829",
+    "senseinvis": "yes",
+    "actualname": "Mozradek",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Mozradek",
+    "isboss": "yes",
+    "location": "In a small cave north of [[Issavi]] {{Mapper Coords|text=here|132.142|122.218|9|4|1|0.250.25}}",
+    "iceDmgMod": "130%",
+    "strategy": "Use [[Ice Damage]] and avoid its waves.",
+    "energyDmgMod": "90%",
+    "deathDmgMod": "75%"
+}

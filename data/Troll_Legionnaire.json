@@ -1,0 +1,76 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "New creature in the summer [[Updates/8.5|update 2009]]. They can be found in an area accessible during making [[Royal Rescue Quest]]. Drops quite high amount of gold for such a monster, so hunting these might be profitable.",
+    "walksthrough": "?",
+    "hp": "210",
+    "abilities": "{{Ability List\n |{{Melee|0-40}}\n |{{Ability|[[Throwing Star]]|0-130|element=physical\n  |scene={{Scene|spell=5sqmstrike|background=canvas|caster=Troll Legionnaire|look_direction=south|missile=Throwing Star Missile|missile_direction=south-east|missile_distance=5/5}}}}\n |{{Ability|Invisibility||invisible}} (often)\n |{{Healing|range=?}} (fast)\n}}",
+    "healMod": "100%",
+    "paraimmune": "?",
+    "holyDmgMod": "100%",
+    "maxdmg": "{{Max Damage|physical=170}}",
+    "pushable": "no",
+    "usedelements": "Physical",
+    "implemented": "8.50",
+    "loot": [
+        {
+            "amount": "1-155",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-10",
+            "itemName": "Throwing Star",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Frosty Ear of a Troll",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Stealth Ring",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "140",
+    "mitigation": "0.64",
+    "attacktype": "Distance",
+    "article": "a",
+    "actualname": "troll legionnaire",
+    "illusionable": "no",
+    "armor": "12",
+    "convince": "--",
+    "name": "Troll Legionnaire",
+    "isboss": "no",
+    "iceDmgMod": "100%",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "100%",
+    "plural": "troll legionnaires",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "speed": "100",
+    "pushobjects": "?",
+    "fireDmgMod": "100%",
+    "sounds": [
+        "Attack!",
+        "Graaaaar!"
+    ],
+    "runsat": "red",
+    "bestiaryclass": "Humanoid",
+    "creatureclass": "Humanoids",
+    "earthDmgMod": "100%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Trolls",
+    "spawntype": [
+        "Regular"
+    ],
+    "race_id": "541",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "behaviour": "Keeps 4 squares distance and shoots [[Throwing Star]]s, turns invisible very often for about 20 seconds, heals frequently.",
+    "location": "Old [[Beregar]] mines. In group with [[Furious Troll]]s almost all the time.",
+    "strategy": "They will most likely be invisible all the time, as they re-cast invisibility and keep distance before the effect wears off (like [[Warlock]]s), therefore shoot area runes like [[Great Fireball]] or use spells like [[Divine Caldera]]. Alternatively, change floors for a while until they become visible again."
+}

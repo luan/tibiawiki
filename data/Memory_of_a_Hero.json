@@ -1,0 +1,102 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "walksthrough": "?",
+    "hp": "3850",
+    "abilities": "{{Ability List|}}",
+    "pushobjects": "yes",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "100%?",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "?",
+    "pushable": "no",
+    "usedelements": "?",
+    "implemented": "12.85.11485",
+    "loot": [
+        {
+            "itemName": "Piggy Bank"
+        },
+        {
+            "itemName": "Lyre"
+        },
+        {
+            "itemName": "Scarf"
+        },
+        {
+            "itemName": "Scroll"
+        },
+        {
+            "itemName": "Two Handed Sword"
+        },
+        {
+            "itemName": "Wedding Ring"
+        },
+        {
+            "itemName": "War Hammer"
+        },
+        {
+            "itemName": "Bow"
+        },
+        {
+            "itemName": "Meat"
+        },
+        {
+            "itemName": "Great Health Potion"
+        },
+        {
+            "itemName": "Bottle of Champagne"
+        },
+        {
+            "itemName": "Gold Coin"
+        },
+        {
+            "itemName": "Grapes"
+        },
+        {
+            "itemName": "Rope"
+        },
+        {
+            "itemName": "Fire Sword"
+        },
+        {
+            "itemName": "Red Rose"
+        },
+        {
+            "itemName": "Might Ring"
+        },
+        {
+            "itemName": "Green Tunic"
+        },
+        {
+            "itemName": "Candy Floss (Large)"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "1750",
+    "creatureclass": "Humans",
+    "earthDmgMod": "100%?",
+    "physicalDmgMod": "100%?",
+    "primarytype": "Outlaws",
+    "spawntype": [
+        "Unblockable"
+    ],
+    "race_id": "2167",
+    "senseinvis": "yes",
+    "article": "a",
+    "actualname": "memory of a hero",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Memory of a Hero",
+    "isboss": "no",
+    "location": "[[Time Travel Dungeon]]",
+    "iceDmgMod": "100%?",
+    "energyDmgMod": "100%?",
+    "deathDmgMod": "100%?"
+}

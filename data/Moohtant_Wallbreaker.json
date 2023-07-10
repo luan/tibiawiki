@@ -1,0 +1,103 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "moohtant wallbreakers",
+    "hpDrainDmgMod": "100%?",
+    "notes": "Moohtant Wallbreakers are bred to become living siege weapons. They are an unstoppable force and will destroy anything in their paths. They are sent to breach the [[Underground Glooth Factory]] Plant, and will do so unchallenged. The Moohtant Wallbreaker will walk directly west until he reaches the plant. He will push all players in his way backward, walk over all fields, magic walls and wild growth trees. He will stand on his allies if he must, although they surprisingly get out unharmed.",
+    "walksthrough": "Energy, Fire, Poison",
+    "hp": "250000",
+    "speed": "40",
+    "abilities": "{{Ability List| {{Melee|0-163?}}|{{Ability|[[Groundshaker]]|100-200+|element=?}}|{{Healing|range=50-150?}} }}",
+    "pushobjects": "yes",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "secondarytype": "Oramond Minotaurs",
+    "fireDmgMod": "100%?",
+    "holyDmgMod": "15%",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "?",
+    "pushable": "no",
+    "runsat": "0",
+    "implemented": "10.70",
+    "loot": [
+        {
+            "itemName": "Ring of Healing"
+        },
+        {
+            "itemName": "Red Piece of Cloth"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Moohtant Horn"
+        },
+        {
+            "itemName": "Mooh'tah Shell"
+        },
+        {
+            "amount": "1-5?",
+            "itemName": "Small Diamond"
+        },
+        {
+            "itemName": "Giant Pacifier"
+        },
+        {
+            "amount": "1-30+",
+            "itemName": "Platinum Coin"
+        },
+        {
+            "amount": "1-13",
+            "itemName": "Great Spirit Potion"
+        },
+        {
+            "amount": "1-13",
+            "itemName": "Great Mana Potion"
+        },
+        {
+            "amount": "1-13",
+            "itemName": "Great Health Potion"
+        },
+        {
+            "itemName": "Moohtant Cudgel"
+        },
+        {
+            "itemName": "Roll of Covering"
+        },
+        {
+            "itemName": "Small Ruby"
+        },
+        {
+            "itemName": "Red Gem"
+        },
+        {
+            "itemName": "Gold Ingot"
+        }
+    ],
+    "walksaround": "None.",
+    "exp": "?",
+    "creatureclass": "Humanoids",
+    "earthDmgMod": "100%?",
+    "physicalDmgMod": "15%?",
+    "primarytype": "Minotaurs",
+    "spawntype": [
+        "Raid",
+        "Unique"
+    ],
+    "senseinvis": "?",
+    "article": "a",
+    "actualname": "moohtant wallbreaker",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "?",
+    "name": "Moohtant Wallbreaker",
+    "isboss": "yes",
+    "behaviour": "It fights in close combat.",
+    "location": "[[Oramond]] [[Underground Glooth Factory]], second floor, east side during a raid.",
+    "iceDmgMod": "15%?",
+    "strategy": "The Moohtant Wallbreaker is the boss of the minotaur raids. The objective of the raid is to kill it before it reaches the Plant wall. If it does, it will explode and the wall will be destroyed, damaging players standing near it for 1000 hitpoints.\n\nIt moves at a rate of about 1 tile per 10 seconds, which gives about 50 minutes(?) to kill the Wallbreaker. Focus all of your firepower on it before it's too late!",
+    "energyDmgMod": "15%?",
+    "deathDmgMod": "100%?",
+    "status": "event"
+}

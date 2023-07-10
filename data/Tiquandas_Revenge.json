@@ -1,0 +1,80 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "It's the [[Carniphila]]'s boss. It looks and behaves like a [[Carniphila]], but it is much stronger.\n<gallery captionalign=\"left\" mode=\"nolines\">\nTiquandas revenge gallery.jpg|[[Paladin]] killing the [[Carniphila]]'s boss with [[Sudden Death]] runes, while [[Knight]] blocks.\nTiquandas Revenge Special Task.jpg|[[Knight]] killing Tiquandas Revenge; as a reward from special task on [[Antica]].\n</gallery>",
+    "walksthrough": "?",
+    "hp": "1800",
+    "speed": "?",
+    "abilities": "{{Ability List|{{Melee|0-220}}|{{Ability|Poisons you|9 hp/turn|poisoned}}|{{Ability|Paralyzes||slowed}}|{{Healing}}|{{Haste|[[Strong Haste]]}}|{{Ability|Earth Berserk|0-250|earth}}|{{Ability|Stalagmite|440|earth}}}}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "101%>?",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "{{Max Damage|physical=220|earth=699}}",
+    "pushable": "?",
+    "implemented": "7.8",
+    "loot": [
+        {
+            "amount": "0-110",
+            "itemName": "Gold Coin"
+        },
+        {
+            "amount": "0-50",
+            "itemName": "Meat"
+        },
+        {
+            "amount": "0-8",
+            "itemName": "Ham"
+        },
+        {
+            "amount": "0-6",
+            "itemName": "Dark Mushroom"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "Seeds",
+            "rarity": "always"
+        },
+        {
+            "itemName": "Mandrake",
+            "rarity": "always"
+        },
+        {
+            "itemName": "Carrot on a Stick"
+        },
+        {
+            "itemName": "Small Diamond"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "2635",
+    "creatureclass": "Elementals",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "99%<?",
+    "primarytype": "Bio-Elementals",
+    "spawntype": [
+        "Raid",
+        "Unique",
+        "Triggered",
+        "Unblockable"
+    ],
+    "race_id": "276",
+    "senseinvis": "yes",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Tiquandas Revenge",
+    "isboss": "yes",
+    "behaviour": "Tiquandas Revenge fights until death.",
+    "location": "Deep in the [[Tiquanda|Tiquandian]] Jungle, has been seen {{Mapper Coords|128.147|127.45|7|3|text=here}},  {{Mapper Coords|128.157|127.191|7|8|text=here}} and [http://tibia.wikia.com/wiki/Mapper?coords=128.76,128.16,7 here]. <br>\nThe portal to the boss for the [[Killing in the Name of... Quest|special task]] is located {{Mapper Coords|128.104|127.70|7|3|text=here}}.",
+    "iceDmgMod": "99%<?",
+    "strategy": "If you are a '''[[Mage]]''', it would definitely be smart to use [[Sudden Death|Sudden Death Runes]] to kill this. You wouldn't want it to get close to you. The blocker (if there's any) should run it and absorb its distance attacks but not let it come to [[Melee]]. If you are a '''[[Knight]]''' the only and best strategy is to use best weapon and [[Fierce Berserk]]. If you are a '''[[Paladin]]''' use [[Assassin Star]]s if possible. Its [[Self Healing|Healing]] is extremely fast, much more than [[Hydra]]. This is not a regular spawn.",
+    "energyDmgMod": "100%?",
+    "deathDmgMod": "99%<?"
+}

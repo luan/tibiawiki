@@ -1,0 +1,168 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "walksthrough": "Fire, Poison",
+    "hp": "5800",
+    "abilities": "{{Ability List| {{Melee|0-500}}|{{Ability|[[Sudden Death]] bomb|250-500|element=death}}|{{Ability|Poison wave|Poisons you starting from up to 45 hp per turn|element=poisoned}}|{{Ability|[[Mana Drain]] sleeping bomb|25-100|element=manadrain}}|{{Ability|life drain sleeping strike|400-500|element=lifedrain}}|{{Ability|large bubble explosion|[[Drowning|drowns]] you for 50+ turns|element=drowning}}|{{Ability|[[Paralyze]]|element=paralyze}}|{{Ability|very slow [[Self-Healing]]|80-150|element=healing}} }}",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "holyDmgMod": "100%",
+    "maxdmg": "~1400",
+    "pushable": "no",
+    "implemented": "10.30",
+    "loot": [
+        {
+            "amount": "1-100",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-8",
+            "itemName": "Platinum Coin",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Brown Crystal Splinter",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "Great Spirit Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "Great Mana Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "Ultimate Health Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Dead Weight",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Hemp Rope",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "Blue Crystal Splinter",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Brown Piece of Cloth",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Life Ring",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Beastslayer Axe",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Yellow Piece of Cloth",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Energy Ring",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Ring of Healing",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Guardian Shield",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Green Crystal Shard",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Shadow Sceptre",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Red Piece of Cloth",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Spellbook of Mind Control",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Sai",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Terra Boots",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Underworld Rod",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Springsprout Rod",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Cluster of Solace",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Terra Mantle",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Energy",
+    "exp": "4700",
+    "mitigation": "1.94",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "choking fear",
+    "illusionable": "no",
+    "armor": "65",
+    "convince": "--",
+    "name": "Choking Fear",
+    "isboss": "no",
+    "iceDmgMod": "90%",
+    "energyDmgMod": "85%",
+    "deathDmgMod": "45%",
+    "plural": "choking fears",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "Like a giant, gaunt goblin, cunning and swift-footed with slender, long arms that are fearfully strong, the Choking Fear searches for anything to throttle. It has no head, but loves to twist heads off. A Choking Fear will always chase after opponents, trying to get close, eager to have his long cold fingers around their necks. It enjoys the sound and feel of the dying and delights in feeling their death rattle. It is surmised that somewhere, in a dark prison cell, horrible pains and fears had been inflicted to the father of all Choking Fears, maddening him beyond belief until his rage took a ghastly form and he escaped. Any Choking Fear will always see all that breathes as its enemy, and chase them relentlessly while taunting them about their nearing end. Choking Fears love to tease and toy with their victims, prolonging their death; and they tie up their victims in their hemp ropes as a ghastly dangling trophy attached to high trees or roof beams.",
+    "speed": "190",
+    "pushobjects": "yes",
+    "fireDmgMod": "0%",
+    "sounds": [
+        "Ah, sweet air... don't you miss it?",
+        "Murr tat muuza!",
+        "kchh",
+        "hsssss"
+    ],
+    "runsat": "0",
+    "bestiaryclass": "Magical",
+    "creatureclass": "Demons",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "90%",
+    "primarytype": "Dreamhaunters",
+    "race_id": "1015",
+    "bestiarylevel": "Hard",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "chokingfear",
+    "behaviour": "Chases the enemy and fights in close-combat. Rarely retargets.",
+    "location": "All over the surface of [[Upper Roshamuul]] and [[Nightmare Isles]].",
+    "strategy": "A rather annoying enemy, especially with their frequent partners, the [[Retching Horror]]s. Lower level and solo players may take advantage of their reluctance to run over [[Energy Field]]s, and lure them into a relatively empty area where you're less likely to get swarmed. Recommended for all vocations to use garlic necklace and protection from death attacks."
+}

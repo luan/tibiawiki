@@ -1,0 +1,121 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "walksthrough": "Fire, Poison",
+    "hp": "1900",
+    "abilities": "{{Ability List| {{Melee|0-250|element=physical}}|{{Ability|[[Heavy Magic Missile]]|150-200|element=?}}|{{Ability|[[Physical Damage|Smoke Beam]]|250-350}}|{{Ability|Electricity Bomb on self|[[Electrified]]|element=energy}}|{{Ability|infrequent [[Self-Healing]]|50-80|element=healing}}|{{Haste}} }}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "secondarytype": "Electro-Elementals",
+    "holyDmgMod": "95%",
+    "maxdmg": "800",
+    "pushable": "no",
+    "implemented": "10.94",
+    "loot": [
+        {
+            "amount": "1-100",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Platinum Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Blue Crystal Splinter",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Cyan Crystal Fragment",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Sparkion Claw",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Sparkion Legs",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Sparkion Stings",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Sparkion Tail",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Energy Bar",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Energy Drink",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Great Health Potion",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Great Mana Potion",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Great Spirit Potion",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Blue Crystal Shard",
+            "rarity": "semi-rare"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Small Sapphire",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Wand of Cosmic Energy",
+            "rarity": "rare"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "1350",
+    "mitigation": "1.18",
+    "attacktype": "Melee",
+    "article": "an",
+    "actualname": "instable sparkion",
+    "illusionable": "no",
+    "armor": "37",
+    "convince": "--",
+    "name": "Instable Sparkion",
+    "isboss": "no",
+    "iceDmgMod": "40%",
+    "energyDmgMod": "20%",
+    "deathDmgMod": "95%",
+    "plural": "instable sparkions",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "The Instable Sparkion is a weaker version of [[Sparkion|Sparkions]].",
+    "speed": "140",
+    "pushobjects": "yes",
+    "fireDmgMod": "80%",
+    "sounds": [
+        "Zzing!",
+        "Frizzle!"
+    ],
+    "bestiaryclass": "Extra Dimensional",
+    "creatureclass": "Invertebrates",
+    "earthDmgMod": "115%",
+    "physicalDmgMod": "95%",
+    "primarytype": "Arachnids",
+    "race_id": "1264",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "instablesparkion",
+    "behaviour": "Unknown.",
+    "location": "[[Otherworld (Dwarf Bridge)]]",
+    "strategy": "Be careful not to lure too many creatures as the dungeon has lots of them. Use Earth damage if possible or Holy/Physical otherwise."
+}

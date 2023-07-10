@@ -1,0 +1,138 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "Zulazza the Corruptor",
+    "hpDrainDmgMod": "100%?",
+    "notes": "It spawns during the [[Farmine Raids|Orc Raid on Zzaion]] on the top floor of the furthest tower to the south, the highest tower in [[Zzaion]]. It appears when the final raid message is shown, which is often an unpleasant surprise for players.\n\nBefore it spawns, five messages are broadcast in white text to all players on that game world:\n{{Raid Message|00:00:00|A massive orc force is gathering at the gates of Zzaion.|00:03:00|Orc reinforcements have arrived at the gates of Zzaion! The gates are under heavy attack!|00:10:00|More orc reinforcements have arrived at the gates of Zzaion! The gates are under heavy attack!|00:20:00|The gates to Zzaion have been breached! Orcs are invading the city!|00:30:00|More orcs have arrived in Zzaion! The city is under attack! Strong lizard leaders have come to defend the city.}}\n<gallery mode=\"nolines\">\nZzaion tower.gif‎|The tower's location.\nZulazza the Corruptor Guardia.jpg|Zulazza the Corruptor on Guardia.\n</gallery>",
+    "isarenaboss": "no",
+    "walksthrough": "?",
+    "hp": "46500",
+    "speed": "?",
+    "abilities": "{{Ability List\n |{{Melee|0-2078+}}\n |{{Ability|[[Poison Bomb]]|250-500|element=poison}}\n |{{Ability|Cursing Beam|100-900|element=cursed}}\n |{{Ability|Mana Drain Bomb|50-250|element=manadrain}}\n |{{Ability|[[Paralysis|Paralyze Bomb]]|on target|element=paralyze}}\n |{{Debuff2|Poff Bomb|distance=yes}}\n |{{Ability|Poisoning Bomb|poisons from 20 up to 40hp/turn|element=poisoned}}\n |{{Ability|Groundshaker Bomb|0-250|element=physical}}\n |{{Ability|Frequent [[Self-Healing]]|225-270|element=healing}}\n}}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "yes",
+    "fireDmgMod": "100%",
+    "holyDmgMod": "80%",
+    "sounds": [
+        "I'm Zulazza, and you won't forget me that fazzt.",
+        "Oh, HE will take revenge on zzizz azzault when you zztep in front of HIZZ fazze!",
+        "Zzaion is our last zztand! I will not leave wizzout a fight!",
+        "Behind zze Great Gate liezz your doom!"
+    ],
+    "maxdmg": "~3700",
+    "pushable": "?",
+    "implemented": "8.54",
+    "loot": [
+        {
+            "amount": "0-99",
+            "itemName": "Gold Coin"
+        },
+        {
+            "amount": "0-29",
+            "itemName": "Platinum Coin"
+        },
+        {
+            "amount": "0-46",
+            "itemName": "Viper Star"
+        },
+        {
+            "amount": "0-5",
+            "itemName": "Soul Orb"
+        },
+        {
+            "amount": "0-4",
+            "itemName": "Gold Ingot"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "Giant Shimmering Pearl"
+        },
+        {
+            "itemName": "Emerald Bangle"
+        },
+        {
+            "itemName": "Ultimate Health Potion"
+        },
+        {
+            "itemName": "Great Health Potion"
+        },
+        {
+            "itemName": "Great Mana Potion"
+        },
+        {
+            "itemName": "Great Spirit Potion"
+        },
+        {
+            "itemName": "Mastermind Potion"
+        },
+        {
+            "itemName": "Red Gem"
+        },
+        {
+            "itemName": "Yellow Gem"
+        },
+        {
+            "itemName": "Green Gem"
+        },
+        {
+            "itemName": "Blue Gem"
+        },
+        {
+            "itemName": "Violet Gem"
+        },
+        {
+            "itemName": "Zaoan Halberd"
+        },
+        {
+            "itemName": "Guardian Shield"
+        },
+        {
+            "itemName": "Tower Shield"
+        },
+        {
+            "itemName": "Slightly Rusted Armor"
+        },
+        {
+            "itemName": "Paladin Armor"
+        },
+        {
+            "itemName": "Mastermind Shield",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Dragon Scale Boots",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Earthborn Titan Armor",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "10000",
+    "creatureclass": "Reptiles",
+    "earthDmgMod": "30%",
+    "physicalDmgMod": "100%",
+    "bosstiaryclass": "Nemesis",
+    "primarytype": "Draken",
+    "spawntype": [
+        "Raid",
+        "Unblockable"
+    ],
+    "race_id": "628",
+    "senseinvis": "yes",
+    "actualname": "Zulazza the Corruptor",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Zulazza the Corruptor",
+    "isboss": "yes",
+    "behaviour": "It retargets a lot. It will always try to get close to you. It uses strong magic spells and deals an incredible amount of melee damage. It runs away on black health (1400~).",
+    "location": "[[Zzaion]] ([[Zao]]) most southern tower, top floor.",
+    "iceDmgMod": "80%",
+    "strategy": "Try to kill it with a big group of high levels. Be extremely careful since the [[melee]] hits are extremely high. It can easily one-hit a level 170 [[paladin]] (without [[magic shield]]). Keep a constant eye on your [[health]] and [[mana]] (it also drains your mana). Adviced is to heal every turn. Even if you have a lot of health, this monster can deal a great amount of damage. That combined with his poison bomb can kill you without even noticing it. It poisons you from 20 - 30hp per turn.\nWhen you are about to get low on health, just go down the stairs and quickly regenerate. Watch out for any [[Draken Warmaster]] and [[Draken Spellweaver]] respawns.\nIf you are with not so many [[player]]s, try to let one [[knight]] run through the chamber while others shoot because this [[boss]] is not fast at all, however, if it [[retarget]]s, it could be disastrous.",
+    "energyDmgMod": "0%",
+    "deathDmgMod": "70%"
+}

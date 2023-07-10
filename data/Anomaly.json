@@ -1,0 +1,181 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "?",
+    "hpDrainDmgMod": "100%?",
+    "notes": "A boss in the [[Heart of Destruction Quest]].",
+    "walksthrough": "?",
+    "hp": "290000",
+    "speed": "?",
+    "abilities": "{{Ability List| {{Melee|0-1300?}} }}",
+    "pushobjects": "yes",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "secondarytype": "Electro-Elementals",
+    "fireDmgMod": "70%?",
+    "holyDmgMod": "70%?",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "?",
+    "pushable": "no",
+    "runsat": "0",
+    "implemented": "10.94",
+    "cooldown": "20",
+    "loot": [
+        {
+            "itemName": "Void Boots"
+        },
+        {
+            "itemName": "Blue Gem"
+        },
+        {
+            "itemName": "Green Gem"
+        },
+        {
+            "itemName": "Spellbook of Warding"
+        },
+        {
+            "amount": "10",
+            "itemName": "Small Topaz"
+        },
+        {
+            "amount": "10",
+            "itemName": "Small Amethyst"
+        },
+        {
+            "amount": "10",
+            "itemName": "Small Diamond"
+        },
+        {
+            "amount": "5",
+            "itemName": "Ultimate Health Potion"
+        },
+        {
+            "itemName": "Curious Matter"
+        },
+        {
+            "itemName": "Frozen Lightning"
+        },
+        {
+            "amount": "200",
+            "itemName": "Gold Coin"
+        },
+        {
+            "amount": "3",
+            "itemName": "Green Crystal Shard"
+        },
+        {
+            "amount": "3",
+            "itemName": "Violet Crystal Shard"
+        },
+        {
+            "itemName": "Shadow Sceptre"
+        },
+        {
+            "itemName": "Ring of Blue Plasma"
+        },
+        {
+            "itemName": "Ring of Green Plasma"
+        },
+        {
+            "amount": "5",
+            "itemName": "Great Spirit Potion"
+        },
+        {
+            "amount": "1-7",
+            "itemName": "Gold Token",
+            "rarity": "always"
+        },
+        {
+            "itemName": "Ruthless Axe"
+        },
+        {
+            "itemName": "Mysterious Remains",
+            "rarity": "always"
+        },
+        {
+            "itemName": "Tiara of Power"
+        },
+        {
+            "itemName": "Platinum Coin"
+        },
+        {
+            "itemName": "Chaos Mace"
+        },
+        {
+            "itemName": "Blue Crystal Shard"
+        },
+        {
+            "itemName": "Small Ruby"
+        },
+        {
+            "itemName": "Yellow Gem"
+        },
+        {
+            "itemName": "Collar of Red Plasma"
+        },
+        {
+            "itemName": "Small Emerald"
+        },
+        {
+            "itemName": "Energy Drink"
+        },
+        {
+            "itemName": "Giant Shimmering Pearl"
+        },
+        {
+            "itemName": "Lightning Headband"
+        },
+        {
+            "itemName": "Lightning Legs"
+        },
+        {
+            "itemName": "Ring of Red Plasma"
+        },
+        {
+            "itemName": "Red Gem"
+        },
+        {
+            "itemName": "Great Mana Potion"
+        },
+        {
+            "itemName": "Collar of Blue Plasma"
+        },
+        {
+            "itemName": "Collar of Green Plasma"
+        },
+        {
+            "itemName": "Violet Gem"
+        },
+        {
+            "itemName": "Crystalline Sword"
+        },
+        {
+            "itemName": "Lightning Robe"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "50000",
+    "creatureclass": "Invertebrates",
+    "earthDmgMod": "70%?",
+    "physicalDmgMod": "70%?",
+    "bosstiaryclass": "Archfoe",
+    "primarytype": "Cnidarians",
+    "race_id": "1219",
+    "senseinvis": "?",
+    "article": "an",
+    "actualname": "anomaly",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "70%?",
+    "convince": "--",
+    "name": "Anomaly",
+    "isboss": "yes",
+    "behaviour": "He will transform into [[Charged Anomaly]] after taking some damage. This will occur a few times.",
+    "location": "[[Otherworld]], {{Mapper Coords|126.16|122.17|14|4|text=here}}.",
+    "iceDmgMod": "70%?",
+    "strategy": "Unknown",
+    "energyDmgMod": "70%?",
+    "deathDmgMod": "70%?"
+}

@@ -1,0 +1,91 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "They have a more cheerful relative, the [[Bonny Bunny]].",
+    "walksthrough": "Energy, Poison, Fire",
+    "hp": "500",
+    "abilities": "{{Ability List\n |{{Melee|0-58+}}\n |{{Ability|Smoke Ball|0-125+|element=earth\n  |scene={{Scene|spell=2sqmballself|effect=Poof Effect|caster=Baleful Bunny|effect_on_caster=yes}}}}\n |{{Ability|Blood Ball|0-150?|element=earth\n  |scene={{Scene|spell=2sqmballtarget|effect=Blood Effect|caster=Baleful Bunny|missile=Death Missile (Large)|missile_direction=south-east|missile_distance=2/2|edge_size=32}}}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "holyDmgMod": "100%",
+    "maxdmg": "125+",
+    "pushable": "?",
+    "usedelements": "Poison > Physical",
+    "implemented": "12.02.7746",
+    "loot": [
+        {
+            "itemName": "Platinum Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Strange Talisman",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Terra Amulet",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Snakebite Rod",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Lightning Pendant",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Leaf Star",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Sacred Tree Amulet",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Yetislippers",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "no",
+    "exp": "450",
+    "mitigation": "0.78",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "baleful bunny",
+    "illusionable": "no",
+    "armor": "35",
+    "convince": "?",
+    "name": "Baleful Bunny",
+    "isboss": "no",
+    "iceDmgMod": "100%",
+    "energyDmgMod": "95%",
+    "deathDmgMod": "100%",
+    "status": "event",
+    "plural": "baleful bunnies",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Rare",
+    "speed": "170",
+    "pushobjects": "yes",
+    "fireDmgMod": "100%",
+    "sounds": [
+        "Borborygmus... borborygmus..."
+    ],
+    "runsat": "15",
+    "bestiaryclass": "Mammal",
+    "creatureclass": "Mammals",
+    "earthDmgMod": "95%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Glires",
+    "spawntype": [
+        "Regular"
+    ],
+    "race_id": "1742",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "behaviour": "Fights in close combat.",
+    "location": "[[Percht Island]]",
+    "strategy": "Just kill them for a chance of a rare loot."
+}

@@ -1,0 +1,149 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "A banshee, according to the [[Wikipedia:Banshee|irish myth]], is the spirit of a deceased woman that is an omen of death or generally a messenger from the underworld. On Tibia, a banshee is a beautiful woman who has been betrayed and committed suicide, but death did not accept her sacrifice and sent her back.",
+    "walksthrough": "Fire, Poison",
+    "hp": "1000",
+    "abilities": "{{Ability List\n |{{Melee|0-100|poison=4}}\n |{{Ability|Great Musical Bomb|100-200|lifedrain\n  |scene={{Scene|spell=2sqmballself|effect=Red Notes Effect|caster=Banshee|effect_on_caster=yes}}}}\n |{{Ability|Death Melee|55-350|death\n  |scene={{Scene|spell=1sqmstrike|effect=Cloud Effect|caster=Banshee|missile_direction=south-east|missile_distance=2/2}}}}\n |{{Ability|Paralyze|element=paralyze\n  |scene={{Scene|spell=7sqmstrike|effect=Red Sparkles Effect|caster=Banshee|missile_direction=south-east|missile_distance=7/7}}}}\n |{{Healing|fast [[Self-Healing]]|range=120-190\n  |scene={{Scene|spell=buffspell|effect=Blue Sparkles Effect|caster=Banshee|effect_on_caster=yes}}}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "holyDmgMod": "125%",
+    "maxdmg": "{{Max Damage|physical=100|death=350|lifedrain=200|earth=4}}",
+    "pushable": "No",
+    "implemented": "7.2",
+    "loot": [
+        {
+            "amount": "0-80",
+            "itemName": "Gold Coin"
+        },
+        {
+            "itemName": "Candlestick"
+        },
+        {
+            "itemName": "Silver Amulet"
+        },
+        {
+            "itemName": "Simple Dress"
+        },
+        {
+            "itemName": "Hair of a Banshee",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Petrified Scream",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Black Pearl",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Poison Dagger",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Silver Brooch",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "White Pearl",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Lyre",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Stone Skin Amulet",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Blue Robe",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Ring of Healing",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Strong Mana Potion",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Spellbook",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Wedding Ring",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Terra Mantle",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Red Robe",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Life Crystal",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Crystal Ring",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Sweet Smelling Bait",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Energy",
+    "exp": "900",
+    "mitigation": "1.74",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "banshee",
+    "illusionable": "no",
+    "armor": "25",
+    "convince": "--",
+    "name": "Banshee",
+    "isboss": "no",
+    "iceDmgMod": "100%",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "0%",
+    "plural": "banshees",
+    "hpDrainDmgMod": "0%",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "The Banshee is an undead creature of sheer terror. Legend has it she once was a mortal woman of great beauty who has killed herself over some long forgotten grievance. Death refused her sacrifice and sent her back, cursed and distorted. Now the Banshee is a ghastly sight to behold. Her body is not ethereal like that of a ghost, but her burning gaze and the withering look of infinite pain in her face strike terror in every mortal's heart. Even worse than her fearsome looks, however, is her unworldly song. The Banshee's wail is a melody of pure death which drains her unfortunate victims of all life and hope. Few mortals who have encountered a Banshee have lived to tell the tale.",
+    "speed": "110",
+    "pushobjects": "Yes",
+    "fireDmgMod": "0%",
+    "sounds": [
+        "Dance for me your dance of death!",
+        "Let the music play!",
+        "I will mourn your death!",
+        "Are you ready to rock?",
+        "Feel my gentle kiss of death.",
+        "That's what I call easy listening!",
+        "IIIIEEEeeeeeehhhHHHH!"
+    ],
+    "runsat": "yellow",
+    "bestiaryclass": "Undead",
+    "creatureclass": "The Undead",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Undead Humanoids",
+    "spawntype": [
+        "Regular",
+        "Raid"
+    ],
+    "race_id": "78",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "drownDmgMod": "0%",
+    "bestiaryname": "banshee",
+    "location": "Single one under the [[White Flower Temple]] in [[Thais]] (respawn takes about 20-25 minutes), [[Banshee Quest]] area in [[Ghostlands]] (also accesible by [[Isle of the Kings]]), [[Demon Quest]] Room, [[Drefia]], [[Ancient Ruins Tomb]], [[Desert Dungeon]] (unreachable), Pits of Inferno in [[Tafariel]]'s Throne room, [[Cemetery Quarter]] in [[Yalahar]], [[Vengoth Castle]], one in [[Robson Isle]]. <small>{{seealso|Banshee/Spawns}}</small>",
+    "strategy": "To all vocations it is recomended to use a [[Garlic Necklace]].<br />\n[[Mages]] should use an [[energy]] or [[ice]] [[rod]]/[[wand]] combined with ice or energy Strike. Be ready to follow them, as they run in fairly low health, but watch out for a second attack as they can heal (and return) relatively quickly. Trying to take on more than one banshee at a time can be dangerous and is not recommended for lower levels. [[Demon Skeleton]]s can be useful to help blocking and killing.<br />\n[[Paladin]]s need space to run and use healing spells to remove paralysis.Be prepared to use your [[Divine Caldera]] if you get swarmed by them.<br>[[Knight]]s could use a two handed weapon to kill fast, most damage you will take, comes from life drain. You can attempt them from skills 65/65 and level 50 on. Be ready to use 3-4 strong health potions and 7-8 mana potions to exori it down."
+}

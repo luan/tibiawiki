@@ -1,0 +1,100 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "Be weary that these creatures use invisible frequently, so you may run into more than you think when approaching them. Despite staying invisible for a short amount of time, if grouped, their combos can bring down even decent skilled players.\n{{JSpoiler|You may hunt 250 of these as a task of the [[Killing in the Name of... Quest]].}}",
+    "walksthrough": "Fire, Energy, Poison",
+    "hp": "1100",
+    "abilities": "{{Ability List\n |{{Melee|0-145}}\n |{{Ability|Scratch Wave|0-200|element=physical\n   |scene={{Scene|spell=5sqmwavenarrow|effect=Sparks Effect|caster=Mutated Tiger|look_direction=east}}}}\n |{{Ability|[[Invisible]] for 2 seconds|element=invisible}}\n |{{Healing}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "secondarytype": "Felines",
+    "holyDmgMod": "100%",
+    "maxdmg": "275~",
+    "pushable": "?",
+    "implemented": "8.40",
+    "loot": [
+        {
+            "amount": "1-176",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Meat",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Life Ring",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Sabretooth",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Striped Fur",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Strong Health Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Glorious Axe",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Silky Tapestry",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Guardian Shield",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Angelic Axe",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "None",
+    "exp": "750",
+    "mitigation": "0.99",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "mutated tiger",
+    "illusionable": "yes",
+    "armor": "25",
+    "convince": "--",
+    "name": "Mutated Tiger",
+    "isboss": "no",
+    "iceDmgMod": "80%",
+    "energyDmgMod": "80%",
+    "deathDmgMod": "105%",
+    "plural": "mutated tigers",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "A Mutated Tiger is the result of outrageous experiments. In most cases, the mutation is rather a by-product of another process that aims at stealing the cat's vitality and agility to produce a youth potion that is of great demand among the wealthy and powerful all over the world. Although some of the most resilient tigers survive this horrible draining-process, they  turn incurably mad and wild. In addition, these rare individuals become much more vital and stronger than they have ever been in their former lives.<br />To the dismay of some excited alchemists, who had tried to drain those beasts to gain even more powerful potions, the vital force of Mutated Tigers is toxic. This, however, did not stop the alchemists to undertake further gruesome experiments. After surviving these cruel experiments, the beasts reached a point beyond madness and rage. They are the incarnation of pain and agony, and seem to want to spread them both as much as possible. With their increased power, it becomes more and more difficult to have them in their laboratories.<br />Sometimes, thoughtless alchemists release the beasts into the wild, when it becomes too dangerous to keep them. Others are sold to arenas, zoos or curiosity shows. The buyer usually regrets the trade quickly - that is, if he is lucky to live long enough to regret something.<br />Unlike to their former lives, Mutated Tigers care little for stealth and lying in ambush. They usually charge an opponent and try to overwhelm him with sheer ferocity and power. They seem  to need immense amounts of food after their mutation, still if they have the chance, they kill much more than they could possible need for survival.",
+    "speed": "100",
+    "pushobjects": "?",
+    "fireDmgMod": "80%",
+    "sounds": [
+        "GRAAARRRRRR",
+        "CHHHHHHHHHHH"
+    ],
+    "bestiaryclass": "Mammal",
+    "creatureclass": "Mammals",
+    "earthDmgMod": "20%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Mutated Mammals",
+    "race_id": "516",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "mutatedtiger",
+    "behaviour": "Mutated Tigers run away at low [[health]].",
+    "location": "[[Alchemist Quarter]], [[Arena and Zoo Quarter]] (Inside with other mutated creatures), [[Muggy Plains]], [[Souleater Mountains]], [[Northern Zao Plantations]] and entrance of the [[Temple Complex]].",
+    "strategy": "Treat them like a dragon and watch out for the waves. They are pretty easy.\n'''[[Knight]]s''': Should move in fast before their waves can do damage to you, and make sure you retarget it once it has become visible. Try to avoid two or more as their waves become harder to evade due to creature placement."
+}

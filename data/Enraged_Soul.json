@@ -1,0 +1,57 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "enraged souls",
+    "hpDrainDmgMod": "0%?",
+    "notes": "These Creatures are immune to Physical Damage, however, they can be damaged by weapons that have been enchanted or come with natural enchantments such as a Fire Axe or a Fire Sword.",
+    "walksthrough": "?",
+    "hp": "150",
+    "speed": "?",
+    "abilities": "{{Ability List|}}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "100%?",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "?",
+    "pushable": "?",
+    "implemented": "10.20",
+    "loot": [
+        {
+            "itemName": "Combat Knife"
+        },
+        {
+            "itemName": "Cape"
+        },
+        {
+            "itemName": "White Piece of Cloth"
+        },
+        {
+            "itemName": "Morning Star"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "120",
+    "creatureclass": "The Undead",
+    "earthDmgMod": "0%?",
+    "physicalDmgMod": "0%?",
+    "primarytype": "Ghosts",
+    "senseinvis": "no",
+    "article": "an",
+    "actualname": "enraged soul",
+    "illusionable": "yes",
+    "armor": "?",
+    "drownDmgMod": "0%?",
+    "convince": "--",
+    "name": "Enraged Soul",
+    "isboss": "no",
+    "behaviour": "Fight until death.",
+    "location": "[[Upper Spike]]",
+    "iceDmgMod": "100%?",
+    "strategy": "This creature appears to be identical to [[Ghost]] in abilities and behavior so treat it like you would a regular [[Ghost]] creature.",
+    "energyDmgMod": "100%?",
+    "deathDmgMod": "0%?"
+}

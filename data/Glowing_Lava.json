@@ -1,0 +1,26 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "glowing lavas",
+    "hpDrainDmgMod": "100%?",
+    "abilities": "{{Ability List|}}",
+    "fireDmgMod": "0%",
+    "holyDmgMod": "0%",
+    "sounds": [
+        ""
+    ],
+    "implemented": "12.70.10953",
+    "loot": [],
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "0%",
+    "article": "a",
+    "actualname": "glowing lava",
+    "illusionable": "no",
+    "drownDmgMod": "100%?",
+    "name": "Glowing Lava",
+    "isboss": "no",
+    "location": "[[Dwelling of the Forgotten]], at the [[Too_Hot_to_Handle_Quest#Lava Fishing|Too Hot to Handle]] Lava Fishing mission.",
+    "iceDmgMod": "0%",
+    "energyDmgMod": "0%",
+    "deathDmgMod": "0%"
+}

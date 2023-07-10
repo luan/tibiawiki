@@ -1,0 +1,55 @@
+{
+    "summon": "220",
+    "templateType": "Creature",
+    "plural": "thieving squirrels",
+    "hpDrainDmgMod": "100%",
+    "walksthrough": "None",
+    "hp": "55",
+    "speed": "?",
+    "abilities": "{{Ability List\n |{{Ability|Invisibility||invisible}}\n}}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "100%",
+    "holyDmgMod": "100%",
+    "sounds": [
+        "Chchch"
+    ],
+    "maxdmg": "0",
+    "pushable": "?",
+    "implemented": "8.54",
+    "loot": [
+        {
+            "itemName": "Flask with Beaver Bait",
+            "rarity": "always"
+        },
+        {
+            "itemName": "Peanut"
+        }
+    ],
+    "walksaround": "Fire, Energy, Poison",
+    "exp": "15",
+    "creatureclass": "Mammals",
+    "earthDmgMod": "100%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Glires",
+    "spawntype": [
+        "Triggered",
+        "Unblockable"
+    ],
+    "senseinvis": "?",
+    "article": "a",
+    "actualname": "thieving squirrel",
+    "illusionable": "yes",
+    "armor": "?",
+    "drownDmgMod": "100%",
+    "convince": "220",
+    "name": "Thieving Squirrel",
+    "isboss": "no",
+    "behaviour": "Runs away fast.",
+    "location": "It spawns when you use a [[Flask with Beaver Bait]] on a marked [[Dwarf Tree]] during [[The New Frontier Quest]].",
+    "iceDmgMod": "100%",
+    "strategy": "It moves extremely fast (even faster than a standard [[Squirrel]]) so kill it quick.",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "100%"
+}

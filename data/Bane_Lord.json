@@ -1,0 +1,78 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "The '''Bane Lord''' is the [[boss]] of the [[Bane Bringer]]s. It has a chance to spawn with Bane Bringers during the [[Bewitched]] [[World Quests|event]]. First seen on the 2012 Bewitched.",
+    "isarenaboss": "no",
+    "walksthrough": "?",
+    "hp": "3000",
+    "speed": "?",
+    "abilities": "{{Ability List| {{Melee|0-50?}}|{{Healing|range=100-270?}}|{{Ability|Poisoning|element=poison}} }}",
+    "pushobjects": "yes",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "secondarytype": "Event Creatures",
+    "fireDmgMod": "5%",
+    "holyDmgMod": "5%?",
+    "sounds": [
+        ""
+    ],
+    "maxdmg": "60?",
+    "pushable": "no",
+    "implemented": "9.40",
+    "loot": [
+        {
+            "amount": "1-3?",
+            "itemName": "Dry Piece of Wood",
+            "rarity": "always"
+        },
+        {
+            "itemName": "Sugar Oat",
+            "rarity": "always"
+        },
+        {
+            "itemName": "Wooden Trash"
+        },
+        {
+            "itemName": "Bag of Apple Slices"
+        },
+        {
+            "itemName": "Bamboo Leaves"
+        },
+        {
+            "itemName": "Golden Fir Cone"
+        },
+        {
+            "itemName": "Slug Drug"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "500",
+    "creatureclass": "Elementals",
+    "earthDmgMod": "5%?",
+    "physicalDmgMod": "50%?",
+    "bosstiaryclass": "Nemesis",
+    "primarytype": "Bio-Elementals",
+    "spawntype": [
+        "Raid",
+        "Event",
+        "Triggered"
+    ],
+    "race_id": "768",
+    "senseinvis": "Yes",
+    "article": "a",
+    "actualname": "bane lord",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Bane Lord",
+    "isboss": "yes",
+    "behaviour": "Same as the [[Bane Bringer]].",
+    "location": "[[Green Claw Swamp]], on the [[Bewitched]] area.",
+    "iceDmgMod": "5%",
+    "strategy": "Unknown.",
+    "energyDmgMod": "5%?",
+    "deathDmgMod": "5%?",
+    "status": "event"
+}

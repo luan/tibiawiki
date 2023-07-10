@@ -1,0 +1,152 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "isarenaboss": "no",
+    "walksthrough": "Energy, Fire, Poison",
+    "hp": "3400",
+    "abilities": "{{Ability List| {{Melee|0-330}}|{{Ability|[[Stalagmite]]|0-350|element=?}}|{{Ability|[[Poison Bomb]]|element=poison}}|{{Healing|range=225-320+}}|{{Ability|[[Invisibility]]|frequent|element=invisible}} }}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "holyDmgMod": "95%",
+    "maxdmg": "1000?",
+    "pushable": "no",
+    "implemented": "9.60",
+    "loot": [
+        {
+            "amount": "1-200",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-6",
+            "itemName": "Platinum Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "White Piece of Cloth",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Brown Piece of Cloth",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "Mushroom Pie",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Humongous Chunk",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-15",
+            "itemName": "Drill Bolt",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Strong Health Potion",
+            "rarity": "semi-rare"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "Strong Mana Potion",
+            "rarity": "semi-rare"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Great Mana Potion",
+            "rarity": "semi-rare"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Great Health Potion",
+            "rarity": "semi-rare"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "Mana Potion",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Terra Legs",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Terra Boots",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Terra Amulet",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Red Piece of Cloth",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Blue Piece of Cloth",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Angelic Axe",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Terra Mantle",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Muck Rod",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Mycological Bow",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Mushroom Backpack",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "None.",
+    "exp": "2600",
+    "mitigation": "2.02",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "humongous fungus",
+    "illusionable": "no",
+    "armor": "70",
+    "convince": "--",
+    "name": "Humongous Fungus",
+    "isboss": "no",
+    "iceDmgMod": "85%",
+    "energyDmgMod": "85%",
+    "deathDmgMod": "65%",
+    "plural": "humongous fungi",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "Gnomish lore tells us that fungi come in different variants. Some are huge, some are small. Some are colourful, some look dull. Some are bitter, some are sweet. And some are good while others are utterly evil. The Humongous Fungus belongs to the latter category. Each of them is driven by sinister impulses of malignant evil. Even a Humongous Fungus starts out small, though. Far too small for the evil they contain, they are mischievous creatures that enjoy harassing and tormenting other creatures. They often lay simple traps for the unwary, steal things or destroy food. While a nuisance as long as they are small, the true threat arises when they grow in size and strength. If that happens, the former loners band together in groups and become a destructive force to be reckoned with. There seems little that hey fear in numbers, although they seem to not care much about a fallen comrade. With no regard for their own safety, they attack everything that promises a good deal of destruction and pain. Through their raw powers they would be a formidable threat already, additionally they also have several disturbing mushroom powers at their disposal that are usually used more instinctively then planned. It actually seems unlikely that they can control their abilities at all. Though they enjoy killing and slaughtering, they sometimes take prisoners and torture them in their lairs that they often create in some remote caves. Only there they seem to pursue their only non-evil pastime: singing. With their lovely baritone voices they are able to produce melodies of astonishing beauty. Their lead singers are usually the most humongous of the bunch. Since they are highly territorial it has become common for underground explorers to mark caves in which fungi singing was heard as a warning to other travellers.",
+    "speed": "130",
+    "pushobjects": "yes",
+    "fireDmgMod": "95%",
+    "sounds": [
+        "Munch munch munch!"
+    ],
+    "runsat": "0",
+    "bestiaryclass": "Plant",
+    "creatureclass": "Humanoids",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Fungi",
+    "race_id": "881",
+    "bestiarylevel": "Hard",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "humongousfungus",
+    "behaviour": "Humongous fungi will fight at close combat.",
+    "location": "[[Warzone 1]], [[Rathleton]] Sewers, {{Mapper Coords|131.107|124.189|11|4|text=here}}, unreachable location in [[Tiquanda Laboratory]].",
+    "strategy": "Unknown."
+}

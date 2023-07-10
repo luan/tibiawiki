@@ -1,0 +1,119 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "walksthrough": "Poison",
+    "hp": "3800",
+    "abilities": "{{Ability List| {{Melee|0-350}}|{{Ability|[[Earth Damage|Poison Ball]] on itself|200-400|element=earth}}|{{Ability|Blood Bomb on itself|350-450|element=?}}|{{Ability|Explosion Wave|250-350|element=?}}|{{Healing|range=140-180}} }}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "holyDmgMod": "100%",
+    "maxdmg": "1200",
+    "pushable": "yes",
+    "implemented": "12.00.7695",
+    "loot": [
+        {
+            "amount": "1-4",
+            "itemName": "Platinum Coin",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Great Spirit Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Two Handed Sword",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Terra Rod",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Silver Brooch",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Emerald Bangle",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Twin Hooks",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Springsprout Rod",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Green Ectoplasm",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Serpent Sword",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Coral Brooch",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Hexagonal Ruby",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Assassin Dagger",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Spike Sword",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Wyvern Fang",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Energy, Fire",
+    "exp": "3500",
+    "mitigation": "1.91",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "ripper spectre",
+    "illusionable": "no",
+    "armor": "69",
+    "convince": "--",
+    "name": "Ripper Spectre",
+    "isboss": "no",
+    "iceDmgMod": "100%",
+    "energyDmgMod": "110%",
+    "deathDmgMod": "100%",
+    "plural": "ripper spectres",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "The Dire Spectres arrived as phantoms to this world. Born from dark fragments of lost souls, they are not bound to this plane, nor do they have a past. They long for a physical existence and their sole goal is to anchor themselves to our world. They are literally pure evil woven from bad spare parts of souls and feed on the life energy of any living creature. The most powerful dire spectres are the oldest. Those who clung to this plane for long enough, eventually gained adequate power to control and coordinate other spectres. Those are the most dangerous and resourceful and should be treated with the utmost care. Ripper Spectres are most dangerous at close-range. They pack a mean punch and will make you rethink the term \"phantom\" when engaging with any of their kind.",
+    "speed": "190",
+    "pushobjects": "yes",
+    "fireDmgMod": "120%",
+    "sounds": [
+        ""
+    ],
+    "runsat": "0",
+    "bestiaryclass": "Undead",
+    "creatureclass": "The Undead",
+    "earthDmgMod": "80%",
+    "physicalDmgMod": "30%",
+    "primarytype": "Ghosts",
+    "spawntype": [
+        "Regular"
+    ],
+    "race_id": "1724",
+    "bestiarylevel": "Hard",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "ripperspectre",
+    "behaviour": "Fights in close combat. Reflects [[Earth Damage]]. Does not change target unless [[Challenge|challenged]] or its way is blocked.",
+    "location": "[[Haunted Cellar]], [[Buried Cathedral]]",
+    "strategy": "Avoid using [[Earth Damage]]."
+}

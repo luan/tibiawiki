@@ -1,0 +1,115 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "walksthrough": "None",
+    "hp": "7650",
+    "abilities": "{{Ability List}}",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "fireDmgMod": "105%",
+    "holyDmgMod": "100%?",
+    "sounds": [],
+    "maxdmg": "0",
+    "cooldown": "20",
+    "implemented": "12.90.12182",
+    "loot": [
+        {
+            "itemName": "Snakebite Rod"
+        },
+        {
+            "itemName": "Platinum Coin"
+        },
+        {
+            "itemName": "Green Piece of Cloth"
+        },
+        {
+            "itemName": "Leaf Star"
+        },
+        {
+            "itemName": "Gold Ingot"
+        },
+        {
+            "itemName": "Soul Orb"
+        },
+        {
+            "itemName": "Small Emerald"
+        },
+        {
+            "itemName": "Gold Coin"
+        },
+        {
+            "itemName": "Peacock Feather Fan"
+        },
+        {
+            "itemName": "Ultimate Health Potion"
+        },
+        {
+            "itemName": "Giant Shimmering Pearl"
+        },
+        {
+            "itemName": "Demonic Essence"
+        },
+        {
+            "itemName": "Crystal Ring"
+        },
+        {
+            "itemName": "Golden Lotus Brooch"
+        },
+        {
+            "itemName": "White Pearl"
+        },
+        {
+            "itemName": "Muck Rod"
+        },
+        {
+            "itemName": "Flask of Demonic Blood"
+        },
+        {
+            "itemName": "Necrotic Rod"
+        },
+        {
+            "itemName": "Oriental Shoes"
+        },
+        {
+            "itemName": "Great Spirit Potion"
+        },
+        {
+            "itemName": "Terra Hood"
+        },
+        {
+            "itemName": "Green Gem"
+        },
+        {
+            "itemName": "Swamplair Armor"
+        },
+        {
+            "itemName": "White Gem"
+        },
+        {
+            "itemName": "Giant Emerald"
+        },
+        {
+            "itemName": "Blue Gem"
+        }
+    ],
+    "walksaround": "Energy",
+    "exp": "9380",
+    "earthDmgMod": "0%",
+    "physicalDmgMod": "100%?",
+    "bosstiaryclass": "Archfoe",
+    "spawntype": [
+        "Triggered"
+    ],
+    "race_id": "2287",
+    "senseinvis": "?",
+    "illusionable": "no",
+    "drownDmgMod": "100%?",
+    "convince": "?",
+    "name": "Kusuma",
+    "isboss": "yes",
+    "iceDmgMod": "100%?",
+    "strategy": "Kusuma avoids energy fields. If you think you can't deal with her damage and are using ranged attack, consider placing some energy fields on the room and running around.",
+    "energyDmgMod": "110%",
+    "deathDmgMod": "100%?"
+}

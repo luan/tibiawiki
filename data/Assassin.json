@@ -1,0 +1,114 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "Merciless and lethal, the Assassin stands for treachery and surprise attacks. Although there are a lot of thugs, bandits and murderers that roam the realm, the assassin is one of the few who have made a real profession out of killing. Usually organized in small groups, Assassins are trained in the arts of fighting dirty with backstabbing and stalking. Although they are formidable fighters, those hirable murderers prefer sneak attacks on unsuspecting victims which, they will attack with all kinds of dirty tricks to gain the advantage. Depending on their current mission, the Assassins work alone or in small hit squads. They are rarely encountered in greater numbers except by those that are unfortunate enough to stumble on their hideouts.<br/>\nThey give some rare [[loot]] which makes it worth the supplies used.",
+    "walksthrough": "None",
+    "hp": "175",
+    "abilities": "{{Ability List\n |{{Melee|0-124}}\n |{{Ability|[[Throwing Star]]|28-38|physical\n  |scene={{Scene|spell=7sqmstrike|caster=Assassin|missile=Throwing Star Missile|missile_direction=south-east|missile_distance=7/7|damage_effect=None}}}}\n |{{Ability|Intoxicate|3 seconds|drunk\n  |scene={{Scene|spell=6sqmstrike|effect=Poison Effect 3|caster=Assassin|missile=Poison Missile|missile_direction=south-east|missile_distance=6/6}}}}\n |{{Ability|Invisible|2 seconds|invisible\n  |scene={{Scene|spell=buffspell|effect=Blue Sparkles Effect|caster=Assassin|effect_on_caster=yes}}}}\n |{{Haste\n  |scene={{Scene|spell=buffspell|effect=Red Sparkles Effect|caster=assassin|effect_on_caster=yes}}}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "holyDmgMod": "100%",
+    "maxdmg": "{{Max Damage|physical=160}}",
+    "pushable": "No",
+    "usedelements": "Physical",
+    "implemented": "7.5",
+    "loot": [
+        {
+            "amount": "0-50",
+            "itemName": "Gold Coin"
+        },
+        {
+            "amount": "0-2",
+            "itemName": "Torch"
+        },
+        {
+            "amount": "0-14",
+            "itemName": "Throwing Star",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Knife",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Combat Knife",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Steel Helmet",
+            "rarity": "semi-rare"
+        },
+        {
+            "amount": "0-7",
+            "itemName": "Viper Star",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Battle Shield",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Plate Shield",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Steel Shield",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Leopard Armor",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Horseman Helmet",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Small Diamond",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Fire, Energy, Poison",
+    "exp": "105",
+    "mitigation": "1.04",
+    "attacktype": "Melee",
+    "article": "an",
+    "actualname": "assassin",
+    "illusionable": "yes",
+    "armor": "17",
+    "convince": "450",
+    "name": "Assassin",
+    "isboss": "no",
+    "iceDmgMod": "100%",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "105%",
+    "plural": "assassins",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "Merciless and lethal, the Assassin stands for treacherous surprise attacks. Although there are a lot of thugs, bandits and murderers that roam the realm, the assassin is one of the few who made a real profession out of murder. Usually organised in small organisations, Assassins are trained in the arts of fighting dirty tricks, backstabbing and stalking. Although they are formidable fighters, those hirable murderers prefer sneak attacks on unsuspecting victims which they attack with all kinds of dirty tricks to gain an advantage. Depending on their current mission, the Assassins work alone or in small hit squads. They are rarely encountered in greater numbers except by those that are unfortunate enough to stumble on their hideouts.",
+    "speed": "112",
+    "pushobjects": "Yes",
+    "fireDmgMod": "100%",
+    "sounds": [
+        "You are on my deathlist!",
+        "Die!",
+        "Feel the hand of death!"
+    ],
+    "bestiaryclass": "Human",
+    "creatureclass": "Humans",
+    "earthDmgMod": "100%",
+    "physicalDmgMod": "110%",
+    "primarytype": "Outlaws",
+    "spawntype": [
+        "Regular"
+    ],
+    "race_id": "224",
+    "bestiarylevel": "Easy",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "assassin",
+    "behaviour": "Assassins won't run away when in low [[health]].",
+    "location": "[[Dark Cathedral]], [[Trade Quarter]], [[Factory Quarter]], [[Foreigner Quarter]].",
+    "strategy": "[[Mage]]s and [[Paladin]]s, should wear a [[Dwarven Ring]] to run these without problems and [[Magic Shield]] will also be useful for [[Mage]]s below [[Level]] 20. Some area runes, like [[Fireball]]s and [[Heavy Magic Missile]]s might be useful, for when they turn [[Invisibility|Invisible]]. Their invisibility only lasts a few seconds though, so you should not have a big problem fighting them without the area runes."
+}

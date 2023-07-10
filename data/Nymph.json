@@ -1,0 +1,129 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "<gallery mode=\"nolines\">\nFile:Nymph Artwork.jpg|Official [[Creature Artwork]]\n</gallery>",
+    "walksthrough": "?",
+    "hp": "900",
+    "abilities": "{{Ability List\n |{{Melee|0-180}}\n |{{Ability|[[Heavy Magic Missile]]|85-135|element=energy\n   |scene={{Scene|spell=2sqmstrike|effect=Blue Electricity Effect|missile=Energy Missile|missile_direction=south-east|missile_distance=2/2|caster=Nymph}}}}\n |{{Ability|[[Hearts Effect|Hearts Strike]]|element=earth\n   |scene={{Scene|spell=2sqmstrike|damage_effect=Poison Effect 1|effect_on_target=Hearts Effect|missile=Leaf Star Missile|missile_direction=south-east|missile_distance=2/2|caster=Nymph}}}}\n |{{Healing|range=75-105}}\n |{{Ability|[[Green Notes Effect|unknown Green Notes Effect]]|element=?}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "holyDmgMod": "60%",
+    "maxdmg": "315",
+    "pushable": "no",
+    "implemented": "11.40.5409",
+    "loot": [
+        {
+            "amount": "1-110",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Wild Flowers",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Fresh Fruit",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Colourful Snail Shell",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Dandelion Seeds",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Great Mana Potion",
+            "rarity": "semi-rare"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Small Topaz",
+            "rarity": "semi-rare"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Small Enchanted Amethyst",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Emerald Bangle",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Sacred Tree Amulet",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Butterfly Ring",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Strong Mana Potion",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Dream Blossom Staff",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Flower Wreath",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Hibiscus Dress",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Blue Rose",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Boots of Haste",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Energy\nFire\nPoison",
+    "exp": "850",
+    "mitigation": "1.26",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "nymph",
+    "illusionable": "no",
+    "armor": "60",
+    "convince": "--",
+    "name": "Nymph",
+    "isboss": "no",
+    "iceDmgMod": "100%",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "60%",
+    "plural": "nymphae",
+    "hpDrainDmgMod": "100%",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "Nymphs are female nature spirits and usually take the form of beautiful, young maidens who love to dance and sing. They dwell in the hills and forests of Feyrist, often near lakes and streams and they can't die of old age nor illness. On Feyrist, nymphs can be encountered by lone travelers where their music might be heard, and the traveler could spy on their dancing or bathing in a stream or pool. Such encounters could be dangerous, though, as nymphs generally dislike to be stalked. These fae have a special, strong bond to the plants and animals of their domain and are very protective of Feyrist's flora and fauna. Nymphs emerge from mortals' dreams about love.",
+    "speed": "114",
+    "pushobjects": "?",
+    "fireDmgMod": "100%",
+    "sounds": [
+        "Looking at a nymph can blind you. Be careful, mortal being!",
+        "Are you one of those evil nightmare creatures? Leave this realm alone!",
+        "Come here, sweetheart! I won't hurt you! *giggle*",
+        "I'm just protecting nature's beauty!"
+    ],
+    "bestiaryclass": "Fey",
+    "creatureclass": "Humanoids",
+    "earthDmgMod": "40%",
+    "physicalDmgMod": "110%",
+    "primarytype": "Fae",
+    "race_id": "1485",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%",
+    "bestiaryname": "nymph",
+    "behaviour": "Unknown",
+    "location": "[[Feyrist]]",
+    "strategy": "Unknown"
+}

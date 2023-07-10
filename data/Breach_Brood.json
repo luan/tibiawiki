@@ -1,0 +1,154 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "walksthrough": "?",
+    "hp": "3500",
+    "abilities": "{{Ability List\n |{{Melee|0-300}}\n |{{Ability|Energy Strike|250-500|element=energy\n  |scene={{Scene|spell=1sqmstrike|effect_on_target=Stars Effect|missile=Flash Arrow Missile|missile_direction=south-east|missile_distance=1/1}}}}\n |{{Debuff2|[[Burst Arrow]]|magic=yes\n  |scene={{Scene|spell=1sqmballtarget|effect=Red Sparkles Effect|missile=Burst Arrow Missile|missile_direction=south-east|missile_distance=2/2}}}}\n |{{Ability|Life Drain Bomb|250-400|element=lifedrain\n  |scene={{Scene|spell=3sqmball2self|effect=Red Sparkles Effect}}}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "secondarytype": "Electro-Elementals",
+    "holyDmgMod": "105%",
+    "maxdmg": "{{Max Damage|physical=300|energy=500|lifedrain=400}}",
+    "pushable": "no",
+    "implemented": "10.94",
+    "loot": [
+        {
+            "amount": "1-100",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "amount": "1-5",
+            "itemName": "Platinum Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Energy Drink",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Energy Bar",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Great Mana Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Great Spirit Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Great Health Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Spark Sphere",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Crystallized Anger",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Curious Matter",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Plasma Pearls",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-2",
+            "itemName": "Blue Crystal Splinter",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Volatile Proto Matter",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Cyan Crystal Fragment",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Blue Crystal Shard",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Green Crystal Shard",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Blue Gem",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Lightning Legs",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Collar of Red Plasma",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Collar of Blue Plasma",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Collar of Green Plasma",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Ring of Blue Plasma",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Ring of Red Plasma",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Ring of Green Plasma",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "1760",
+    "mitigation": "1.46",
+    "attacktype": "Melee",
+    "history": "Its experience was decreased from 2200 to 1760 with the fourth batch of changes of [[Updates/12.31|Update 12.31]].",
+    "article": "a",
+    "actualname": "breach brood",
+    "illusionable": "no",
+    "armor": "53",
+    "convince": "--",
+    "name": "Breach Brood",
+    "isboss": "no",
+    "iceDmgMod": "75%",
+    "energyDmgMod": "20%",
+    "deathDmgMod": "105%",
+    "plural": "breach broods",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "For unknown eons, a wound festered between our reality and the hungry annihilation from beyond. This wound gave birth to and granted refuge for many abominable creatures. When Ferumbras futile actions violated the boundaries between worlds, it was none of those abominations that slipped through first, but some natural, or rather unnatural, disaster. These beings, which do not possess any sentience, were driven by some sinister and destructive purpose. A prime example for such creatures is the Breach Brood. \nThe Breach Brood can be best described as a force of destruction which has taken shape. It somehow interacts with its surroundings - usually in a brutal way. The Breach Brood seems even more unstable than others of its ilk; because of that it is unable to exists for a lengthy period of time outside the disruptive netherworld in which it spawned. It still strives towards its only purpose - the annihilation and consumption of reality. This is an enemy that can't be reasoned with, an enemy that knows no mercy and shows no mercy. Its whole existence is completely bound to nothing else than destruction. \nIts very existence already causes harm to our reality and its inhabitants. Its attacks can rather be compared to a fire burning a hand which accidentally happened to touch it than a planned move. Like a fire that burns straw but not stone, its actions are only expressions of itself and nothing more. Some assume that the Breach Brood and other beings from beyond are nothing more than the manifestation and with that part of the ultimate destruction all around them.\nTo conclude, the Breach Brood is a rather forceful foe that does not follow any form of battle plan. It needs to be extinguished before it can spread further harm, however, it is necessary to approach it with the same caution one would use facing a natural phenomenon.",
+    "speed": "135",
+    "pushobjects": "yes",
+    "fireDmgMod": "90%",
+    "sounds": [
+        "Hisss!"
+    ],
+    "bestiaryclass": "Extra Dimensional",
+    "creatureclass": "Invertebrates",
+    "earthDmgMod": "105%",
+    "physicalDmgMod": "105%",
+    "primarytype": "Cnidarians",
+    "race_id": "1235",
+    "bestiarylevel": "Hard",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "breachbrood",
+    "behaviour": "Unknown.",
+    "location": "[[Otherworld]].",
+    "strategy": "It's strongly advised to wear as much [[Energy Damage]] protection as possible, most of the damage dealt by Extra Dimensionals creatures comes from this element. Otherworld monsters also deal a lot of [[Life Drain]] damage, so you should also consider wearing a [[Garlic Necklace]] or [[Necklace of the Deep]] and put a [[Bone Fiddle]] in the extra slot."
+}

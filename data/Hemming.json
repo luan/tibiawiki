@@ -1,0 +1,98 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "[[Werewolf]]'s boss. Part of the [[Killing in the Name of... Quest]].",
+    "isarenaboss": "no",
+    "walksthrough": "?",
+    "hp": "3000",
+    "speed": "?",
+    "abilities": "{{Ability List| {{Melee|?}}|{{Ability|Red musical wave|unknown effect|element=?}}|{{Ability|Summons 2 [[War Wolf|War Wolves]] at once|white musical bomb around itself|element=summon}}|{{Healing|range=10-125?}}|{{Haste}}|{{Ability|and possibly more|element=?}} }}",
+    "pushobjects": "?",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "secondarytype": "Canines",
+    "fireDmgMod": "100%?",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        "GRRR",
+        "GRROARR"
+    ],
+    "maxdmg": "500 (550+ with the War Wolves)",
+    "pushable": "no",
+    "implemented": "9.50",
+    "loot": [
+        {
+            "amount": "0-99",
+            "itemName": "Gold Coin"
+        },
+        {
+            "amount": "0-10",
+            "itemName": "Platinum Coin"
+        },
+        {
+            "itemName": "Werewolf Fur"
+        },
+        {
+            "itemName": "Wolf Paw"
+        },
+        {
+            "itemName": "Troll Green"
+        },
+        {
+            "amount": "0-5",
+            "itemName": "Brown Mushroom"
+        },
+        {
+            "amount": "0-5",
+            "itemName": "Black Pearl"
+        },
+        {
+            "itemName": "Ultimate Health Potion"
+        },
+        {
+            "itemName": "Berserk Potion"
+        },
+        {
+            "itemName": "Stone Skin Amulet"
+        },
+        {
+            "itemName": "Time Ring"
+        },
+        {
+            "itemName": "Sai"
+        },
+        {
+            "itemName": "Cat's Paw"
+        },
+        {
+            "itemName": "Dreaded Cleaver"
+        },
+        {
+            "itemName": "Bonebreaker"
+        },
+        {
+            "itemName": "Platinum Amulet"
+        }
+    ],
+    "walksaround": "Fire, Energy, Poison",
+    "exp": "2850",
+    "creatureclass": "Humans",
+    "earthDmgMod": "100%?",
+    "physicalDmgMod": "70%?",
+    "primarytype": "Lycanthropes",
+    "race_id": "844",
+    "senseinvis": "?",
+    "illusionable": "no",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Hemming",
+    "isboss": "yes",
+    "behaviour": "'''Hemming''' runs in low [[health]].",
+    "location": "[[Vengoth/Werewolf Cave|Vengoth Werewolf Cave]], behind the teleport which is located {{Mapper Coords|128.224|122.211|7|2|text=here}}.",
+    "iceDmgMod": "100%?",
+    "strategy": "'''[[Paladin]]s and [[Mage]]s''': Run him around the room while shooting [[Assassin Star]]s/[[Prismatic Bolt]]s/[[SD]]s. If he uses [[Haste]], you may need to do the same to keep distance. Make sure to use [[Exura]] or [[Exura Gran]] if he catches up to you.<br>\n'''[[Knight]]s''': Shoot a [[Fire Bomb]] onto the floor somewhere, then attack '''Hemming''' and move into the middle of the fire bomb. '''Hemming''' will come after you onto the fire, but his [[War Wolf|War Wolves]] will not. Thus you will avoid having your shielding broken and will take considerably less [[melee]] damage.\n\n'''Note:''' Do not bother killing the [[War Wolf|War Wolves]] as they will most likely be summoned again very quickly.",
+    "energyDmgMod": "100%?",
+    "deathDmgMod": "50%"
+}

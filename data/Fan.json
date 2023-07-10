@@ -1,0 +1,63 @@
+{
+    "summon": "420",
+    "templateType": "Creature",
+    "hpDrainDmgMod": "100%?",
+    "notes": "It was implemented on [[Tibia's 15th Anniversary]].",
+    "isarenaboss": "no",
+    "walksthrough": "?",
+    "hp": "2000",
+    "speed": "?",
+    "abilities": "{{Ability List\n |{{Melee|0-45}}\n}}",
+    "pushobjects": "No",
+    "healMod": "100%?",
+    "paraimmune": "?",
+    "secondarytype": "Outlaws",
+    "fireDmgMod": "100%",
+    "holyDmgMod": "100%?",
+    "sounds": [
+        "He's got a talent to seem invisible while the band is still playing.",
+        "I like that style.",
+        "Bring on the show!",
+        "The show must go on!"
+    ],
+    "maxdmg": "{{Max Damage|physical=45}}",
+    "pushable": "Yes",
+    "implemented": "9.44",
+    "loot": [
+        {
+            "itemName": "Chameleon Rune"
+        },
+        {
+            "itemName": "Lute"
+        },
+        {
+            "itemName": "Lyre"
+        },
+        {
+            "itemName": "Simple Fanfare"
+        },
+        {
+            "itemName": "Wooden Flute"
+        }
+    ],
+    "walksaround": "?",
+    "exp": "60",
+    "creatureclass": "Special",
+    "earthDmgMod": "100%?",
+    "physicalDmgMod": "100%",
+    "primarytype": "Event Creatures",
+    "senseinvis": "?",
+    "illusionable": "yes",
+    "armor": "?",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "name": "Fan",
+    "isboss": "no",
+    "behaviour": "Unknown",
+    "location": "[[Greenshore]]",
+    "iceDmgMod": "100%",
+    "strategy": "Say 'fun' to [[Mercutios Piano]], [[Mercutios Drum|Drum]] or [[Mercutios Harp|Harp]] to summon it. Use Sudden Death Rune with a team.",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "100%?",
+    "status": "deprecated"
+}

@@ -1,0 +1,104 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "Mad Scientist are [[sorcerer]]s. Usually found with lots of other [[Creatures]]. Note: these creatures created the creature [[Mutated Human]].",
+    "walksthrough": "None",
+    "hp": "325",
+    "abilities": "{{Ability List| {{Melee|0-35}}|{{Healing}}|{{Ability|3x3 shaped [[Drown Damage|Smoke Bomb]]|20-56|element=drowning}}|{{Ability|[[Light Magic Missile]]|20-36|element=energy}}|{{Ability|[[Paralyze]]|element=paralyze}} }}",
+    "healMod": "100%",
+    "paraimmune": "no",
+    "holyDmgMod": "80%",
+    "maxdmg": "{{Max Damage|physical=35|drown=56|energy=36}}",
+    "pushable": "no",
+    "implemented": "8.40",
+    "loot": [
+        {
+            "amount": "1-115",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Health Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Mana Potion",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Powder Herb",
+            "rarity": "uncommon"
+        },
+        {
+            "amount": "1-3",
+            "itemName": "White Mushroom",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Life Crystal",
+            "rarity": "semi-rare"
+        },
+        {
+            "itemName": "Magic Light Wand",
+            "rarity": "semi-rare"
+        },
+        {
+            "amount": "1-5",
+            "itemName": "Cookie",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Cream Cake",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Small Enchanted Amethyst",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Mastermind Potion",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Fire, Energy, Poison",
+    "exp": "205",
+    "mitigation": "0.64",
+    "attacktype": "Melee",
+    "article": "a",
+    "actualname": "mad scientist",
+    "illusionable": "no",
+    "armor": "15",
+    "convince": "--",
+    "name": "Mad Scientist",
+    "isboss": "no",
+    "iceDmgMod": "90%",
+    "energyDmgMod": "80%",
+    "deathDmgMod": "105%",
+    "plural": "mad scientists",
+    "hpDrainDmgMod": "100%",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "Genius and madness are often only a fine line apart. Mad Scientists have for sure crossed that line. Putting their science and researches above everything else, they put themselves above human morals and see other humans as test objects at best.<br />In combat, Mad Scientists fight with everything at their disposal and use a vast array of dirty tricks. Being bad fighters, they use their tools, gadgets and inventions as dangerous weapons.  Protective about their secrets and fearing punishment for their amoral experiments, they tend to attack outsiders on sight.<br />Mad Scientists often join confraternities with other scientists to profit from more resources. Others find employment by unscrupulous beings that fund their researches in exchange for their services. Most of them are too absorbed in their researches to become leaders themselves.  Some, however, are worldly enough to hire minions and plan and coordinate operations as the scientific mastermind.",
+    "speed": "90",
+    "pushobjects": "yes",
+    "fireDmgMod": "90%",
+    "sounds": [
+        "Die in the name of Science!",
+        "You will regret interrupting my studies!",
+        "Let me test this!",
+        "I will study your corpse!"
+    ],
+    "bestiaryclass": "Human",
+    "creatureclass": "Humans",
+    "earthDmgMod": "80%",
+    "physicalDmgMod": "100%",
+    "primarytype": "Sorcerers",
+    "race_id": "528",
+    "bestiarylevel": "Easy",
+    "senseinvis": "yes",
+    "drownDmgMod": "0%",
+    "bestiaryname": "madscientist",
+    "behaviour": "It's similar to [[Dark Apprentice]]s and [[Dark Magician]]s, however Mad Scientists fights in close combat, while the others keep their distance; and it has stronger magic damage than the others.",
+    "location": "[[Magician Quarter]], [[Trade Quarter]], [[Factory Quarter]],[[Isle of Evil]], [[Tiquanda Laboratory]].",
+    "strategy": "Kill it fast, as he will use his magical items to harm you. Use [[Death Damage|Death]]-based [[Runes]] or [[Instant Spells|Spells]]. [[Paladin]]s & [[Knight]]s can kill these quickly with 65+ skills."
+}

@@ -1,0 +1,134 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "notes": "This creature hits fairly well when in close quarters summoning [[Crypt Shambler]]s and [[Ghost]]s which can add to the stress while fighting them. Although this creature has a relatively large loot list, most rare items have a very low drop rate.",
+    "walksthrough": "None",
+    "hp": "700",
+    "abilities": "{{Ability List\n |{{Melee|0-100|poison=4}}\n |{{Ability|Close range Divine Life Drain|70-185|element=lifedrain\n  |scene={{Scene|spell=1sqmstrike|caster=Enlightened of the Cult|effect=Holy Cross Effect|damage_effect=Red Sparkles Effect}}}}\n |{{Ability|Frequent [[Self-Healing]]|element=healing}}\n |{{Summon|Ghost|2|Crypt Shambler}}\n |{{Ability|Invisibility|3 seconds|element=invisible\n  |scene={{Scene|spell=buffspell|effect=Yellow Poison Effect|caster=Adept of the Cult|look_direction=south|effect_on_caster=yes}}}}\n |{{Ability|[[Paralysis]]|element=paralyze}}\n |{{Ability|Drunkenness|3 seconds|element=drunk\n  |scene={{Scene|spell=4sqmstrike|caster=Enlightened of the Cult|effect=Holy Effect|missile=Holy Missile|missile_direction=south-east|missile_distance=4/4|damage_effect=None}}}}\n}}",
+    "healMod": "100%",
+    "paraimmune": "yes",
+    "holyDmgMod": "80%",
+    "maxdmg": "285 (450+ with summons)",
+    "pushable": "?",
+    "implemented": "7.8",
+    "loot": [
+        {
+            "amount": "1-70",
+            "itemName": "Gold Coin",
+            "rarity": "common"
+        },
+        {
+            "itemName": "Cultish Mask",
+            "rarity": "uncommon"
+        },
+        {
+            "itemName": "Book (Orange)",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Cultish Symbol",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Protection Amulet",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Strong Mana Potion",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Small Sapphire",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Music Sheet (Fourth Verse)",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Energy Ring",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Pirate Voodoo Doll",
+            "rarity": "rare"
+        },
+        {
+            "itemName": "Skull Staff",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Platinum Amulet",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Wand of Inferno",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Piggy Bank",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Mysterious Voodoo Skull",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Amber Staff",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Broken Key Ring",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Jewelled Backpack",
+            "rarity": "very rare"
+        },
+        {
+            "itemName": "Blue Robe",
+            "rarity": "very rare"
+        }
+    ],
+    "walksaround": "Fire, Energy, Poison",
+    "exp": "500",
+    "mitigation": "1.18",
+    "attacktype": "Distance",
+    "article": "an",
+    "actualname": "enlightened of the cult",
+    "illusionable": "no",
+    "armor": "40",
+    "convince": "--",
+    "name": "Enlightened of the Cult",
+    "isboss": "no",
+    "iceDmgMod": "80%",
+    "energyDmgMod": "105%",
+    "deathDmgMod": "105%",
+    "plural": "enlighteneds of the cult",
+    "hpDrainDmgMod": "100%?",
+    "usespells": "yes",
+    "occurrence": "Common",
+    "bestiarytext": "The Enlightened of the Cult are the only ones with true and full knowledge of the cult's magic, its dark source and the goals behind it all. They usually work behind the scenes and are rarely encountered. If they appear, they fight with fervour and without remorse. They command all other cultists and would never risk facing an opponent alone. Their magical powers are immense. Equipped with expensive armor and weapons, they are a lethal threat to everyone that tries to uncover the secrets of the cult. No Enlightened would ever betray their cult. If it is pure fanaticism or some spell placed upon them, is unknown.",
+    "speed": "100",
+    "pushobjects": "?",
+    "fireDmgMod": "100%",
+    "sounds": [
+        "Praise to my master Urgith!",
+        "You will rise as my servant!",
+        "Praise to my masters! Long live the triangle!",
+        "You will die in the name of the triangle!"
+    ],
+    "bestiaryclass": "Human",
+    "creatureclass": "Humans",
+    "earthDmgMod": "100%",
+    "physicalDmgMod": "105%",
+    "primarytype": "Voodoo Cultists",
+    "race_id": "252",
+    "bestiarylevel": "Medium",
+    "senseinvis": "yes",
+    "drownDmgMod": "100%?",
+    "bestiaryname": "cultpriest",
+    "behaviour": "The Enlightened of the Cult keep their distance from their targets and will usually attack the closest enemy to them. They also [[summon]] creatures whom have decent melee attacks, as well as heal themselves, causing [[drunkenness]] and [[paralysis]] to their targets. They also go [[Invisible]] and use a close range [[Holy]] and [[Life Drain]] attacks. At a longer range distance though, their only means of attack is through their summons.",
+    "location": "[[Goroma]], [[Formorgar Mines]], [[Magician Quarter]], [[Forbidden Temple]]. <small>{{seealso|Enlightened of the Cult/Spawns}}</small>",
+    "strategy": "[[Garlic Necklace]]s will help minimize the damage received by the Enlightened and their fellow cult members. Keep your distance as they will only use their [[Life Drain]] attack at close range. Be prepared to use area attacks to cancel their invisibility as well as to take out summons and other cultists. <br />\nAs a [[Paladin]], it is suggested that you use a shield and a one-handed distance weapon so that the summons will not deal as much damage. To break its invisibility, simply use [[Divine Caldera]] or trap it and use [[Divine Missile]]. <br />\n[[Knight]]s are suggested to trap these creatures and crush them as fast as possible using [[Berserk]] or [[Groundshaker]] to break their invisibility. <br />\n[[Mage]]s are suggested to corner these creatures and use [[Energy Damage|Energy]] or [[Death Damage|Death]] based attacks and using wave spells such as [[Fire Wave]] or [[Ice Wave]] for when they go [[Invisible]]. Otherwise, it can be beneficial to use [[Rune]]s such as [[Great Fireball]]."
+}

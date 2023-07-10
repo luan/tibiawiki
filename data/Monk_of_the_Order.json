@@ -1,0 +1,80 @@
+{
+    "summon": "--",
+    "templateType": "Creature",
+    "plural": "monks of the order",
+    "hpDrainDmgMod": "100%?",
+    "notes": "Unknown.",
+    "walksthrough": "None",
+    "hp": "240",
+    "bestiarytext": "The monks of the Order of the Lion are dedicated to their cause. Their main focus being helping and supporting the good citizens of Bounac, their life is comprised of hard labour and deprivations. But also the joy and laughter of the people.",
+    "abilities": "{{Ability List|}}",
+    "healMod": "100%?",
+    "paraimmune": "no",
+    "secondarytype": "Members of the Order of the Lion",
+    "fireDmgMod": "100%",
+    "holyDmgMod": "99%<?",
+    "sounds": [
+        ""
+    ],
+    "pushable": "no",
+    "implemented": "12.40.9997",
+    "loot": [
+        {
+            "amount": "1-14",
+            "itemName": "Gold Coin"
+        },
+        {
+            "itemName": "Bread"
+        },
+        {
+            "itemName": "Book of Prayers"
+        },
+        {
+            "itemName": "Rope Belt"
+        },
+        {
+            "itemName": "Safety Pin"
+        },
+        {
+            "itemName": "Brown Flask"
+        },
+        {
+            "itemName": "Scroll"
+        },
+        {
+            "itemName": "Staff"
+        },
+        {
+            "itemName": "Ankh"
+        },
+        {
+            "itemName": "Lamp"
+        },
+        {
+            "itemName": "Sandals"
+        },
+        {
+            "itemName": "Life Crystal"
+        }
+    ],
+    "exp": "200",
+    "creatureclass": "Humans",
+    "earthDmgMod": "100%",
+    "physicalDmgMod": "101%>?",
+    "primarytype": "Monks",
+    "senseinvis": "yes",
+    "article": "a",
+    "actualname": "monk of the order",
+    "illusionable": "yes",
+    "drownDmgMod": "100%?",
+    "convince": "--",
+    "bestiaryname": "lionmonk",
+    "name": "Monk of the Order",
+    "isboss": "no",
+    "behaviour": "Unknown.",
+    "location": "[[Bounac]], the [[Order of the Lion]] settlement.",
+    "iceDmgMod": "100%",
+    "strategy": "Unknown.",
+    "energyDmgMod": "100%",
+    "deathDmgMod": "99%<?"
+}

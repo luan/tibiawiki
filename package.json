@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "download": "ts-node download.ts"
+    "download": "ts-node download.ts",
+    "locations": "ts-node byLocation.ts"
   },
   "keywords": [],
   "author": "",

@@ -170,108 +170,112 @@ with open(monsterLoc) as file:
 outfit += '}\n'
 
 ### RACEID
-raceid = 'monster.raceId = ' + str(data['race_id']) + '\n'
+raceid = ''
+if ('race_id' in data):
+    raceid = 'monster.raceId = ' + str(data['race_id']) + '\n'
 
 
 ### BESTIARY
-beastiaryLevel = data['bestiarylevel']
-toKill = 0
-firstUnlock = 0
-secondUnlock = 0
-charmPoints = 0
-stars = 0
-occurrence = data['occurrence']
-occurrenceLevel = 0
-location = data['location']
-location = re.sub(r'[^A-Za-z0-9 ,.-]+', '', location)
+beastiary = ''
+if ('bestiarylevel' in data):
+    beastiaryLevel = data['bestiarylevel']
+    toKill = 0
+    firstUnlock = 0
+    secondUnlock = 0
+    charmPoints = 0
+    stars = 0
+    occurrence = data['occurrence']
+    occurrenceLevel = 0
+    location = data['location']
+    location = re.sub(r'[^A-Za-z0-9 ,.-]+', '', location)
 
-if (beastiaryLevel != 'Very Rare'):
-    if (beastiaryLevel == 'Harmless'):
-        toKill = 25
-        firstUnlock = 5
-        secondUnlock = 10
-        charmPoints = 1
-        stars = 0
-    elif (beastiaryLevel == 'Trivial'):
-        toKill = 250
-        firstUnlock = 10
-        secondUnlock = 100
-        charmPoints = 5
-        stars = 1
-    elif (beastiaryLevel == 'Easy'):
-        toKill = 500
-        firstUnlock = 25
-        secondUnlock = 250
-        charmPoints = 15
-        stars = 2
-    elif (beastiaryLevel == 'Medium'):
-        toKill = 1000
-        firstUnlock = 50
-        secondUnlock = 500
-        charmPoints = 25
-        stars = 3
-    elif (beastiaryLevel == 'Hard'):
-        toKill = 2500
-        firstUnlock = 100
-        secondUnlock = 1000
-        charmPoints = 50
-        stars = 4
-    elif (beastiaryLevel == 'Challenging'):
-        toKill = 5000
-        firstUnlock = 200
-        secondUnlock = 2000
-        charmPoints = 100
-        stars = 5
-else:
-    toKill = 5
-    firstUnlock = 2
-    secondUnlock = 5
-    if (beastiaryLevel == 'Harmless'):
-        charmPoints = 5
-        stars = 0
-    elif (beastiaryLevel == 'Trivial'):
-        charmPoints = 10
-        stars = 1
-    elif (beastiaryLevel == 'Easy'):
-        charmPoints = 30
-        stars = 2
-    elif (beastiaryLevel == 'Medium'):
-        charmPoints = 50
-        stars = 3
-    elif (beastiaryLevel == 'Hard'):
-        charmPoints = 100
-        stars = 4
-    elif (beastiaryLevel == 'Challenging'):
-        charmPoints = 200
-        stars = 5
+    if (beastiaryLevel != 'Very Rare'):
+        if (beastiaryLevel == 'Harmless'):
+            toKill = 25
+            firstUnlock = 5
+            secondUnlock = 10
+            charmPoints = 1
+            stars = 0
+        elif (beastiaryLevel == 'Trivial'):
+            toKill = 250
+            firstUnlock = 10
+            secondUnlock = 100
+            charmPoints = 5
+            stars = 1
+        elif (beastiaryLevel == 'Easy'):
+            toKill = 500
+            firstUnlock = 25
+            secondUnlock = 250
+            charmPoints = 15
+            stars = 2
+        elif (beastiaryLevel == 'Medium'):
+            toKill = 1000
+            firstUnlock = 50
+            secondUnlock = 500
+            charmPoints = 25
+            stars = 3
+        elif (beastiaryLevel == 'Hard'):
+            toKill = 2500
+            firstUnlock = 100
+            secondUnlock = 1000
+            charmPoints = 50
+            stars = 4
+        elif (beastiaryLevel == 'Challenging'):
+            toKill = 5000
+            firstUnlock = 200
+            secondUnlock = 2000
+            charmPoints = 100
+            stars = 5
+    else:
+        toKill = 5
+        firstUnlock = 2
+        secondUnlock = 5
+        if (beastiaryLevel == 'Harmless'):
+            charmPoints = 5
+            stars = 0
+        elif (beastiaryLevel == 'Trivial'):
+            charmPoints = 10
+            stars = 1
+        elif (beastiaryLevel == 'Easy'):
+            charmPoints = 30
+            stars = 2
+        elif (beastiaryLevel == 'Medium'):
+            charmPoints = 50
+            stars = 3
+        elif (beastiaryLevel == 'Hard'):
+            charmPoints = 100
+            stars = 4
+        elif (beastiaryLevel == 'Challenging'):
+            charmPoints = 200
+            stars = 5
 
-if (occurrence == 'Common'):
-    occurrenceLevel = 1
-elif (occurrence == 'Uncommon'):
-    occurrenceLevel = 2
-elif (occurrence == 'Rare'):
-    occurrenceLevel = 3
-elif (occurrence == 'Very Rare'):
-    occurrenceLevel = 4
+    if (occurrence == 'Common'):
+        occurrenceLevel = 0
+    elif (occurrence == 'Uncommon'):
+        occurrenceLevel = 1
+    elif (occurrence == 'Rare'):
+        occurrenceLevel = 2
+    elif (occurrence == 'Very Rare'):
+        occurrenceLevel = 3
 
 
-bRace = ''
-with open(monsterLoc) as file:
-    for line in file:
-        if (line.rstrip().startswith("\trace = ")):
-            bRace = line.rstrip()
+    bRace = ''
+    with open(monsterLoc) as file:
+        for line in file:
+            if (line.rstrip().startswith("\trace = ")):
+                bRace = line.rstrip()
 
-beastiary = 'monster.Bestiary = {\n'
-beastiary += '\tclass = "' + str(data['bestiaryclass']) + '",\n'
-beastiary += bRace + '\n'
-beastiary += '\ttoKill = ' + str(toKill) + ',\n'
-beastiary += '\tFirstUnlock = ' + str(firstUnlock) + ',\n'
-beastiary += '\tSecondUnlock = ' + str(secondUnlock) + ',\n'
-beastiary += '\tCharmsPoints = ' + str(charmPoints) + ',\n'
-beastiary += '\tStars = ' + str(stars) + ',\n'
-beastiary += '\tOccurence = ' + str(occurrenceLevel) + ',\n'
-beastiary += '\tLocations = "' + location + '"\n'
-beastiary += '}\n'
+    beastiary = 'monster.Bestiary = {\n'
+    beastiary += '\tclass = "' + str(data['bestiaryclass']) + '",\n'
+    beastiary += bRace + '\n'
+    beastiary += '\ttoKill = ' + str(toKill) + ',\n'
+    beastiary += '\tFirstUnlock = ' + str(firstUnlock) + ',\n'
+    beastiary += '\tSecondUnlock = ' + str(secondUnlock) + ',\n'
+    beastiary += '\tCharmsPoints = ' + str(charmPoints) + ',\n'
+    beastiary += '\tStars = ' + str(stars) + ',\n'
+    beastiary += '\tOccurence = ' + str(occurrenceLevel) + ',\n'
+    beastiary += '\tLocations = "' + location + '"\n'
+    beastiary += '}\n'
 
 
 ### HEALTH

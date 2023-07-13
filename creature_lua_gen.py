@@ -14,22 +14,22 @@ def format_abilities(str):
     return abilities
 
 def format_melee(template):
-    min = None
-    max = None
+    min = '0'
+    max = '0'
     for arguments in template.arguments:
         if arguments.name.lower() == '1':
             min, max = arguments.value.split('-')
     return {
-        'type': 'melee',
-        'min': min,
-        'max': max
+            'type': 'melee',
+            'min': min,
+            'max': max
     }
 
 def format_ability(template):
-    name = None
-    min = None
-    max = None
-    element = None
+    name = 'unknown'
+    min = '0'
+    max = '0'
+    element = 'unknown'
     for arguments in template.arguments:
         if arguments.name.lower() == '1':
             name = arguments.value
@@ -50,8 +50,8 @@ def format_ability(template):
     }
 
 def format_healing(template):
-    min = None
-    max = None
+    min = "0"
+    max = "0"
     for arguments in template.arguments:
         if arguments.name.lower() == 'range':
             min, max = arguments.value.split('-')

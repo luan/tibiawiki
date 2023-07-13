@@ -30,7 +30,7 @@ files.forEach((file) => {
 
 const issueList: { number: number; title: string }[] = JSON.parse(
   execSync(
-    `gh issue list --repo luan/tibiawiki -l content --limit 1000 -s open --json 'number,title'`
+    `gh issue list --repo luan/tibiawiki --limit 1000 -s open --json 'number,title'`
   ).toString()
 );
 
@@ -77,8 +77,6 @@ async function createIssues() {
   }
 }
 
-createIssues();
-
 // create issues for the isolated creatures
 async function createIsolatedIssues() {
   const issueTitle = `[auto] isolated creatures`;
@@ -112,5 +110,10 @@ async function createGroupsOf2() {
   }
 }
 
-createIsolatedIssues();
-createGroupsOf2();
+async function createAll() {
+  await createIssues();
+  await createIsolatedIssues();
+  await createGroupsOf2();
+}
+
+createAll();

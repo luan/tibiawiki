@@ -18,7 +18,10 @@ def format_melee(template):
     max = '0'
     for arguments in template.arguments:
         if arguments.name.lower() == '1':
-            min, max = arguments.value.split('-')
+            if '-' in arguments.value:
+                min, max = arguments.value.split('-')
+            else:
+                min = arguments.value
     return {
             'type': 'melee',
             'min': min,

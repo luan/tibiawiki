@@ -310,7 +310,13 @@ corpse = mCorpse + '\n'
 
 
 ### SPEED
-speed = 'monster.speed = ' + str(data['speed']) + '\n'
+if ('speed' in data):
+    speed = 'monster.speed = ' + str(data['speed']) + '\n'
+else:
+    with open(monsterLoc) as file:
+        for line in file:
+            if (line.rstrip().startswith("monster.speed = ")):
+                speed = line.rstrip() + '\n'
 
 
 ### MANA COST
@@ -584,9 +590,18 @@ with open(monsterLoc) as file:
             elif (lineStr.startswith('\tdefense =')):
                 defenses += lineStr + '\n'
             elif (lineStr.startswith('\tarmor')):
-                defenses += '\tarmor = ' + str(data['armor']) + ',\n'
+                if (data['armor'].isnumeric()):
+                    defenses += '\tarmor = ' + str(data['armor']) + ',\n'
+                else:
+                    with open(monsterLoc) as file:
+                        for line in file:
+                            lineStr = line.rstrip()
+                            if (lineStr.startswith('\tarmor =')):
+                                defenses += lineStr + '\n'
                 if ('mitigation' in data):
                     defenses += '\tmitigation = ' + str(data['mitigation']) + ',\n'
+                else:
+                    defenses += '--\tmitigation = ???,\n'
             else:
                 defenses += lineStr + '\n'
         if (lineStr.startswith("monster.defenses = ")):

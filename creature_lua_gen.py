@@ -319,6 +319,22 @@ else:
     manaCost = 'monster.manaCost = 0\n'
 
 
+### FACTION
+faction = ''
+with open(monsterLoc) as file:
+    for line in file:
+        if (line.rstrip().startswith("monster.faction = ")):
+            faction = line.rstrip() + '\n'
+
+
+### ENEMY FACTIONS
+enemyFactions = ''
+with open(monsterLoc) as file:
+    for line in file:
+        if (line.rstrip().startswith("monster.enemyFactions = ")):
+            enemyFactions = line.rstrip() + '\n'
+
+
 ### CHANGE TARGET
 changeTarget = ''
 
@@ -677,7 +693,7 @@ immunities += '}\n'
 register = 'mType:register(monster)\n'
 
 
-result = variables + "\n" + description + experience + outfit + "\n" + raceid + beastiary + "\n" + health + maxHealth + race + corpse + speed + manaCost + "\n" + changeTarget + "\n" + strategies + "\n" + flags + "\n" + light + "\n" + voices + "\n" + loot + "\n" + parsedAbilityList +attacks + "\n" + defenses + "\n" + reflects + resistances + "\n" + immunities + "\n" + register
+result = variables + "\n" + description + experience + outfit + "\n" + raceid + beastiary + "\n" + health + maxHealth + race + corpse + speed + manaCost + "\n" + faction + enemyFactions + "\n" + changeTarget + "\n" + strategies + "\n" + flags + "\n" + light + "\n" + voices + "\n" + loot + "\n" + parsedAbilityList +attacks + "\n" + defenses + "\n" + reflects + resistances + "\n" + immunities + "\n" + register
 
 f = open(str(monsterLoc), 'w')
 f.write(result)

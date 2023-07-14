@@ -102,7 +102,7 @@ def format_element(element):
       return 'COMBAT_PHYSICALDAMAGE'
 
 def format_ability_lua(ability):
-    return '--\t{name ="combat", interval = 2000, chance = 20, type = ' + format_element(ability['element']) + ', minDamage = -' + ability['min'] + ', maxDamage = -' + ability['max'] + ', range = 3, effect = <>, target = ?}, --' + ability['name'] + '\n'
+    return '--\t{name ="combat", interval = 2000, chance = 20, type = ' + format_element(ability['element']) + ', minDamage = -' + ability['min'] + ', maxDamage = -' + ability['max'] + ', range = ?, effect = <>, target = ?}, --' + ability['name'] + '\n'
 
 def format_healing_lua(ability):
     return '--\t{name ="healing", interval = 2000, chance = 20, minDamage = ' + ability['min'] + ', maxDamage = ' + ability['max'] + '},\n'

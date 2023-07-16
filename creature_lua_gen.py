@@ -468,12 +468,13 @@ canWalkOnFire = 'true'
 canWalkOnPoison = 'true'
 if ('walksthrough' in data):
     walkData = data['walksthrough'].lower()
-    if("fire" not in walkData):
-        canWalkOnFire = 'false'
-    if("poison" not in walkData):
-        canWalkOnPoison = 'false'
-    if('energy' not in walkData):
-        canWalkOnEnergy = 'false'
+    if "?" not in walkData:
+        if("fire" not in walkData):
+            canWalkOnFire = 'false'
+        if("poison" not in walkData):
+            canWalkOnPoison = 'false'
+        if('energy' not in walkData):
+            canWalkOnEnergy = 'false'
 
 if ('walksaround' in data):
     walkData = data['walksaround'].lower()

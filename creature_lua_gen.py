@@ -1,5 +1,17 @@
-import re, json, requests, os, sys
+import re, json, os, sys
 import wikitextparser as wtp
+import fnmatch
+
+def find_file(name, path):
+    for root, dirs, files in os.walk(path):
+        for file in files:
+            if fnmatch.fnmatchcase(file, name):
+                return os.path.join(root, file)
+
+    for dir in dirs:
+        found = find_file(name, os.path.join(root, dir))
+        if found:
+            return found
 
 def format_abilities(str):
     parsed = wtp.parse(str)
@@ -57,7 +69,14 @@ def format_healing(template):
     max = "0"
     for arguments in template.arguments:
         if arguments.name.lower() == 'range':
-            min, max = arguments.value.split('-')
+            if '-' in arguments.value:
+                min, max = arguments.value.split('-')
+            elif '~' in arguments.value:
+                val = int(arguments.value.replace('~', ''))
+                min, max = str(int(val*0.75)), str(val)
+            else:
+                min = arguments.value
+                max = arguments.value
     return {
         'type': 'healing',
         'min': min,
@@ -117,24 +136,35 @@ if(len(sys.argv) >= 3):
 else:
     creatureName = input('enter creature name: ')
 
-jsonFileName = str(creatureName)
-jsonFileName = jsonFileName.lower()
-luaFileName = jsonFileName
-luaFileName = luaFileName.replace(' ', '_')
-jsonFileName = jsonFileName.replace('_', ' ')
-jsonFileName = jsonFileName.title()
-jsonFileName = jsonFileName.replace(' ', '_')
+
+print('------------- BEGIN --------------------')
+print('creature name: ' + creatureName)
+
+jsonFileName = creatureName
+jsonFileName = jsonFileName.replace(' ', '_') + ".json"
+luaFileName = creatureName.lower()
+luaFileName = luaFileName.replace(' ', '_').replace('_(creature)', '')
 luaFileName = luaFileName + '.lua'
 
-url = 'https://raw.githubusercontent.com/luan/tibiawiki/main/data/' + str(jsonFileName) + '.json'
-resp = requests.get(url)
-data = resp.json()
+# url = 'https://raw.githubusercontent.com/luan/tibiawiki/main/data/' + str(jsonFileName) + '.json'
+# resp = requests.get(url)
+
+dir_path = os.path.dirname(os.path.realpath(__file__))
+data = None
+jsonLoc = find_file(jsonFileName, os.path.join(dir_path, 'data'))
+
+if not jsonLoc:
+    print('could not find json file for ' + jsonFileName)
+    sys.exit()
+
+with open(jsonLoc) as f:
+    data = json.load(f)
 
 fileLoc = sys.argv[1]
-monsterLoc = ''
-for root, dir, files, in os.walk(fileLoc):
-    if luaFileName in files:
-        monsterLoc = os.path.join(root, luaFileName)
+monsterLoc =  find_file(luaFileName, os.path.join(dir_path, fileLoc))
+if not monsterLoc:
+    print('could not find monster file for ' + luaFileName)
+    sys.exit()
 
 
 ### VARIABLES
@@ -144,7 +174,7 @@ variables += 'local monster = {}\n'
 
 ### DESCRIPTION
 description = 'monster.description = "'
-actualName = data['actualname']
+actualName = data.setdefault('actualname', data['name'])
 actualNameFirstLetter = actualName[0]
 
 if (actualNameFirstLetter == 'a' or actualNameFirstLetter == 'e' or actualNameFirstLetter == 'i' or actualNameFirstLetter == 'o' or actualNameFirstLetter == 'u'):
@@ -429,23 +459,12 @@ canWalkOnEnergy = 'false'
 canWalkOnFire = 'false'
 canWalkOnPoison = 'false'
 
-if (data['summon'].isnumeric()):
-    summonable = 'true'
-
-if (data['convince'].isnumeric()):
-    convince = 'true'
-
-if (data['pushable'].lower() == 'yes'):
-    pushable = 'true'
-
-if (data['isboss'].lower() == 'yes'):
-    isBoss = 'true'
-
-if (data['illusionable'].lower() == 'yes'):
-    illusionable = 'true'
-
-if (data['pushobjects'].lower() == 'no'):
-    pushObjects = 'false'
+summonable = 'true' if data.setdefault('summon', '0').isnumeric() else 'false'
+convince = 'true' if data.setdefault('convince', '0').isnumeric() else 'false'
+pushable = 'true' if data.setdefault('pushable', 'no').lower() == 'yes' else 'false'
+isBoss = 'true' if data.setdefault('isboss', 'no').lower() == 'yes' else 'false'
+illusionable = 'true' if data.setdefault('illusionable', 'no').lower() == 'yes' else 'false'
+pushObjects = 'false' if data.setdefault('pushobjects', 'yes').lower() == 'no' else 'true'
 
 if ('walksthrough' in data):
     walkData = data['walksthrough'].lower()
@@ -642,7 +661,7 @@ with open(monsterLoc) as file:
             elif (lineStr.startswith('\tdefense =')):
                 defenses += lineStr + '\n'
             elif (lineStr.startswith('\tarmor')):
-                if (data['armor'].isnumeric()):
+                if (data.setdefault('armor', '0').isnumeric()):
                     defenses += '\tarmor = ' + str(data['armor']) + ',\n'
                 else:
                     with open(monsterLoc) as file:
@@ -733,13 +752,8 @@ resistances += '}\n'
 
 
 ### IMMUNITIES
-paralyzeImmunity = 'true'
-invisibleImmunity = 'true'
-if (data['paraimmune'] == 'no'):
-    paralyzeImmunity = 'false'
-
-if(data['senseinvis'] == 'no'):
-    invisibleImmunity = 'false'
+paralyzeImmunity = 'false' if data.setdefault('paraimmune', 'yes').lower() == 'no' else 'true'
+invisibleImmunity = 'false' if data.setdefault('senseinvis', 'yes').lower() == 'no' else 'true'
 
 outfitImmunity = ''
 bleed = ''

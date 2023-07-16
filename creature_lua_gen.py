@@ -107,11 +107,17 @@ def format_ability_lua(ability):
 def format_healing_lua(ability):
     return '--\t{name ="healing", interval = 2000, chance = 20, minDamage = ' + ability['min'] + ', maxDamage = ' + ability['max'] + '},\n'
 
-if(len(sys.argv) != 2):
+if(len(sys.argv) < 2):
     print("Usage: python creature_lua_gen.py <canary monster directory>")
     sys.exit()
 
-jsonFileName = str(input('enter creature name: '))
+creatureName = ''
+if(len(sys.argv) >= 3):
+    creatureName = sys.argv[2]
+else:
+    creatureName = input('enter creature name: ')
+
+jsonFileName = str(creatureName)
 jsonFileName = jsonFileName.lower()
 luaFileName = jsonFileName
 luaFileName = luaFileName.replace(' ', '_')

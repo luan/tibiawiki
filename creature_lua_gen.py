@@ -148,7 +148,10 @@ else:
 description += actualName + '"\n'
 
 ### EXPERIENCE
-experience = 'monster.experience = ' + str(data['exp']) + '\n'
+if ('experience' in data):
+    experience = 'monster.experience = ' + str(data['exp']) + '\n'
+else:
+    experience = 'monster.experience = 0\n'
 
 
 ### OUTFIT
@@ -276,17 +279,29 @@ if ('bestiarylevel' in data):
     beastiary += '\tSecondUnlock = ' + str(secondUnlock) + ',\n'
     beastiary += '\tCharmsPoints = ' + str(charmPoints) + ',\n'
     beastiary += '\tStars = ' + str(stars) + ',\n'
-    beastiary += '\tOccurence = ' + str(occurrenceLevel) + ',\n'
+    beastiary += '\tOccurrence = ' + str(occurrenceLevel) + ',\n'
     beastiary += '\tLocations = "' + location + '"\n'
     beastiary += '}\n'
 
 
 ### HEALTH
-health = 'monster.health = ' + str(data['hp']) + '\n'
+if ('hp' in data):
+    health = 'monster.health = ' + str(data['hp']) + '\n'
+else: 
+    with open(monsterLoc) as file:
+        for line in file:
+            if (line.rstrip().startswith("monster.health = ")):
+                health = line.rstrip() + '\n'
 
 
 ### MAX HEALTH
-maxHealth = 'monster.maxHealth = ' + str(data['hp']) + '\n'
+if 'hp' in data:
+    maxHealth = 'monster.maxHealth = ' + str(data['hp']) + '\n'
+else:
+    with open(monsterLoc) as file:
+        for line in file:
+            if (line.rstrip().startswith("monster.maxHealth = ")):
+                maxHealth = line.rstrip() + '\n'
 
 
 ### RACE
@@ -396,7 +411,14 @@ pushable = 'false'
 isBoss = 'false'
 illusionable = 'false'
 pushObjects = 'false'
-runsAt = data['hp']
+if 'hp' in data:
+    runsAt = data['hp']
+else:
+    with open(monsterLoc) as file:
+        for line in file:
+            if (line.rstrip().startswith("\trunHealth = ")):
+                runsAt = line.rstrip()
+            
 canWalkOnEnergy = 'false'
 canWalkOnFire = 'false'
 canWalkOnPoison = 'false'
@@ -510,6 +532,26 @@ light = 'monster.light = {\n'
 light += '\tlevel = ' + str(lightLevel) + ',\n'
 light += '\tcolor = ' + str(lightColor) + ',\n'
 light += '}\n'
+
+
+### SUMMONS
+summons = ''
+with open(monsterLoc) as file:
+    braces = 0
+    copying = False
+    for line in file:
+        lineStr = line.rstrip()
+        if (copying):
+            braces += lineStr.count('{')
+            braces -= lineStr.count('}')
+            summons += lineStr + '\n'
+            if (braces < 1):
+                copying = False
+                break
+        if (lineStr.startswith("monster.summon = ")):
+            braces += 1
+            copying = True
+            summons += lineStr + '\n'
 
 
 ### VOICES
@@ -711,7 +753,7 @@ immunities += '}\n'
 register = 'mType:register(monster)\n'
 
 
-result = variables + "\n" + description + experience + outfit + "\n" + raceid + beastiary + "\n" + health + maxHealth + race + corpse + speed + manaCost + "\n" + faction + enemyFactions + "\n" + changeTarget + "\n" + strategies + "\n" + flags + "\n" + light + "\n" + voices + "\n" + loot + "\n" + parsedAbilityList +attacks + "\n" + defenses + "\n" + reflects + resistances + "\n" + immunities + "\n" + register
+result = variables + "\n" + description + experience + outfit + "\n" + raceid + beastiary + "\n" + health + maxHealth + race + corpse + speed + manaCost + "\n" + faction + enemyFactions + "\n" + changeTarget + "\n" + strategies + "\n" + flags + "\n" + light + "\n" + summons + "\n" + voices + "\n" + loot + "\n" + parsedAbilityList +attacks + "\n" + defenses + "\n" + reflects + resistances + "\n" + immunities + "\n" + register
 
 f = open(str(monsterLoc), 'w')
 f.write(result)

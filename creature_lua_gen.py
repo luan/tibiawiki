@@ -733,13 +733,13 @@ resistances += '}\n'
 
 
 ### IMMUNITIES
-paralyzeImmunity = 'false'
-invisibleImmunity = 'false'
-if (data['paraimmune'] == 'yes'):
-    paralyzeImmunity = 'true'
+paralyzeImmunity = 'true'
+invisibleImmunity = 'true'
+if (data['paraimmune'] == 'no'):
+    paralyzeImmunity = 'false'
 
-if(data['senseinvis'] == 'yes'):
-    invisibleImmunity = 'true'
+if(data['senseinvis'] == 'no'):
+    invisibleImmunity = 'false'
 
 outfitImmunity = ''
 bleed = ''

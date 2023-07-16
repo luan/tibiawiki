@@ -455,9 +455,6 @@ else:
             if (line.rstrip().startswith("\trunHealth = ")):
                 runsAt = line.rstrip()
             
-canWalkOnEnergy = 'false'
-canWalkOnFire = 'false'
-canWalkOnPoison = 'false'
 
 summonable = 'true' if data.setdefault('summon', '0').isnumeric() else 'false'
 convince = 'true' if data.setdefault('convince', '0').isnumeric() else 'false'
@@ -466,15 +463,26 @@ isBoss = 'true' if data.setdefault('isboss', 'no').lower() == 'yes' else 'false'
 illusionable = 'true' if data.setdefault('illusionable', 'no').lower() == 'yes' else 'false'
 pushObjects = 'false' if data.setdefault('pushobjects', 'yes').lower() == 'no' else 'true'
 
+canWalkOnEnergy = 'true'
+canWalkOnFire = 'true'
+canWalkOnPoison = 'true'
 if ('walksthrough' in data):
     walkData = data['walksthrough'].lower()
-    if("fire" in walkData):
-        canWalkOnFire = 'true'
-    if("poison" in walkData):
-        canWalkOnPoison = 'true'
-    if('energy' in walkData):
-        canWalkOnEnergy = 'true'
+    if("fire" not in walkData):
+        canWalkOnFire = 'false'
+    if("poison" not in walkData):
+        canWalkOnPoison = 'false'
+    if('energy' not in walkData):
+        canWalkOnEnergy = 'false'
 
+if ('walksaround' in data):
+    walkData = data['walksaround'].lower()
+    if("fire" in walkData):
+        canWalkOnFire = 'false'
+    if("poison" in walkData):
+        canWalkOnPoison = 'false'
+    if('energy' in walkData):
+        canWalkOnEnergy = 'false'
 
 
 attackable = ''

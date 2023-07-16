@@ -148,7 +148,7 @@ else:
 description += actualName + '"\n'
 
 ### EXPERIENCE
-if ('experience' in data):
+if ('exp' in data):
     experience = 'monster.experience = ' + str(data['exp']) + '\n'
 else:
     experience = 'monster.experience = 0\n'
@@ -410,7 +410,7 @@ convince = 'false'
 pushable = 'false'
 isBoss = 'false'
 illusionable = 'false'
-pushObjects = 'false'
+pushObjects = 'true'
 if 'hp' in data:
     runsAt = data['hp']
 else:
@@ -438,8 +438,8 @@ if (data['isboss'].lower() == 'yes'):
 if (data['illusionable'].lower() == 'yes'):
     illusionable = 'true'
 
-if (data['pushobjects'].lower() == 'yes'):
-    pushObjects = 'true'
+if (data['pushobjects'].lower() == 'no'):
+    pushObjects = 'false'
 
 if ('walksthrough' in data):
     walkData = data['walksthrough'].lower()

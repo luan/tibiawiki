@@ -2,6 +2,9 @@ import re, json, os, sys
 import wikitextparser as wtp
 import fnmatch
 
+def remove_consecutive_linebreaks(text):
+  return re.sub(r'\n\n+', '\n\n', text)
+
 def find_file(name, path):
     for root, dirs, files in os.walk(path):
         for file in files:
@@ -30,10 +33,15 @@ def format_melee(template):
     max = '0'
     for arguments in template.arguments:
         if arguments.name.lower() == '1':
-            if '-' in arguments.value:
-                min, max = arguments.value.split('-')
-            else:
+            try:
+                if '-' in arguments.value:
+                    min, max = arguments.value.split('-')
+                else:
+                    min = arguments.value
+                    max = arguments.value
+            except:
                 min = arguments.value
+                max = arguments.value
     return {
             'type': 'melee',
             'min': min,
@@ -49,11 +57,15 @@ def format_ability(template):
         if arguments.name.lower() == '1':
             name = arguments.value
         elif arguments.name.lower() == '2':
-            if '-' in arguments.value:
-              min, max = arguments.value.split('-')
-            else:
-              min = arguments.value
-              max = arguments.value
+            try:
+                if '-' in arguments.value:
+                    min, max = arguments.value.split('-')
+                else:
+                    min = arguments.value
+                    max = arguments.value
+            except:
+                min = arguments.value
+                max = arguments.value
         elif arguments.name.lower() == 'element':
             element = arguments.value
     return {
@@ -69,12 +81,16 @@ def format_healing(template):
     max = "0"
     for arguments in template.arguments:
         if arguments.name.lower() == 'range':
-            if '-' in arguments.value:
-                min, max = arguments.value.split('-')
-            elif '~' in arguments.value:
-                val = int(arguments.value.replace('~', ''))
-                min, max = str(int(val*0.75)), str(val)
-            else:
+            try:
+                if '-' in arguments.value:
+                    min, max = arguments.value.split('-')
+                elif '~' in arguments.value:
+                    val = int(arguments.value.replace('~', ''))
+                    min, max = str(int(val*0.75)), str(val)
+                else:
+                    min = arguments.value
+                    max = arguments.value
+            except:
                 min = arguments.value
                 max = arguments.value
     return {
@@ -84,7 +100,8 @@ def format_healing(template):
     }
 
 def abilities_as_lua(abilities):
-    lua = '--monster.attacks = {\n'
+    lua = '-- TODO: monster-abilities\n'
+    lua += '--monster.attacks = {\n'
     for ability in abilities:
         if ability['type'] == 'melee':
             lua += format_melee_lua(ability)
@@ -136,14 +153,10 @@ if(len(sys.argv) >= 3):
 else:
     creatureName = input('enter creature name: ')
 
-
-print('------------- BEGIN --------------------')
-print('creature name: ' + creatureName)
-
 jsonFileName = creatureName
 jsonFileName = jsonFileName.replace(' ', '_') + ".json"
 luaFileName = creatureName.lower()
-luaFileName = luaFileName.replace(' ', '_').replace('_(creature)', '')
+luaFileName = luaFileName.replace(' ', '_').replace('_(creature)', '').replace("'", "")
 luaFileName = luaFileName + '.lua'
 
 # url = 'https://raw.githubusercontent.com/luan/tibiawiki/main/data/' + str(jsonFileName) + '.json'
@@ -154,7 +167,6 @@ data = None
 jsonLoc = find_file(jsonFileName, os.path.join(dir_path, 'data'))
 
 if not jsonLoc:
-    print('could not find json file for ' + jsonFileName)
     sys.exit()
 
 with open(jsonLoc) as f:
@@ -163,9 +175,10 @@ with open(jsonLoc) as f:
 fileLoc = sys.argv[1]
 monsterLoc =  find_file(luaFileName, os.path.join(dir_path, fileLoc))
 if not monsterLoc:
-    print('could not find monster file for ' + luaFileName)
+    print(creatureName)
     sys.exit()
 
+isBoss = data.setdefault('isboss', 'no') == 'yes'
 
 ### VARIABLES
 variables = 'local mType = Game.createMonsterType("' + str(data['name']) + '")\n'
@@ -177,10 +190,11 @@ description = 'monster.description = "'
 actualName = data.setdefault('actualname', data['name'])
 actualNameFirstLetter = actualName[0]
 
-if (actualNameFirstLetter == 'a' or actualNameFirstLetter == 'e' or actualNameFirstLetter == 'i' or actualNameFirstLetter == 'o' or actualNameFirstLetter == 'u'):
-    description += 'an '
-else:
-    description += 'a '
+if not isBoss:
+    if (actualNameFirstLetter == 'a' or actualNameFirstLetter == 'e' or actualNameFirstLetter == 'i' or actualNameFirstLetter == 'o' or actualNameFirstLetter == 'u'):
+        description += 'an '
+    else:
+        description += 'a '
 description += actualName + '"\n'
 
 ### EXPERIENCE
@@ -211,113 +225,142 @@ with open(monsterLoc) as file:
 
 outfit += '}\n'
 
-### RACEID
+bosstiary = ''
 raceid = ''
-if ('race_id' in data):
-    raceid = 'monster.raceId = ' + str(data['race_id']) + '\n'
-
-
-### BESTIARY
 beastiary = ''
-if ('bestiarylevel' in data):
-    beastiaryLevel = data['bestiarylevel']
-    toKill = 0
-    firstUnlock = 0
-    secondUnlock = 0
-    charmPoints = 0
-    stars = 0
-    occurrence = data['occurrence']
-    occurrenceLevel = 0
-    location = data['location']
-    location = re.sub(r'[^A-Za-z0-9 ,.-]+', '', location)
 
-    if (beastiaryLevel != 'Very Rare'):
-        if (beastiaryLevel == 'Harmless'):
-            toKill = 25
-            firstUnlock = 5
-            secondUnlock = 10
-            charmPoints = 1
-            stars = 0
-        elif (beastiaryLevel == 'Trivial'):
-            toKill = 250
-            firstUnlock = 10
-            secondUnlock = 100
-            charmPoints = 5
-            stars = 1
-        elif (beastiaryLevel == 'Easy'):
-            toKill = 500
-            firstUnlock = 25
-            secondUnlock = 250
-            charmPoints = 15
-            stars = 2
-        elif (beastiaryLevel == 'Medium'):
-            toKill = 1000
-            firstUnlock = 50
-            secondUnlock = 500
-            charmPoints = 25
-            stars = 3
-        elif (beastiaryLevel == 'Hard'):
-            toKill = 2500
-            firstUnlock = 100
-            secondUnlock = 1000
-            charmPoints = 50
-            stars = 4
-        elif (beastiaryLevel == 'Challenging'):
-            toKill = 5000
-            firstUnlock = 200
-            secondUnlock = 2000
-            charmPoints = 100
-            stars = 5
-    else:
-        toKill = 5
-        firstUnlock = 2
-        secondUnlock = 5
-        if (beastiaryLevel == 'Harmless'):
-            charmPoints = 5
-            stars = 0
-        elif (beastiaryLevel == 'Trivial'):
-            charmPoints = 10
-            stars = 1
-        elif (beastiaryLevel == 'Easy'):
-            charmPoints = 30
-            stars = 2
-        elif (beastiaryLevel == 'Medium'):
-            charmPoints = 50
-            stars = 3
-        elif (beastiaryLevel == 'Hard'):
-            charmPoints = 100
-            stars = 4
-        elif (beastiaryLevel == 'Challenging'):
-            charmPoints = 200
-            stars = 5
+if isBoss:
+    if 'race_id' in data:
+        ### BOSSTIARY
+        bossid = data['race_id']
+        rarity = 'RARITY_' + data.setdefault('bosstiaryclass', 'Archfoe').upper()
+        storageCooldown = None
+        
 
-    if (occurrence == 'Common'):
+        # get storageCooldown value from lua file
+        with open(monsterLoc) as file:
+            copying = False
+            braces = 0
+            for line in file:
+                if 'storageCooldown' in line:
+                    storageCooldown = line.split('=')[1].strip()
+                    break
+
+        bosstiary = 'monster.bosstiary = {\n'
+        bosstiary += '\tbossRaceId = ' + str(bossid) + ',\n'
+        bosstiary += '\trarity = ' + rarity + ',\n'
+        if storageCooldown:
+            bosstiary += '\tstorageCooldown = ' + storageCooldown + ',\n'
+        bosstiary += '}\n'
+
+else:
+    ### RACEID
+    raceid = ''
+    if ('race_id' in data):
+        raceid = 'monster.raceId = ' + str(data['race_id']) + '\n'
+
+
+    ### BESTIARY
+    beastiary = ''
+    if ('bestiarylevel' in data):
+        beastiaryLevel = data['bestiarylevel']
+        toKill = 0
+        firstUnlock = 0
+        secondUnlock = 0
+        charmPoints = 0
+        stars = 0
+        occurrence = data['occurrence']
         occurrenceLevel = 0
-    elif (occurrence == 'Uncommon'):
-        occurrenceLevel = 1
-    elif (occurrence == 'Rare'):
-        occurrenceLevel = 2
-    elif (occurrence == 'Very Rare'):
-        occurrenceLevel = 3
+        location = data.setdefault('location', '')
+        location = re.sub(r'[^A-Za-z0-9 ,.-]+', '', location)
+
+        if (beastiaryLevel != 'Very Rare'):
+            if (beastiaryLevel == 'Harmless'):
+                toKill = 25
+                firstUnlock = 5
+                secondUnlock = 10
+                charmPoints = 1
+                stars = 0
+            elif (beastiaryLevel == 'Trivial'):
+                toKill = 250
+                firstUnlock = 10
+                secondUnlock = 100
+                charmPoints = 5
+                stars = 1
+            elif (beastiaryLevel == 'Easy'):
+                toKill = 500
+                firstUnlock = 25
+                secondUnlock = 250
+                charmPoints = 15
+                stars = 2
+            elif (beastiaryLevel == 'Medium'):
+                toKill = 1000
+                firstUnlock = 50
+                secondUnlock = 500
+                charmPoints = 25
+                stars = 3
+            elif (beastiaryLevel == 'Hard'):
+                toKill = 2500
+                firstUnlock = 100
+                secondUnlock = 1000
+                charmPoints = 50
+                stars = 4
+            elif (beastiaryLevel == 'Challenging'):
+                toKill = 5000
+                firstUnlock = 200
+                secondUnlock = 2000
+                charmPoints = 100
+                stars = 5
+        else:
+            toKill = 5
+            firstUnlock = 2
+            secondUnlock = 5
+            if (beastiaryLevel == 'Harmless'):
+                charmPoints = 5
+                stars = 0
+            elif (beastiaryLevel == 'Trivial'):
+                charmPoints = 10
+                stars = 1
+            elif (beastiaryLevel == 'Easy'):
+                charmPoints = 30
+                stars = 2
+            elif (beastiaryLevel == 'Medium'):
+                charmPoints = 50
+                stars = 3
+            elif (beastiaryLevel == 'Hard'):
+                charmPoints = 100
+                stars = 4
+            elif (beastiaryLevel == 'Challenging'):
+                charmPoints = 200
+                stars = 5
+
+        if (occurrence == 'Common'):
+            occurrenceLevel = 0
+        elif (occurrence == 'Uncommon'):
+            occurrenceLevel = 1
+        elif (occurrence == 'Rare'):
+            occurrenceLevel = 2
+        elif (occurrence == 'Very Rare'):
+            occurrenceLevel = 3
 
 
-    bRace = ''
-    with open(monsterLoc) as file:
-        for line in file:
-            if (line.rstrip().startswith("\trace = ")):
-                bRace = line.rstrip()
+        bRace = ''
+        with open(monsterLoc) as file:
+            for line in file:
+                if (line.rstrip().startswith("\trace = ")):
+                    bRace = line.rstrip()
 
-    beastiary = 'monster.Bestiary = {\n'
-    beastiary += '\tclass = "' + str(data['bestiaryclass']) + '",\n'
-    beastiary += bRace + '\n'
-    beastiary += '\ttoKill = ' + str(toKill) + ',\n'
-    beastiary += '\tFirstUnlock = ' + str(firstUnlock) + ',\n'
-    beastiary += '\tSecondUnlock = ' + str(secondUnlock) + ',\n'
-    beastiary += '\tCharmsPoints = ' + str(charmPoints) + ',\n'
-    beastiary += '\tStars = ' + str(stars) + ',\n'
-    beastiary += '\tOccurrence = ' + str(occurrenceLevel) + ',\n'
-    beastiary += '\tLocations = "' + location + '"\n'
-    beastiary += '}\n'
+        beastiary = 'monster.Bestiary = {\n'
+        beastiary += '\tclass = "' + str(data['bestiaryclass']) + '",\n'
+        beastiary += bRace + '\n'
+        beastiary += '\ttoKill = ' + str(toKill) + ',\n'
+        beastiary += '\tFirstUnlock = ' + str(firstUnlock) + ',\n'
+        beastiary += '\tSecondUnlock = ' + str(secondUnlock) + ',\n'
+        beastiary += '\tCharmsPoints = ' + str(charmPoints) + ',\n'
+        beastiary += '\tStars = ' + str(stars) + ',\n'
+        beastiary += '\tOccurrence = ' + str(occurrenceLevel) + ',\n'
+        beastiary += '\tLocations = "' + location + '"\n'
+        beastiary += '}\n'
 
 
 ### HEALTH
@@ -589,7 +632,7 @@ with open(monsterLoc) as file:
 
 
 ### VOICES
-voiceLines = data['sounds']
+voiceLines = data.setdefault('sounds', [])
 voices = 'monster.voices = {\n'
 voices += '\tinterval = 5000,\n'
 voices += '\tchance = 10,\n'
@@ -629,27 +672,27 @@ loot += '}\n'
 
 ### ATTACKS  add abilities from json as comments to make visual check easier
 attacks = ''
-
-parsedAbilityList = abilities_as_lua(format_abilities(str(data['abilities'])))
-parsedAbilityList += '\n'
-with open(monsterLoc) as file:
-    copying = False
-    braces = 0
-    for line in file:
-        lineStr = line.rstrip()
-        if (copying):
-            braces += lineStr.count('{')
-            braces -= lineStr.count('}')
-            if (braces < 1):
-                copying = False
+if ('abilities' in data):
+    parsedAbilityList = abilities_as_lua(format_abilities(str(data['abilities'])))
+    parsedAbilityList += '\n'
+    with open(monsterLoc) as file:
+        copying = False
+        braces = 0
+        for line in file:
+            lineStr = line.rstrip()
+            if (copying):
+                braces += lineStr.count('{')
+                braces -= lineStr.count('}')
+                if (braces < 1):
+                    copying = False
+                    attacks += lineStr + '\n'
+                    break
+                else: 
+                    attacks += lineStr + '\n'
+            if (lineStr.startswith("monster.attacks = ")):
+                copying = True
+                braces += 1
                 attacks += lineStr + '\n'
-                break
-            else: 
-                attacks += lineStr + '\n'
-        if (lineStr.startswith("monster.attacks = ")):
-            copying = True
-            braces += 1
-            attacks += lineStr + '\n'
 
 
 ### DEFENSES
@@ -720,7 +763,7 @@ physicalResistance = data["physicalDmgMod"]
 energyResistance = data["energyDmgMod"]
 earthResistance = data["earthDmgMod"]
 fireResistance = data["fireDmgMod"]
-lifeDrainResistance = data["hpDrainDmgMod"]
+lifeDrainResistance = data.setdefault("hpDrainDmgMod", "0")
 drownDmgResistance = data["drownDmgMod"]
 iceResistance = data["iceDmgMod"]
 holyResistance = data["holyDmgMod"]
@@ -781,13 +824,31 @@ immunities += '\t{type = "invisible", condition = ' + invisibleImmunity + '},\n'
 immunities += bleed
 immunities += '}\n'
 
+### CALLBACKS
+
+callbacks = ''
+
+# copy callbacks from original file
+with open(monsterLoc) as file:
+    copying = False
+    for line in file:
+        lineStr = line.rstrip()
+        if copying:
+            if lineStr.startswith("mType:register"):
+                copying = False
+                break
+            callbacks += lineStr + '\n'
+        elif (lineStr.startswith("mType.on")):
+            braces += 1
+            copying = True
+            callbacks += lineStr + '\n'
 
 ### REGISTER
 register = 'mType:register(monster)\n'
 
 
-result = variables + "\n" + description + experience + outfit + "\n" + raceid + beastiary + "\n" + health + maxHealth + race + corpse + speed + manaCost + "\n" + faction + enemyFactions + "\n" + changeTarget + "\n" + strategies + "\n" + flags + "\n" + light + "\n" + summons + "\n" + voices + "\n" + loot + "\n" + parsedAbilityList +attacks + "\n" + defenses + "\n" + reflects + resistances + "\n" + immunities + "\n" + register
+result = variables + "\n" + description + experience + outfit + "\n" + bosstiary + raceid + beastiary + "\n" + health + maxHealth + race + corpse + speed + manaCost + "\n" + faction + enemyFactions + "\n" + changeTarget + "\n" + strategies + "\n" + flags + "\n" + light + "\n" + summons + "\n" + voices + "\n" + loot + "\n" + parsedAbilityList +attacks + "\n" + defenses + "\n" + reflects + resistances + "\n" + immunities + "\n" + callbacks + "\n" + register
 
 f = open(str(monsterLoc), 'w')
-f.write(result)
+f.write(remove_consecutive_linebreaks(result))
 f.close()

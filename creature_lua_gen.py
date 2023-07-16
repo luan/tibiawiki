@@ -600,18 +600,22 @@ parsedAbilityList = abilities_as_lua(format_abilities(str(data['abilities'])))
 parsedAbilityList += '\n'
 with open(monsterLoc) as file:
     copying = False
+    braces = 0
     for line in file:
         lineStr = line.rstrip()
         if (copying):
-            if (lineStr.startswith('}')):
+            braces += lineStr.count('{')
+            braces -= lineStr.count('}')
+            if (braces < 1):
                 copying = False
+                attacks += lineStr + '\n'
+                break
             else: 
                 attacks += lineStr + '\n'
         if (lineStr.startswith("monster.attacks = ")):
             copying = True
+            braces += 1
             attacks += lineStr + '\n'
-
-attacks += '}\n'
 
 
 ### DEFENSES
